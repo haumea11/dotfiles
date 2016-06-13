@@ -1,0 +1,81 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.73.69 with SMTP id w66csp2449807oia;
+        Mon, 11 Jan 2016 16:15:22 -0800 (PST)
+X-Received: by 10.194.79.201 with SMTP id l9mr153489886wjx.151.1452557722292;
+        Mon, 11 Jan 2016 16:15:22 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22b.google.com (mail-wm0-x22b.google.com. [2a00:1450:400c:c09::22b])
+        by mx.google.com with ESMTPS id y65si24809605wmh.32.2016.01.11.16.15.22
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Jan 2016 16:15:22 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) client-ip=2a00:1450:400c:c09::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x22b.google.com with SMTP id f206so282452167wmf.0
+        for <kuiperhaumea@gmail.com>; Mon, 11 Jan 2016 16:15:22 -0800 (PST)
+X-Received: by 10.194.86.71 with SMTP id n7mr130940568wjz.107.1452557722022;
+        Mon, 11 Jan 2016 16:15:22 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewiczjohn@gmail.com
+Received: by 10.28.221.69 with SMTP id u66csp2244108wmg;
+        Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+X-Received: by 10.50.171.225 with SMTP id ax1mr13764321igc.61.1452557720798;
+        Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+Return-Path: <glynn.karen@gmail.com>
+Received: from mail-ig0-x231.google.com (mail-ig0-x231.google.com. [2607:f8b0:4001:c05::231])
+        by mx.google.com with ESMTPS id y3si26443066igl.73.2016.01.11.16.15.20
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+Received-SPF: pass (google.com: domain of glynn.karen@gmail.com designates 2607:f8b0:4001:c05::231 as permitted sender) client-ip=2607:f8b0:4001:c05::231;
+Received: by mail-ig0-x231.google.com with SMTP id z14so106776756igp.1;
+        Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=aPVbIFYoqaBDOqMXcg9qP+nk7D20S576VK8k22NF99Y=;
+        b=qjdTPZEqSyZfUd1JVALPYP7mcRrjc0Zyl5Vyp3/Jv3X6AjosWXwtUuGnBJGQjQR+sP
+         7iq6riHDQLWNqwglC3iTGNi4QAAYU2/TY3XeKg7LT6QhHuPuCa67hnyvgoHxugt7+lNE
+         2Ibz2Zh4RiQnhnxVE0DKBNWTPqleJgtxnl0owjRDYsfRRFM/7LS8Xu5eklbhW5BxhY6l
+         fqKFhWgaOuRA+UkrnyabDQqNibLeLEKnO0KQdsCXBNpTnGcVYxBidYdQ+9e/MSxi03dz
+         LvEnSBTvCpjotwLYh6OcGD5ZElesmqC2MZxzr6ayFRrsHIzJnDXiJFfH8CSM0uZPXYmv
+         cg0g==
+MIME-Version: 1.0
+X-Received: by 10.50.61.98 with SMTP id o2mr14538479igr.79.1452557720350; Mon,
+ 11 Jan 2016 16:15:20 -0800 (PST)
+Received: by 10.107.140.7 with HTTP; Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+Received: by 10.107.140.7 with HTTP; Mon, 11 Jan 2016 16:15:20 -0800 (PST)
+Date: Mon, 11 Jan 2016 18:15:20 -0600
+Message-ID: <CAAjNtfnx+cxHFcoQJ=6Tq-s=QW4nb+arc_pi0oEtpFR=NrO1MA@mail.gmail.com>
+Subject: R.p
+From: Karen Glynn <glynn.karen@gmail.com>
+To: Shannon Markiewicz <shannon.markiewicz@gmail.com>, 
+	John Markiewicz <markiewiczjohn@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1134958af010ae052917f268
+
+--001a1134958af010ae052917f268
+Content-Type: text/plain; charset=UTF-8
+
+Hi Shannon and John,
+
+Which version of Raspberry Pi would you recommend for me? for Baz?
+
+John, congrats on earning the lead in the play. I can't wait to see the
+performance. You will be terrific!
+
+All kinds of hugs, kisses, and love,
+Karen, aka Gammer
+
+--001a1134958af010ae052917f268
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">Hi Shannon and John,</p>
+<p dir="ltr">Which version of Raspberry Pi would you recommend for me? for Baz?</p>
+<p dir="ltr">John, congrats on earning the lead in the play. I can&#39;t wait to see the performance. You will be terrific!</p>
+<p dir="ltr">All kinds of hugs, kisses, and love,<br>
+Karen, aka Gammer</p>
+
+--001a1134958af010ae052917f268--

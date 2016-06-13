@@ -1,0 +1,2603 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1844748oid;
+        Mon, 6 Jul 2015 12:19:40 -0700 (PDT)
+X-Received: by 10.140.150.11 with SMTP id 11mr776609qhw.53.1436210380384;
+        Mon, 06 Jul 2015 12:19:40 -0700 (PDT)
+Return-Path: <s-2dc749psybzr3rb3ry9ymkq3ynaefik0hfu0p8oweeyi8u82yc67qag4@bounce.linkedin.com>
+Received: from mailb-de.linkedin.com (mailb-de.linkedin.com. [108.174.6.157])
+        by mx.google.com with ESMTPS id g124si21927236qhc.60.2015.07.06.12.19.39
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 06 Jul 2015 12:19:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of s-2dc749psybzr3rb3ry9ymkq3ynaefik0hfu0p8oweeyi8u82yc67qag4@bounce.linkedin.com designates 108.174.6.157 as permitted sender) client-ip=108.174.6.157;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of s-2dc749psybzr3rb3ry9ymkq3ynaefik0hfu0p8oweeyi8u82yc67qag4@bounce.linkedin.com designates 108.174.6.157 as permitted sender) smtp.mail=s-2dc749psybzr3rb3ry9ymkq3ynaefik0hfu0p8oweeyi8u82yc67qag4@bounce.linkedin.com;
+       dkim=pass header.i=@linkedin.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=linkedin.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=linkedin.com;
+	s=proddkim1024; t=1436210377;
+	bh=08sqyONYYh7j0ud/vhSN3K1DkjWtaOozYhepY6grysk=;
+	h=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:
+	 X-LinkedIn-Template:X-LinkedIn-fbl;
+	b=dbNPVEOwxt28WIcRqAHyfEmNHV6Fp9YImA4T7l0FLvSP5gLWvP+BCVX+X+vdM/lm5
+	 JO6gponT+IRzOwTldKwJk0Sov3RaYi9vO2fLEa0wCurG30YIQi5dMNfk/X89QLS0U6
+	 XQTGfFMFidKnjZqSGgV8LdEV08qYDP+cHXegi0N8=
+From: LinkedIn <jobs-listings@linkedin.com>
+Message-ID: <1640298331.1196972.1436210377833.JavaMail.app@ltx1-app5071.prod>
+Subject: John: CenturyLink, CBTS and Rumpke Waste & Recycling are looking
+ for candidates like you.
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1196969_1522997273.1436210377831"
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Date: Mon, 6 Jul 2015 19:19:37 +0000 (UTC)
+X-LinkedIn-Class: JOBS-TO-MBR
+X-LinkedIn-Template: jobs_jymbii_digest
+X-LinkedIn-fbl: m2-aszs4elhjbp09xg0icsc2gd2aksyzjzo4zsz81f726e7qtt0xsog3xhlwv6f0z6xqv66xbd2i30z4ewx3hn3jspsuvhkcm1tjq2lq2
+X-LinkedIn-Id: 6z9u2y-ibsaknxh-32
+Feedback-ID: jobs_jymbii_digest:linkedin
+
+------=_Part_1196969_1522997273.1436210377831
+Content-Type: text/plain;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: text-body
+
+LinkedIn | Jobs you may be interested in
+
+Customize your job recommendations: https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Djhc&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-customize-get-started&amp;ek=3Djobs_jymbii_digest&amp;cjymbii=3Dtrue
+
+----------------------------------------------------------------
+Your job activity is private and isn't shared with anyone.
+----------------------------------------------------------------
+
+Linux Systems Admin.
+CenturyLink
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57786681&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Linux System Administrator
+CBTS
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57790150&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Sales Representative =E2=80=93 Outside
+Rumpke Waste & Recycling
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58714526&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Unix & Middleware Systems Administrator
+Abercrombie & Fitch Co.
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58746941&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Business Development Representative
+Liberty Mutual
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D53510501&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Inside Sales Representative=20
+Mettler-Toledo International, Inc
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56471129&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Part-Time Sales or Bra Specialist - Victoria's Secret - Columbus, OH
+Victoria's Secret
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D14917877&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Account Sales Consultant - Inside Sales & Sales Management
+Excel Management Group, Inc.
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D55407243&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Outside Sales Representative
+United Rentals Inc.
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D51911839&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+Retail Sales Representative
+Kellogg Company
+Columbus, Ohio Area
+View job: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&=
+amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewjob=
+-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56453686&amp;refId=3Dc303267d=
+-832b-4169-9cb1-691d9bff38c2
+
+----------------------------------------------------------------
+
+See all jobs: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;a=3D=
+jobs-consumer-member-home&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-bottom-see-all-jobs&amp;ek=3Djobs_jymbii_digest
+
+Change your email settings: https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsakn=
+xh-32&amp;t=3Djhc&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Drj_optout&am=
+p;ek=3Djobs_jymbii_digest
+------=_Part_1196969_1522997273.1436210377831
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-ID: html-body
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" style=3D"-webkit-text-size-adj=
+ust:none;">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8" /=
+>
+  <meta name=3D"HandheldFriendly" content=3D"true" />
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width; initial-scale=3D=
+0.666667; maximum-scale=3D0.666667; user-scalable=3D0" />
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+  <title></title>
+  <style type=3D"text/css">@media all and (max-width:590px) { *[class].resp=
+onsive { width:290px !important; } *[id]#center { width:50%; margin:0 auto;=
+ display:table; } *[class].responsive-spacer table { width:20px !important;=
+ } *[class].vspacer { margin-top:10px !important; margin-bottom:15px !impor=
+tant; margin-left:0 !important; } *[class].res-font14 { font-size:14px !imp=
+ortant; } *[class].res-font16 { font-size:16px !important; } *[class].res-f=
+ont13 { font-size:13px !important; } *[class].res-font12 { font-size:12px !=
+important; } *[class].res-font10 { font-size:10px !important; } *[class].re=
+s-font18 { font-size:18px !important; } *[class].res-font18 span { font-siz=
+e:18px !important; } *[class].responsive-50per { width:100% !important; } *=
+[class].responsive-spacer70 { width:70px !important; } *[class].hideIMG { h=
+eight:0px !important; width:0px !important; } *[class].res-height30 { heigh=
+t:30px !important; } *[class].res-height20 { height:20px !important; } *[cl=
+ass].res-height20 div { height:20px !important; } *[class].res-height10 { h=
+eight:10px !important; } *[class].res-height10 div { height:10px !important=
+; } *[class].res-height10.email-spacer div { height:10px !important; min-he=
+ight:10px !important; line-height:10px !important; font-size:10px !importan=
+t; } *[class].res-height0 { height:0px !important; } *[class].res-height0 d=
+iv { height:0px !important; } *[class].res-width280 { width:280px !importan=
+t; } *[class].res-width25 { width:25px !important; } *[class].res-width10 {=
+ width:10px !important; } *[class].res-width10 table { width:10px !importan=
+t; } *[class].res-width120 { width:120px !important; } *[class].res-padding=
+ { width:0 !important; } *[class].res-padding table { width:0 !important; }=
+ *[class].cellpadding-none { width:0px !important; } *[class].cellpadding-n=
+one table { border:collapse !important; } *[class].cellpadding-none table t=
+d { padding:0 !important; } *[class].display-none { display:none !important=
+; } *[class].display-block { display:block !important; } *[class].remove-ma=
+rgin { margin:0 !important; } *[class].remove-border { border:none !importa=
+nt; } *[class].res-img60 { width:60px !important; height:60px !important; }=
+ *[class].res-img75 { width:75px !important; height:75px !important; } *[cl=
+ass].res-img100 { width:100px !important; height:100px !important; } *[clas=
+s].res-img320 { width:320px !important; height:auto !important; position:re=
+lative; } *[class].res-img90x63 { width:90px !important; height:63px !impor=
+tant; } *[class].res-border { border-top:1px solid #E1E1E1 !important; } *[=
+class].responsive2col { width:100% !important; } *[class].center-content { =
+text-align:center !important; } *[class].hide-for-mobile { display:none !im=
+portant; } *[class].show-for-mobile { width:100% !important; max-height:non=
+e !important; visibility:visible !important; overflow:visible !important; f=
+loat:none !important; height:auto !important; display:block !important; } *=
+[class].responsive-table { display:table !important; } *[class].responsive-=
+row { display:table-row !important; } *[class].responsive-cell { display:ta=
+ble-cell !important; } *[class].fix-table-content { table-layout:fixed; } *=
+[class].res-padding08 { padding-top:8px; } *[class].header-spacer { table-l=
+ayout:auto !important; width:250px !important; } *[class].header-spacer td,=
+ *[class].header-spacer div { width:250px !important; } } @media all and (-=
+webkit-min-device-pixel-ratio:1.5) { *[id]#base-header-logo { background-im=
+age:url(https://static.licdn.com/scds/common/u/images/email/logos/logo_link=
+edin_tm_email_197x48_v1.png) !important; background-size:95px; background-r=
+epeat:no-repeat; width:95px !important; height:21px !important; } *[id]#bas=
+e-header-logo img { opacity:0; } *[id]#base-header-logo a { height:21px !im=
+portant; } *[id]#base-header-logo-china { background-image:url(https://stat=
+ic.licdn.com/scds/common/u/images/email/logos/logo_linkedin_tm_china_email_=
+266x42_v1.png) !important; background-size:133px; background-repeat:no-repe=
+at; width:133px !important; height:21px !important; } *[id]#base-header-log=
+o-china img { display:none; } *[id]#base-header-logo-china a { height:21px =
+!important; } } </style>
+ </head>
+ <body style=3D"background-color:#DFDFDF;padding:0;margin:0 auto;width:100%=
+;">
+  <span style=3D"display: none !important;font-size: 1px;visibility: hidden=
+;opacity: 0;color: transparent;height: 0;width: 0;mso-hide: all;"></span>
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font-fam=
+ily:Helvetica,Arial,sans-serif; border-collapse:collapse; width:100% !impor=
+tant; font-family:Helvetica,Arial,sans-serif; margin:0; padding:0;" width=
+=3D"100%" bgcolor=3D"#DFDFDF">
+   <tbody>
+    <tr>
+     <td colspan=3D"3">
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"font=
+-family:Helvetica,Arial,sans-serif; " width=3D"1">
+       <tbody>
+        <tr>
+         <td>
+          <div style=3D"height:5px;font-size:5px;line-height:5px;">
+           &nbsp;
+          </div></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+    <tr>
+     <td>
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cent=
+er" width=3D"100%" style=3D"table-layout: fixed;">
+       <tbody>
+        <tr>
+         <td align=3D"center">
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; min-width:290px;" width=3D"640" cla=
+ss=3D"responsive">
+           <tbody>
+            <tr>
+             <td style=3D"font-family:Helvetica,Arial,sans-serif;">
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:8px;font-size:8px;line-height:8px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#DDD=
+DDD">
+               <tbody>
+                <tr>
+                 <td align=3D"left" valign=3D"middle" width=3D"95" height=
+=3D"21" id=3D"base-header-logo"><a style=3D"text-decoration:none;cursor:poi=
+nter;border:none;display:block;height:21px;width:100%;" href=3D"https://www=
+.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dnmp&amp;midToken=3DAQEDko=
+_TNVkUIw&amp;ek=3Djobs_jymbii_digest"><img src=3D"https://static.licdn.com/=
+scds/common/u/images/email/logos/logo_linkedin_tm_email_95x21_v1.png" width=
+=3D"95" height=3D"21" alt=3D"LinkedIn" style=3D"border:none;text-decoration=
+:none;" /></a></td>
+                </tr>
+               </tbody>
+              </table>
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:8px;font-size:8px;line-height:8px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif;" width=3D"100%" bgcolor=3D"#333=
+333">
+               <tbody>
+                <tr>
+                 <td width=3D"20" class=3D"responsive-spacer">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"100%">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; color: #FFFFFF; font-size: =
+16pt; font-family: Helvetica,Arial,sans-serif;font-weight:lighter" width=3D=
+"100%">
+                   <tbody>
+                    <tr>
+                     <td colspan=3D"3">
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:20px;font-size:20px;line-hei=
+ght:20px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td style=3D"color:#FFFFFF;">Jobs you may be intereste=
+d in</td>
+                     <td width=3D"5">
+                      <table width=3D"5" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:0px;font-size:0px;line-heigh=
+t:0px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                     <td>
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" align=3D"right">
+                       <tbody>
+                        <tr>
+                         <td align=3D"center" height=3D"30" valign=3D"middl=
+e" bgcolor=3D"#287BBC" background=3D"https://static.licdn.com/scds/common/u=
+/img/email/bg_btn_katy_blue_medium.png" style=3D"background:url(https://sta=
+tic.licdn.com/scds/common/u/img/email/bg_btn_katy_blue_medium.png) repeat-x=
+ scroll bottom #287BBC;background-color:#287BBC;border:1px solid #1B5480;-m=
+oz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px; cursor: p=
+ointer;">
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" bg=
+color=3D"transparent">
+                           <tbody>
+                            <tr>
+                             <td width=3D"13">
+                              <table width=3D"13px" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                               <tbody>
+                                <tr>
+                                 <td>
+                                  <div style=3D"height:0px;font-size:0px;li=
+ne-height:0px">
+                                   &nbsp;
+                                  </div></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                             <td><a href=3D"https://www.linkedin.com/e/v2?e=
+=3D6z9u2y-ibsaknxh-32&amp;a=3Djobs-consumer-member-home&amp;midToken=3DAQED=
+ko_TNVkUIw&amp;tracking=3Deml-jymbii-top-see-all-jobs&amp;ek=3Djobs_jymbii_=
+digest" style=3D"text-decoration:none; font-size: 13px;font-weight: bold;co=
+lor: white;white-space: nowrap;display: block;" target=3D"_blank"><span sty=
+le=3D"font-size: 13px;font-weight: bold;color: white;white-space: nowrap;di=
+splay: block;">See all jobs</span></a></td>
+                             <td width=3D"13">
+                              <table width=3D"13px" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                               <tbody>
+                                <tr>
+                                 <td>
+                                  <div style=3D"height:0px;font-size:0px;li=
+ne-height:0px">
+                                   &nbsp;
+                                  </div></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td colspan=3D"3">
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:20px;font-size:20px;line-hei=
+ght:20px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"20" class=3D"responsive-spacer">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" bgcolor=3D"#FF=
+FFFF">
+               <tbody>
+                <tr>
+                 <td width=3D"20" class=3D"res-width10">
+                  <table width=3D"20px" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"1" class=3D"email-spacer res-width10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td style=3D"color: #333333; font-family: Helvetica,Arial,=
+sans-serif; font-size: 15px; line-height: 18px;" align=3D"left">
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer res-height10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"20" class=3D"res-width10">
+                  <table width=3D"20px" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"1" class=3D"email-spacer res-width10">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table>
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; " width=3D"640" class=3D"responsive=
+">
+           <tbody>
+            <tr style=3D"background:#FFFFFF">
+             <td colspan=3D"5">
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:5px;font-size:5px;line-height:5px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border: 0; font-size:13px; color: #333333;">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td colspan=3D"3">
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"auto" align=3D"c=
+enter">
+                   <tbody>
+                    <tr>
+                     <td><a style=3D"border:none;outline:none;" href=3D"htt=
+ps://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=
+=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-sponsored-job-company-logo&amp;=
+ek=3Djobs_jymbii_digest&amp;jobId=3D57792075&amp;clkData=3D0_8cQ80P6wym-dss=
+m0ZHkvssbUA-DGa814HW4GBiY36OVfjPpEsnF2N-ji-hZmRsvXLuJzgEl9LUB_yG3pKuK6CQ-S7=
+U8BV6rcZ-t7mDdnGarOF6aKlruWTWW-9rCvapBVTj3lK1rn7tFq2DGczmhi70WxqnZcMtgH-Lro=
+iRXzfD5sDZI49zF7lDYcMdvH-x6vA9d-nO0e7JdDB9fsI-BHsoBvJdSP09Y4iGln7wlUBALXeCX=
+ZkAlKb0zd0LyFaGZL_69n4W5jlR0Q2r5kdAG2SP-sF7iOjqehh9vaQr50LIxO4efKfAJy4Bd2HW=
+rDiZSISIXX4QdkO2c90XK7fpW5w93DvGN4RCk4vd5rubxM6f3YiuIWK_H2HC_-rtSgrnOwzMlYa=
+COv2gVUfOqwPF_CQT7qQfbqxmMgka7p4AnaRMZk4hRKLeMCQCyXNL8ms-lkLLd3_QxsXSTzhop8=
+8a_KgV2JBixpzZ7hqlmZpEvTxfhshpG6BtszVado5trY_nUkbDjbbzfTz1RMwyi-8JrVPos01Sz=
+irKYHZAbnxxdtebrAKKLPShVuMd3GtbU3zV7svP-UuYi1NZczrmkm2h3dPeQoTT6el3GrC6zZ6G=
+8Wm4225ykql08A7jBYvqxi43giUBM2HD0vsnrntWywGPJ9EwK98eN5rbK_UqmT4w9kFg7roMbS8=
+5NoR4f_7IBNLLxvoK61WTOPGEcHxjxamtGBanscioN5jxGUfTKPNvEzCL3&amp;spSrc=3D0_7b=
+r-Kkg6Cp0WS6kQ-k0OyLATqdIcOYugp_sIOaMeaxD"><img src=3D"https://media.licdn.=
+com/mpr/mpr/shrink_100_60/p/5/005/092/3e1/3394dc9.png" border=3D"0" width=
+=3D"100" height=3D"60" alt=3D"$Jump Trading, LLC" /></a></td>
+                    </tr>
+                    <tr>
+                     <td>
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:10px;font-size:10px;line-hei=
+ght:10px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td style=3D"color: #666666;">Sponsored</td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td style=3D"font-size:13px;font-family:Helvetica,Arial,sa=
+ns-serif;text-align:left;"><a style=3D"color:#0077b5;text-decoration:none;"=
+ href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&a=
+mp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-sponsored-job-title&=
+amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57792075&amp;clkData=3D0_8cQ80P6wym=
+-dssm0ZHkvssbUA-DGa814HW4GBiY36OVfjPpEsnF2N-ji-hZmRsvXLuJzgEl9LUB_yG3pKuK6C=
+Q-S7U8BV6rcZ-t7mDdnGarOF6aKlruWTWW-9rCvapBVTj3lK1rn7tFq2DGczmhi70WxqnZcMtgH=
+-LroiRXzfD5sDZI49zF7lDYcMdvH-x6vA9d-nO0e7JdDB9fsI-BHsoBvJdSP09Y4iGln7wlUBAL=
+XeCXZkAlKb0zd0LyFaGZL_69n4W5jlR0Q2r5kdAG2SP-sF7iOjqehh9vaQr50LIxO4efKfAJy4B=
+d2HWrDiZSISIXX4QdkO2c90XK7fpW5w93DvGN4RCk4vd5rubxM6f3YiuIWK_H2HC_-rtSgrnOwz=
+MlYaCOv2gVUfOqwPF_CQT7qQfbqxmMgka7p4AnaRMZk4hRKLeMCQCyXNL8ms-lkLLd3_QxsXSTz=
+hop88a_KgV2JBixpzZ7hqlmZpEvTxfhshpG6BtszVado5trY_nUkbDjbbzfTz1RMwyi-8JrVPos=
+01SzirKYHZAbnxxdtebrAKKLPShVuMd3GtbU3zV7svP-UuYi1NZczrmkm2h3dPeQoTT6el3GrC6=
+zZ6G8Wm4225ykql08A7jBYvqxi43giUBM2HD0vsnrntWywGPJ9EwK98eN5rbK_UqmT4w9kFg7ro=
+MbS85NoR4f_7IBNLLxvoK61WTOPGEcHxjxamtGBanscioN5jxGUfTKPNvEzCL3&amp;spSrc=3D=
+0_7br-Kkg6Cp0WS6kQ-k0OyLATqdIcOYugp_sIOaMeaxD">Linux System Engineer (Splun=
+k)</a>
+                  <div>
+                   Jump Trading, LLC
+                  </div>
+                  <div>
+                   Greater Chicago Area
+                  </div></td>
+                 <td class=3D"hide-for-mobile" width=3D"20">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td class=3D"hide-for-mobile" style=3D"font-size:13px; fon=
+t-family: Helvetica,Arial,sans-serif;text-align:right; white-space: nowrap;=
+" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: none;" href=
+=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;mi=
+dToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-sponsored-job-viewjob-lin=
+k&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57792075&amp;clkData=3D0_8cQ80P6w=
+ym-dssm0ZHkvssbUA-DGa814HW4GBiY36OVfjPpEsnF2N-ji-hZmRsvXLuJzgEl9LUB_yG3pKuK=
+6CQ-S7U8BV6rcZ-t7mDdnGarOF6aKlruWTWW-9rCvapBVTj3lK1rn7tFq2DGczmhi70WxqnZcMt=
+gH-LroiRXzfD5sDZI49zF7lDYcMdvH-x6vA9d-nO0e7JdDB9fsI-BHsoBvJdSP09Y4iGln7wlUB=
+ALXeCXZkAlKb0zd0LyFaGZL_69n4W5jlR0Q2r5kdAG2SP-sF7iOjqehh9vaQr50LIxO4efKfAJy=
+4Bd2HWrDiZSISIXX4QdkO2c90XK7fpW5w93DvGN4RCk4vd5rubxM6f3YiuIWK_H2HC_-rtSgrnO=
+wzMlYaCOv2gVUfOqwPF_CQT7qQfbqxmMgka7p4AnaRMZk4hRKLeMCQCyXNL8ms-lkLLd3_QxsXS=
+Tzhop88a_KgV2JBixpzZ7hqlmZpEvTxfhshpG6BtszVado5trY_nUkbDjbbzfTz1RMwyi-8JrVP=
+os01SzirKYHZAbnxxdtebrAKKLPShVuMd3GtbU3zV7svP-UuYi1NZczrmkm2h3dPeQoTT6el3Gr=
+C6zZ6G8Wm4225ykql08A7jBYvqxi43giUBM2HD0vsnrntWywGPJ9EwK98eN5rbK_UqmT4w9kFg7=
+roMbS85NoR4f_7IBNLLxvoK61WTOPGEcHxjxamtGBanscioN5jxGUfTKPNvEzCL3&amp;spSrc=
+=3D0_7br-Kkg6Cp0WS6kQ-k0OyLATqdIcOYugp_sIOaMeaxD">View job</a> <img src=3D"=
+https://static.licdn.com/scds/common/u/img/email/arrow_right_blue.png" widt=
+h=3D"4" height=3D"8" style=3D"border:none;text-decoration:none;outline:hidd=
+en;" alt=3D"" /></td>
+                 <td width=3D"30" class=3D"res-width10">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td colspan=3D"3">
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D57786681&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/AAEAAQAAA=
+AAAAAFrAAAAJDc0NmQxYTU3LWRhZDItNDI3NC1iZjVmLWQ0MDI2NjAyMzM0Ng.png" border=
+=3D"0" width=3D"100" height=3D"60" alt=3D"CenturyLink" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57786681&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Linux Systems Admin.</a>
+                          <div>
+                           CenturyLink
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57786681&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D57790150&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/3/000/0=
+8f/2d6/11a301f.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"CBTS" /=
+></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57790150&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Linux System Administrator=
+</a>
+                          <div>
+                           CBTS
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D57790150&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D58714526&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://static.licdn.com/scds/common/u/images/themes/ka=
+ty/ghosts/company/ghost_company_100x60_v1.png" border=3D"0" width=3D"100" h=
+eight=3D"60" alt=3D"Rumpke Waste &amp; Recycling" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58714526&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Sales Representative =E2=
+=80=93 Outside</a>
+                          <div>
+                           Rumpke Waste &amp; Recycling
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58714526&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D58746941&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/2/005/0=
+57/16a/0cfaadc.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"Abercro=
+mbie &amp; Fitch Co." /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58746941&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Unix &amp; Middleware Syst=
+ems Administrator</a>
+                          <div>
+                           Abercrombie &amp; Fitch Co.
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D58746941&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D53510501&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/1/000/1=
+95/1db/0ec3d5b.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"Liberty=
+ Mutual" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D53510501&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Business Development Repre=
+sentative</a>
+                          <div>
+                           Liberty Mutual
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D53510501&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D56471129&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/4/005/0=
+4e/114/39c31e9.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"Mettler=
+-Toledo International, Inc" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56471129&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Inside Sales Representativ=
+e </a>
+                          <div>
+                           Mettler-Toledo International, Inc
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56471129&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D14917877&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/3/000/0=
+91/0e5/3e9e55e.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"Victori=
+a's Secret" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D14917877&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Part-Time Sales or Bra Spe=
+cialist - Victoria's Secret - Columbus, OH</a>
+                          <div>
+                           Victoria's Secret
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D14917877&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D55407243&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://static.licdn.com/scds/common/u/images/themes/ka=
+ty/ghosts/company/ghost_company_100x60_v1.png" border=3D"0" width=3D"100" h=
+eight=3D"60" alt=3D"Excel Management Group, Inc." /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D55407243&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Account Sales Consultant -=
+ Inside Sales &amp; Sales Management</a>
+                          <div>
+                           Excel Management Group, Inc.
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D55407243&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D51911839&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/3/005/0=
+a2/2c1/03a0ad6.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"United =
+Rentals Inc." /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D51911839&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Outside Sales Representati=
+ve</a>
+                          <div>
+                           United Rentals Inc.
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D51911839&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF;">
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td style=3D"border-top: 1px solid #CCCCCC; font-size:13px; co=
+lor: #333333" ;=3D"">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td style=3D"width:130px;text-align:center;" valign=3D"top=
+" width=3D"130"><a style=3D"border:none;outline:none;" href=3D"https://www.=
+linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_=
+TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-company-logo&amp;ek=3Djobs_jy=
+mbii_digest&amp;jobId=3D56453686&amp;refId=3Dc303267d-832b-4169-9cb1-691d9b=
+ff38c2"><img src=3D"https://media.licdn.com/mpr/mpr/shrink_100_60/p/8/000/2=
+61/0a6/252ad87.png" border=3D"0" width=3D"100" height=3D"60" alt=3D"Kellogg=
+ Company" /></a></td>
+                 <td width=3D"30" class=3D"hide-for-mobile">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td style=3D"font-size:13px; font-family: Helvetic=
+a,Arial,sans-serif;text-align:left;" valign=3D"top"><a style=3D"color:#0077=
+b5; text-decoration: none;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2=
+y-ibsaknxh-32&amp;t=3Dvjs&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-=
+jymbii-organic-job-title&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56453686&a=
+mp;refId=3Dc303267d-832b-4169-9cb1-691d9bff38c2">Retail Sales Representativ=
+e</a>
+                          <div>
+                           Kellogg Company
+                          </div>
+                          <div>
+                           Columbus, Ohio Area
+                          </div></td>
+                         <td class=3D"hide-for-mobile" width=3D"20">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile" style=3D"font-size:1=
+3px; font-family: Helvetica,Arial,sans-serif;text-align:right; white-space:=
+ nowrap;" valign=3D"middle"><a style=3D"color:#0077b5; text-decoration: non=
+e;" href=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Dvj=
+s&amp;midToken=3DAQEDko_TNVkUIw&amp;tracking=3Deml-jymbii-organic-job-viewj=
+ob-link&amp;ek=3Djobs_jymbii_digest&amp;jobId=3D56453686&amp;refId=3Dc30326=
+7d-832b-4169-9cb1-691d9bff38c2">View job</a> <img src=3D"https://static.lic=
+dn.com/scds/common/u/img/email/arrow_right_blue.png" width=3D"4" height=3D"=
+8" style=3D"border:none;text-decoration:none;outline:hidden;" alt=3D"" /></=
+td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"20">
+              <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table>
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; " width=3D"640" class=3D"responsive=
+">
+           <tbody>
+            <tr>
+             <td>
+              <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:20px;font-size:20px;line-height:20px=
+">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+            <tr style=3D"background: #FFFFFF;">
+             <td width=3D"10" class=3D"hide-for-mobile">
+              <table width=3D"10" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"10">
+              <table width=3D"10" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td>
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td class=3D"hide-for-mobile" width=3D"30">
+                  <table width=3D"30" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td style=3D"font-size:13px; font-family: Helvetica,Arial,=
+sans-serif;"><img src=3D"https://static.licdn.com/scds/common/u/images/them=
+es/katy/ghosts/person/ghost_person_100x100_v1.png" width=3D"100" height=3D"=
+100" border=3D"0" alt=3D"John Markiewicz" /></td>
+                 <td width=3D"10">
+                  <table width=3D"10" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td class=3D"hide-for-mobile" width=3D"20">
+                  <table width=3D"20" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:0px;font-size:0px;line-height:0p=
+x">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                 <td>
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                   <tbody>
+                    <tr>
+                     <td style=3D"font-size:20px; color: #333333;">Hi John,=
+ contact recruiters on LinkedIn</td>
+                    </tr>
+                    <tr>
+                     <td style=3D"font-size:13px; color: #333333;">using In=
+Mail with Job Seeker Premium</td>
+                    </tr>
+                    <tr>
+                     <td>
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:10px;font-size:10px;line-hei=
+ght:10px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td>
+                      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" align=3D"left">
+                               <tbody>
+                                <tr>
+                                 <td align=3D"center" height=3D"30" valign=
+=3D"middle" bgcolor=3D"#ffe86c" background=3D"https://static.licdn.com/scds=
+/common/u/img/email/bg_btn_katy_yellow_medium.png" style=3D"background:url(=
+https://static.licdn.com/scds/common/u/img/email/bg_btn_katy_yellow_medium.=
+png) repeat-x scroll bottom #ffe86c;background-color:#ffe86c;border:1px sol=
+id #e8b463;-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3=
+px; cursor: pointer;">
+                                  <table border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0" style=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"=
+100%" bgcolor=3D"transparent">
+                                   <tbody>
+                                    <tr>
+                                     <td width=3D"13">
+                                      <table width=3D"13px" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                                       <tbody>
+                                        <tr>
+                                         <td>
+                                          <div style=3D"height:0px;font-siz=
+e:0px;line-height:0px">
+                                           &nbsp;
+                                          </div></td>
+                                        </tr>
+                                       </tbody>
+                                      </table></td>
+                                     <td><a href=3D"http://www.linkedin.com=
+/mnyfe/subscriptionv2?displayProducts=3D&amp;_ed=3D0_2p6e0Rid3l-kx6rRjgbDt5=
+z-m4oo3YPMhN3lfnk7I9xYgBDCBryzBpSGMq6HZLkKC_0xSZzGdqO_R_au8NxJ38&amp;trk=3D=
+eml-jymbii-bottom-jss-upsell-inmail_discount100" style=3D"text-decoration:n=
+one; font-size: 13px;font-weight: bold;color: #000000;white-space: nowrap;d=
+isplay: block;" target=3D"_blank"><span style=3D"font-size: 13px;font-weigh=
+t: bold;color: #000000;white-space: nowrap;display: block;">Start your free=
+ trial</span></a></td>
+                                     <td width=3D"13">
+                                      <table width=3D"13px" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"1" class=3D"email-spacer">
+                                       <tbody>
+                                        <tr>
+                                         <td>
+                                          <div style=3D"height:0px;font-siz=
+e:0px;line-height:0px">
+                                           &nbsp;
+                                          </div></td>
+                                        </tr>
+                                       </tbody>
+                                      </table></td>
+                                    </tr>
+                                   </tbody>
+                                  </table></td>
+                                </tr>
+                               </tbody>
+                              </table></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                         <td class=3D"hide-for-mobile"><img align=3D"right"=
+ src=3D"https://static.licdn.com/scds/common/u/images/email/jobs/icons/logo=
+_premium_78x8_v1.png" width=3D"78" height=3D"8" /></td>
+                         <td width=3D"20" class=3D"hide-for-mobile">
+                          <table width=3D"20" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"1" class=3D"email-spacer">
+                           <tbody>
+                            <tr>
+                             <td>
+                              <div style=3D"height:0px;font-size:0px;line-h=
+eight:0px">
+                               &nbsp;
+                              </div></td>
+                            </tr>
+                           </tbody>
+                          </table></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"10" class=3D"hide-for-mobile">
+              <table width=3D"10" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+             <td width=3D"10">
+              <table width=3D"10" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"1" class=3D"email-spacer">
+               <tbody>
+                <tr>
+                 <td>
+                  <div style=3D"height:0px;font-size:0px;line-height:0px">
+                   &nbsp;
+                  </div></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table>
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"=
+font-family:Helvetica,Arial,sans-serif; " width=3D"640" class=3D"responsive=
+">
+           <tbody>
+            <tr>
+             <td align=3D"left">
+              <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=
+=3D"font-family:Helvetica,Arial,sans-serif; " width=3D"100%" class=3D"respo=
+nsive">
+               <tbody>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:10px;font-size:10px;line-height:=
+10px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td align=3D"left">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" s=
+tyle=3D"font-family:Helvetica,Arial,sans-serif; font-size:11px; font-family=
+:Helvetica,Arial,sans-serif; color:#999999;" width=3D"100%" class=3D"respon=
+sive res-font10">
+                   <tbody>
+                    <tr>
+                     <td>If you prefer not to receive these emails, you can=
+ <a style=3D"color:#0077b5; text-decoration: none;" href=3D"https://www.lin=
+kedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;t=3Djhc&amp;midToken=3DAQEDko_TNV=
+kUIw&amp;tracking=3Drj_optout&amp;ek=3Djobs_jymbii_digest">change your sett=
+ings</a>.</td>
+                    </tr>
+                    <tr>
+                     <td>This email was intended for John Markiewicz (Linux=
+ Enthusiast). <a style=3D"text-decoration:none;color:#0077B5;" href=3D"http=
+s://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;a=3DcustomerServiceUrl=
+&amp;midToken=3DAQEDko_TNVkUIw&amp;ek=3Djobs_jymbii_digest&amp;articleId=3D=
+4788">Learn why we included this.</a></td>
+                    </tr>
+                    <tr>
+                     <td>If you need assistance or have questions, please c=
+ontact <a style=3D"color:#0077B5;text-decoration:none;" target=3D"_blank" h=
+ref=3D"https://www.linkedin.com/e/v2?e=3D6z9u2y-ibsaknxh-32&amp;a=3Dcustome=
+rServiceUrl&amp;midToken=3DAQEDko_TNVkUIw&amp;ek=3Djobs_jymbii_digest">Link=
+edIn Customer Service</a>.</td>
+                    </tr>
+                    <tr>
+                     <td>
+                      <table width=3D"1" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"1" class=3D"email-spacer">
+                       <tbody>
+                        <tr>
+                         <td>
+                          <div style=3D"height:10px;font-size:10px;line-hei=
+ght:10px">
+                           &nbsp;
+                          </div></td>
+                        </tr>
+                       </tbody>
+                      </table></td>
+                    </tr>
+                    <tr>
+                     <td>&copy; 2015, LinkedIn Corporation. 2029 Stierlin C=
+t. Mountain View, CA 94043, USA</td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+                <tr>
+                 <td>
+                  <table width=3D"1" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"1" class=3D"email-spacer">
+                   <tbody>
+                    <tr>
+                     <td>
+                      <div style=3D"height:20px;font-size:20px;line-height:=
+20px">
+                       &nbsp;
+                      </div></td>
+                    </tr>
+                   </tbody>
+                  </table></td>
+                </tr>
+               </tbody>
+              </table></td>
+            </tr>
+           </tbody>
+          </table></td>
+        </tr>
+       </tbody>
+      </table></td>
+    </tr>
+   </tbody>
+  </table>
+  <img src=3D"http://www.linkedin.com/emimp/6z9u2y-ibsaknxh-32.gif" style=
+=3D"width:1px; height:1px;" />
+ </body>
+</html>
+------=_Part_1196969_1522997273.1436210377831--

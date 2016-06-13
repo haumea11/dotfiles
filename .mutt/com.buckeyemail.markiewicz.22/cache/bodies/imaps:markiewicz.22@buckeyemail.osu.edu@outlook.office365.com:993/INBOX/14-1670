@@ -1,0 +1,309 @@
+Received: from BL2PR01MB387.prod.exchangelabs.com (10.141.90.146) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.453.11 via Mailbox Transport; Mon, 11 Apr 2016 19:39:24 +0000
+Received: from CY1PR0101CA0003.prod.exchangelabs.com (10.162.170.13) by
+ BL2PR01MB387.prod.exchangelabs.com (10.141.90.146) with Microsoft SMTP Server
+ (TLS) id 15.1.447.10; Mon, 11 Apr 2016 19:39:23 +0000
+Received: from BL2FFO11FD032.protection.gbl (2a01:111:f400:7c09::181) by
+ CY1PR0101CA0003.outlook.office365.com (2a01:111:e400:51d0::13) with Microsoft
+ SMTP Server (TLS) id 15.1.466.12 via Frontend Transport; Mon, 11 Apr 2016
+ 19:39:23 +0000
+Authentication-Results: spf=neutral (sender IP is 164.107.81.208)
+ smtp.mailfrom=campusclarity.com; buckeyemail.osu.edu; dkim=none (message not
+ signed) header.d=none;buckeyemail.osu.edu; dmarc=none action=none
+ header.from=campusclarity.com;
+Received-SPF: Neutral (protection.outlook.com: 164.107.81.208 is neither
+ permitted nor denied by domain of campusclarity.com)
+Received: from cio-krc-pf01.osuad.osu.edu (164.107.81.208) by
+ BL2FFO11FD032.mail.protection.outlook.com (10.173.160.73) with Microsoft SMTP
+ Server (TLS) id 15.1.453.6 via Frontend Transport; Mon, 11 Apr 2016 19:39:22
+ +0000
+Received: from CIO-KRC-HT01.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-krc-pf01.osuad.osu.edu (Postfix) with ESMTPS id D866CA0034
+	for <markiewicz.22@buckeyemail.osu.edu>; Mon, 11 Apr 2016 15:39:21 -0400 (EDT)
+Received: from na01-bn1-obe.outbound.protection.outlook.com (207.46.163.141)
+ by CIO-KRC-HT01.osuad.osu.edu (164.107.81.37) with Microsoft SMTP Server
+ (TLS) id 14.3.248.2; Mon, 11 Apr 2016 15:39:21 -0400
+Received: from BLUPR0101CA0037.prod.exchangelabs.com (10.163.116.175) by
+ CY1PR01MB1296.prod.exchangelabs.com (10.163.18.146) with Microsoft SMTP
+ Server (TLS) id 15.1.466.12; Mon, 11 Apr 2016 19:39:18 +0000
+Received: from BY2FFO11FD019.protection.gbl (2a01:111:f400:7c0c::121) by
+ BLUPR0101CA0037.outlook.office365.com (2a01:111:e400:52e8::47) with Microsoft
+ SMTP Server (TLS) id 15.1.466.12 via Frontend Transport; Mon, 11 Apr 2016
+ 19:39:18 +0000
+Authentication-Results: spf=neutral (sender IP is 208.65.145.69)
+ smtp.mailfrom=campusclarity.com; osu.edu; dkim=none (message not signed)
+ header.d=none;osu.edu; dmarc=none action=none header.from=campusclarity.com;
+Received-SPF: Neutral (protection.outlook.com: 208.65.145.69 is neither
+ permitted nor denied by domain of campusclarity.com)
+Received: from s12p02o146.mxlogic.net (208.65.145.69) by
+ BY2FFO11FD019.mail.protection.outlook.com (10.1.14.107) with Microsoft SMTP
+ Server (TLS) id 15.1.453.6 via Frontend Transport; Mon, 11 Apr 2016 19:39:17
+ +0000
+Received: from unknown [50.59.189.37]	by
+ s12p02o146.mxlogic.net(mxl_mta-8.5.0-10)	with SMTP id
+ 56dfb075.0.81985.00-190.349049.s12p02o146.mxlogic.net (envelope-from
+ <admin@campusclarity.com>);	Mon, 11 Apr 2016 13:39:17 -0600 (MDT)
+X-MXL-Hash: 570bfd6544cbc714-f6feaa9c4dc9e181b931848418ec5134bf6c25d5
+Received: from AWS-CCWEB03x.Lawroom.com ([10.3.204.125]) by
+ LRMAIL01.Lawroom.com with Microsoft SMTPSVC(6.0.3790.4675);	 Mon, 11 Apr 2016
+ 12:14:26 -0700
+From: "admin@campusclarity.com" <admin@campusclarity.com>
+To: John <markiewicz.22@osu.edu>
+Reply-To: <admin@campusclarity.com>
+Subject: Online Training for Preventing and Responding to Sexual Misconduct and Relationship Violence
+Date: Mon, 11 Apr 2016 12:12:36 -0700
+Message-ID: <20160411-12123641-12c4-0@AWS-CCWEB03x.Lawroom.com>
+Content-Type: text/html
+X-OriginalArrivalTime: 11 Apr 2016 19:14:26.0526 (UTC) FILETIME=[5D4A17E0:01D19426]
+X-AnalysisOut: [v=2.1 cv=NM7TjhOg c=1 sm=1 tr=0 a=38evSmyO8HpKl0YulYBPug==]
+X-AnalysisOut: [:117 a=38evSmyO8HpKl0YulYBPug==:17 a=kziv93cY1bsA:10 a=y-P]
+X-AnalysisOut: [gIkTeAAAA:8 a=4F0oHsU8AAAA:8 a=XyM3u0tVAAAA:8 a=JKLNRrEiCS]
+X-AnalysisOut: [-14jfRcyMA:9 a=3RGOekngVh9qHtkg:21 a=cjyZk3Fd0e2DMXgn:21 a]
+X-AnalysisOut: [=_Re7cTV3WSjf4SA_:21 a=_W_S_7VecoQA:10 a=54x2QUXr_wcA:10 a]
+X-AnalysisOut: [=61gq9Njzyk8A:10 a=NEwayuqBmAIA:10 a=QOhJc4v7H_wA:10]
+X-Spam: [F=0.5000000000; CM=0.500; MH=0.500(2016041124); S=0.200(2015072901)]
+X-MAIL-FROM: <admin@campusclarity.com>
+X-SOURCE-IP: [50.59.189.37]
+X-EOPAttributedMessage: 1
+X-Forefront-Antispam-Report-Untrusted: CIP:208.65.145.69;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(3000300001)(199003)(36882002)(189002)(5003600100002)(86582002)(14613045005)(9686002)(53416004)(23846002)(15975445007)(77096005)(50466002)(105586002)(106466001)(16796002)(18206015028)(450100001)(19580405001)(19580395003)(33646002)(19617315012)(2171001)(5008740100001)(54356999)(6806005)(53806999)(50986999)(86362001)(229853001)(5001970100001)(11100500001)(110136002)(107886002)(189998001)(31430400001)(43066003)(5003940100001)(586003)(3450700001)(27156004)(10703006)(7059030)(147933002);DIR:INB;SFP:;SCL:1;SRVR:CY1PR01MB1296;H:s12p02o146.mxlogic.net;FPR:;SPF:Neutral;MLV:nov;A:1;MX:1;PTR:s12p02o146.mxlogic.net;LANG:en;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BY2FFO11FD019;1:oA6vHHYfDEgfDUf45+dLjgnHgHBInN7yLjZvqANXD9ogU1x/yp9meYLO1+rTJeERvJYigXx9KrpVMbdgL4eye8EX1V5uXzeLbx3nyJ+6awjDu/szLAVlIKi6DRflGBajIKVhT0nTGNqaBXW/bmOCHYvFMeyFyRCQediqDbtS9oeAV7j7uhM0SRdZVeXypmdV6ZfxEL4lqx9qeajVW/cH21Psn8UzqSHFD4z4OmnMDGKwiQ/wGUVXcwb0tYhxu+adWgjpENv8u8U4A16QuF3jiVev+EMZuyZ3eiCaQH3nGwOoua5BymvyBJMiG2TKloP88nYwLfQij379KPAHQIbnUskz09uxcaZM9yU9YEUfn9gTKZe6zBplecB1StV5woSDrwminvUHT6DSCgfxiL//VfEPtyHjdMZv7nfIcUW07JJQtfyc16h8p9cuHnwJWCbUGioQGIN397heRCv6o27H/16NLh/wV1u0i+zcjydId86H7Q2SfdjZSc0OU7WLc1z/KqE7BVx9BcCS55ckHUcQQQ==
+X-MS-Office365-Filtering-Correlation-Id: 728eae21-a0d8-40fb-5ebc-08d36240fbca
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CY1PR01MB1296;2:1PAfBCRiCgVl6rjHB++osxpl9bl2fWXTinICF43bTTjN9g/FJQJxwBaXy3uOeFkg63Qc9LwVZqju7mlrz1Kml/IjNeQI/rMQgpwdiWHiW7Ybb0Hb9QZDRiGSd/GWr9BRrfVDgn/FG0Y9tNypPpaIkU6DRO1VbxSO8/ogwy5S4Ve7DXds2MN+dEOG4P0RPwFs;3:zlG1IX9GUPu4Dvf6IiQRotnCXBImhMG3s+ti/rFofWYg+rOdXvkJn/zKv7QyO5U+HlmwLmHnG7lXo0g2rYes5S/hCWkOy8pp5u4afxaydm1nKBC8Ja9YLDeVYcYbeE7x9nUOOk3XOZ1Ab+pkM3GmX6WBURGp7iO3lfxSjApHi+fnM9VTwidcevwYStan9wXcYmB/aCt6BDB/b8bLPJRCnXWvWpI7Eux+tpxV8N+v8oN2fMpH3cHHse7CfuLhf6Sx
+Content-Transfer-Encoding: quoted-printable
+X-Microsoft-Antispam-Untrusted: UriScan:;BCL:0;PCL:0;RULEID:(71701004);SRVR:CY1PR01MB1296;
+X-Microsoft-Exchange-Diagnostics-untrusted:
+	1;CY1PR01MB1296;25:xjbGpGN8ty7rsXTfYLslyC5g/F0i9P2J7s0kawnXCXYaEw8WN6AufSfajya0tlyeMPiZNZrPOdX0hBhl5ww5D3jS3GLO52sXh7U7uw6RULcCOZlgwQ75h8j2W8Tyd64amGACukJ/9uqgKXUkkrklJ2PJ/IsoVizjokRuJ16PDIEyPY7/Vvmn6QKCnzgjnq0p8ducrVDYcB+nyIwzoYL9hliByYttdkilaT7PE/ALopi9lqyq9mZ3rU2A8sLF8jWjFUtf8ud3C+apmjiNemGXml9+SeDfbt++Vl6eYw3v33ZSp4YkigWzrcHNTCFhKKr5jbYG+ZjKffKFt3+F3BbTZUSusCsyubuG1E3htSye6xQVzWrYa1mkF3nD8Pi/VnG5rKFH8HWvIQFWf8szV0Fo/TDXw00V4K8AfTsmzltSss/ZcV7FNkVtegMxnqNaC5740RYQPUA1r1QRc5P0f2r3QaG2/c0EE1E+KMQTiDNp8c37qi4MgwkLyV6RMAnLf6vgodyENF7Jbj1LwVInsPSiL4ZLBqNhyL0g8CgMNPH8mmuGRvSeMC9Q+CKedc5O8cQ2gQPobDTUgMX3DibPS+c25RquZW5LbdfyC/Qc6N1L2gDls3nNVkSll0nloV2lwGm2rxR0LZCQj2fu7NwA+3ZNccyBRVCq1sWjPw+lP17QhFbwNdVfEDClRMHKx2KESW19No7Wg5CTW7em4coLJGSyjtwemtqCXLkl5rVctQMp1ucNAUXoG85xzlkJfQjdezb8XDXd1xlzuooWCjf7cctmY7GiuSETYoLy4igQOMOuW3z3jMBPznoZ6GiQUUy6w1qsxl8BVurv1DK1OToubBLsHQETwZ7E2n4voWjfYW25uY/NTUk37TzresAzplvZyzDVVqJQXM4dDer0baLrxWRhyCgb+9sxNR9e4TgTLJWnCK92RNQKEecMhORxFRZJXC0/
+X-Microsoft-Exchange-Diagnostics-untrusted:
+	1;CY1PR01MB1296;20:VMWu+84ruKBXTnIECKPs3Tb76tY1nx5Qe17XAKjdjZbTQrBKieHptQ4slwYDSL+tu7ZLLazOFTHCDwWRhJQaErmRLSE6wcS2Xil4M0RIKumaVh6DpjOOh5Vm6i+zyzON/qrqTQwU6TxeYbsHzWQTx89UIx9MeU2K8Yc+VhwOwdoS/hdhIRS3TvFLs9HkC/BL1/MvqDc2RPfNbghM8YhzBec040DV3JoG7HqMIxOwje9VMO6KN/F2cj94uxru08JJ1Yukt5+a/36+lyKWp5Qj5u6wnO+vuxau61cRFnSTPTjEetMOiBrhOq6i/4sGTgJVkoQkf5CKSfIuY5zqPxOe5WQya2O7GobxN/IvpR4WGqX2ZfNdYUM7TBGUwVsBdSAjNvaI572JIxzAwH2MtO0j4NY7TFBidmaXjpxJlKLJEzzpU6Zw9+4mtJSBtOOcb2jxvNhXKMG8VTZHx3ElEjzdBpEfhftG44k19TwyVEbLaCrBwEwL6IScEeCZ2ewjgrAP;4:HP0T7EdQG9aVAn4zDmf6zactOzFc4Qvobwhkmi7kSRgojIjfBrzoFrDXNadTOD3izWlCoficENA/sDCmHO/fMtFGI8n1z4F7DOV60afxa5vKlBp/yQJjude47aOeo1kyihgRwx7Z7NbvveJtFw+OccXMWbDERbbzEaQXfnZVGQMlk3qe13eKLxaY+vj/ZL+vKd7Sazw7L+5ukriz0Bw93cLPtT/nkie3Teo2iBbE/moK5jfBUko8TTEYgRr7kqY3p9/YOV8jrke0qJz6GchxnfezF7/jFLcXpl8BNd63dqwkaPgxifkeMXxwyAyRodlwRHkq7WWdZRAaFXlfprO1Gi3Lq91N8kj7ieFa8v6X5Bj7F2osTB2Y9FHA0UhzpFu0kJSjhpsEt+sEzwtFIckbbq2u5pS/dlmvCuWRl/
+ mkXxo=
+X-Exchange-Antispam-Report-Test: UriScan:;UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(13018025)(13016025)(13024025)(13023025)(8121501046)(10201501046)(3002001);SRVR:CY1PR01MB1296;BCL:0;PCL:0;RULEID:;SRVR:CY1PR01MB1296;BCL:0;PCL:0;RULEID:(2401047)(13018025)(13017025)(13015025)(13024025)(13023025)(8121501046)(3002001)(10201501046);SRVR:BL2PR01MB387;BCL:0;PCL:0;RULEID:;SRVR:BL2PR01MB387;
+X-Microsoft-Exchange-Diagnostics-untrusted: =?us-ascii?Q?1;CY1PR01MB1296;23:hcFnarjVt24j70xwDsxx9wPZX+LZyeScXvcz64LmI?=
+ =?us-ascii?Q?njZQkfJrRiiDgMMgat7q7dxCMKcsPU2KigNXe0psee9NQ7hddr/ffVTk5hzD?=
+ =?us-ascii?Q?qOyQaJfs9UiabhoJ7mHsePkqFhlRhz4M61dAxQMWxYlEl7uOZcPefnDqZ4xb?=
+ =?us-ascii?Q?o/dmU+HPTF44rNK7dZ0bE1Kw3JITam+s4MEVNogrna5vsMlwLb1tASfqF0lI?=
+ =?us-ascii?Q?Cm0ol5S7pNN4rPIKaC+0hIr1R4Wjl3EzG62pMUBrfXdf+HMaB9HtJh/TtQpP?=
+ =?us-ascii?Q?gLJLHvGyAlJHAF/pHaOT8mLx5JpR7jhwgTi0NjjVZSfCt3QDBcBIHSmQJd5j?=
+ =?us-ascii?Q?wG2v26CwyhkQglmklXcqn6YT5EPg/C77vZRT7yw2DttOayj7KvYrJpK95SgG?=
+ =?us-ascii?Q?+BDPsJPNg9q60KOyRcHFp+fbRJRdwzWWSlo1aEhkOLFP3p2TxUJ1C6z6qgaS?=
+ =?us-ascii?Q?V17zf2LBgaZJbyoDHuNP4jzbv7Z2ZLDCKYjbhZXZHiJczU/ZDNYu3EofjQEZ?=
+ =?us-ascii?Q?vzA1ZylhEh+mFvs3TcmEvi1MlUalZAKoE3jWjZoH5cTG/74g7AiHEGkW2JaN?=
+ =?us-ascii?Q?TljMtIBISBb2oifhK3Zjl8YAkFkuDT011mYGKvw00HyfVh3WWWQEedC3Mo9w?=
+ =?us-ascii?Q?bnirkQuEW4UD0gc+MSDHqWNY+62X6dGHn5D0NjE09JBblicvjNaYEj1BjAZt?=
+ =?us-ascii?Q?xlnbrJeRzair+x8SGF8abSRWpkjr2IQYProy6ZDFpVstlKnn/YjffutOao5J?=
+ =?us-ascii?Q?QkLkanBRpKoo11EM1CA2HTUZZKqtLC/xEyWM5j3AEhVn5kHbOksboYI3KO0V?=
+ =?us-ascii?Q?IMGm2MCPGr9/2nfEj7tRXGISiVCtKKbOvjravtkqgPVd9O9LvcqavS54/LIt?=
+ =?us-ascii?Q?RxvT35ItKPwoFbditH4MYOBLJOBoQDIkmnMusI0jMC8YeXXfPt1eBRLD5ILb?=
+ =?us-ascii?Q?vMnt0YQ4S5UTOfSWadKC/wBc85uSjNmcAoA/Gu+qctRmRWKnSHJaXZ30mt55?=
+ =?us-ascii?Q?ZksqXhQnBtIz3ii0zu0PNLiRPo0o16AgvWpc4Az7h53IVCNYQRRqMWX9tPpT?=
+ =?us-ascii?Q?ag43YONgBOiFBQlVjcx9IhstBJk5vUq66MdxvMHbP7HM+K9pRquKKI4eH5Ok?=
+ =?us-ascii?Q?9JELs9vNtLUoknaTtHqLXx54DEMkILlemSLvFd3vlFn1ucgT5rlWnFVM2OgE?=
+ =?us-ascii?Q?tN0R7bqVRkV/5U=3D?=
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CY1PR01MB1296;5:PaIWBIVw1ZbbFlJUbMD0JBKfzCW4jaWEE6d2TyCw9AEyTiexWY0fGX8YxGkIqLoIUpT2UZV5ZH0yQRrMfoN9mS5T34SkI455aJ0cLvg4+O/Pge1AgMgsrh+4zy0nCAuvQwQ/lmVQaxg7KdmhaMZ51IRUBZF/nH9JhGsSRBG1reMewXHkZldvtpX72uNtmlS/;24:/BLgbGV4B7OXv1SHGov0WgOaC7JSiPTicI51IUd4eSIf2BVUnYM0AU0GZJQmFex/4E6sgCmiE60XQAVaAg6TnIyjJdtnopfBpM4xdMbJl60=;7:YSO2FBnHSPOkUNECE/3x6oRvAuT/28rSgezvj7WGnGY7a0xTRVFlDzNmC2JzaN+2u7OYsDI+Vtk8QoE1AT9M3+4EovkpfIvUHe0hpaYs1kAbVM0PtJcwI5rWOHiMRIrTwFDrgUftqsiBHzld5ykFw7brwc6rhd21Nn4RKld9gpD3oMhuoiMjY+0rLXzDLC/7BBE1lcAm+VPD4d9m4SDeDeflQRCtX2q3BadeyvmT2wA=;20:mRTa9gdXYrzygvihSLVvn4IWow6eNypEgq+pP3hwryrIH9tRkSD2sF39NH5jKmKbN4Tdam+N3HlLC1Svb9JNEow/hY0jCQX9WxtzkV4wQwNK6YQ6OaeyyJkLg3UxNulUpHFKdjXO3XrH4MBsbDrtDGfpVDmqjBX0+RZbdTgm/0I=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR01MB1296
+x-header-osu-auth: True
+X-CFilter-Loop: Reflected
+Return-Path: admin@campusclarity.com
+X-MS-Exchange-Organization-Network-Message-Id: 728eae21-a0d8-40fb-5ebc-08d36240fbca
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BL2FFO11FD032.protection.gbl
+X-Forefront-Antispam-Report: CIP:164.107.81.208;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(3190300001)(189002)(36882002)(199003)(86362001)(1220700001)(3450700001)(106466001)(5003600100002)(23846002)(2171001)(93346002)(54356999)(50986999)(11100500001)(53806999)(105586002)(77096005)(109096001)(586003)(19617315012)(53416004)(87936001)(15975445007)(43066003)(50466002)(14613045005)(5003940100001)(27156004)(21840400001)(33646002)(189998001)(31430400001)(18206015028)(9686002)(450100001)(86582002)(5008740100001)(229853001)(107886002)(6806005)(19580405001)(19580395003)(110136002)(10703006)(7059030)(147933002);DIR:INB;SFP:;SCL:1;SRVR:BL2PR01MB387;H:cio-krc-pf01.osuad.osu.edu;FPR:;SPF:Neutral;MLV:nov;MX:1;A:1;PTR:cio-krc-pf01.osuad.osu.edu;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD032;1:cBkx39Yqejnbm/zgtTJxpDtKxoMEMgKlDkJm6zjIUOyaaD3mYLRLHEq6QY/eeRzpeKBZKt1fHG8kScr5hXxC7K4OdgLsKyUtu5B9gONozOwMeaVebzOqzun+92/nHLjMxTq/c6I4v0+yhMynaIQhNR0ln1tClR+H9nLZ/bl0R49mbX80PoSHQVLMyZEp/+MCCfBx37m3F5NAmukA6UG/xW5808Dup6F+iDyPT6DuvHbWD5jsGu4Qe5iXGJ81gwCZgPQXKXMGQQ5Ba3Ov9nUdOZxHJdnKAAgciJWlS7mncfB6JT2v0Ns/ohMN9pP2vrk6f76II64qbZ6Ap6Fnt5jqZvkKAVzz3OmzcobvFaN1Sg8nCiS5xVIii6jwTGFeLpcCye6Dx862b605Y7kDDIkEYJZu+IYSe4by0EJ1F8j2o7rMLvnSAyYGauxNXuuuPzxzJZ1/4zrhIir/jCxDY4T9nUpN6jvhylJPyfXz6WPJXhy1NDEvvaBlFCE4tclrQHfAFlTgrcRcWuFWLh+GuHA4aFd4xrN6VGU5vZkRi2PmstXUA1hm6dZ4NzKHb8EJJNT0naaw7trUBPDBO8Wka630lNCTBpIEKFsafCvk4WlW5vo=
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB387;2:i2E2en6vON+d2zbB2D0wnFwCs+6AK6ZxNzDs9gSJEUhZPZL62l913TDO9xudM/KhG9NBqWYZuPQTMgUOUXAnSx18hWdbQ/HEboCqU7gOUPaGR6bx8+uvO0nJ0L3Io9jf+9U1f5t+v5gJbdLkmsVWlrG3c9j0gvrb3I0W57FjDo3ssc72Bv6L38XWryqdGyNt;3:1idurwj+9x7shRiFTNUjDXn6y6HsqSMFE3rW+JORmFgIJQrvFRoBVq7XOGJ9H+sfXPAo3jQsi+HWLKwiqwTN7bJDG5AieB75+D4pNVTQSmEHrnuY4vHqLO5t+YCMACBxsiJAHwbS66y7zmQeWfHfeXH6nhYSMsVMR9XLYMV8y3YEq4LW1ombRJNMIsrSCjHaYaCEIuyz/2NAORDcuNTPyFxSKW7joaKptoJdUazIR7s=;25:Ie6gVyvcBKbKZwyPRq37cwkXzUq2+l5k6DAFe/THP/bWJiLOZjKpIu3PvyVem3Vzy6WFqvkdLpEGDDXG9YtWjWr8zWtgxMXwJXti/g78QDMErmTDq42f2/DXgVsqn0U0LEvO/MRuMgQhwtFoMwCoqa8d92FR14kKohZVqp/n93AmGHRZnm7+nvHrUSS6pnKWLiPkBlxWLLmL6MvfxiM2eqQG2nKSbhlOuWLprmGfHC7Ed9BHu5ziWHExs+Prw936ZH7Sayjre8G19alqL1szdJZBazyRo7PM4TLRse5ggvvkxjswiyaY2cRo2S8wUGxvPbBPIUw744y2XzW3GAME7g==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BL2PR01MB387;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR01MB387;20:PWSZe7cieQwEAjPgkJCeo9kj1hms+SC5aL4+kFAJfs+vp8itqEXIoZfFRsBvRtXQKAKMNOpRUKQ1NLKnuAe1erA6tT6UPDEKkH4ptcuUFmRvx19urTjmZszt1AOV2vA669aa15USjNoiRM4kAZ2ncoYKvDRkcuoQ2VeOqlE+nMSLaQdLkxbcH1+xc9scoQJ8+wKt8hwxOIzG0mrXim9v7V3OOzxRITIx/CNqkrvQC4RZ9cFwGLO/8Hmuw/hBUXCoqK12SlGDoq2rFxZmo7pgNFuGmmyz9wHg5CYf4DECMvApWFq1pAOo9fTwYu13vzNWuXxDUPfNplHBUB9eluqXKHr5SzLkbKemd63PlWoWHWO5oinxWvirganuscNXfzl1aGDf8cZVvgUSR9BJRsYBKUP0/iH5SnygyB9CEGcRnNNPMgoh2xEX+2CVNF6qU+f1eyQ08+MIdTPI81dnljNFaNAN+Ad2P6Aako8Ae0xfX3zLWmBol8zq7YDa/RNAihkC;4:aC01qD02H5+cexY3HJY8AiriKrLdOJQSWVW4dKYUdWF0uedmGsrz4na7fCDbnSM8boaySJ5Mbz5oLT4crbvRKVpt3ToZeiJslG68N1I7kQvnRIGGCN1x5qMBqYpesddfYpUEUiI1c0+7Swzy+KHhZMDC9G5bfkhSzuRQ4npw7isYN/rdZeY/L0GPmnS8lAq4YCxySvhYSgG0zERm1bmCHXqkDjnKYSvG1h/faiGsEAyK9TUM7FAIeFixUbIp7vEwloFe1zPh8qtAmn9RwqWXEdKbhwljefAMMOuEzI6V4Zfcpop2+9yILEJ9yqQz4IJH8yw+42j9PbyYM2H9hmCiTAdYldTxtCYgrVVjJPBJsgEgWyyDFuBDCObGYYf2csx6BLoYa7XupzihO1SJiKYYF4qq717QzQeOiztQAmfIxxhAItsPE01M7oPH/9OXPf1v
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BL2PR01MB387;23:bPe/ki/ODmpgshqpPutp9GQ2lrHkUNCcoGJyuEJCig?=
+ =?us-ascii?Q?1nmZR9/N0RX5jPX6tLvYCIqop5FbACg+pXSM5rIwVNQikjYAJ2gWRaLA2KYE?=
+ =?us-ascii?Q?PxuUAxi2NxQObCLCfeuk962PZCz+2g0ReJxg1VFJFpA79ElNvcK3DALDn9Cy?=
+ =?us-ascii?Q?LkiY65Ho6QdFKA9jdZUr8GZNzQiTYJNpPjQ3L/NAPhwWh7pysenLH9rX3TOr?=
+ =?us-ascii?Q?+GA7Mi6WuGxtLUGb5c0jrxAw2GPyQ3VopeUZIKEikftfJjLVKJxO+GrBN4SE?=
+ =?us-ascii?Q?zeo849psLx8I1TapkoZVIfrQ1xO3vHS68y1Bx/Ay/zkOTuetQdUpfDY8Lzxy?=
+ =?us-ascii?Q?lp/HIEbOp4mktfiXRgUSesavHx9EYwUoD1NjTiP9MwYC12eTShkSlMwSV+55?=
+ =?us-ascii?Q?/ZX1xb/fAzLBtfldUyKbS1YDXh+Kbz5KAAQBH8SRJ98XN1j64ex6tVkvCAJ1?=
+ =?us-ascii?Q?YPOnKAKw8taUUC+ruHXxkwtnhZ4bjv7w4J4zxtlsEFoUHb/S30AP2fRTFrk2?=
+ =?us-ascii?Q?hojnFlHLwtALzoFGPQvH2v3h9dkp1iieJV3RqQ4D3eFJ7phhoytVzieurQ5Z?=
+ =?us-ascii?Q?Zrj++D9yJe8yKD56afsbUvH5Y0F+9/rc93gCFYupKfVNmUorfFmqavrzoWZa?=
+ =?us-ascii?Q?DeOdNNmX4lZ5dVcGTdINXkZdwKe8el7ANQ+NdXug7F9ScY1N+u8GKv4PYR+D?=
+ =?us-ascii?Q?aH4RancB0aKymGY4Cq1Ve2KsNW48qoCSr3e5nDOQbExWzPuE5MZvkU9XbW+c?=
+ =?us-ascii?Q?B/NjSeWBSYtYyKtQdcbf7SqQMhPO8c4+32df0CrDhJJ0hIJNqe6+HbhWg1D+?=
+ =?us-ascii?Q?ro7htN9CEWY0h26dFovnXQiDI0hpengZODplTQfwEpWtALhJFQMIcF1mwdmb?=
+ =?us-ascii?Q?JTrWkw90+bnvvC2uBSQYxL+0MQSUgcbQ5o3UvlP3pJ+17HaUMUgQtDC9YOF4?=
+ =?us-ascii?Q?axb5XdKxZxVzbOMEF9181NcF/yv8YKImm+WK8ORD15tGx6/1arGjD1yr9Eqz?=
+ =?us-ascii?Q?Oa6vm/ybifCZr5ea4KbgNnfmmt6jqV2h9Cm/a9Cc2nvq8sFYIuWXEao0g4Mc?=
+ =?us-ascii?Q?VYFbms5ndAYhGiOejLSb+Alpw4gCr2WXmR5wqrYXqffa3xmEwvq0ozi3vNhN?=
+ =?us-ascii?Q?3t7h2XEjfIrBBS3wX1fv9KZl20kkNa0h4qlGvkbEd2dU7u6VDg7EEfgnMo8K?=
+ =?us-ascii?Q?+tAM6yqIwINH8sjd+QAs67NTnUZDjYUBQASaeZlmtp1eWzX2kUasiXB8zBd9?=
+ =?us-ascii?Q?ro0unSt2ZfqAO9xVSKekj0vb5Qeuo/yWHW5NB3?=
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB387;5:d4k1DJtaPEe8cvuIeImNLyAoeUTND/8Kv7u4v/8HmpFA2nJV1RmXjOBx2awLWZmgYRr3YzgCSPhuJdEW1n1xGy09Ch5IbI4uSG2YntabKXJW29xy750shzB2GTfYzKDG5FD1q181LMj6xzSLf7oHIA==;24:C9UOkS6nJynrOpW7SiKBX4Mnd4B7/iDWPEEnGRHzelNuuPSrjL0yf0skLwCbekgPvPaEOSO7jv5+78UXD5KmLGify8a6A/U8ehti1WUrCrQ=;20:47INYUBuRAN3dTEVKndCb6PPX0z6bamcIRQ/sxN1JThLpIcKdGvnCtvtX5uRONH5nDLKQTRVL1A0ABxRjH8U/VU88lRPDGaCdnZNYVGXYh6fsuTlyqg3180FCzAhY/3Hyx4WQGAbFE7ncclPfT92M6OVAPeFRuMnO/XaR1XAzb8=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Apr 2016 19:39:22.6464
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.208];Helo=[cio-krc-pf01.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR01MB387
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD032.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.8888620
+MIME-Version: 1.0
+
+<html lang=3D"en">=0A=
+<head>=0A=
+    <title>CampusClarity</title>=0A=
+    <style>=0A=
+        * {=0A=
+            margin: 0;=0A=
+            padding: 0;=0A=
+        }=0A=
+    </style>=0A=
+</head>=0A=
+<body style=3D"width: 100%;">=0A=
+    <table style=3D"width: 500px; background-color: #f6f5f1;" cellpadding=
+=3D"0" cellspacing=3D"0">=0A=
+        <tr style=3D"background-color: #ebeae6; width: 100%; height: 130px;=
+">=0A=
+            <td style=3D"padding-left: 8px; background-color: white; border=
+: solid 10px #ebeae6">=0A=
+                <img src=3D"https://s3.amazonaws.com/ThinkAboutItLogos/Cour=
+seLogos/5267/TheOhioStateUniversity-Horiz-RGBHEX v2.PNG" alt=3D"Logo" title=
+=3D"Logo" />=0A=
+            </td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"height: 30px; background-color: #f6f5f1;"></td>=0A=
+        </tr>=0A=
+        <tr style=3D"background-color: #f6f5f1;">=0A=
+            <td style=3D"padding-left: 60px; background-color: #f6f5f1;">=
+=0A=
+                <h1 style=3D"color: #38c0da; font-family: Helvetica Nueue,H=
+elvetica,arial,sans-serif; font-size: 20px; font-weight: normal;">Hello Joh=
+n,</h1>=0A=
+            </td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"height: 15px; background-color: #f6f5f1;"></td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"padding-left: 60px;">=0A=
+                <table style=3D"padding: 5px; width: 90%; background-color:=
+ #ebeae6;">=0A=
+                    <tr>=0A=
+                        <th align=3D"left" style=3D"text-align: left; color=
+: #7b7a78; border-bottom: 1px solid #7b7a78;">Course</th>=0A=
+                        <th align=3D"left" style=3D"text-align: left; color=
+: #7b7a78; border-bottom: 1px solid #7b7a78;">Due Date</th>=0A=
+                    </tr>=0A=
+                    <tr>=0A=
+                        <td style=3D"color: #7b7a78;">Think About It: Campu=
+s SaVE</td>=0A=
+                        <td style=3D"color: #7b7a78;">6/10/2016</td>=0A=
+                    </tr>=0A=
+                </table>=0A=
+            </td>=0A=
+        </tr>=0A=
+=0A=
+        <tr>=0A=
+            <td style=3D"height: 15px; background-color: #f6f5f1;"></td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"padding: 0 60px; background-color: #f6f5f1;">=0A=
+                <p style=3D"color: #7b7a78;">The Ohio State University is p=
+roviding you with online training focused on preventing and responding to s=
+exual misconduct and relationship violence. Knowing how to identify these i=
+ssues, how to access support services and resources, and how to help preven=
+t these instances are all ways you can have a positive impact on campus. At=
+ Ohio State, there is no place for sexual misconduct or violence of any kin=
+d, and this training is part of BuckeyesACT, a comprehensive effort to comb=
+at these issues on our campus.<br />=0A=
+<br />=0A=
+For technical support, please contact Campus Clarity at admin@campusclarity=
+.com or 800-652-9546. For content questions, please contact clarity@osu.edu=
+.<br />=0A=
+<br />=0A=
+For more information visit:<br />=0A=
+<a href=3D"https://www.osu.edu/buckeyesact">BuckeyesACT</a><a href=3D" http=
+://titleix.osu.edu/index.html">Title IX</a><a href=3D" http://titleix.osu.e=
+du/global-navigation/training.html">Training FAQs</a></p>=0A=
+            </td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"height: 30px; background-color: #f6f5f1;"></td>=0A=
+        </tr>=0A=
+        <tr>=0A=
+            <td style=3D"padding-left: 60px; background-color: #f6f5f1;">=
+=0A=
+                <a href=3D"https://www.campusclarity.com/authentication/tok=
+en/01c93a91-dd79-439a-8b68-124c19e69ab8" style=3D"color: #fffff3; font-size=
+: x-large; text-decoration: none; cursor: pointer;">=0A=
+                    <img src=3D"https://www.campusclarity.com//content/imag=
+es/email/start_training.png" alt=3D"Start Training" title=3D"Start Training=
+" />=0A=
+                </a>=0A=
+            </td>=0A=
+        </tr>=0A=
+=0A=
+        <tr>=0A=
+            <td style=3D"padding-left: 80px; background-color: #f6f5f1; hei=
+ght: 20px;">=0A=
+                <a href=3D"https://www.campusclarity.com/authentication/tok=
+en/01c93a91-dd79-439a-8b68-124c19e69ab8" style=3D"font-size: smaller;">Star=
+t Training click here=0A=
+                </a>=0A=
+            </td>=0A=
+        </tr>=0A=
+=0A=
+        <tr>=0A=
+            <td style=3D"height: 30px; background-color: #f6f5f1;"></td>=0A=
+        </tr>=0A=
+        <tr style=3D"display: inherit;">=0A=
+            <td style=3D"padding: 0 60px; background-color: #f6f5f1; font-s=
+ize: 13px">=0A=
+                <span style=3D"color: #7b7a78;">For questions about the pro=
+gram, please contact: </span>=0A=
+                <br />=0A=
+                <div style=3D"color: #7b7a78;">clarity@osu.edu</div>=0A=
+                <div style=3D"color: #7b7a78;"></div>=0A=
+                <div style=3D"color: #7b7a78;"></div>=0A=
+            </td>=0A=
+=0A=
+        </tr>=0A=
+        <tr style=3D"display: inherit;">=0A=
+            <td style=3D"height: 30px; background-color: #f6f5f1;">=0A=
+        </tr>=0A=
+        <tr style=3D"background-color: #ebeae6; width: 100%; height: 40px;"=
+>=0A=
+            <td align=3D"center" style=3D"border-top: 1px solid #7b7a78">=
+=0A=
+                <table style=3D"color: #7b7a78; font-size: 14px;">=0A=
+                    <tr>=0A=
+                        <td><b>Tech Support:&nbsp;</b> </td>=0A=
+                        <td>=0A=
+                            <img style=3D"margin: 0 2px 0 20px;" src=3D"htt=
+p://www.campusclarity.com/Content/images/mes_icon.png" alt=3D"Email Icon" t=
+itle=3D"Email Icon" />=0A=
+                        </td>=0A=
+                        <td>admin@campusclarity.com &nbsp;                 =
+          =0A=
+                        </td>=0A=
+                        <td>=0A=
+                            <img style=3D"margin: 0 2px 0 20px;" src=3D"htt=
+p://www.campusclarity.com/Content/images/phone_icon.png" alt=3D"Phone Icon"=
+ title=3D"Phone Icon" />=0A=
+                        </td>=0A=
+                        <td>800-652-9546</td>=0A=
+                    </tr>=0A=
+                </table>=0A=
+            </td>=0A=
+        </tr>=0A=
+    </table>=0A=
+</body>=0A=
+</html>=0A=
+

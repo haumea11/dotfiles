@@ -1,0 +1,14 @@
+set imap_user = "gmt@airmail.cc"
+set imap_pass = "D9Ygsioc1OrRk6daLWMlh69BwDi3ageZfHbUJsR7"
+set smtp_url = "smtp://gmt@airmail.cc@mail.cock.li:587/"
+set smtp_pass = "D9Ygsioc1OrRk6daLWMlh69BwDi3ageZfHbUJsR7"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set from = "gmt@airmail.cc"
+set realname = "Greenwich Mean Time"
+set folder = "imaps://mail.cock.li:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Airmail]/Drafts"
+set header_cache = ~/.mutt/com.airmail.gmt/cache/headers                  
+set message_cachedir = ~/.mutt/com.airmail.gmt/cache/bodies               
+set certificate_file = ~/.mutt/com.airmail.gmt/certificates

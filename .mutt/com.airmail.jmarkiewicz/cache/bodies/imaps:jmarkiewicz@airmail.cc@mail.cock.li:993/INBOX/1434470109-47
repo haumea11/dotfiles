@@ -1,0 +1,44 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=sgi78b03Z9sXTyY4wkUu6Yjh09HNSCRM93SO+5RpZMo=;
+        b=XLCUAGrW5z211dQc25rhDFpUCygoaWPYFT9nAzBaDpRBkZCJ84MN1Zarl6h6WmTQ/g
+         V+4N6NMcS/YUQLtZsQJavbB23s7rZdLKw/KlEk7tVig6B60h9JGh3ePWN5gRe1sF8yLa
+         /CGPR67e2s8C6o3JfhdlOYvXqoVT1p4dhM5/yX9fi+P7RLuXq6L/wPZBf3g/xwJrkXDK
+         4X5I5GjlOJbwOHInPkhbM6M9NuyvjchPsnVTY/spvSxNGutg3fU2zICuSKqcHGLvcbt6
+         iz6qCeArrhom2Jt5IgkT5ABHOzvM8WdPp2Z3w+5WhonrIGwS1T+Lwl7ZjLzAZL5zRCOJ
+         r6GQ==
+MIME-Version: 1.0
+X-Received: by 10.13.223.149 with SMTP id i143mr16551781ywe.91.1437154953163;
+ Fri, 17 Jul 2015 10:42:33 -0700 (PDT)
+Date: Fri, 17 Jul 2015 13:42:33 -0400
+Message-ID: <CANNyMF-Rp7na_4P=yUuwoou+ucsqzG0B+w2swHDMGsOeT2WmaQ@mail.gmail.com>
+Subject: Mandatory Windows 10 Home updates: The good, the bad, and the
+ potentially ugly | ZDNet
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Content-Type: multipart/alternative; boundary=001a114e44907888ee051b15b660
+
+--001a114e44907888ee051b15b660
+Content-Type: text/plain; charset=UTF-8
+
+http://www.zdnet.com/article/mandatory-windows-10-home-updates-the-good-the-bad-and-the-potentially-ugly/?tag=nl.e589&s_cid=e589&ttag=e589&ftag=TREc64629f
+
+Yep. Virus.
+
+--001a114e44907888ee051b15b660
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr"><a href=3D"http://www.zdnet.com/article/mandatory-windows-10=
+-home-updates-the-good-the-bad-and-the-potentially-ugly/?tag=3Dnl.e589&amp;=
+s_cid=3De589&amp;ttag=3De589&amp;ftag=3DTREc64629f">http://www.zdnet.com/ar=
+ticle/mandatory-windows-10-home-updates-the-good-the-bad-and-the-potentiall=
+y-ugly/?tag=3Dnl.e589&amp;s_cid=3De589&amp;ttag=3De589&amp;ftag=3DTREc64629=
+f</a></p>
+<p dir=3D"ltr">Yep. Virus.</p>
+
+--001a114e44907888ee051b15b660--

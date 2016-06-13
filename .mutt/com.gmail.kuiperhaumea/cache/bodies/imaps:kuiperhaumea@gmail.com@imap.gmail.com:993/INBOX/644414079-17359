@@ -1,0 +1,768 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp1378182oia;
+        Wed, 16 Mar 2016 10:12:03 -0700 (PDT)
+X-Received: by 10.28.92.195 with SMTP id q186mr5488472wmb.37.1458148323542;
+        Wed, 16 Mar 2016 10:12:03 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22b.google.com (mail-wm0-x22b.google.com. [2a00:1450:400c:c09::22b])
+        by mx.google.com with ESMTPS id m3si5796156wmb.52.2016.03.16.10.12.03
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 16 Mar 2016 10:12:03 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) client-ip=2a00:1450:400c:c09::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@bandsintown.com;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wm0-x22b.google.com with SMTP id p65so199003489wmp.1
+        for <kuiperhaumea@gmail.com>; Wed, 16 Mar 2016 10:12:03 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:dkim-signature
+         :content-transfer-encoding:mime-version:from:to:subject:message-id
+         :date:list-unsubscribe;
+        bh=jo4xTJ5EgVFykxAXiKIaZ7r/n3wB/memkXgQB3G/aus=;
+        b=i8mldIzN/dq3fvIF9yZb6p+Z1g8ryHgRKYnZvvQ+33cxMm6ud8OY/g0GUDhvTeWwmS
+         PlPHpZ3uehso44+7nm2hlUfHfpzkEZu2wFYRPdAPKEO50X+VQ4PrW3btqjgR1mh8m4vM
+         GosR8Mo7gS5EnEBoKkS9liQ9ZpEwqJGg/ghifkHSyyJDa/KESxz7Bpe9zl84OBfzEqoc
+         4LCe7h7cmfM7ZTSfaEe51V9UJWNq651UvVwBRX9JhjKnTE2bzwP2DyNmxsiwawRGABEd
+         9r/v12wyszLbX7MsG4qswhkQt7BODWfDE2i0FejyQic1yaOo9oTa3vRSV8uNviW60aD/
+         NorQ==
+X-Gm-Message-State: AD7BkJJJoTh/S08vNritc2JH89uRFS0LHz0EpfJyc4UCi6JuwL9qz9QoN9SuK4Pz/PfMpVAM5vB776q4Y8btwZDI5rc7zkw=
+X-Received: by 10.28.90.68 with SMTP id o65mr29942510wmb.70.1458148323097;
+        Wed, 16 Mar 2016 10:12:03 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp1313860wmb;
+        Wed, 16 Mar 2016 10:12:01 -0700 (PDT)
+X-Received: by 10.107.185.135 with SMTP id j129mr5176283iof.32.1458148321664;
+        Wed, 16 Mar 2016 10:12:01 -0700 (PDT)
+Return-Path: <bounces+112564-df71-markiewicz.john=gmail.com@email.bandsintown.com>
+Received: from o1.email.bandsintown.com (o1.email.bandsintown.com. [50.31.32.5])
+        by mx.google.com with ESMTPS id v6si6223580igz.77.2016.03.16.10.12.00
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 16 Mar 2016 10:12:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+112564-df71-markiewicz.john=gmail.com@email.bandsintown.com designates 50.31.32.5 as permitted sender) client-ip=50.31.32.5;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bandsintown.com; 
+	h=content-type:content-transfer-encoding:mime-version:from:to:subject:list-unsubscribe; 
+	s=smtpapi; bh=OjaZnxebnbEPBfTnhxD/+B/Mkgg=; b=joG0cc1heBE66fag+u
+	mi0su8hSVhQZsLGMp9iG4+B/hbHcLKL03VkD7uj8wf/UfslpInoo7YeQdmidT7fJ
+	ng8qVXOPxotciTKB2vFSUGEf3gzosTO+hyH5Xuwig5eERBNS0WlG7ksBKQDRp2tR
+	4T77B+17QU3z5cDEmnk0IdEnU=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:content-transfer-encoding:mime-version:from:to:subject:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=OjaZnxebnbEPBfTnhxD/+B/Mkgg=; b=NM88STgissusGeeDzz
+	kMWBlufPXL6oTCqGfhzAiqTS1E51ArJHd+FScQhzEWWKJiO48Ohv3XH7lZwrhPvL
+	RRDwzZ6s/y6Lhsl3f43jbQQg9MDHTigt2tGG6ny5jku+nJsi/SbRu9w+K3nhoj+J
+	css2ZS7VcPYbBHRV+d4X38Eqw=
+Received: by filter0440p1mdw1.sendgrid.net with SMTP id filter0440p1mdw1.27021.56E993D483
+        2016-03-16 17:11:48.989466738 +0000 UTC
+Received: from bandsintown.com (ec2-54-147-197-91.compute-1.amazonaws.com [54.147.197.91])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id v4Vizt9QSn-qFXlt8ZhVWw
+	for <markiewicz.john@gmail.com>; Wed, 16 Mar 2016 17:11:49.048 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="----------=_1458148309-3038-66031"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+X-Mailer: MIME-tools 5.505 (Entity 5.505)
+From: "Bandsintown" <notifications@bandsintown.com>
+To: markiewicz.john@gmail.com
+Subject: G. Love & Special Sauce, Blind Pilot, Vance Joy
+Message-ID: <v4Vizt9QSn-qFXlt8ZhVWw@ismtpd0001p1iad1.sendgrid.net>
+Date: Wed, 16 Mar 2016 17:11:49 +0000 (UTC)
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGd1EhjwLQcpLVHWpqmUim+7/Otm/Od3CrACA
+ ZsH6+9NdOHYTlE2xosWfs/4NiFWaGTiC/nZyxqc+NmI32wCdTa5Lvahqkco/q7UvlbZWJPmnZz616I
+ Uip/c1RpyyF0gLx7iXkhiW+X3zh+WTsUiKx4jYlgUJC9akU+/FncHSMCQk19KSogVT4pW5ic+WveFs
+ sNVmju1h8pefwZuJ8cknDm
+X-SG-ID: T32io52tAyD7K6h4X1+igvvaBkkKU6JSaX+T9JQDWEHuAJwG7Z04P8L9y4ta0r94SeJzfgzpzspV+K
+ RpT7Ie2lkRK30gLtDgmT9zbRkIxBfOA05/6TKFLdtFHFyreSOh
+X-Feedback-ID: 112564:ZFCx4i5K6k3VRZbUPUdR1W6k59LInrH41qXDtaYSSyg=:FRWkpnS+JHPsI2T4YchhmmP9uChmapcVw7e6b1kwwAs=:SG
+List-Unsubscribe: <http://email.bandsintown.com/wf/unsubscribe?upn=fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6wT0SB1bUFwA9HGWYrbq22JNGK-2BKBF5kMsikuuCgMXaj0pCKAyqhe0x-2B1D88z16Yc22TOtMVkpsqDUDbO8KJkEzPnzVDMNBxtfe4PihJywDy4qsFO8-2FMHmP5aSuX7vzqHFKZV5MaqF-2FGxJdfl34gM7Q0QYue-2B4pdAm-2Bn0G0qhuqLWHqQinplHPs8H8fNU9XgTcDzZYL9rYBjtbbMabnIt-2FXBo23BGiHJhOakpp2OhZ5u9ZdN7YcNwIaJ7Qm9-2FHm6XCEI0enlRC4B-2FW3VgIRc8LA-3D-3D>, <mailto:unsubscribe@email.bandsintown.com?subject=http://email.bandsintown.com/wf/unsubscribe*q*upn=fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6wT0SB1bUFwA9HGWYrbq22JNGK-2BKBF5kMsikuuCgMXaj0pCKAyqhe0x-2B1D88z16Yc22TOtMVkpsqDUDbO8KJkEzPnzVDMNBxtfe4PihJywDy4qsFO8-2FMHmP5aSuX7vzqHFKZV5MaqF-2FGxJdfl34gM7Q0QYue-2B4pdAm-2Bn0G0qhuqLWHqQinplHPs8H8fNU9XgTcDzZYL9rYBjtbbMabnIt-2FXBo23BGiHJhOakpp2OhZ5u9ZdN7YcNwIaJ7Qm9-2FHm6XCEI0enlRC4B-2FW3VgIRc8LA-3D-3D>
+
+This is a multi-part message in MIME format...
+------------=_1458148309-3038-66031
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+Hi John!
+
+Your Weekly Bandsintown Update - March 16th
+
+
+POPULAR LOCAL SHOWS
+---------------------------------------------
+G. Love & Special Sauce
+The Basement - Columbus, OH
+Wed, Mar 16, 2016
+Ticket & More: http://www.bandsintown.com/event/10943412?artist=G.%20Love%20%26%20Special%20Sauce&came_from=21&utm_source=fan_weekly&utm_medium=email_event&utm_campaign=Weekly%20Update
+
+Blind Pilot
+EXPRESS LIVE! - Columbus, OH
+Mon, Mar 21, 2016
+Ticket & More: http://www.bandsintown.com/event/10546129?artist=Blind%20Pilot&came_from=21&utm_source=fan_weekly&utm_medium=email_event&utm_campaign=Weekly%20Update
+
+Vance Joy
+EXPRESS LIVE! - Columbus, OH
+Mon, Mar 21, 2016
+Ticket & More: http://www.bandsintown.com/event/10546129?artist=Vance%20Joy&came_from=21&utm_source=fan_weekly&utm_medium=email_event&utm_campaign=Weekly%20Update
+
+
+Seeya there,
+
+~ Bandsintown
+19 W 34th Street, Suite 1000, New York, NY 10001
+
+You receive this newsletter because you're a member of Bandsintown.
+To unsubscribe click here: http://www.bandsintown.com/unsubscribe?user_id=22161318&auth_key=ed10796efe699e43dda06f144d4505a18802779b&type=weekly_update_emails&came_from=21&utm_source=fan_weekly&utm_medium=email_unsubscribe&utm_campaign=Weekly%20Update
+
+
+------------=_1458148309-3038-66031
+Content-Type: text/html
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns=3D"http://www.w3.org/1999/xht=
+ml"><head><meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3D=
+utf-8" /><meta name=3D"viewport" content=3D"width=3Ddevice-width"/><style t=
+ype=3D"text/css">body{width:100%!important;min-width:100%;margin:0;padding:=
+0;color:#222;font-family:Helvetica,Arial,sans-serif;font-weight:400;text-al=
+ign:left;font-size:14px;line-height:19px}.ExternalClass{width:100%;line-hei=
+ght:100%}#backgroundTable{margin:0;padding:0;width:100%!important;line-heig=
+ht:100%!important}img{outline:0;text-decoration:none;-ms-interpolation-mode=
+:bicubic;width:auto;max-width:100%;float:left;clear:both;display:block}a:ho=
+ver{color:#33b9ff;text-decoration:none!important}a:active{color:#2795b6!imp=
+ortant}a:visited,h1,h2,h3,h4,h5,h6 a:active,h6 a:visited{color:#2ba6cb!impo=
+rtant}table.button:active,table.button:hover,table.button:visited,table.lar=
+ge-button:hover td,table.medium-button:hover,table.small-button:hover,table=
+.tiny-button:hover{background:#2795b6!important}table.button,table.button:a=
+ctive,table.button:hover,table.button:visited,table.large-button td a:visit=
+ed,table.large-button:active td a,table.large-button:hover,table.medium-but=
+ton,table.medium-button:active,table.medium-button:hover,table.small-button=
+,table.small-button:active,table.small-button:hover,table.tiny-button,table=
+.tiny-button:active,table.tiny-button:hover{color:#fff!important}table.seco=
+ndary:hover td{background:#d0d0d0!important;color:#555}table.secondary td a=
+:visited,table.secondary:active td a,table.secondary:hover{color:#555!impor=
+tant}.aw-block-download p:first-line,.fw-block-download p:first-line{margin=
+-left:0}.twoBlocksImage{visibility:hidden;height:0;width:0}@media only scre=
+en and (max-device-width:480px){.mobile-align-center,table[class=3Dcontaine=
+rwidth],table[class=3Ddevicewidth]{text-align:center!important}table[class=
+=3Dbody] img{width:auto!important;height:auto!important}table[class=3Dbody]=
+ center{min-width:0!important}table[class=3Dbody] .container{width:95%!impo=
+rtant}table[class=3Dbody] .row{width:100%!important;display:block!important=
+}table[class=3Dbody] .wrapper{display:block!important;padding-right:0!impor=
+tant}table[class=3Dbody] .column,table[class=3Dbody] .columns{table-layout:=
+fixed!important;float:none!important;width:100%!important;padding-right:0!i=
+mportant;padding-left:0!important;display:block!important}table[class=3Dbod=
+y] .wrapper.first .column,table[class=3Dbody] .wrapper.first .columns{displ=
+ay:table!important}table[class=3Dbody] table.column td,table[class=3Dbody] =
+table.columns td{width:100%!important}table[class=3Dbody] .column td.one,ta=
+ble[class=3Dbody] .columns td.one{width:8.333333%!important}table[class=3Db=
+ody] .column td.two,table[class=3Dbody] .columns td.two{width:16.666666%!im=
+portant}table[class=3Dbody] .column td.three,table[class=3Dbody] .columns t=
+d.three{width:25%!important}table[class=3Dbody] .column td.four,table[class=
+=3Dbody] .columns td.four{width:33.333333%!important}table[class=3Dbody] .c=
+olumn td.five,table[class=3Dbody] .columns td.five{width:41.666666%!importa=
+nt}table[class=3Dbody] .column td.six,table[class=3Dbody] .columns td.six{w=
+idth:50%!important}table[class=3Dbody] .column td.seven,table[class=3Dbody]=
+ .columns td.seven{width:58.333333%!important}table[class=3Dbody] .column t=
+d.eight,table[class=3Dbody] .columns td.eight{width:66.666666%!important}ta=
+ble[class=3Dbody] .column td.nine,table[class=3Dbody] .columns td.nine{widt=
+h:75%!important}table[class=3Dbody] .column td.ten,table[class=3Dbody] .col=
+umns td.ten{width:83.333333%!important}table[class=3Dbody] .column td.eleve=
+n,table[class=3Dbody] .columns td.eleven{width:91.666666%!important}table[c=
+lass=3Dbody] .column td.twelve,table[class=3Dbody] .columns td.twelve{width=
+:100%!important}table[class=3Dbody] td.offset-by-eight,table[class=3Dbody] =
+td.offset-by-eleven,table[class=3Dbody] td.offset-by-five,table[class=3Dbod=
+y] td.offset-by-four,table[class=3Dbody] td.offset-by-nine,table[class=3Dbo=
+dy] td.offset-by-one,table[class=3Dbody] td.offset-by-seven,table[class=3Db=
+ody] td.offset-by-six,table[class=3Dbody] td.offset-by-ten,table[class=3Dbo=
+dy] td.offset-by-three,table[class=3Dbody] td.offset-by-two{padding-left:0!=
+important}table[class=3Dbody] .left-text-pad,table[class=3Dbody] .right-tex=
+t-pad,table[class=3Dbody] .text-pad-left,table[class=3Dbody] .text-pad-righ=
+t{padding-left:10px!important}table[class=3Dbody] table.columns td.expander=
+{width:1px!important}table[class=3Dbody] .hide-for-small,table[class=3Dbody=
+] .show-for-desktop{display:none!important}table[class=3Dbody] .hide-for-de=
+sktop,table[class=3Dbody] .show-for-small{display:inherit!important}.mobile=
+Image{max-height:none!important;width:auto!important}table[class=3Dcontaine=
+rwidth]{width:280px!important}table[class=3Ddevicewidth]{width:260px!import=
+ant}table[class=3Dbanner]{display:hidden!important}table[class=3Dctabuttons=
+]{width:100%!important}img[class=3Dblue],table[class=3Dblue]{width:33%!impo=
+rtant}table[class=3Dpink]{width:65%!important}table[class=3Dyellow]{width:2=
+%!important}.truncateMobileText{max-width:169px!important}.mobileImagePoste=
+rReduce{height:73px!important;max-height:73px!important}.mobileRemoveWhiteS=
+pace{white-space:normal!important}.imageMobileMoreHeight{height:210px!impor=
+tant;max-height:210px!important}.twoBlocksImage{visibility:hidden!important=
+;height:0!important;display:none!important}}</style><!--[ifgtemso9]><style =
+type=3D"text/css">#tickets{padding:10px 0;text-align:center;margin:5px 0}#g=
+oing,#interested{width:100%;margin:0 0 10px;text-align:center;padding:10px =
+0}#helloText{margin:10px 0!important}
+</style>
+<![endif]-->
+</head><body style=3D"width:100% !important;min-width:100%;-webkit-text-siz=
+e-adjust:100%;-ms-text-size-adjust:100%;color:#222222;font-family:'Helvetic=
+a', 'Arial', sans-serif;font-weight:normal;text-align:left;line-height:19px=
+;font-size:14px;margin:0;padding:0;"><img src=3D"http://px1.bandsintown.com=
+/clear.gif?property=3Duser_log&param=3D%7B%22user_id%22%3A22161318%2C%22log=
+type%22%3A%22impression%22%2C%22source%22%3A%22email%22%2C%22custom%22%3A%7=
+B%22action%22%3A%22open%22%2C%22email_type%22%3A%22fan_weekly%22%2C%22email=
+_id%22%3A%225761478%22%7D%2C%22nonce%22%3A%22717842%22%7D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/><img src=3D"http://www.google-analytics.com/collect?v=
+=3D1&tid=3DUA-2044446-18&cid=3D22161318&uid=3D22161318&t=3Devent&ec=3Demail=
+&ea=3Dopen&el=3Dfan_weekly&cs=3Dfan_weekly&cm=3Demail&z=3D5761478&cd1=3DEma=
+il" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !imp=
+ortant;width:1px !important;border-width:0 !important;margin-top:0 !importa=
+nt;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impo=
+rtant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/><table class=3D"body" bgcolor=3D"#E=
+7E7E7" style=3D"border-spacing:0;border-collapse:collapse;vertical-align:to=
+p;text-align:left;height:100%;width:100%;color:#222222;font-family:'Helveti=
+ca', 'Arial', sans-serif;font-weight:normal;line-height:19px;font-size:14px=
+;margin:0;padding:0;"><tr style=3D"vertical-align:top;text-align:left;paddi=
+ng:0;" align=3D"left"><td class=3D"center" align=3D"center" valign=3D"top" =
+style=3D"word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;hyphe=
+ns:auto;border-collapse:collapse !important;vertical-align:top;text-align:c=
+enter;color:#222222;font-family:'Helvetica', 'Arial', sans-serif;font-weigh=
+t:normal;line-height:19px;font-size:14px;margin:0;padding:0;"><center style=
+=3D"width:100%;min-width:580px;"><!-- Header --><table class=3D"row header"=
+ background=3D"http://static.bandsintown.com/images/email/top-bar.png" styl=
+e=3D"border-spacing:0;border-collapse:collapse;vertical-align:top;text-alig=
+n:left;width:100%;position:relative;background:#00A9A9;padding:0px;"><tr st=
+yle=3D"vertical-align:top;text-align:left;padding:0;" align=3D"left"><td cl=
+ass=3D"center" align=3D"center" style=3D"word-break:break-word;-webkit-hyph=
+ens:auto;-moz-hyphens:auto;hyphens:auto;border-collapse:collapse !important=
+;vertical-align:top;text-align:center;color:#222222;font-family:'Helvetica'=
+, 'Arial', sans-serif;font-weight:normal;line-height:19px;font-size:14px;ma=
+rgin:0;padding:0;" valign=3D"top"><center style=3D"width:100%;min-width:580=
+px;"><table class=3D"container" style=3D"border-spacing:0;border-collapse:c=
+ollapse;vertical-align:top;text-align:inherit;width:580px;margin:0 auto;pad=
+ding:0;"><tr style=3D"vertical-align:top;text-align:left;padding:0;" align=
+=3D"left"><td class=3D"wrapper last" style=3D"word-break:break-word;-webkit=
+-hyphens:auto;-moz-hyphens:auto;hyphens:auto;border-collapse:collapse !impo=
+rtant;vertical-align:top;text-align:left;position:relative;color:#222222;fo=
+nt-family:'Helvetica', 'Arial', sans-serif;font-weight:normal;line-height:1=
+9px;font-size:14px;margin:0;padding:10px 0px 0px;" align=3D"left" valign=3D=
+"top"><table class=3D"twelve columns" style=3D"border-spacing:0;border-coll=
+apse:collapse;vertical-align:top;text-align:left;width:580px;margin:0 auto;=
+padding:0;"><tr style=3D"vertical-align:top;text-align:left;padding:0;" ali=
+gn=3D"left"><td class=3D"eight sub-columns" style=3D"word-break:break-word;=
+-webkit-hyphens:auto;-moz-hyphens:auto;hyphens:auto;border-collapse:collaps=
+e !important;vertical-align:top;text-align:left;min-width:0px;width:66.6666=
+66%;color:#222222;font-family:'Helvetica', 'Arial', sans-serif;font-weight:=
+normal;line-height:19px;font-size:14px;margin:0;padding:0px 10px 10px 0px;"=
+ align=3D"left" valign=3D"top"><a href=3D"http://www.bandsintown.com" style=
+=3D"color:#2ba6cb;text-decoration:none;"><img id=3D"logo-bandsintown" style=
+=3D"max-height:31px;outline:none;text-decoration:none;-ms-interpolation-mod=
+e:bicubic;width:auto;max-width:100%;float:left;clear:both;display:block;bor=
+der:none;" src=3D"http://static.bandsintown.com/images/email/bandsintown-lo=
+go.png" alt=3D"" align=3D"left" /></a></td><td class=3D"four sub-columns la=
+st" style=3D"vertical-align:middle;word-break:break-word;-webkit-hyphens:au=
+to;-moz-hyphens:auto;hyphens:auto;border-collapse:collapse !important;text-=
+align:left;min-width:0px;width:33.333333%;color:#222222;font-family:'Helvet=
+ica', 'Arial', sans-serif;font-weight:normal;line-height:19px;font-size:14p=
+x;margin:0;padding:0px 0px 10px;" align=3D"left" valign=3D"middle"><img cla=
+ss=3D"text-logo-image" style=3D"float:right;outline:none;text-decoration:no=
+ne;-ms-interpolation-mode:bicubic;width:auto;max-width:100%;clear:both;disp=
+lay:block;" id=3D"logo-weliveforlivemusic" src=3D"http://static.bandsintown=
+.com/images/email/weliveforlivemusic.png" alt=3D"" align=3D"right" /></td><=
+td class=3D"expander" style=3D"word-break:break-word;-webkit-hyphens:auto;-=
+moz-hyphens:auto;hyphens:auto;border-collapse:collapse !important;vertical-=
+align:top;text-align:left;visibility:hidden;width:0px;color:#222222;font-fa=
+mily:'Helvetica', 'Arial', sans-serif;font-weight:normal;line-height:19px;f=
+ont-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"></td></tr>=
+</table></td></tr></table></center></td></tr></table><div align=3D"center" =
+style=3D"background:url(http://g.adspeed.net/ad.php?do=3Dimg&zid=3D58448&wd=
+=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1&cb=3D5761478&aslat=3D39.9611111&as=
+long=3D-82.9988889&asgeo=3D042014x16135) top no-repeat;background-repeat:no=
+-repeat;background-position:top;width:100%;" background=3D"http://g.adspeed=
+.net/ad.php?do=3Dimg&zid=3D58448&wd=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1=
+&cb=3D5761478&aslat=3D39.9611111&aslong=3D-82.9988889&asgeo=3D042014x16135"=
+ ><a href=3D"http://g.adspeed.net/ad.php?do=3Dclk&zid=3D58447&wd=3D-1&ht=3D=
+-1&pair=3Dasemail" target=3D"_top" style=3D"display:block;margin:0 auto;max=
+-width:600px;"><img style=3D"border:0px;" src=3D"http://g.adspeed.net/ad.ph=
+p?do=3Dimg&zid=3D58447&wd=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1&cb=3D5761=
+478&aslat=3D39.9611111&aslong=3D-82.9988889&asgeo=3D042014x16135" alt=3D"" =
+/></a><br /><table width=3D"600" bgcolor=3D"#ffffff" align=3D"center" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0" class=3D"containerwidth" style=
+=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:0;"><=
+tr><td><!-- Hello text --><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" id=3D"backgroundTable" st-sortable=3D"preheader" styl=
+e=3D"width:100% !important;line-height:100% !important;border-spacing:0;bor=
+der-collapse:collapse;text-align:left;margin:0;padding:0;"><tr style=3D"tex=
+t-align:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line-hei=
+ght:19px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top">=
+<table width=3D"540" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth" style=3D"border-spacing:0;border-collapse=
+:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:=
+0;" align=3D"left"><td width=3D"100%" style=3D"color:#222222;line-height:19=
+px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><table=
+ width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"c=
+enter" class=3D"devicewidth" style=3D"border-spacing:0;border-collapse:coll=
+apse;text-align:left;padding:0;"><tr><td width=3D"100%" height=3D"5"></td><=
+/tr><tr><td width=3D"100%" align=3D"left" valign=3D"middle" style=3D"font-s=
+ize:14px;line-height:18px;color:#282828;margin:0;padding:0;" st-content=3D"=
+preheader"><h6 style=3D"font-size:14px;color:#222222;text-align:left;line-h=
+eight:1.3;word-break:normal;margin:0;padding:10px 0;" align=3D"left" id=3D"=
+helloText"><strong>Hello John!</strong><br/>Your Weekly Update <a href=3D"#=
+" style=3D"color:#000000;text-decoration:none">March&nbsp;16th</a></h6></td=
+></tr></table></td></tr><!-- Spacing --><tr><td width=3D"100%" height=3D"10=
+" align=3D"left" valign=3D"top"></td></tr></table></td></tr></table><!-- /H=
+ello text --><!-- Just Announced --><!-- Shows this week --><table width=3D=
+"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgroundTab=
+le" st-sortable=3D"seperator" style=3D"width:100% !important;line-height:10=
+0% !important;border-spacing:0;border-collapse:collapse;text-align:left;mar=
+gin:0;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><=
+td style=3D"color:#222222;line-height:19px;font-size:14px;margin:0;padding:=
+0;" align=3D"left" valign=3D"top"><table width=3D"600" align=3D"center" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"devicewidth" style=
+=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:0;"><=
+tr style=3D"text-align:left;padding:0;" align=3D"left"><td align=3D"center"=
+ height=3D"10" style=3D"font-size:1px;line-height:1px;color:#222222;margin:=
+0;padding:0;" valign=3D"top">&nbsp;</td></tr></table></td></tr></table><!--=
+ Start little columns popular local shows --><!-- Grey title --><table widt=
+h=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgroun=
+dTable" st-sortable=3D"preheader" style=3D"width:100% !important;line-heigh=
+t:100% !important;border-spacing:0;border-collapse:collapse;text-align:left=
+;margin:0;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"lef=
+t"><td style=3D"color:#222222;line-height:19px;font-size:14px;margin:0;padd=
+ing:0;" align=3D"left" valign=3D"top"><table width=3D"560" bgcolor=3D"#E7E7=
+E7" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=
+=3D"devicewidth" style=3D"border-spacing:0;border-collapse:collapse;text-al=
+ign:left;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left=
+"><td width=3D"580" style=3D"color:#222222;line-height:19px;font-size:14px;=
+margin:0;padding:0;" align=3D"left" valign=3D"top"><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" class=3D"de=
+vicewidth" style=3D"border-spacing:0;border-collapse:collapse;text-align:le=
+ft;padding:0;"><!-- Spacing --><tr style=3D"text-align:left;padding:0;" ali=
+gn=3D"left"><td width=3D"100%" height=3D"3" style=3D"color:#222222;line-hei=
+ght:19px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top">=
+</td></tr><!-- Spacing --><tr style=3D"text-align:left;padding:0;" align=3D=
+"left"><td width=3D"100%" align=3D"left" valign=3D"middle" style=3D"font-si=
+ze:13px;color:#777777;line-height:19px;margin:0;padding:0;" st-content=3D"p=
+reheader">&nbsp;&nbsp;<strong>Popular Local Shows</strong></td></tr><!-- Sp=
+acing --><tr style=3D"text-align:left;padding:0;" align=3D"left"><td width=
+=3D"100%" height=3D"2" style=3D"color:#222222;line-height:19px;font-size:14=
+px;margin:0;padding:0;" align=3D"left" valign=3D"top"></td></tr><!-- Spacin=
+g --></table></td></tr></table></td></tr></table><!-- Separator --><table w=
+idth=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgr=
+oundTable" st-sortable=3D"seperator" style=3D"width:100% !important;line-he=
+ight:100% !important;border-spacing:0;border-collapse:collapse;text-align:l=
+eft;margin:0;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"=
+left"><td style=3D"color:#222222;line-height:19px;font-size:14px;margin:0;p=
+adding:0;" align=3D"left" valign=3D"top"><table width=3D"600" align=3D"cent=
+er" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"devicewidth" =
+style=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:=
+0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td align=3D"ce=
+nter" height=3D"10" style=3D"font-size:1px;line-height:1px;color:#222222;ma=
+rgin:0;padding:0;" valign=3D"top">&nbsp;</td></tr></table></td></tr></table=
+><!-- Loop of events --><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" id=3D"backgroundTable" st-sortable=3D"left-image" style=
+=3D"width:100% !important;line-height:100% !important;border-spacing:0;bord=
+er-collapse:collapse;text-align:left;margin:0;padding:0;"><tr style=3D"text=
+-align:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line-heig=
+ht:19px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><=
+table width=3D"560" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth" style=3D"border-spacing:0;border-collapse=
+:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:=
+0;" align=3D"left"><td width=3D"100%" style=3D"color:#222222;line-height:19=
+px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><table=
+ width=3D"560" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"ce=
+nter" class=3D"devicewidth" style=3D"border-spacing:0;border-collapse:colla=
+pse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" al=
+ign=3D"left"><td style=3D"color:#222222;line-height:19px;font-size:14px;mar=
+gin:0;padding:0;" align=3D"left" valign=3D"top"><table class=3D"ctabuttons"=
+ width=3D"32%" align=3D"left" valign=3D"middle" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" st-button=3D"learnmore" style=3D"border-spacing:0;bor=
+der-collapse:collapse;text-align:left;padding:0;"><tr style=3D"text-align:l=
+eft;padding:0;" align=3D"left"><td style=3D"color:#222222;line-height:19px;=
+font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><table wi=
+dth=3D"100%" bgcolor=3D"" align=3D"left" valign=3D"middle" class=3D"blue" s=
+tyle=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:0=
+;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td width=3D"100=
+%" align=3D"center" class=3D"blue " background=3D"https://s3.amazonaws.com/=
+bit-photos/thumb/4667466.jpeg" style=3D"color:#222222;line-height:19px;font=
+-size:14px;margin:0;padding:0;overflow:hidden;background-size:cover !import=
+ant;background-repeat:no-repeat !important;" valign=3D"top"><a href=3D"http=
+://www.bandsintown.com/event/10943412?artist=3DG.%20Love%20%26%20Special%20=
+Sauce&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=3Demail_event&utm_c=
+ampaign=3DWeekly%20Update" style=3D"color:#33b9ff;text-decoration:none !imp=
+ortant;"><div class=3D"mobileImagePosterReduce" style=3D"height:140px;max-h=
+eight:140px;"><img src=3D"https://s3.amazonaws.com/bit-photos/thumb/4667466=
+.jpeg" class=3D"twoBlocksImage" width=3D"179" style=3D"visibility:hidden;vi=
+sibility:hidden;"/></div></a></td></tr></table><table width=3D"100%" height=
+=3D"7px" align=3D"left" valign=3D"middle" class=3D"yellow" style=3D"border-=
+spacing:0;border-collapse:collapse;text-align:left;padding:0;"><tr style=3D=
+"text-align:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line=
+-height:19px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"t=
+op"><a style=3D"text-decoration:none !important;color:#ffffff;font-size:2px=
+;text-align:center;line-height:12px;"></a></td></tr></table><table width=3D=
+"100%" align=3D"left" valign=3D"middle" bgcolor=3D"" class=3D"pink" style=
+=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:0;"><=
+tr style=3D"text-align:left;padding:0;" align=3D"left"><td class=3D"truncat=
+eMobileText" style=3D"font-size:12px;text-align:left;color:#282828;line-hei=
+ght:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-widt=
+h:179px;word-break:break-word;border-collapse:collapse !important;margin:0;=
+padding:0;" align=3D"left" valign=3D"top"><a style=3D"color:black;text-deco=
+ration:none" href=3D"http://www.bandsintown.com/event/10943412?artist=3DG.%=
+20Love%20%26%20Special%20Sauce&came_from=3D21&utm_source=3Dfan_weekly&utm_m=
+edium=3Demail_event&utm_campaign=3DWeekly%20Update"> <strong>G. Love & Spec=
+ial Sauce</strong></a></td></tr><!-- end of title --><!-- content --><tr st=
+yle=3D"text-align:left;padding:0;" align=3D"left"><td class=3D"truncateMobi=
+leText" style=3D"text-align:left;font-size:12px;color:#4A4A4A;line-height:1=
+5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:179=
+px;word-break:break-word;border-collapse:collapse !important;margin:0;paddi=
+ng:0;" align=3D"left" valign=3D"top"><a style=3D"color:#4A4A4A;text-decorat=
+ion:none" href=3D"http://www.bandsintown.com/event/10943412?artist=3DG.%20L=
+ove%20%26%20Special%20Sauce&came_from=3D21&utm_source=3Dfan_weekly&utm_medi=
+um=3Demail_event&utm_campaign=3DWeekly%20Update"> <strong>The Basement - Co=
+lumbus, OH</strong></a><br><a style=3D"color:#4A4A4A;text-decoration:none" =
+href=3D"http://www.bandsintown.com/event/10943412?artist=3DG.%20Love%20%26%=
+20Special%20Sauce&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=3Demail=
+_event&utm_campaign=3DWeekly%20Update"> Wed, Mar 16, 2016</a></td></tr><tr =
+style=3D"text-align:left;padding:0;" align=3D"left"><td width=3D"100%" heig=
+ht=3D"1" style=3D"font-size:1px;line-height:3px;mso-line-height-rule:exactl=
+y;color:#222222;margin:0;padding:0;" align=3D"left" valign=3D"top">&nbsp;</=
+td></tr></table><table width=3D"100%" height=3D"5px" align=3D"left" valign=
+=3D"middle" class=3D"yellow" style=3D"border-spacing:0;border-collapse:coll=
+apse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" a=
+lign=3D"left"><td style=3D"color:#222222;line-height:19px;font-size:14px;ma=
+rgin:0;padding:0;" align=3D"left" valign=3D"top"><a style=3D"text-decoratio=
+n:none !important;color:#ffffff;font-size:2px;text-align:center;line-height=
+:12px;"></a></td></tr></table><a href=3D"http://www.bandsintown.com/event/1=
+0943412?artist=3DG.%20Love%20%26%20Special%20Sauce&came_from=3D21&utm_sourc=
+e=3Dfan_weekly&utm_medium=3Demail_event&utm_campaign=3DWeekly%20Update"><ta=
+ble width=3D"100%" height=3D"28px" bgcolor=3D"#00B4B3" align=3D"left" valig=
+n=3D"middle" class=3D"pink" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"border-radius:3px;border-spacing:0;border-collapse:collapse;text=
+-align:left;padding:0;" st-button=3D"learnmore"><tr style=3D"text-align:lef=
+t;padding:0;" align=3D"left"><td height=3D"6" align=3D"center" style=3D"fon=
+t-size:1px;line-height:1px;color:#222222;margin:0;padding:0;" valign=3D"top=
+">&nbsp;</td></tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><=
+td height=3D"14" align=3D"center" valign=3D"middle" style=3D"font-size:13px=
+;font-weight:bold;color:#ffffff;text-align:center;line-height:14px;-webkit-=
+text-size-adjust:none;word-break:break-word;border-collapse:collapse !impor=
+tant;margin:0;padding:0;" st-title=3D"fulltext-btn"><span style=3D"text-dec=
+oration:none !important;color:#ffffff;text-align:center;">Tickets And More<=
+/span></td></tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><td=
+ height=3D"6" align=3D"center" style=3D"font-size:1px;line-height:1px;color=
+:#222222;margin:0;padding:0;" valign=3D"top">&nbsp;</td></tr></table></a></=
+td></tr></table><table class=3D"ctabuttons" width=3D"2%" height=3D"3" bgcol=
+or=3D"" align=3D"left" valign=3D"middle" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" st-button=3D"learnmore" style=3D"border-spacing:0;border-col=
+lapse:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;pad=
+ding:0;" align=3D"left"><td height=3D"14" align=3D"center" valign=3D"middle=
+" style=3D"font-size:13px;font-weight:bold;color:#ffffff;text-align:center;=
+line-height:14px;-webkit-text-size-adjust:none;word-break:break-word;border=
+-collapse:collapse !important;margin:0;padding:0;" st-title=3D"fulltext-btn=
+"><a style=3D"text-decoration:none !important;color:#ffffff;text-align:cent=
+er;" href=3D"#">&nbsp;</a></td></tr></table><!-- spacing for mobile devices=
+--><table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" c=
+lass=3D"mobilespacing" style=3D"border-spacing:0;border-collapse:collapse;t=
+ext-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" align=
+=3D"left"><td width=3D"100%" height=3D"0" style=3D"font-size:1px;line-heigh=
+t:1px;mso-line-height-rule:exactly;color:#222222;margin:0;padding:0;" align=
+=3D"left" valign=3D"top">&nbsp;</td></tr></table><!-- end of for mobile dev=
+ices--><table class=3D"ctabuttons" width=3D"32%" align=3D"left" valign=3D"m=
+iddle" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st-button=3D"learnm=
+ore" style=3D"border-spacing:0;border-collapse:collapse;text-align:left;pad=
+ding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td style=
+=3D"color:#222222;line-height:19px;font-size:14px;margin:0;padding:0;" alig=
+n=3D"left" valign=3D"top"><table width=3D"100%" bgcolor=3D"" align=3D"left"=
+ valign=3D"middle" class=3D"blue" style=3D"border-spacing:0;border-collapse=
+:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:=
+0;" align=3D"left"><td width=3D"100%" align=3D"center" class=3D"blue " back=
+ground=3D"https://s3.amazonaws.com/bit-photos/thumb/3836197.jpeg" style=3D"=
+color:#222222;line-height:19px;font-size:14px;margin:0;padding:0;overflow:h=
+idden;background-size:cover !important;background-repeat:no-repeat !importa=
+nt;" valign=3D"top"><a href=3D"http://www.bandsintown.com/event/10546129?ar=
+tist=3DBlind%20Pilot&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=3Dem=
+ail_event&utm_campaign=3DWeekly%20Update" style=3D"color:#33b9ff;text-decor=
+ation:none !important;"><div class=3D"mobileImagePosterReduce" style=3D"hei=
+ght:140px;max-height:140px;"><img src=3D"https://s3.amazonaws.com/bit-photo=
+s/thumb/3836197.jpeg" class=3D"twoBlocksImage" width=3D"179" style=3D"visib=
+ility:hidden;visibility:hidden;"/></div></a></td></tr></table><table width=
+=3D"100%" height=3D"7px" align=3D"left" valign=3D"middle" class=3D"yellow" =
+style=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:=
+0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td style=3D"co=
+lor:#222222;line-height:19px;font-size:14px;margin:0;padding:0;" align=3D"l=
+eft" valign=3D"top"><a style=3D"text-decoration:none !important;color:#ffff=
+ff;font-size:2px;text-align:center;line-height:12px;"></a></td></tr></table=
+><table width=3D"100%" align=3D"left" valign=3D"middle" bgcolor=3D"" class=
+=3D"pink" style=3D"border-spacing:0;border-collapse:collapse;text-align:lef=
+t;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td c=
+lass=3D"truncateMobileText" style=3D"font-size:12px;text-align:left;color:#=
+282828;line-height:13px;white-space:nowrap;overflow:hidden;text-overflow:el=
+lipsis;max-width:179px;word-break:break-word;border-collapse:collapse !impo=
+rtant;margin:0;padding:0;" align=3D"left" valign=3D"top"><a style=3D"color:=
+black;text-decoration:none" href=3D"http://www.bandsintown.com/event/105461=
+29?artist=3DBlind%20Pilot&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=
+=3Demail_event&utm_campaign=3DWeekly%20Update"> <strong>Blind Pilot</strong=
+></a></td></tr><!-- end of title --><!-- content --><tr style=3D"text-align=
+:left;padding:0;" align=3D"left"><td class=3D"truncateMobileText" style=3D"=
+text-align:left;font-size:12px;color:#4A4A4A;line-height:15px;white-space:n=
+owrap;overflow:hidden;text-overflow:ellipsis;max-width:179px;word-break:bre=
+ak-word;border-collapse:collapse !important;margin:0;padding:0;" align=3D"l=
+eft" valign=3D"top"><a style=3D"color:#4A4A4A;text-decoration:none" href=3D=
+"http://www.bandsintown.com/event/10546129?artist=3DBlind%20Pilot&came_from=
+=3D21&utm_source=3Dfan_weekly&utm_medium=3Demail_event&utm_campaign=3DWeekl=
+y%20Update"> <strong>EXPRESS LIVE! - Columbus, OH</strong></a><br><a style=
+=3D"color:#4A4A4A;text-decoration:none" href=3D"http://www.bandsintown.com/=
+event/10546129?artist=3DBlind%20Pilot&came_from=3D21&utm_source=3Dfan_weekl=
+y&utm_medium=3Demail_event&utm_campaign=3DWeekly%20Update"> Mon, Mar 21, 20=
+16</a></td></tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><td=
+ width=3D"100%" height=3D"1" style=3D"font-size:1px;line-height:3px;mso-lin=
+e-height-rule:exactly;color:#222222;margin:0;padding:0;" align=3D"left" val=
+ign=3D"top">&nbsp;</td></tr></table><table width=3D"100%" height=3D"5px" al=
+ign=3D"left" valign=3D"middle" class=3D"yellow" style=3D"border-spacing:0;b=
+order-collapse:collapse;text-align:left;padding:0;"><tr style=3D"text-align=
+:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line-height:19p=
+x;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><a styl=
+e=3D"text-decoration:none !important;color:#ffffff;font-size:2px;text-align=
+:center;line-height:12px;"></a></td></tr></table><a href=3D"http://www.band=
+sintown.com/event/10546129?artist=3DBlind%20Pilot&came_from=3D21&utm_source=
+=3Dfan_weekly&utm_medium=3Demail_event&utm_campaign=3DWeekly%20Update"><tab=
+le width=3D"100%" height=3D"28px" bgcolor=3D"#00B4B3" align=3D"left" valign=
+=3D"middle" class=3D"pink" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-radius:3px;border-spacing:0;border-collapse:collapse;text-=
+align:left;padding:0;" st-button=3D"learnmore"><tr style=3D"text-align:left=
+;padding:0;" align=3D"left"><td height=3D"6" align=3D"center" style=3D"font=
+-size:1px;line-height:1px;color:#222222;margin:0;padding:0;" valign=3D"top"=
+>&nbsp;</td></tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><t=
+d height=3D"14" align=3D"center" valign=3D"middle" style=3D"font-size:13px;=
+font-weight:bold;color:#ffffff;text-align:center;line-height:14px;-webkit-t=
+ext-size-adjust:none;word-break:break-word;border-collapse:collapse !import=
+ant;margin:0;padding:0;" st-title=3D"fulltext-btn"><span style=3D"text-deco=
+ration:none !important;color:#ffffff;text-align:center;">Tickets And More</=
+span></td></tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><td =
+height=3D"6" align=3D"center" style=3D"font-size:1px;line-height:1px;color:=
+#222222;margin:0;padding:0;" valign=3D"top">&nbsp;</td></tr></table></a></t=
+d></tr></table><table class=3D"ctabuttons" width=3D"2%" height=3D"3" bgcolo=
+r=3D"" align=3D"left" valign=3D"middle" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" st-button=3D"learnmore" style=3D"border-spacing:0;border-coll=
+apse:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;padd=
+ing:0;" align=3D"left"><td height=3D"14" align=3D"center" valign=3D"middle"=
+ style=3D"font-size:13px;font-weight:bold;color:#ffffff;text-align:center;l=
+ine-height:14px;-webkit-text-size-adjust:none;word-break:break-word;border-=
+collapse:collapse !important;margin:0;padding:0;" st-title=3D"fulltext-btn"=
+><a style=3D"text-decoration:none !important;color:#ffffff;text-align:cente=
+r;" href=3D"#">&nbsp;</a></td></tr></table><!-- spacing for mobile devices-=
+-><table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mobilespacing" style=3D"border-spacing:0;border-collapse:collapse;te=
+xt-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D=
+"left"><td width=3D"100%" height=3D"0" style=3D"font-size:1px;line-height:1=
+px;mso-line-height-rule:exactly;color:#222222;margin:0;padding:0;" align=3D=
+"left" valign=3D"top">&nbsp;</td></tr></table><!-- end of for mobile device=
+s--><table class=3D"ctabuttons" width=3D"32%" align=3D"left" valign=3D"midd=
+le" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st-button=3D"learnmore=
+" style=3D"border-spacing:0;border-collapse:collapse;text-align:left;paddin=
+g:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td style=3D"=
+color:#222222;line-height:19px;font-size:14px;margin:0;padding:0;" align=3D=
+"left" valign=3D"top"><table width=3D"100%" bgcolor=3D"" align=3D"left" val=
+ign=3D"middle" class=3D"blue" style=3D"border-spacing:0;border-collapse:col=
+lapse;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" =
+align=3D"left"><td width=3D"100%" align=3D"center" class=3D"blue " backgrou=
+nd=3D"https://s3.amazonaws.com/bit-photos/thumb/3879717.jpeg" style=3D"colo=
+r:#222222;line-height:19px;font-size:14px;margin:0;padding:0;overflow:hidde=
+n;background-size:cover !important;background-repeat:no-repeat !important;"=
+ valign=3D"top"><a href=3D"http://www.bandsintown.com/event/10546129?artist=
+=3DVance%20Joy&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=3Demail_ev=
+ent&utm_campaign=3DWeekly%20Update" style=3D"color:#33b9ff;text-decoration:=
+none !important;"><div class=3D"mobileImagePosterReduce" style=3D"height:14=
+0px;max-height:140px;"><img src=3D"https://s3.amazonaws.com/bit-photos/thum=
+b/3879717.jpeg" class=3D"twoBlocksImage" width=3D"179" style=3D"visibility:=
+hidden;visibility:hidden;"/></div></a></td></tr></table><table width=3D"100=
+%" height=3D"7px" align=3D"left" valign=3D"middle" class=3D"yellow" style=
+=3D"border-spacing:0;border-collapse:collapse;text-align:left;padding:0;"><=
+tr style=3D"text-align:left;padding:0;" align=3D"left"><td style=3D"color:#=
+222222;line-height:19px;font-size:14px;margin:0;padding:0;" align=3D"left" =
+valign=3D"top"><a style=3D"text-decoration:none !important;color:#ffffff;fo=
+nt-size:2px;text-align:center;line-height:12px;"></a></td></tr></table><tab=
+le width=3D"100%" align=3D"left" valign=3D"middle" bgcolor=3D"" class=3D"pi=
+nk" style=3D"border-spacing:0;border-collapse:collapse;text-align:left;padd=
+ing:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td class=
+=3D"truncateMobileText" style=3D"font-size:12px;text-align:left;color:#2828=
+28;line-height:13px;white-space:nowrap;overflow:hidden;text-overflow:ellips=
+is;max-width:179px;word-break:break-word;border-collapse:collapse !importan=
+t;margin:0;padding:0;" align=3D"left" valign=3D"top"><a style=3D"color:blac=
+k;text-decoration:none" href=3D"http://www.bandsintown.com/event/10546129?a=
+rtist=3DVance%20Joy&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=3Dema=
+il_event&utm_campaign=3DWeekly%20Update"> <strong>Vance Joy</strong></a></t=
+d></tr><!-- end of title --><!-- content --><tr style=3D"text-align:left;pa=
+dding:0;" align=3D"left"><td class=3D"truncateMobileText" style=3D"text-ali=
+gn:left;font-size:12px;color:#4A4A4A;line-height:15px;white-space:nowrap;ov=
+erflow:hidden;text-overflow:ellipsis;max-width:179px;word-break:break-word;=
+border-collapse:collapse !important;margin:0;padding:0;" align=3D"left" val=
+ign=3D"top"><a style=3D"color:#4A4A4A;text-decoration:none" href=3D"http://=
+www.bandsintown.com/event/10546129?artist=3DVance%20Joy&came_from=3D21&utm_=
+source=3Dfan_weekly&utm_medium=3Demail_event&utm_campaign=3DWeekly%20Update=
+"> <strong>EXPRESS LIVE! - Columbus, OH</strong></a><br><a style=3D"color:#=
+4A4A4A;text-decoration:none" href=3D"http://www.bandsintown.com/event/10546=
+129?artist=3DVance%20Joy&came_from=3D21&utm_source=3Dfan_weekly&utm_medium=
+=3Demail_event&utm_campaign=3DWeekly%20Update"> Mon, Mar 21, 2016</a></td><=
+/tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><td width=3D"10=
+0%" height=3D"1" style=3D"font-size:1px;line-height:3px;mso-line-height-rul=
+e:exactly;color:#222222;margin:0;padding:0;" align=3D"left" valign=3D"top">=
+&nbsp;</td></tr></table><table width=3D"100%" height=3D"5px" align=3D"left"=
+ valign=3D"middle" class=3D"yellow" style=3D"border-spacing:0;border-collap=
+se:collapse;text-align:left;padding:0;"><tr style=3D"text-align:left;paddin=
+g:0;" align=3D"left"><td style=3D"color:#222222;line-height:19px;font-size:=
+14px;margin:0;padding:0;" align=3D"left" valign=3D"top"><a style=3D"text-de=
+coration:none !important;color:#ffffff;font-size:2px;text-align:center;line=
+-height:12px;"></a></td></tr></table><a href=3D"http://www.bandsintown.com/=
+event/10546129?artist=3DVance%20Joy&came_from=3D21&utm_source=3Dfan_weekly&=
+utm_medium=3Demail_event&utm_campaign=3DWeekly%20Update"><table width=3D"10=
+0%" height=3D"28px" bgcolor=3D"#00B4B3" align=3D"left" valign=3D"middle" cl=
+ass=3D"pink" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"bord=
+er-radius:3px;border-spacing:0;border-collapse:collapse;text-align:left;pad=
+ding:0;" st-button=3D"learnmore"><tr style=3D"text-align:left;padding:0;" a=
+lign=3D"left"><td height=3D"6" align=3D"center" style=3D"font-size:1px;line=
+-height:1px;color:#222222;margin:0;padding:0;" valign=3D"top">&nbsp;</td></=
+tr><tr style=3D"text-align:left;padding:0;" align=3D"left"><td height=3D"14=
+" align=3D"center" valign=3D"middle" style=3D"font-size:13px;font-weight:bo=
+ld;color:#ffffff;text-align:center;line-height:14px;-webkit-text-size-adjus=
+t:none;word-break:break-word;border-collapse:collapse !important;margin:0;p=
+adding:0;" st-title=3D"fulltext-btn"><span style=3D"text-decoration:none !i=
+mportant;color:#ffffff;text-align:center;">Tickets And More</span></td></tr=
+><tr style=3D"text-align:left;padding:0;" align=3D"left"><td height=3D"6" a=
+lign=3D"center" style=3D"font-size:1px;line-height:1px;color:#222222;margin=
+:0;padding:0;" valign=3D"top">&nbsp;</td></tr></table></a></td></tr></table=
+><table class=3D"ctabuttons" width=3D"2%" height=3D"3" bgcolor=3D"" align=
+=3D"left" valign=3D"middle" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" st-button=3D"learnmore" style=3D"border-spacing:0;border-collapse:collaps=
+e;text-align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" alig=
+n=3D"left"><td height=3D"14" align=3D"center" valign=3D"middle" style=3D"fo=
+nt-size:13px;font-weight:bold;color:#ffffff;text-align:center;line-height:1=
+4px;-webkit-text-size-adjust:none;word-break:break-word;border-collapse:col=
+lapse !important;margin:0;padding:0;" st-title=3D"fulltext-btn"><a style=3D=
+"text-decoration:none !important;color:#ffffff;text-align:center;" href=3D"=
+#">&nbsp;</a></td></tr></table><!-- spacing for mobile devices--><table ali=
+gn=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobil=
+espacing" style=3D"border-spacing:0;border-collapse:collapse;text-align:lef=
+t;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td w=
+idth=3D"100%" height=3D"0" style=3D"font-size:1px;line-height:1px;mso-line-=
+height-rule:exactly;color:#222222;margin:0;padding:0;" align=3D"left" valig=
+n=3D"top">&nbsp;</td></tr></table><!-- end of for mobile devices--></td></t=
+r></table></td></tr></table></td></tr></table><table width=3D"100%" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" id=3D"backgroundTable" st-sortabl=
+e=3D"left-image" style=3D"width:100% !important;line-height:100% !important=
+;border-spacing:0;border-collapse:collapse;text-align:left;margin:0;padding=
+:0;"><tr style=3D"text-align:left;padding:0;" align=3D"left"><td style=3D"c=
+olor:#222222;line-height:19px;font-size:14px;margin:0;padding:0;" align=3D"=
+left" valign=3D"top"><table width=3D"560" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" align=3D"center" class=3D"devicewidth" style=3D"border-spac=
+ing:0;border-collapse:collapse;text-align:left;padding:0;"><tr style=3D"tex=
+t-align:left;padding:0;" align=3D"left"><td width=3D"100%" style=3D"color:#=
+222222;line-height:19px;font-size:14px;margin:0;padding:0;" align=3D"left" =
+valign=3D"top"><table width=3D"560" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" align=3D"center" class=3D"devicewidth" style=3D"border-spacing:0;=
+border-collapse:collapse;text-align:left;padding:0;"><tr style=3D"text-alig=
+n:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line-height:19=
+px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top"></td><=
+/tr></table></td></tr></table></td></tr></table><!--Seperator --><table wid=
+th=3D"100%" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0" class=3D"devicewidth" style=3D"border-top-width:1px;border-top-color:#E7=
+E7E7;border-top-style:solid;border-spacing:0;border-collapse:collapse;text-=
+align:left;padding:0;"><tr style=3D"text-align:left;padding:0;" align=3D"le=
+ft"><td align=3D"center" height=3D"10" style=3D"font-size:1px;line-height:1=
+px;color:#222222;margin:0;padding:0;" valign=3D"top">&nbsp;</td></tr><tr><t=
+d style=3D"padding:0 0 0 0;" align=3D"center" colspan=3D"3"><a href=3D"http=
+://g.adspeed.net/ad.php?do=3Dclk&zid=3D58451&wd=3D-1&ht=3D-1&pair=3Dasemail=
+" target=3D"_top"><img style=3D"border:1px;" src=3D"http://g.adspeed.net/ad=
+.php?do=3Dimg&zid=3D58451&wd=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1&cb=3D5=
+761478&keywords=3D&aslat=3D39.9611111&aslong=3D-82.9988889&asgeo=3D042014x1=
+6135" alt=3D"" /><img style=3D"border:0px;" src=3D"http://g.adspeed.net/ad.=
+php?do=3Dimg&zid=3D58461&wd=3D-1&ht=3D-1&pair=3Dasemail&noerror=3D1&cb=3D57=
+61478" alt=3D"" /></a></td></tr></table></td></tr></table><!-- Content --><=
+table class=3D"container" style=3D"border-spacing:0;border-collapse:collaps=
+e;text-align:inherit;width:600px;margin:0 auto;padding:0;"><tr style=3D"tex=
+t-align:left;padding:0;" align=3D"left"><td style=3D"color:#222222;line-hei=
+ght:19px;font-size:14px;margin:0;padding:0;" align=3D"left" valign=3D"top">=
+<div style=3D"background:#E7E7E7" id=3D"marginFooter"><!-- Stores badges --=
+><div align=3D"center"><img style=3D"max-height:40px;outline:none;text-deco=
+ration:none;-ms-interpolation-mode:bicubic;width:auto;max-width:100%;float:=
+none;clear:both;display:block;margin:0 auto;padding:15px 0 0;" align=3D"cen=
+ter" class=3D"center" id=3D"app-badges" src=3D"http://static.bandsintown.co=
+m/images/email/badges.png" border=3D"0" width=3D"285" height=3D"40" orgwidt=
+h=3D"285" orgheight=3D"40" usemap=3D"#app-badges-map" alt=3D"" /><map name=
+=3D"app-badges-map" id=3D"app-badges-map"><area id=3D"1" alt=3D"appstore" t=
+itle=3D"Appstore" href=3D"http://www.bandsintown.com/redirect?t=3D1&u=3Dhtt=
+p%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fbandsintown%2Fid471394851%3Fls%3D1%=
+26mt%3D8" shape=3D"rect" coords=3D"0,0,137,40" style=3D"outline:none;" targ=
+et=3D"_self" /><area id=3D"2" alt=3D"Android" title=3D"Android" href=3D"htt=
+ps://play.google.com/store/apps/details?id=3Dcom.bandsintown&referrer=3Dutm=
+_source%3Drsvp_reminder%26utm_medium%3Demail%26utm_campaign%3DRSVP%2520Remi=
+nder" shape=3D"rect" coords=3D"149,0,285,40" style=3D"outline:none;" target=
+=3D"_self" /><area shape=3D"rect" coords=3D"283,38,285,40" alt=3D"Bandsinto=
+wn" style=3D"outline:none;" title=3D"Bandsintown" href=3D"http://www.bandsi=
+ntown.com" /></map></div><!-- Copyright and address --><table class=3D"row"=
+ style=3D"border-spacing:0;border-collapse:collapse;vertical-align:top;text=
+-align:left;width:100%;position:relative;display:block;padding:0px;backgrou=
+nd:#E7E7E7"><tr style=3D"vertical-align:top;text-align:left;padding:0;" ali=
+gn=3D"left"><td class=3D"wrapper last" style=3D"word-break:break-word;-webk=
+it-hyphens:auto;-moz-hyphens:auto;hyphens:auto;border-collapse:collapse !im=
+portant;vertical-align:top;text-align:left;position:relative;color:#222222;=
+font-family:'Helvetica', 'Arial', sans-serif;font-weight:normal;line-height=
+:19px;font-size:14px;margin:0;padding:10px 0px 0px;" align=3D"left" valign=
+=3D"top"><table class=3D"twelve columns" style=3D"border-spacing:0;border-c=
+ollapse:collapse;vertical-align:top;text-align:left;width:580px;margin:0 au=
+to;padding:0;"><tr style=3D"vertical-align:top;text-align:left;padding:0;" =
+align=3D"left"><td align=3D"center" style=3D"word-break:break-word;-webkit-=
+hyphens:auto;-moz-hyphens:auto;hyphens:auto;border-collapse:collapse !impor=
+tant;vertical-align:top;text-align:left;color:#222222;font-family:'Helvetic=
+a', 'Arial', sans-serif;font-weight:normal;line-height:19px;font-size:14px;=
+margin:0;padding:0px 0px 10px;" valign=3D"top"><center style=3D"font-size:1=
+1px;width:100%;min-width:580px;">&copy; 2016  Bandsintown, LLC<br/>19 W 34t=
+h Street, Suite 1000, New York, NY 10001.<br/>To opt out or manage your not=
+ifications <a href=3D"http://www.bandsintown.com/notifications?user_id=3D22=
+161318&auth_key=3Ded10796efe699e43dda06f144d4505a18802779b" style=3D"color:=
+#2ba6cb;text-decoration:none;">click here</a>.</center></td><td class=3D"ex=
+pander" style=3D"word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:au=
+to;hyphens:auto;border-collapse:collapse !important;vertical-align:top;text=
+-align:left;visibility:hidden;width:0px;color:#222222;font-family:'Helvetic=
+a', 'Arial', sans-serif;font-weight:normal;line-height:19px;font-size:14px;=
+margin:0;padding:0;" align=3D"left" valign=3D"top"></td></tr></table></td><=
+/tr></table><!-- Social links --><div align=3D"center" style=3D"padding:0 0=
+ 15px;"><div align=3D"center"><img class=3D"center" id=3D"social-links" src=
+=3D"http://static.bandsintown.com/images/email/socials_link.png" style=3D"m=
+ax-width:214px !important;outline:none;text-decoration:none;-ms-interpolati=
+on-mode:bicubic;width:auto;float:none;clear:both;display:block;margin:0 aut=
+o;" border=3D"0" width=3D"214" height=3D"35" orgwidth=3D"214" orgheight=3D"=
+35" usemap=3D"#social-links-map" alt=3D"" align=3D"none" /></div><map name=
+=3D"social-links-map" id=3D"social-links-map"><area id=3D"1" alt=3D"Twitter=
+" title=3D"Facebook" href=3D"https://www.facebook.com/Bandsintown?ref=3Dts&=
+fref=3Dts" shape=3D"rect" coords=3D"0,0,38,35" style=3D"outline:none;" targ=
+et=3D"_self" /><area id=3D"2" alt=3D"Twitter" title=3D"Twitter" href=3D"htt=
+ps://twitter.com/Bandsintown" shape=3D"rect" coords=3D"41,0,82,35" style=3D=
+"outline:none;" target=3D"_self" /><area id=3D"3" alt=3D"Instagram" title=
+=3D"Instagram" href=3D"http://www.instagram.com/bandsintown" shape=3D"rect"=
+ coords=3D"87,0,128,35" style=3D"outline:none;" target=3D"_self" /><area id=
+=3D"4" alt=3D"Blog" title=3D"Blog" href=3D"http://blog.bandsintown.com/" sh=
+ape=3D"rect" coords=3D"131,0,172,35" style=3D"outline:none;" target=3D"_sel=
+f" /><area id=3D"5" alt=3D"YouTube" title=3D"YouTube" href=3D"https://www.y=
+outube.com/user/Bandsintown" shape=3D"rect" coords=3D"178,0,214,35" style=
+=3D"outline:none;" target=3D"_self" /><area shape=3D"rect" coords=3D"212,33=
+,214,35" alt=3D"Social Links" style=3D"outline:none;" title=3D"Social Links=
+" href=3D"http://www.bandsintown.com" /></map></div><!-- container end belo=
+w --></div></td></tr></table></center></td></tr></table>
+
+<img src=3D"http://email.bandsintown.com/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6wT0SB1bUFwA9HGWYrbq22JNGK=
+-2BKBF5kMsikuuCgMXaj0pCKAyqhe0x-2B1D88z16Yc22TOtMVkpsqDUDbO8KJkEwugHHHTSkwI=
+gTy1FA6WY2O0WvADW1amwx89avoRnARLwmM5KIgX-2BjgwAya3TAyBwp13u2QbMobLXET1Z89e6=
+8OYVxKH-2BM5rGF7TGJM1Cve5RHvLF0M1ttnqYWTd3g6MvGk46liXVoeyaJ6UmA7Mx80o3q0ZPE=
+yS7DXeEvQy5KgW96c56lLjby0uU0dH-2BuPezA-3D-3D" alt=3D"" width=3D"1" height=
+=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;"/>
+</body></html></div>
+
+------------=_1458148309-3038-66031--

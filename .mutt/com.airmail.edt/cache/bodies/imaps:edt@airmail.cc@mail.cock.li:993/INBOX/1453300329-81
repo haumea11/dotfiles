@@ -1,0 +1,58 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+Date: Wed, 10 Feb 2016 09:47:16 -0500
+From: Judge Billy <dredd@horsefucker.org>
+To: mailman@lists.cock.li
+Message-Id: <20160210094716.7e60a91183f6adf5a76ab90d@horsefucker.org>
+In-Reply-To: <56BB4D15.6080508@8chan.co>
+References: <56B7D74F.20600@cock.li> <56BA27AA.2060304@8chan.co>
+ <56BA5179.3040302@420blaze.it> <56BA7727.6050608@8chan.co>
+ <56BAA680.5010302@420blaze.it> <56BB4D15.6080508@8chan.co>
+Organization: Beeswax, not yours, inc.
+X-Mailer: Sylpheed 3.5.0 (GTK+ 2.24.23; i686-pc-mingw32)
+Mime-Version: 1.0
+Subject: Re: [cock.li] TIL github blindly trusts the email in a commit
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+U2FtZS4KSG93IGRvZXMgdGhpcyBleHBsb2l0L3doYXRldmVyIG1hdHRlci9hZmZlY3QgbWU/CgpP
+biBXZWQsIDEwIEZlYiAyMDE2IDE1OjQ1OjQxICswMTAwCkNyaXN0aWFuIDxvcGVtcG9zdEA4Y2hh
+bi5jbz4gd3JvdGU6Cgo+IEFuZCBob3cgZG8geW91IHRoaW5rIHBlb3BsZSBnZXQgZnVja2VkIHdp
+dGggdGhpcz8gIEknbSBnZW51aW5lbHkgY3VyaW91cy4KPiAKPiBPbiAwMi8xMC8yMDE2IDAzOjU0
+IEFNLCBZb2tlcyEgd3JvdGU6Cj4gPiBZZXMsIEkgZG8uCj4gPiAKPiA+IE9uIDA5LzAyLzE2IDIz
+OjMyLCBDcmlzdGlhbiB3cm90ZToKPiA+PiBEbyB5b3Uga25vdyBob3cgZ2l0IHdvcmtzPwo+ID4+
+Cj4gPj4gT24gMDIvMDkvMjAxNiAwOTo1MiBQTSwgWW9rZXMhIHdyb3RlOgo+ID4+PiBTbywgcGVv
+cGxlIHdobyBjYXJlIGFib3V0IHVzaW5nIHRoZWlyIGdpdGh1YiBwcm9maWxlIGluIGEgQ1YgY2Fu
+IGJlCj4gPj4+IGZ1Y2tlZCB3aXRoLgo+ID4+Pgo+ID4+PiBPciwgbW9yZSBub3RhYmx5LCBwZW9w
+bGUgd2hvIGFyZSB0ZWNobmljYWxseSBpbmVwdCBhbmQgcHVzaGluZyBmb3IgY29kZXMKPiA+Pj4g
+b2YgY29uZHVjdCBpbiBTVyBwcm9qZWN0cyBwdXJlbHkgdG8gZnVjayB3aXRoIHBlb3BsZS4KPiA+
+Pj4KPiA+Pj4gT24gMDkvMDIvMTYgMTc6NTMsIENyaXN0aWFuIHdyb3RlOgo+ID4+Pj4gU28gd2hh
+dD8KPiA+Pj4+Cj4gPj4+PiBPbiAwMi8wOC8yMDE2IDEyOjQ2IEFNLCBhbGV4c2tjIHdyb3RlOgo+
+ID4+Pj4+IGh0dHBzOi8vZ2l0aHViLmNvbS9qYXlwaGVscHMvZ2l0LWJsYW1lLXNvbWVvbmUtZWxz
+ZS9jb21taXQvZTVjZmU0YmIyMTkwYTJhZTQwNmQ1ZjBiOGY0OWMzMmFjMGYwMWNkNwo+ID4+Pj4+
+Cj4gPj4+Pj4KPiA+Pj4+Pgo+ID4+Pj4+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+
+ID4+Pj4+IDg9PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+ID4+Pj4+Cj4gPj4+Pgo+ID4+
+Pj4KPiA+Pj4+Cj4gPj4+PiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPiA+Pj4+IDg9
+PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+ID4+Pj4KPiA+Pj4gX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fCj4gPj4+IDg9PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+ID4+
+Pgo+ID4+Cj4gPj4KPiA+Pgo+ID4+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+ID4+
+IDg9PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+ID4+Cj4gPiBfX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX18KPiA+IDg9PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+ID4gCj4g
+CgoKLS0gCiJkb251dCBiZSBtZWFuLCBpdCdzIGJlcnJ5IHJ1ZGUiCkJpbGx5IEouIEguCjxkcmVk
+ZEBob3JzZWZ1Y2tlci5vcmc+Cl9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo4PT09W2Nv
+Y2subGkgbWFpbGluZyBsaXN0XT09PUQ=

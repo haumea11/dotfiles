@@ -1,0 +1,842 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp543581oia;
+        Thu, 25 Jun 2015 03:18:30 -0700 (PDT)
+X-Received: by 10.13.213.3 with SMTP id x3mr54953240ywd.156.1435227509981;
+        Thu, 25 Jun 2015 03:18:29 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x22c.google.com (mail-yk0-x22c.google.com. [2607:f8b0:4002:c07::22c])
+        by mx.google.com with ESMTPS id t1si11322488yhg.88.2015.06.25.03.18.29
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 25 Jun 2015 03:18:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::22c as permitted sender) client-ip=2607:f8b0:4002:c07::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::22c as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x22c.google.com with SMTP id y1so37811280ykd.2
+        for <kuiperhaumea@gmail.com>; Thu, 25 Jun 2015 03:18:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=WjxN4ftlCxZSYNi5pOxXMRkud3z0NWy0cxNhY3GYCjg=;
+        b=pW65Dbnzpvmp2rpuZAKPMuMcBuZhjkhb+gBsPEVYM3vyqrEfAlpWTbZ8sraX91cIOT
+         ZSVdkfEJqtJZa8r/kKime4nI0ewyMZdwk3PjKmbRMXJth6xngw5nkGaUcbGfEaQB5Yxn
+         w/TBa4+ud5k1eKSAP3guJwzvAv7nRnOZjedS5N91zbvc1oK+7zRt+XGlORAEqLwVbNfo
+         Q8A1dvnFwzmh9SGwbV8Ar5btvQ4o3EGmEVoOYmZ90q38H13cdfbeU6ItFMr5JdnlW95q
+         qwE+/ej7hrSrZGk5YF6LMM+8GBGpvH5m0FoAlOJsdjYI0J7oJA/7rzhD8HfCnhJfW0kN
+         0wfA==
+MIME-Version: 1.0
+X-Received: by 10.129.113.132 with SMTP id m126mr56756912ywc.12.1435227509465;
+ Thu, 25 Jun 2015 03:18:29 -0700 (PDT)
+Received: by 10.129.114.194 with HTTP; Thu, 25 Jun 2015 03:18:29 -0700 (PDT)
+In-Reply-To: <558B9AB3.1070103@gmail.com>
+References: <07377cb3-9bad-4bba-94b1-c83ce84f6292@technolutions.net>
+	<558B9AB3.1070103@gmail.com>
+Date: Thu, 25 Jun 2015 06:18:29 -0400
+Message-ID: <CANNyMF9ueSRSG2njhRuSU9k-h-CH=SDHjqO819kJzGurHz50hQ@mail.gmail.com>
+Subject: Re: Innovation and Tradition at Yale
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11494592dfa6be051954f133
+
+--001a11494592dfa6be051954f133
+Content-Type: text/plain; charset=UTF-8
+
+They all come sniffing around the next great thing - ha ha!!  pbbbbbbt
+
+On Thu, Jun 25, 2015 at 2:07 AM, John Markiewicz <kuiperhaumea@gmail.com>
+wrote:
+
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA256
+>
+>
+> Apparently, Yale Wants me.
+>
+> The more you know.
+>
+> - -------- Forwarded Message --------
+> Subject:        Innovation and Tradition at Yale
+> Date:   Sun, 14 Jun 2015 21:07:53 +0000
+> From:   Yale Undergraduate Admissions <donotreply@yale.edu>
+> To:     markiewicz.john@gmail.com
+>
+>
+>
+>
+>
+>
+> Hi John,
+>
+> Yale is a community that embraces both innovation and tradition. For
+> more than 300 years students have invented and reinvented the Yale
+> experience. While grounded in the liberal arts, a Yale education is
+> always changing and expanding. We wanted to share with you a few of the
+> most exciting stories from Yale this year.
+>
+> *Iconic Dining Hall to Transform into State-of-the-Art Campus Center*
+>
+> Since 1901 Commons Dining Hall has been a central gathering space for
+> Yale students. Last month Yale announced that Commons will transform
+> into a university-wide student center
+> <http://mx.technolutions.net/wf/click?upn=rwNiXX0qx7MUiBt9H7GUGDg1aAWVhT
+> 5KNeaVgh4EhqcFpjfA9UB2BAuohfItNvKPZ4EnUD4zb3LLwvX8F5vVaDRcbjtruKpqpg9yDp
+> IjisvQezlqYcZ8ok-2FjLRV17EQBcPkTksP96lqNaxniHrDTdVifwz08270oUtEmpB-2FPgl
+> E-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2
+> Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfco
+> mXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6
+> YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44F
+> N1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOSEHIsmtmfZZrWoGjicYqD20w134CDlgCWyIzQQ
+> BMpk3UunSpVnHhZ1mP7Q1egZ9078xMHMxv6P7dZjgHvwRYXST7yjJXf5h-2FrNKOevrqgSyN
+> mJ3jaI3vu33CgPruam-2BKm9vt9p4RGhVPmhlLAKKcD9dPQxRzdul9y1qumfI2T0g-3D-3D>
+> with state-of-the-art technology that enables virtual engagement with
+> audiences around the world. The new center will become a central hub of
+> student life with new performance, exhibition, meeting, and dining space
+> s.
+>
+> *Yale's 12 Residential Colleges to Expand to 14 *
+>
+> Ask any Yale student or graduate and they'll tell you Yale's Residential
+> Colleges
+> <http://mx.technolutions.net/wf/click?upn=-2B5DWCsFax5Df8U8NxLEwpdRYN3xz
+> BgkAOmy8n0YHNOptf0MDUsUPslLRFM72YrJNosx3WWuadvamRM-2B5dMbhB9wCKuUGzp0Ois
+> 0IWTMfV2kAP10P4hNG1OOW0yQ4yF2XR8ZNs8n-2B3BFLnfJhsu1SYg-3D-3D_fl-2FMBkJMX
+> 7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ
+> - -2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZW
+> Dj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5
+> sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWR
+> NTi1Qeaqp9dAU2yuJPAPeAjRYnWBqW0h8K-2BFtI2h3fYI6veWZ8oBmStd8xNE1NS2OP31Ei
+> UoCHKA3SQv75aesR16pS-2Fvf3KNjPCSPWxZIeR9Sf9zgXvSy54RH3GcBFzVKYBW68VBF27q
+> NFxjPlqBcLDk8iaS2IMZth3CFVnwZ4jg3ooTkGf8maMDvYNDQ-3D-3D>
+> are the heart of the undergraduate experience. In 2017, Yale will open
+> two brand new residential colleges, the first expansion in more than 50
+> years. Construction has already begun
+> <http://mx.technolutions.net/wf/click?upn=rwNiXX0qx7MUiBt9H7GUGEjRW7wdRH
+> - -2BU1ZaShxoxTtIpTjs5GQ5fbhNBKhla1-2FZV_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc
+> T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc
+> A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH
+> 0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2
+> yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJNGziw
+> xNIa41jNB6HZjngdM9Fo8rM0MsBiJQC82rD07zG6CsfadZxqM3FLgd6uydUywc9DBQJ0YRkm
+> 7fLxmleqK74kXh2vZ3Ycr5agq5dQsaRChVnMqfBBo2IHWm6F9wNLFAoQAiFUuEuK8oDH8XsR
+> jP3m1tA-2BnXGpAJkeEwChH-2Fg-3D-3D>,
+> and you can watch a video of what the colleges will look like
+> <http://mx.technolutions.net/wf/click?upn=L3onA2NCkIKSUAJscnbYFHxCdeSbqu
+> j-2BYdIxyzP-2BgMwqxTrSC28Hb-2BIf8G2Gh5XR_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D
+> pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI
+> CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr
+> mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob
+> r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMIH
+> cLYDVup6TKi66XQEukkEyBKmAp7h-2FdXDeMTeTN1JG5n3nxqJCkxh6pqXD6Juw7DZhMXaeg
+> eJ8HEVbSeA06yjsB3vr8E7rYfd-2BiW0RgqAKr2Z2MQTUB-2B-2BzJp5wSbblu4T7w8iftXk
+> Trx-2F7vPWxKZEeUGrKRj0b2Eym-2Bqg3D7Mg-3D-3D>
+> when they welcome their first class of students.
+>
+> *"Game-Changing" News for Computer Science &
+> "Once-in-a-Generation" Opportunity for the Humanities*
+>
+> In April Yale announced a "game-changing" $20 million expansion of the
+> Department of Computer Science
+> <http://mx.technolutions.net/wf/click?upn=rwNiXX0qx7MUiBt9H7GUGDg1aAWVhT
+> 5KNeaVgh4EhqcEMEcHEPL3hGk5V7HIpVQBJF99E4Skck7Ss3KnkVEztt9HgqClpo-2BQId-2
+> BGAnSTddJPuANxcMpaFr7e1-2B9tL08-2F_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+> 4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+> dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+> 1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+> uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJNpCeeo3jW
+> y0NDtehjvR9zcputHoc-2F0Tvh0v7waRjKGIgDyerUTveW-2BgqN7DqOhGWxOPHFz3BwSKmB
+> - -2BMsmHJgds-2F38dn4jOFvH9sX-2BaQSGRoryUmi4-2FRsGrdsoVUCbU1o-2FK2a-2Bly31
+> 5LCkOuFhAp6npSrUFxn7HjYHNaW6hZRNAmA-3D-3D>,
+> including a new 10,000 square foot space for undergraduate research and
+> the biggest increase in the department's faculty in 30 years. The same
+> week, Yale also announced plans to restore one of Yale's most iconic
+> buildings and transform it into a new home for the humanities
+> <http://mx.technolutions.net/wf/click?upn=rwNiXX0qx7MUiBt9H7GUGDg1aAWVhT
+> 5KNeaVgh4EhqcJO6mgQU8y2Q7hzWWUoWPpFKWFBdtlNCMks8V9P-2FfwAsNJKb9tRB4g9fZX
+> rjytNcrSQCCimdpQsRfyNFBVdNQL_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu
+> MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mm
+> Mms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVt
+> InjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5Pwi
+> afbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2B7aSWHd5Pq9P
+> JTRcKJKJIcnRAMVLZxpVEmffNoZktELqO2p0pOYLcTPVAjIjRjPjxO23-2BtNSvrUYudYtJ3
+> kx0rUm5BqNEZMTXjmHjEBc8EYB0iMhcDhPgCMKt1bKeeYQsKTN9j8Yw9pHwDNWVbVp5Z-2B5
+> Idv1EZaF3Q4EwhQsUZw-3D-3D>.
+>
+> We think there has never been a more exciting time to be a student at
+> Yale. The best way to experience Yale's combinations of innovation and
+> tradition, art and science, community and diversity, is to visit us in
+> New Haven
+> <http://mx.technolutions.net/wf/click?upn=ic2UYdiceulI4GY1CgUhRqkiWycPMg
+> 1cfgysn1mEzvwz04cRPhgz03sQJ7-2FWhv5vOKI-2BVTaAeivwvpty6p4-2BZA-3D-3D_fl-
+> 2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9
+> fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs
+> TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU
+> WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo
+> fVy8sJWRNTi1Qeaqp9dAU2yuJP8jq2KAhhlT7b7ybuKrQ1WU7VTV7V-2Bm3e-2FS5b-2FVPK
+> - -2BqKqKCt-2BgsLVT4TjIuS8h3pypCQtr6vLL3xtyXRzgvkRHqL2cF-2FvYqjNYM1JubBeXw
+> 8aOSgKSLBf-2F-2BgVOTrgHqEFziAm3vej-2BAQ-2B6THouoJh9K-2FNS5HxpDxbzPxn7lql
+> xnQ-3D-3D>
+> (itself a perfect combination of big city and college town). If you
+> can't visit us this summer, you can explore campus online
+> <http://mx.technolutions.net/wf/click?upn=ic2UYdiceulI4GY1CgUhRqkiWycPMg
+> 1cfgysn1mEzvyDQ5pKE5E3KsL9c2NbxxJi_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+> 4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+> dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+> 1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+> uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP9KUbOsKf
+> KAtJgm6Aa0UEohjG4-2FseXBvPgZiz-2FQ5dtVft2Ct52nf-2B7-2Bd07N-2BZ-2FL5xHeb8
+> nyzgD72u-2B3gbOrdYJhrBrUQwhOkbTqMNanvqFv6ydohxO-2BFFYSR1bZXHbhAEXwD2tQnC
+> UhQjxXVV0FnZqI502Mce-2BCbTsacfRMGgtLA-3D-3D>,
+> watch real Yale courses
+> <http://mx.technolutions.net/wf/click?upn=v0w31tpmiNQuQlzuHRi-2FMtAUc-2F
+> 904GipazVWUlDNq7U-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jj
+> sWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79
+> lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q
+> - -2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVC
+> VeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOPlW-2FMZjvSTAqrX4fG1YF
+> 9uuVRwRW40Rei1M-2BdIVR6WvViHb7PUUl6J1Z0abgtJ6pUlM9xMJU9oR9QqsdjKU7v3mveP
+> - -2BDU-2BzA-2FuL80UTPrM38RS4XOVBvP5AmGxWdyHNsrR3WGYj6QBtt0VC3iX-2BJ3mQAkl
+> - -2F0ER0bsHk1mJjOR-2Fg-3D-3D>,
+> read student blogs
+> <http://mx.technolutions.net/wf/click?upn=ic2UYdiceulI4GY1CgUhRqkiWycPMg
+> 1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9g_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+> 4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+> dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+> 1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+> uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP51I4UUsx
+> cCQt7HNOXRcWQ101lPFvNdvYnazIAkzreY3F6AVY65ADv307Suauvs9pTNuFxtfrpmZrDAlj
+> D4jqt-2BxW0lhsc6pxA97F3GhNmE14mDKhb0zp43ZJD29ou7vYo3MXsX-2B8ldlv9ininT1z
+> REQilg7QAtLYquBanELf4oQ-3D-3D>
+> and follow us on the social media links below.
+>
+> The Yale Admissions Student Team
+>
+> <http://mx.technolutions.net/wf/click?upn=tQ550YTtXV6QVHBVm0ByBRH6OYC41c
+> NG4Tyqpy6kihJGiHQjMbgawZZhrnKOUxIm_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+> 4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+> dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+> 1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+> uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2FBpT2N
+> 54kcTuEsHKRaKB3miFgNBs8tGmL9yBM0LbCqkxbdwTHnTLG5B4P2BYm9PUQYjCrgcJWrJdIt
+> K1tXC-2Bcv5FMenLS0vkQ3FJ29iU6xwQ0K-2B5KZi-2Ba-2BYzZpv6IqPbsfHV8E7j-2FNjj
+> Gqh07FUNiBknZ4Odnk1zcbK0HB82qQFVFiP6XiIu7ZVBdJ0uTSwc-3D>
+>
+>
+>
+> <http://mx.technolutions.net/wf/click?upn=Vhovk676AZzMDCRUkUTHxXmRthlwzw
+> eanhdE-2F1nrWjGmhwL-2FGuz8E4lQGaStRspD_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc
+> T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc
+> A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH
+> 0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2
+> yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP8ePs
+> lZ-2Busjn71-2F5JYR4Cg6QbTmC-2BpSsjU-2FyucbNOUWBKrNj8oJKZ9csnE438CqHldq-2
+> BqgIGGqWWlNw-2FLpoYHOQnKxYApPjBQ6Y0muiFNIc0Bon-2BDkw8HZ2eX5ILvgYEZNSh4UN
+> 7vRH871vEcQU4jjgFJCSqJ94W2w0vwNIv9C5OOBrkdrwy5BiwjF-2BrKoyLY-3D>
+>
+>
+>
+> <http://mx.technolutions.net/wf/click?upn=ArGmOXNrXZXX-2F83mTJo6EElWzzHz
+> qzOKlgy1SGxGiBnjTU8fLEmoT96igIeMeDtv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9
+> um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5
+> gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0Q
+> Be1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yR
+> QVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOQlJH9T
+> - -2Fd-2BF71jPX87-2FiA6l52-2Fjd3qxBG-2Bg23Qed2GaeQVp7BBsprbOsW5QctpHCFGPEM
+> 0q9GuhNNqu9JycA7MeuvVQd-2BY1homByc62KbPoDtOccE-2FJW5FBSPyVgZ5yAEgqaOs6kz
+> 6CC6bqNAxResRJPHDh0qgw8FQp3Nt3pBYFzMV121hFSQmx0cI0ummqkg-3D>
+>
+>
+>
+> <http://mx.technolutions.net/wf/click?upn=-2B5DWCsFax5Df8U8NxLEwpdRYN3xz
+> BgkAOmy8n0YHNOqI-2BWdUEFwhQ6ePLDJTKTlKXXJF5qrdg-2BwupL0H4ZmLYQ-3D-3D_fl-
+> 2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9
+> fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs
+> TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU
+> WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo
+> fVy8sJWRNTi1Qeaqp9dAU2yuJP8pSYjw3KflcIhv1XDXUe-2BldX-2FCUlitgcKOFqz8bImv
+> zYEbQsWq5Fk0uIALY2h9ERTojnXxMFKeSWW-2BGKMTatqG3-2FmXekE1Be3Epdvnt86uSt2I
+> b5lWrstrQmw2TqhcOXLFTpoGVGBOEObrSrakxLatiSDccRg4H0AQM5F2-2B4i5UZjC8vvTQO
+> 9uu62rest1b0-3D>
+>
+>
+> Yale Office of Undergraduate Admissions
+> 38 Hillhouse Avenue
+> PO Box 208234 New Haven CT 06520
+> admissions.yale.edu/questions
+> <http://mx.technolutions.net/wf/click?upn=ic2UYdiceulI4GY1CgUhRqkiWycPMg
+> 1cfgysn1mEzvyg8on2rbHVhhadqhugGcMh_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+> 4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+> dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+> 1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+> uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJPHwR5NspS
+> fIlfGysYab5vuV0suPQY3-2BoH6mFO-2FldYxKRnjyNlEqjxp8mdRg13Jm4KbOgSE6Dy0LIL
+> Z-2Bsq8-2FWOtbMok1djS31xzsiMY1VMdHeOKlr-2B6LJ3eUmXJ5OSt-2FbjeZJVu1XaZcl3
+> uWPflIdTvaErzuqGLWQ2svvWmH-2FeADD6BoaGmVXmIWxaRiaIWIRo-3D>
+>
+>
+> This email was sent to markiewicz.john@gmail.com by Yale Undergraduate
+> Admissions.
+> Unsubscribe
+> <http://mx.technolutions.net/wf/click?upn=7aqtGo87cYwSxRwFLjEf1iKpI6Rs-2
+> F2HcvQQ3cs5IsJtZjGfg-2BbZ207sd-2FiMw8ATeveuF3-2F1IJbYViUThk28BI7QNdqt6-2
+> BFpJUzTa3fxKq2qXfEZO-2FQb3Ugb-2B01aTOZM2_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D
+> pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI
+> CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr
+> mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob
+> r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMCB
+> - -2BzRm1bNu0trhGKMlR0jXnuYCWUoZYbz60xPx0H3ednxzYrYYPdxKiHlY-2Fl2-2FxMgaTl
+> lwj3nwbcZvGaxp28f-2F5KL-2BPHLbkGmKanSj8gRHQdHnR-2F3K3J49aWGy4mQlQ7SO7gCm
+> M7v9onOu-2ByUapSIOEQASDzAZEP1WuP11bLIxGZNnqc5VRSusOqfDPDpBd8-3D>
+> from Yale Undergraduate Admissions Communications.
+>
+>
+>
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v2
+>
+> iQIcBAEBCAAGBQJVi5qtAAoJEL1WveNn/kS+928P/jj+JIMbU9t/0WzFx1ON+gUj
+> g0AwLTPz98VBe80gGaje79Jvumq2GyWtxvu8HdGvgu1duwDdRvfdog1An9nfuVy/
+> YOKmBEbxv63ekB5Alz0J4qj58cELEeJal41LGu8MV9G8rJ3fgOI+jVUYSMcmcvKV
+> k0zAhuoqwre/Ok+Tgz3HkPWF29XVZcvvSMCJJDzwX/tG3O4QaGwGoFc+ggy3glC/
+> EJKFPoEceOA0kJxP2a+VL8zlIjxKxIVuF46EV6q4noskFx74KVe9EqFZMB7VlQkp
+> 59bBrs3dTlpfQIE+5T/tD475HwhtWZBMqkP23lWEthEakGlA73IgK+oS2o+MqkmN
+> T1cIf9NkFfoRqHyhr+LJJvr/sD7hwx0AIvvC+P4S5l9hmc8kCaYsyCo3gbAw2vxy
+> Kfm5Cwnmk5CKyEz427wQ9xlf5e5l4KkAvaiBs1K2Yy/++vPZS3PueAKopBxPm+ok
+> EaQTYkn8OupBrptQl/ITBW6UJZcXOzP7sUfLTX95qybCzrpEO5KHxBhzJdJpejCR
+> oHmuvBVkEsADKgdleyyjELWxPQnd12G/4aV+hGt4wir8zGD38imHEO374p2jPZSi
+> xKjIgiNc4SBQQQZMtjtnEuU9Q5BidkDrDBhr56Jpf/DjSqzbiIOqI/bE2pvjrO03
+> EtbHk0+Ec25X4MAAxSJz
+> =f4MW
+> -----END PGP SIGNATURE-----
+>
+
+--001a11494592dfa6be051954f133
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">They all come sniffing around the next great thing - ha ha=
+!! =C2=A0pbbbbbbt</div><div class=3D"gmail_extra"><br><div class=3D"gmail_q=
+uote">On Thu, Jun 25, 2015 at 2:07 AM, John Markiewicz <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:kuiperhaumea@gmail.com" target=3D"_blank">kuiperhaumea@=
+gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=
+=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">-----BEG=
+IN PGP SIGNED MESSAGE-----<br>
+Hash: SHA256<br>
+<br>
+<br>
+Apparently, Yale Wants me.<br>
+<br>
+The more you know.<br>
+<br>
+- -------- Forwarded Message --------<br>
+Subject:=C2=A0 =C2=A0 =C2=A0 =C2=A0 Innovation and Tradition at Yale<br>
+Date:=C2=A0 =C2=A0Sun, 14 Jun 2015 21:07:53 +0000<br>
+From:=C2=A0 =C2=A0Yale Undergraduate Admissions &lt;<a href=3D"mailto:donot=
+reply@yale.edu">donotreply@yale.edu</a>&gt;<br>
+To:=C2=A0 =C2=A0 =C2=A0<a href=3D"mailto:markiewicz.john@gmail.com">markiew=
+icz.john@gmail.com</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Hi John,<br>
+<br>
+Yale is a community that embraces both innovation and tradition. For<br>
+more than 300 years students have invented and reinvented the Yale<br>
+experience. While grounded in the liberal arts, a Yale education is<br>
+always changing and expanding. We wanted to share with you a few of the<br>
+most exciting stories from Yale this year.<br>
+<br>
+*Iconic Dining Hall to Transform into State-of-the-Art Campus Center*<br>
+<br>
+Since 1901 Commons Dining Hall has been a central gathering space for<br>
+Yale students. Last month Yale announced that Commons will transform<br>
+into a university-wide student center<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H=
+7GUGDg1aAWVhT
+5KNeaVgh4EhqcFpjfA9UB2BAuohfItNvKPZ4EnUD4zb3LLwvX8F5vVaDRcbjtruKpqpg9yDp" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DrwNiXX0qx7MUiBt9H7GUGDg1aAWVhT<br>
+5KNeaVgh4EhqcFpjfA9UB2BAuohfItNvKPZ4EnUD4zb3LLwvX8F5vVaDRcbjtruKpqpg9yDp</a=
+><br>
+IjisvQezlqYcZ8ok-2FjLRV17EQBcPkTksP96lqNaxniHrDTdVifwz08270oUtEmpB-2FPgl<br=
+>
+E-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2<br=
+>
+Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfco<br=
+>
+mXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6<br=
+>
+YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44F<br=
+>
+N1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOSEHIsmtmfZZrWoGjicYqD20w134CDlgCWyIzQQ<br=
+>
+BMpk3UunSpVnHhZ1mP7Q1egZ9078xMHMxv6P7dZjgHvwRYXST7yjJXf5h-2FrNKOevrqgSyN<br=
+>
+mJ3jaI3vu33CgPruam-2BKm9vt9p4RGhVPmhlLAKKcD9dPQxRzdul9y1qumfI2T0g-3D-3D&gt;=
+<br>
+with state-of-the-art technology that enables virtual engagement with<br>
+audiences around the world. The new center will become a central hub of<br>
+student life with new performance, exhibition, meeting, and dining space<br=
+>
+s.<br>
+<br>
+*Yale&#39;s 12 Residential Colleges to Expand to 14 *<br>
+<br>
+Ask any Yale student or graduate and they&#39;ll tell you Yale&#39;s Reside=
+ntial<br>
+Colleges<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8=
+NxLEwpdRYN3xz
+BgkAOmy8n0YHNOptf0MDUsUPslLRFM72YrJNosx3WWuadvamRM-2B5dMbhB9wCKuUGzp0Ois
+0IWTMfV2kAP10P4hNG1OOW0yQ4yF2XR8ZNs8n-2B3BFLnfJhsu1SYg-3D-3D_fl-2FMBkJMX
+7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3D-2B5DWCsFax5Df8U8NxLEwpdRYN3xz<br>
+BgkAOmy8n0YHNOptf0MDUsUPslLRFM72YrJNosx3WWuadvamRM-2B5dMbhB9wCKuUGzp0Ois<br=
+>
+0IWTMfV2kAP10P4hNG1OOW0yQ4yF2XR8ZNs8n-2B3BFLnfJhsu1SYg-3D-3D_fl-2FMBkJMX<br=
+>
+7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ</a=
+><br>
+- -2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZW<=
+br>
+Dj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5<br=
+>
+sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWR<br=
+>
+NTi1Qeaqp9dAU2yuJPAPeAjRYnWBqW0h8K-2BFtI2h3fYI6veWZ8oBmStd8xNE1NS2OP31Ei<br=
+>
+UoCHKA3SQv75aesR16pS-2Fvf3KNjPCSPWxZIeR9Sf9zgXvSy54RH3GcBFzVKYBW68VBF27q<br=
+>
+NFxjPlqBcLDk8iaS2IMZth3CFVnwZ4jg3ooTkGf8maMDvYNDQ-3D-3D&gt;<br>
+are the heart of the undergraduate experience. In 2017, Yale will open<br>
+two brand new residential colleges, the first expansion in more than 50<br>
+years. Construction has already begun<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H=
+7GUGEjRW7wdRH" rel=3D"noreferrer" target=3D"_blank">http://mx.technolutions=
+.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H7GUGEjRW7wdRH</a><br>
+- -2BU1ZaShxoxTtIpTjs5GQ5fbhNBKhla1-2FZV_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc<=
+br>
+T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc<br=
+>
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH<br=
+>
+0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2<br=
+>
+yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJNGziw<br=
+>
+xNIa41jNB6HZjngdM9Fo8rM0MsBiJQC82rD07zG6CsfadZxqM3FLgd6uydUywc9DBQJ0YRkm<br=
+>
+7fLxmleqK74kXh2vZ3Ycr5agq5dQsaRChVnMqfBBo2IHWm6F9wNLFAoQAiFUuEuK8oDH8XsR<br=
+>
+jP3m1tA-2BnXGpAJkeEwChH-2Fg-3D-3D&gt;,<br>
+and you can watch a video of what the colleges will look like<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DL3onA2NCkIKSUAJsc=
+nbYFHxCdeSbqu
+j-2BYdIxyzP-2BgMwqxTrSC28Hb-2BIf8G2Gh5XR_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob
+r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMIH" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DL3onA2NCkIKSUAJscnbYFHxCdeSbqu<br>
+j-2BYdIxyzP-2BgMwqxTrSC28Hb-2BIf8G2Gh5XR_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D<br=
+>
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI<br=
+>
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr<br=
+>
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob<br=
+>
+r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMIH</a=
+><br>
+cLYDVup6TKi66XQEukkEyBKmAp7h-2FdXDeMTeTN1JG5n3nxqJCkxh6pqXD6Juw7DZhMXaeg<br=
+>
+eJ8HEVbSeA06yjsB3vr8E7rYfd-2BiW0RgqAKr2Z2MQTUB-2B-2BzJp5wSbblu4T7w8iftXk<br=
+>
+Trx-2F7vPWxKZEeUGrKRj0b2Eym-2Bqg3D7Mg-3D-3D&gt;<br>
+when they welcome their first class of students.<br>
+<br>
+*&quot;Game-Changing&quot; News for Computer Science &amp;<br>
+&quot;Once-in-a-Generation&quot; Opportunity for the Humanities*<br>
+<br>
+In April Yale announced a &quot;game-changing&quot; $20 million expansion o=
+f the<br>
+Department of Computer Science<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H=
+7GUGDg1aAWVhT
+5KNeaVgh4EhqcEMEcHEPL3hGk5V7HIpVQBJF99E4Skck7Ss3KnkVEztt9HgqClpo-2BQId-2
+BGAnSTddJPuANxcMpaFr7e1-2B9tL08-2F_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJNpCeeo3jW" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DrwNiXX0qx7MUiBt9H7GUGDg1aAWVhT<br>
+5KNeaVgh4EhqcEMEcHEPL3hGk5V7HIpVQBJF99E4Skck7Ss3KnkVEztt9HgqClpo-2BQId-2<br=
+>
+BGAnSTddJPuANxcMpaFr7e1-2B9tL08-2F_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um<br=
+>
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB<br=
+>
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe<br=
+>
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV<br=
+>
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJNpCeeo3jW</a=
+><br>
+y0NDtehjvR9zcputHoc-2F0Tvh0v7waRjKGIgDyerUTveW-2BgqN7DqOhGWxOPHFz3BwSKmB<br=
+>
+- -2BMsmHJgds-2F38dn4jOFvH9sX-2BaQSGRoryUmi4-2FRsGrdsoVUCbU1o-2FK2a-2Bly31<=
+br>
+5LCkOuFhAp6npSrUFxn7HjYHNaW6hZRNAmA-3D-3D&gt;,<br>
+including a new 10,000 square foot space for undergraduate research and<br>
+the biggest increase in the department&#39;s faculty in 30 years. The same<=
+br>
+week, Yale also announced plans to restore one of Yale&#39;s most iconic<br=
+>
+buildings and transform it into a new home for the humanities<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H=
+7GUGDg1aAWVhT
+5KNeaVgh4EhqcJO6mgQU8y2Q7hzWWUoWPpFKWFBdtlNCMks8V9P-2FfwAsNJKb9tRB4g9fZX
+rjytNcrSQCCimdpQsRfyNFBVdNQL_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mm
+Mms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVt
+InjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5Pwi
+afbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2B7aSWHd5Pq9P
+JTRcKJKJIcnRAMVLZxpVEmffNoZktELqO2p0pOYLcTPVAjIjRjPjxO23-2BtNSvrUYudYtJ3
+kx0rUm5BqNEZMTXjmHjEBc8EYB0iMhcDhPgCMKt1bKeeYQsKTN9j8Yw9pHwDNWVbVp5Z-2B5
+Idv1EZaF3Q4EwhQsUZw-3D-3D" rel=3D"noreferrer" target=3D"_blank">http://mx.t=
+echnolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt9H7GUGDg1aAWVhT<br>
+5KNeaVgh4EhqcJO6mgQU8y2Q7hzWWUoWPpFKWFBdtlNCMks8V9P-2FfwAsNJKb9tRB4g9fZX<br=
+>
+rjytNcrSQCCimdpQsRfyNFBVdNQL_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu<br=
+>
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mm<br=
+>
+Mms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVt<br=
+>
+InjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5Pwi<br=
+>
+afbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2B7aSWHd5Pq9P<br=
+>
+JTRcKJKJIcnRAMVLZxpVEmffNoZktELqO2p0pOYLcTPVAjIjRjPjxO23-2BtNSvrUYudYtJ3<br=
+>
+kx0rUm5BqNEZMTXjmHjEBc8EYB0iMhcDhPgCMKt1bKeeYQsKTN9j8Yw9pHwDNWVbVp5Z-2B5<br=
+>
+Idv1EZaF3Q4EwhQsUZw-3D-3D</a>&gt;.<br>
+<br>
+We think there has never been a more exciting time to be a student at<br>
+Yale. The best way to experience Yale&#39;s combinations of innovation and<=
+br>
+tradition, art and science, community and diversity, is to visit us in<br>
+New Haven<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1C=
+gUhRqkiWycPMg
+1cfgysn1mEzvwz04cRPhgz03sQJ7-2FWhv5vOKI-2BVTaAeivwvpty6p4-2BZA-3D-3D_fl-
+2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs
+TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU
+WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo
+fVy8sJWRNTi1Qeaqp9dAU2yuJP8jq2KAhhlT7b7ybuKrQ1WU7VTV7V-2Bm3e-2FS5b-2FVPK" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg<br>
+1cfgysn1mEzvwz04cRPhgz03sQJ7-2FWhv5vOKI-2BVTaAeivwvpty6p4-2BZA-3D-3D_fl-<br=
+>
+2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9<br=
+>
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs<br=
+>
+TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU<br=
+>
+WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo<br=
+>
+fVy8sJWRNTi1Qeaqp9dAU2yuJP8jq2KAhhlT7b7ybuKrQ1WU7VTV7V-2Bm3e-2FS5b-2FVPK</a=
+><br>
+- -2BqKqKCt-2BgsLVT4TjIuS8h3pypCQtr6vLL3xtyXRzgvkRHqL2cF-2FvYqjNYM1JubBeXw<=
+br>
+8aOSgKSLBf-2F-2BgVOTrgHqEFziAm3vej-2BAQ-2B6THouoJh9K-2FNS5HxpDxbzPxn7lql<br=
+>
+xnQ-3D-3D&gt;<br>
+(itself a perfect combination of big city and college town). If you<br>
+can&#39;t visit us this summer, you can explore campus online<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1C=
+gUhRqkiWycPMg
+1cfgysn1mEzvyDQ5pKE5E3KsL9c2NbxxJi_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP9KUbOsKf" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg<br>
+1cfgysn1mEzvyDQ5pKE5E3KsL9c2NbxxJi_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um<br=
+>
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB<br=
+>
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe<br=
+>
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV<br=
+>
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP9KUbOsKf</a=
+><br>
+KAtJgm6Aa0UEohjG4-2FseXBvPgZiz-2FQ5dtVft2Ct52nf-2B7-2Bd07N-2BZ-2FL5xHeb8<br=
+>
+nyzgD72u-2B3gbOrdYJhrBrUQwhOkbTqMNanvqFv6ydohxO-2BFFYSR1bZXHbhAEXwD2tQnC<br=
+>
+UhQjxXVV0FnZqI502Mce-2BCbTsacfRMGgtLA-3D-3D&gt;,<br>
+watch real Yale courses<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dv0w31tpmiNQuQlzuH=
+Ri-2FMtAUc-2F
+904GipazVWUlDNq7U-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jj
+sWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79
+lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3Dv0w31tpmiNQuQlzuHRi-2FMtAUc-2F<br>
+904GipazVWUlDNq7U-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jj<br=
+>
+sWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79<br=
+>
+lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q</a=
+><br>
+- -2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVC<=
+br>
+VeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOPlW-2FMZjvSTAqrX4fG1YF<br=
+>
+9uuVRwRW40Rei1M-2BdIVR6WvViHb7PUUl6J1Z0abgtJ6pUlM9xMJU9oR9QqsdjKU7v3mveP<br=
+>
+- -2BDU-2BzA-2FuL80UTPrM38RS4XOVBvP5AmGxWdyHNsrR3WGYj6QBtt0VC3iX-2BJ3mQAkl<=
+br>
+- -2F0ER0bsHk1mJjOR-2Fg-3D-3D&gt;,<br>
+read student blogs<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1C=
+gUhRqkiWycPMg
+1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9g_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP51I4UUsx" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg<br>
+1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9g_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um<br=
+>
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB<br=
+>
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe<br=
+>
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV<br=
+>
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP51I4UUsx</a=
+><br>
+cCQt7HNOXRcWQ101lPFvNdvYnazIAkzreY3F6AVY65ADv307Suauvs9pTNuFxtfrpmZrDAlj<br=
+>
+D4jqt-2BxW0lhsc6pxA97F3GhNmE14mDKhb0zp43ZJD29ou7vYo3MXsX-2B8ldlv9ininT1z<br=
+>
+REQilg7QAtLYquBanELf4oQ-3D-3D&gt;<br>
+and follow us on the social media links below.<br>
+<br>
+The Yale Admissions Student Team<br>
+<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DtQ550YTtXV6QVHBVm=
+0ByBRH6OYC41c
+NG4Tyqpy6kihJGiHQjMbgawZZhrnKOUxIm_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2FBpT2N
+54kcTuEsHKRaKB3miFgNBs8tGmL9yBM0LbCqkxbdwTHnTLG5B4P2BYm9PUQYjCrgcJWrJdIt" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DtQ550YTtXV6QVHBVm0ByBRH6OYC41c<br>
+NG4Tyqpy6kihJGiHQjMbgawZZhrnKOUxIm_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um<br=
+>
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB<br=
+>
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe<br=
+>
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV<br=
+>
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJO-2FBpT2N<br=
+>
+54kcTuEsHKRaKB3miFgNBs8tGmL9yBM0LbCqkxbdwTHnTLG5B4P2BYm9PUQYjCrgcJWrJdIt</a=
+><br>
+K1tXC-2Bcv5FMenLS0vkQ3FJ29iU6xwQ0K-2B5KZi-2Ba-2BYzZpv6IqPbsfHV8E7j-2FNjj<br=
+>
+Gqh07FUNiBknZ4Odnk1zcbK0HB82qQFVFiP6XiIu7ZVBdJ0uTSwc-3D&gt;<br>
+<br>
+<br>
+<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DVhovk676AZzMDCRUk=
+UTHxXmRthlwzw
+eanhdE-2F1nrWjGmhwL-2FGuz8E4lQGaStRspD_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc
+T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH
+0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2
+yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP8ePs" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DVhovk676AZzMDCRUkUTHxXmRthlwzw<br>
+eanhdE-2F1nrWjGmhwL-2FGuz8E4lQGaStRspD_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc<br=
+>
+T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc<br=
+>
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH<br=
+>
+0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2<br=
+>
+yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJP8ePs</a=
+><br>
+lZ-2Busjn71-2F5JYR4Cg6QbTmC-2BpSsjU-2FyucbNOUWBKrNj8oJKZ9csnE438CqHldq-2<br=
+>
+BqgIGGqWWlNw-2FLpoYHOQnKxYApPjBQ6Y0muiFNIc0Bon-2BDkw8HZ2eX5ILvgYEZNSh4UN<br=
+>
+7vRH871vEcQU4jjgFJCSqJ94W2w0vwNIv9C5OOBrkdrwy5BiwjF-2BrKoyLY-3D&gt;<br>
+<br>
+<br>
+<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DArGmOXNrXZXX-2F83=
+mTJo6EElWzzHz
+qzOKlgy1SGxGiBnjTU8fLEmoT96igIeMeDtv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9
+um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5
+gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0Q
+Be1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yR
+QVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOQlJH9T" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3DArGmOXNrXZXX-2F83mTJo6EElWzzHz<br>
+qzOKlgy1SGxGiBnjTU8fLEmoT96igIeMeDtv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9<br=
+>
+um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5<br=
+>
+gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0Q<br=
+>
+Be1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yR<br=
+>
+QVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJOQlJH9T</a=
+><br>
+- -2Fd-2BF71jPX87-2FiA6l52-2Fjd3qxBG-2Bg23Qed2GaeQVp7BBsprbOsW5QctpHCFGPEM<=
+br>
+0q9GuhNNqu9JycA7MeuvVQd-2BY1homByc62KbPoDtOccE-2FJW5FBSPyVgZ5yAEgqaOs6kz<br=
+>
+6CC6bqNAxResRJPHDh0qgw8FQp3Nt3pBYFzMV121hFSQmx0cI0ummqkg-3D&gt;<br>
+<br>
+<br>
+<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8=
+NxLEwpdRYN3xz
+BgkAOmy8n0YHNOqI-2BWdUEFwhQ6ePLDJTKTlKXXJF5qrdg-2BwupL0H4ZmLYQ-3D-3D_fl-
+2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs
+TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU
+WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo
+fVy8sJWRNTi1Qeaqp9dAU2yuJP8pSYjw3KflcIhv1XDXUe-2BldX-2FCUlitgcKOFqz8bImv
+zYEbQsWq5Fk0uIALY2h9ERTojnXxMFKeSWW-2BGKMTatqG3-2FmXekE1Be3Epdvnt86uSt2I
+b5lWrstrQmw2TqhcOXLFTpoGVGBOEObrSrakxLatiSDccRg4H0AQM5F2-2B4i5UZjC8vvTQO
+9uu62rest1b0-3D" rel=3D"noreferrer" target=3D"_blank">http://mx.technolutio=
+ns.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpdRYN3xz<br>
+BgkAOmy8n0YHNOqI-2BWdUEFwhQ6ePLDJTKTlKXXJF5qrdg-2BwupL0H4ZmLYQ-3D-3D_fl-<br=
+>
+2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9<br=
+>
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSs<br=
+>
+TgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglU<br=
+>
+WcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1Uwuhvo<br=
+>
+fVy8sJWRNTi1Qeaqp9dAU2yuJP8pSYjw3KflcIhv1XDXUe-2BldX-2FCUlitgcKOFqz8bImv<br=
+>
+zYEbQsWq5Fk0uIALY2h9ERTojnXxMFKeSWW-2BGKMTatqG3-2FmXekE1Be3Epdvnt86uSt2I<br=
+>
+b5lWrstrQmw2TqhcOXLFTpoGVGBOEObrSrakxLatiSDccRg4H0AQM5F2-2B4i5UZjC8vvTQO<br=
+>
+9uu62rest1b0-3D</a>&gt;<br>
+<br>
+<br>
+Yale Office of Undergraduate Admissions<br>
+38 Hillhouse Avenue<br>
+PO Box 208234 New Haven CT 06520<br>
+<a href=3D"http://admissions.yale.edu/questions" rel=3D"noreferrer" target=
+=3D"_blank">admissions.yale.edu/questions</a><br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1C=
+gUhRqkiWycPMg
+1cfgysn1mEzvyg8on2rbHVhhadqhugGcMh_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJPHwR5NspS" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg<br>
+1cfgysn1mEzvyg8on2rbHVhhadqhugGcMh_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um<br=
+>
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB<br=
+>
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe<br=
+>
+1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyobr2yRQV<br=
+>
+uV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJPHwR5NspS</a=
+><br>
+fIlfGysYab5vuV0suPQY3-2BoH6mFO-2FldYxKRnjyNlEqjxp8mdRg13Jm4KbOgSE6Dy0LIL<br=
+>
+Z-2Bsq8-2FWOtbMok1djS31xzsiMY1VMdHeOKlr-2B6LJ3eUmXJ5OSt-2FbjeZJVu1XaZcl3<br=
+>
+uWPflIdTvaErzuqGLWQ2svvWmH-2FeADD6BoaGmVXmIWxaRiaIWIRo-3D&gt;<br>
+<br>
+<br>
+This email was sent to <a href=3D"mailto:markiewicz.john@gmail.com">markiew=
+icz.john@gmail.com</a> by Yale Undergraduate<br>
+Admissions.<br>
+Unsubscribe<br>
+&lt;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFL=
+jEf1iKpI6Rs-2
+F2HcvQQ3cs5IsJtZjGfg-2BbZ207sd-2FiMw8ATeveuF3-2F1IJbYViUThk28BI7QNdqt6-2
+BFpJUzTa3fxKq2qXfEZO-2FQb3Ugb-2B01aTOZM2_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob
+r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMCB" r=
+el=3D"noreferrer" target=3D"_blank">http://mx.technolutions.net/wf/click?up=
+n=3D7aqtGo87cYwSxRwFLjEf1iKpI6Rs-2<br>
+F2HcvQQ3cs5IsJtZjGfg-2BbZ207sd-2FiMw8ATeveuF3-2F1IJbYViUThk28BI7QNdqt6-2<br=
+>
+BFpJUzTa3fxKq2qXfEZO-2FQb3Ugb-2B01aTOZM2_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D<br=
+>
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI<br=
+>
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr<br=
+>
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8yk6YG9ACglUWcIIUrp5sR-2BVhgJbY24qXVSyob<br=
+>
+r2yRQVuV5PwiafbXJrVCVeIRur8LOxXWl44FN1UwuhvofVy8sJWRNTi1Qeaqp9dAU2yuJMCB</a=
+><br>
+- -2BzRm1bNu0trhGKMlR0jXnuYCWUoZYbz60xPx0H3ednxzYrYYPdxKiHlY-2Fl2-2FxMgaTl<=
+br>
+lwj3nwbcZvGaxp28f-2F5KL-2BPHLbkGmKanSj8gRHQdHnR-2F3K3J49aWGy4mQlQ7SO7gCm<br=
+>
+M7v9onOu-2ByUapSIOEQASDzAZEP1WuP11bLIxGZNnqc5VRSusOqfDPDpBd8-3D&gt;<br>
+from Yale Undergraduate Admissions Communications.<br>
+<br>
+<br>
+<br>
+-----BEGIN PGP SIGNATURE-----<br>
+Version: GnuPG v2<br>
+<br>
+iQIcBAEBCAAGBQJVi5qtAAoJEL1WveNn/kS+928P/jj+JIMbU9t/0WzFx1ON+gUj<br>
+g0AwLTPz98VBe80gGaje79Jvumq2GyWtxvu8HdGvgu1duwDdRvfdog1An9nfuVy/<br>
+YOKmBEbxv63ekB5Alz0J4qj58cELEeJal41LGu8MV9G8rJ3fgOI+jVUYSMcmcvKV<br>
+k0zAhuoqwre/Ok+Tgz3HkPWF29XVZcvvSMCJJDzwX/tG3O4QaGwGoFc+ggy3glC/<br>
+EJKFPoEceOA0kJxP2a+VL8zlIjxKxIVuF46EV6q4noskFx74KVe9EqFZMB7VlQkp<br>
+59bBrs3dTlpfQIE+5T/tD475HwhtWZBMqkP23lWEthEakGlA73IgK+oS2o+MqkmN<br>
+T1cIf9NkFfoRqHyhr+LJJvr/sD7hwx0AIvvC+P4S5l9hmc8kCaYsyCo3gbAw2vxy<br>
+Kfm5Cwnmk5CKyEz427wQ9xlf5e5l4KkAvaiBs1K2Yy/++vPZS3PueAKopBxPm+ok<br>
+EaQTYkn8OupBrptQl/ITBW6UJZcXOzP7sUfLTX95qybCzrpEO5KHxBhzJdJpejCR<br>
+oHmuvBVkEsADKgdleyyjELWxPQnd12G/4aV+hGt4wir8zGD38imHEO374p2jPZSi<br>
+xKjIgiNc4SBQQQZMtjtnEuU9Q5BidkDrDBhr56Jpf/DjSqzbiIOqI/bE2pvjrO03<br>
+EtbHk0+Ec25X4MAAxSJz<br>
+=3Df4MW<br>
+-----END PGP SIGNATURE-----<br>
+</blockquote></div><br></div>
+
+--001a11494592dfa6be051954f133--

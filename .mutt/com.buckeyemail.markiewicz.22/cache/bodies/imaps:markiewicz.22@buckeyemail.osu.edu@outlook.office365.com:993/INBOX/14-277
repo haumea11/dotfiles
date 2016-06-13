@@ -1,0 +1,639 @@
+Received: from BL2PR01MB386.prod.exchangelabs.com (10.141.90.144) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.409.10 via Mailbox Transport; Thu, 11 Feb 2016 18:07:43 +0000
+Received: from BLUPR01CA031.prod.exchangelabs.com (10.160.23.21) by
+ BL2PR01MB386.prod.exchangelabs.com (10.141.90.144) with Microsoft SMTP Server
+ (TLS) id 15.1.396.15; Thu, 11 Feb 2016 18:07:42 +0000
+Received: from BN1AFFO11FD010.protection.gbl (2a01:111:f400:7c10::163) by
+ BLUPR01CA031.outlook.office365.com (2a01:111:e400:8a4::21) with Microsoft
+ SMTP Server (TLS) id 15.1.409.10 via Frontend Transport; Thu, 11 Feb 2016
+ 18:07:43 +0000
+Authentication-Results: spf=softfail (sender IP is 164.107.81.210)
+ smtp.mailfrom=in.constantcontact.com; buckeyemail.osu.edu; dkim=fail
+ (signature did not verify) header.d=auth.ccsend.com;buckeyemail.osu.edu;
+ dmarc=none action=none header.from=getacceptd.com;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ in.constantcontact.com discourages use of 164.107.81.210 as permitted sender)
+Received: from cio-krc-pf03.osuad.osu.edu (164.107.81.210) by
+ BN1AFFO11FD010.mail.protection.outlook.com (10.58.52.70) with Microsoft SMTP
+ Server (TLS) id 15.1.415.6 via Frontend Transport; Thu, 11 Feb 2016 18:07:42
+ +0000
+Received: from CIO-TNC-HT05.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-krc-pf03.osuad.osu.edu (Postfix) with ESMTPS id 40EE2201CC
+	for <markiewicz.22@buckeyemail.osu.edu>; Thu, 11 Feb 2016 13:07:41 -0500 (EST)
+Received: from na01-by2-obe.outbound.protection.outlook.com (207.46.163.241)
+ by CIO-TNC-HT05.osuad.osu.edu (164.107.81.168) with Microsoft SMTP Server
+ (TLS) id 14.3.248.2; Thu, 11 Feb 2016 13:07:40 -0500
+Received: from CY1PR0101CA0018.prod.exchangelabs.com (10.162.170.28) by
+ DM2PR01MB559.prod.exchangelabs.com (10.141.84.26) with Microsoft SMTP Server
+ (TLS) id 15.1.409.10; Thu, 11 Feb 2016 18:07:38 +0000
+Received: from BN1BFFO11FD036.protection.gbl (2a01:111:f400:7c10::1:197) by
+ CY1PR0101CA0018.outlook.office365.com (2a01:111:e400:51d0::28) with Microsoft
+ SMTP Server (TLS) id 15.1.409.10 via Frontend Transport; Thu, 11 Feb 2016
+ 18:07:38 +0000
+Authentication-Results: spf=pass (sender IP is 208.75.123.130)
+ smtp.mailfrom=in.constantcontact.com; osu.edu; dkim=pass (signature was
+ verified) header.d=auth.ccsend.com;osu.edu; dmarc=none action=none
+ header.from=getacceptd.com;
+Received-SPF: Pass (protection.outlook.com: domain of in.constantcontact.com
+ designates 208.75.123.130 as permitted sender)
+ receiver=protection.outlook.com; client-ip=208.75.123.130;
+ helo=ccm22.constantcontact.com;
+Received: from ccm22.constantcontact.com (208.75.123.130) by
+ BN1BFFO11FD036.mail.protection.outlook.com (10.58.144.99) with Microsoft SMTP
+ Server (TLS) id 15.1.409.7 via Frontend Transport; Thu, 11 Feb 2016 18:07:38
+ +0000
+Received: from p2-jbsvcs5178.ad.prodcc.net (p2-pen6.ad.prodcc.net
+ [10.252.0.106])	by p2-mail218.ccm22.constantcontact.com (Postfix) with ESMTP
+ id 99F351DFF3B	for <markiewicz.22@osu.edu>; Thu, 11 Feb 2016 13:07:13 -0500
+ (EST)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=date:mime-version:subject:X-Feedback-ID:message-id:from:reply-to:list-unsubscribe:to; bh=TFdUae0yWSa5W7V8QaAzlsio+oyXVXNz6VtqX2p/igg=; b=V2w98KpgmNpY2CuxKWU1xHI0mmRlluZsEmhp1lTxb5Uuss+0OIO/XqZ+Tauv3MXsAFqiJoh59yKu95QzxQtJOEYkp/GHJDldg4/Bj+GjJ/2ERsd2sZqNCJUOvqslwf72xumLlJx2dV56a4+9hWJ8smnZdfcIsZ8pr4GiiFIkbk0=
+Message-ID: <1123756303275.1116109130615.1149063527.0.171304JL.1002@scheduler.constantcontact.com>
+Date: Thu, 11 Feb 2016 13:07:13 -0500
+From: Acceptd <support@getacceptd.com>
+Reply-To: <support@getacceptd.com>
+To: <markiewicz.22@osu.edu>
+Subject: Perform abroad with scholarships up to $1,000!
+Content-Type: multipart/alternative;
+	boundary="----=_Part_490066751_708022739.1455214033605"
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&m=001MZUTHGD8m8SBetrDLelsCg%3D%3D&se=001v975wUvS4FfKjqv0Shk1IQ%3D%3D&t=001EkZLEx15CcE%3D&llr=x8stuopab
+X-Campaign-Activity-ID: 8e432edd-547f-402e-baef-b05e0625933f
+X-Channel-ID: c45e6050-cb5b-11e5-b193-d4ae529a863c
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: AjkMu3VR/QC6677BeBiWTPw==_1116109130615_xF5gUMtbEeWxk9SuUpqGPA==@in.constantcontact.com
+X-Roving-Campaignid: 1123756303275
+X-Roving-Id: 1116109130615.1149063527
+X-Feedback-ID: c45e6050-cb5b-11e5-b193-d4ae529a863c:8e432edd-547f-402e-baef-b05e0625933f:1116109130615:CTCT
+X-CTCT-ID: c4486750-cb5b-11e5-b183-d4ae529a863c
+X-EOPAttributedMessage: 1
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BN1BFFO11FD036;1:dLENqsJCuVZHFEUXa8DtjhL3h3YURvxG+N0Zn2Nb2lphmAXTGlN/OCDbbFiALbPmz5e3HytgaW72scuaorwL+QMHNHvmnx/A9gVhYovTbf5ps2eDNuRlpGVkNeyhYwQQlFB4oy6kRsMhgq2+2Bhj5bWBg6O/gzUWh+CbUz6IDR0kvFQgftioZnzYiB43+akJFzc1x4WI/dT43hZB9wDFV/voEPqvctL7uG7NQT9mD/v5x1JQTMAAH/D3vVQDiJ8E9XiWOSbkk6ymd6+QCZqQQ6GlPFhpJXRQaesSNCUbANkhzcPVvBNl1B4ATRY3zzXYyHZflNJByM5dVV6g7gmQk5degz/zLPnZ3iNG5Ow9CTY0fiabNWPPwcHVnGUjvOBQbNKc6HLRu+Ram9hNlkQ+PohNqMsaKHgGz/qvuq4l4GYIjY+9wHjcatwvagw4iuwUMmgzPheIDte3Jyn+FIPEOw==
+X-Forefront-Antispam-Report-Untrusted: CIP:208.75.123.130;CTRY:US;IPV:NLI;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(199003)(95244003)(189002)(19580395003)(104016004)(106466001)(19622755009)(17008665002)(79362002)(85226003)(2361001)(16601075003)(307094003)(18926415007)(19580405001)(43066003)(226693001)(5008740100001)(15974865002)(450100001)(586003)(956001)(77096005)(110466001)(620700001)(5001970100001)(50986999)(4290100001)(512874002)(6806005)(19617315012)(53806999)(3450700001)(229853001)(47976999)(107886002)(19618635001)(14613045005)(2351001)(11100500001)(146001)(2171001)(84326002)(103116003)(50226001)(33656002)(15975445007)(18206015028)(142863001)(7059030)(42882005)(102196002)(16866105001);DIR:INB;SFP:;SCL:1;SRVR:DM2PR01MB559;H:ccm22.constantcontact.com;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;DM2PR01MB559;2:JBQrHNqmPUPFMwSC8eCQVmO2ErtWRRqwM8ghZLumzsU7MYlfi4JhxeOgasTtLgLBL6keiwpXH1o+qE46EzvfJLUbKOaNQ0s8FvbOEEZJ0OkXhiYdYTnWgVQf4iajC8XjXjrywdFYDwmSzg1zqOhf4g==;3:uI91NZI51De/8OsSAL5PaG5dEsb/zfxdeKQX2jMq0CtoZvoN6FkfVaj44pnMwnDD6FZVANhEzV9D6uaPzblhMqWyeQ2lm40Uewj5HTvkyUj5YyfU1ZBBaqrl4BkTv6ikFDIMOqjOUEREMoXn7xduUh9gteFuZi/W53EAuWg1wUJbyKwG0rUtZI1Xd0Ohp7JxRypJOeAQUsJJxlJIqCgy4BPMvFUOjjt2fA3CuGldFLuY+pqbdBdUHwkZijkhYfEwVWynLxCGBA+5RDw6IPFxM5tz0vnguNZqZ7Qhd8uC8XYYI3owoQsqzQMGUXx/mszMtCbsBwdoYvK9XK471H3+BRwRwhNDel+LDERhyX6duQRSt5ergHuKYLILoPvOCUF/Snlf9XCQD65W8eVaZCSCNA==;25:b4QwjrvLSSIy5l3C2jr/yMiNc89aIQMAo1mDKHWdlcozPVSe+KpgmYZnVw5Ks4bN3cXN//CFnfEQdiclCbFBOsD1NOEpRkAwaHqG7owAo5UsjEYkvI3YA5mjmH1UZRMnB4glWJKa+rObAWbyTzkBI2l14jhtTbVi+8kzS1lym5OEANxnkQp+h6XmU3uHExJIojpV0cviVNoLOttxFY24aXQWTFA7zZzk6AwdmWrd6+036zC6DYz0xhRfh+PNpB71DLG++3mWuL62xMmVj76raPkQSVJv8NNMRbWoBh7x7a3iNz9Xy9sctrDKrNgZP10w
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam-Untrusted: UriScan:(37413)(131795);BCL:4;PCL:0;RULEID:(421252001)(42139001)(3001015)(120001)(180001)(71701003);SRVR:DM2PR01MB559;
+X-MS-Office365-Filtering-Correlation-Id: e91aed7b-ae33-4cb6-713d-08d3330e3c93
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;DM2PR01MB559;20:Vbfc/Ii1sxq9HA9vrLJyBCMqjU2WfSMkIY0YAxx8dSQmoW5BjzjQiKBh+d3o1C5ompGt/JYBc/ALul5uc5oTZnRMstkdCMXKHVcovsLu4CNqeSTTln9YJ4fTJfON/p12Exuj8apJKjSoG9GVRQ8VTduFR+OvmUywbZOkJBS16mpfAMdsMicKADVtay3x9i6BirejmLDJCUHqfBgYx/kuAHVyVVVoqq4ldA3gAC79SWYlFyQVTdYtIvJM9Fi3t7GwQyq2Ftievr8dqOZ9A7U/i358BgaLj8eyiNr80/gI4kJhdi1tn1mxfXbrBsz6YF0TY2dxJnluFoyAuQEOSvXmr0516n14CRtoaVcZmawqiJV4dUiR3Pt6OxID6gQQHk3K61AHW28JrZw1TAuCQGQEtRb5L9C9Ow98xnWZFfHTDdIflyZdy6teoh3OTjczME3zI/ilmbb37dXNdQIPr07wy+0LvK+wYWH9a5Rb175HLnZUfYooU53w0eRKLZcRiXmO
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:4;PCL:0;RULEID:(2401047)(8121501046)(13018025)(13016025)(13023025)(13024025)(10201501046)(3002001);SRVR:DM2PR01MB559;BCL:4;PCL:0;RULEID:;SRVR:DM2PR01MB559;BCL:0;PCL:0;RULEID:(2401047)(8121501046)(13023025)(13017025)(13018025)(13015025)(13024025)(3002001)(10201501046);SRVR:BL2PR01MB386;BCL:0;PCL:0;RULEID:;SRVR:BL2PR01MB386;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;DM2PR01MB559;4:lJoUQV3pn/XQJ7T+OJrYmOuSxTr+aamrWjj5QqBFRt8f5wORDNAOdvD1YABVXV34Z3cVf+P243BWO3mieDQ00s8KkwIql0E96xUmUwD9ktMDoHgdPZvQMejsip5tyJhj1hlm8RwzCY4aXVHySJ3LsYQ7s16UwWLnvKiIxeCE3VvySAVEtiIWqeoXr+yS1SwS4sOKVzKucCkDbuHu3A9F+CiwJUKWFMZ/95UJzUCdq8K49OmfBdAaJuG0mzOyIUKFgKJ4ur+1b88rawISHMBN2ifqT79htbErAO94Sn4AGv6J/oqBOl4yQCQa5TSD+NWUiv34X+gQsMzpl75Aq55gXKfhmKmo1jVby1a8IEaG0uErt857o+nKfBLV/YdqcTCW7HqLXa18hClOIrbBhTF/5PXzXq6YbqabNkkxFbN4+EmtszfpClmjGKfjOgRtfvROcE0VKBC4R/1CI9o1w4O/tw==
+X-Microsoft-Exchange-Diagnostics-untrusted: =?us-ascii?Q?1;DM2PR01MB559;23:TlbVQKiCj4d3nbXHNQVBIQWI6TtzEUAxr/OWpS9iuw?=
+ =?us-ascii?Q?EH71QQFVgnCHxz6q9z9MSOFc6zcmA5i4dr8AGm7FzX3/+LI2mCoCyVj/QHM0?=
+ =?us-ascii?Q?rlEaq1XVetLvjERAUbbkzJ9OPK6S6rmuxq23veTG7tJSwpxti5swhlymFDwR?=
+ =?us-ascii?Q?qIXy9RHPWxzZmyyS7CZrKj5mJXrmmr4/ccquUatJwMy8oE1QKOYBDUikbmux?=
+ =?us-ascii?Q?gdgaqk4Ti2AgpvcoT9TdneuVROBXu38acw56aX/9CTQ5eLLyPMxnufNJelCl?=
+ =?us-ascii?Q?8fnfOTM4IIyjhMd78MQQhUGNMLAWnA5pc637XnVp2x3VN4inFJ/dEalkRtfx?=
+ =?us-ascii?Q?52ItE6lJLpWvg7K8tWH66wufsCmdwgWdRn3gcZv7bFZvXoqSh9P4rgBoH3Pe?=
+ =?us-ascii?Q?/hctzglFe6+xJE4F6OsNqvscKYa/7wJQZ0jav8f57nd6gJrGnyuChsYlZ2OA?=
+ =?us-ascii?Q?41dNHQFblwKtJ8Psxx6KEBtUEmoWOcgE//DRVm1jn2tUk+6R3Ug2KfixN+9i?=
+ =?us-ascii?Q?1j3fzZjO2CaAkjeyngSyL19UWxMLk9+Cb5f+wNdNwGYZEdKKhHYBfv0wSIjM?=
+ =?us-ascii?Q?JrN0jqRCr3qJgiQ5mHmLqES2ucR69bXULDT8X0EmxHLqJGsLNgcRUbER/M3/?=
+ =?us-ascii?Q?aAoRY9T1KEfLjc5k/wTp20ot0qWXXhP4DPK79X+R8IciyDvcH5X9k+CvQ65j?=
+ =?us-ascii?Q?JzLpudX7P5NjG+XWAMkt8+AmOkf+GFnjo/EziGXdjx4H4dT6ZjrkFIUUjr8y?=
+ =?us-ascii?Q?XwtZ0jWZsqxBOukO3+kYLDtZBFkKcuJ/wEuJkt9Zpg9D2SLAjD2vOxFl+uI1?=
+ =?us-ascii?Q?zH8yGaK20LiMw6dwIUxKVCc0QRtDXVys3W+plFkdk7UZpWroDT5z1xjxbgnp?=
+ =?us-ascii?Q?OIGgVQP7APHopLEHzLreoOfSuntayeGh+bgnIGCkHNmOopRojlVahWX6hbDC?=
+ =?us-ascii?Q?OmUI5sAJVpbADrF+jE5+P2yjTZeav/jEcdVrZRuddwl8Qu9Dwa6CQI0AnTwm?=
+ =?us-ascii?Q?ZrbU65Yg/4d/85q23dv9unfF6/4LROjFJApmfGrdbwpi7+tDFTfzzjMQ812m?=
+ =?us-ascii?Q?PoYviv9E+yUUdUTNrZh0bFq6QjJ+A0D0MLQn0pbqIE93IwpGJ9liaKcKTYNU?=
+ =?us-ascii?Q?h0uEXxukPRWSOdiSvC9H+MqYynYxrb9tkclnECtetSLFyAsSzsSBjTawEgKs?=
+ =?us-ascii?Q?wtMOoqbZHGLxDWCuTMdgAEx9eLPD52VuIA/dxfvGbuHOOKAxEl/Mydmv6EOf?=
+ =?us-ascii?Q?CVpWxjF+XDBm2UO9qeQCtTkH6fIbAuhD73SMOknws21RcRAs9J461CO0NhHG?=
+ =?us-ascii?Q?PsBwcn+X0JmtXUhSFWvRW+7/fpymtcQThnbeHDhVPgqYs6i0ZJDjVlkLRWz4?=
+ =?us-ascii?Q?o8QPeSPgc2HDKHnI2Pt16YlUVj0ocxtbmslhI4oDHAfVfXvn012y2+BxTF4q?=
+ =?us-ascii?Q?jMiAFliQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;DM2PR01MB559;5:pfMx4YP80kZUFzqo6dvL+i4WECRf/bLTm9LvKDOyhEj8vDUWVdmeUPfDgVPRxF2V3uXk8EuJeXQUDDA1XWN0s6BYfsipnGfcNG5Q8he1zAZXp2RrLU1TVWlMvloB1Z3wVXDJRetBly5sAh8Uhzr2Iw==;24:e9/VMrB3EQ7PPpxHxNI31Ui7C6JJJqbNphDVbVItYpBn8Ox6uoZMasGeqK1MkGwD8vJ7vX39znwOlVpSPKT7SZxG5cgdW9wfyPCHNMMWHBU=;20:3CRly8nPGFK0IXfsaa9r/OdyD11E1zQoLYCgnG+vuwtaF0PRBhIFHK7J74ht+HIA4MgmY2wXt4cOh7dWrdYAYbKBIQmALyVVh9KCAZzfAkT+WilukCUfApna84DisEYhRgParETVHGUEuAsE2TgrJcLt7jbPL01XHXlsttxG2b4=
+SpamDiagnosticOutput: 1:5
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+SpamDiagnosticMetadata: 4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM2PR01MB559
+x-header-osu-auth: True
+X-CFilter-Loop: Reflected
+Return-Path: AjkMu3VR/QC6677BeBiWTPw==_1116109130615_xF5gUMtbEeWxk9SuUpqGPA==@in.constantcontact.com
+X-MS-Exchange-Organization-Network-Message-Id: e91aed7b-ae33-4cb6-713d-08d3330e3c93
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BN1AFFO11FD010.protection.gbl
+X-Microsoft-Exchange-Diagnostics: 1;BN1AFFO11FD010;1:IolRZx5VmbyAeDI3oPk27Kqzv4NcIkIG/d2G7Bsp3wO2Qb6RpM4xkfLr1sQCDUW5/GtVIckE6VHNL3HEcFa4qdKz+d5Z9S/jwl+HGnR9TyX2GZZOKngJVT6NGc3mIGVXDW0ESiyeXst8owdmce9XA35r6vc93784kUWR5Am21K+yJ8WS+yi41HrgippqL0PAunS+S3xXRyd6qHaLufgzkteDNmrTMrtwbj3AT+VJ+jc4CmZiEcx15T9zvzDd+C+EwHjKoEfVmRX04Hb3Q2cVJ41A9NsEPz0YtSWtEAj8i9k/1Dm5+gFkJAgXqbRUlulhxW9nGw8AIL+642m0cJgoRPG60jgOx6CGlXPcjX7VgEUP4UQLAnQOJA8CBBUUX2ay6Ig2pZLV9ZOgCwrlj0S81JSnLaQb2lRdIMx4hWAEKgNNSZ0JOqOQPiD9FwvegCh6Ee6+838IdFgbXbcYBWVKxRQud7hnEby4NEBvLusq+vaM3HKHK1HaiRv08EST5JWk
+X-Forefront-Antispam-Report: CIP:164.107.81.210;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(2980300002)(3190300001)(189002)(199003)(95244003)(50986999)(18926415007)(104016004)(14613045005)(19580405001)(450100001)(18206015028)(50226001)(5008740100001)(512874002)(15974865002)(53806999)(84326002)(11100500001)(19580395003)(19622755009)(146001)(85226003)(6806005)(226693001)(956001)(79362002)(33656002)(3450700001)(19617315012)(586003)(47976999)(105596002)(107886002)(2351001)(229853001)(43066003)(960300001)(17008665002)(19618635001)(77096005)(1220700001)(106466001)(109096001)(103116003)(2171001)(4290100001)(307094003)(189998001)(15975445007)(16601075003)(87936001)(142863001)(7059030)(42882005)(16866105001)(102196002);DIR:INB;SFP:;SCL:1;SRVR:BL2PR01MB386;H:cio-krc-pf03.osuad.osu.edu;FPR:;SPF:SoftFail;MLV:sfv;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;2:HF7r+KRItu6hhfeJNIltUWmWuUpIP0t64+bT2yU9x/lRSTUTS1fJBqwPbrXxjmWofKxSmzXBP7OR89ocAYdccAC2GH5lpl9ysmet1EzOL1clANsXTnXg6UIOqC+/Jv2in8feN1J1P4CkUmfF8cVRtg==;3:5/uzO2CKqbaMtbUybTEwGtFHx2VlYeg9DB0Uu/6ZR6VKCMJJ3En0u2FSs7mg/IgsfgkUlDvlmGWUrU2z5orV5aPgKfhRkDX0v1MRwO8yeZaTMUjvjh3AHyT51tLUeuwk+4EDBVejdJgTv8ch0yAtkUF3KUauArh0vxJzOrwOce5EIPVLzzZWl+yqqnwqq58oJ9Qv7jiZk/OFhB3VWPJ5seDLdVXbzu3hfBgk4nC/FKu5KtDv/ke+g3WvTVuByo85bKWysNKbdOB13nJV7LhoYokQRLn90FXKKbJu40lH6/jv7OpskIvvCmJZ3b4djbZsvyRy3K7gkXX72e7FGaAKXaxcME6/fjBBE9PLyKkgxcc=;25:N22Bbquewcb/jxROrOrXDh7ChjMUkFTPquWUxNjb6rW0wPhaApnaqzWT6hxecXVAovha6WsZNIZvvStV5LfPv160EuQCX+qg1Fz5/GANTHVzQUa8Z3ykDuzkfppfEiLwd6BC8hGrBwDFn9EUM+696latkxz8NJ4sV+zeozEu9gIkPRmeN9J89mvEZRL1SLwxzIHfnj+RTkxZ0ZdmKXmZxBM0GQPLF+iIHJGWLYDDdwegkj6C5XO0cJJnCsdbtd4gyjZbB62qNGHFKxLJjkkWXVxxS6HErlK4EObZC79noHyuyLyFVeLtGVbjXstJtepc
+X-DkimResult-Test: Failed
+X-Microsoft-Antispam: UriScan:(37413)(131795);BCL:0;PCL:0;RULEID:(421252001)(42139001)(3002015)(120001);SRVR:BL2PR01MB386;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;20:YvzY/JXT/GlaXd/vDpu3zMmcFbV/lS7YXq8rNjKMiYCeXmhMXlQg0VWJ4KuJWz2oCp9a/5Xtu724ToePoa//GKIIWiREBA/fwSLHD18ntrYmv3YvbqVLUKl2JhlZhZrl8ToroDMBVjqA59UqnTYaPPVLT8Fc1uSsTbtu7Hm7dI5nUNnS6sC0cK/xg+LyDAbBGZc128yYAAGXFEK2L4Qqk+0E/FRip+VaOuMnAdc4+A9irAnhYXqSHsOOXC2RcrD0HgsP5TWIDEq0bf4g+e+GZHY8R6SCHMBhkmWLFjnxoNwHLdi/UkQ2N2RGXlR1sL/O0kd5CbdCw99hb6ysnNGOCGQyl8VI43FWddUjxyW2tjsaRFk5vxmjAQMy6iO578wst5JG2dwGXC3IHdjrpxcVUt+RIim7nTSCNcXliJlPrrMp6rW6xnd7w+0z8tyg2c8K0j+cRxypYqS1oWvkrFlUJ35z9NLr12Kp7u6QYD7oOpAlyLrpkMGWNHQzZ2uwVm4c
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;4:tGWQMt31l+vEcEj6UZI0kXwB6NtrUn532xm2g1dTFvbqFu43T0mnxyMIp+sbQ5UZe8XNufm8aopveHjcwtfyNsLhX8dEnILgAgfze4WoJPg37BwXVSgVsX8iYwciZeibBOyyRtC72vsOilNgZ4R5OUandkdBjrm6BQdr2Nc+h8DnpBXUW63E20kY4qiUzQMj53qcvhtwtaFM4xoBDhXliLP9YVHWzcXnqm10rJCrsfXp+veXgYYlpZonYWqA6uUZdlN26SLy91Ns4HRLk6mMZ76CnKImC75EHujjEwzCrWAOCfIqTSAn6s6PLz1kpdhk2eE/p/xONtSD342tcfxzyshUYwl2ygz7vuTIlRrPwUPBAobYD/EAfMGZUW86FnMw457wVW86qRsCgMcFOrKlRw9ZAMTYZ3elV3dspOvCsa5VP/BRN5BUN7CRWk5Fywn5Xs6R1wmhT/4Qdle55jDehPUE3A+RJMkmURLuncdRRPI=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BL2PR01MB386;23:YJimrTFgpd0+UvjdN/4itshflMlQRiW8ygJ4ncZA16?=
+ =?us-ascii?Q?+E5f/y+WslhTD/ihVze9E5y5KrLygzTf8F7YtCOVKFJ8gi3e+IiekeGtVPgS?=
+ =?us-ascii?Q?vyIGxLef0O0hj+1pnZ86U3GmZYPwquhT29GqKrbs/I4sthAmGeuJr8solPMC?=
+ =?us-ascii?Q?hqnR0xu5Sabcch+w/IccQ8DQRfTHprIIvhXiSQsxO6kHlZCN0BEvTtxi8pST?=
+ =?us-ascii?Q?cRJjI8RZhKVbcgUttWJfYB/P9iAzfHAONaPXPUTEt1s0i7UJK0gmmmPbU8li?=
+ =?us-ascii?Q?rAkvtgKRrVy+qzUVV1Qyi3u2HIa7bDkikqNkIsCN2I/5qtpQTrfhJoGq274U?=
+ =?us-ascii?Q?sFwkCpL6xNqBrMw0FL8LeXmWUf59nIWya1YhVWDGq3uW7P1xGuqfcYtpTlMX?=
+ =?us-ascii?Q?aUlnPAJBEx40hdRgZli6b4TKnHFEoZLdR7ULCjsmWXMkiU22Qr168TnIjl5i?=
+ =?us-ascii?Q?ByVhHHQxqlTV4cS/pvm3pqbRmBk7uMfyArIoOoLaTVyQxqmToc5qN+gINzKo?=
+ =?us-ascii?Q?xmuiX07YwESKt7AqlN+wFErlMmTyRbFPX+xiah+UmRIslAssFPg79clrPw08?=
+ =?us-ascii?Q?uf9zVwASzEeabMuSJhNdBgaqJAd3ij7Gg9XeObAYClEUY1JYiwVAo5xUcAek?=
+ =?us-ascii?Q?jA07WYmK28wqu8mi81yIrVgWhS9tAC7fZ+/EF4fjelmSrgBsy8erfVrps0h1?=
+ =?us-ascii?Q?LsZZ+AtBMMpEXSSuq9zuU1XljmV7x4J7EKsyiPFqrW4AcFPnSCxQdPVa5Yeo?=
+ =?us-ascii?Q?VEPfG098nmrRGsGRkWnBKHhMoA22iMhedCRL8gRzEWQnba89svVqZkx8fZ18?=
+ =?us-ascii?Q?Vqg15Nh1Gvc9hpLjNSMxlyavl2JGnPhhLNB146s0rFzAYkEWW+XhB2+8nPlp?=
+ =?us-ascii?Q?9CZQPS+49+oDvUI+PQvRhws6RbeQEHwrOYATzm+BWu4sQCyPeDMMx76Rrvr0?=
+ =?us-ascii?Q?xtnb5dh47RqTPIarT7QLf7RgY5l9nlk+BrzdyhAxnha9IyK73/QZpeuMEsOn?=
+ =?us-ascii?Q?0mGKmGqsPv1PDdfv4QqwtJzs+tKkrTdFGqWpIvxp3uFLPWezAqliWC8UYaGd?=
+ =?us-ascii?Q?GFecNDy8pGxkFY9yODux/I/oTeF2J0yScQbRoi7YL6yyeOz1lf+8LbpN42u+?=
+ =?us-ascii?Q?/T0nEXhDCgU2AgZpHinHjubOs89vuYXyJXQ0MmufP/jXxt0qerxycLr10DQQ?=
+ =?us-ascii?Q?G1azQdE+CRGfC4iHn0EWjzLiVIocrptatnTfWcY/LDcnwHwu6GIElWXGN/Ee?=
+ =?us-ascii?Q?xSEkzIu6PSc9gn8Jzmlhyf+ZbRGhS29FJfQrDXfjp1Gg1pje7SLkyUXgjtbf?=
+ =?us-ascii?Q?094l88szbXolFzQEH/sGIf0yTy4hZAltwDShtTlR6ZvOUqDzrGp49xjPfBqH?=
+ =?us-ascii?Q?4UmvmdIhQdhKko3jpSGCZ1VrmL6KXvP2p+Rgjw1mLjc4eJF5JmxZADcZz9AM?=
+ =?us-ascii?Q?djzCOF8jepX1nQpG0XD5PWkUnW+ATTuwfdw7lGe/h8160+dLj3LOGn18yzUn?=
+ =?us-ascii?Q?XnWgIxiMppbg=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;5:b0sd1aF+8iWJpzVvXkacpohFjjMkTMr2q1klUcSXwuCe/9YLGY3OlccOSVm7ksTkEZp1WIOa9d2X1qbDExOFrSjPyalzVmYUgl4h4WVWPShwdKEpcf1nv8oaGYvgMB6/X6wbTntchP1Vrcxn59VD4g==;24:OyV41EbIX5XfWOyh9Ts9hFk5z3UVhaclzpzTIZoK2mF0s1eHKLDT3Sv+htDsde5k2adedepIwx1yYuyP4AXsvZiRaQ+iBbeSj+iqetdZR8k=;20:RHX260hB9WZtvRktTVF9YBfkbhynw/YNz8RzvDPC+RMrd3TXAmCBfEyeokmehB+PDYuUKtetXG0oD43HUrO+FE0NmAAxSONpo9ylyuyh4TVACM/jkVaoN1K7bWfOn11Nsa7zcjsQLlkO+3pxHiDrdUmejiR+GDc+ltN2N7NYEOk=
+SpamDiagnosticOutput: 1:5
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+SpamDiagnosticMetadata: 0
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 Feb 2016 18:07:42.6822
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.210];Helo=[cio-krc-pf03.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR01MB386
+X-MS-Exchange-Organization-AuthSource: BN1AFFO11FD010.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.5522727
+MIME-Version: 1.0
+
+------=_Part_490066751_708022739.1455214033605
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+International Programs for all Ages with Performing Arts Abroad
+
+
+High School
+Check out two exciting high school programs below!
+=C2=95=09Costa Rica Summer Program   Awaiting hyperlink. Will add in later.
+=C2=95=09West End Musical Theatre Program in London   Awaiting hyperlink. W=
+ill add in later.
+
+
+College and Up=20
+Scholarships up to $1,000 due=C2=A0February 18th.  Awaiting hyperlink. Will=
+ add in later.
+
+Opportunities for Theater, Music, Dance, and Film=20
+=C2=95=09Teach in Costa Rica
+=C2=95=09Train in London
+=C2=95=09Intern in Spain
+=C2=95=09Volunteer in Kenya
+=C2=95=09Study in Italy
+=C2=95=09... and much more!
+
+ Apply Now at
+
+Forward email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dx8stuopab&m=3D1116109130615=
+&ea=3Ddhunter%40getacceptd.com&a=3D1123756303275
+
+
+
+
+
+This email was sent to markiewicz.22@osu.edu by support@getacceptd.com.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=3Doo&m=3D001MZUTHGD8m8SBetrDLelsCg%=
+3D%3D&ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&ca=3D8e432edd-547f-402e-bae=
+f-b05e0625933f
+
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=3Dun&m=3D001MZUTHGD8m8SBetrDLelsCg%=
+3D%3D&ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&ca=3D8e432edd-547f-402e-bae=
+f-b05e0625933f
+
+
+Privacy Policy:
+http://www.constantcontact.com/legal/service-provider?cc=3Dabout-service-pr=
+ovider
+
+
+
+
+
+Online Marketing by
+Constant Contact(R)
+www.constantcontact.com
+
+
+
+Acceptd | 1550 Old Henderson Rd | Columbus | OH | 43220
+
+
+
+
+
+
+
+
+
+------=_Part_490066751_708022739.1455214033605
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>International Programs for all Ages with Performing Arts Abroad</title=
+>
+<style type=3D"text/css">
+		+#outlook a{
+			padding:0;
+		}
+		body{
+	        height:100% !important;
+        margin:0;
+        padding:0;
+        width:100% !important;
+			background-color:#ECECEC;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		+body{
+			-webkit-text-size-adjust:none;
+			background-color:#ECECEC;
+		}
+		+body{
+			margin:0 auto;
+			padding:0;
+			background-color:#ECECEC;
+		}
+		+img style=3D"display:block;" style=3D"display:block;" style=3D"display:b=
+lock;" style=3D"display:block;" style=3D"display:block;" style=3D"display:b=
+lock;" style=3D"display:block;"{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		+table td{
+			border-collapse:collapse;
+			background-color:#FFF;
+			vertical-align:top;
+		}
+		+#backgroundTable{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		body,#backgroundTable{
+			background-color:#ececec;
+		}
+		img style=3D"display:block;" style=3D"display:block;" style=3D"display:bl=
+ock;" style=3D"display:block;" style=3D"display:block;" style=3D"display:bl=
+ock;" style=3D"display:block;" {
+			display:block;
+		}
+		body, table, tr, td, img style=3D"display:block;" style=3D"display:block;=
+" style=3D"display:block;" style=3D"display:block;" style=3D"display:block;=
+" style=3D"display:block;" style=3D"display:block;" {
+			padding:0;
+			margin:0;
+		}
+</style></head><body bgcolor=3D"#ececec" style=3D"margin:0px; padding:0px; =
+background-color:#ececec;"><img alt=3D" " height=3D"1" src=3D"http://r20.rs=
+6.net/on.jsp?ca=3D8e432edd-547f-402e-baef-b05e0625933f&amp;a=3D111610913061=
+5&amp;d=3D1123756303275&amp;r=3D3&amp;o=3Dhttp://ui.constantcontact.com/ima=
+ges/p1x1.gif&amp;c=3Dc4486750-cb5b-11e5-b183-d4ae529a863c&amp;ch=3Dc45e6050=
+-cb5b-11e5-b193-d4ae529a863c" width=3D"1"><center>
+<table id=3D"Table_01" width=3D"500" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" bgcolor=3D"#FFFFFF">
+	<tr>
+		<td colspan=3D"10">
+			<img style=3D"display:block;" id=3D"id020416_PAASpotlight_01" src=3D"htt=
+ps://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/859b968d-9275-4b22-9769-6326=
+bc2962d9.gif?ver=3D1449954990000" width=3D"500" height=3D"4" alt=3D""></td>
+	</tr>
+	<tr>
+		<td><a alt=3D"http://www.getacceptd.com" href=3D"http://r20.rs6.net/tn.js=
+p?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-Syn0neIchne3vV96Q8i=
+YM7F5vrgOUP-7RbVKFss57ZEKti_GUV77ryzEu3HtqlfOVhmfHueqDZNIaR6cF8SDNFb4OM_C1l=
+3lAoESFxtXArKjYzr8ahI0O5D_8UNc=3D&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFg=
+pcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsG=
+rLCoDkJUrVx90FeQ=3D=3D"><img style=3D"display:block;" id=3D"id020416_PAASpo=
+tlight_02" src=3D"https://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/8e0efd5=
+6-bcd1-4f1f-bde6-366fd640c963.gif?ver=3D1454878920000" width=3D"120" height=
+=3D"112" alt=3D""></a></td>
+		<td colspan=3D"7"><a alt=3D"http://www.performingartsabroad.com" href=3D"=
+http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyx=
+ZKFQ-Syn0neGOKDxTEdtgvM9ByNjNmIFnBSU2AbsGTachg9pl6K2Vr9qjXsTdON3rhrK3ImVPd_=
+xBjBPHq6-XcuosliJS6HlJmWGFg0z1Ifsd6kCY4QPa9FsNaqLUM9wgQaDhtWjvs5g=3D=3D&amp=
+;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3D=
+tnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D"><img style=3D=
+"display:block;" id=3D"id020416_PAASpotlight_03" src=3D"https://mlsvc01-pro=
+d.s3.amazonaws.com/77bc94dd301/3ced5577-7b53-4111-b99e-59309cc72df4.gif?ver=
+=3D1454878921000" width=3D"178" height=3D"112" alt=3D""></a></td>
+		<td colspan=3D"2" width=3D"202" height=3D"112"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10">
+			<a alt=3D"http://www.performingartsabroad.com" href=3D"http://r20.rs6.ne=
+t/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-Syn0neGOKDxT=
+EdtgvM9ByNjNmIFnBSU2AbsGTachg9pl6K2Vr9qjXsTdON3rhrK3ImVPd_xBjBPHq6-XcuosliJ=
+S6HlJmWGFg0z1Ifsd6kCY4QPa9FsNaqLUM9wgQaDhtWjvs5g=3D=3D&amp;c=3DqbCosFD-NiX9=
+5m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7IgvRbfh5CCUa=
+Po4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D"><img style=3D"display:block;" =
+id=3D"id020416_PAASpotlight_05" src=3D"https://mlsvc01-prod.s3.amazonaws.co=
+m/77bc94dd301/5d56c255-e2f4-4405-b3d4-9012b9d57508.jpg?ver=3D1454878925000"=
+ width=3D"500" height=3D"192" alt=3D""></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10" style=3D"font-family: Arial;
+	color: #82ba41;
+	font-size: 27px;
+	font-weight: 400; margin:0; padding:30px 40px; text-align:center;">Interna=
+tional Programs with Performing Arts Abroad</td>
+	</tr>
+	<tr>
+		<td colspan=3D"7">
+			<a href=3D"http://www.performingartsabroad.com/training-intensives/high-=
+school-costa-rica-summer-experience?utm_source=3DGetAcceptd&amp;utm_medium=
+=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spotlight"><img style=3D"d=
+isplay:block;" id=3D"id020416_PAASpotlight_07" src=3D"https://mlsvc01-prod.=
+s3.amazonaws.com/77bc94dd301/d1077e85-ea65-4b97-83e5-54044265da19.jpg?ver=
+=3D1454878927000" width=3D"288" height=3D"178" alt=3D""></td>
+		<td colspan=3D"3" valign=3D"top" style=3D"font-family: Arial;
+	color: #666666;
+	font-weight: 400;
+	font-size: 14px; padding:0 40px 0 0; margin:0;"><span style=3D"color:#B100=
+02; font-size:20px;"><strong>High School</strong></span><br>
+		  <br>
+		  Check out two exciting high school programs below!<br>
+		  <br>
+		  <a href=3D"http://www.performingartsabroad.com/training-intensives/high=
+-school-costa-rica-summer-experience?utm_source=3DGetAcceptd&amp;utm_medium=
+=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spotlight" style=3D"color:=
+ #666666; font-weight: 400;">&#149; Costa Rica Summer Program</a><br>
+		 <br>
+        <a alt=3D"http://www.performingartsabroad.com/training-intensives/h=
+igh-school-musical-theatre-training-program?utm_source=3DGetAcceptd&amp;utm=
+_medium=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spotlight" href=3D"=
+http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyx=
+ZKFQ-Syn0neGOKDxTEdtgvsRt5tol2ACOIp7HSETl3nUopQvnGvWxNOM81HL_mTvlQ1CRfFt2-P=
+3caCUyZ6v-JinXjYDG15Q8KIyaWSVZL-FOtyagKUT4K0lEVvvD8dZRIijdFWWBpgpzwr_SqDWAf=
+SjQCbgKpWcsNG0LYdTxlCXKo8GUagTaDz8kEzQlnfAVYSrc_uOfiUUHI5ZrYgH29_cNyEJQHJLu=
+G2D1bkIEJZnA4KGXYzLcT6L2NWcVRhTts-CQRLmz9J7-mtq2JPl6BXI1h-qQPcnb-mNYg8qXFe0=
+DoGo7PeEUiuU6ebxxwCg3EQ0DzZqydmBT9-ijED7f5BD-RwjMSxMtlK03xt6vHgA=3D=3D&amp;=
+c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3Dt=
+nsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D" style=3D"color=
+: #666666; font-weight: 400;">&#149; West End Musical Theatre Program in Lo=
+ndon</a></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10" valign=3D"bottom"><p style=3D"font-family: Arial;
+	color: #666666;
+	font-weight: 400;
+	font-size: 14px; margin:0; padding:30px 40px 0 40px;"><span style=3D"color=
+:#B10002; font-size:20px;"><strong>College and Up</strong></span><br>
+		  <br>
+		  <a alt=3D"http://www.performingartsabroad.com/paa5years?utm_source=3DGe=
+tAcceptd&amp;utm_medium=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spo=
+tlight" href=3D"http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6W=
+ifvkRS9JmBXyNmyxZKFQ-Syn0neI4JCkcKsZlSYeGKSgfIbVsvjIuXmiA0XTetjolIg692cCuBA=
+oLcReqc1eqYeKrMzTNrRO5xAJC6RteZHV1M1c7f27wtYBymKyZRiRpTR3aApCqFF3IKnh2w1IZi=
+O2VEEedlXgKAohUvskEcI1xOqnBcAw8VPmJzHfDiC92dKE-541Ke4lS_ubNVFpb1uKoOQ_1S3oG=
+5Y2Zx_9EFxvPq0_m8sGGSzT15WSNtDXMT7jOqeZg2XnkWtXCyKjYeaUeAKb1WXacOa8_OUq3w7Q=
+XauK4=3D&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=
+=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D" =
+style=3D"color: #666666; font-weight: 400;">Scholarships up to $1,000 due&n=
+bsp;February 18th.</a><br>
+		</p>
+	   </td>
+	</tr>
+	<tr>
+		<td colspan=3D"4" valign=3D"top"><p style=3D"font-family: Arial;
+	color: #666666;
+	font-weight: 400;
+	font-size: 14px; margin:0; padding:10px 0 0 40px;">Dozens of Opportunities=
+ for <a alt=3D"http://www.performingartsabroad.com/theater?utm_source=3DGet=
+Acceptd&amp;utm_medium=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spot=
+light" href=3D"http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6Wi=
+fvkRS9JmBXyNmyxZKFQ-Syn0neARjjBf5JYeEBUg5B5EaaZ-496u_W58dA3DlOhAdNfm3UV4zV2=
+OEn3NaOnm6Pm5WrIZ8JaUJhbqAKbMksqCY-JLc__2FOKb5IdrZtCEqNG6wunYl4paW61FoY_5AI=
+DTS97nkelv2JHwEPPY23juy0Ah4m03AHGjSTOZ69bncjcayT8U4XzHCgN0IXXJpZXzNDOQUUIHz=
+-0qBh5JYd4DrEL5dWcGVv7bM3uSbY_W_OwVVNAM-5iJJ5NDocV-1SXrZxtkflLWQzRVrH03Opwq=
+IFsY=3D&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=
+=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D" =
+style=3D"color: #666666; font-weight: 400;">&#3;Theater</a>, <a alt=3D"http=
+://www.performingartsabroad.com/music?utm_source=3DGetAcceptd&amp;utm_mediu=
+m=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spotlight" href=3D"http:/=
+/r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-S=
+yn0neARjjBf5JYeEM6j1KBdI6Yp9FNxG1_OuuwuGFIeryiyyrC1QwoQ03ePE6sA4oWLYA52Bm7t=
+qBpkblFlvRylf9W__4VHWzK0ukqWco2lV1fl7GAw1SpSxFDYIPZviybiFbLlU4tVFuWcnyPgEAR=
+u8y2RWYhRd6hVhWZTJE9o186L0JjvMXdxT-Z9Hle1A3PqxQESOZZW6rqizh1hrmAMrc5Lv1l4-6=
+M6e6aG0eC8q2Es_8_ra0IeoL0KJPmk6IYG_5G5-SUPkx2v6&amp;c=3DqbCosFD-NiX95m54EoT=
+9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D=
+1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D" style=3D"color: #666666; font-weight:=
+ 400;">Music</a>, &#3;<br>
+	      <a alt=3D"http://www.performingartsabroad.com/dance?utm_source=3DGet=
+Acceptd&amp;utm_medium=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spot=
+light" href=3D"http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6Wi=
+fvkRS9JmBXyNmyxZKFQ-Syn0neARjjBf5JYeElE1mwemLr0WSVq8B_0rdFhhdS5lzZM0HOTWvEG=
+x9jujjGa2ynpS6ZdY2hYkzQfzApK94Q1yUG_G_Gq7YvJZM_TsQ0HLvoi4uPiFBCJI__r8evbElR=
+vT1wj58qGXuuYm-unraJSAL6psfI5-OoNUO1qqc354DCDQmIC2fb8weOcup62r5PQeZ9j94kqta=
+faBEtWk2rlH6RrkwjpjnRPwps7rbfvTpOCF86_U1rShoT7EJMwbGyctGSj8JYn309aRL&amp;c=
+=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3Dtn=
+sL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D" style=3D"color:=
+ #666666; font-weight: 400;">Dance</a>, and <a alt=3D"http://www.performing=
+artsabroad.com/film?utm_source=3DGetAcceptd&amp;utm_medium=3DEmail&amp;utm_=
+campaign=3DGetAcceptd_Spring2016Spotlight" href=3D"http://r20.rs6.net/tn.js=
+p?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-Syn0neAteLWRRLI6k1q=
+WjRc5ID7YQ4zwVeWE07LVGGhyEhyN55lTY6Uf_65qAbGwRvoPpA1uMcR1kxJYZzVRdQZz3gcIYD=
+6vbEJDGAPnLCRxmygb2-KbmexmVauHm_qG3EwkVQBtE6fI8bOMxx7SIQ7ncq3M82naB-bR2mY-q=
+KpgV5GL4Qnf1YWNcrPJPDI2b5w9c06QGNbm4LFqBjtWValSdrwL7assyEcGyhAFxvemD46ufJRC=
+CoSaev12yuNAgXGWQcWc0cTlMTRkx&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV=
+3GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCo=
+DkJUrVx90FeQ=3D=3D" style=3D"color: #666666; font-weight: 400;">Film</a><br=
+>
+		  <br>
+		  &#149; Teach in Costa Rica<br>
+	=09
+		  &#149; Train in London<br>
+	=09
+		  &#149; Intern in Spain<br>
+		 =20
+		  &#149; Volunteer in Kenya<br>
+		 =20
+		  &#149; Study in Italy<br>
+		 =20
+		  &#149; and much more!</p>
+	    </td>
+		<td colspan=3D"6">
+			<a alt=3D"http://www.performingartsabroad.com/training-intensives/west-e=
+nd-musical-theatre-training-program?utm_source=3DGetAcceptd&amp;utm_medium=
+=3DEmail&amp;utm_campaign=3DGetAcceptd_Spring2016Spotlight" href=3D"http://=
+r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-Sy=
+n0neI4JCkcKsZlSi-Tyh4tRT01ria699zFs6fa-2yEXaTR4bR9iOaFHJtzWHrpTTipeSZAtaWBh=
+94MH-rw_BG2DSQdrG0iMaUCgJTqhSr5Do0fizkRC9vlJbWv1HXcsnCwz6yCMubqTSxI2KpLWfLG=
+efUm95qwQoICHplmAMw1snFbqbxjfsSvy9AfBk6503aSDixZI3Bv05v4FRB4YTbPqAYDgUJPXEO=
+g-dwAmYm7UCVZKDDtxliv-jMR2VnxFLDlnvmZhiBkemzZvtKxhCRwJQHdlmYhTvbR3sEYTsK9xT=
+AwEIvb4suAyLqHwFzGBkBT25UFvCO86GKYnLzthowfSko2Ll-1--21Zdw=3D=3D&amp;c=3DqbC=
+osFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7Igv=
+Rbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D"><img style=3D"display=
+:block;" id=3D"id020416_PAASpotlight_11" src=3D"https://mlsvc01-prod.s3.ama=
+zonaws.com/77bc94dd301/8d63882a-0f6d-4881-b181-a006386f8fec.jpg?ver=3D14548=
+78927000" width=3D"312" height=3D"221" alt=3D""></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10" valign=3D"top" width=3D"500" height=3D"30"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"3" width=3D"153" height=3D"46"></td>
+		<td colspan=3D"6" bgcolor=3D"#82B826" align=3D"center">
+			<a href=3D"https://app.getacceptd.com/performingartsabroad" style=3D"fon=
+t-family: Helvetica;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 100; text-decoration:none;">Apply Now!</a></td>
+		<td width=3D"157" height=3D"46"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10" width=3D"500" height=3D"39"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"10">
+			<img style=3D"display:block;" id=3D"id020416_PAASpotlight_17" src=3D"htt=
+ps://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/859b968d-9275-4b22-9769-6326=
+bc2962d9.gif?ver=3D1449954990000" width=3D"500" height=3D"4" alt=3D""></td>
+	</tr>
+	<tr bgcolor=3D"#ECECEC">
+		<td width=3D"132" height=3D"20" colspan=3D"2"></td>
+		<td colspan=3D"3" rowspan=3D"2"><a alt=3D"https://facebook.com/acceptd" h=
+ref=3D"http://r20.rs6.net/tn.jsp?f=3D001yHPZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9Jm=
+BXyNmyxZKFQ-Syn0neIu8ZR5R4ui5j4DR4IUewpzc4am52xKsQnyTHX3zOzeQoyYBUhPum_Z1wk=
+rRBDNXSFqfqTGld_UZj2vShQ2eFBpu0NyDr097vSWZ0_MK6fxZiih2b3VzF3gUSuMv2lvAcg=3D=
+=3D&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3GEk3oA9akckjtVxw=3D=3D&am=
+p;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoDkJUrVx90FeQ=3D=3D"><img s=
+tyle=3D"display:block;" id=3D"id020416_PAASpotlight_19" src=3D"https://mlsv=
+c01-prod.s3.amazonaws.com/77bc94dd301/cf2b925f-4106-4937-a0a2-cd7bae173615.=
+gif?ver=3D1454878927000" width=3D"72" height=3D"49" alt=3D""></a></td>
+		<td rowspan=3D"2"><a alt=3D"https://twitter.com/acceptd?ref_src=3Dtwsrc^g=
+oogle|twcamp^serp|twgr^author" href=3D"http://r20.rs6.net/tn.jsp?f=3D001yHP=
+ZxbDpYrcMMx-f-TfuZ8WO6WifvkRS9JmBXyNmyxZKFQ-Syn0neJ0Bs_NgY3N2WvLxYO8yywjrkG=
+VwfiC4euckZwWovCUl_JDFIIBYufJHC9w_W_7F_73zsOujNME8cku-j_lRIQig1JVoMJjtw162r=
+OWCOeMv1O1aIM7buFEYsgKuiR_CiA4ugRJkjEyGjBueJLhSAg0XNz5iFBJ8RcHQ1LL0rTlA6mT6=
+2cR8eK-yROX9vh45kMqQV0jORzFe&amp;c=3DqbCosFD-NiX95m54EoT9Ut374rfCNVGFgpcHV3=
+GEk3oA9akckjtVxw=3D=3D&amp;ch=3DtnsL7IgvRbfh5CCUaPo4OF8D1MJV0i97XySZsGrLCoD=
+kJUrVx90FeQ=3D=3D"><img style=3D"display:block;" id=3D"id020416_PAASpotligh=
+t_20" src=3D"https://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/2ffbbae8-fa5=
+1-458e-8869-37dbf3dd6bf7.gif?ver=3D1454878928000" width=3D"59" height=3D"49=
+" alt=3D""></a></td>
+		<td width=3D"237" height=3D"49" colspan=3D"4" rowspan=3D"2"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"2" valign=3D"top" bgcolor=3D"#ECECEC" style=3D"font-family=
+: Arial;
+	color: #666666;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28px; text-align:right;">Stay Connected</td>
+	</tr>
+	<tr bgcolor=3D"#ECECEC">
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"120" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"12" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"21" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"35" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"16" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"59" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"25" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"10" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"45" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"157" height=3D"1" alt=3D""></td>
+	</tr>
+</table>
+</center><br>
+<table bgcolor=3D"#ffffff" padding=3D"0" width=3D"100%"><tr align=3D"center=
+"><td><table bgcolor=3D"#ffffff" id=3D"footerContainer" width=3D"595"><tr><=
+td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><b><a href=3D"=
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dx8stuopab&amp;m=3D111610913=
+0615&amp;ea=3Ddhunter%40getacceptd.com&amp;a=3D1123756303275" style=3D"colo=
+r: #0000ff;" target=3D"_blank">Forward email</a></b></font><br>
+<br>
+</td></tr>
+<tr><td><FooterContent><a href=3D"http://visitor.constantcontact.com/do?p=
+=3Dun&amp;m=3D001MZUTHGD8m8SBetrDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b=
+193-d4ae529a863c&amp;ca=3D8e432edd-547f-402e-baef-b05e0625933f" target=3D"_=
+blank"><img border=3D"0" src=3D"http://img.constantcontact.com/letters/imag=
+es/SafeUnsubscribe_Footer_Logo_New.png"></a><br></FooterContent></td><td al=
+ign=3D"right"><font face=3D"tahoma,sans-serif" size=3D"1"><FooterLogo><a hr=
+ef=3D"http://www.constantcontact.com/index.jsp?cc=3Dcustom01"><img border=
+=3D"0" src=3D"http://img.constantcontact.com/letters/images/CC_Footer_Logo_=
+New.png"></a></FooterLogo></font>
+</td>
+</tr><tr><td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><Foo=
+terContent><div>This email was sent to markiewicz.22@osu.edu by <a href=3D"=
+mailto:support@getacceptd.com" style=3D"color:#0000ff;">support@getacceptd.=
+com</a> <span style=3D"color: #bababa;"> | </span> &nbsp; </div><div><a hre=
+f=3D"http://visitor.constantcontact.com/do?p=3Doo&amp;m=3D001MZUTHGD8m8SBet=
+rDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&amp;ca=3D8e432=
+edd-547f-402e-baef-b05e0625933f" style=3D"color:#0000ff;" target=3D"_blank"=
+>Update Profile/Email Address</a> <span style=3D"color: #bababa;">|</span> =
+Rapid removal with <a href=3D"http://visitor.constantcontact.com/do?p=3Dun&=
+amp;m=3D001MZUTHGD8m8SBetrDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b193-d4=
+ae529a863c&amp;ca=3D8e432edd-547f-402e-baef-b05e0625933f" style=3D"color:#0=
+000ff;" target=3D"_blank">SafeUnsubscribe</a>=E2=84=A2  <span style=3D"colo=
+r: #bababa;">|</span>  <a href=3D"http://www.constantcontact.com/legal/serv=
+ice-provider?cc=3Dabout-service-provider" style=3D"color:#0000ff;" target=
+=3D"_blank">About our service provider</a>.</div></FooterContent></font>
+</td>
+</tr>
+<tr><td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><br>Accep=
+td | 1550 Old Henderson Rd | Columbus | OH | 43220</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+</body>
+
+
+------=_Part_490066751_708022739.1455214033605--

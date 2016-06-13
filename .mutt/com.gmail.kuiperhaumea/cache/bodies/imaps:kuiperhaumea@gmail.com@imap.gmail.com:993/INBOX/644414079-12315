@@ -1,0 +1,214 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2149792oid;
+        Tue, 14 Jul 2015 05:02:49 -0700 (PDT)
+X-Received: by 10.194.201.71 with SMTP id jy7mr79324899wjc.93.1436875368845;
+        Tue, 14 Jul 2015 05:02:48 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x235.google.com (mail-wi0-x235.google.com. [2a00:1450:400c:c05::235])
+        by mx.google.com with ESMTPS id xt4si271813wjc.19.2015.07.14.05.02.47
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 05:02:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) client-ip=2a00:1450:400c:c05::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@connect.hillsdale.edu
+Received: by mail-wi0-x235.google.com with SMTP id jy10so90461112wid.1
+        for <kuiperhaumea@gmail.com>; Tue, 14 Jul 2015 05:02:47 -0700 (PDT)
+X-Received: by 10.180.8.129 with SMTP id r1mr32899365wia.60.1436875367823;
+        Tue, 14 Jul 2015 05:02:47 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1914353wmd;
+        Tue, 14 Jul 2015 05:02:46 -0700 (PDT)
+X-Received: by 10.68.200.100 with SMTP id jr4mr78042882pbc.168.1436875365784;
+        Tue, 14 Jul 2015 05:02:45 -0700 (PDT)
+Return-Path: <bounce-use=M=27881612340=echo3=AEE7DBE71859A9DC2F1D77837025C2DE@returnpath.bluehornet.com>
+Received: from smtp.carlsbad.bluehornet.com (smtp.carlsbad.bluehornet.com. [67.216.228.24])
+        by mx.google.com with ESMTP id ho6si1395444pac.109.2015.07.14.05.02.43
+        for <markiewicz.john@gmail.com>;
+        Tue, 14 Jul 2015 05:02:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-use=M=27881612340=echo3=AEE7DBE71859A9DC2F1D77837025C2DE@returnpath.bluehornet.com designates 67.216.228.24 as permitted sender) client-ip=67.216.228.24;
+Return-Path: <bounce-use=M=27881612340=echo3=AEE7DBE71859A9DC2F1D77837025C2DE@returnpath.bluehornet.com>
+X-MSFBL: bWFya2lld2ljei5qb2huQGdtYWlsLmNvbUBjYXJsc2JhZEBhcGdhckBib3VuY2Ut
+	dXNlPU09Mjc4ODE2MTIzNDA9ZWNobzM9QUVFN0RCRTcxODU5QTlEQzJGMUQ3Nzgz
+	NzAyNUMyREU=
+DKIM-Signature: v=1; a=rsa-sha256; d=connect.hillsdale.edu; s=s1024-1.bh; c=simple/simple;
+	q=dns/txt; i=@connect.hillsdale.edu; t=1436875353;
+	h=From:Subject:Date:To:Mime-Version:Content-Type;
+	bh=kSxs2CmUK+knxELPgWKB+wgCPdb1S6Ia+8PkEJ5BAfQ=;
+	b=gkgJ2e/jlrQqh3ftNXQX69OnmxT5TntMvJZaz3KbGROG4DGWV3AdbPFO2H/J9/Zw
+	NVn3e6XT7q4z6qCEPXb1LWremJ3Yl+8IdYAtE5aI7MGgYa4rfO3rEACkUi0e66dR
+	ELMyT/2mTDYdV0XSqtg7qd0oVoBg5Pm25GxJzl+ppA8=;
+Received: from [10.46.3.15] ([10.46.3.15:10109] helo=localhost.localdomain)
+	by returnpath.bluehornet.com (envelope-from <bounce-use=M=27881612340=echo3=AEE7DBE71859A9DC2F1D77837025C2DE@returnpath.bluehornet.com>)
+	(ecelerity 3.5.3.37097 r(Platform:3.5.3.0)) with ESMTP
+	id 16/95-25741-95AF4A55; Tue, 14 Jul 2015 05:02:33 -0700
+Message-ID: <16.95.25741.95AF4A55@dc4mta01>
+Date: Tue, 14 Jul 2015 05:00:56 -0700
+From: "Hillsdale College Admissions" <admissions@connect.hillsdale.edu>
+Reply-To: admissions2@hillsdale.edu
+To: =?UTF-8?B?Sm9obiBNYXJraWV3aWN6?= <markiewicz.john@gmail.com>
+X-Outgoing: apgar
+Subject: The Social Sciences  
+List-Unsubscribe: <mailto:unsub-27881612340-echo3-AEE7DBE71859A9DC2F1D77837025C2DE@listunsub.bluehornet.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="--55a4f9f87471a-MultiPart-Mime-Boundary"
+
+
+
+----55a4f9f87471a-MultiPart-Mime-Boundary
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+The Social Sciences
+
+All students at Hillsdale College enroll in a structured,
+foundational liberal arts core curriculum. Students take courses
+in the Social Sciences that explore societies and the
+relationships among individuals within society, including The
+Western Heritage, The American Heritage, The U.S. Constitution,
+and a course in Psychology, Sociology, or Economics. Students
+have opportunity to interact with the likes of minds like
+Aristotle, Plato, Cicero, Jefferson, Washington, and Lincoln. 
+
+
+Popular Programs
+
+Business:
+http://paracom.paramountcommunication.com/ct/28771740:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+Economics:
+http://paracom.paramountcommunication.com/ct/28771740:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+Education:
+http://paracom.paramountcommunication.com/ct/28771741:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+History:
+http://paracom.paramountcommunication.com/ct/28771742:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+Journalism:
+http://paracom.paramountcommunication.com/ct/28771743:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+Politics:
+http://paracom.paramountcommunication.com/ct/28771744:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+Pre-Law:
+http://paracom.paramountcommunication.com/ct/28771745:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+
+Faculty Spotlight: Dr. Jeffrey Lehman, Education
+http://paracom.paramountcommunication.com/ct/28771746:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+
+Request More Information:
+http://paracom.paramountcommunication.com/ct/28771747:27881612340:m:3:603841109:9058BE2F98AACE4170EBC5366A0B3025:r
+
+
+
+Hillsdale College Admissions, 33 East College Street, Hillsdale,
+MI 49242
+admissions@hillsdale.edu • Phone (517) 607-2327 • Fax (517)
+607-2223
+
+
+
+
+
+
+
+----55a4f9f87471a-MultiPart-Mime-Boundary
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr"><head>     </head>     <body>         <table align="center" width="600" cellspacing="0" cellpadding="5" bgcolor="#808084"
+style="border: 1px solid #666666; vertical-align: top;">             <tbody>                 <tr>                     <td align="center"
+valign="top"><p style="padding-bottom: 0px; line-height: 1.5em; font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px; padding-top:
+5px;">Problems viewing this e-mail? <a style="color: #ffffff;" href="http://paracom.paramountcommunication.com/p/vswp0UR1N0">Display it in your browser</a>.</p>                     <table
+width="575" cellspacing="0" cellpadding="10" border="0" bgcolor="#10345a" style="background-color:#10345a;">                         <tbody>          
+                  <tr>                                 <td align="center" valign="top"><div><a
+href="http://paracom.paramountcommunication.com/ct/28771737:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="575" height="200" alt="Header"
+style="border-width: 0px;" src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/header2.jpg" /></a></div>          
+                      <table cellspacing="2" cellpadding="20" bordercolor="#10345a" border="1" bgcolor="#10345a">                                    
+<tbody>                                         <tr>                                             <td width="325" valign="top" bgcolor="#ffffff"
+style="text-align: center; line-height: 1.4em; font-family: Georgia,'Times New Roman',Times,serif; font-size: 14px;"><a
+href="http://paracom.paramountcommunication.com/ct/28771738:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img align="" border="0" alt="" style="margin: 0px;"
+src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/AJs_Study.jpg" /></a><br />                                   
+         <br />                                             <span style="font-family: Georgia,Times New Roman,Times,serif; line-height: 1.45em;
+color:#10345a; font-size: 23px;">The Social Sciences</span>  <br />                                             <br />                                
+            All students at Hillsdale College enroll in a structured, foundational liberal arts <a
+href="http://paracom.paramountcommunication.com/ct/28771739:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">core curriculum</a>. Students take courses in the Social
+Sciences that explore societies and the relationships among individuals within society, including The Western Heritage, The American Heritage, The
+U.S. Constitution, and a course in Psychology, Sociology, or Economics. Students have opportunity to interact with the likes of minds like Aristotle,
+Plato, Cicero, Jefferson, Washington, and Lincoln.</td>                                             <td valign="top" bgcolor="#ffffff"><table
+cellspacing="0" cellpadding="0">                                                 <tbody>                                                     <tr>     
+                                                   <td align="left" valign="top" height="430" style="font-family: Trebuchet
+MS,Arial,Helvetica,sans-serif; color: #999999; font-size: 13px;"><span style="padding-bottom: 5px; font-family: Trebuchet
+MS,Arial,Helvetica,sans-serif; color:#10345a; font-size: 18px;">Popular Programs</span><br />                                                        
+<br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771740:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Business</a><br />                                      
+                  <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771740:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Economics</a><br />                                     
+                   <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771741:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Education</a><br />                                     
+                   <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771742:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">History</a><br />                                       
+                 <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771743:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Journalism</a><br />                                    
+                    <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771744:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Politics</a><br />                                      
+                  <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771745:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Pre-Law</a><br />                                       
+                 <br />                                                         <br />                                                        
+<strong>Faculty Spotlight</strong>:<br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771746:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Dr. Jeffrey Lehman</a>, Education<br />                 
+                                       <br />                                                         <br />                                          
+              <a href="http://paracom.paramountcommunication.com/ct/28771747:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r">Request More Information</a></td>      
+                                              </tr>                                                     <tr>                                          
+              <td valign="bottom" style="font-family: Trebuchet MS,Arial,Helvetica,sans-serif; font-size: 28px; color: #00457c;"></td>                
+                                    </tr>                                                 </tbody>                                            
+</table></td>                                         </tr>                                         <tr bgcolor="#10345a">                            
+                <td align="center" bgcolor="#c8c8ca" colspan="2"><table align="center" cellspacing="0" cellpadding="4">                               
+                 <tbody>                                                     <tr>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771748:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialfb3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771749:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialtw3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771750:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialyt3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771751:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialig3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771752:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialgp3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771753:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialli3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771754:27881612340:m:1:603841109:9058BE2F98AACE4170EBC5366A0B3025:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialpt3.jpg" /></a></td>                                                     </tr>             
+                                   </tbody>                                             </table></td>                                         </tr>   
+                                 </tbody>                                 </table></td>                             </tr>                        
+</tbody>                     </table></td>                 </tr>                 <tr>                     <td align="center" valign="middle"
+height="70" style="font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px;"><div>Hillsdale College Admissions, 33 East College
+Street, Hillsdale, MI 49242</div>                     <div><a style="color: #ffffff; text-decoration: none;"
+href="mailto:admissions@hillsdale.edu">admissions@hillsdale.edu</a> &bull; Phone (517) 607-2327 &bull; Fax (517) 607-2223</div>                    
+<br />                     <rb> 					<span style="font-family: verdana,'Trebuchet MS',Arial,Helvetica,sans-serif; font-size: 10px;"><a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oswp0UR1N0">Unsubscribe</a> &bull; <a style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oswp0UR1N0">Update E-mail</a> &bull; <a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/forwardthis/ft.php?mID=4772967&em=markiewicz.john%40gmail.com&ch=a6cedfc0aaf617ae7061b2294b59fe32">Forward to a Friend</a> 					 					</span></rb></td>                 </tr>             </tbody>        
+</table>         <br />     </body></html>
+
+<html dir="ltr"><head><title></title></head><body><br />
+<img src="http://paracom.paramountcommunication.com/imagelibrary/N-27881612340-F6C308C68A238D9D9F3B6989AD740DBD.jpg" border="0" width="1" height="1">
+
+
+</body>
+
+
+----55a4f9f87471a-MultiPart-Mime-Boundary--

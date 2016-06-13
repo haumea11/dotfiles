@@ -1,0 +1,177 @@
+Return-Path: <cjoyce@cdeducation.org>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation_org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vJIueNb83IcUSyqT0hGQSohrnTFep4EEz/ubT6IokAE=;
+        b=0i078VSRpRYVUgbww3OmuK+g9Mm1JzH9p2GAV53v06hAXLMbOecTAGEjHXUiogbCjx
+         nKnQrwEfyD4MyXPrAYIXEP2bMz05sqGVQ/kbxsA/uaGeq4zVaS1yhuqTnRWBYpQkPQ7X
+         hNxgUYJNrRZ61YexJ3Hy9nN1OoX9j4jEbLtEkTBfzquYSZ5FAnGpURNYf9q5sPEucbs5
+         tZmY4qNcAUa4X9JmYAuvCS96T199+pMyy6vC+LlV8l705qFY/wq0uTCUZF02TNoUH4D0
+         t3A2xHBK8ndyyvqzxwBMyFZ7wXRNKBDpgDPidXdXSBcUGtNaNv0GP6nrLN3Gi70L57OG
+         8Pbg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=vJIueNb83IcUSyqT0hGQSohrnTFep4EEz/ubT6IokAE=;
+        b=PGz/Wqpf6g1yawMYNWrx9a2wW3d055YkjUCvJy5PAP+B8Ks0z+CGRQNhVOtXYns3af
+         0o5dGAB5aDnOSOfdyDBXxGH5TuS3DF/dbtNzgnobA3PQ9SIgNxpmk2lMzJrNDywT6QER
+         Bsme3Df/ltfrwq0hfX0uypUhUUjaRnWCcPz3GqvE8zR4F2sFixt5nMX69CLDpswFqBTT
+         cQMEon237XI06EuYqz8j+RM2NHd6D4xkNtvwAy5ayy6LnRNE9HQO+hatxuNmxVVpz+6V
+         bmc3Mfr9PfM/wgJMXhW6/M8cwjH4DajLyCmSK6nIx0OD+4ijSk8DNGHTb9PRb10ghUJu
+         OAAQ==
+X-Gm-Message-State: ALoCoQno7JkZf2mKppLFe2f3aeo65xbS+SzwP2ENUgXCLQbDGo1dxZ+RmgENXfS23IVWY15pTgkI
+MIME-Version: 1.0
+X-Received: by 10.31.188.9 with SMTP id m9mr3468514vkf.83.1447518506844; Sat,
+ 14 Nov 2015 08:28:26 -0800 (PST)
+Date: Sat, 14 Nov 2015 11:28:26 -0500
+Message-ID: <CAGs8aKqj-JmeF5x2SeMSSmVvDmDhb71Hu4yL-D78rMOsJVdj3w@mail.gmail.com>
+Subject: November Choir Update
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: Abby Demboski <dembo@columbus.rr.com>, Alex Bryant <barry.bryant@prodigy.net>, 
+	Anna Ehret <jaehret1991@aol.com>, Carly Griffith <cgriffith333@gmail.com>, 
+	Carly Griffith <jprindler@columbus.rr.com>, Carly Stang <carly.stang1@gmail.com>, 
+	Carly Stang <stanger1@yahoo.com>, Carly Stang <tstang@fultoncommunications.com>, 
+	Caroline Golonka <deniseg0328@yahoo.com>, Chris Carter <ccarter51@gmail.com>, 
+	Chris Carter <mcloughlin.1@osu.edu>, David Skulich <jskulich@columbus.rr.com>, 
+	Dylan Murphy <elizabeth.murphy@johnsonelectric.com>, 
+	Dylan Murphy <murph255@columbus.rr.com>, Elizabeth Reiser <rrieser513@yahoo.com>, 
+	Ellena Yohannes <nlijam@cscc.edu>, Ellena Yohannes <yyohannes@ymail.com>, 
+	Elliot Stevens <kmstevens@columbus.rr.com>, Emily Kring <dkring4@gmail.com>, 
+	Emily Kring <E.kring36@gmail.com>, Emily Kring <jkring@columbus.rr.com>, 
+	Emma Koehler <e.koehler00@gmail.com>, Emma Koehler <lizkoehler217@yahoo.com>, 
+	Evan Rasor <rasor451@sbcglobal.net>, Ginny Pajor <kathypajor@yahoo.com>, 
+	Ginny Pajor <ppajor@yahoo.com>, Hayley Hoying <mhoying@insight.rr.com>, 
+	Jacob Erney <trerney@yahoo.com>, John Markiewicz <jmarkiewicz@airmail.cc>, 
+	John Markiewicz <shannon.markiewicz@gmail.com>, Jullian Fountain <ellyn.fountain@gmail.com>, 
+	Jullian Fountain <fountainjillian@gmail.com>, Jullian Fountain <kurt.fountain@gmail.com>, 
+	Justin Weltin <jkjweltin@aol.com>, Justin Weltin <jweltin2@gmail.com>, 
+	"Kathryn O'Sullivan" <ironcad.3@gmail.com>, "Kathryn O'Sullivan" <mosulliv@cdeducation.org>, 
+	Lauren Putz <beth@khptel.com>, Lizz Turnbull <clairemedic@aol.com>, 
+	"Makaela O'Reilly" <1970sue@sbcglobal.net>, "Makaela O'Reilly" <bernie@secondchancecolumbus.com>, 
+	"Margaret O'Brien" <danobrien35@aol.com>, "Margaret O'Brien" <jloobrien@aol.com>, 
+	"Margaret O'Brien" <mobrien74@gmail.com>, Matthew Kent <cokent@cdeducation.org>, 
+	Matthew Kent <kevin.kent@osumc.edu>, Maya Steller <jpsteller@yahoo.com>, 
+	Maya Steller <mlsteller@yahoo.com>, Megan Milam <jmilam07@gmail.com>, 
+	Michael Carmody <jmcarmody1025@aol.com>, Morgan Hull <chull@wowway.com>, 
+	Nina Buoni <tmbuoni@sbcglobal.net>, Nolan Kelly <kelly_6@att.net>, Nolan Kelly <mkelly@mecsrc.com>, 
+	Rachel Smith <rsmith46@columbus.rr.com>, Ryan Mar <2rtmar.ac@gmail.com>, 
+	Ryan Mar <cmar@cdeducation.org>, Ryan Mar <cwmar1@aol.com>, 
+	Sara Dowler <kathy.dowler@sbcglobal.net>, Sarah Bender <bendertm@yahoo.com>, 
+	Shannon Becker <becker.180@beckerplanet.com>, Shannon Becker <mbecker@beckerplanet.com>, 
+	Shannon Boyne <skittles101@columbus.rr.com>, Shannon Boyne <trsshome@columbus.rr.com>, 
+	Steven Gullo <prgcmg@gmail.com>, Steven Gullo <sgullo6599@gmail.com>, 
+	Tommy Anglim <ranglim@columbus.rr.com>, Tori Morell <jacquie_morell@yahoo.com>, 
+	Tori Morell <morell_john@yahoo.com>, Zach Uhazy <uhazy@sbcglobal.net>, 
+	Alli Marchese <cmarches@columbus.rr.com>, Alli Marchese <marchesealli@yahoo.com>, 
+	Allyson Grabsoky <bgrabosky@yahoo.com>, Allyson Grabsoky <dgrabs13@yahoo.com>, 
+	Amanda Springer <mspringer84@earthlink.net>, Anna Obergefell <missyo@fcchurch.com>, 
+	Annie Lucia <fivebuckeyes@yahoo.com>, Annie Lucia <looch12000@yahoo.com>, 
+	Ashley Miller <christinammiller427@yahoo.com>, Ashley Miller <millercrew1@att.net>, 
+	Danny Callaghan <krncallaghan@aol.com>, Emma Forshey <neal.forshey@gmail.com>, 
+	Emma Forshey <rene.forshey@att.net>, Kara Rutkowski <nbr2u@aol.com>, 
+	Kayla Linnane <alinnane@columbus.rr.com>, Lena Bruening <ldbruening@wowway.com>, 
+	Lilly Binion-Ferrel <bryonyferrell@gmail.com>, Maggie Kaminski <kaminski.24@osu.edu>, 
+	Mara Ohlin <johlin@nvrinc.com>, Mara Ohlin <mara.ohlin@gmail.com>, 
+	Mara Ohlin <mohlin64@hotmail.com>, Marjorie Sayers <shmo96columbus@yahoo.co.uk>, 
+	Mary Swart <ctswart@hotmail.com>, Megan Niper <eniper@columbus.rr.com>, 
+	Megan Niper <kniper@coaaa.org>, Shannon Lynch <webjill@gmail.com>, Shannon Lynch <weblynch@gmail.com>, 
+	Zoe Lamaze <edlamaze@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1143acee681b95052482aa77
+
+--001a1143acee681b95052482aa77
+Content-Type: text/plain; charset=UTF-8
+
+Hello Choir Families,
+I wanted to send you a quick email to update you on the happenings in the
+choir program. This semester is going very well and I am excited for you to
+hear the kids perform at the Christmas Concert.
+
+Speaking of the concert, students are required to attend an after school
+rehearsal on Wednesday Dec, 9th from 3:30-5pm. This is our only dress
+rehearsal and opportunity to run in the gym and to have all the groups
+together. Any absences need to be approved for me. Attendance at this
+rehearsal does count as a grade.
+
+The Concert is on Thursday, Dec. 10th and begins at 7pm in the Old Gym.
+Students will need to arrive in uniform at their call time
+(6:30pm).Students are required to perform at this event and stay for the
+duration of the concert. My goal is to finish by 9pm.
+I will be sending another email after break about what students will need
+to bring for our Cookie Reception following the concert.
+
+Thanks for all of your help with the Poinsettia Sale. According to our
+vendor this is the most successful sale we have ever had in the many years
+of this fundraiser!!
+Plants are being delivered on Sunday, Nov. 29th and will be ready for
+pick-up between 4-6pm in the choir room. Please make plans to pick-up your
+order on this day because they are live plants!
+If you are able to come and help unload and sort the plants when they are
+delivered at 1pm, please let me know. This will also allow you to pick-up
+your order earlier in the day.
+
+Enjoy the beautiful sunshine this weekend!
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a1143acee681b95052482aa77
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Choir Families,<div>I wanted to send you a quick ema=
+il to update you on the happenings in the choir program. This semester is g=
+oing very well and I am excited for you to hear the kids perform at the Chr=
+istmas Concert.</div><div><br></div><div>Speaking of the concert, students =
+are required to attend an after school rehearsal on Wednesday Dec, 9th from=
+ 3:30-5pm. This is our only dress rehearsal and opportunity to run in the g=
+ym and to have all the groups together. Any absences need to be approved fo=
+r me. Attendance at this rehearsal does count as a grade.</div><div><br></d=
+iv><div>The Concert is on Thursday, Dec. 10th and begins at 7pm in the Old =
+Gym. Students will need to arrive in uniform at their call time (6:30pm).St=
+udents are required to perform at this event and stay for the duration of t=
+he concert. My goal is to finish by 9pm.</div><div>I will be sending anothe=
+r email after break about what students will need to bring for our Cookie R=
+eception following the concert.=C2=A0</div><div><br></div><div>Thanks for a=
+ll of your help with the Poinsettia Sale. According to our vendor this is t=
+he most successful sale we have ever had in the many years of this fundrais=
+er!!=C2=A0</div><div>Plants are being delivered on Sunday, Nov. 29th and wi=
+ll be ready for pick-up between 4-6pm in the choir room. Please make plans =
+to pick-up your order on this day because they are live plants!</div><div>I=
+f you are able to come and help unload and sort the plants when they are de=
+livered at 1pm, please let me know. This will also allow you to pick-up you=
+r order earlier in the day.=C2=A0</div><div><br></div><div>Enjoy the beauti=
+ful sunshine this weekend!</div><div><div class=3D"gmail_signature"><div di=
+r=3D"ltr"><div><div style=3D"margin:0in 0in 0pt"><b><span style=3D"font-siz=
+e:14pt"><font color=3D"#000000" face=3D"Calibri">Christen Joyce</font></spa=
+n></b></div><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></f=
+ont><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"=
+><font face=3D"Calibri" size=3D"3">Choral Director</font></span></b></p><fo=
+nt color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D=
+"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"=
+Calibri" size=3D"3"><span><font color=3D"#830b2c">Bishop</font></span> <spa=
+n><font color=3D"#830b2c">Watterson</font></span> High School</font></span>=
+</b></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font>=
+<p style=3D"margin:0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calib=
+ri" size=3D"3"><a href=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" =
+target=3D"_blank"><font color=3D"#1155cc">(614) 268-8671</font></a> x 289</=
+font></span></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"=
+></font><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,4=
+4)"><a href=3D"http://www.bishopwatterson.com/" target=3D"_blank"><span sty=
+le=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwat=
+terson.com</font></span></a></span></div><div style=3D"margin:0in 0in 0pt">=
+<span style=3D"color:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=
+=3D"https://docs.google.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1m=
+dVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ=
+"><div dir=3D"ltr"><div><div></div></div></div><div dir=3D"ltr"><div></div>=
+</div></span></div></div></div></div></div>
+</div>
+
+--001a1143acee681b95052482aa77--

@@ -1,0 +1,127 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.11.66 with SMTP id 63csp226065vkl;
+        Wed, 11 May 2016 07:05:56 -0700 (PDT)
+X-Received: by 10.194.62.145 with SMTP id y17mr4306667wjr.109.1462975556719;
+        Wed, 11 May 2016 07:05:56 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-f42.google.com (mail-wm0-f42.google.com. [74.125.82.42])
+        by mx.google.com with ESMTPS id f141si9156694wmf.102.2016.05.11.07.05.56
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 11 May 2016 07:05:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.42 as permitted sender) client-ip=74.125.82.42;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.42 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=sfly.com
+Received: by mail-wm0-f42.google.com with SMTP id g17so75868820wme.1
+        for <kuiperhaumea@gmail.com>; Wed, 11 May 2016 07:05:56 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:x-gm-message-state:delivered-to
+         :from:sender:to:reply-to:subject:date:mime-version
+         :content-transfer-encoding:message-id;
+        bh=1cfXpW1OK4c8534pcA4MbSYW7ZPqvpynllr/EHkNoHA=;
+        b=D4sBeXwEQCINfszLeLYtVXEtVgNGNLtAlnfs/RLsIXjDs78V5WahYMeig4JoXNHjlH
+         SGy7ebgSHbBrB3xjpg0LmARIdSvRfMrkPo5xDZmcmRBGyLpmUfFEjmWI2MZaVD2QaKvd
+         DVWrSAyf5qV4yNfEXLyUSb3pFZEloAZxA/vvqChzdF13uWXGp3BkbupCKrA3CEiKcj1b
+         YGe4b077if+TUcfQvJydvzi0CWD+s9BYnQz+6je4e40dCfKY/hUZxz0pRCWSu1V8/KFX
+         w6fwmcz3r08z9/p7n7+7eHvrK4ZX7u5ZWYpDub4B/BvcWM1G7Fq2rQibqbmtH7NWAQFE
+         2ZLg==
+X-Original-Authentication-Results: mx.google.com;       spf=pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) smtp.mailfrom=noreply@sfly.com;       dmarc=pass (p=NONE dis=NONE) header.from=sfly.com
+X-Gm-Message-State: AOPr4FU59XfdikX3ShrvfSbTrl6x9sF0ouICJvVF+QIQboUXRCYOvjuuVr1ra4z/3G65bveVbaVS1SFxlpBlyodn3q0Ejhg=
+X-Received: by 10.194.158.226 with SMTP id wx2mr3865950wjb.91.1462975556108;
+        Wed, 11 May 2016 07:05:56 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.65.215 with SMTP id o206csp251200wma;
+        Wed, 11 May 2016 07:05:54 -0700 (PDT)
+X-Received: by 10.66.246.165 with SMTP id xx5mr5193406pac.87.1462975554811;
+        Wed, 11 May 2016 07:05:54 -0700 (PDT)
+Return-Path: <noreply@sfly.com>
+Received: from shutterfly.com (mail11.shutterfly.com. [136.179.236.38])
+        by mx.google.com with ESMTP id th8si10052250pab.238.2016.05.11.07.05.54
+        for <markiewicz.john@gmail.com>;
+        Wed, 11 May 2016 07:05:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) client-ip=136.179.236.38;
+Received: from mail.sfly.com (unknown [172.18.128.190])
+	by shutterfly.com (Postfix) with ESMTP id EC16DAE08E5
+	for <markiewicz.john@gmail.com>; Wed, 11 May 2016 07:05:53 -0700 (PDT)
+Received: from mail pickup service by mail.sfly.com with Microsoft SMTPSVC;
+	 Wed, 11 May 2016 07:05:53 -0700
+From: "Gina DeMarco" <noreply@sfly.com>
+Sender: <mail@sfly.com>
+To: "John M" <markiewicz.john@gmail.com>
+Reply-To: "Gina DeMarco" <gdemarco@cdeducation.org>
+Subject: [bishopwattersonfalldrama] Get excited!!
+Date: Wed, 11 May 2016 07:05:51 -0700
+X-Sfly-AttachmentSize: 0
+X-Sfly-IsPartial: False
+X-Sfly-Kind: SendSiteMembers
+X-Sfly-Site: bishopwattersonfalldrama
+X-Sfly-MsgHash: 14201ec0971eaf2e1e5f273ecadb6bf7
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <SHA19VFOh1vdkmyCF1H00103101@mail.sfly.com>
+X-OriginalArrivalTime: 11 May 2016 14:05:53.0104 (UTC) FILETIME=[3AD29500:01D1AB8E]
+
+<html>
+<head>
+</head>
+<body>
+<div class=3D"email-body" style=3D"font: 13px verdana,arial,geneva,sans=
+-serif; color: #666666; line-height: 140%;"><table style=3D"width: 100%=
+; border-bottom: 1px solid #181512; ">
+<tr valign=3D"bottom">
+<td style=3D"padding-bottom: 12px; white-space: nowrap;">
+<div style=3D"color: #DC4405; font-family: normal 20px arial.geneva,san=
+s-serif">
+</div>
+</td>
+<td align=3D"right" style=3D"padding-bottom: 4px; white-space: nowrap;"=
+>
+<img border=3D"0" width=3D"125" height=3D"42" src=3D"http://cdn.statics=
+fly.com/shr/images/email/sfly=5Flogo=5F125x42.png"  alt=3D"Shutterfly l=
+ogo" align=3D"bottom" />
+</td>
+</tr>
+</table>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+Hey Everyone=21<div><br /></div><div>If you haven&#39;t heard, our 2016=
+ Fall Drama will be the classic comedy <i>A MidSummer Night&#39;s Dream=
+</i> by the Bard, himself=21</div><div><br /></div><div>Please visit th=
+e Shutterfly site to register for our summer Shakespeare workshop=21=21=
+=21</div>
+</div>
+
+<div style=3D"height: 25px; line-height: 25px;">&nbsp;</div>
+<div>
+<div style=3D"font-size: 10px; line-height: 120%;">
+<b>About Shutterfly Share</b>
+<br/> 
+Shutterfly Share is an online sharing service that lets you connect, co=
+mmunicate, and share photos and memories with your friends, family, and=
+ community groups through your own, personalized Web site. <a href=3D"h=
+ttp://www.shutterfly.com/sites/create/start.sfly">Learn more</a> about=20=
+Shutterfly Share and sign up for your own free sharing Web site.
+</div></div>
+
+<div style=3D"height: 25px; line-height: 25px;">&nbsp;</div>
+<div style=3D"font-size: 10px; line-height: 120%;">
+This message was sent to markiewicz.john@gmail.com because you are on t=
+he list of Bishop Watterson Fall Drama site members.
+If you feel you have received this email in error, please notify us: <a=
+ href=3D"http://site.shutterfly.com/commands/email/spam?m=3D[MailId]">R=
+eport Abuse</a>. 
+</div><img alt=3D"" src=3D"https://os.shutterfly.com/b/ss/sflyemailprod=
+/1/H.15/111?pageName=3Dsendsitemembers&v0=3DSHARE3SMAIL" width=3D"1" he=
+ight=3D"1" border=3D"0" /></div>
+<style>
+=2Eemail-body p {margin: 5px 0;}
+</style></div>
+    </body>
+</html>
+

@@ -1,0 +1,468 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1664426oid;
+        Mon, 13 Jul 2015 10:16:22 -0700 (PDT)
+X-Received: by 10.180.198.199 with SMTP id je7mr24940235wic.34.1436807782360;
+        Mon, 13 Jul 2015 10:16:22 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x233.google.com (mail-wi0-x233.google.com. [2a00:1450:400c:c05::233])
+        by mx.google.com with ESMTPS id c6si14162337wie.78.2015.07.13.10.16.21
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 10:16:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::233 as permitted sender) client-ip=2a00:1450:400c:c05::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::233 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=temperror (no key for signature) header.i=@case.edu;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x233.google.com with SMTP id ud3so33779981wib.1
+        for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 10:16:21 -0700 (PDT)
+X-Received: by 10.194.109.36 with SMTP id hp4mr71896575wjb.4.1436807781700;
+        Mon, 13 Jul 2015 10:16:21 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1470171wmd;
+        Mon, 13 Jul 2015 10:16:21 -0700 (PDT)
+X-Received: by 10.180.75.198 with SMTP id e6mr23057909wiw.37.1436807780976;
+        Mon, 13 Jul 2015 10:16:20 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o4.mx.technolutions.net (o4.mx.technolutions.net. [198.37.152.133])
+        by mx.google.com with ESMTPS id bv2si31049786wjc.100.2015.07.13.10.16.19
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 10:16:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 198.37.152.133 as permitted sender) client-ip=198.37.152.133;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=case.edu; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=wr3wDu8n8RWWZaOk3Wz2LM7AD+s=; b=Yxh9bR8K6JXO/1fg48l8u8jy2C4+L
+	dzptVlglpCdFiCtX6NrvtPZOQME1xGxmirLJneM/DJ/8Gz0QjZdtpbcTfJj9KwHh
+	vffkAnc6A91WEWrLWPCzE2Q/Cis6exWp9CMlqKWF6OmQ6AI7yn4I4t8T0c65AUjf
+	VKMzWs94bOkv2c=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=wr3wDu8n8RWWZaOk3Wz2LM7AD+s=; b=dQ3bXO0tXctInUOKfRbWL+REN36f5
+	VjsaLPJYunljSOMDBdx+MAu3ki9frL/+UIbjNHKcOQg3qY/fUoOOBmu//GkP9PUi
+	FGVWY51A6CHXFCrC8UZYUBENgoIqNA4bOYgxMAUfgKPFYR4f9Eh3DWXKjD7GCOOz
+	soJKpL7uF705zI=
+Received: by filter0542p1mdw1.sendgrid.net with SMTP id filter0542p1mdw1.31570.55A3F2612
+        2015-07-13 17:16:17.20432747 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-005 (SG) with ESMTP id 14e886acac2.6749.f5fae
+	for <markiewicz.john@gmail.com>; Mon, 13 Jul 2015 17:16:16 +0000 (UTC)
+From: "Case Western Reserve University" <admission@case.edu>
+To: <markiewicz.john@gmail.com>
+Subject: John, we want to meet you! Register for CWRU's Columbus Information
+ Session
+Date: Mon, 13 Jul 2015 17:16:10 +0000
+Message-ID: <8d773bb7-3c23-4897-9f73-93ec219df295@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_672ce7b8-e0b5-45b4-9426-d4a82f534549"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGJjIoPYRE0pcT3GD0ZzJlAvlkuyzLw02TD+Y
+ esIi/gJibBadOcm0Z1vF7Fr+Q/4Zx3MUIPYf4IP/7dYW3CRUcV4NrH+WPN3WFKfFHiqB93maXLK9Te
+ J3Ao8zOfVs9mN35aLjBOORirablNwvLMfABK
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegFF6DTGV5G25xN3c+6q6/3h0QT33oiT1sZEE4/XQyJWgUr7uvj8GgIJ4Cs
+ gADSO8HHEd47EcUHwVj2pmWVtl9X2FVOKflFKk8Wt+Xe5mQwkg765mAN9dm+jnU5zlf7U+mDsh2JTR
+ 6fTOT1ogPYwWEyliqAqQapSaLQbai7PGXQ8kIyD3xa7zoLL9FiHPJBCC3JbUYVrPXL7vj1kmmOxcOj
+ HHySbQNuYYkk8M1YvUxxty
+
+------=_0_672ce7b8-e0b5-45b4-9426-d4a82f534549
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+
+
+
+Dear John,
+
+You're an outstanding high school student thinking about which colleges sho=
+uld be on your short list. Case Western Reserve University <http://admissio=
+n.case.edu/> is one of the nation's top-ranked universities, with highly re=
+garded programs in the arts, business, engineering, humanities, nursing, an=
+d natural and social sciences. We think that makes a smart match and are ea=
+ger for a chance to meet you.
+
+Join us for an exclusive preview of CWRU at an information session in Colum=
+bus! <https://go.case.edu/register/?id=3Df5935607-1ee8-41f2-aa8b-b0ee3272a7=
+9b&person=3D71B8D38C-FCED-4F4E-9FD0-8A4286DC41D8>
+
+We'll tell you about academic programs, student life, financial aid and all=
+ things CWRU. Have questions? Here's your chance to get the answers.
+
+
+
+When:
+
+Sunday, August 23
+3:00 PM
+
+
+Where:
+Hilton Columbus at Easton
+3900 Chagrin Dr
+Columbus, OH 43219-7100
+
+
+ <https://go.case.edu/register/?id=3Df5935607-1ee8-41f2-aa8b-b0ee3272a79b&p=
+erson=3D71B8D38C-FCED-4F4E-9FD0-8A4286DC41D8>
+or call 216.368.4450
+
+Best regards,
+Bob
+
+
+Robert R. McCullough
+Director of Undergraduate Admission
+
+
+
+
+
+
+
+
+
+be sure to add admission@case.edu <mailto:admission@case.edu> to your addre=
+ss book to make sure these messages make it to your inbox.
+
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by Case Western Reserve Un=
+iversity.
+Unsubscribe from Case Western Reserve University. <https://go.case.edu/go?r=
+=3Doptout&mid=3D8d773bb7-3c23-4897-9f73-93ec219df295>=
+
+------=_0_672ce7b8-e0b5-45b4-9426-d4a82f534549
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+/* Client-specific Styles */
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in bro=
+wser" menu link. */
+         body{width:100% !important; -webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; margin:0; padding:0;}
+         /* Prevent Webkit and Windows Mobile platforms from changing defau=
+lt font sizes, while not breaking desktop design. */
+         .ExternalClass {width:100%;} /* Force Hotmail to display emails at=
+ full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCl=
+ass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* For=
+ce Hotmail to display normal line spacing.*/
+         #backgroundTable {margin:0; padding:0; width:100% !important; line=
+-height: 100% !important;}
+         img {outline:none; text-decoration:none;border:none; -ms-interpola=
+tion-mode: bicubic;}
+         a img {border:none;}
+         .image_fix {display:block;}
+         p {margin: 0px 0px !important;}
+         table td {border-collapse: collapse;}
+         table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt; }
+         a {color: #0a8cce;text-decoration: none;text-decoration:none!impor=
+tant;}
+         /*STYLES*/
+         table[class=3Dfull] { width: 100%; clear: both; }
+         /*IPAD STYLES*/
+         @media only screen and (max-width: 640px) {
+         a[href^=3D"tel"], a[href^=3D"sms"] {
+         text-decoration: none;
+         color: #0a8cce; /* or whatever your want */
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+         text-decoration: default;
+         color: #0a8cce !important;
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=3Ddevicewidth] {width: 440px!important;text-align:cent=
+er!important;}
+         table[class=3Ddevicewidthinner] {width: 420px!important;text-align=
+:center!important;}
+         img[class=3Dbanner] {}
+         img[class=3Dcolimg2] {width: 440px!important;}
+
+
+         }
+         /*IPHONE STYLES*/
+         @media only screen and (max-width: 480px) {
+         a[href^=3D"tel"], a[href^=3D"sms"] {
+         text-decoration: none;
+         color: #0a8cce; /* or whatever your want */
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {
+         text-decoration: default;
+         color: #0a8cce !important;
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=3Ddevicewidth] {width: 280px!important;text-align:cent=
+er!important;}
+         table[class=3Ddevicewidthinner] {width: 260px!important;text-align=
+:center!important;}
+         img[class=3Dbanner] {width: 260px!important;}
+         img[class=3Dcolimg2] {width: 280px!important;}
+         td[class=3Dmobile-hide]{display:none!important;}
+         td[class=3D"padding-bottom25"]{padding-bottom:25px!important;}
+
+         }
+/**/
+</style><style type=3D"text/css">
+/**/
+[touch-action=3D"none"]{ -ms-touch-action: none; touch-action: none; }[touc=
+h-action=3D"pan-x"]{ -ms-touch-action: pan-x; touch-action: pan-x; }[touch-=
+action=3D"pan-y"]{ -ms-touch-action: pan-y; touch-action: pan-y; }[touch-ac=
+tion=3D"scroll"],[touch-action=3D"pan-x pan-y"],[touch-action=3D"pan-y pan-=
+x"]{ -ms-touch-action: pan-x pan-y; touch-action: pan-x pan-y; }
+/**/
+</style>
+</head>
+<body bgcolor=3D"#F6F4F5"><style>@media only screen and (max-width: 660px) =
+{ .deliver_unsubscribe { width: 100%; } }</style><font face=3D"Times New Ro=
+man, Times, serif" size=3D"3"><div style=3D"font-family: Times New Roman, T=
+imes, serif; font-size: 12pt;">
+&nbsp;<!-- Start of preheader --><table bgcolor=3D"#F6F4F5" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" id=3D"backgroundTable" st-sortable=3D"pre=
+header" width=3D"100%"><tbody><tr><td><table align=3D"center" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"600"><tb=
+ody><tr><td width=3D"100%"><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"600"><tbody><!-- Sp=
+acing --><tr><td height=3D"10" width=3D"100%">&nbsp;</td></tr><!-- Spacing =
+--><tr><td><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"66"><tbody><tr><td align=3D"left" style=3D"font-size:1px; =
+line-height:1px;" width=3D"20">&nbsp;</td><td align=3D"center" class=3D"mob=
+ile-hide" height=3D"30" width=3D"30"><div class=3D"imgpop"><a href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3DArGmOXNrXZXX-2F83mTJo6ECKMrcF5liL-2BI=
+YHWkl8PfwU26v0NKYRkOMEFD95LfdxL_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomOWrQrS-2FhA0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7l=
+UCGH99sv9Xf-2F0Q-2BDWPSOc4Mx1oxIq1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfq=
+kpVq34ATh4ebzMwYvRU-2BtXxvCQM0WTAMfMBzV-2FnxzbHBqdVrwCAAajEVvddDZlHP547bXfL=
+HJluEdcjryIvuMiLt-2BZqy2ATjZEkEy7Y1Mae4xV0AGpf67SlhgpNCWRXTLLaKjL0dzyns-2Fv=
+ZUQ-2Fu1O40VkkSdI6YrIZOBf99jBYhMseubRZbWxpMnHEv29Hu-2BBLgTegMA67z6-2BtfAeVu=
+4Aod0LoJgGhWg-3D-3D" target=3D"_blank"><img alt=3D"" style=3D"display: bloc=
+k; border: 0px solid; outline: none; text-decoration: none; width: 30px; he=
+ight: 30px;" height=3D"30" width=3D"30" src=3D"https://d2y48w7m6jzhpb.cloud=
+front.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Zjvm-xAFMhyYAsFb5rfUy9jNdIa=
+hi9jt58acuPnx4ZSbmU0FGq0uAKKO_n11AOgDfm1xofqzUcI" /></a></div></td><td alig=
+n=3D"left" style=3D"font-size:1px; line-height:1px;" width=3D"20">&nbsp;</t=
+d><td align=3D"center" class=3D"mobile-hide" height=3D"30" width=3D"30"><di=
+v class=3D"imgpop"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFg=
+Q-2Fn6YekwlwAzpDulOpx-2B14MkD9e-2BkbOJx-2FIFymi5HvVHDJ7fzzL63OrVglUnNf_fl-2=
+FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-=
+2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomOWrQrS-2FhA0AA=
+oDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2F0Q-2BDWPSOc4Mx1oxIq1YD=
+1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebzMwYvRU-2BtXxvCQM0WTACU1=
+OQIlLil2yz5qlzCwVzhg4ehuM1M8vAqK1FUVZXkFsWilfiXaLc3DpHiAFCsZuxFX9sfFg1D1VkX=
+A6UlfX2-2Bu6BFTzrPwdyqqEDzdvb8PCJHbhc2vaBiTzf5Rc6LzsFRh4w9Lvhw4mJ3Cb8QZFAwy=
+fX-2FEh3MnKh1wLQpIKAaB9hr6QfrV-2BsdfVKhK6jYyfw-3D-3D" target=3D"_blank"><im=
+g alt=3D"" style=3D"display: block; border: 0px solid; outline: none; text-=
+decoration: none; width: 30px; height: 30px;" height=3D"30" width=3D"30" sr=
+c=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKig=
+z_j51_Zjvm-xAFMhyYAsFb5rfUy9jNdIahi9jtur4KK3_JeRR-NLvU7c50kOqAck5kyErxLmuCL=
+CnBaQo" /></a></div></td></tr></tbody></table></td></tr><!-- Spacing --><tr=
+><td height=3D"10" width=3D"100%">&nbsp;</td></tr><!-- Spacing --></tbody><=
+/table></td></tr></tbody></table></td></tr></tbody></table><!-- End of preh=
+eader --><!-- Start of header --><table bgcolor=3D"#F6F4F5" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" id=3D"backgroundTable" st-sortable=3D"hea=
+der" width=3D"100%"><tbody><tr><td><table align=3D"center" bgcolor=3D"#FFFF=
+FF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" =
+width=3D"600"><tbody><tr><td width=3D"100%"><table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"6=
+24"><tbody><!-- Spacing --><tr><td height=3D"20" style=3D"font-size:1px; li=
+ne-height:1px; mso-line-height-rule: exactly;">&nbsp;</td></tr><!-- Spacing=
+ --><tr><td><!-- logo --><table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"140"><tbody><tr><td=
+ align=3D"center" height=3D"45" width=3D"169"><div class=3D"imgpop"><a href=
+=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1CgUhRtn7cCLZ=
+bIXLpCsw7zlqIYg-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomOWrQrS-2FhA0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2=
+F0Q-2BDWPSOc4Mx1oxIq1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebz=
+MwYvRU-2BtXxvCQM0WTAH6tOItPbriDcn0hIw0j6Iy-2Fxiufbgcj06RrsQqkeFQW7B6VU4W4hO=
+XKcwnPLZpbsjUasiismZwbx2dYfVMc56K2CZCeShFOFGoUunRAdfUD8Vuttv6qHNKEKXTf9zQ-2=
+FqmUgyJCfGteAPUzGb5w4D4zH7pMlwkKzzP-2BwY4dLah5cnCuOdbyGkmaglvQrFRHTEA-3D-3D=
+" target=3D"_blank"><img alt=3D"Case Western Reserve University" class=3D"b=
+anner" style=3D"display: block; border: 0px solid; outline: none; text-deco=
+ration: none;" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF61=
+6uVxA-7Vzr-im-GMdio7i9YgCGwqP5juub7G2HoY13awdH5nlGOi3JEhZuYBMvZMyZgIdCgMycV=
+xxtLkTaO_LxDCR-_sGFIIf0PA2odXTuITG9DQX7lL-tV" /></a></div></td></tr></tbody=
+></table><!-- end of logo --></td></tr><!-- Spacing --><tr><td height=3D"20=
+" style=3D"font-size:1px; line-height:1px; mso-line-height-rule: exactly;">=
+&nbsp;</td></tr><!-- Spacing --></tbody></table></td></tr></tbody></table><=
+/td></tr></tbody></table><!-- End of Header --><!-- Start Full Text --><tab=
+le bgcolor=3D"#F6F4F5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"backgroundTable" st-sortable=3D"full-text" width=3D"100%"><tbody><tr><t=
+d><table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" class=3D"devicewidth" width=3D"624"><tbody><tr><td widt=
+h=3D"100%"><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" class=3D"devicewidth" width=3D"600"><tbody><tr><td><table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewi=
+dthinner" width=3D"560"><tbody><!-- content --><tr><td st-content=3D"fullte=
+xt-content" style=3D"font-family:'Helvetica Neue', Helvetica, Arial, sans-s=
+erif; font-size:13px; color:#5c6f7b; text-align:left;"><p>Dear John,<br /><=
+br />
+You're an outstanding high school student thinking about which colleges sho=
+uld be on your short list.&nbsp;<a href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3Dic2UYdiceulI4GY1CgUhRtn7cCLZbIXLpCsw7zlqIYhhofn-2BAWfkNrS5T3gNpA=
+kj_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VT=
+jG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomOWrQrS-=
+2FhA0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2F0Q-2BDWPSOc4Mx1=
+oxIq1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebzMwYvRU-2BtXxvCQM=
+0WTAHCwdAO9MDQ-2FASeqibGfIA-2B3-2B0dNG1VSumNlK7059vUYaHu6rl-2Bfpp4rWp6DC4iF=
+blWEJ7qL4Bb8ENzsFN2TVrJBp1ROC73lriU-2FAjnDLtDyu-2BZxAV49b4NwbUVXqFSV3jJ-2Fo=
+y4Jf-2FqywC6Ncj05wr56zRaQJnenRGBYIxwzi0XYels-2Bn-2FQ6VbxLZ5xiNLsIXw-3D-3D">=
+Case Western Reserve University</a> is one of the nation's top-ranked unive=
+rsities, with highly regarded programs in the arts, business, engineering, =
+humanities, nursing, and natural and social sciences. We think that makes a=
+ smart match and are eager for a chance to meet you.<br /><br /><a href=3D"=
+http://mx.technolutions.net/wf/click?upn=3Dq1ODc7jfJQCf-2FkuBj0LPnjRd137q0w=
+GWA2LQb2pXn-2FqHwe-2BoufRzBuB20bJfER5M6nkLkes2bVculEQIh8itvGSQn2c3nWUfkqlNh=
+lJySA3ObaRHxytYuyyVvCQ4hBaKXhPOZAPOOaIZ6nOYMxUpXi2clrjGUBt1tqzEobMRE7M-3D_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomOWrQrS-2FhA=
+0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2F0Q-2BDWPSOc4Mx1oxIq=
+1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebzMwYvRU-2BtXxvCQM0WTA=
+KyQjCgRzqYTIaTQeD3hwMvT-2Fks1GOit2rabvd6g-2FyRPBG3jvZqePSDiifKb6DDAO1d9criM=
+tDDVfvy84HHK6UNIuvJ1PTD0EU-2Fbxp8zaGNPuRrv9fbgSqkkFNmWIOTPlmbTLjs-2F-2FOCym=
+y6SxdHfGd7YOD7ep5WSjo8jWqHSnH1w6-2BymD6Bvs74Ezh-2FX3aVbLg-3D-3D">Join us fo=
+r an exclusive preview of CWRU at an information session in Columbus!</a><b=
+r /><br />
+We'll tell you about academic programs, student life, financial aid and all=
+ things CWRU. Have questions? Here's your chance to get the answers.<br /><=
+br />
+&nbsp;</p><table align=3D"center" border=3D"0" cellpadding=3D"1" cellspacin=
+g=3D"1" style=3D"width: 100%;"><tbody><tr><td style=3D"text-align: left; ve=
+rtical-align: top;"><p><strong style=3D"color: rgb(92, 111, 123); font-fami=
+ly: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-h=
+eight: 16px; background-color: rgb(255, 255, 255);">When:</strong></p><p>Su=
+nday, August 23<br />
+3:00 PM</p></td><td><strong style=3D"color: rgb(92, 111, 123); font-family:=
+ 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-heig=
+ht: 16px; background-color: rgb(255, 255, 255);">Where:</strong><br style=
+=3D"color: rgb(92, 111, 123); font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; font-size: 13px; line-height: 16px; background-color: rgb(2=
+55, 255, 255);" /><span style=3D"color: rgb(92, 111, 123); font-family: 'He=
+lvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; line-height: =
+16px; background-color: rgb(255, 255, 255);">Hilton Columbus at Easton</spa=
+n><br style=3D"color: rgb(92, 111, 123); font-family: 'Helvetica Neue', Hel=
+vetica, Arial, sans-serif; font-size: 13px; line-height: 16px; background-c=
+olor: rgb(255, 255, 255);" /><span style=3D"color: rgb(92, 111, 123); font-=
+family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; li=
+ne-height: 16px; background-color: rgb(255, 255, 255);">3900 Chagrin Dr</sp=
+an><br style=3D"color: rgb(92, 111, 123); font-family: 'Helvetica Neue', He=
+lvetica, Arial, sans-serif; font-size: 13px; line-height: 16px; background-=
+color: rgb(255, 255, 255);" /><span style=3D"color: rgb(92, 111, 123); font=
+-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; l=
+ine-height: 16px; background-color: rgb(255, 255, 255);">Columbus, OH 43219=
+-7100</span></td></tr></tbody></table><p>&nbsp;</p><p style=3D"text-align: =
+center;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dq1ODc7jfJQCf=
+-2FkuBj0LPnjRd137q0wGWA2LQb2pXn-2FqHwe-2BoufRzBuB20bJfER5M6nkLkes2bVculEQIh=
+8itvGSQn2c3nWUfkqlNhlJySA3ObaRHxytYuyyVvCQ4hBaKXhPOZAPOOaIZ6nOYMxUpXi2clrjG=
+UBt1tqzEobMRE7M-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomOWrQrS-2FhA0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2=
+F0Q-2BDWPSOc4Mx1oxIq1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebz=
+MwYvRU-2BtXxvCQM0WTADBA2EAwqo3ySfX-2BEHYHmJMMPYzRP9UknsW4iEpFSgDWXjQvn13AiZ=
+WShlhdIVeytEBLRxg5UpYE-2BWod7VXpFGHSloriyGfUuss4eXOCsHvyzlVmoQZRjTLWH43CSX2=
+Alq5S2qdMsG6r4V2470ryEzK-2Fm8wl8DLckFHn8qkNjtqkO-2BO27r17JJlRD8Wxe1mhKg-3D-=
+3D"><img alt=3D"" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTc=
+F616sU-i5vVrdHNwwKigz_j51_Zjvm-xAFMhyYAsFb5rfUy9jNdIahi9jtbWMBAn4ICfIyYdWjf=
+_XmNqyZRHLvAFZi" /></a><br />
+or call 216.368.4450</p><p>Best regards,<br />
+Bob<br />
+&nbsp;</p><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+font-family:'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:13px;=
+ color:#5c6f7b;" width=3D"0%"><tbody><tr><td><img style=3D"width: 75px; hei=
+ght: 75px;" height=3D"75" width=3D"75" src=3D"https://d2y48w7m6jzhpb.cloudf=
+ront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Zjvm-xAFMhyYAsFb5rfUy9jNdIah=
+i9jtYfyldf7Df2W8MfoEaz1MtAJt1J6ksvV8kFgwnZyVkLW5GhgZJmPKgw" /></td><td styl=
+e=3D"padding-left:10px"><p>Robert R. McCullough<br />
+Director of Undergraduate Admission</p></td></tr></tbody></table></td></tr>=
+<!-- End of content --></tbody></table></td></tr></tbody></table></td></tr>=
+</tbody></table><!-- end of full text --><!-- Start of seperator --><table =
+bgcolor=3D"#F6F4F5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"=
+backgroundTable" st-sortable=3D"seperator" width=3D"100%"><tbody><tr bgcolo=
+r=3D"#F6F4F5"><td><table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"624"><tb=
+ody><tr><td align=3D"center" height=3D"10" style=3D"font-size:1px; line-hei=
+ght:1px;">&nbsp;</td></tr><tr><td align=3D"center" bgcolor=3D"#D1D1D1" heig=
+ht=3D"1" style=3D"font-size:1px; line-height:1px;" width=3D"550">&nbsp;</td=
+></tr><tr><td align=3D"center" height=3D"10" style=3D"font-size:1px; line-h=
+eight:1px;">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><!-- =
+End of seperator --><!-- Start of Postfooter --><table bgcolor=3D"#F6F4F5" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"backgroundTable" st-=
+sortable=3D"postfooter" width=3D"100%"><tbody><tr><td><table align=3D"cente=
+r" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidth" width=3D"624"><tbody><tr><td width=3D"100%"><table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devic=
+ewidth" width=3D"600"><tbody><tr><td align=3D"center" st-content=3D"postfoo=
+ter" style=3D"font-family: Helvetica, arial, sans-serif; font-size: 12px;co=
+lor: #aaa; padding-left:3px; padding-right: 3px;" valign=3D"middle">be sure=
+ to add <a href=3D"mailto:admission@case.edu" style=3D"color:#888; text-dec=
+oration:none; border-bottom:#888 1px dotted;">admission@case.edu</a> to you=
+r address book to make sure these messages make it to your inbox.</td></tr>=
+<!-- Spacing --><tr><td height=3D"20" width=3D"100%">&nbsp;</td></tr><!-- S=
+pacing --></tbody></table></td></tr></tbody></table></td></tr></tbody></tab=
+le><!-- End of postfooter --><!-- Start of postpostfooter --><table bgcolor=
+=3D"#F6F4F5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"backgro=
+undTable" st-sortable=3D"preheader" width=3D"100%"><tbody><tr><td height=3D=
+"20" width=3D"100%">&nbsp;</td></tr></tbody></table><!-- End of postpostfoo=
+ter --></td></tr></tbody></table></div></font><br /><table align=3D"center"=
+ bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75; =
+clear: both; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=
+=3D"650"><tr><td align=3D"center"><font color=3D"#333333" face=3D"Arial, He=
+lvetica, sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This email=
+ was sent to markiewicz.john@gmail.com by Case Western Reserve University.<=
+br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dq1ODc7jfJQCf-2Fk=
+uBj0LPnmlTNJBVlDSkddQUDmypeJPpZ9nnSYcLstogASy6vtlDcR5C6Q3dvAXJlICrGzuIfV1jD=
+0LFflPL49x0JB0mfbw-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomOWrQrS-2FhA0AAoDjREluVXJn8LnFbGnhil63EHQ75RM4hgJktk7lUCGH99sv9X=
+f-2F0Q-2BDWPSOc4Mx1oxIq1YD1DXJwuCb6-2B7gWLmWHkdYRrY8RIC-2FujuoZfqkpVq34ATh4=
+ebzMwYvRU-2BtXxvCQM0WTADUlQ6K3JeDYea0BIeqwNGal4frLZ-2BoQ4XhOPrhp9VvOhzcsMBO=
+V65EovYdS8zXNXQ0xQU6q9ak2B4F3JTsoBX3p-2BIlupesrCuGCy9B8oDZEcsFLJm8SSICcJ3Qy=
+omGiV2-2BVcDUrf2otIHxzs9L4NPLG09hXjcEbjArVD-2Fnnd3JWOqVRr15bCZufE9evYXg-2B2=
+Q-3D-3D">Unsubscribe</a> from Case Western Reserve University.</span></font=
+></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomOWrQrS-2FhA0AAoDjREluVXJn8LnFbG=
+nhil63EHQ75RM4hgJktk7lUCGH99sv9Xf-2F0Q-2BDWPSOc4Mx1oxIq1YD1DXJwuCb6-2B7gWLm=
+WHkdYRrY8RIC-2FujuoZfqkpVq34ATh4ebzMwYvRU-2BtXxvCQM0WTAPIj55HrUw0k8FkJi8voE=
+ojYHMJMQv7KobOb-2BT1vmOaoUv-2B2D2fKQynQWkgYk4HEvCZzRkWp2qRUUx-2Fzuda22ksxbu=
+75UngmmLhhql59PSkxLQulIrlJpsrbTl0ORMwU2gjNWdzIZW3A2UPIBvQCoEAIiV-2BWRbh1FoA=
+xgvLuGkAeULFNzAeo0WdavBCCudeZUw-3D-3D" alt=3D"" width=3D"1" height=3D"1" bo=
+rder=3D"0" style=3D"height:1px !important;width:1px !important;border-width=
+:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-rig=
+ht:0 !important;margin-left:0 !important;padding-top:0 !important;padding-b=
+ottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_672ce7b8-e0b5-45b4-9426-d4a82f534549--

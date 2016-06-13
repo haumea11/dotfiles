@@ -1,0 +1,355 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.104.33 with SMTP id d33csp1870469oic;
+        Tue, 26 Apr 2016 09:07:20 -0700 (PDT)
+X-Received: by 10.28.6.140 with SMTP id 134mr4711371wmg.23.1461686840598;
+        Tue, 26 Apr 2016 09:07:20 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x229.google.com (mail-wm0-x229.google.com. [2a00:1450:400c:c09::229])
+        by mx.google.com with ESMTPS id r126si3555634wmd.76.2016.04.26.09.07.20
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 26 Apr 2016 09:07:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) client-ip=2a00:1450:400c:c09::229;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@berniesanders.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wm0-x229.google.com with SMTP id v188so132034141wme.1
+        for <kuiperhaumea@gmail.com>; Tue, 26 Apr 2016 09:07:20 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:to:from
+         :reply-to:subject:message-id:list-unsubscribe:mime-version;
+        bh=fOPTyCvuDYOlVSVkqbo5p7yTcFVnHf2nO7lwaYmk+ng=;
+        b=UXysnltqhm8t9aqtHU5CnkIM2Y5bHBpOgtDDLst7u7fzzq0c07t1XzlF4SUUju2bnY
+         WDJ9fgVNyDMjWlPmoZao+56g1dIgIjsiW1Cr1Rp5B/qquDrhqB8TVpf4EJF/KC+FaKc1
+         3OlFh3Jv2xDDMlY37iQqedVu0r67Z5mUAhb0QYzHRw3HviH6KrVPqyO8Q6PZQNGO6DMv
+         xopRr/mht0cZaViR35eJqfhU3Ag083FWctF6v5vAAxQtis5tV2AiGol830GNi4edVt4z
+         RnyX07VnAEr25GK+v9x/jtf86UjbXhoKsOFtJASbWHIs6zpUXwHqEwNV7j9AuUnH1gkj
+         YVjw==
+X-Gm-Message-State: AOPr4FWY1RcFuQyLzq3mausHGvNAQ1hzydBeaVxbB6K3axBrHZhq77jK38NJzgK2ZLEQu9PvmYiyovX0fGBwVB9zPCfLjjk=
+X-Received: by 10.195.13.135 with SMTP id ey7mr4082743wjd.161.1461686840143;
+        Tue, 26 Apr 2016 09:07:20 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.65.215 with SMTP id o206csp1350412wma;
+        Tue, 26 Apr 2016 09:07:19 -0700 (PDT)
+X-Received: by 10.55.117.5 with SMTP id q5mr3188352qkc.195.1461686838964;
+        Tue, 26 Apr 2016 09:07:18 -0700 (PDT)
+Return-Path: <BwBEWwoBVwJsBARRB1EAWVYNVgRWDlcCBDBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwMPVgY@bounce.bluestatedigital.com>
+Received: from mta-dock-front-3.bluestatedigital.com (mta-dock-front-3.bluestatedigital.com. [70.42.50.132])
+        by mx.google.com with ESMTP id 20si13945070qki.178.2016.04.26.09.07.18
+        for <markiewicz.john@gmail.com>;
+        Tue, 26 Apr 2016 09:07:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of BwBEWwoBVwJsBARRB1EAWVYNVgRWDlcCBDBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwMPVgY@bounce.bluestatedigital.com designates 70.42.50.132 as permitted sender) client-ip=70.42.50.132;
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.87])
+	by mta-dock-front-3.bluestatedigital.com (Postfix) with ESMTP id 3qvSdY1Tt9zjX4V
+	for <markiewicz.john@gmail.com>; Tue, 26 Apr 2016 16:06:41 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berniesanders.com;
+	s=berniesanderskey; t=1461686801;
+	bh=fOPTyCvuDYOlVSVkqbo5p7yTcFVnHf2nO7lwaYmk+ng=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=kI7ZRxFZx7nyMflj0sG/I9i3FCLdlj2NR/qG7TaNOB7N++RzfHzl4Qk7bJfGKw6l1
+	 tkyW/UJRd4wzNVSeS/CKSXu3wbdPZ9oXpAe+GvnkrEuczWyJzZgvUh1tOi6aDtoiHx
+	 Kwl9RT7sho60WBY5NqNRDg5zXpYZdBTc0yfftv7c=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Tue, 26 Apr 2016 16:06:41 +0000
+Date: Tue, 26 Apr 2016 16:06:41 +0000
+To: John Markiewicz <markiewicz.john@gmail.com>
+From: "BernieSanders.com" <info@berniesanders.com>
+Reply-to: Info@BernieSanders.com
+Subject: QUIZ: Who did Trump say would make a great president?
+Message-ID: <8a396d34915b2d04dbe3dcfe79858932@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 74d643854f6b921f
+X-rpcampaign: rp_1092010
+X-maillist-guid: BwBEWwoBVwJsBARRB1EAWVYNVgRWDlcCBDBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwMPVgY
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=markiewicz.john%40gmail.com>, <mailto:BwBEWwoBVwJsBARRB1EAWVYNVgRWDlcCBDBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwMPVgY@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_8a396d34915b2d04dbe3dcfe79858932"
+
+
+--b1_8a396d34915b2d04dbe3dcfe79858932
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+John -
+
+Over the past few days, Hillary Clinton's campaign and some of its top =
+supporters have launched an odd new line of attack against people like you =
+who stand with Bernie. They are saying that by continuing to campaign and =
+fight for every vote, for every delegate, that we are helping Donald =
+Trump.
+
+They've used language reserved for traitors to our country, saying we are =
+"giving aid and comfort" to Trump. They are emailing supporters with the =
+subject line "What Trump loves about Bernie."
+
+Let me be clear, there is one candidate in this Democratic primary who =
+Donald Trump said would make a "great president," and it's not Bernie =
+Sanders.
+
+Bernie is going to fight through the narrow path we have to the nomination =
+because there is also only one candidate who believes health care should =
+be a right for everyone in this country, that kids of all backgrounds =
+should be able to go to college without crushing debt, and that we cannot =
+transform a corrupt system by taking its money.
+
+Can Bernie count on you to contribute $5 to our campaign right now as a =
+way of saying you are still with Bernie Sanders and believe that every =
+vote and every delegate is an important declaration of support for the =
+values we share?
+
+https://secure.actblue.com/contribute/page/values-we-share
+
+Here's the truth: no matter what the Clinton campaign says, there is one =
+candidate in this race Donald Trump said would make a great president, and =
+another that he would never want to face in November.
+
+And that's because poll after poll after poll shows that he wouldn't stand =
+a chance against our political revolution.
+
+So we are going to keep fighting hard for every vote and for every =
+delegate. Not just because that's the only way to win this nomination, but =
+because we believe the power of our progressive agenda would energize the =
+kind of high voter turnout needed to stop Trump. That's why we have to =
+ask:
+
+Can Bernie count on you to contribute $5 to our campaign right now as a =
+way of saying you are still with Bernie Sanders and believe that every =
+vote and every delegate is an important declaration of support for the =
+values we share?
+
+https://secure.actblue.com/contribute/page/values-we-share
+
+People are voting in five primaries today. In just four days, we'll close =
+the books on another important FEC fundraising deadline. Everyone's going =
+to be watching to see if people are willing to fight for Bernie, and for =
+the political revolution. Let's show them we are.
+
+In solidarity,
+
+Jeff Weaver
+Campaign Manager
+Bernie 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Bernie 2016
+(not the billionaires)
+
+PO Box 905 - Burlington VT 05402 United States - (855) 4-BERNIE
+
+This email was sent to markiewicz.john@gmail.com. Email is one of the most =
+important tools we have to reach supporters like you, but if you=E2=80=99d =
+like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests who are systematically buying our Congress and =
+have their sights set on the presidency by contributing to Bernie here: =
+https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=3Demail_=
+footer.
+
+
+--b1_8a396d34915b2d04dbe3dcfe79858932
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+font-size: 17px;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0; =
+border: 0; margin: 0;"><img width=3D"200" alt=3D"Bernie Sanders for =
+President" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/logo-2x.png"></h1>
+<div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size:17px; line-height:140%;">
+	John -</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Over the past few days, Hillary Clinton&rsquo;s campaign and some of its =
+top supporters have launched an odd new line of attack against people like =
+you who stand with Bernie. They are saying that by continuing to campaign =
+and fight for every vote, for every delegate, that we are helping Donald =
+Trump.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	They&rsquo;ve used language reserved for traitors to our country, saying =
+we are "giving aid and comfort" to Trump. They are emailing supporters =
+with the subject line "What Trump loves about Bernie."</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Let me be clear, there is one candidate in this Democratic primary who =
+Donald Trump said would make a "great president," and it&rsquo;s not =
+Bernie Sanders.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Bernie is going to fight through the narrow path we have to the =
+nomination because there is also only one candidate who believes health =
+care should be a right for everyone in this country, that kids of all =
+backgrounds should be able to go to college without crushing debt, and =
+that we cannot transform a corrupt system by taking its money.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/values-we-share?ref=
+code=3Dem160426-sub-b" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/values-we-share?refcod=
+e=3Dem160426-sub-b"><strong>Can Bernie count on you to contribute $5 to =
+our campaign right now as a way of saying you are still with Bernie =
+Sanders and believe that every vote and every delegate is an important =
+declaration of support for the values we share?</strong></a></p>
+<p align=3D"center" style=3D"font-size:12px; line-height:140%;">
+	<em>(Pictured below: Donald Trump and the one candidate in this race he =
+said would make a "great president.")</em></p>
+<p align=3D"center">
+	<a href=3D"https://secure.actblue.com/contribute/page/values-we-share?ref=
+code=3Dem160426-sub-b" title=3D"https://secure.actblue.com/contribute/page=
+/values-we-share?refcode=3Dem160426-sub-b"><img alt=3D"Hillary Clinton =
+with Donald Trump at his wedding" src=3D"https://s.bsd.net/bernie16/main/p=
+age/-/Email%20Images/hillary-%3C3s-trumps.png" style=3D"width:100%; =
+max-width: 600px;"></a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Here&rsquo;s the truth: no matter what the Clinton campaign says, there =
+is one candidate in this race Donald Trump said would make a great =
+president, and another that he would never want to face in November.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	And that&rsquo;s because poll after poll after poll shows that he =
+wouldn&rsquo;t stand a chance against our political revolution.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	So we are going to keep fighting hard for every vote and for every =
+delegate. Not just because that&rsquo;s the only way to win this =
+nomination, but because we believe the power of our progressive agenda =
+would energize the kind of high voter turnout needed to stop Trump. =
+That&rsquo;s why we have to ask:</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/values-we-share?ref=
+code=3Dem160426-sub-b" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/values-we-share?refcod=
+e=3Dem160426-sub-b"><strong>Can Bernie count on you to contribute $5 to =
+our campaign right now as a way of saying you are still with Bernie =
+Sanders and believe that every vote and every delegate is an important =
+declaration of support for the values we share?</strong></a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	People are voting in five primaries <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">today</a>. In just <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">four days</a>, =
+we&rsquo;ll close the books on another important FEC fundraising deadline. =
+Everyone&rsquo;s going to be watching to see if people are willing to =
+fight for Bernie, and for the political revolution. Let&rsquo;s show them =
+we are.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Jeff Weaver<br>
+	Campaign Manager<br>
+	Bernie 2016</p>
+<p align=3D"center">
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/values-we-s=
+hare?refcode=3Dem160426-sub-b" style=3D"font-family: sans-serif; =
+font-size: 18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/values-we-share?refcode=3Dem160426-sub-b">C=
+ontribute</a></strong></p>
+<p>
+	<br><br><br><br><br><br><br><br><br><br><br>
+	&nbsp;</p>
+<p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p></div>
+<div class=3D"footer" style=3D"text-align: center; margin-top: 40px; =
+padding-top: 15px; border-top: 1px solid #aaa;">
+
+<p class=3D"disclaimer" style=3D"display: inline-block; border: 1px solid =
+#555; padding: 5px 10px; color: #444; margin-bottom: 5px;">Paid for by =
+Bernie 2016</p>
+<p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+
+<p style=3D"font-size: 9px; margin: 15px 0 15px; color: #444;">PO Box 905 =
+- Burlington VT 05402 United States - (855) 4-BERNIE</p>
+
+<p style=3D"font-size: 9px; color: #444;">This email was sent to =
+markiewicz.john@gmail.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D4320=
+1" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Demai=
+l_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D43201">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>. =
+Stand against the powerful special interests who are systematically buying =
+our Congress and have their sights set on the presidency by <a =
+href=3D"https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=
+=3Demail_footer" title=3D"https://secure.actblue.com/contribute/page/lets-=
+go-bernie?refcode=3Demail_footer">contributing to Bernie here</a>.</p>
+</div><img src=3D"https://go.berniesanders.com/page/o/24fb3faa/43904886/ab=
+12ef7/620702c3/4225319340/open.gif" width=3D"1" =
+height=3D"1"></body></html>
+
+
+
+--b1_8a396d34915b2d04dbe3dcfe79858932--
+
+

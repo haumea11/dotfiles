@@ -1,0 +1,222 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1720244oid;
+        Mon, 13 Jul 2015 12:06:26 -0700 (PDT)
+X-Received: by 10.170.45.78 with SMTP id 75mr40561999ykn.53.1436814386335;
+        Mon, 13 Jul 2015 12:06:26 -0700 (PDT)
+Return-Path: <bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com>
+Received: from mkt26-sc.verticalresponse.com (mkt26-sc.verticalresponse.com. [74.116.89.133])
+        by mx.google.com with ESMTP id u66si12179618yke.127.2015.07.13.12.06.26
+        for <kuiperhaumea@gmail.com>;
+        Mon, 13 Jul 2015 12:06:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com designates 74.116.89.133 as permitted sender) client-ip=74.116.89.133;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com designates 74.116.89.133 as permitted sender) smtp.mail=bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com;
+       dkim=pass header.i=@vresp.com
+Return-Path: <bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com>
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=mkt; d=vresp.com;
+	h=DKIM-Signature:Received:From:Reply-To:To:Subject:Date:Message-ID:List-Unsubscribe:MIME-Version:X-Company_ID:X-vrfbldomain:X-vrpod:X-CTS-Enabled:X-Campaign:X-vrrpmm:X-Feedback-ID:Content-Type;
+	b=hoLrKbQy0bt+Fu+DsmIBkcnlXlQPtYZIJip5FjBY0KeDtwx3EMNyU8J4JX21vj9U
+	zJa5DuAm94twThV6oPddn/EgbM42xJo3+jQfXUOF52W2UJjlbdxbWZPUjgEACE9i
+	mS2U6xHl2jTtNRJIkadmHSzdJ7bb/q9r8Nxd2YUxxi0=
+DKIM-Signature: v=1; a=rsa-sha1; d=vresp.com; s=dkim; c=simple/simple;
+	q=dns/txt; i=@vresp.com; t=1436814385;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=icAqPSbLi75i32emVeNaom2JlOQ=;
+	b=Fno76GBqxkfv93hZ2+47cJu5jgqmI7cPXIYg2gKeZ+0dupuI01qTOmKZrcGs5+Zr
+	NG9/WcQU+thqKcXj7OEMZ7LcVl++n7Y4O+mOA0raABmIpmOLsv3wEv1JmN8MaolX
+	ms9nEcPNejr1K9Gpu/ZI8k6u/5G1cwZ10Yd59pE10JE=;
+Received: from [10.4.33.152] ([10.4.33.152:35426] helo=vm-mailer14.sf.verticalresponse.com)
+	by demosthenes (envelope-from <bounces-386f13546c-d70ab5b7b8@b.cts.vresp.com>)
+	(ecelerity 3.0.28.38595 r(38597)) with ESMTP
+	id 65/4A-02470-13C04A55; Mon, 13 Jul 2015 12:06:25 -0700
+From: "KOG Games" <KOG_Games@mail.vresp.com>
+Reply-To: "KOG Games" <reply-386f13546c-d70ab5b7b8-6fb7@u.cts.vresp.com>
+To: kuiperhaumea@gmail.com
+Subject: Get More K-Ching when you Load Up this week
+Date: Mon, 13 Jul 2015 19:06:25 +0000
+Message-ID: <386f13546c-kuiperhaumea=gmail.com@mail.vresp.com>
+List-Unsubscribe: <mailto:reply-386f13546c-d70ab5b7b8-6fb7@u.cts.vresp.com?subject=unsubscribe>
+MIME-Version: 1.0
+X-Company_ID: 1083874
+X-vrfbldomain: fbl.p0.verticalresponse.com
+X-vrpod: p0
+X-CTS-Enabled: 386f13546c-d70ab5b7b8
+X-Campaign: 386f13546c
+X-vrrpmm: 1083874-386f13546c
+X-Feedback-ID: 386f13546c:1083874:vr1
+Content-Type: multipart/alternative;
+    boundary="__________MIMEboundary__________";
+    charset="UTF-8"
+
+This is a multi-part message in MIME format.
+
+--__________MIMEboundary__________
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Summer Spree
+Get 15% Bonus K-Ching
+every time you Load Up!
+7/13 - 7/19
+
+Here's your chance to stretch your cash a little bit more, so you'll
+have enough K-Ching to spend on spur-of-the-moment resurrection
+stones, or that job change item, or the latest summer costumes.
+Fill up your K-Ching stores in time for Luciel's 1st Job Change,
+arriving July 15th!=20
+
+Don't Forget, Bonuses Stack!
+-	+20% bonus if you're loading up for the first time ever
+-	Up to +10% bonus if you use PayPal in the same transaction
+
+[Button:
+http://cts.vresp.com/c/?KOGGames/386f13546c/d70ab5b7b8/370026d4d6]
+
+Notice: Promo duration is from 7/13/2015 12:01 AM to 7/19/2015 11:59
+PM (PDT).
+Promo applies to all Load Up transactions done using credit card,
+prepaid card, or mobile payment (all regions, Arc channel included)
+within the period. Not valid for SponsorPay and PeanutLabs
+(offerwall) transactions and K-Ching purchases made thru Steam,
+Aeria.
+
+______________________________________________________________________
+Click to view this email in a browser
+http://hosted.verticalresponse.com/1815389/386f13546c/592665623/d70ab5b7b8/
+
+If you no longer wish to receive these emails, please reply to this
+message with "Unsubscribe" in the subject line or simply click on the
+following link:=20
+
+http://cts.vresp.com/u?386f13546c/d70ab5b7b8/mlpftw
+
+______________________________________________________________________
+This message was sent by KOG Games
+
+
+KOG Games
+13700 Alton Parkway, Ste 154-140
+Irvine, California 92618
+US
+
+
+
+
+--__________MIMEboundary__________
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+ =20
+ =20
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"content-type" />
+	<title>Get More K-Ching when you Load Up this week</title>
+</head>
+<body bgcolor=3D"#FFFFFF" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" topmargin=3D"0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"765" id=
+=3D"Table_01" width=3D"560">
+	<tbody>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/386f13546c/d70ab5b7b8/0c=
+eea891e6"><img align=3D"none" alt=3D"Summer-Spree_07-13-2015_01" border=3D"=
+0" height=3D"267" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/me=
+dia/8/2/b/82b32804bd/386f13546c/523e0e0357/library/Summer-Spree_07-13-2015_=
+01.jpg" style=3D"display: block; width: 560px; height: 267px;" title=3D"Sum=
+mer-Spree_07-13-2015_01" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/386f13546c/d70ab5b7b8/be=
+39bbd0a5"><img align=3D"none" alt=3D"Summer-Spree_07-13-2015_02" border=3D"=
+0" height=3D"265" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/me=
+dia/8/2/b/82b32804bd/386f13546c/523e0e0357/library/Summer-Spree_07-13-2015_=
+02.jpg" style=3D"display: block; width: 560px; height: 265px;" title=3D"Sum=
+mer-Spree_07-13-2015_02" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/386f13546c/d70ab5b7b8/da=
+61b4f381"><img align=3D"none" alt=3D"Summer-Spree_07-13-2015_03" border=3D"=
+0" height=3D"148" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/me=
+dia/8/2/b/82b32804bd/386f13546c/523e0e0357/library/Summer-Spree_07-13-2015_=
+03.jpg" style=3D"display: block; width: 560px; height: 148px;" title=3D"Sum=
+mer-Spree_07-13-2015_03" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/386f13546c/d70ab5b7b8/e3=
+9f3f3b02"><img align=3D"none" alt=3D"Summer-Spree_07-13-2015_04" border=3D"=
+0" height=3D"85" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/med=
+ia/8/2/b/82b32804bd/386f13546c/523e0e0357/library/Summer-Spree_07-13-2015_0=
+4=2Ejpg" style=3D"display: block; width: 560px; height: 85px;" title=3D"Sum=
+mer-Spree_07-13-2015_04" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+	</tbody>
+</table>
+=20
+
+
+</p>
+<br>
+<br style=3D"clear: both;">
+
+<hr>
+<table border=3D"0" cellspacing=3D"0" width=3D"100%" cellpadding=3D"5">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+       =20
+           <a href=3D"http://hosted.verticalresponse.com/1815389/386f13546c=
+/592665623/d70ab5b7b8/">Click to view this email in a browser</a>
+           <br/><br/>
+        =20
+       If you no longer wish to receive these emails, please reply to this =
+message with "Unsubscribe" in the subject line or simply click on the follo=
+wing link:=20
+=20
+<a href=3D"http://cts.vresp.com/u?386f13546c/d70ab5b7b8/mlpftw">Unsubscribe=
+</a>
+
+
+</font>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+                  KOG Games<br/>
+        13700 Alton Parkway, Ste 154-140<br/>
+                Irvine, California 92618<br/>
+                  US<br/>
+       =20
+       <p>
+         =20
+
+        </p>
+      </font>
+    </td>
+    <td align=3D"right">
+     =20
+    </td>
+  </tr>
+</table>
+
+  <img alt=3D"" src=3D"http://cts.vresp.com/o.gif?386f13546c/d70ab5b7b8/mlp=
+ftw"/>
+
+
+</body>
+</html>
+
+
+
+--__________MIMEboundary__________--
+

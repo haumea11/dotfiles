@@ -1,0 +1,337 @@
+# ==============================================================================
+# = EDT's .muttrc file                                                         =
+# ==============================================================================
+# Notes on mutt:
+# It doesn't like macros bound to <F1> - <F4>.  Other F keys work fine.
+# 
+# Much of this .muttrc is copied directly from the internet, or from others' 
+# mutt configurations.  Special thanks to Paradigm for his contributions.
+
+# ==============================================================================
+# = html_settings                                                              =
+# ==============================================================================
+# Ok, I just want to say.
+# This section here?  Yeah, it's dedicated to you PUNKS who send HTML e-mail.
+#
+# ESPECIALLY if there isn't a plaintext version.
+
+auto_view text/html                                      # view html automatically
+#alternative_order text/plain text/enriched text/html     # save html for last
+
+# mutt and org
+macro index \eR "| perl ~/bin/remember-mail\n"
+
+# basic colors ---------------------------------------------------------
+#color normal        color244        color233        
+#color error         color160        color233        
+#color tilde         color254        color233        
+#color message       color37         color233        
+#color markers       color160        color234        
+#color attachment    color234        color233        
+#color search        color61         color233        
+##color status        J_black         J_status        
+#color status        color244        color254        
+#color indicator     color230        color136        
+#color tree          color136        color233                                    # arrow in threads
+#
+## basic monocolor screen
+#mono  bold          bold
+#mono  underline     underline
+#mono  indicator     reverse
+#mono  error         bold
+
+# index ----------------------------------------------------------------
+
+#color index         color160        color233        "~D(!~p|~p)"               # deleted
+#color index         color254        color233        ~F                         # flagged
+#color index         color166        color233        ~=                         # duplicate messages
+#color index         color245        color233        "~A!~N!~T!~p!~Q!~F!~D!~P"  # the rest
+#color index         J_base          color233        "~A~N!~T!~p!~Q!~F!~D"      # the rest, new
+#color index         color160        color233        "~A"                        # all messages
+#color index         color166        color233        "~E"                        # expired messages
+#color index         color33         color233        "~N"                        # new messages
+#color index         color33         color233        "~O"                        # old messages
+#color index         color61         color233        "~Q"                        # messages that have been replied to
+#color index         color245        color233        "~R"                        # read messages
+#color index         color33         color233        "~U"                        # unread messages
+#color index         color33         color233        "~U~$"                      # unread, unreferenced messages
+#color index         color244        color233        "~v"                        # messages part of a collapsed thread
+#color index         color244        color233        "~P"                        # messages from me
+#color index         color37         color233        "~p!~F"                     # messages to me
+#color index         color37         color233        "~N~p!~F"                   # new messages to me
+#color index         color37         color233        "~U~p!~F"                   # unread messages to me
+#color index         color245        color233        "~R~p!~F"                   # messages to me
+#color index         color160        color233        "~F"                        # flagged messages
+#color index         color160        color233        "~F~p"                      # flagged messages to me
+#color index         color160        color233        "~N~F"                      # new flagged messages
+#color index         color160        color233        "~N~F~p"                    # new flagged messages to me
+#color index         color160        color233        "~U~F~p"                    # new flagged messages to me
+#color index         color254        color160        "~D"                        # deleted messages
+#color index         color239        color233        "~v~(!~N)"                  # collapsed thread with no unread
+#color index         color136        color233        "~v~(~N)"                   # collapsed thread with some unread
+#color index         color64         color233        "~N~v~(~N)"                 # collapsed thread with unread parent
+## statusbg used to indicated flagged when foreground color shows other status
+## for collapsed thread
+#color index         color160        color254        "~v~(~F)!~N"                # collapsed thread with flagged, no unread
+#color index         color136        color254        "~v~(~F~N)"                 # collapsed thread with some unread & flagged
+#color index         color64         color254        "~N~v~(~F~N)"               # collapsed thread with unread parent & flagged
+#color index         color64         color254        "~N~v~(~F)"                 # collapsed thread with unread parent, no unread inside, but some flagged
+#color index         color37         color254        "~v~(~p)"                   # collapsed thread with unread parent, no unread inside, some to me directly
+#color index         color136        color160        "~v~(~D)"                   # thread with deleted (doesn't differentiate between all or partial)
+#color index         color136        color233        "~(~N)"                    # messages in threads with some unread
+#color index         color64         color233        "~S"                       # superseded messages
+#color index         color160        color233        "~T"                       # tagged messages
+#color index         color166        color160        "~="                       # duplicated messages
+#
+## message headers ------------------------------------------------------
+#
+#color header        color245        color233        "^"
+#color hdrdefault    color245        color233        
+#color header        color244        color233        "^(From)"
+#color header        color33         color233        "^(Subject)"
+#
+## body -----------------------------------------------------------------
+#
+#color quoted        color33         color233        
+#color quoted1       color37         color233        
+#color quoted2       color136        color233        
+#color quoted3       color160        color233        
+#color quoted4       color166        color233        
+#
+#color signature     color245        color233        
+#color bold          color254        color233        
+#color underline     color254        color233        
+#color normal        color240        color233        
+##
+#color body          color239        color233        "[;:][-o][)/(|]"    # emoticons
+#color body          color239        color233        "[;:][)(|]"         # emoticons
+#color body          color239        color233        "[*]?((N)?ACK|CU|LOL|SCNR|BRB|BTW|CWYL|\
+#                                                     |FWIW|vbg|GD&R|HTH|HTHBE|IMHO|IMNSHO|\
+#                                                     |IRL|RTFM|ROTFL|ROFL|YMMV)[*]?"
+#color body          color239        color233        "[ ][*][^*]*[*][ ]?" # more emoticon?
+#color body          color239        color233        "[ ]?[*][^*]*[*][ ]" # more emoticon?
+#
+### pgp
+#
+#color body          color160        color233        "(BAD signature)"
+#color body          color37         color233        "(Good signature)"
+#color body          color230        color233        "^gpg: Good signature .*"
+#color body          color244        color233        "^gpg: "
+#color body          color244        color160        "^gpg: BAD signature from.*"
+#mono  body          bold                            "^gpg: Good signature"
+#mono  body          bold                            "^gpg: BAD signature from.*"
+#
+## yes, an insance URL regex
+##color body          color160        color233        
+##"([a-z][a-z0-9+-]*://(((([a-z0-9_.!~*'();:&=+$,-]|%[0-9a-f][0-9a-f])*@)?((([a-z0-9]([a-z0-9-]*[a-z0-9])?)\\.)*([a-z]([a-z0-9-]*[a-z0-9])?)\\.?|[0-9]+\\.[0-9]+\\.[0-9]+\\.[0-9]+)(:[0-9]+)?)|([a-z0-9_.!~*'()$,;:@&=+-]|%[0-9a-f][0-9a-f])+)(/([a-z0-9_.!~*'():@&=+$,-]|%[0-9a-f][0-9a-f])*(;([a-z0-9_.!~*'():@&=+$,-]|%[0-9a-f][0-9a-f])*)*(/([a-z0-9_.!~*'():@&=+$,-]|%[0-9a-f][0-9a-f])*(;([a-z0-9_.!~*'():@&=+$,-]|%[0-9a-f][0-9a-f])*)*)*)?(\\?([a-z0-9_.!~*'();/?:@&=+$,-]|%[0-9a-f][0-9a-f])*)?(#([a-z0-9_.!~*'();/?:@&=+$,-]|%[0-9a-f][0-9a-f])*)?|(www|ftp)\\.(([a-z0-9]([a-z0-9-]*[a-z0-9])?)\\.)*([a-z]([a-z0-9-]*[a-z0-9])?)\\.?(:[0-9]+)?(/([-a-z0-9_.!~*'():@&=+$,]|%[0-9a-f][0-9a-f])*(;([-a-z0-9_.!~*'():@&=+$,]|%[0-9a-f][0-9a-f])*)*(/([-a-z0-9_.!~*'():@&=+$,]|%[0-9a-f][0-9a-f])*(;([-a-z0-9_.!~*'():@&=+$,]|%[0-9a-f][0-9a-f])*)*)*)?(\\?([-a-z0-9_.!~*'();/?:@&=+$,]|%[0-9a-f][0-9a-f])*)?(#([-a-z0-9_.!~*'();/?:@&=+$,]|%[0-9a-f][0-9a-f])*)?)[^].,:;!)? 
+##\t\r\n<>\"]"
+## and a heavy handed email regex
+##color body          J_magent        color233        
+##"((@(([0-9a-z-]+\\.)*[0-9a-z-]+\\.?|#[0-9]+|\\[[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\]),)*@(([0-9a-z-]+\\.)*[0-9a-z-]+\\.?|#[0-9]+|\\[[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\.[0-9]?[0-9]?[0-9]\\]):)?[0-9a-z_.+%$-]+@(([0-9a-z-]+\\.)*[0-9a-z-]+\\.?|#[0-9]+|\\[[0-2]?[0-9]?[0-9]\\.[0-2]?[0-9]?[0-9]\\.[0-2]?[0-9]?[0-9]\\.[0-2]?[0-9]?[0-9]\\])"
+#
+## Various smilies and the like
+#color body          color233        color233        "<[Gg]>"                            # <g>
+#color body          color233        color233        "<[Bb][Gg]>"                        # <bg>
+#color body          color136        color233        " [;:]-*[})>{(<|]"                  # :-) etc...
+## *bold*
+#color body          color33         color233        "(^|[[:space:][:punct:]])\\*[^*]+\\*([[:space:][:punct:]]|$)"
+#mono  body          bold                            "(^|[[:space:][:punct:]])\\*[^*]+\\*([[:space:][:punct:]]|$)"
+## _underline_
+#color body          color33         color233        "(^|[[:space:][:punct:]])_[^_]+_([[:space:][:punct:]]|$)"
+#mono  body          underline                       "(^|[[:space:][:punct:]])_[^_]+_([[:space:][:punct:]]|$)"
+## /italic/  (Sometimes gets directory names)
+#color body         color33         color233        "(^|[[:space:][:punct:]])/[^/]+/([[:space:][:punct:]]|$)"
+#mono body          underline                       "(^|[[:space:][:punct:]])/[^/]+/([[:space:][:punct:]]|$)"
+#
+## Border lines.
+#color body          color33         color233        "( *[-+=#*~_]){6,}"
+#
+#folder-hook .                  "color status        J_black         J_status        "
+#folder-hook gmail/inbox        "color status        J_black         color136        "
+#folder-hook gmail/important    "color status        J_black         color136        "
+#
+#
+# ==============================================================================
+# = general_settings                                                           =
+# ==============================================================================
+
+# Directory which contains all of the mailboxes
+set folder="~/.mutt/"
+source ~/.mutt/account.com.airmail.jmarkiewicz
+
+# Folder hooks
+folder-hook 'account.com.gmail.kuiperhaumea' 'source ~/.mutt/account.com.gmail.kuiperhaumea'
+folder-hook 'account.com.airmail.jmarkiewicz' 'source ~/.mutt/account.com.airmail.jmarkiewicz'
+folder-hook 'account.com.airmail.edt' 'source ~/.mutt/account.com.airmail.edt'
+
+# Account Switching
+macro index <f5> '<sync-mailbox><enter-command>source ~/.mutt/account.com.airmail.jmarkiewicz<enter><change-folder>!<enter>'
+macro index <f6> '<sync-mailbox><enter-command>source ~/.mutt/account.com.airmail.edt<enter><change-folder>!<enter>'
+
+macro index <f7> '<sync-mailbox><enter-command>source ~/.mutt/account.com.gmail.kuiperhaumea<enter><change-folder>!<enter>'
+macro index <f8> '<sync-mailbox><enter-command>source ~/.mutt/account.com.buckeyemail.markiewicz.22<enter><change-folder>!<enter>'
+
+# include headers when editing
+set edit_headers
+
+# indicate I'm using mutt
+set user_agent
+
+# quit without confirmation
+set quit
+
+# mutt's temp file directory
+set tmpdir = ~/.mutt/temp
+
+# include messages in replies
+set include
+
+# keep sent messages
+set copy = yes
+
+# vi-style tildes in pager
+# set tilde
+
+# prefer plain text over html
+alternative_order text/plain text/html
+
+# enable ssl
+#set ssl_ca_certificates_file=/etc/ssl/certs/ca-certificates.crt
+#set ssl_starttls
+#set ssl_force_tls
+
+# Have Vim start editing after header, using special options for e-mail.
+#set editor = 'vim "+:silent" "+/^$"  "+:set tw=75" "+:noh" "+:normal! o" "+:startinsert"'
+set editor = 'bin/edit'
+
+# when starting mutt, default to choosing which mailbox to use
+# push c?<tab>
+
+# Use the signature file
+set signature=".signature"
+
+# ==============================================================================
+# = key_bindings                                                               =
+# ==============================================================================
+# browser is file browser
+
+# Navigate the side bar (requires mutt-patched/mutt-sidebar)
+
+# Difficulty has been found in the following section.  The sidebar feature of
+# mutt is a bit of a strange one.
+
+
+# set up the sidebar, default not visible
+#set sidebar_width=12
+#set sidebar_visible=no
+#set sidebar_delim='|'
+#set sidebar_sort=yes
+#set sidebar_visible=yes
+
+# which mailboxes to list in the sidebar
+#mailboxes =inbox =ml
+
+# color of folders with new mail
+#color sidebar_new yellow default
+
+# ctrl-n, ctrl-p to select next, prev folder
+# ctrl-o to open selected folder
+#bind index \Cp sidebar-prev
+#bind index \Cn sidebar-next
+#bind index \Co sidebar-open
+#bind pager \Cp sidebar-prev
+#bind pager \Cn sidebar-next
+#bind pager \Co sidebar-open
+#
+# I don’t need these. just for documentation purposes. See below.
+# sidebar-scroll-up
+# sidebar-scroll-down
+
+# b toggles sidebar visibility
+#macro index b ‘<enter-command>toggle sidebar_visible<enter>’
+#macro pager b ‘<enter-command>toggle sidebar_visible<enter>’
+
+# Remap bounce-message function to “B”
+#bind index B bounce-message
+
+#
+# Mario Holbe suggests:
+#macro index b ‘<enter-command>toggle sidebar_visible<enter><refresh>’
+#macro pager b ‘<enter-command>toggle sidebar_visible<enter><redraw-screen>’
+#
+
+# Other bindings
+bind pager               gg  top
+bind index               gg  first-entry
+bind pager               G   bottom
+bind index               G   last-entry
+
+bind index               H   current-top
+bind index               M   current-middle
+bind index               L   current-bottom
+bind pager               j   next-line
+bind pager               k   previous-line
+
+bind generic \Cd half-down
+bind generic \Cu half-up
+bind generic \Cb previous-page
+bind generic \Cf next-page
+
+bind pager               R   group-reply
+macro index              C   c<tab>
+
+# open html e-mail in external browser
+macro pager              <F8>   <pipe-entry>'elinks -force-html'<enter> 'open message in elinks'
+macro pager              O   <pipe-entry>'tee >/dev/shm/tempemail.html && firefox /dev/shm/tempemail.html && rm /dev/shm/tempemail.html'<enter> 'open message in firefox'
+
+# ==============================================================================
+# = theme                                                                      =
+# ==============================================================================
+# Color Settings
+#color hdrdefault white default
+#color attachment white default
+#
+#color header default default "From: "
+#color header default default "Subject: "
+#color header default default "Date: "
+#
+#color quoted white default
+#color quoted1 white default
+#color quoted2 white default
+#color quoted3 white default
+#
+#color error      white default        # error messages
+#color message    white default        # message  informational messages
+#color indicator  blue default        # indicator for the "current message"
+#color status     white default        # status lines in the folder index sed for the mini-help line
+#color tree       white default        # the "tree" display of threads within the folder index
+#color search     white default        # search matches found with search within the internal pager
+#color markers    white default        # The markers indicate a wrapped line hen showing messages with looong lines
+#
+#color index     white default  '~O'
+#color index     default default  '~N'
+#color index     red default  '~F'    # Flagged Messages are important!
+#color index     white default  '~D'            # Deleted Mails - use dark color as these are already "dealt with"
+#
+#
+# ==============================================================================
+#  pgp/gpg
+# ==============================================================================
+
+set pgp_decode_command="gpg %?p?--passphrase-fd 0? --no-verbose --batch --output - %f"
+set pgp_verify_command="gpg --no-verbose --batch --output - --verify %s %f"
+set pgp_decrypt_command="gpg --passphrase-fd 0 --no-verbose --batch --output - %f"
+set pgp_sign_command="gpg --no-verbose --batch --output - --passphrase-fd 0 --armor --detach-sign --textmode %?a?-u %a? %f"
+set pgp_clearsign_command="gpg --no-verbose --batch --output - --passphrase-fd 0 --armor --textmode --clearsign %?a?-u %a? %f"
+set pgp_encrypt_only_command="pgpewrap gpg --batch --quiet --no-verbose --output - --encrypt --textmode --armor --always-trust --encrypt-to 0x67FE44BE -- -r %r -- %f"
+set pgp_encrypt_sign_command="pgpewrap gpg --passphrase-fd 0 --batch --quiet --no-verbose --textmode --output - --encrypt --sign %?a?-u %a? --armor --always-trust --encrypt-to 0x67FE44BE -r %r -- %f"
+set pgp_import_command="gpg --no-verbose --import -v %f"
+set pgp_export_command="gpg --no-verbose --export --armor %r"
+set pgp_verify_key_command="gpg --no-verbose --batch --fingerprint --check-sigs %r"
+set pgp_list_pubring_command="gpg --no-verbose --batch --with-colons --list-keys %r" 
+set pgp_list_secring_command="gpg --no-verbose --batch --with-colons --list-secret-keys %r" 
+set pgp_autosign=yes
+set pgp_replyencrypt=yes
+set pgp_good_sign="^gpg: Good signature from"
+
+message-hook '!(~g|~G) ~b"^-----BEGIN\ PGP\ (SIGNED\ )?MESSAGE"' "exec check-traditional-pgp"

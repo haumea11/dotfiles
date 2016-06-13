@@ -1,0 +1,30 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=BTNpVFAAm/NnGapWMXf4AD+WkiU9qomnhfjFFXal5ok=;
+        b=dfylbM1ac1Fco5iP5QOAwBcgiIurMDcT5cuz0S3E0I9ySaEVVwleJocakkdKWbpveA
+         pFARq8EbkordFoB3Xz4c49RbbDRS6FdKtsZv2/JkQdZZKvmZtFoLrAfzNp/KSnBWuxXV
+         EsH0dNtclvdo0UTZyK93cFojn8YSpw80zbXF2GWpVYAmwgzdcfuQxs9J/Fo2m9Qe+Bic
+         lI/QWJghi3SrQe95drO5yyDHXvLUGV0Cqc04BpUFAQVftb1UHlIneg5bWGy/H+yzwsXO
+         0rTqNfMESoPqCK5i/Z5w21Syos807OY/+NkNG4EwIffCYJwe0Hvz0W7yxPZi2SlI++2n
+         yTGQ==
+X-Received: by 10.50.143.101 with SMTP id sd5mr17506604igb.44.1437998139250;
+        Mon, 27 Jul 2015 04:55:39 -0700 (PDT)
+Message-ID: <55B61C38.9090608@gmail.com>
+Date: Mon, 27 Jul 2015 07:55:36 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: Pete Markiewicz <pete.markiewicz@gmail.com>, 
+ John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: nice
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+http://www.theregister.co.uk/2013/09/05/nsa_gchq_ssl_reports/
+-- 
+Shannon Markiewicz, Ph.D.

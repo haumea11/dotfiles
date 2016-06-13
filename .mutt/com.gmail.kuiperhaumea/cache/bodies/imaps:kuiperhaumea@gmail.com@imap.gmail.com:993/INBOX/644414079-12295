@@ -1,0 +1,214 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1187451oid;
+        Sun, 12 Jul 2015 16:03:32 -0700 (PDT)
+X-Received: by 10.70.94.42 with SMTP id cz10mr35972047pdb.92.1436742212512;
+        Sun, 12 Jul 2015 16:03:32 -0700 (PDT)
+Return-Path: <3Q_KiVREKDGYRSVITPc+JIIHTVSbcKSSKPI.GSQOYMTIVLEYQIEKQEMP.GSQ@feedburner.bounces.google.com>
+Received: from mail-pd0-x246.google.com (mail-pd0-x246.google.com. [2607:f8b0:400e:c02::246])
+        by mx.google.com with ESMTPS id iu9si21946331pbc.77.2015.07.12.16.03.32
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 12 Jul 2015 16:03:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3Q_KiVREKDGYRSVITPc+JIIHTVSbcKSSKPI.GSQOYMTIVLEYQIEKQEMP.GSQ@feedburner.bounces.google.com designates 2607:f8b0:400e:c02::246 as permitted sender) client-ip=2607:f8b0:400e:c02::246;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3Q_KiVREKDGYRSVITPc+JIIHTVSbcKSSKPI.GSQOYMTIVLEYQIEKQEMP.GSQ@feedburner.bounces.google.com designates 2607:f8b0:400e:c02::246 as permitted sender) smtp.mail=3Q_KiVREKDGYRSVITPc+JIIHTVSbcKSSKPI.GSQOYMTIVLEYQIEKQEMP.GSQ@feedburner.bounces.google.com;
+       dkim=pass header.i=@google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=google.com
+Received: by mail-pd0-x246.google.com with SMTP id o5so233699872pdq.0
+        for <kuiperhaumea@gmail.com>; Sun, 12 Jul 2015 16:03:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:sender:precedence:message-id:date:subject
+         :from:to:content-type;
+        bh=Z4Y7AOl9RBlHRkmwr+8YAMZkA2AnoXKKJIBcQDYQfAE=;
+        b=L0e3Oxy9UFgg+kR41jpLBneZc6qW1vFxpLNnZ89M4m1aVEF0O06aPLiuAqDvYO1dqJ
+         6Z0Al4rplW5HkfTRx+kMXoLvPmcKjzKs4VnMkSvAHlFGaCcWJRD0OQPWUPlTUxS+OaZg
+         q6MPit9Ix+aS005NykNXqaGKh6G1c8PZJ3FXDxK1V2WZmH4G2jesah9bAR/e2covI/kR
+         fM4ifUVmLL+amHdOKDt1KntHEclPwvV/jEbyh7rzwTEAMKABZHZrNVynWVjXKLnCK4Gc
+         KaD+YU68kzIhpdWNKrTU59+oCREtaSBWTU7UWN+ArbXOu9HVYhXEat+IxXNxBZlCRSwL
+         h+QA==
+MIME-Version: 1.0
+X-Received: by 10.66.66.201 with SMTP id h9mt55129822pat.13.1436742211645;
+ Sun, 12 Jul 2015 16:03:31 -0700 (PDT)
+Reply-To: Sandra and Woo <novil@gmx.de>
+Sender: noreply+feedproxy@google.com
+Precedence: bulk
+Message-ID: <001a1136368028b8b4051ab59d51@google.com>
+Date: Sun, 12 Jul 2015 23:03:31 +0000
+Subject: Sandra and Woo: [0700] Grown-Up Talk
+From: Sandra and Woo <noreply+feedproxy@google.com>
+To: kuiperhaumea@gmail.com
+Content-Type: multipart/alternative; boundary=001a113636802c26d3051ab59d96
+
+--001a113636802c26d3051ab59d96
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U2FuZHJhIGFuZCBXb28NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vLw0KWzA3MDBdIEdyb3duLVVwIFRhbGsNCg0KUG9zdGVkOiAxMiBKdWwgMjAxNSAwMzowMCBQ
+TSBQRFQNCmh0dHA6Ly9mZWVkcHJveHkuZ29vZ2xlLmNvbS9+ci9zYW5kcmFhbmR3b28vfjMvUVBJ
+THh4NXFFbUkvP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWlsDQoNCg0KDQpN
+YWxlIGNvbGxlYWd1ZTogSSBoZWFyZCB0aGF0IFJhaW5ib3cgRGFzaCBtdXN0IHNhdmUgQ2xvdWRz
+ZGFsZSBmcm9tIGEgIA0KaHVycmljYW5lIGluIHRoZSBuZXh0IE15IExpdHRsZSBQb255IGVwaXNv
+ZGUuDQpGZW1hbGUgY29sbGVhZ3VlOiBDLW8tby1vLWwhDQoNCg0KRmVtYWxlIGNvbGxlYWd1ZTog
+UGF0cmljaWHigJlzIGRhdGluZyBDYXJsIG5vdy4gQnV0IFJhY2hlbCBzdGlsbCBiZWxpZXZlcyAg
+DQpzaGXigJlzIHNlZWluZyBIYXJvbGQhDQpGZW1hbGUgY29sbGVhZ3VlOiBPaC4gTXkuIEdhd2Qh
+DQoNCg0KTWFsZSBjb2xsZWFndWU6IEp1c3QgQ2F1c2UgMyB3aWxsIGNvbWUgb3V0IG9uIERlY2Vt
+YmVyIDEuDQpNYWxlIGNvbGxlYWd1ZTogQXdlc29tZSEgSSBjYW7igJl0IHdhaXQgdG8gYmxvdyBl
+dmVyeXRoaW5nIHVwIGFnYWluIQ0KDQoNCll1bmE6IEkgd2lzaCBJIHdlcmUgZ3Jvd24tdXAuIE15
+IHN0dXBpZCBjbGFzc21hdGVzIG5ldmVyIHdhbnQgdG8gdGFsayB0byBtZSAgDQphYm91dCBuZXVy
+YWwgbmV0d29ya3MgYW5kIGRlZXAgbGVhcm5pbmcgYXJjaGl0ZWN0dXJlcyENCg0KDQoNCg0KDQoN
+Ci0tDQpZb3UgYXJlIHN1YnNjcmliZWQgdG8gZW1haWwgdXBkYXRlcyBmcm9tICJTYW5kcmEgYW5k
+IFdvby4iDQpUbyBzdG9wIHJlY2VpdmluZyB0aGVzZSBlbWFpbHMsIHlvdSBtYXkgdW5zdWJzY3Jp
+YmUgbm93OiAgDQpodHRwczovL2ZlZWRidXJuZXIuZ29vZ2xlLmNvbS9mYi9hL21haWx1bnN1YnNj
+cmliZT9rPXlCQ2c4R2NreVBYOE1OLTRLUUwwbkIyVU9xOA0KDQpFbWFpbCBkZWxpdmVyeSBwb3dl
+cmVkIGJ5IEdvb2dsZS4NCkdvb2dsZSBJbmMuLCAxNjAwIEFtcGhpdGhlYXRyZSBQYXJrd2F5LCBN
+b3VudGFpbiBWaWV3LCBDQSA5NDA0MywgVW5pdGVkICANClN0YXRlcw0KDQo=
+--001a113636802c26d3051ab59d96
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>Sandra and Woo</title>
+</head>
+<body>
+<style type=3D"text/css">
+
+                        h1 a:hover {background-color:#888;color:#fff ! impo=
+rtant;}
+
+                        div#emailbody table#itemcontentlist tr td div ul {
+                                        list-style-type:square;
+                                        padding-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div block=
+quote {
+                                padding-left:6px;
+                                border-left: 6px solid #dadada;
+                                margin-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div li {
+                                margin-bottom:1em;
+                                margin-left:1em;
+                        }
+
+
+                        table#itemcontentlist tr td a:link, table#itemconte=
+ntlist tr td a:visited, table#itemcontentlist tr td a:active, ul#summarylis=
+t li a {
+                                color:#000099;
+                                font-weight:bold;
+                                text-decoration:none;
+                        }      =20
+
+                        img {border:none;}
+
+
+                </style>
+<div xmlns=3D"http://www.w3.org/1999/xhtml" id=3D"emailbody" style=3D"margi=
+n:0 2em;font-family:Georgia,Helvetica,Arial,Sans-Serif;line-height:140%;fon=
+t-size:13px;color:#000000;">
+<table style=3D"border:0;padding:0;margin:0;width:100%">
+<tr>
+<td style=3D"vertical-align:top" width=3D"99%">
+<h1 style=3D"margin:0;padding-bottom:6px;">
+<a style=3D"color:#888;font-size:22px;font-family:Arial, Helvetica, sans-se=
+rif;font-weight:normal;text-decoration:none;" href=3D"http://www.sandraandw=
+oo.com" title=3D"(http://www.sandraandwoo.com)">Sandra and Woo: [0700] Grow=
+n-Up Talk</a>
+</h1>
+</td>
+<td width=3D"1%" />
+</tr>
+</table>
+<hr style=3D"border:1px solid #ccc;padding:0;margin:0" />
+<table id=3D"itemcontentlist">
+<tr xmlns=3D"">
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:1=
+8px;" href=3D"http://feedproxy.google.com/~r/sandraandwoo/~3/QPILxx5qEmI/?u=
+tm_source=3Dfeedburner&utm_medium=3Demail">[0700] Grown-Up Talk</a>
+</p>
+<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-family:Georgi=
+a,Helvetica,Arial,Sans-Serif;line-height:140%;font-size:13px;">
+<span>Posted:</span> 12 Jul 2015 03:00 PM PDT</p>
+<div style=3D"margin:0;font-family:Georgia,Helvetica,Arial,Sans-Serif;line-=
+height:140%;font-size:13px;color:#000000;"><blockquote class=3D"transcript"=
+>
+<ul>
+<li><strong>Male colleague:</strong> I heard that Rainbow Dash must save Cl=
+oudsdale from a hurricane in the next My Little Pony episode.</li>
+<li><strong>Female colleague:</strong> C-o-o-o-l!</li>
+</ul>
+<ul>
+<li><strong>Female colleague:</strong> Patricia=E2=80=99s dating Carl now. =
+But Rachel still believes she=E2=80=99s seeing Harold!</li>
+<li><strong>Female colleague:</strong> Oh. My. Gawd!</li>
+</ul>
+<ul>
+<li><strong>Male colleague:</strong> Just Cause 3 will come out on December=
+ 1.</li>
+<li><strong>Male colleague:</strong> Awesome! I can=E2=80=99t wait to blow =
+everything up again!</li>
+</ul>
+<ul>
+<li><strong>Yuna:</strong> I wish I were grown-up. My stupid classmates nev=
+er want to talk to me about neural networks and deep learning architectures=
+!</li>
+</ul>
+</blockquote>
+<div class=3D"feedflare">
+<a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3DQPILxx5qEmI:L3X=
+Zi4dd9LE:yIl2AUoC8zA"><img src=3D"http://feeds.feedburner.com/~ff/sandraand=
+woo?d=3DyIl2AUoC8zA" border=3D"0"></img></a> <a href=3D"http://feeds.feedbu=
+rner.com/~ff/sandraandwoo?a=3DQPILxx5qEmI:L3XZi4dd9LE:D7DqB2pKExk"><img src=
+=3D"http://feeds.feedburner.com/~ff/sandraandwoo?i=3DQPILxx5qEmI:L3XZi4dd9L=
+E:D7DqB2pKExk" border=3D"0"></img></a> <a href=3D"http://feeds.feedburner.c=
+om/~ff/sandraandwoo?a=3DQPILxx5qEmI:L3XZi4dd9LE:qj6IDK7rITs"><img src=3D"ht=
+tp://feeds.feedburner.com/~ff/sandraandwoo?d=3Dqj6IDK7rITs" border=3D"0"></=
+img></a> <a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3DQPILxx=
+5qEmI:L3XZi4dd9LE:gIN9vFwOqvQ"><img src=3D"http://feeds.feedburner.com/~ff/=
+sandraandwoo?i=3DQPILxx5qEmI:L3XZi4dd9LE:gIN9vFwOqvQ" border=3D"0"></img></=
+a> <a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3DQPILxx5qEmI:=
+L3XZi4dd9LE:I9og5sOYxJI"><img src=3D"http://feeds.feedburner.com/~ff/sandra=
+andwoo?d=3DI9og5sOYxJI" border=3D"0"></img></a> <a href=3D"http://feeds.fee=
+dburner.com/~ff/sandraandwoo?a=3DQPILxx5qEmI:L3XZi4dd9LE:cGdyc7Q-1BI"><img =
+src=3D"http://feeds.feedburner.com/~ff/sandraandwoo?d=3DcGdyc7Q-1BI" border=
+=3D"0"></img></a>
+</div><img src=3D"http://feeds.feedburner.com/~r/sandraandwoo/~4/QPILxx5qEm=
+I?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=
+=3D""/></div>
+</td>
+</tr>
+</table>
+<table style=3D"border-top:1px solid #999;padding-top:4px;margin-top:1.5em;=
+width:100%" id=3D"footer">
+<tr>
+<td style=3D"text-align:left;font-family:Helvetica,Arial,Sans-Serif;font-si=
+ze:11px;margin:0 6px 1.2em 0;color:#333;">You are subscribed to email updat=
+es from <a href=3D"http://www.sandraandwoo.com">Sandra and Woo</a>
+<br />To stop receiving these emails, you may <a href=3D"https://feedburner=
+.google.com/fb/a/mailunsubscribe?k=3DyBCg8GckyPX8MN-4KQL0nB2UOq8">unsubscri=
+be now</a>.</td>
+<td style=3D"font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0=
+ 6px 1.2em 0;color:#333;text-align:right;vertical-align:top">Email delivery=
+ powered by Google</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"text-align:left;font-family:Helvetica,Arial,Sans=
+-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333;">Google Inc., 1600 A=
+mphitheatre Parkway, Mountain View, CA 94043, United States</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
+
+--001a113636802c26d3051ab59d96--

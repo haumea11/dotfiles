@@ -1,0 +1,217 @@
+Return-Path: <opensource-announce-bounces@mailman.cse.ohio-state.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+Authentication-Results: spf=none (sender IP is 164.107.81.218)
+ smtp.mailfrom=mailman.cse.ohio-state.edu; airmail.cc; dkim=none (message not
+ signed) header.d=none;
+Received-SPF: None (protection.outlook.com: mailman.cse.ohio-state.edu does
+ not designate permitted sender hosts)
+Authentication-Results: spf=softfail (sender IP is 164.107.81.48)
+	smtp.mailfrom=buckeyemail.osu.edu; mailman.cse.ohio-state.edu; dkim=none
+	(message not signed) header.d=none;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+	buckeyemail.osu.edu discourages use of 164.107.81.48 as permitted
+	sender)
+Authentication-Results: spf=pass (sender IP is 157.56.110.119)
+	smtp.mailfrom=buckeyemail.osu.edu; cse.ohio-state.edu;
+	dkim=none (message not
+	signed) header.d=none; cse.ohio-state.edu;
+	dmarc=bestguesspass action=none
+	header.from=buckeyemail.osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of buckeyemail.osu.edu
+	designates 157.56.110.119 as permitted sender)
+	receiver=protection.outlook.com; client-ip=157.56.110.119;
+	helo=na01-bn1-obe.outbound.protection.outlook.com;
+From: "Gladman, Eli" <gladman.23@buckeyemail.osu.edu>
+To: "opensource-announce@cse.ohio-state.edu"
+	<opensource-announce@cse.ohio-state.edu>
+Thread-Topic: First Meeting of the Semester
+Thread-Index: AQHQ32Dy+o1HfLSvzkikcQE1FPUuOA==
+Date: Tue, 25 Aug 2015 18:07:47 +0000
+Message-ID: <BY2PR01MB53979BAAA2341F77E3C77CBCB610@BY2PR01MB539.prod.exchangelabs.com>
+References: <BY2PR01MB539F9F872EEFE4E1FC35E3BCB610@BY2PR01MB539.prod.exchangelabs.com>
+In-Reply-To: <BY2PR01MB539F9F872EEFE4E1FC35E3BCB610@BY2PR01MB539.prod.exchangelabs.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+	smtp.mailfrom=gladman.23@buckeyemail.osu.edu; 
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BY2PR01MB538;
+	5:CxZLLnNOVjUOPKFzci14Oziv/G00H/bsmi5qkgf0hXPVinst3+Y03ssY1H+Zw71drBk57D0fG5AEzDd+EcH4ynmjIxfBMXhLgOmMEXhBx07GOjL3VWSzPMffM8YuaLDh/ehIzRMFKwvtnIzrdEi+/g==;
+	24:mnRNIJA13lSxV9Oa0uL/mcUMY2aUdKZcdU6yPc0LTQdIO9S6/ozggXJIQUr3PTCEhuog+EwULiwvtBNo9XpuIV1VDuyDRr//YUYmFlopTvY=;
+	20:lOyyx/OKnZtaQnzOPlfxUl69eO1roy2RgQys91vdbrgPqJ6fMDe+pH/hmCPzPspObjGpN175siKJL4tR0CExHgw3i0FxSnxhrACAzMla1gJUlg6GoUNN8+9Tc3fMM0nKiSKFqAtb5VhblY+I4yFGBvVhFvO9affV2S1euWFv3Ac=
+x-microsoft-antispam: UriScan:; BCL:0; PCL:0; RULEID:; SRVR:BY2PR01MB538;
+	UriScan:; BCL:0; PCL:0; RULEID:; SRVR:BY2FFO11HUB003; UriScan:;	BCL:0; PCL:0;
+ RULEID:; SRVR:BN1BFFO11HUB027;
+ UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BL2FFO11HUB045;
+X-Microsoft-Antispam-PRVS:
+	<BL2FFO11HUB045587416047B5A11D67DCB9C610@BL2FFO11HUB045.protection.gbl>
+x-exchange-antispam-report-test: UriScan:;UriScan:;UriScan:;UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0; PCL:0;
+	RULEID:(5005006)(8121501046)(3002001); SRVR:BY2PR01MB538; BCL:0;	PCL:0;
+ RULEID:; SRVR:BY2PR01MB538; BCL:0; PCL:0;
+	RULEID:(601004)(8121501046)(3002001); SRVR:BY2FFO11HUB003; BCL:0;	PCL:0;
+ RULEID:; SRVR:BY2FFO11HUB003; BCL:0; PCL:0;
+	RULEID:(601004)(8121501046)(3002001); SRVR:BN1BFFO11HUB027;	BCL:0; PCL:0;
+ RULEID:; SRVR:BN1BFFO11HUB027;
+ BCL:0;PCL:0;RULEID:(601004)(5005006)(8121501046)(3002001)(1506024004)(1506023004);SRVR:BL2FFO11HUB045;BCL:0;PCL:0;RULEID:;SRVR:BL2FFO11HUB045;
+x-forefront-prvs: 06793E740F
+X-Forefront-Antispam-Report-Untrusted: SFV:NSPM;
+	SFS:(10019020)(6009001)(199003)(53754006)(189002)(46034005)(479174004)(77096005)(77156002)(5001960100002)(229853001)(64706001)(107886002)(40100003)(5002640100001)(2501003)(89122001)(5003600100002)(5007970100001)(75432002)(110136002)(105586002)(46102003)(122556002)(106116001)(33656002)(5004730100002)(97736004)(68736005)(2900100001)(2950100001)(92566002)(62966003)(106356001)(50986999)(2656002)(102836002)(66066001)(2351001)(101416001)(2171001)(88552001)(5001920100001)(189998001)(74316001)(5001860100001)(10400500002)(5001830100001)(54356999)(87936001)(86362001)(4001540100001)(81156007)(76176999)(450100001)(7059030);
+	DIR:OUT; SFP:1102; SCL:1; SRVR:BY2PR01MB538;
+	H:BY2PR01MB539.prod.exchangelabs.com; FPR:; SPF:None;
+	PTR:InfoNoRecords; A:1; MX:1; LANG:en; 
+received-spf: None (protection.outlook.com: buckeyemail.osu.edu does not
+	designate permitted sender hosts)
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+MIME-Version: 1.0
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB538
+X-EOPAttributedMessage: 2
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BY2FFO11FD021.protection.gbl
+X-MS-Exchange-Transport-CrossTenantHeadersPromoted: BY2FFO11FD021.protection.gbl
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BY2FFO11FD021;
+	1:No+I8JiZo2w2RfJzhisra6key+Ik/3qlbFlx4CUmwQmpnkpxEAVmbb0ySjFjtI5kVkiW9KkRk9hNm+1hSslUJE2B2YzeWc1sbH8TOw+GjOEEajg6OHTnH0SHfCqhx01CPeIirITeNPrJJOPZqzoQUuq7vmxLEXkVYWLSVrcLyXgJETMkyTKvQRzEtvABczvrf2MvGhkzy8NIvZrTmObGeH8JRXR3tbVCareZ+R1/3R4f7V5njNZw4ms9Urplq+Wl3LmRT5RkuHPEQlDEamteprn5EHlWpvoKjUqvHVG05/4tveLUhPzumwTBk3TkgrKHxOkhc7YEej6z3br2FoM9HQO7stC99P/vcziT4iCIyelSYRIENmXUdE8yCDRnMajl
+X-Forefront-Antispam-Report-Untrusted: CIP:157.56.110.119; CTRY:US; IPV:NLI;
+	EFV:NLI; SFV:NSPM;
+	SFS:(6009001)(2980300002)(438002)(3040300001)(46034005)(199003)(53754006)(479174004)(189002)(2501003)(2900100001)(5001860100001)(229853001)(47776003)(102836002)(77156002)(89122001)(10400500002)(75432002)(2950100001)(87836001)(5003600100002)(5004730100002)(450100001)(88552001)(50986999)(86362001)(77096005)(62966003)(189998001)(92566002)(106466001)(50466002)(110136002)(107886002)(40100003)(2351001)(66066001)(76176999)(74316001)(4001540100001)(33656002)(2171001)(6806004)(122556002)(5001830100001)(6070500001)(23746002)(106116001)(64706001)(46102003)(2656002)(5001970100001)(22756005)(54356999)(7059030);
+	DIR:INB; SFP:; SCL:1; SRVR:BY2FFO11HUB003;
+	H:na01-bn1-obe.outbound.protection.outlook.com; FPR:; SPF:Pass;
+	PTR:mail-bn1on0119.outbound.protection.outlook.com; A:1; MX:1;
+	LANG:en; 
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BY2FFO11HUB003;
+	2:36r/XWnDStiAO0z69O5jdqvQaioq6SvREJMzBl6xnxNTJZLLGR5n/p81rtJ6O0IDJLvpxd1lNVj87Jqi2WZuiRGPvyt3Z/6DzuG25x/TzJU8TsPzIrVVMNy04r1kVf8tpXiPCh2C84m/3/cSttgHDj0eMQgeGcwvAwsI5KVnKHQ=;
+	3:BHO5hMk9quPP8zr/XDPwWjSCyoP9uu0iK5QGcYSrS9bEZLtFxNWPDgEyqH3cSOr9+/3iPG6zEkaIZ7wo4IrwjMybWckfMrsV3dRkAYPozLui3l+CB4+/8ZNKp00r6fm/R6qxHvqqdXAXZi7rx22uZlYn7tpA5maVxuvcDlEpGDNQvD5Pb8sodZMxrb1qhDX1VZZS4ELEef1zNd66fzMGpbHLDNPx9xbxnntfR0V9cCHvqrEN86xKIKPjxcT4TeAS;
+	25:GeqGzu2A/VgphGjVHxHJ8AxGTSDo1qo4b0b7GZ65K2mvuzeD2cyDtBpEJ80eYZEgaSNoOggmV6WffECFSnF3DoBgPXM1wapbVPZZhL0pzTrMY6Q1No46Ke6xIohY2SqZ5TJKxaSDpBIIo2Hzntkg6hZhc6G3z8ClduIgB3G/dCosiFxTX9yueHtBnYcN6CAG7l3AtNEFE8HRQP2jjR5HYMbFAO85Y/0tvzW8hQXzb4kHHCBEVdtT9M2HVmgW5F76kt2b1RJSef9trwU2C20VJw==
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BY2FFO11HUB003;
+	20:mXYrH6UKZYDXfOJD3jWbGRLPkaRIvE2m4F62R2OifF9F3OHDEIGmeaks8vYakId82kQIzaAjQBgEmVUNbx8hQJTC3RnHnQwU2Y+408+7wcfiOJT9zboObLbqRQR68EetMwMANleug860SVbLfBgvEK7B4mwHWNmBMWBPtQKXCHclJjGfjWnSqTeJwtZD5nSGxxBmHA8m02BqXgIf0oV6mcWlVysVE7aphGkyaqDh2fZfo+XFsLLik7wxfwWFdvVo/6Vf0kCasc2TQNsb2+TVmPGdBL8qyNWoH4WdimtEhWjxq/nwbKHYeAWWGL91mBnkVV30DPJ4+gM7Pu33+dLzqXm60hpSh2jbzWpXh0MCMD3wHT6HnvjSqwd5UBF/d6dJYX4/J+1+rzFxsO8Kflj61cmDYTeBaWUWD5CjiBXPa7M7pA3a5BbUl8Z1AT9liY+mgzlXRKYmyH3yZNxP5Z2p2YRQd5b2GvPXob8XCqYaIviqp9ylOWyUOkG6uzUn26iz;
+	4:j9cP+DoSRMew6vsEgL74T0Ewc6ISBMRqEtOFUFVQzp3+K92YuH6vW7qCecqEo9T5G1O/K07Ko4O7IWNDe1yA3ho3EctvSRPD63jHk9ePUNXmEtD+ON2G/U9bIAqCemiyKKKiE6ON2tugCvsevSRzmmhGEV5/RWdbC7VjyMOV0cgUR7jFoFVGXXW6DOy9gareHJSuRHXQe4KV6YASQ2ge+mN/G1gQabrdWRXqKGV4GSNgVq0SPv8o+dhHLLlgKnw/f0GmLuswT4DEC8EK2Fu1ZzdvTPj5koGayC+ZexyiSnrA5V/UtD9WEG6NXC7b9m8V
+X-Microsoft-Exchange-Diagnostics-untrusted: =?Windows-1252?Q?1; BY2FFO11HUB003;
+	23:RO8pF9AaEuVMWl8ohLMTrS2KPmkW88ioPMFZ?=
+	=?Windows-1252?Q?jm7ABubF0pOAFBi7rN9nASLay3pX8OHnwIw3op2YnrD4hyrBSmYZW7TW?=
+	=?Windows-1252?Q?iQa/UV0zx3GPIgkWdTxBlNlooxBy2Kc1xHSVHxVqgOjKkCyPtGMNXM6z?=
+	=?Windows-1252?Q?AUYGlDxiDCZ50cUohtoAIQAkDzjIWAM5J2sFB3cF8P3J7yoNBUFfzPAw?=
+	=?Windows-1252?Q?mfDODoGlISPifWwPjF/Di5MMXUbgwSwzBOnolD6golX/dm+omafuMZn4?=
+	=?Windows-1252?Q?ZFmMzUxlSRaE9SuCCQZeSXswDzKwFGc2AfZtTs6jS3e4qFbSe7Z7fdaL?=
+	=?Windows-1252?Q?wEIZnZGDRtRsBj18FNEd+sjA0MzjK2CDkNXEjMoPSFkQVmhXjDR8lKR0?=
+	=?Windows-1252?Q?FBumx3VNokZULsnuu+GIU6m/HhYAfi65KIwisH9RMeBRyqYZ9ASzPGOy?=
+	=?Windows-1252?Q?m5o+INkN8DhWTRj6HY9gZosB9KwnwcUXPP48jbJ2unZS06xjwKH8HTRw?=
+	=?Windows-1252?Q?M6rekVdVKgogXt74b36NkUwVRERHjz2Q/YWlyAEDRXSidJruyn0BPXEJ?=
+	=?Windows-1252?Q?ivEbxF7rWJkl+3m57cFXaExKN/P7BRwwZkMJxhTaCtel1wkvccz/zGFE?=
+	=?Windows-1252?Q?zBEUJROkpq9C9GHxFt6ep6vM5Miwlfgft2/hfqOyJd0S5g/T0dme4lX4?=
+	=?Windows-1252?Q?eqqA1nKpbsOmU26iKPzGzfzrlxg/XNbTnkLZ7AnqPXSdkC8/mgdtO1cb?=
+	=?Windows-1252?Q?a/MJcDLduMkFRrmCL4B1hcPnLlLMhEkSYXPGOe2ELTrbtY3hu+67rZEX?=
+	=?Windows-1252?Q?UQHrXPsJy7Z09Xptp49Wpdhqas4V9sXxyJsbUmORwQw7bIukcVsj2XjZ?=
+	=?Windows-1252?Q?Dg9mT5cK/CTL/OFwRy7P8pZo0/zVkhn9MqI2gWqiZlLPjgTbxLwkIc2K?=
+	=?Windows-1252?Q?h1pXlO9bOXxy6VI8OgZ03C+6uCwt8nL9g6RQx/7NPTMLJv7lMa53Mjib?=
+	=?Windows-1252?Q?jrT3b1hdtUhDKH7llDGD7js9OpUJ+0SJdhhY294lNYZs+ixl5zxpzc0x?=
+	=?Windows-1252?Q?Rbf/g9kvbY+xjjCPKUqe+oWoAHylqFVW3P4XZzpB3Pb6uBX3FtHLtFem?=
+	=?Windows-1252?Q?tZLFCDSv2qdLx8mPIMWWcOSrqDMD//gEoTkg9qr76TpfkWLvVWogd0fB?=
+	=?Windows-1252?Q?5jVOQwjnglzLJ8CecL3jXE+eL/yI0quevYbsurLjWqyCrzMjnB3cRK2s?=
+	=?Windows-1252?Q?ge2tlJsZLGbVlCYxqrCxKPvYhphEJ0CMXyO5ymlp/ZQucntd845D93Sf?=
+	=?Windows-1252?Q?j0CFQprEFSZHdfMQdj1BEvVx/XcjuIDHPrwKgnD5aoMQMX1qpkIFo136?=
+	=?Windows-1252?Q?fM6tUN0mrKJhEsk5iD/X3RDsT4WpS0yF9FsGdmJhFVhpxbaex1pDy0a4?=
+	=?Windows-1252?Q?IoMBIzn0OcbDNysUmvs1qG22uawaERy+bEatRM43VduwBqo4AdxoxB7g?=
+	=?Windows-1252?Q?ErtZidMFNgRXnhbqsd3Q+2dV8DOejPSB+B2ky0eAUc2Z8dT3TgUD72TJ?=
+	=?Windows-1252?Q?lSJHS+68bQ95JWqQRmUssVuDs/3Q0Ijx+hRK?=
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BY2FFO11HUB003;
+	5:isDCN+++fQzNuSPZuWQmAUjcvFUhS20KHvggabMM83PxJQptlsy1dfdmrIav5mQVpWH8627fgKVQ4Yg+pgV3GaG4f2mYhH9avN/xMxtrPfqTxuhPmTsmt5LVpkG7tX6Ns+NKNGVyftw9H+zWTZxAzQ==;
+	24:CYVc8GimRAr7jwEGsA1C7OExRDoMimNXyeTFM1933QCzJo2EGvAbTsD9k+fzH6x4P/+fpa60O8+FB/V3n6tVckFqOs/uvRSGwBYApVlTQCk=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2FFO11HUB003
+x-header-sapphire: true
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BN1BFFO11FD003.protection.gbl
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BN1BFFO11FD003;
+	1:ZgMzy8iL3q0w1qMgmTF0b5/1ZbJbH/je3cdRhm5geqK/20xhSQK6msM9FlqGOH/+40aPnQ1+E9Nv20p8B0SRWVnptare071VHqBMGnLnffZ0B4tDQMxpbv15exIobad7mqoIksDGZ4/gto2fxO2XFmOkrzZ3vgglq3zmQ0XR7yoAjv8QnRf/4Evg5nJaWknuqW7X2l6AgvVRXtzIf5aaDzZWKtA7rc+Fwg9AjwTVYvmib8HhbWwxm+4U/3aEHXXT55ZUOYaU1e8ACn1dO3mFENawuqydr4pOLupa6bCLUPKRQq1dTnAbwJQFHM5UMpBr6yQy/u22p69R1lTSpR4sep8MwzDj7wNvOlOCF6S/ihOfkCrVB0I6u7S9Vo4TATpZ4t9gcHxho8adyP8lpYI0Nw==
+X-Forefront-Antispam-Report-Untrusted: CIP:164.107.81.48; CTRY:US; IPV:CAL;
+ IPV:NLI;	EFV:NLI; SFV:NSPM;
+	SFS:(6009001)(2980300002)(3050300001)(53754006)(199003)(189002)(46034005)(479174004)(10400500002)(106116001)(107886002)(5003600100002)(109096001)(229853001)(54356999)(50466002)(46102003)(75432002)(5001860100001)(4001540100001)(33656002)(88552001)(189998001)(50986999)(105596002)(2351001)(106466001)(26826002)(6070500001)(5001830100001)(74316001)(76176999)(89122001)(22756005)(2656002)(40100003)(102836002)(86362001)(2900100001)(77096005)(62966003)(66066001)(450100001)(122556002)(23746002)(110136002)(92566002)(77156002)(6806004)(21840400001)(2950100001)(2171001)(5004730100002)(47776003)(64706001)(87936001)(2501003);
+	DIR:INB; SFP:; SCL:1; SRVR:BN1BFFO11HUB027;	H:CIO-KRC-HT04.osuad.osu.edu;
+ FPR:; SPF:SoftFail;	PTR:cio-krc-ht04.osuad.osu.edu; A:1; MX:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BN1BFFO11HUB027;
+	2:rgfawEmnmCMpYPPnr6MQKEfrWqfka6j4/4Id6xCE30eqonlYXCgQxo+I4s8hOPH38XGBNDwWHUgdOJVJO5s+JK/Xh71l75Op+nBVuk+q9Mh66loYb+znVYt8QhLjruZM2XT5c+Xg9LDUmFNNxQ2KwtB5QSED/asQWEXsiwsse8U=;
+	3:iDlTABj363ZYlRcHeGI6iV1SBcfpUTdQEiuwTBkqNmAwwCgXDusvKGe5T/09BxloxB82dguGmKApHpnnUBywrCf+nCxnUZ1Ia8EIdAwnN8FX5D0ecXWJX5dRlE09449zQC5LTMlFv8RrULymvtrq9NCHa0TPpy/i12Z9FtLd5A7YFXzUFoJJ632/k6bx3JXDC3Kp6IJHKLWn63/On9WvnKEu5VvFSZsOTJNbdwBN14M=;
+	25:PR5UuZNNM7n3iZFE/BfZdoptrk7lb+sB6/Ugh6RK1IiWI9bMGlraXqZMBrzQ1Jk9CX4CIG+L6hPWPv/AEB7Q9jpaNZTBmPIVdIVdHOZdRmB2/zLKRNeyxl8zuYxTeWMROy56OnEhrtd6OqEiBTVzpSSL/eBnv0cQ5mep4H0QipVHK3Y9lDJXOWpsI94rfGDdFDaCQB/39WnraoJu17lyzkIPN4Ji1f3UxC+pEgqZuxdPa8NNOSsiaFm9KlcuFmSSxkmyJ9vINqgajigYl4zUsA==
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BN1BFFO11HUB027;
+	20:TuNfZlqUeF7hqwus/S/kzWqu1JBlRqYUCpD7baj46C0+DNYx1t/xLJSwpojS20TghpmbaZcVJEGJStolnzUkQ6UwRwTVMOE+/Qv1r8WdENzI1LQpf0WsAPF0o/Fh6UM3rkQQQsrJuw65Rb9vg0qBl4HpcWTC/fCRC37TVhYdZjduYj8y9ZiV6nDrCnmHEKzDUD/SZ+645053ym4Mx3M12jM8f3F6cKqo6bJ7EbLsM6KgTHWoNQ4K2BJePWC9IBws74ZTvOlYHvaQZBGoSDv+7Xk8h8dAoOMpv3f/HqIn/pxGGmWwnzCFiI5Kn5dvY0VZqnblpRKa6wE02M/DeuXsp5X6B6MoA1QhIvz57pvv4jJzz4yO+Y5dqLu6kFgqBKt+LRGCLESWAa61JPpI4F9gV4Krg6q5uoadJbsG6LBWBSsQ2152auKwQGnsCYgsUu1IMdGaC7JF1lbCa1/lrEK6GKl/T2LmsW/Md9RRyrJqKgXYwHCYjujg55N/FjNYNCG6;
+	4:ftwKJnvoBLG5VR/3gFE4j9I/4+qD0nK9jJvQS0VnHrcwqWuRwI0agtja3dC8DKsqskbnty5AJoEGgfdSlLZ0nSlkpcU+yUSXgvH1Os1hqr4g12P6evi/dolY9fqz6wCS1n8Rv/o0NaHFs/sBCLCpR2vS2bMa6iY/1Xrj0APe37+IqaJ2cmiUCfXPGU6/F/AyvFIoZKDPQkvMJg4qD9DzL39qqChrepWZcXylbp7Z7o3AW4ModUDvBKjmGDGdck3DkakRxJAo7BvAiW7OooFX/VlaJpeeYp4XTAM7mf82m08KOsYCPM1rKGz9GPEWuVE8
+X-Microsoft-Exchange-Diagnostics-untrusted: 1; BN1BFFO11HUB027;
+	23:1plG9fFNyKNhxjj7CI2U356Wm8dJUcgmS1hH+bmXyritCyPGNjSGLLVGtZ/b4e7B+eFT/E7zgfxy2L0QjduV1T78axIyU1p3tKfM82lzCpRh3U2/RAxiV99bgm6uwr96WbVcgfIZVMKjbfQvNu9STZS4HdnlvJVD75/Zr3EzdWgrEuWoHXA4K3UTnYonUjlw2zayts57QJsAUQp6mgSWbMSfBJfc29VSYGDSHWdtASXH/5sdhM/TaScnEIOLCX1wGHTQ2mLGk9LiZW0SImSnYqYwbaB9YfxBn3LLixKAIqXNRXBbv+KDLhJjdLrj8QsPxWdteKEmKJ8roTTW5CIyaOWlO5vL5ADPYS8GFmvyQJG4/Lq/wy2hymK0v+D4yygU9qnA05X+MyKMukpxUu4CRMyGo70onH29jGo7wsNJXdx71Tp2FoTkgo9GkowylD8Z1VBWq98iz8HJBky4Rt/yQ01I1Kv3uCaYvsG
+	=?Windows-1252?Q?+3T/lvyxd3Pr0AmNYChNnL3hAdHGHZU5i5aLX+jus6syI/C50+/Vo
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD043;1:5Wxrmrp06VyB9j6bEIQDF23AiG9yvmohv2mFZRTLCV3hdmLDfKMUJluVZ97kJOKlURdy53wmQo+L48sHSa3x3mPYpwI8SNWBSh+TXyfzY7edjVeNopZKZG2lCLiddy6L1PleDWfiuLRNuzQNlPTGcDK3s2SUJVfSIfdK1ARCRqPyYKIjoRtkTNQ+Cwpm9AKelwksQZideyoV91BZAw3wijf+OBNf4KEz7P0mBWYryWZ3XgvxGzmnLOiBsCshpQaSSqLDPvpYz1tsadQeXOfx5asx5rccwT5vBdy/b8TfQXvey3NVzZ55BqxaXytiuBu2kc56BuOIZ7zteIjr25vJ+8V0Y4vxy2cko8i6/xBPhLADvdl37zH41xHXsc3NzHh3rEH5KF7G0rKMrAMkvme6ew==
+X-Forefront-Antispam-Report:
+	CIP:164.107.81.218;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(6009001)(2980300002)(428002)(3050300001)(53754006)(199003)(189002)(479174004)(46034005)(189998001)(77156002)(102836002)(33656002)(2171001)(66066001)(21840400001)(122556002)(64706001)(62966003)(1720100001)(77096005)(575784001)(2950100001)(4001450100002)(87936001)(5007970100001)(15975445007)(2900100001)(40100003)(10400500002)(22756005)(960300001)(93346002)(2656002)(5003940100001)(47776003)(88552001)(110136002)(89122001)(6070500001)(50986999)(107886002)(4001540100001)(5001860100001)(2501003)(5003600100002)(46102003)(50466002)(101416001)(75432002)(2351001)(54356999)(92566002)(48376002)(74316001)(106116001)(5001830100001)(5004730100002)(6806004)(19580395003)(109096001)(19580405001)(105586002)(25636003)(76176999)(106466001)(25626001)(42882004);DIR:OUT;SFP:1102;SCL:1;SRVR:BL2FFO11HUB045;H:cio-tnc-pf04.osuad.osu.edu;FPR:;SPF:None;PTR:cio-tnc-pf04.osuad.osu.edu;A:1;MX:1;LANG:en;
+Content-Type: text/plain
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB045;2:Ndvhzl6J0zMGpZ4QJq2PQ1bXulvYuJLjA9M6c0+/s6M4BF/HOPYmLE940ElwgHu7oFdQryc6T5mdxdvGbcRQsuDJy9r4S5bbKZAdaCanW+Vytf7TeaKkb2+UYAeOFrnM+6fyOlgW9Y9eJQq3WWzBu3nMmgWiru5T+pdaUP3Fsa8=;3:iFA/+mcqyGTAizo+Mke4MhwhYoX4WT+WlMbhr/soS4C1lMo2r8ZxTFh9ktOrSuJNX4ANd8WAbcYdbU859VaAJD0aY/jKPK5001vOPvYBd9VRXg+3AT5PrkSppzgbVDNk/EJYq8/iXoUYg8Ez1eHBOhVx5dOG/YYw4KDI6Gyqi5NyxFiomlv0PbC/h7d227/rB84zipqAZ6MHrCR/6HYvNFvI/o3Rs9yHWVD6ax/ADLFjStDKp5IPfmo5ZIREwRyW;25:NPXY+rIBZw2mt8D8jzke4wce8hTh28qoNKM2qjYLxVan7UGlvEMMw/1zGE5OQFbM33wI7+A6K3HGgMwLTkGt4V3OJSw28V/UpRUiqDkPPDu9gBXcDRZ+M2W7fiJPx7XDzupvI2lPCvUDvFhG4/vEUchH427MXO/3lxXM1jh06r3TNpxVkFaO7TPBWtwAQzLDLE2WxSDFSV+QWXCQQANzDj0v4e4rvUkcFJWL+J4V8qJFCnchFn6RNf5mzoxJ/jSPtgMWwr7deabENn1HfsCF4g==
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB045;20:M+88EzsfyUOPtVqEIRK1va/MGVqZ6zbz4KdN0mi/lj3BJ06H/9SghhRsnSZY/2nQhmRTZOW2EiVAPP4cYn4XerWfHrwttnq9JfJrwGiBaifImttUxJgEz88igvuRgn7sERHONWgX696b8T6exT93OneHNj0Kx7sM2hZOBSLCqqYnxTc0t33dZUqa5P7k9O6/ut5Jm1rLwS14Dj0ft/3wb19nHO9Kt6ko2EyqeELYeLs512pgfjl6LNOf25Ttr53/vfXy08zsEpGCuoAOFhKOeGBrG6DsXR2RiC8M+caefLn7pH+Wfr9N4WTLn+YkpzJsAkvvTOJUbtjT+oj9rMmzohut1LWP4g/k6/P3PnWm19M+voz/KPO+IpAy8kmuOnbooS35ZrqS87HHQRxxvwOJ/byxbmXJaeyfZG3bDQRQv2SrSq2nHzBrN7nTTikSfeO+6Zb2JzcW+DJWI0rqIDEuv4jqHfwYupURrQ9nFoKL66qjc2l58QA6p3XXykBf+RXY;4:pyICjhrfTOkNbPxJqeXsrde9lqPWLKKIKtn61xtdE5V55+aigXN8WzFXu0cbfmamWqXHJItrHexBlm8YxIHMLvQ6DCRsCZtxwgZ5LSUL/NCsTShXd9c9WzKKCE/SSRHKEAFwyIcGw+hMVoFOMtLVlDq6kLMd++05usSiw6qEhj/EQci3fnZmof+qPdKlFzqiTnKRGc6c5qQ+NtEZ+OmcVgBdDS8brg4tu9N6URnb8xUvuKoTie7d170E7C51Bf1kkjfHUyQUwoILPeKljXakNZBKQIDkjjcMdzuSnv4ePRskM6TV/Y3ApxSzfiK9593qm8+Emy11b5hagyjMjGanoelCS0LuwdcFLRum2ifhtrSx4EIE2QVn+qrSyg4EucmV
+X-Forefront-PRVS: 06793E740F
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BL2FFO11HUB045;23:dZ7LmydkLP/8BY7Xapfuz6j5ajh76/J3jQcl+3cf?=
+ =?us-ascii?Q?h5O+QnC3fcQgPCiUTFaqtMrijIfwj5Na39ZBJ6THEyYaZpzD1OE4amGZ+EaW?=
+ =?us-ascii?Q?dG8KDnLYg6RXBnNju80Op//nq0CmocFqiNW0myj1cGm2Tb4t4qrxDDp0gF8u?=
+ =?us-ascii?Q?BeygsIWjIW51RYbDMn56yCrblaPAMsJBzcCAXGj8Q7LHUbZlGxbvQRXoUNVa?=
+ =?us-ascii?Q?9ZIQMaUC6cHcIKOlHK+a2pg/anOWdQJG2UnBMgvDWmBal0gC8ntnjAKi+Vbg?=
+ =?us-ascii?Q?ln9J11wWbh8pTZGiCxluS4Bdd3BH/Ang29NmNCqutXTK4DzWoFZVp/HGB53K?=
+ =?us-ascii?Q?cCQnx0Mp8JMbA/9H7vJS83BBcRx5NrMReh5+QmUZCcDAO7reUn0tZRaweoiM?=
+ =?us-ascii?Q?ySFzE41Wri/utRU9kGcPMjFJE4N1GW6ubol8ph7vsarUPw1gvLKrae+fZXIr?=
+ =?us-ascii?Q?vN07Y1NWiA5aw4Qs0ANoXT+FZx/iKEnky/U0J3vZoKZmHJdEQ/Ze2NZ/s1LD?=
+ =?us-ascii?Q?zG3wkmV/gTfD5wqxT/wYitv9l1L1sqtUZAp+LcCMAtTfgDdTGtFVxSo4TGdd?=
+ =?us-ascii?Q?f1CN2sllzwINjJzo5PL5XGR0TIG2P9+ZtEJhQDUSW6kB9/z77L3RCuDuyIQp?=
+ =?us-ascii?Q?SOT9G8osai2QloGN0wHVh6IMwOmehru+ndoe29iCKAUrmYvPMhN0/h4iZgyN?=
+ =?us-ascii?Q?YTTz5Es44YaNJ0m/uAQXptaFesrUQy4MyUTdTpaXO6kqXx+Dw0MzX3tw29Zv?=
+ =?us-ascii?Q?KrJk29W+z9v8pNABw+YRuW5lWKdiWBuW+FA432Y8AZnZJNCUECXaV41OAiYk?=
+ =?us-ascii?Q?QJOBRb1eVVqABSa4piD87Kd2BxIV5hclANKk2awifUOH72Pqmpel5kERkCH7?=
+ =?us-ascii?Q?2N4O1JBbHx6nyl1ltRZIZKjF2DGxlRhMZ2ITwoNV1BEQYnicFOwhaZxSc3BK?=
+ =?us-ascii?Q?uJ4sK0rHQK+PBg0AQjF9CSvhcBeFcrG8lxtAF3HEPfB/Fm0MrLZH7Kz8zjpB?=
+ =?us-ascii?Q?fyYHqSY67gnRPgQIGH7Mp6USImIqrLHCJ5h2oWoEA7rSfER0KDJf8MyxDAjF?=
+ =?us-ascii?Q?Y8F7EJo6uT8a8Iz16koNYmXesUthsIleNEmTSJjkAtDnqsk1S7GnfQptbjlM?=
+ =?us-ascii?Q?TsKIAwNUoLKxVs6VSfH3GLALT0rT6+j+7aUi59g9pVwopGqDEQHa/gViLlAP?=
+ =?us-ascii?Q?zEAvm2BdnCwm7I/7+HwWXsPwJ/2oFHnB2n1uu5ijv/sWSOCJaymWlK159Y/e?=
+ =?us-ascii?Q?z0hhcv1NjZoFA0tFVBmIjtn0JH53LPlBMZNOHidAp4XHzQQkOq3MTF/GleZh?=
+ =?us-ascii?Q?TSrpmkOWJAt4NXC0bLl7D6y83fVE/6jHXYM+p9LKIQMF0qdbX/kdTy+CMsIB?=
+ =?us-ascii?Q?sRJwnn6Ydm0gdwI8a4hCeXjgHo+Tp5aNZIcNPww1h1BtISpmJWmhwEbGiW7c?=
+ =?us-ascii?Q?8iLWwnKsM55T2JpTiIbfVA7F7sPLMbmJA35k3u3O736Qiave2wFIOlxltJMN?=
+ =?us-ascii?Q?6v/Svc+khQXLFEcq69Xj0upknOFUV2MfbwnQMbdoxxciXmV4WSrAAAP0ssKP?=
+ =?us-ascii?Q?rAzs29i+fnfBaD3mU5TNAeIwMs3f79nMXce9guJbT/+IsiGzeZM1x6637ZOu?=
+ =?us-ascii?Q?LosBiiRRp6xMQZQ0B8BTjpUA3nK8VCbdHcCkhDzCOu6iBhSVsF6n/OYLr3WI?=
+ =?us-ascii?Q?g5TvmRHUl9nY9LZGnU8Vp2qduzXRFol3UD1km6u14aIxRXHxt+o8w5SoBGSi?=
+ =?us-ascii?Q?IEp+wi4ueV3rDzdI84azxw0Q/iGQNQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB045;5:+3Itwsf/Z/nnWOtHsEtF0i/QvZjUTM0uqYxRjX8IDNr+pzsCbBovkqBw2Mlm+EswE/XceO75qbOmIzpY9bt5Iho0n4G6/X6vMVDkCA5NkPX2p2776JOxEdrMAVCHPV19JrgQ3YDImp2joOcu9gnEkQ==;24:7EPR5zVwNzUM1FYO5OhjkYxFrPrWGZGlfxgVjXOGeINFK6CZbjohTgiv6Gy8ZWwk9wbaRiAQ+RsD4ETUwcqf9CmxPFf6SFcq4nSw+GkpIYU=
+X-OriginatorOrg: mailman.cse.ohio-state.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 25 Aug 2015 18:09:47.6713
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=b4d138ca-1815-4a9b-a3a7-130a33b1e692;Ip=[164.107.81.218];Helo=[cio-tnc-pf04.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2FFO11HUB045
+
+Hi everyone,
+
+! apologize for the last email. Lets try this again . . . . .
+
+This Thursday, 2015/08/27 at 7:00PM in Caldwell Labs 120, Eli Gladman and t=
+he Open Source Club will present our very first meeting of the 2015-2016 ac=
+ademic year.=A0This meeting, geared toward beginners, gives an overview of =
+the club including what we do and  why we care. Additionally, this meeting =
+is more social in nature with plenty of time to meet new people and network=
+ around.
+
+Laptops are encouraged but not required, and as always, there will be pizza.
+
+
+Eli Gladman
+
+Open Source Club - President
+Collegiate Web Developers Group -=A0Vice President
+Electronics Club =96 Webmaster
+       =
+
+_______________________________________________
+opensource-announce mailing list
+opensource-announce@cse.ohio-state.edu
+http://mailman.cse.ohio-state.edu/mailman/listinfo/opensource-announce

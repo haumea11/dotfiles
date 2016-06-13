@@ -1,0 +1,512 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp2796145oia;
+        Tue, 3 Nov 2015 21:30:20 -0800 (PST)
+X-Received: by 10.194.2.5 with SMTP id 5mr38835003wjq.153.1446615020293;
+        Tue, 03 Nov 2015 21:30:20 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f175.google.com (mail-wi0-f175.google.com. [209.85.212.175])
+        by mx.google.com with ESMTPS id 17si1498433wmg.112.2015.11.03.21.30.20
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Nov 2015 21:30:20 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) client-ip=209.85.212.175;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Authentication-Results: spf=pass (sender IP is 164.107.81.212)
+ smtp.mailfrom=osu.edu; gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=bestguesspass action=none header.from=osu.edu;
+Received: by mail-wi0-f175.google.com with SMTP id q8so85030768wik.1
+        for <kuiperhaumea@gmail.com>; Tue, 03 Nov 2015 21:30:20 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:from:to:message-id
+         :subject:mime-version:content-type:importance:priority:date
+         :spamdiagnosticoutput:spamdiagnosticmetadata;
+        bh=dOhWfC4skoGmDTcOm5wArMTENWOlHaeu3ZFalbsV/2A=;
+        b=JC3jX00NYmiuLxsLoGfuVOK2d/bJZBt2dIX4nm8JoXXXm3TBismdwq7csloc8Zv6BS
+         ndyreI0wazVJiT0dzPhMdlAVqSWxdpG7e+9bzPDT8w4MRpYNobYwO6YKFNv1q+ZxsZIX
+         ZyioxoRwGWwWsLbcdhkZvXlbJeESdV6bUlHh5bqHUgbG7I7K2v9Tgg8gOss5HeoVv1Ho
+         i2gwdbJBh6kkDVwrn/7AKvA1kmBFfua7WiAN1gcund+rLZeYETB1TVPCd6ZmZ2aK/BnY
+         bZ1oXJNYr5HfwEtTF464CMn2V8J32iVysM1s2aLdw7sCbcXhxauVACsCL916xeS6ajfH
+         lArw==
+X-Original-Authentication-Results: mx.google.com;       spf=pass (google.com: domain of askabuckeye@osu.edu designates 207.46.100.139 as permitted sender) smtp.mailfrom=askabuckeye@osu.edu
+X-Received: by 10.194.8.227 with SMTP id u3mr33364128wja.38.1446615020007;
+        Tue, 03 Nov 2015 21:30:20 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.3 with SMTP id w3csp2203259wmw;
+        Tue, 3 Nov 2015 21:30:18 -0800 (PST)
+X-Received: by 10.202.85.13 with SMTP id j13mr20387262oib.77.1446614606695;
+        Tue, 03 Nov 2015 21:23:26 -0800 (PST)
+Return-Path: <askabuckeye@osu.edu>
+Received: from na01-by2-obe.outbound.protection.outlook.com (mail-by2on0139.outbound.protection.outlook.com. [207.46.100.139])
+        by mx.google.com with ESMTPS id d8si13603825obs.77.2015.11.03.21.23.26
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 03 Nov 2015 21:23:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of askabuckeye@osu.edu designates 207.46.100.139 as permitted sender) client-ip=207.46.100.139;
+Received: from BN1BFFO11FD010.protection.gbl (10.58.144.31) by
+ BN1BFFO11HUB025.protection.gbl (10.58.144.172) with Microsoft SMTP Server
+ (TLS) id 15.1.318.9; Wed, 4 Nov 2015 05:23:24 +0000
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.212 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.212; helo=cio-krc-pf05.osuad.osu.edu;
+Received: from cio-krc-pf05.osuad.osu.edu (164.107.81.212) by
+ BN1BFFO11FD010.mail.protection.outlook.com (10.58.144.73) with Microsoft SMTP
+ Server (TLS) id 15.1.318.9 via Frontend Transport; Wed, 4 Nov 2015 05:23:24
+ +0000
+Received: from CIO-KRC-HT03.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by cio-krc-pf05.osuad.osu.edu (Postfix) with ESMTPS id 7C32B60040
+	for <markiewicz.john@gmail.com>; Wed,  4 Nov 2015 00:23:23 -0500 (EST)
+Received: from cssqlprd01.it.ohio-state.edu (140.254.168.3) by
+ smtp.service.osu.edu (164.107.81.254) with Microsoft SMTP Server id
+ 14.3.248.2; Wed, 4 Nov 2015 00:23:23 -0500
+From: <askabuckeye@osu.edu>
+To: <markiewicz.john@gmail.com>
+Message-ID: <1018636081.15401.1446614603135.JavaMail.psoft@cssqlprd01.it.ohio-state.edu>
+Subject: Your recent application to The Ohio State University
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_15399_710118137.1446614603128"
+Importance: normal
+Priority: non-urgent
+X-Priority: 3
+X-MSMail-Priority: normal
+Date: Wed, 4 Nov 2015 00:23:23 -0500
+X-CFilter-Loop: Reflected
+Return-Path: askabuckeye@osu.edu
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1;BN1BFFO11FD010;1:A07yndlpl1z0Xt8MJ1BOVDpwLUMJWQp+875OzWLE3hNeDLJhEivPq8u2RHvVxYX9QvVC04OsVmWLUR9tOrOAupe72qaSQgXJPde8jerKY8f1yUQQiVEI9xPAeZvhuiWajy7IrBnbPzpEnFgU9hsQ9XCI2juu76N42aH0Y61yTb+7qt/RGoOCkggY/ozN6uTA3GsRd+u/E56Bg0VNE4TR+hRGl0we02vlOEFXfHmtodJDzN+fkXgioNs2damBXKAar8xvdyBxvkBXPOzYlCbmbIyNB8JaZwIqwLebYfUKrbRXSt+07AQ9Sa/MM3vQ+1IGgqgKaWab0YIG5QKxtRj8xanJCc+fK2hTMO5vnCiOnBU=
+X-Forefront-Antispam-Report:
+	CIP:164.107.81.212;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(10019020)(2980300002)(438002)(199003)(35754003)(485384002)(252514010)(189002)(84326002)(90282001)(15188155005)(450100001)(15395725005)(19627595001)(88552001)(17760045003)(86816001)(87936001)(19617315012)(18206015028)(19580405001)(19580395003)(75432002)(512874002)(86766002)(50986999)(81686999)(86362001)(86152002)(15975445007)(54356999)(5008740100001)(92566002)(229853001)(4610100001)(2351001)(16799955002)(5007970100001)(109096001)(89122001)(16601075003)(5003600100002)(6806005)(11100500001)(106466001)(93346002)(110136002)(189998001)(107886002)(5001920100001)(85226003)(562774006);DIR:OUT;SFP:1102;SCL:1;SRVR:BN1BFFO11HUB025;H:cio-krc-pf05.osuad.osu.edu;FPR:;SPF:Pass;PTR:cio-krc-pf05.osuad.osu.edu;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics:
+	1;BN1BFFO11HUB025;2:+l79Y/aO0TCH0ZnkbUWunOLUEkgXjJ2Sgkxr5xMwbMj0NeEO1k8Q5qKFa6jCsvkHzQxneL97Ony1X0Ohrsfm4dbm4GdWAqomCSPX2RIxXRpqd/Z6N8trL/GnQ5sV0fca9k7m4hvZ3bMsuRF6s4JSyoXrM0gIP1D6JlyBpJT01ME=;3:HrU8jDZeAaDfAY1TO9O/UcbT4cFFp2n02STtukszXHDxblqFUIvzV3+ctujfct9zMyoPIlNKlgzVQ6MSpxAzJpa2+me9eZ3+etD7LqbzjKaXsdn9r8Bp5aEiZcMM6NNnSwC7FQRQzbo8/JbXCHw7vaCEMEnK+9gKQcaWwikEySxWZ4qQcJMIWRytZLbVO0zZyXEZVEWqsvioo73iANtO7mzjfm4Hc9/gpH7I7lZPjviHXxDm0vBV1bCAmh0cLSrhWiLxZ6mH+0Wj23J/+xswOQ==;25:24D8kmmLqkg8rGhW/ssfpBRzen+5Ad/tceHdkxYuy7D1cK1KD+3e+gPEF89Vz1tTrOiZO1JF9paNPO0ioiF+BKsnITST1uHbrz/zoV0r1iIS8SNS6CKhB2ycE0P0iUEOYqTonkuQtm7w56sRgZBL+rNDUNZCTjf834jIgYrlRpOycNZ62E6voienO6hLyLPT0GybxKR+KvSK+89mh5+ij4f1O7/b40B1H/kwVHkkAK4qx2JEG5VwdKaJ2DY6JSan
+X-Microsoft-Antispam:
+	UriScan:;BCL:0;PCL:0;RULEID:(8251501001);SRVR:BN1BFFO11HUB025;
+X-Microsoft-Exchange-Diagnostics:
+	1;BN1BFFO11HUB025;20:k8EHIccN88AkZBxBbsBQb31FGnDdTiFYXRioGlX/m7kYT8yGe37zPwdtJeFUVf6gWi35L4DB5ATp7Gxr+5Vv+TnduOx32e8mqrZS8yX4iMn7P80BbUDuD3k2cfHEm6Pi20rncHJ1kRfaTo3cbDKQt2gBSzmO8MdqM15h4dQHwkMdx/e8rS97cegjf+Ib28q19ZPdUM1p4+mN8Rvu2ndtIsU+sF7WKyMZ3/xsZRqZDI62HwA5Y6wIdcrZIhgpPPZWoSYtXBMSZg8AbeTKn8ZJ16dINyQGUULQz6SsDu9a6Kq9EoSJZahPwmxNpibbm+YZbGVq1Gbp9G26oIP5O+LMLTxdW1Tcw6Ado2PbzcdFjJB4o8mLHsHX/VjSfIrRsOyCeFgYpAmeJ8DR1YbMKFNGc7U8RK9gw0yDQ6NEViq7y8gf79pE9jLoBmnEAEBZ4Xllc4VbZjDt751CGQhRnXgVYKNEiTqsPW8RV3FtjZV0o4xwkitonV3z7n8AisyG91Yx;4:RKwtfQ7mI7CrzvAZ2Md1DN79euqN3TXyUAxpAMSG4y9jG9EGQCrm8LhgSAXEqqntqwQtR9LW0uF6VS2pUbPzPwJzDwkgqZdiQdMzPfxxCwcfOlqeV12aFKgRqiRNBcwWEi5SUGfpbSpTkdBw6F9zEhfostiyYrAFJBjUz6VWuXWmODMsyPpLvrlcePLtMdd0vccUe5kEJNEiNxEEaeA0TxOfpDaoR/Vd41fvPYVFpOv2h/HF8mN0iCkZzRt3O3DX+oYEqiKn8U2qTMXmPsLStljYrZkN5QkLXR3xVTrhQeKSHigQnXxE0ZiVIWc+/Q1n6zMF/ovLAtW0WSFNxv8S4v0nGsuGu1yln1XXMLaCxeztMSNU4+INazoyGcWnLjHY
+X-Microsoft-Antispam-PRVS:
+	<BN1BFFO11HUB025D1579DC9B3B9A589CB23B72A0@BN1BFFO11HUB025.protection.gbl>
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550)(25456226137038);
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004)(2401047)(8121501046)(520078)(5005006)(3002001)(10201501046);SRVR:BN1BFFO11HUB025;BCL:0;PCL:0;RULEID:;SRVR:BN1BFFO11HUB025;
+X-Forefront-PRVS: 0750463DC9
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BN1BFFO11HUB025;23:7M1uWCxNqbBtJcS5dGFDrivRH4pYVQpGk3qKTb6?=
+ =?us-ascii?Q?H+Qpd/I72HHCR4Uj3W+ghqrKXyFp+ZDbB22qntQHvWF64ctUAMV7+KEgws9B?=
+ =?us-ascii?Q?avSJJ77GgzbeJKnZOZ/pOMMCXox7AQQ9tnxa58RFkOXSef7IC2QTQClst7Dt?=
+ =?us-ascii?Q?I9eREHhPvqmT9dF5lz+5aPaA1CZrnfFghML9laZQex/MVDa5/WYCypevSrtV?=
+ =?us-ascii?Q?dgiOBG9sltEedPOqOkXQW9sC9qyGwT6rK9l4CKjqsk5kLA86rfFI8L7zp9cf?=
+ =?us-ascii?Q?gisjgwAh9jM1ZSRYftW+OedolkTcylwYMJFZVOMNKUIhz/nWtL1nQDjX611s?=
+ =?us-ascii?Q?LS+UYQAkuwHUDbSV3VwxvZP9WqSRSF7/gy5tqpWlFmA3s7/lwKloNZyWmENB?=
+ =?us-ascii?Q?KTh3BELRQ+F/0EXCrj9IUaZwrLbEtKPWxy49ET8wzFfuYtGhcMXGdJEyzdYc?=
+ =?us-ascii?Q?DeJMSfnijTuJ1MhBBd5B66vcmjHz5NiXRl+lWqDrDTB8+B82eCIF/osQ95R7?=
+ =?us-ascii?Q?wB1NE4UTj2EOXltPVNpbFzKVn8CTUYAtituNybaplHo7w7QU+hFGTnLIcLK3?=
+ =?us-ascii?Q?MwV/JHritmreOKgSeYsDCHEuO9pt84X28S3VlcRfue3PdZR4SE0JkmNBH+b6?=
+ =?us-ascii?Q?ap7G6YOUAugCxHw3msihVNupfP73L1bPtydftxq/uYXGf22ttrMr+Y3ztoQL?=
+ =?us-ascii?Q?+gvkNvijeDl2KHPgXhPD8wlghgOCa2tLt5OatACKgvkxllyGNB6+n45Ry/mq?=
+ =?us-ascii?Q?XBv6cx0fLuui9Xrszvc2fIdCYtocaOLSiA9qNg1yWUFj66quM50F+Y0SASXS?=
+ =?us-ascii?Q?7IzAk9Y8mq573WES8FBi+aHcl+7YIydqxA3VcFpdZep6xM7mPc+CtJYpjATV?=
+ =?us-ascii?Q?3lv22C1UqUeZRy6kpqDQk8gnuRUXF4FZt81sANFjFUlO3fOO3lU7q1V5aE5T?=
+ =?us-ascii?Q?d4MxMba9Bk9JQM/ggLz7QXIO15gmMcFJgYnzBySH23/Pr/wGudmKGH933J2x?=
+ =?us-ascii?Q?XZIsbKGnGAnWZZa8tndnkyvIHIJ6nkqXqnpRk7T+u23h+mTo3RHc7oiMBveH?=
+ =?us-ascii?Q?rBst2PXwHfkVZL/P5L74xEDgD7kTUHMbYPQZnrtLXNWT5NnXcLT9qu4ow3/K?=
+ =?us-ascii?Q?HcHSRfvdq0KLZgEDXmaCo3ErA11YQX+jTzOl6WCqrn5Lr5xiLNdc/C/1fszG?=
+ =?us-ascii?Q?g1h4PPwfJyxJsj4T5UVh5dYjNmiD84MJ+nEZcoh8jGZxEFExCa5HFdvnDrNa?=
+ =?us-ascii?Q?IUwG0JLzDQeJQpE348AR0fQdKZ9ai8uZmvdELFrSHMvCXtbKrrTH9i709v2o?=
+ =?us-ascii?Q?beek/3nd+11fMGea990XAt1jivoEXoUqJUpT5NDFRKYyOWDFURVgZR3We3WD?=
+ =?us-ascii?Q?xTez7XxhSlcpyTHy0Cag7NBXKckA=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BN1BFFO11HUB025;5:zgtNZzlBrza4sT3Uocf3d6liTS8mwl8P9mR38Pyxit18vZwEtzffoSVAzZTCXRqLR4fcv5/s9CEsO6P7HYSaGfQ7PiN4KjsA3HqpmtynSRV97nCLMXarufnChsqyDJZSNFHoW3QB9gk6tK3YNVB0sw==;24:KBniSo3o4eHkfSxoaa7EWLKu14zlHMypSzeq2yeEJma9uG0JwyxyNQo7wmKyZAK/DRL0jLfpIDITdRCqFb3mWd8z/94hxWyQNGnQrXUugwA=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Nov 2015 05:23:24.4227
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=b4d138ca-1815-4a9b-a3a7-130a33b1e692;Ip=[164.107.81.212];Helo=[cio-krc-pf05.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1BFFO11HUB025
+
+------=_Part_15399_710118137.1446614603128
+Content-Type: multipart/related;
+	boundary="----=_Part_15400_1388902180.1446614603128"
+
+------=_Part_15400_1388902180.1446614603128
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DT=
+D XHTML 1.0 Strict//EN"    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.d=
+td"><html xmlns=3D"http://www.w3.org/1999/xhtml"><!-- Generated by Oracle B=
+I Publisher 11.1.1.7.140225 --><head><meta http-equiv=3D"Content-Type" cont=
+ent=3D"text/html; charset=3DUTF-8"/><title>RTF Template</title><style type=
+=3D"text/css" id=3D"internalStyle">.c0 {height: 11.685pt;}.c1 {word-wrap:br=
+eak-word;border-bottom-width: 0.25pt;border-bottom-color: #d9d9d9;border-bo=
+ttom-style: solid;width:100.0%;background-color: #ffffff;}.c2 {text-align: =
+right;line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;}.c3 {fon=
+t-family: 'Arial';font-size: 10.0pt;color: #000000;text-decoration: underli=
+ne;}.c4 {font-family: 'Arial';font-size: 10.0pt;color: #000000;}.c5 {height=
+: 82.375pt;}.c6 {word-wrap:break-word;border-top-width: 0.25pt;border-top-c=
+olor: #d9d9d9;border-top-style: solid;border-bottom-width: 4.5pt;border-bot=
+tom-color: #d9d9d9;border-bottom-style: solid;border-left-width: 0.25pt;bor=
+der-left-color: #d9d9d9;border-left-style: solid;border-right-width: 0.25pt=
+;border-right-color: #d9d9d9;border-right-style: solid;width:100.0%;backgro=
+und-color: #727272;}.c7 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 0.125pt;margin-right: 0.125pt;}.c8 {height: 12.25pt;}.c9 {word-wrap:break=
+-word;border-top-width: 4.5pt;border-top-color: #c00000;border-top-style: s=
+olid;border-left-width: 0.25pt;border-left-color: #d9d9d9;border-left-style=
+: solid;border-right-width: 0.25pt;border-right-color: #d9d9d9;border-right=
+-style: solid;width:100.0%;background-color: #ffffff;}.c10 {text-align: cen=
+ter;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 0.125pt;margin-righ=
+t: 0.125pt;}.c11 {height: 420.492pt;}.c12 {word-wrap:break-word;border-left=
+-width: 0.25pt;border-left-color: #d9d9d9;border-left-style: solid;border-r=
+ight-width: 0.5pt;border-right-color: #000000;border-right-style: solid;wid=
+th:71.66%;background-color: #ffffff;}.c13 {text-align: right;line-height: 1=
+0.404pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 7.2pt;margin-ri=
+ght: 14.399pt;}.c14 {font-family: 'Arial';font-size: 9.0pt;color: #000000;}=
+.c15 {text-align: right;line-height: 11.56pt;margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 7.2pt;margin-right: 14.399pt;}.c16 {margin-top: 0.0pt=
+;margin-bottom: 0.0pt;margin-left: 7.2pt;margin-right: 30.649pt;}.c17 {line=
+-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 7.2pt;=
+margin-right: 30.649pt;}.c18 {line-height: 11.56pt;margin-top: 0.0pt;margin=
+-bottom: 0.0pt;margin-left: 7.2pt;margin-right: 14.399pt;}.c19 {margin-top:=
+ 0.0pt;margin-bottom: 0.0pt;margin-left: 7.2pt;margin-right: 14.399pt;}.c20=
+ {line-height: 16.184pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left:=
+ 7.2pt;margin-right: 14.399pt;}.c21 {font-family: 'Arial';font-size: 14.0pt=
+;color: #c00000;}.c22 {height: 21.56pt;}.c23 {word-wrap:break-word;width:6.=
+109%;background-color: #ffffff;}.c24 {line-height: 11.56pt;margin-top: 0.0p=
+t;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.4pt;}.c25 {word-w=
+rap:break-word;width:93.89%;background-color: #ffffff;}.c26 {line-height: 1=
+1.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-r=
+ight: 5.4pt;}.c27 {font-family: 'Arial';font-size: 10.0pt;color: #0000ff;te=
+xt-decoration: underline;}.c28 {margin-top: 0.0pt;margin-bottom: 0.0pt;marg=
+in-left: 5.399pt;margin-right: 5.4pt;}.c29 {height: 11.56pt;}.c30 {word-wra=
+p:break-word;width:92.27%;background-color: #ffffff;}.c31 {line-height: 11.=
+56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-rig=
+ht: 5.399pt;}.c32 {margin-top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixe=
+d;margin-left: 13.5pt;margin-right: auto;width: 364.199pt;border-collapse: =
+collapse;}.c33 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 43.2pt;=
+margin-right: 14.399pt;}.c34 {margin-top: 0.0pt;margin-bottom: 0.0pt;}.c35 =
+{line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;}.c36 {line-he=
+ight: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 36.0pt;ma=
+rgin-right: 14.399pt;}.c37 {line-height: 11.56pt;margin-top: 0.0pt;margin-b=
+ottom: 0.0pt;margin-left: 25.2pt;margin-right: 14.399pt;}.c38 {word-wrap:br=
+eak-word;border-left-width: 0.5pt;border-left-color: #000000;border-left-st=
+yle: solid;border-right-width: 0.25pt;border-right-color: #d9d9d9;border-ri=
+ght-style: solid;width:28.339%;background-color: #ffffff;}.c39 {line-height=
+: 13.294pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.649pt;marg=
+in-right: 5.524pt;}.c40 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.649pt;margin-right: 5.524pt;}.c41 {line-height: 13.8pt;margin-top: 0.0p=
+t;margin-bottom: 0.0pt;margin-left: 5.649pt;margin-right: 5.524pt;}.c42 {fo=
+nt-family: 'Arial';font-size: 10.0pt;color: #bb0000;}.c43 {font-family: 'Ar=
+ial';font-size: 10.0pt;color: #bb0000;text-decoration: underline;}.c44 {mar=
+gin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.799pt;margin-right: 9.12=
+5pt;}.c45 {height: 9.125pt;}.c46 {word-wrap:break-word;border-bottom-width:=
+ 0.25pt;border-bottom-color: #d9d9d9;border-bottom-style: solid;border-left=
+-width: 0.25pt;border-left-color: #d9d9d9;border-left-style: solid;border-r=
+ight-width: 0.25pt;border-right-color: #d9d9d9;border-right-style: solid;wi=
+dth:100.0%;background-color: #ffffff;}.c47 {height: 20.048pt;}.c48 {word-wr=
+ap:break-word;border-top-width: 0.25pt;border-top-color: #d9d9d9;border-top=
+-style: solid;width:100.0%;background-color: #ffffff;}.c49 {line-height: 9.=
+248pt;margin-top: 0.0pt;margin-bottom: 0.0pt;}.c50 {font-family: 'Arial';fo=
+nt-size: 8.0pt;color: #000000;}.c51 {text-align: -moz-center;}.c52 {margin-=
+top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixed;margin-right: auto;margi=
+n-left: auto;width: 545.399pt;border-collapse: collapse;}.c53 {margin-top: =
+0.0pt;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-right: 6.0pt;}</style>=
+</head><body><div class=3D"c51" start =3D "center"><table class=3D"c52"><co=
+l width=3D"71.66%"/><col width=3D"28.339%"/><tr class=3D"c0"><td valign=3D"=
+top" colspan=3D"2" class=3D"c1"><p class=3D"c2"><a href=3D"http://buckeyeli=
+nk.osu.edu/"><span class=3D"c3">buckeyelink.osu.edu</span></a><span class=
+=3D"c4">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href=3D"http://osu.edu/"><span c=
+lass=3D"c3">osu.edu</span></a></p></td></tr><tr class=3D"c5"><td valign=3D"=
+middle" colspan=3D"2" class=3D"c6"><p class=3D"c7"><img src=3D"cid:xdoimgJD=
+NUKknhpz6040403714780362862png" style=3D"width:330.759pt;height:80.0pt;" al=
+t=3D"An Image" /><br/></p></td></tr><tr class=3D"c8"><td valign=3D"top" col=
+span=3D"2" class=3D"c9"><p class=3D"c10"><br/></p></td></tr><tr class=3D"c1=
+1"><td valign=3D"top" class=3D"c12"><p class=3D"c13"><span class=3D"c14"><b=
+>Keep for your records</b></span></p><p class=3D"c15"><span class=3D"c14">O=
+SU ID: </span><span class=3D"c4">500128705</span></p><p class=3D"c15"><span=
+ class=3D"c14">Ohio State username: </span><span class=3D"c4">markiewicz.22=
+</span></p><p class=3D"c16"><br/></p><p class=3D"c17"><span class=3D"c4">De=
+ar John:</span></p><p class=3D"c16"><br/></p><p class=3D"c18"><span class=
+=3D"c4">We are pleased to acknowledge receipt of your application for admis=
+sion to The Ohio State University for autumn 2016 semester. </span></p><p c=
+lass=3D"c19"><br/></p><p class=3D"c18"><span class=3D"c4">Your application =
+is considered complete when we have received all required items. To check t=
+he status of your application (and to see what might be missing), follow th=
+ese steps.</span></p><p class=3D"c19"><br/></p><p class=3D"c20"><span class=
+=3D"c21">First, activate your username</span></p><p class=3D"c19"><br/></p>=
+<p class=3D"c18"><span class=3D"c4">Activating your username is a two-part =
+process:</span></p><p class=3D"c19"><br/></p><table class=3D"c32"><col widt=
+h=3D"6.109%"/><col width=3D"92.27%"/><col width=3D"1.619%"/><tr class=3D"c2=
+2"><td valign=3D"top" class=3D"c23"><p class=3D"c24"><span class=3D"c4">1.<=
+/span></p></td><td valign=3D"top" colspan=3D"2" class=3D"c25"><p class=3D"c=
+26"><span class=3D"c4">Request an activation code: Go to </span><a href=3D"=
+http://my.osu.edu"><span class=3D"c27">my.osu.edu</span></a><span class=3D"=
+c4"> and click </span><span class=3D"c4"><b>Activate Now</b></span><span cl=
+ass=3D"c4">. Click </span><span class=3D"c4"><b>I need an Activation Code</=
+b></span><span class=3D"c4"> and follow the prompts. Your username is at th=
+e top of this email.</span></p><p class=3D"c28"><br/></p></td></tr><tr clas=
+s=3D"c29"><td valign=3D"top" class=3D"c23"><p class=3D"c24"><span class=3D"=
+c4">2.</span></p></td><td valign=3D"top" class=3D"c30"><p class=3D"c31"><sp=
+an class=3D"c4">Activate your identity: Return to </span><a href=3D"http://=
+my.osu.edu"><span class=3D"c27">my.osu.edu</span></a><span class=3D"c4"> an=
+d click </span><span class=3D"c4"><b>Activate Now.&nbsp; </b></span><span c=
+lass=3D"c4">Click I have </span><span class=3D"c4"><b>an Activation Code</b=
+></span><span class=3D"c4"> and follow the prompts.</span></p></td></tr></t=
+able><p class=3D"c33"><br/></p><p class=3D"c18"><span class=3D"c4">Having t=
+rouble? </span><a href=3D"https://osuitsm.service-now.com/selfservice/kb_vi=
+ew.do?sysparm_article=3DKB01286"><span class=3D"c27">Read step-by-step inst=
+ructions</span></a><span class=3D"c4">, or contact Ohio State's IT Service =
+Desk at 614-688-4357 or </span><a href=3D"mailto:8help@osu.edu"><span class=
+=3D"c27">8help@osu.edu</span></a><span class=3D"c4">. </span></p><p class=
+=3D"c19"><br/></p><p class=3D"c20"><span class=3D"c21">Next, check your app=
+lication status regularly</span></p><p class=3D"c19"><br/></p><p class=3D"c=
+18"><span class=3D"c4">Within 15 minutes of activating your username, you c=
+an log in to the Applicant Center at </span><a href=3D"http://appstatus.osu=
+.edu"><span class=3D"c27">appstatus.osu.edu</span></a><span class=3D"c4">. =
+Check for:</span></p><p class=3D"c19"><br/></p><ul class=3D"c34"><li><p cla=
+ss=3D"c35"><span class=3D"c4"><b>Items missing from your application</b></s=
+pan></p></li></ul><p class=3D"c36"><span class=3D"c4">It may take several d=
+ays for received materials to be reflected on your status page -- please wa=
+it at least five days before inquiring.</span></p><p class=3D"c37"><br/></p=
+><ul class=3D"c34"><li><p class=3D"c35"><span class=3D"c4"><b>Your admissio=
+n decision </b></span></p></li></ul><p class=3D"c36"><span class=3D"c4"><b>=
+<i>Applicants to the Columbus campus</i></b></span><span class=3D"c4">: You=
+ will receive an admission decision by mid-January (early action applicants=
+) or by the end of March (regular decision applicants). </span><span class=
+=3D"c4"><b><i>Applicants to other campuses</i></b></span><span class=3D"c4"=
+>: Once your application is complete, your admission decision will typicall=
+y post within 4 to 6 weeks.</span></p><p class=3D"c19"><br/></p><p class=3D=
+"c18"><span class=3D"c4">Thank you for your interest in Ohio State.</span><=
+/p><p class=3D"c19"><br/></p><p class=3D"c18"><span class=3D"c4">UUE/UUSREM=
+</span></p></td><td valign=3D"top" class=3D"c38"><p class=3D"c39"><span cla=
+ss=3D"c4">Questions?</span></p><p class=3D"c39"><span class=3D"c4">We're he=
+re to help. </span></p><p class=3D"c40"><img src=3D"cid:xdoimgI59AhbgCVc580=
+8930867224091720jpg" style=3D"width:135.562pt;height:0.75pt;" alt=3D"An Ima=
+ge" /><br/></p><p class=3D"c41"><br/></p><p class=3D"c39"><span class=3D"c4=
+2"><b>Undergraduate Admissions</b></span></p><p class=3D"c39"><span class=
+=3D"c4">Email: </span><a href=3D"mailto:askabuckeye@osu.edu"><span class=3D=
+"c43">askabuckeye@osu.edu</span></a></p><p class=3D"c39"><span class=3D"c4"=
+>Phone: 614-292-3980</span></p><p class=3D"c39"><span class=3D"c4">Web: </s=
+pan><a href=3D"http://ssc.osu.edu"><span class=3D"c43">undergrad.osu.edu</s=
+pan></a></p><p class=3D"c41"><br/></p><p class=3D"c39"><span class=3D"c42">=
+Walk in</span><span class=3D"c4"> </span></p><p class=3D"c39"><span class=
+=3D"c4">Lobby, SAS Building </span></p><p class=3D"c39"><span class=3D"c4">=
+281 W. Lane Ave. [</span><a href=3D"http://www.osu.edu/map/building.php?bui=
+lding=3D160"><span class=3D"c43">map</span></a><span class=3D"c4">]</span><=
+/p><p class=3D"c41"><br/></p><p class=3D"c40"><img src=3D"cid:xdoimgNwiHqzI=
+TCd1527676709886272814jpg" style=3D"width:135.562pt;height:0.75pt;" alt=3D"=
+An Image" /><br/></p><p class=3D"c44"><br/></p></td></tr><tr class=3D"c45">=
+<td valign=3D"top" colspan=3D"2" class=3D"c46"><p class=3D"c10"><br/></p></=
+td></tr><tr class=3D"c47"><td valign=3D"top" colspan=3D"2" class=3D"c48"><p=
+ class=3D"c49"><span class=3D"c50">The Ohio State University | Enrollment S=
+ervices | Columbus | OH | 43210</span></p></td></tr></table></div><p class=
+=3D"c53"><a name=3D"page-total-master0" id=3D"page-total-master0"></a><a na=
+me=3D"page-total" id=3D"page-total"></a><br/></p></body></html>
+------=_Part_15400_1388902180.1446614603128
+Content-Type: image/jpeg; name="xdoimgI59AhbgCVc5808930867224091720.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgI59AhbgCVc5808930867224091720jpg>
+Content-Disposition: inline;
+	filename="xdoimgI59AhbgCVc5808930867224091720.jpg"
+Content-Description: xdoimgI59AhbgCVc5808930867224091720.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+------=_Part_15400_1388902180.1446614603128
+Content-Type: image/jpeg; name="xdoimgNwiHqzITCd1527676709886272814.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgNwiHqzITCd1527676709886272814jpg>
+Content-Disposition: inline;
+	filename="xdoimgNwiHqzITCd1527676709886272814.jpg"
+Content-Description: xdoimgNwiHqzITCd1527676709886272814.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+------=_Part_15400_1388902180.1446614603128
+Content-Type: image/png; name="xdoimgJDNUKknhpz6040403714780362862.png"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgJDNUKknhpz6040403714780362862png>
+Content-Disposition: inline;
+	filename="xdoimgJDNUKknhpz6040403714780362862.png"
+Content-Description: xdoimgJDNUKknhpz6040403714780362862.png
+
+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
+------=_Part_15400_1388902180.1446614603128--
+
+------=_Part_15399_710118137.1446614603128--

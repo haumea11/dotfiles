@@ -1,0 +1,776 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp627758oia;
+        Thu, 10 Mar 2016 09:59:10 -0800 (PST)
+X-Received: by 10.194.201.166 with SMTP id kb6mr5427966wjc.125.1457632750105;
+        Thu, 10 Mar 2016 09:59:10 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22c.google.com (mail-wm0-x22c.google.com. [2a00:1450:400c:c09::22c])
+        by mx.google.com with ESMTPS id w203si6106516wme.68.2016.03.10.09.59.09
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Mar 2016 09:59:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22c as permitted sender) client-ip=2a00:1450:400c:c09::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22c as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@delivery.klaviyomail.com;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wm0-x22c.google.com with SMTP id p65so39068311wmp.0
+        for <kuiperhaumea@gmail.com>; Thu, 10 Mar 2016 09:59:09 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:dkim-signature
+         :mime-version:from:to:subject:date:message-id;
+        bh=dn+BMZ55T+9sDXIxJdk+nBs0otccafXOFSxIAWRX4Bw=;
+        b=ESrrckYVaw2vWRkUe3/chv/vCbOHjncIpxeXVhLzt0Nvi6d5UiuGUxJqHmlz87jOIZ
+         qPa6xL+KEvA/bU3UY83hK5LdzWr9YgZ5M8QfrwRi623+nJdBeXMiYD18U6P0KCUIo0cL
+         14RmEMBLX2FUyEHuB9CbNTnuFQMQ1RDQlrQD34I51Iq+H8KlE1sjJ37UobzCt7wVRS22
+         LWJyHjuVFh88Yc4rMUGEDIZ2Z3YYXhUJE045wI2q1MhkOANw/YzTGSLPm2L2ui3HX9ZM
+         nyTElSWjxYvoNed3NZkQV8w6som1UfpEzqx85qLUdHlbune/k8jORikmBrLPZYovER+l
+         iaBQ==
+X-Gm-Message-State: AD7BkJKgJId7QHLl1AeVIvuA7opeYWrWzXF3+4gnxxPh5G9hAhIgU//piWwexjrRL54cPJncTugZkmN8trqyP8m7YAnfCmY=
+X-Received: by 10.28.91.142 with SMTP id p136mr5608543wmb.76.1457632749657;
+        Thu, 10 Mar 2016 09:59:09 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp624625wmb;
+        Thu, 10 Mar 2016 09:59:08 -0800 (PST)
+X-Received: by 10.50.143.105 with SMTP id sd9mr4935875igb.73.1457632748763;
+        Thu, 10 Mar 2016 09:59:08 -0800 (PST)
+Return-Path: <bounces+1677362-e38f-markiewicz.john=gmail.com@delivery.klaviyomail.com>
+Received: from o5.delivery5.klaviyomail.com (o5.delivery5.klaviyomail.com. [167.89.16.108])
+        by mx.google.com with ESMTPS id z19si337781igq.93.2016.03.10.09.59.08
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Mar 2016 09:59:08 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+1677362-e38f-markiewicz.john=gmail.com@delivery.klaviyomail.com designates 167.89.16.108 as permitted sender) client-ip=167.89.16.108;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=delivery.klaviyomail.com; 
+	h=content-type:mime-version:from:to:subject; s=smtpapi; 
+	bh=KNwNXHlvGX1zm0vYyjT5Xijsef8=; b=PWVHG1jTd//DKxgjHZvPawxLbJUCm
+	DPciFfKIoYM6ju6hf4pqLj6GwSvAmC3usegHIQHvNOQ1ZzBThy6IdbJ5OJ5nAqwj
+	edPsdyhHaXf2/1VYWtyE3OI9fRdfBveOy4h/SIuo7nrn7GxsZz87iPHjiArwPx9s
+	HQeh44DUzezJNs=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:subject:x-feedback-id; 
+	s=smtpapi; bh=KNwNXHlvGX1zm0vYyjT5Xijsef8=; b=VG6t1wwRymrpr7hdAp
+	w1fLHSWLfiyrcA9Duf3S0NtP/7RKVVGm03lgVVHd/R7mj7g4zHjlMLpFuJuFPydz
+	Mb6q2leoVA86Yu1JVdIK2v2Q6FjvisKTQHQcwRrwjKOHPYo40+OTID1EU4uhlFRc
+	+JKRYd+XAMEscSZsH/09LuVaw=
+Received: by filter0819p1mdw1.sendgrid.net with SMTP id filter0819p1mdw1.9258.56E1B5E98
+        2016-03-10 17:59:05.129435999 +0000 UTC
+Received: from queue-worker-306.servers.clovesoftware.com (ec2-54-162-240-220.compute-1.amazonaws.com [54.162.240.220])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id rFXnEwSIRW-XLpXhzGRaXQ
+	for <markiewicz.john@gmail.com>; Thu, 10 Mar 2016 17:59:05.123 +0000 (UTC)
+Received: from ip-10-225-74-113.ec2.internal (localhost [127.0.0.1])
+	by queue-worker-306.servers.clovesoftware.com (Postfix) with ESMTP id 17C55446A5
+	for <markiewicz.john@gmail.com>; Thu, 10 Mar 2016 17:59:05 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============6013427751181875246=="
+MIME-Version: 1.0
+From: "Robert Mason Co." <info@robertmasoncompany.com>
+To: John Markiewicz <markiewicz.john@gmail.com>
+Subject: The Little Things
+Date: Thu, 10 Mar 2016 17:59:05 GMT
+X-Kmail-Relay: [eWuRjh.krelaymail.com]:587
+Message-Id: <20160310175905.17C55446A5@queue-worker-306.servers.clovesoftware.com>
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuETzoqA7owyPEAJN/8Wkyoimfrp1pU6aDsqAH
+ qCCB+QrrA27C3F/7BA33scC3gdcZ9TRK59UvYdbzktaYT1j3SX+aWzik409DztwTNC7LYYOFZuKwLg
+ kEvkJYqCiPUx9w2LUyGslVqfELQNVWsG3A252JF6RTcnSg/9QGES5cC+6LbzI9gftOTSFw4pwruOIX
+ +4UfReUMnxNOl6V5VDEbsn
+X-SG-ID: r6c46zbAJMDl0MB/+Ga3b1+fil/SPYbYGcfTuQGmLS/IrvAq21sufr3wHak2q4OjbkVc8uH8OqPPh2
+ EAWVdgDK8jRQMC3wCvXpjGqV0sRM0=
+X-Feedback-ID: 1677362:32R+zSwz77mKFkZeuXWMf23Y9GibWijdgt7JGdXP9wo=:32R+zSwz77mKFkZeuXWMf23Y9GibWijdgt7JGdXP9wo=:SG
+
+--===============6013427751181875246==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<http://www.robertmason.com/>
+<http://robertmasoncompany.com/collections/bags>
+<http://robertmasoncompany.com/collections/notebooks-journals>
+<http://robertmasoncompany.com/collections/writing>
+<http://robertmasoncompany.com/collections/accessories>
+<http://robertmasoncompany.com/collections/home-body>
+<http://robertmasoncompany.com/collections/on-sale>
+<http://robertmasoncompany.com/collections/wristwear-and-wristbands>
+<http://facebook.com/robertmasonco>
+<http://twitter.com/robertmasonco>
+<http://www.instagram.com/robertmasonco>
+<http://pinterest.com/robertmasonco>
+
+No longer want to receive these emails?
+You can unsubscribe here
+<http://manage.kmail-lists.com/subscriptions/unsubscribe?c=3DnNtHag&r=3D3Ea=
+Xn2j&m=3DhR395P&k=3D627badd53a29db91f0605171a4723f3b> .
+Robert Mason Co. 17 Brickel St Columbus, OH 43215
+
+
+--===============6013427751181875246==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml">
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1">
+<title></title>
+
+<style type=3D"text/css">@media only screen and (max-width:480px){body,tabl=
+e,td,p,a,li,blockquote{-webkit-text-size-adjust:none !important}body{width:=
+100% !important;min-width:100% !important}td[id=3DbodyCell]{padding:10px !i=
+mportant}table.kmMobileHide{display:none !important}table[class=3DkmTextCon=
+tentContainer]{width:100% !important}table[class=3DkmBoxedTextContentContai=
+ner]{width:100% !important}td[class=3DkmImageContent]{padding-left:0 !impor=
+tant;padding-right:0 !important}img[class=3DkmImage]{width:100% !important}=
+td.kmMobileStretch{padding-left:0 !important;padding-right:0 !important}tab=
+le[class=3DkmSplitContentLeftContentContainer],table[class=3DkmSplitContent=
+RightContentContainer],table[class=3DkmColumnContainer],td[class=3DkmVertic=
+alButtonBarContentOuter] table[class=3DkmButtonBarContent],td[class=3DkmVer=
+ticalButtonCollectionContentOuter] table[class=3DkmButtonCollectionContent]=
+,table[class=3DkmVerticalButton],table[class=3DkmVerticalButtonContent]{wid=
+th:100% !important}td[class=3DkmButtonCollectionInner]{padding-left:9px !im=
+portant;padding-right:9px !important;padding-top:9px !important;padding-bot=
+tom:0 !important;background-color:transparent !important}td[class=3DkmVerti=
+calButtonIconContent],td[class=3DkmVerticalButtonTextContent],td[class=3Dkm=
+VerticalButtonContentOuter]{padding-left:0 !important;padding-right:0 !impo=
+rtant;padding-bottom:9px !important}table[class=3DkmSplitContentLeftContent=
+Container] td[class=3DkmTextContent],table[class=3DkmSplitContentRightConte=
+ntContainer] td[class=3DkmTextContent],table[class=3DkmColumnContainer] td[=
+class=3DkmTextContent],table[class=3DkmSplitContentLeftContentContainer] td=
+[class=3DkmImageContent],table[class=3DkmSplitContentRightContentContainer]=
+ td[class=3DkmImageContent]{padding-top:9px !important}td[class=3D"rowConta=
+iner kmFloatLeft"],td[class=3D"rowContainer kmFloatLeft firstColumn"],td[cl=
+ass=3D"rowContainer kmFloatLeft lastColumn"]{float:left;clear:both;width:10=
+0% !important}table[class=3DtemplateContainer],table[class=3D"templateConta=
+iner brandingContainer"],table[class=3DtemplateRow]{max-width:600px !import=
+ant;width:100% !important}h1{font-size:24px !important;line-height:130% !im=
+portant}h2{font-size:20px !important;line-height:130% !important}h3{font-si=
+ze:18px !important;line-height:130% !important}h4{font-size:16px !important=
+;line-height:130% !important}td[class=3DkmTextContent]{font-size:14px !impo=
+rtant;line-height:130% !important}td[class=3DkmTextBlockInner] td[class=3Dk=
+mTextContent]{padding-right:18px !important;padding-left:18px !important}ta=
+ble[class=3D"kmTableBlock kmTableMobile"] td[class=3DkmTableBlockInner]{pad=
+ding-left:9px !important;padding-right:9px !important}table[class=3D"kmTabl=
+eBlock kmTableMobile"] td[class=3DkmTableBlockInner] [class=3DkmTextContent=
+]{font-size:14px !important;line-height:130% !important;padding-left:4px !i=
+mportant;padding-right:4px !important}}</style>
+</head>
+<body style=3D"margin:0;padding:0;background-color:#252525">
+<center>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=
+=3D"bodyTable" width=3D"100%" style=3D"border-collapse:collapse;mso-table-l=
+space:0;mso-table-rspace:0;padding:0;background-color:#252525;height:100%;m=
+argin:0;width:100%">
+<tbody>
+<tr>
+<td align=3D"center" id=3D"bodyCell" valign=3D"top" style=3D"border-collaps=
+e:collapse;mso-table-lspace:0;mso-table-rspace:0;padding-top:50px;padding-l=
+eft:20px;padding-bottom:20px;padding-right:20px;border-top:0;height:100%;ma=
+rgin:0;width:100%">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"templateCo=
+ntainer" width=3D"600" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0;border:0 none #EAEAEA;background-color:#EAEAEA;border-r=
+adius:0">
+<tbody>
+<tr>
+<td class=3D"templateContainerInner" style=3D"border-collapse:collapse;mso-=
+table-lspace:0;mso-table-rspace:0;padding:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse:collapse;mso-t=
+able-lspace:0;mso-table-rspace:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"templateRo=
+w" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-=
+table-rspace:0">
+<tbody>
+<tr>
+<td class=3D"rowContainer kmFloatLeft" valign=3D"top" style=3D"border-colla=
+pse:collapse;mso-table-lspace:0;mso-table-rspace:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlo=
+ck" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso=
+-table-rspace:0">
+<tbody class=3D"kmImageBlockOuter">
+<tr>
+<td class=3D"kmImageBlockInner" style=3D"border-collapse:collapse;mso-table=
+-lspace:0;mso-table-rspace:0;padding:0px;" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmImageContentContainer" width=3D"100%" style=3D"border-collapse:colla=
+pse;mso-table-lspace:0;mso-table-rspace:0">
+<tbody>
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3Da5fIIgaMH2fAnJWwm=
+T5w-2F0-2FErqdzhUU3PozCD7XzRcwB1Dv9fJNZNRqDNqYu8rYIkDRK5C1KsSzBCb-2BX-2Bkem=
+7pdMApAyA-2F4Cf8-2FlcWHSEMDUN74r8owHH90IvqxI0oEYfkECQPY1Lf0cpsZBK7WkoUyHzXE=
+Ssa6VBHSOTL48RMA0a1Tpn8HCvnqJnyS3fWGPVXXGF-2BAs9-2FTVzf-2FWbdfMzvlTsDoIAjKF=
+OpeE5kKf0LtwXbMsvrSn-2BW3xuzBdgEb3_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4si=
+HluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNCiYqM16Tezb2HUxQyJU=
+HWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2Foo9HH-2BmnwaEUn6lZ=
+dFvwRzVyIPtkw-2B1OkNi8EM-2F6tHOCCow5qIFO5jk-2FwtLcYttFI5A3RRU7VY0lO4i-2BnyD=
+whVSeV6JhNRAYJCie-2FwrgZB9Ajcmia3dKkNah21AOokO6cU-2FwGEIIgiEzAd2OErpe91xRl2=
+bYAJ" target=3D"_self" style=3D"word-wrap:break-word;color:#AB6934;font-wei=
+ght:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Robert Mason Company" class=3D"kmImage" src=3D=
+"https://d3k81ch9hvuctc.cloudfront.net/company/eWuRjh/images/0c9b3e3e-149d-=
+4621-9ec2-b4db732fb5a5.png" width=3D"600" style=3D"border:0;height:auto;lin=
+e-height:100%;outline:none;text-decoration:none;padding-bottom:0;display:in=
+line;vertical-align:bottom;max-width:600px;border-style:none;border-color:#=
+252525;border-width:0px;">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTableBlo=
+ck kmTableMobile" width=3D"100%" style=3D"border-collapse:collapse;mso-tabl=
+e-lspace:0;mso-table-rspace:0">
+<tbody class=3D"kmTableBlockOuter">
+<tr>
+<td class=3D"kmTableBlockInner" valign=3D"top" style=3D"border-collapse:col=
+lapse;mso-table-lspace:0;mso-table-rspace:0;padding-top:0px;padding-bottom:=
+0px;background-color:#FBB040;padding-left:0px;padding-right:0px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmTable" width=3D"100%" style=3D"border-collapse:collapse;mso-table-ls=
+pace:0;mso-table-rspace:0;border-width:0px;background-color:#FBB040;">
+<thead>
+<tr>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+<th valign=3D"top" class=3D"kmTextContent" style=3D"color:#000;font-family:=
+Helvetica, Arial;font-size:16px;line-height:150%;text-align:left;text-align=
+:center;width:image_fit;font-weight:bold;padding-bottom:0px;padding-right:0=
+px;padding-left:0px;padding-top:0px;background-color:#FBB040;">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class=3D"kmTableRow">
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-bottom:none;tex=
+t-align:center;width:107px;border-top-style:none;padding-bottom:0px;padding=
+-right:0px;padding-left:0px;padding-top:0px;border-top-color:#d9d9d9;border=
+-top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rWzxMTAm-2B5XXceJrH0y4DOnkdjO=
+QtLZk0G5jpfY71PRr2e0xfzc1ZbuRrAo-2B3tfgXNjpDHyVo39vGcuS7YgsdF1tnuwq-2BYyiQO=
+opcVQmpn5J9b86nwUXnBSpRZ-2BTar1v8cTBHLo-2FuMcKn7GxJDaW1h2C0rM3ExzBG0d2COj-2=
+FQ7mK2NyWY64eih2PBT3qPaWBSGGW1FFtx14P3UzaIGQuZ3A-3D-3D_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKg=
+NCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu=
+2Foo9HH-2BmnwiJCdLGOt29ltSymx8XdcUwPtVvweOfNO2mmVsS4Jv0OfiCozXHWIHLpqlUzbni=
+3rTSI97rEGPwEvhtL35ahfmTj3zT0n7iiT4f-2BzMcWGdn8qF0rbElZXyKqx0B7RPQx2r8y7Fwu=
+-2Bomxtok4q8paCS" target=3D"_self" style=3D"word-wrap:break-word;color:#AB6=
+934;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Bags" class=3D"kmImage" src=3D"https://d3k81ch=
+9hvuctc.cloudfront.net/company/eWuRjh/images/e31faccd-ec42-4289-a67c-30d29e=
+71013f.png" width=3D"107" style=3D"border:0;height:auto;line-height:100%;ou=
+tline:none;text-decoration:none;padding-bottom:0;display:inline;vertical-al=
+ign:bottom;max-width:107px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-bottom:none;tex=
+t-align:center;width:83px;border-top-style:none;padding-bottom:0px;padding-=
+right:0px;padding-left:0px;padding-top:0px;border-top-color:#d9d9d9;border-=
+top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2r9YBtj3XMpkc-2FKIRzS4ypt9JQXz=
+4tuMH4g6RGT0GIAslNmnf0ew0SQOxJtnrVp33deqLvaYucdHBL4H7qOMWeqdXkFvNckmLGbTFaV=
+628ipKLaGhDOQ4ktburF5NyVT0o2nkJZYC7gSMLILTY8XEsRH6DebWeAw0gY0KjJdzEljiUBY-2=
+BChXkoJ9MXJYOnoRHXDo7iCK917Hao2sHYx9-2FzZZRpHhcQ7CMR3N4QOULJWVE-3D_fl-2FMBk=
+JMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dM=
+NgRrIYkaNrKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-=
+2FoJ3BeWxzYu2Foo9HH-2BmnztaH2uu9ZAB-2BYKXg29aavjyz6-2FvDNnkcHiFT05ETkh-2BAI=
+9V0HIoR9GnOxVe9uCShdb7wVubr23eWuN0C-2BSWin58cG8zbGOGOGgzBP8kFmQFd1IKL0Cj1s9=
+dbbfWwi9VPBweNOLhbm2bQxunmqHgY-2Br" target=3D"_self" style=3D"word-wrap:bre=
+ak-word;color:#AB6934;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Journals" class=3D"kmImage" src=3D"https://d3k=
+81ch9hvuctc.cloudfront.net/company/eWuRjh/images/aabd2dbb-2d1a-4601-9faa-48=
+a00ae79473.png" width=3D"83" style=3D"border:0;height:auto;line-height:100%=
+;outline:none;text-decoration:none;padding-bottom:0;display:inline;vertical=
+-align:bottom;max-width:83px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-bottom:none;tex=
+t-align:center;width:103px;border-top-style:none;padding-bottom:0px;padding=
+-right:0px;padding-left:0px;padding-top:0px;border-top-color:#d9d9d9;border=
+-top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rUpbsJRDlmbeVaIwLO4wxGHaW2E0z=
+H1Vu6deBjSxz5Muy5kM7BDrjF0v4YAdyhSayhMLXpC2bDKjrZNTL9ViLpw9d19skTFg-2FemdPK=
+GV6oK5p6dZ4BOIK2zLleaqEeZp11Mfqo1eYBzttp6VtSFhgxPw5AYMh-2BnvITwdemVYvp12Wxr=
+RwcUp0YML-2BtwesJx9BgAoAfv5JWr9e5Q-2FW4N-2BP-2Bw-3D-3D_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKg=
+NCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu=
+2Foo9HH-2Bmnx5bSAb0LzyTclDNsmOHepLstMooXIsv-2BwzymtHD1WqTiHV3Ygt6HDgonr-2Fc=
+CVlHQwBKFYSyBDnUVeBBJqsmX1BrHQ-2BFW4NSJ4PFVUIQ3lrNtqjq7KnSBVL71yMelsXpUcPPT=
+-2FyNx1daq32JlS7HVI0" target=3D"_self" style=3D"word-wrap:break-word;color:=
+#AB6934;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Pen+Paper" class=3D"kmImage" src=3D"https://d3=
+k81ch9hvuctc.cloudfront.net/company/eWuRjh/images/332705ac-8781-4aa4-9ee6-c=
+e237ad16105.png" width=3D"103" style=3D"border:0;height:auto;line-height:10=
+0%;outline:none;text-decoration:none;padding-bottom:0;display:inline;vertic=
+al-align:bottom;max-width:103px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-bottom:none;tex=
+t-align:center;width:105px;border-top-style:none;padding-bottom:0px;padding=
+-right:0px;padding-left:0px;padding-top:0px;border-top-color:#d9d9d9;border=
+-top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rgSNFMMeX9k-2FO89Z9QQCzcdm2vC=
+2eVuWahURO8QpXLo9l0XEqU7DJoiWzfHaWI9oIIcbqAM68hc4cQWZIyX8PeKkFauMI6nvH-2Buv=
+ePt4hBUjPurgZ6VBbUTO-2FtjbHsUZLh43FEeqcrFVTxx-2FZsUj6nCyly7Yv2g43f6jccQx8pj=
+NwyjOb-2BH00KvPuwkIPIBRt6xQeZWkNOYzkWUCZcasBxBr8m-2B71ESwrwKCdEor2oKE-3D_fl=
+-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFR=
+xD76dMNgRrIYkaNrKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtF=
+IrHua-2FoJ3BeWxzYu2Foo9HH-2BmnzUbXtLKzY9hlluSMA8CYU5wBQkAgydkgxcCwZLPBKjJ6G=
+HUqM4w2RXzkvfP23ZHu-2B29Rj-2B9MtL96Fy68o8CxgGzeoaeiCP-2FRa2RIb1vNiswxKcdXiB=
+fN8KH9nF9XD5gha-2F1xOnFBdEu3sR6rfEa4SY" target=3D"_self" style=3D"word-wrap=
+:break-word;color:#AB6934;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Accessories" class=3D"kmImage" src=3D"https://=
+d3k81ch9hvuctc.cloudfront.net/company/eWuRjh/images/9c655e12-7924-450b-8512=
+-81cb42a11873.png" width=3D"105" style=3D"border:0;height:auto;line-height:=
+100%;outline:none;text-decoration:none;padding-bottom:0;display:inline;vert=
+ical-align:bottom;max-width:105px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-bottom:none;tex=
+t-align:center;width:106px;border-top-style:none;padding-bottom:0px;padding=
+-right:0px;padding-left:0px;padding-top:0px;border-top-color:#d9d9d9;border=
+-top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rCEFFVge3midyRzrwKEEzcykrudI1=
+2Ngy-2B6WtWO88Q3rzQR1u4byBc70DPhGyJBrRSchaiTmQXABLFO4iCJPXAvldSluYXWTj2pXEZ=
+NWCEpkjD43tZnJpiPlZwgZUibrbPhvNkOcnuGgkya6NpdbvUhpP94zBcJFPWYtyamekew6R-2BB=
+tacTQCRZUgHqzlyI2CBiOXGkX-2BBKL-2FrHTusogtHyDKTi0xJxOzeYn97QheMvc-3D_fl-2FM=
+BkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76=
+dMNgRrIYkaNrKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHu=
+a-2FoJ3BeWxzYu2Foo9HH-2BmnxqCZpiBRW0lB5cZpQy7zQwA7fDC6gGHsqXzZCK1IXaEZbakci=
+YS7borEjS9dDV7cf1mk2nJpOVkoyD7tityO1r0RQ6zHSlJ0t-2FBlst4Zijfd-2FZd8gXlZPCsX=
+AcbxTzL2A-2FPI55L-2BxLgp27wIwHLroQ" target=3D"_self" style=3D"word-wrap:bre=
+ak-word;color:#AB6934;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"Home + Body" class=3D"kmImage" src=3D"https://=
+d3k81ch9hvuctc.cloudfront.net/company/eWuRjh/images/0e70e514-698c-46fd-a76d=
+-79fe1003c45f.png" width=3D"106" style=3D"border:0;height:auto;line-height:=
+100%;outline:none;text-decoration:none;padding-bottom:0;display:inline;vert=
+ical-align:bottom;max-width:106px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td valign=3D"top" class=3D"kmTextContent" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;border-right:none;bord=
+er-bottom:none;text-align:center;width:96px;border-top-style:none;padding-b=
+ottom:0px;padding-right:0px;padding-left:0px;padding-top:0px;border-top-col=
+or:#d9d9d9;border-top-width:1px;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-r=
+space:0">
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rXM-2F7oGyZ8X7UyH7xJyNRzf175r=
+dfzlKhwSNdzZm6WnJpyVARbY3jZ85iGAWf2Sa2JQUe7dl3FxmKlTC00vwmbMOZ-2BDvf-2BPc0c=
+793j5E6jxKfV0OvNPYGqHmXYawxbvT0CzWdU5UfU2tSTUoBWBlNF-2BrDz8gRnTtZ0AHhUR3LlV=
+qlSb94E3SZ5mgVsPvvWBl-2BM0qM0F3o31N1RA6AgI3osA-3D-3D_fl-2FMBkJMX7HXblz8UUSY=
+qUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNC=
+iYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2F=
+oo9HH-2BmnzZ6ikXxeE4z0A-2F660a6HmEJwYThiHfTITd08Jux5gtACsQjygfrjNjEIiBD-2BB=
+jjAiGcyOu4ztOqXI1nXsDy41QqLcpeV3Rpuy2Zqd6NMS6wiwIJmIOaDnhQoBs0ddWiAHBLIIIvW=
+9oHRqyURd5wisF" target=3D"_self" style=3D"word-wrap:break-word;color:#AB693=
+4;font-weight:bold;text-decoration:underline">
+<img align=3D"center" alt=3D"On Sale" class=3D"kmImage" src=3D"https://d3k8=
+1ch9hvuctc.cloudfront.net/company/eWuRjh/images/55bad85c-160c-433e-801f-b55=
+89b48f79e.png" width=3D"96" style=3D"border:0;height:auto;line-height:100%;=
+outline:none;text-decoration:none;padding-bottom:0;display:inline;vertical-=
+align:bottom;max-width:96px;">
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse:collapse;mso-t=
+able-lspace:0;mso-table-rspace:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"templateRo=
+w" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-=
+table-rspace:0">
+<tbody>
+<tr>
+<td class=3D"rowContainer kmFloatLeft" valign=3D"top" style=3D"border-colla=
+pse:collapse;mso-table-lspace:0;mso-table-rspace:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmImageBlo=
+ck" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso=
+-table-rspace:0">
+<tbody class=3D"kmImageBlockOuter">
+<tr>
+<td class=3D"kmImageBlockInner" style=3D"border-collapse:collapse;mso-table=
+-lspace:0;mso-table-rspace:0;padding:0px;" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmImageContentContainer" width=3D"100%" style=3D"border-collapse:colla=
+pse;mso-table-lspace:0;mso-table-rspace:0">
+<tbody>
+<tr>
+<td class=3D"kmImageContent" valign=3D"top" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0;padding:0;padding:0;text-align: ce=
+nter;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DXA79layvopib5FAmL=
+BP07JMDLnhijq4Iy47jolBnRZ69kt9jn0qzKdB5z7AAot2rh5Uk7pRMON2GzQOR6mm-2BvvU6dF=
+KihHxhTMpl2SptpESvNmEZsEwblTb8FFb2LQ9OrVejtW0W0XC5XjJVIIFNeScmB2Ci8VxdlgvWO=
+Ecrb-2FI6ub0DRANwTiKW5lDCX2nOoqi2vUMRE-2BCURpJkgY-2FUo-2B6gXM9Tzi5EVicNo2aL=
+45i1PX2GeRl2KR4CpBOrvt0VUBwLfI2hTRLKrurxMI2En5LJhURxpyTDTUrBx6XLrnpE5jUnz6a=
+EyDxjFgmC9tPN_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2z=
+wkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fIn=
+wzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2Foo9HH-2BmnwJMblvLHeIXdazAQrUxWQ5ouz4yDI=
+zzj7A-2BcsqvPcXLKDHDgXwnLQCzmaABAOKjPFV1VhbJfpEUQ05qdNGNU1gdw9P-2B4jZgF6x9I=
+F0J8-2F-2FeC8-2BUaTa-2Bl7QG5AbPlWcBtJCZ28D2jvHDbYFGlOWoNTn" target=3D"_self=
+" style=3D"word-wrap:break-word;color:#AB6934;font-weight:bold;text-decorat=
+ion:underline">
+<img align=3D"center" alt=3D"Leather Wristwear" class=3D"kmImage" src=3D"ht=
+tps://d3k81ch9hvuctc.cloudfront.net/company/eWuRjh/images/c44fc8d9-e834-480=
+7-af25-82e198c69b4a.jpeg" width=3D"600" style=3D"border:0;height:auto;line-=
+height:100%;outline:none;text-decoration:none;padding-bottom:0;display:inli=
+ne;vertical-align:bottom;max-width:600px;">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonBa=
+rBlock" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0">
+<tbody class=3D"kmButtonBarOuter">
+<tr>
+<td class=3D"kmButtonBarInner" align=3D"center" valign=3D"top" style=3D"bor=
+der-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;padding-top:9px=
+;padding-bottom:9px;background-color:#252525;padding-left:9px;padding-right=
+:9px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonBa=
+rContentContainer" width=3D"100%" style=3D"border-collapse:collapse;mso-tab=
+le-lspace:0;mso-table-rspace:0">
+<tbody>
+<tr>
+<td align=3D"center" class=3D"kmVerticalButtonBarContentOuter" style=3D"bor=
+der-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;padding-left:9p=
+x;padding-right:9px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmButtonBa=
+rContent" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rs=
+pace:0;font-family:Helvetica, Arial">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"border-collapse:collapse;mso-t=
+able-lspace:0;mso-table-rspace:0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-col=
+lapse:collapse;mso-table-lspace:0;mso-table-rspace:0">
+<tbody>
+<tr>
+<td valign=3D"top" style=3D"border-collapse:collapse;mso-table-lspace:0;mso=
+-table-rspace:0">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmVerticalButton" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"kmVerticalButtonIconContent" s=
+tyle=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;padd=
+ing-right:10px;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DC4KLh-2BJ7CF3DDDX=
+H68f8fF7b0-2FgSNeA-2FXZuGAPwUi1mO-2F2gLOdiJn3XFqDl1w72yZRFk3FKYD7JGkFLTGX6Z=
+1Nvy7VPY8TPD8ObCg0Ak8eqk34OQ8W-2F50kmJawxyKXMP7n9W6JRyyBBRUvPBadLDkZ42gE1db=
+-2BYKh5zGwvQHUcMjLBmBYNE9vg0dB6O2XaKx8UP9KH8Mzbu-2BSq9qLdvtpNDgYabs26ihiiET=
+t-2Fk5Qa-2BsrJfpqdC2OgU5iLuQhr6a_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHl=
+uMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNCiYqM16Tezb2HUxQyJUHW=
+maFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2Foo9HH-2BmnzK4K9O7w3W=
+l6siEKQ1LXaTvffic3RsT4LJQX9odkUBNWsbgfNsDR4mqaTgxcJl-2FotD4zM-2BwTQrKWSencU=
+VFYF0dWp-2BOr7-2B3ghPiMP5EP5m-2Fu0P2khaSl8kyp-2FCL0qkuuhzE2ED0XeuFJi-2FQzWh=
+d4bG" target=3D"_blank" style=3D"word-wrap:break-word;color:#AB6934;font-we=
+ight:bold;text-decoration:underline"><img src=3D"https://d3k81ch9hvuctc.clo=
+udfront.net/assets/email/buttons/subtleinverse/facebook_48.png" alt=3D"Face=
+book" class=3D"kmButtonBlockIcon" width=3D"48" style=3D"border:0;height:aut=
+o;line-height:100%;outline:none;text-decoration:none;width:48px; max-width:=
+48px; display:block;"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align=3D"left" valign=3D"top"><![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmVerticalButton" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"kmVerticalButtonIconContent" s=
+tyle=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;padd=
+ing-right:10px;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DECI9sKIdQky2LYIFp=
+l1ldbMVnwKe1pH7nlp1RgfV0LM1vuucv999bPfFLjMlXOKZyIoSDfUSgu7cIJpUFrO5WmHRghYO=
+dEP2W6VRG4P3u-2FyA4Oq7-2Fg-2FuxgsJFylE8zexb-2Fc2-2FMqsC1ns5fopSHdeanzo2-2Ff=
+ZjeVON-2BBzH-2Bk4RCdR53nHS4NVJqAom3vgLSXUEFFj4U0ACzLi-2Fdcowdy5nnmB7SYCQfmv=
+ZegZq0XU-2B-2FDv4gel-2B7NsR0hqoIcNM6sD_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9u=
+m4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNCiYqM16Tezb2HUx=
+QyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2Foo9HH-2BmnxOpT=
+8iI6PLLLPIfWsdDZkusjTIAnXgUq4tQ2fT9vf93r1vI43pZagfcTWVLR-2FxWCSTTsIi-2BW-2F=
+PpqK9wJlJaj7U2mYPOcphMTjpWNf398oKkJVo8PIP-2BmQlTmelEMqFEe5WtvwV1cK2ayJG7ocb=
+IQL6" target=3D"_blank" style=3D"word-wrap:break-word;color:#AB6934;font-we=
+ight:bold;text-decoration:underline"><img src=3D"https://d3k81ch9hvuctc.clo=
+udfront.net/assets/email/buttons/subtleinverse/twitter_48.png" alt=3D"Twitt=
+er" class=3D"kmButtonBlockIcon" width=3D"48" style=3D"border:0;height:auto;=
+line-height:100%;outline:none;text-decoration:none;width:48px; max-width:48=
+px; display:block;"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align=3D"left" valign=3D"top"><![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmVerticalButton" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"kmVerticalButtonIconContent" s=
+tyle=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;padd=
+ing-right:10px;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3Da5fIIgaMH2fAnJWwm=
+T5w-2F3afw29byx8n0PqLqBCy-2B9trUMCcd6-2Bc9NtaJJcFn3G3klLcLvfmWbfgcz9jSLlnq6=
+fFRKG-2F-2BEih9yyefRRDBRLZ3QsBczQskpZ6k7dEMScFJdG4LF6ILOtbXvB379gRfXcFyquFa=
+a084oXG6x5fOWZNq20VuS7xqfGayrEPyMoujYPImpkzsV2avL2Auk8h-2BSykHCHtFWjgMSnZtL=
+rvcCHxDkblgGIcJVkrFtByPnESGn9RANcQiSA16kWs5iCKvA-3D-3D_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKg=
+NCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu=
+2Foo9HH-2Bmnz6P9eolM5Iol3HRm63OliH7Xrw9W-2BgWGclbH37thSSx2vx3scUobvhawZ4yww=
+sAbmk-2F6Qxi4ZaBMpfWODXisfXRS-2ByBlyGDlhw-2BRJWadc8iFkcOzTQZ0ZkNtEH2Liuh5Hh=
+W24AMzaVc2BmS2WcMHqe" target=3D"_blank" style=3D"word-wrap:break-word;color=
+:#AB6934;font-weight:bold;text-decoration:underline"><img src=3D"https://d3=
+k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/instagram_48=
+.png" alt=3D"Instagram" class=3D"kmButtonBlockIcon" width=3D"48" style=3D"b=
+order:0;height:auto;line-height:100%;outline:none;text-decoration:none;widt=
+h:48px; max-width:48px; display:block;"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align=3D"left" valign=3D"top"><![endif]-->
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmVerticalButton" style=3D"border-collapse:collapse;mso-table-lspace:0=
+;mso-table-rspace:0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" class=3D"kmVerticalButtonIconContent" s=
+tyle=3D"border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0;">
+<a href=3D"http://delivery.klaviyomail.com/wf/click?upn=3DPxeGYuveMfIzt0emy=
+9GBO48i6T8GE0BeWjiqaudNmP6aBWhLTv-2B1I-2FHJcZbdLv6-2FT71TJVSoc8YCSSobkBZPvK=
+TD5U9QKQJUXbHwJXRhEnzt82TZon7O8yMdibHZWGjoav5U8pHX-2ByqO1EMEv1BDhPr4q10Lu-2=
+Bs06L6Du8w-2BCy6bMk3-2Fa5OKODge5r10GBEn5LliCqcAdvAYGGYQ4uajEftjb-2BLjcui233=
+eGcn8NGsF-2BoTUrCg2xR5odM4Ly1grGpXRMaIBy3SAv75qXGsZ0xQ-3D-3D_fl-2FMBkJMX7HX=
+blz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIY=
+kaNrKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3B=
+eWxzYu2Foo9HH-2BmnxPQWwwUCOMVUEOjr89vnGa7akqzrFdrhMgadxgz6ttQYx9PfcfYWDoB0N=
+2r8ANHfxsZvztRTdrL0lIO1wHq5vbEWh7FNsFwpCDSXFZtUwurXfmIFC8sTE8-2BSN-2FmPuChW=
+ugSyPZ5-2BBF-2FuD76zDkcnko" target=3D"_blank" style=3D"word-wrap:break-word=
+;color:#AB6934;font-weight:bold;text-decoration:underline"><img src=3D"http=
+s://d3k81ch9hvuctc.cloudfront.net/assets/email/buttons/subtleinverse/pinter=
+est_48.png" alt=3D"Pinterest" class=3D"kmButtonBlockIcon" width=3D"48" styl=
+e=3D"border:0;height:auto;line-height:100%;outline:none;text-decoration:non=
+e;width:48px; max-width:48px; display:block;"></a>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if gte mso 6]></td><td align=3D"left" valign=3D"top"><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"kmTextBloc=
+k" width=3D"100%" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-=
+table-rspace:0">
+<tbody class=3D"kmTextBlockOuter">
+<tr>
+<td class=3D"kmTextBlockInner" valign=3D"top" style=3D"border-collapse:coll=
+apse;mso-table-lspace:0;mso-table-rspace:0;">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"kmTextContentContainer" width=3D"100%" style=3D"border-collapse:collap=
+se;mso-table-lspace:0;mso-table-rspace:0">
+<tbody>
+<tr>
+<td class=3D"kmTextContent" valign=3D"top" style=3D"border-collapse:collaps=
+e;mso-table-lspace:0;mso-table-rspace:0;color:#000;font-family:Helvetica, A=
+rial;font-size:16px;line-height:150%;text-align:left;font-size:11px;color:#=
+a9a9a9;padding-bottom:9px;text-align:center;padding-right:18px;padding-left=
+:18px;padding-top:9px;background-color:#252525;">
+<span style=3D"font-size:12px;"><strong>No longer want to receive these ema=
+ils?</strong><br>
+You can <a class=3D"unsubscribe-link" style=3D"color:#AB6934;font-weight:bo=
+ld;text-decoration:underline;" href=3D"http://delivery.klaviyomail.com/wf/c=
+lick?upn=3DzcJVUU1N2DVISj5PEqQH3VtkRJJRoWUNNTNJguh4Bnqc7gijh9LYHFI1aAkV-2Fn=
+dSNRBI6HiP6XlJS8-2BrJuKfndPEiY4LDLlNvPF1o5iRDYF7M-2BqKvg3SpAS8-2BTq7OJNuS56=
+SWXfyY8509QlqS0H2ohTlruOx8Pj-2BdM3S2lPKEng-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B=
+1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaNrKgNCiYqM16T=
+ezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWxzYu2Foo9HH-2=
+BmnxESLstZf1CwMSnKLl2eqgoE0lM5d-2FI-2FYQISAcvy70bmVuNG9ZdajkzWhhhJqMLEtf5Vx=
+g18SUda65dsNerkzWQMUWs0Lhzm6ITcLw8kBeI2ts-2FRxv5OJER-2B4SYYvcZ650P3Pc7K7XfI=
+KrHcXvB5d6f">unsubscribe here</a>.<br>
+Robert Mason Co. 17 Brickel St Columbus, OH 43215</span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+
+<img src=3D"http://delivery.klaviyomail.com/wf/open?upn=3Dfl-2FMBkJMX7HXblz=
+8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr62TPRxFRxD76dMNgRrIYkaN=
+rKgNCiYqM16Tezb2HUxQyJUHWmaFXbsFO4ubChq01fInwzZKNOgGXRf-2BtFIrHua-2FoJ3BeWx=
+zYu2Foo9HH-2BmnxJVTM746QgnMExuii1ELds6jy-2Fm6k3bjwgAYELG2DH2GCfZ8qQ6C6iZv9H=
+EjIGRag8GxJyrLDEVC8-2FMuUHuqYdpAVT2-2F9SWFkoucGvu-2B-2F6AiwVZwrrWNHH2JxI3Nu=
+D8ZNyjavLmvR-2FAeD5vEseg7JK" alt=3D"" width=3D"1" height=3D"1" border=3D"0"=
+ style=3D"height:1px !important;width:1px !important;border-width:0 !import=
+ant;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !impo=
+rtant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !i=
+mportant;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============6013427751181875246==--

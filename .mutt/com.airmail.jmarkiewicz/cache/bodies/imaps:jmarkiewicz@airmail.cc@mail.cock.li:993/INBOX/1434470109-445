@@ -1,0 +1,154 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=vw8A5yrKpfI5DVckfoYuk8DP8Je0NGU/3Av0i7X7/Fc=;
+        b=e047EdDvy5CkmoCBeMVIG1DxNVV8rnVuIMK3x9ljFhpANvnr/xftS1zuWW1ToIhYDV
+         XVk3ItOQ0upIqjL3A4YPmQfxiv5/cqyaY3wvm1lYgpNJXGK9I3Jp2GRlI73Gx7j/LVmo
+         6bMpp0d7XRtMiTn6JkR5zTQgsViAuIsLRnkCaKYPYDjX8tyPa+b6HaUkYvpxjl7kEklc
+         KudsV4slC/730ihYhVbFK4rhKuQjKA6dbz0DvgGYLcNoqnWHv2b+UzuxiyCnljlyIN5R
+         8KYUWPJYcnbyNFcxqshCCnU60UwSKv5n2ZKxpfUAkPEJgRvc/Q9wWb9XyUxcX6qEP0ZU
+         7Rdw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=vw8A5yrKpfI5DVckfoYuk8DP8Je0NGU/3Av0i7X7/Fc=;
+        b=BoOPfFsUDaeWBKb0aPZB7WrXce7kVyKr963otGu0VBtun4yJTkxIbDahQ4J3l869r2
+         73gOzo8S/zXEwvbDYgRzmpHbE0abI3UkNewk7zmzijSJBJE7ODAariL+PfG1O53BYs17
+         Dj7mVI7Uu5g4ONbH63qX4pZYuG/54CgYF2eJi4aS1BOmMUQlKAPu6jL46jrfaxymX3Y0
+         OWJTejkC4PqB7kHRH1UgP6dILa2v2o+V13nXqa2tjec7V+QI/CSfNhYVUc1wPIaw3LBf
+         Az+CTBeL60QVkThvMuR4WOsEPfsilvcx3VpwN14rDNsvngQykHj6bUU7BAtQUvVhGy2W
+         5dvw==
+X-Gm-Message-State: ALoCoQn8WltrLWgJHcuOlYeKLutmKtQzqX13u7FxpGfIpFVr6RAyaR5vkNWaJpYgLJOrOJxKQOvF
+MIME-Version: 1.0
+X-Received: by 10.31.178.141 with SMTP id b135mr55195128vkf.89.1448915886296;
+ Mon, 30 Nov 2015 12:38:06 -0800 (PST)
+Date: Mon, 30 Nov 2015 15:38:06 -0500
+Message-ID: <CAGs8aKreCLpZFaQNh0JzhVtxFuULhCdEKAtBwNfMnDpOZ39Yvw@mail.gmail.com>
+Subject: December Choir Update
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a1143e186b6685d0525c80482
+
+--001a1143e186b6685d0525c80482
+Content-Type: text/plain; charset=UTF-8
+
+Hello Choir Families,
+It is almost December and with the new month comes an extremely busy time
+for the choir program! Here's whats coming up in the next few weeks:
+
+1. Monday, December 7th - Grade School Music Tour. Students will be
+traveling to St. Michael, OLP, St. Brigid, and St. Brendan during the
+school day to perform. The travel permissions and emergency medical slips
+you turned in at the beginning of the school year serve as permission. If
+you would prefer your student to not miss this day of school, please let me
+know so arrangements can be made. Students will be taking school buses to
+all locations and will be eating lunch on their own at the Olentangy Plaza.
+Students will need to bring money to purchase lunch.
+
+2. Wednesday, December 9th - After School Concert Rehearsal 3:30-5pm in the
+Old Gym. This is a mandatory rehearsal for all students.
+
+3. Thursday, December 10th - 6:15pm Call, 7:00pm Concert in Old Gym.
+Students are to meet in the Choir Room at 6:15 in uniform to warm-up before
+the concert.
+
+
+4. Raising Cane's Spirit Night - Wednesday Dec. 9th. After rehearsal, swing
+by the Olentangy River Rd. location between 5-9pm for dinner. Hand them the
+Flyer and the choir will receive 20% of your total purchase.
+
+5. After the Concert, a Cookie and Punch Reception is held in the
+cafeteria. Please bring the following items and place in the cafeteria
+before coming to the Choir Room on December 10th:
+Freshman - Napkins, Plates, Cups
+Sophomores - Cookies
+Juniors - Beverage
+Seniors - Your pick of any of the above
+
+6. Thanks for picking up your Poinsettias. There were some really beautiful
+flowers this year!
+
+7. Friday, Dec. 18th State Auto Nativity Performance 7pm - I will send out
+more information closer to the date. Students will not need to be in
+uniform, but should dress warmly as they are performing outside. This is
+not a mandatory performance, but encouraged. It will not last longer than
+30-40 minutes.
+
+I am sure I've forgotten something I should've included. Please let me know
+if you have any questions and you'll probably receive another email from me
+next week.
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a1143e186b6685d0525c80482
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Choir Families,<div>It is almost December and with t=
+he new month comes an extremely busy time for the choir program! Here&#39;s=
+ whats coming up in the next few weeks:</div><div><br></div><div>1. Monday,=
+ December 7th - Grade School Music Tour. Students will be traveling to St. =
+Michael, OLP, St. Brigid, and St. Brendan during the school day to perform.=
+ The travel permissions and emergency medical slips you turned in at the be=
+ginning of the school year serve as permission. If you would prefer your st=
+udent to not miss this day of school, please let me know so arrangements ca=
+n be made. Students will be taking school buses to all locations and will b=
+e eating lunch on their own at the Olentangy Plaza. Students will need to b=
+ring money to purchase lunch.=C2=A0</div><div><br></div><div>2. Wednesday, =
+December 9th - After School Concert Rehearsal 3:30-5pm in the Old Gym. This=
+ is a mandatory rehearsal for all students.</div><div><br></div><div>3. Thu=
+rsday, December 10th - 6:15pm Call, 7:00pm Concert in Old Gym. Students are=
+ to meet in the Choir Room at 6:15 in uniform to warm-up before the concert=
+.</div><div><br></div><div><br></div><div>4. Raising Cane&#39;s Spirit Nigh=
+t - Wednesday Dec. 9th. After rehearsal, swing by the Olentangy River Rd. l=
+ocation between 5-9pm for dinner. Hand them the Flyer and the choir will re=
+ceive 20% of your total purchase.</div><div><br></div><div>5. After the Con=
+cert, a Cookie and Punch Reception is held in the cafeteria. Please bring t=
+he following items and place in the cafeteria before coming to the Choir Ro=
+om on December 10th:</div><div>Freshman - Napkins, Plates, Cups</div><div>S=
+ophomores - Cookies</div><div>Juniors - Beverage</div><div>Seniors - Your p=
+ick of any of the above</div><div><br></div><div>6. Thanks for picking up y=
+our Poinsettias. There were some really beautiful flowers this year!=C2=A0<=
+/div><div><br></div><div>7. Friday, Dec. 18th State Auto Nativity Performan=
+ce 7pm - I will send out more information closer to the date. Students will=
+ not need to be in uniform, but should dress warmly as they are performing =
+outside. This is not a mandatory performance, but encouraged. It will not l=
+ast longer than 30-40 minutes.</div><div><br></div><div>I am sure I&#39;ve =
+forgotten something I should&#39;ve included. Please let me know if you hav=
+e any questions and you&#39;ll probably receive another email from me next =
+week.</div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div s=
+tyle=3D"margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><font color=
+=3D"#000000" face=3D"Calibri">Christen Joyce</font></span></b></div><font c=
+olor=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"mar=
+gin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Cali=
+bri" size=3D"3">Choral Director</font></span></b></p><font color=3D"#000000=
+" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt=
+"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3"=
+><span><font color=3D"#830b2c">Bishop</font></span> <span><font color=3D"#8=
+30b2c">Watterson</font></span> High School</font></span></b></p><font color=
+=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:=
+0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calibri" size=3D"3"><a h=
+ref=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" target=3D"_blank"><=
+font color=3D"#1155cc">(614) 268-8671</font></a> x 289</font></span></p><fo=
+nt color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><div style=
+=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a href=3D"htt=
+p://www.bishopwatterson.com/" target=3D"_blank"><span style=3D"color:rgb(13=
+1,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwatterson.com</font><=
+/span></a></span></div><div style=3D"margin:0in 0in 0pt"><span style=3D"col=
+or:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=3D"https://docs.go=
+ogle.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;rev=
+id=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr">=
+<div><div></div></div></div><div dir=3D"ltr"><div></div></div></span></div>=
+</div></div></div></div>
+</div>
+
+--001a1143e186b6685d0525c80482--

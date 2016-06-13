@@ -1,0 +1,116 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.73.69 with SMTP id w66csp3479063oia;
+        Wed, 13 Jan 2016 06:54:28 -0800 (PST)
+X-Received: by 10.28.20.83 with SMTP id 80mr27722378wmu.89.1452696868605;
+        Wed, 13 Jan 2016 06:54:28 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22f.google.com (mail-wm0-x22f.google.com. [2a00:1450:400c:c09::22f])
+        by mx.google.com with ESMTPS id q124si37055873wmd.110.2016.01.13.06.54.28
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 13 Jan 2016 06:54:28 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) client-ip=2a00:1450:400c:c09::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@rpinow.org
+Received: by mail-wm0-x22f.google.com with SMTP id f206so284511649wmf.0
+        for <kuiperhaumea@gmail.com>; Wed, 13 Jan 2016 06:54:28 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:from:reply-to
+         :to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:list-unsubscribe;
+        bh=knbsxTnJfhiuX8ODFczPml1nYsdQmyS6NY43ZfYAtr0=;
+        b=hZjqjFXaOV2CWVvbM72RKYNgtiAZg/r5Bc2cWG2bGfuhjKR+G2bg5zfsKtbON4MlY2
+         yc1L66TZdXc2VXGPLSeTGzqUAU94/yVI89+K1JITxksawi+oATDjYBtmxuMOPXqoPcl9
+         lQ+sjKziiY6BW/bbJCVB4lCXm6/swlehfqp48UVc4Fi9xT0smhuZDVpo8H9DYRuUP4IW
+         iC/DzgW2PzPCVvY2siXL6+gprcUWfdvx8cweiYmVLsgZHm7MlR0+AgLNJp/2rxIW+8Ow
+         93CEF+e3M7jir/cOACqj6kxO6iECL52XL1om2HeZ3tiWOtZGg+fZ3+kIUOvp8hIsdt6y
+         SMaA==
+X-Gm-Message-State: ALoCoQm6+1dbeYjHi+r9bUyCixkuuZ4NxHikFU/8Wd8+HnnCLPtkfG9zYItdRTQjoKhWNrVQHnCCO09nxsjOJMYpwBoxDNXpC5Tv6AOTIMMjSbGW8C332Jo=
+X-Received: by 10.194.134.134 with SMTP id pk6mr30612347wjb.176.1452696868371;
+        Wed, 13 Jan 2016 06:54:28 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.221.69 with SMTP id u66csp3207130wmg;
+        Wed, 13 Jan 2016 06:54:27 -0800 (PST)
+X-Received: by 10.55.81.2 with SMTP id f2mr57241009qkb.87.1452696867605;
+        Wed, 13 Jan 2016 06:54:27 -0800 (PST)
+Return-Path: <RPIAdmissions@rpinow.org>
+Received: from mta935.app-info.net (mta935.app-info.net. [68.142.179.35])
+        by mx.google.com with ESMTP id u8si1645936qki.75.2016.01.13.06.54.27
+        for <markiewicz.john@gmail.com>;
+        Wed, 13 Jan 2016 06:54:27 -0800 (PST)
+Received-SPF: pass (google.com: domain of RPIAdmissions@rpinow.org designates 68.142.179.35 as permitted sender) client-ip=68.142.179.35;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=rpinow.org; h=date:from
+	:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=SKZemZx7aqzYiQUrzlzWf4yyoRY=; b=zgKVG8v+LZ
+	/Jwg3JHgdF5DgveyXf7teZmC+R/OGBUfkJDVNwXsjsj3bksOFdmJ3spAVeB6agZk
+	cRyVRIP3NjVqTTqkg7FQL5jRdqnds+YpkjDilS8qzYxbzgUSNOa6cAg3qOPY1E6j
+	NQ27Ntel1os9wVtoSMvtQ+PnrUViUIdGY=
+Received: from mta61.app-info.net by Postman123.app-info.net with Rome(1.0.38873) id <pd.2.pF2.jA17802.sJj.26394878.rA7.3248.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Wed, 13 Jan 2016 09:27:40 -0500
+Date: Wed, 13 Jan 2016 09:27:40 -0500 (EST)
+From: Rensselaer Polytechnic Institute <RPIAdmissions@rpinow.org>
+Reply-To: Rensselaer Polytechnic Institute <RPIAdmissions@rpinow.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <959542080.28692868.1452695260487.JavaMail.nobody@clavin4123.royall.com>
+Subject: January 15 is almost here
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:RPIAdmissions@rpinow.org?subject=unsubscriberfc2369%2022Z6C3I9W4E8I7K8RAMJ~8%206024%20INQ>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>January 15 is almost here</title>
+</head>
+<body>
+<p>Dear John,</p>=20
+<p>Rensselaer Polytechnic Institute still wants to receive your <strong><a =
+href=3D"https://www.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/=
+yLOE/cyp/st/cmm/6024/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">Candida=
+te's Choice Application</a>.</strong> However, we must hear from you by the=
+ <strong>January 15</strong> deadline.</p> =20
+<p>We offer programs in architecture, business, science, the humanities, ar=
+ts, social sciences, and engineering, and our innovative curriculum breaks =
+down the barriers between disciplines. In fact, students are not required t=
+o declare a major in their first year on campus.</p>=20
+<p>As a reminder, when you <a href=3D"https://www.rpinow.org/turn/cai/a2I/s=
+pn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yLOy/cyp/st/cmm/6024/esd/34b41b15991976f76122=
+a90fa740d0b1dc5a8809/">apply today</a>, you will enjoy...</p>=20
+<ul>=20
+ <li>Fewer questions so applying is streamlined.</li>=20
+ <li>Areas of the application that have been personalized with information =
+about you.</li>=20
+ <li>Automatic consideration for merit scholarships, saving you time.</li>=
+=20
+</ul>=20
+<p>The <strong>application deadline of January 15</strong> is almost here. =
+We encourage you to <a href=3D"https://www.rpinow.org/turn/cai/a2I/spn/22Z6=
+C3I9W4E8I7K8RAMJ~8/lik/yLOM/cyp/st/cmm/6024/esd/34b41b15991976f76122a90fa74=
+0d0b1dc5a8809/">apply now using your very own <strong>Candidate's Choice Ap=
+plication</strong></a><strong>,</strong> the <strong><a href=3D"https://www=
+.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yLOa/cyp/st/cmm/602=
+4/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">Common Application</a>,</s=
+trong> or the <strong><a href=3D"https://www.rpinow.org/turn/cai/a2I/spn/22=
+Z6C3I9W4E8I7K8RAMJ~8/lik/yLOO/cyp/st/cmm/6024/esd/34b41b15991976f76122a90fa=
+740d0b1dc5a8809/">Universal College Application</a>.</strong> We treat all =
+of these applications equally when considering you for admission, and you w=
+ill receive the same benefits with each, including automatic consideration =
+for merit scholarships.</p>=20
+<p>Best wishes,</p>=20
+<p>Karen S. Long<br /> Director, Undergraduate Admissions<br /> Rensselaer =
+Polytechnic Institute<br /> 110 8th Street<br /> Troy, NY 12180-3590</p>=20
+<p style=3D"font-size: 0.8em;">We received your information from a previous=
+ contact. If you would rather not get e-mail from RPI again, please <a href=
+=3D"https://www.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yLOr=
+/cyp/st/cmm/6024/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">let us know=
+</a>.</p>
+</body>
+</html>

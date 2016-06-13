@@ -1,0 +1,62 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-type:content-transfer-encoding;
+        bh=BJIuHpBYToPNOMXZwYgMBGlYwHX6H8ZZd5p8I4f0BEI=;
+        b=wkcvRzQwoUFeu85dyMjdPvbWETG2MEqS7EPZytns9DWNA6x8UE8bVgKX61+gP6XLR/
+         OwRtYmx80gzQyaP46E2io6SUrvYfCD/AFTrky3TRzCb4Siv37SSdteNexpCPvrtmvs8a
+         pqKJ1V3GB1mZ1cmjTrmh0RCiCHsddqQR/rIOrZ80gBPZaAXQQAc2ub432M9mNqOgMj6n
+         I5e11mDfFW5r2ydJfOlamqz2qoCFSvhpMWI3aG/k7C9VyJT+H7O5PHaBNXWwYPs5OPbK
+         jrGit+wYf+MIzqE630LwLyfegKTsQqwvtsCGEnsAUl30t5WY4Oyei7T7OFM8NhWfvbm0
+         1htA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version:content-type:content-transfer-encoding;
+        bh=BJIuHpBYToPNOMXZwYgMBGlYwHX6H8ZZd5p8I4f0BEI=;
+        b=du4c/UpgFSFbaPbpzBuug9amKl5TTUGOTsDr2D4yfZD1NKNBIz3ETgHU3anLm1DOu9
+         T6IzXMi6FhUwGxh0I44gTNyzTzRuy+Iwy9HIAQijoRBC9HlH+S1qGpJkHYHFN9Ft/sHF
+         v8hHdjRADc4o6lfI84YjxI8XaUrAXcxKOjGDBYgAo8uMQYBvrDW/GVT7G08TuPgRhVBz
+         3Btl9rKyxHJ/wKwrqDnbgCUu3Niy7BDev7vz98kNQvud9/WJfhAhVcZKkD7Otiyawoog
+         JuLw6jlscx2vqUDgDJNtDse1JqdA2kXeVDEOI3u1dwGMNvfUhAzXfe1jHz8w/s8FnET2
+         uEhA==
+X-Gm-Message-State: AG10YOS5QZOhnfaUminbwvye/iRElROEoNd3zU4+XzGG11qZoyvsqgHi3RSWUWCOw5Ta8g==
+X-Received: by 10.107.128.167 with SMTP id k39mr19293567ioi.26.1455584939475;
+        Mon, 15 Feb 2016 17:08:59 -0800 (PST)
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Subject: majic
+Message-ID: <56C276A8.6070207@gmail.com>
+Date: Mon, 15 Feb 2016 20:08:56 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Icedove/38.5.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead[R]{\thepage}
+-- 
+Shannon Markiewicz, Ph.D.
+      __
+     (  \
+ __   \  '\
+(  "-_ \ .-'----._
+ '-_  "v"         "-
+    "Y'             ".
+     |                |
+     |        o     o |
+     |          .<>.  |
+      \         "Ll"  |
+       |             .'
+       |             |
+       (             /
+      /'\         . \
+      "--^--.__,\_)-'
+
+- by andy753421 (with two very minor edits by uriel)

@@ -1,0 +1,138 @@
+Return-Path: <kriegersaurusrex@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=w+Pcb2xcMn4wkLAYEQtp01vCvLF1gQUq3DdSiDoHIY0=;
+        b=e3dmoZGYLM98qeLJqPnUb3cuxvz9e5kI/fb5VgMTHeaBdJ8aArAHH6I68nidJf4O/y
+         CvZ/f78nTmgHfqNwwTlmLT3ZKXeRDpM1kl+vOF4PPhMIAY+94zWZgDfoPT+6uoowPYEP
+         fu9Q/EpDvnHZ+NL+h2VniiD7+SLCqBG9+v5Lpx26t/tqnQYRGl0L9GEV6KS5WdAoNOq5
+         Uy66rtV8g0F+oFDg2hkC0i+p5auJDidf1RZXmlFKE6eLMw96VXx+BQvhGzY/X2I1aM2Y
+         gJZ5CSgSHy0Uii4r+6O5AIsITenLLD4nHrM1sIITdhOS0fdYpzLnznIe1kKaIpddeHoP
+         nW2w==
+MIME-Version: 1.0
+X-Received: by 10.50.43.134 with SMTP id w6mr18426913igl.74.1441998274136;
+ Fri, 11 Sep 2015 12:04:34 -0700 (PDT)
+In-Reply-To: <BA9E8CFA4826F54C825938B752C2F30B290977C9@WP-MBX1.milky-way.battelle.org>
+References: <BA9E8CFA4826F54C825938B752C2F30B290977C9@WP-MBX1.milky-way.battelle.org>
+Date: Fri, 11 Sep 2015 15:04:34 -0400
+Message-ID: <CAMQPgFNAbMKS-xZP7ttPyLjnx8NAzQ7V+DBZ28+zs3H+3=Md5g@mail.gmail.com>
+Subject: Fwd: [Osu-ctf] Hardware RE
+From: Alex Krieger <kriegersaurusrex@gmail.com>
+To: jmarkiewicz@airmail.cc
+Content-Type: multipart/alternative; boundary=089e01184b0ce5942f051f7d625c
+
+--089e01184b0ce5942f051f7d625c
+Content-Type: text/plain; charset=UTF-8
+
+---------- Forwarded message ----------
+From: Toterhi, John V <TOTERHIJ@battelle.org>
+Date: Fri, Sep 11, 2015 at 2:38 PM
+Subject: [Osu-ctf] Hardware RE
+To: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Cc: "Weaver, Katherine M" <WEAVERK@battelle.org>
+
+
+Hello everyone,
+
+Next Tuesday (9/15) Katie Weaver will be teaching her hardware reverse
+engineering workshop to anyone who wishes to participate during the OSU-CTF
+meeting.
+
+Katie is an electrical engineer here at Battelle and specializes in
+hardware reverse engineering. As with most hardware projects, there are
+significant software aspects which need to be considered. We'll take a look
+at a hardware blackbox and work towards understanding what it does and
+modify its behavior.
+
+This is a great opportunity to learn something new and get hands-on
+experience with embedded software. Please consider attending. Tuesday
+September 15th in Dreese Labs 263 conference room from 7-9PM.
+
+The workshop is designed to take a full two hours.  You will need AVRDude<
+https://learn.adafruit.com/usbtinyisp/avrdude> (scroll down for
+Windows/Linux/Mac options),  your favorite hex editor<
+http://www.sweetscape.com/010editor/> (30-day free trial on 010), and a
+computer.
+
+Steve Romig will be unavailable for this meeting, so we are looking for
+someone to open the room around 6:45PM so we can setup.  If you have access
+to open the room and plan on attending, please email me.  If it looks as if
+we will be unable to secure the room, I'll send another email early next
+week to reschedule.
+
+Thanks,
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org<mailto:toterhij@battelle.org>
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+
+--089e01184b0ce5942f051f7d625c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div class=3D"gmail_quote">---------- Forwarded messag=
+e ----------<br>From: <b class=3D"gmail_sendername">Toterhi, John V</b> <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:TOTERHIJ@battelle.org">TOTERHIJ@battel=
+le.org</a>&gt;</span><br>Date: Fri, Sep 11, 2015 at 2:38 PM<br>Subject: [Os=
+u-ctf] Hardware RE<br>To: &quot;<a href=3D"mailto:osu-ctf@lists.osu.edu">os=
+u-ctf@lists.osu.edu</a>&quot; &lt;<a href=3D"mailto:osu-ctf@lists.osu.edu">=
+osu-ctf@lists.osu.edu</a>&gt;<br>Cc: &quot;Weaver, Katherine M&quot; &lt;<a=
+ href=3D"mailto:WEAVERK@battelle.org">WEAVERK@battelle.org</a>&gt;<br><br><=
+br>Hello everyone,<br>
+<br>
+Next Tuesday (9/15) Katie Weaver will be teaching her hardware reverse engi=
+neering workshop to anyone who wishes to participate during the OSU-CTF mee=
+ting.<br>
+<br>
+Katie is an electrical engineer here at Battelle and specializes in hardwar=
+e reverse engineering. As with most hardware projects, there are significan=
+t software aspects which need to be considered. We&#39;ll take a look at a =
+hardware blackbox and work towards understanding what it does and modify it=
+s behavior.<br>
+<br>
+This is a great opportunity to learn something new and get hands-on experie=
+nce with embedded software. Please consider attending. Tuesday September 15=
+th in Dreese Labs 263 conference room from 7-9PM.<br>
+<br>
+The workshop is designed to take a full two hours.=C2=A0 You will need AVRD=
+ude&lt;<a href=3D"https://learn.adafruit.com/usbtinyisp/avrdude" rel=3D"nor=
+eferrer" target=3D"_blank">https://learn.adafruit.com/usbtinyisp/avrdude</a=
+>&gt; (scroll down for Windows/Linux/Mac options),=C2=A0 your favorite hex =
+editor&lt;<a href=3D"http://www.sweetscape.com/010editor/" rel=3D"noreferre=
+r" target=3D"_blank">http://www.sweetscape.com/010editor/</a>&gt; (30-day f=
+ree trial on 010), and a computer.<br>
+<br>
+Steve Romig will be unavailable for this meeting, so we are looking for som=
+eone to open the room around 6:45PM so we can setup.=C2=A0 If you have acce=
+ss to open the room and plan on attending, please email me.=C2=A0 If it loo=
+ks as if we will be unable to secure the room, I&#39;ll send another email =
+early next week to reschedule.<br>
+<br>
+Thanks,<br>
+<br>
+John Toterhi<br>
+Cyber Computer Scientist<br>
+Cyber Innovations - Mission Focused Tools<br>
+Office: <a href=3D"tel:614.424.3681" value=3D"+16144243681">614.424.3681</a=
+> | Fax: <a href=3D"tel:614.458.3681" value=3D"+16144583681">614.458.3681</=
+a><br>
+<a href=3D"mailto:toterhij@battelle.org">toterhij@battelle.org</a>&lt;mailt=
+o:<a href=3D"mailto:toterhij@battelle.org">toterhij@battelle.org</a>&gt;<br=
+>
+_______________________________________________<br>
+Osu-ctf mailing list<br>
+<a href=3D"mailto:Osu-ctf@lists.osu.edu">Osu-ctf@lists.osu.edu</a><br>
+<a href=3D"https://lists.osu.edu/mailman/listinfo/osu-ctf" rel=3D"noreferre=
+r" target=3D"_blank">https://lists.osu.edu/mailman/listinfo/osu-ctf</a><br>
+</div><br></div>
+
+--089e01184b0ce5942f051f7d625c--

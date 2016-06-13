@@ -1,0 +1,41 @@
+Return-Path: <abteeter@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=content-type:content-transfer-encoding:from:mime-version:date
+         :subject:message-id:to;
+        bh=hcgzV2ZbenpyuxL5yS96IZA4aJWVZ6NCwn25mHHFlq8=;
+        b=GSE5M94DymvRFg8uxW7CcKfN3CWpdKO2ElklZaFAFC/je/JdOKG7mkzMry1dHOY4Ws
+         M8VeD3Li8p9InI8zcjXcsl7OOZL3CRyVtw67BcTonUJ85VO5eozKdp4dK7PVRLjxyh/H
+         RFzjOejzvQdsusBnWEsEpiV9WaH9O3Sw7NEk+UCzW9I6NbTnq0eXqxdTytPNVbXp5keQ
+         r4iJlPLYaE/8vkLKjPxpxlniB//lJhrHmKufZlgzjNa+upOCrBOblnNF6T1hDElmLv4x
+         965TWdRWVPrznTU8AHJtuleYJzuPLKp9bf41WjGhzLbyNSkvZASGzkFXWy2EOa+VS+fl
+         2s2A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:content-type:content-transfer-encoding:from
+         :mime-version:date:subject:message-id:to;
+        bh=hcgzV2ZbenpyuxL5yS96IZA4aJWVZ6NCwn25mHHFlq8=;
+        b=HwldAjKpM2wEbFgqYpfk+j7bNxE3xJsmXGLUBgHJ5hor/LaohuvTATENAbWZ0DFVST
+         5qJnEmhfn4Vep4FHYzQGayEjpQEO5A/w4+kGMM7/qKsIW3aORxT8uOsQSe6tS7a9y6XU
+         2tuv/vNvjOZWviIDFza/9CvjuxYceN6pfo2UC7yRUDWXAVo/0lt1NDef7OaLz5kjzZwA
+         G8XVFaOOPRxoorz9EHcPmXQGkJwfmOzHuqGGk2wHC4AKrGonokSayHhPH/gKh8mXJG5n
+         Al/T1pp5AaUHby3MWLM/KRdjatl/HpflvVC5q5BYNp4oRga+QqGJb12URqz2PlkMYxx1
+         aLUg==
+X-Gm-Message-State: AG10YOTBkuwShzd5PdAEpTlHZbLjDW0SG6++51lcSF96Ldy/bRaVMSoK+y9Bne+nFN+6yZAj
+X-Received: by 10.50.115.10 with SMTP id jk10mr18513257igb.71.1454863622958;
+        Sun, 07 Feb 2016 08:47:02 -0800 (PST)
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+From: Abby Teeters <abteeter@cdeducation.org>
+Mime-Version: 1.0 (1.0)
+Date: Sun, 7 Feb 2016 11:47:01 -0500
+Subject: Senior bio?
+Message-Id: <5BED57B6-4364-4E46-9BA3-A6E6F7ADB189@cdeducation.org>
+To: jmarkiewicz@airmail.cc
+X-Mailer: iPad Mail (13D15)
+
+Ummmmmmm? You didn't email it to me yet- did ya? Keep me posted...we need it=
+ =F0=9F=91=8D=F0=9F=8F=BC
+
+Sent from my iPad=

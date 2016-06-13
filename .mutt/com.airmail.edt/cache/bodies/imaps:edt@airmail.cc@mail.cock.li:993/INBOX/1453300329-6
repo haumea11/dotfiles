@@ -1,0 +1,58 @@
+Return-Path: <bounce-idlenotify+edt=airmail.cc@mail.afraid.org>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=afraid.org; s=mail;
+	t=1453356159; bh=QluP5TTJJ6lbFdjQge3YDSSm9AD1WGF7fzjafjDtpXM=;
+	h=Reply-To:From:To:Subject:Date;
+	b=PxkzJ7DqY9K+UU9uqEW3rmIhDNJ3KZl9GubfeRIhyGq3FLJiTTP5e7ow5b8epjyiR
+	 0nzOjzvWJd5QCiVxdAUz8whtP2nDH6awIW7eDU2A09TSQgbJcA9R0Vr9Dt0dqWDAE5
+	 fkAAGy5QEty1QZap5kvwERsmt1oRrHLhIGtP3N2il5Zf6eDtfXhtss4v9odDl3WQ9K
+	 QzsCKESOrxAQXPZP17fkLUnXORqEZZ+AhyxSu0zR/A4gvfVdGeddKCO8joX9JeeEmW
+	 YK4GGSryEqkHK2xHGnaHSPTVqlGI8+C4s6VMiNzwqLSpAOzlgbVOgQlqgcXWCBDzIM
+	 P+kitdumlDU/Q==
+Reply-To: Josh @ FreeDNS <dnsadmin@afraid.org>
+From: Josh @ FreeDNS <dnsadmin@afraid.org>
+To: John M <edt@airmail.cc>
+Subject: [freedns] Idle account status is approaching on your free account in 2 weeks
+X-Mailer: 4, 8, 15, 16, 23 and 42
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Message-ID: <20160120220234.a705286dbba2cc05e9950cacbf11f6c0@mail.afraid.org>
+Date: Wed, 20 Jan 2016 22:02:34 -0800 (PST)
+
+To: John M (edt):
+
+Your account at freedns.afraid.org has not been visited in at
+least 5 1/2 months.
+
+ User: John M (edt)
+ Last visited: 2015-08-04 (169 days ago)
+
+Unless you visit any member page of freedns.afraid.org while
+logged in during the next 2 weeks, your account will soon be
+considered dormant.  "Dormant" consists of unloading any stale
+DNS records from memory which you may have set up in the past.
+ This is a courtesy reminder.
+
+Users supporting freedns.afraid.org with a premium plan of any
+size are not affected.
+
+With regards,
+
+Josh
+
+Your login at http://FreeDNS.afraid.org is "edt"
+You signed up on 06/23/2015 from 174.103.121.141
+This email delivered to edt@airmail.cc
+
+To be removed from future mailings, please visit
+http://freedns.afraid.org/nomail/?vHWQZBcDaRWHm8X8SHmXZUXs
+
+-- 
+Joshua Anderson
+Senior Admin @ FreeDNS.afraid.org
+Now servicing 2,539,208 members and 86,488 domains.
+Currently processing 2,756 DNS queries per second.
+
+The highest compliment we could receive would be a premium membership.

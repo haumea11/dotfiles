@@ -1,0 +1,276 @@
+Return-Path: <Leagueoflegends@email.riotgames.com>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; d=email.riotgames.com; s=ym1024; c=relaxed/simple;
+	q=dns/txt; i=@email.riotgames.com; t=1439683401;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=oISF8BYxA8r0nhlJmX3HJFs7Wb0=;
+	b=RIO3vr7XcAI2Mm1SSG9FVBohzfBWWP+xhN10B71Lix5Rg1OHtll3Bcaqgw6wmDZ8
+	MH61sBCAy9zIDj9iPAjPiEzeG1mjQHHCre9NeuSwRYYq7gb5OAfCA4lgbbOABnNR
+	2dghoePReeTzpOKO0S0Ugj4rXCGo06K7tmOumaChGM4=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ym1024; d=email.riotgames.com;
+	h=Date:From:Subject:To:Sender:X-Header-Versions:X-Header-CompanyDBUserName:List-Unsubscribe:Message-ID:X-Vitals:Reply-To:X-Header-MasterId:MIME-Version:Content-Type;
+	b=FUu2a7hGHljYQ3yNRPkGcuEHoXzKlhvtCdB/TGsh5KS7X2/0fwDQSQArty+24y3M
+	VjNF7wTIZRc8gujladWBGxgIB0xljWgwbfFVpITC+qwJuDQEb4y+Cbqx49Onvpu4
+	xVkMbPrtRN8cQjFh518e4Y+1lLvCP3eHLt+tnpAniwA=
+Date: Sat, 15 Aug 2015 20:03:21 EDT
+From: "League of Legends" <Leagueoflegends@email.riotgames.com>
+Subject: Riot Points purchase receipt
+To: edt@airmail.cc
+Sender: "League of Legends" <Leagueoflegends@email.riotgames.com>
+X-Header-Versions: LeagueofLegends.6r3yb6pc6k.fdk6@email.riotgames.com
+X-Header-CompanyDBUserName: riotgames
+List-Unsubscribe: <mailto:riotgames6r3yb6pc6k.6fdk6@email.riotgames.com?subject=unsubscribe>
+Message-ID: <LeagueofLegends.6r3yb6pc6k.fdk6@email.riotgames.com>
+X-Vitals: 1.100603.117871479.1085403.10.1c5d
+Reply-To: LeagueofLegends.6r3yb6pc6k.fdk6@email.riotgames.com
+X-Header-MasterId: 1085403
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+        boundary="==========_ALT_1451519089_====="
+
+NOTE: You are reading this note because your email program does not
+support messages in multi-part "MIME" format (you can see the plain
+text version of the message, but the HTML version is garbled).  The 
+best solution to this problem is to upgrade to an email program that
+supports MIME.  If you can't do that, then just ignore the part
+of this message that is improperly displayed by your current email
+program.
+
+--==========_ALT_1451519089_=====
+Content-Type: text/plain; charset=us-ascii
+
+   
+
+*********************** RIOT GAMES ************************************* 
+View in Browser 
+http://link.email.riotgames.com/t.d?VYGt_9kQHMyqwF=/@HTML_2PREVIEW_2LINK_0a=oCCyHetp7RpGVe9Nqm0jDFrH&msgVersion=web 
+************************************************************************ 
+(C) 2015 Riot Games. All rights reserved
+ 
+10738 Jefferson Blvd. #622, Culver City, CA 90230
+
+http://link.email.riotgames.com/u.d?1YGt_9kQHMyqwF3879=182                    
+
+http://link.email.riotgames.com/u.d?rYGt_9kQHMyqwF387J=222
+
+ESRB Teen http://link.email.riotgames.com/u.d?l4Gt_9kQHMyqwF385v=402
+
+Is this email legit?
+http://link.email.riotgames.com/u.d?p4Gt_9kQHMyqwF38-ih=512 
+
+Unsubscribe
+http://email.riotgames.com/unsubscribe.jsp?s=YoBR&i=34512091839&s=Y0-p&i=46006075586
+
+ 
+--==========_ALT_1451519089_=====
+Content-Type: text/html; charset=us-ascii
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+     
+      
+     
+    
+
+<style type="text/css">
+
+@import url(http://fonts.googleapis.com/css?family=Oswald); 
+.open {font-family: 'Oswald', Arial, Helvetica, sans-serif !important;} 
+body{ margin:0px; padding:0px; font-family: 'Oswald', Arial, Helvetica, sans-serif !important; }
+
+td { mso-line-height-rule:exactly !important; } 
+.External { width:100% }        /* force Outlook.com to honor line-height */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass Font, .ExternalClass td, .ExternalClass div{ line-height:100%; }
+
+/* prevent iOS auto-linking */
+.appleLinks1 * { color:#252726; text-decoration:none; }  /* main copy     */
+.appleLinks2 * { color:#ed3029; text-decoration:none; }  /* red copy      */ 
+.appleLinks3 * { color:#535353; text-decoration:none; }  /* footer copy   */
+
+@media screen and (max-width: 480px){ 
+body[yahoo] .resizeFullWidth { width:95% !important; min-width:95% !important; }
+body[yahoo] .fullWidthImg {       /* stretches image to entire cell width */
+	width: 100% !important;
+	height:auto !important;
+	min-width: 100% !important;
+} 
+body[yahoo] .stack { display:block !important; width:100% !important;}
+body[yahoo] .alignLeft {text-align:left !important}
+body[yahoo] .alignRight {text-align:right !important}
+body[yahoo] .hide { width:0px !important; height:0px !important; display:none !important; }   /* use to hide cells or images */
+
+/* Old header image
+body[yahoo] .mobileHead2 { display:block !important; background-image: url('http://media.4at5.net/email_domains/ris/143833/images/merchBan_2a.png') !important; background-size:100% 100% !important; width:300px; height:100px !important; }*/
+
+/*** Text/Divider/Image Styles ***/
+body[yahoo] .mobileCenter {margin-left:auto !important; margin-right:auto !important; text-align:center !important; padding:0px 20px !important; position:relative !important; min-width:95% !important; }
+body[yahoo] .mobileCenterL {margin-left:auto !important; margin-right:auto !important; text-align:center !important; padding:0px 20px !important; position:relative !important; width:225px !important; height:auto !important;}
+body[yahoo] .mobileTitleC { text-align:center !important; font-size:20px !important; line-height:22px !important; }
+body[yahoo] .stackCenter { display:block !important; width:100% !important; padding:0px !important; text-align:center !important; }
+body[yahoo] .stackCenterT { display:block !important; width:100% !important; padding:0px !important; text-align:center !important; position:relative; bottom:100px; !important}
+body[yahoo] .stackCenterM { display:block !important; width:100% !important; padding:0px !important; text-align:center !important; position:relative; bottom:-75px; !important}
+body[yahoo] .paddingTop20 { padding-top:20px !important}
+body[yahoo] tr.table-cell { display:table-cell !important; }
+body[yahoo] td.table-row { display:table-row !important; }
+}
+
+</style> 
+<title>Riot Points purchase receipt</title>
+</head>
+<body style="margin:0px; padding:0px;" yahoo="fix">
+<img src="http://link.email.riotgames.com/1x1.dyn?1MkFNeAaCCyHGh4T2vOgZeh7b=0" width=1 height=1  width="1" height="1" border="0"> 
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td width="100%" align="center" bgcolor="#000000" style="min-width:600px;"> 
+		
+		
+<!-- Pre-Header -->
+		<table cellpadding="0" cellspacing="0" border="0" width="100%" class="hide" align="center" bgcolor="#8b8f92">
+			<tr>
+				<td valign="middle" align="center" style="color:#000000; font-size:11px; line-height:24px; -webkit-text-size-adjust:none; font-family: 'Oswald', Arial, Helvetica, sans-serif;"><font face="'Oswald', Arial, Helvetica, sans-serif;">
+				&nbsp;
+
+				</font></td>
+			</tr>
+			<tr>
+				<td bgcolor="#000000" align="center" valign="top" width="100%"> <img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="20" border="0" alt="" style="display:block"></td>
+			</tr>
+		</table>
+
+<!-- Header -->
+		<table align="center" width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#252525"  >
+			<tr>
+				<td class="stack" align="left" valign="top" width="300"><img src="http://media.4at5.net/email_domains/ris/143833/images/paymentHeader.jpg" width="300" height="60" border="0" alt="" style="display:block"></td>
+				<td class="hide" align="left" valign="top" width="300"><img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="300" height="60" border="0" alt="" style="display:block"></td>
+			</tr>
+		</table>
+
+<!-- ADDITIONAL LANGUAGE MAILING  -->
+
+
+
+
+
+<!-- Trans_mod15payments2 -->
+        <table align="center" width="600" cellpadding="0" cellspacing="0" border="0" class="full-width-content" bgcolor="#e4e4e4">
+            <tr>
+                <td class="mobileHide" align="left" valign="top" width="24"> <img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="20" border="0" alt="" style="display:block"></td>
+                <td class="mobileCenter" align="left" valign="top" width="552"> 
+                <table align="left" width="552" cellpadding="0" cellspacing="0" border="0" class="full-width-content">
+                    <tr>
+                        <td align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="10" border="0" alt="" style="display:block"></td>
+                    </tr>
+                    <tr>
+                        <td align="left" valign="top" style="font-size:22px; line-height:36px; font-family: 'Oswald', Arial, Helvetica, sans-serif; color:#252726; text-transform:uppercase;"><font face="'Oswald', Arial, Helvetica, sans-serif;">THANK YOU <span style="color:#ed3029;"></span></font></td>
+                    </tr>
+
+                    <tr>
+                        <td align="left" valign="top" style="font-size:14px; line-height:18px; font-family: 'Oswald', Arial, Helvetica, sans-serif; color:#252726; word-break:keep-all;-ms-word-break:keep-all;"><font face="'Oswald', Arial, Helvetica, sans-serif;">Thanks for your order easterndaylighttime<br><br>Your League of Legends account has been credited with Riot Points.<br><br>You have bought: <b>1380 Riot Points</b><br><br>You have paid: <b>10.00 USD</b><br><br>You can redeem your Riot Points immediately in the League of Legends Store by clicking on the orange button top right of the client. Use your Riot Points to unlock champions, skins, boosts, and more!<br><br>If you need to contact player support regarding this transaction, please have the following information ready:<br><br><b>Date:</b> Sunday, August 16, 2015 12:03:20 AM<br><b>Transaction ID:</b> LN5DLRH0KLN7<br><b>Payment Instrument:</b> Credit/Debit card<br><br>Then go to <a href="http://link.email.riotgames.com/t.d?VYGt_9kQHMyqwF=/support.leagueoflegends.com/" target="_blank" style="text-decoration:none;"><font color="#000000"><u>support.leagueoflegends.com</u></font></a> or visit the support forums.<br><br>Thank You,<br><br>Riot Games
+                        
+  
+                        </font></td>
+                    </tr>
+                    <tr>
+                        <td align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="10" border="0" alt="" style="display:block"></td>
+                    </tr>                  
+                    <tr>
+                        <td align="left" valign="top" style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;"><img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="10" border="0" alt="" style="display:block"></td>
+                    </tr>
+                </table>
+                </td>
+                <td class="mobileHide" align="left" valign="top" width="24"> <img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="20" border="0" alt="" style="display:block"></td>
+            </tr>
+        </table>
+<!-- END - Trans_mod15payments2 -->
+
+
+
+<!-- END CUSTOMIZATION -->
+<!-- END ADDITIONAL LANGUAGE MAILING -->
+<!-- Spacer-->
+		<table align="center" width="600" cellpadding="0" cellspacing="0" border="0" class="resizeFullWidth">
+			<tr>
+				<td bgcolor="#000000" align="center" valign="top" width="100%"> <img src="http://media.4at5.net/email_domains/ris/143833/images/spacer.gif" width="12" height="20" border="0" alt="" style="display:block"></td>
+			</tr>
+		</table>
+<!--start BRAND_FTR-->													
+																						
+
+            <table class="resizeFullWidth" width="600" cellpadding="0" cellspacing="0" border="0" align="center">
+              <tr>
+                <td height="20" style="font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+
+              <tr>
+                <td class="stack" align="center"> 
+                <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td class="stackCenterM" align="center">
+                    
+                    
+                    <a href="http://link.email.riotgames.com/u.d?F4Gt_9kQHMyqwF3879=183" target="_blank" style="text-decoration:none;"><img src="http://media.4at5.net/email_domains/ris/143833/triggerImages/logoLOL.png" width="165" height="70" border="0" alt="League of Legends" style="display:inline"></a>                     
+                    </td>
+
+                    <td class="stackCenterT" align="center" width="124"><a href="http://link.email.riotgames.com/u.d?aYGt_9kQHMyqwF387J=223" target="_blank" style="text-decoration:none;"><img src="http://media.4at5.net/email_domains/ris/143833/images/RiotGamesLogo.png" width="99" height="77" border="0" alt="Riot Games" style="display:inline"></a> </td>
+
+                 <td class="stackCenter" align="center">
+<a href="http://link.email.riotgames.com/u.d?H4Gt_9kQHMyqwF385v=403" target="_blank" style="text-decoration:none;"><img src="http://cdn.leagueoflegends.com/global-elements/0.0.20/images/esrb.jpg" height="77" border="0" alt="ESRB Teen" style="display:inline"></a>
+</td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="20" style="font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+
+
+              
+              
+              <tr>
+                <td class="stack" align="center" width="100%"> 
+                <table cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="stackCenter"><a href="http://link.email.riotgames.com/u.d?J4Gt_9kQHMyqwF38-oT=1893" target="_blank" style="text-decoration:none;"><font color="#535353" face="'Oswald', Arial, Helvetica, sans-serif;">EULA</font></a></td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="hide">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="stackCenter"><a href="http://link.email.riotgames.com/u.d?BYGt_9kQHMyqwF38-oW=1903" target="_blank" style="text-decoration:none;"><font color="#535353" face="'Oswald', Arial, Helvetica, sans-serif;">Privacy Policy</font></a></td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="hide">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="stackCenter"><a href="http://link.email.riotgames.com/u.d?aYGt_9kQHMyqwF38-od=1913" target="_blank" style="text-decoration:none;"><font color="#535353" face="'Oswald', Arial, Helvetica, sans-serif;">Terms of Use</font></a></td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="hide">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+                    <td align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="stackCenter"><a href="http://link.email.riotgames.com/u.d?SYGt_9kQHMyqwF38-pg=1923" target="_blank" style="text-decoration:none;"><font color="#535353" face="'Oswald', Arial, Helvetica, sans-serif;">Support</font></a></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>   
+
+              <tr>
+                <td class="stack" height="25" style="font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+
+
+
+              <tr>
+                <td width="100%" align="center" valign="middle" style="font-size:11px; line-height:19px; color:#535353; font-family: Helvetica, Arial;" class="mobileCenter"><font face="'Oswald', Arial, Helvetica, sans-serif;"> This is a service notification mailing.<br> &copy; 2015 Riot Games. All rights reserved<br> <span class="appleLinks3">10738 Jefferson Blvd. #622, Culver City, CA 90230</span>
+                </font></td>
+              </tr>
+
+              <tr>
+                <td height="36" style="font-size:1px; line-height:1px;">&nbsp;</td>
+              </tr>
+            </table>
+<!-- END BRAND_FTR -->
+
+		</td>
+	</tr>
+</table>
+</body>
+</html>
+
+--==========_ALT_1451519089_=====--
+

@@ -1,0 +1,670 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp941373oid;
+        Fri, 17 Jul 2015 07:06:51 -0700 (PDT)
+X-Received: by 10.70.40.227 with SMTP id a3mr29591026pdl.119.1437142010907;
+        Fri, 17 Jul 2015 07:06:50 -0700 (PDT)
+Return-Path: <bounces+563224-9097-kuiperhaumea=gmail.com@sg.pandora.com>
+Received: from o6.sg.pandora.com (o6.sg.pandora.com. [198.37.154.102])
+        by mx.google.com with ESMTPS id hu1si18901837pbb.37.2015.07.17.07.06.50
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Jul 2015 07:06:50 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+563224-9097-kuiperhaumea=gmail.com@sg.pandora.com designates 198.37.154.102 as permitted sender) client-ip=198.37.154.102;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+563224-9097-kuiperhaumea=gmail.com@sg.pandora.com designates 198.37.154.102 as permitted sender) smtp.mail=bounces+563224-9097-kuiperhaumea=gmail.com@sg.pandora.com;
+       dkim=pass header.i=@sg.pandora.com;
+       dkim=pass header.i=@sendgrid.info;
+       dmarc=pass (p=NONE dis=NONE) header.from=pandora.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sg.pandora.com; 
+	h=content-type:mime-version:from:to:reply-to:subject; s=may2015; 
+	bh=vd+/3iJoC5v8OZpjfv+iKsLf+fY=; b=giBBm9L9C6kU8+Zg3Twwq0B4nPSR8
+	Stqjq9bum1qXlV6a8NevutZe8PfK9T5Dp7kpKdv/2Wm8LPrbF5NEvLClg+NqdUIJ
+	XD3UcEiRM/s86BEJaUnAKNog3Sg0nflVuy6vvZpu8mBUMGYNbzC/IoKRWrhqrJiG
+	aAMJZD7zJzjSQU=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:mime-version:from:to:reply-to:subject:x-feedback-id; 
+	s=smtpapi; bh=vd+/3iJoC5v8OZpjfv+iKsLf+fY=; b=FDMT+c5MrXCYCjW2Zb
+	WxFly6bB8j32l1Xx3/85zFM+S7717ciITV7sHLjOTUloP15mgueiS9a3tzyBjGdD
+	YG8aWzH0rQfshhEEWdLcYiFmNNinooehl4qpa2aQqfzMVNrSHK45+fC2caEQ2FF/
+	J1LODxwdpVUWeZIkwNxVjH+Tk=
+Received: by filter-388.sjc1.sendgrid.net with SMTP id filter-388.8255.55A90BD922
+        2015-07-17 14:06:17.852067222 +0000 UTC
+Received: from NTYzMjI0 (unknown [10.42.83.122])
+	by ismtpd-062 (SG) with HTTP id 14e9c564b29.449c.37736e
+	for <insidethegenome@pandora.com>; Fri, 17 Jul 2015 14:06:17 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============0001335400772655855=="
+MIME-Version: 1.0
+From: Pandora <insidethegenome@pandora.com>
+To: kuiperhaumea@gmail.com
+Reply-to: no-reply@pandora.com
+Subject: Updates to our Terms of Use and Privacy Policy
+Message-ID: <14e9c564b29.449c.37736e@ismtpd-062>
+Date: Fri, 17 Jul 2015 14:06:18 +0000 (UTC)
+X-SG-EID: St8Xja0n3BHat47iCdqMztVMi9vwHjI+QWDJlVlojNs1YBLIocx8CHF9by7GAotfXptZQvl18C7Mn0
+ J1gPQGqz7KRlE45r1+lQXFAAmVLY3SJCGSCrcalfe9XfpSmd+JfwC/czBKUUPgzWs+mHxzMItVHwI9
+ agyzr1F4KW2NWMA=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LCgc2i8yJTnPJYqWJk+XtY7A0qA1Ptg/NlRlC
+ oifStHIwzOaU3vEUGcphwRK+OCsiT1q03U5o1e8V/yHeKWWr47eC2WlGAUBm1BxQX/5ZOsOo08M91q
+ ibnKlFJeqwW0p/fHizkootLN49pK5uhbVdL/
+X-Feedback-ID: 563224:9ygMGgzqnLk4hojoAt3Vew==:43TBlK/alYysgHzPwrTjLai3kZ1KFoLzyZwLjE2VZ8M=:SG
+
+--===============0001335400772655855==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+An even better Pandora | View Online (  ) =C2=A0 | =C2=A0 Contact Us ( http=
+s://help.pandora.com/customer/portal/emails/new?email[subject]=3DTerms%20Of=
+%20Use%20Update&tc=3Dx-009822-0035-1149 )       ( http://www.pandora.com?tc=
+=3Dx-009822-0035-1149 )                              ( http://www.pandora.c=
+om )
+
+ ( http://www.pandora.com )                                                =
+                    Dear Listener,=20
+       At Pandora, we=E2=80=99re committed to helping you discover the musi=
+c and comedy you love. In an effort to continually improve your listening e=
+xperience, we=E2=80=99ve made some changes to our service =E2=80=93 and the=
+se changes are reflected in our updated Terms of Use and Privacy Policy. Th=
+ese changes apply to all Pandora listeners, which is why we are giving you =
+a heads-up.=20
+
+=20
+  These updated agreements went into effect on June 30, 2015. We recommend =
+you familiarize yourself with the updated  Terms of Use  ( http://www.pando=
+ra.com/legal/?&tc=3Dx-009822-0035-1149 ) and Privacy Policy. ( http://www.p=
+andora.com/privacy/?&tc=3Dx-009822-0035-1149 )=20
+
+=20
+If you don't agree to these updated agreements, you may close your account =
+and you won't be bound by them.=20
+ If you need help or have any questions, don=E2=80=99t hesitate to email a =
+member of our  Listener Support team.  (  https://help.pandora.com/customer=
+/portal/emails/new?email[subject]=3DTerms%20Of%20Use%20Update&tc=3Dx-009822=
+-0035-1149 )
+
+=20
+Keep on enjoying the music you love,=20
+Pandora                                                                    =
+         Key highlights from each agreement:                               =
+                                                                           =
+                                        We have updated our practices, and =
+thus our Terms of Use, to make it easier for your favorite Artists to conne=
+ct with you, and to give you control over how they connect with you.We have=
+ created and published two new policies, our Community and Content Policy (=
+ http://www.pandora.com/legal/community-content-policy/?&tc=3Dx-009822-0035=
+-1149 ), and  Intellectual Property Policy ( http://www.pandora.com/legal/i=
+ntellectual-property/?&tc=3Dx-009822-0035-1149 ), which apply to the conten=
+t you post on Pandora.We have also updated our Terms of Use regarding the w=
+ays in which we may contact you.To our privacy policy, we've added in provi=
+sions that comply with the European Union-Swiss Safe Harbor privacy princip=
+les, and describe how we use data for measurement and how you can control y=
+our participation in those measurement studies.Finally, we also updated our=
+ Terms of Use relating to how legal disputes with us are handled, including=
+ a new informal dispute resolution process and changes to the Arbitration A=
+greement.                                                                  =
+                                                                           =
+                  ( https://www.facebook.com/Pandora )       ( https://twit=
+ter.com/pandora_radio )       ( https://plus.google.com/+Pandora/posts )   =
+    ( http://www.youtube.com/user/pandora )       ( https://instagram.com/p=
+andora_radio )              =C2=A9 Copyright 2015, Pandora Media, Inc. All =
+rights reserved.
+2101 Webster St. Ste. 1650, Oakland, CA 94612
+
+This is a one-time account related email. If you have any trouble, please e=
+mail us ( https://help.pandora.com/customer/portal/emails/new?email[subject=
+]=3DTerms%20Of%20Use%20Update&tc=3Dx-009822-0035-1149 ).
+Privacy Policy ( http://www.pandora.com/privacy?x-009822-0035-1149 )=
+
+--===============0001335400772655855==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, minimum-scale=3D1.0, maximum-scale=3D1.0" />
+<title>Pandora</title>
+<style type=3D"text/css">
+html
+{
+	width: 100%;
+}
+
+body {
+   background-color: #ececec;
+   margin: 0;
+   padding: 0;
+}
+
+.ReadMsgBody
+{
+	width: 100%;
+	background-color: #ececec;
+}
+.ExternalClass
+{
+	width: 100%;
+	background-color: #ececec;
+}
+
+a {
+    color:#308ed5;
+	text-decoration:none;
+	font-weight:normal;
+}
+a:hover {
+    color:#818181;
+	font-weight:normal;
+}
+
+a.top-link {
+	color:#33a0e0;
+	text-decoration:none;
+	font-weight:normal;
+}
+
+a.top-link:hover {
+	color:#888888;
+	text-decoration:underline;
+	font-weight:normal;
+}
+
+p, div {
+	margin:0; padding:0; margin-bottom:0;
+}
+table {
+	border-collapse: collapse;
+}
+
+/*** prevents font resizing */
+html, body, table, td, a, span {
+	-webkit-text-size-adjust:none;
+}
+
+.mbl { max-height: 0px; font-size: 0; display: none; }
+
+
+p.big {
+    line-height: 200%;
+	}
+
+@media only screen and (max-width: 480px)  {
+
+      /*** below is style for body */
+	body{width:auto !important;}
+
+	/*** below is style for full width table */
+	table table{width:100%!important;}
+
+	/*** below is style for 600px table area */
+	table[class=3D"table-600"] {width: 98% !important; }
+
+	/*** resets the width for mobile */
+	td[id=3D"main-width"] {min-width:0px !important; width: 100% !important;}
+
+	/*** below is style for pandora header - do not change */
+	img[class=3D"logo"] {margin: auto !important;}
+
+	/*** below is style for content area */
+	td[class=3D"no-mbl"], table[class=3D"no-mbl"], img[class=3D"no-mbl"], p[cl=
+ass=3D"no-mbl"], div[class=3D"no-mbl"] {display: none !important;}
+	td[class=3D"mbl"], table[class=3D"mbl"], img[class=3D"mbl"], p[class=3D"mb=
+l"], div[class=3D"mbl"] { width: 100% !important; height: auto !important; =
+display:inline !important; max-height: none !important;}
+	td[id=3D"city"] {padding-left:25px !important; padding-right:25px !importa=
+nt; line-height:30px !important;}
+	/*** additional styles for email content */
+
+
+	/*** below is style for footer - do not change */
+	table[id=3D"social"] {width: 250px !important;}
+	td[id=3D"fb"] { padding-left: 4px !important;}
+	}
+</style>
+</head>
+<body bgcolor=3D"#ececec" style=3D"background-color: #ececec;"><div style=
+=3D"background-color:#ececec;"><table width=3D"600" class=3D"table-600" bor=
+der=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#=
+ececec">
+	<tr>
+		<td id=3D"main-width" align=3D"center" width=3D"600" style=3D"padding-rig=
+ht: 5px; padding-left: 5px; min-width: 590px;">
+			<!-- START OF TOP LINKS BLOCK-->
+			<table class=3D"table-600" width=3D"600" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ececec" style=3D"padding:0; =
+margin: 0; ">
+				<tr><!--START OF PREVIEW LINE-->
+					<td bgcolor=3D"#ececec" align=3D"center" style=3D"padding: 0; font-siz=
+e:8px; font-family: Helvetica, Arial, sans-serif; line-height: 8px; color:#=
+ececec;text-align: center;">An even better Pandora | </td><!--END OF PREVIE=
+W LINE-->
+				</tr>
+				<tr>
+					<td bgcolor=3D"#ececec" align=3D"center" style=3D"padding: 7px 0px 10p=
+x 0; font-size:12px; font-family: Helvetica, Arial, sans-serif; line-height=
+: 12px; color:#00aeef;text-align: center;"><a class=3D"top-link" href=3D"ht=
+tp://sg.pandora.com/wf/click?upn=3Dx0ZMg9SA-2BvAxpEPmEVFgz0zicqG1chgkdydAJR=
+haIAyFPdo3N5FWb4I34yBBN-2F8laXREEeDXeJWyNwekaIcIGrHsK-2BXoPgZWbgD6BAI-2BgCo=
+iEMBo0ZK-2FN6aMgRJ0mocDQ2-2FUVHuywBU-2FTmS2qosGlM4eDVgWoDWUbtl3W3MjQJbtY1zE=
+hheu2lZKGllmx4I2pvBK8bYu-2F7Pa2kSGd-2Foyzlst-2FsaGnBGVMePDMJL3ILMKAyRaEUY77=
+aPJb-2FCDcrKlZ0-2Fh5yWyCPGYFrGimBIF2viwr-2B1j42z4hCs0SkvmhzDjM5G6VwKGbsFBpb=
+UbIo7z_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4VoeDM6Fbcf6JMKK34ecfWt6=
+7k3sgzo-2Fg6sJC1tnEgtIFlINw9IeZjZicLu-2FKI8SGpQ0nUHj6BKX1yxv3xJw6MDbP1EaOIL=
+X8FDJEzdXzNAhPZiudvQrLBCfp3oL1o9HHQvNP4ZkcktF7Zk07MKAHYNTJFAK7-2F434ygVMxEN=
+yGQVyzQ93d1I7RPo6G3-2FknMv3eCt0-2F-2FUne3-2B82NPgAQkRIYs1oMZsDXJD27fGuAWvW0=
+5hvd2Ih1NFMgsSgkJF8ZKXkbFNUGL8nwevGgz77E0EZhgbeTsVFOgS-2F2fLLaXyhBS1vqRe8Bu=
+09Dk9krpY-2BJ4R7nKOOxMznkbHqPzhEKz5YPlSIKAAtblgq6of-2BUbsXDQ-3D-3D" style=
+=3D"color: #00aeef; text-decoration:none;">View Online</a> &nbsp; | &nbsp; =
+<a class=3D"top-link" href=3D"http://sg.pandora.com/wf/click?upn=3D-2Fg-2BQ=
+aqtTL1Zwiy2yoAedbLtPrLBLOVjyAHbiMjd1xTJHfNk6j-2BdbVzrjaLEUIcqyuNtVrU2R1qpdE=
+yTk9KCwwsdDtH139YnIZJIOs235uGlozZlrp33RaX-2FXyHVgkMyswNXsW1Ir5H5Q4FKZwxiZxw=
+u32xH0eWBims1v0ebuGHc-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4VoeDM=
+6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNY1XOkE3ZSwGGcfD3NIBRNxDxLLW1soMdD0jN=
+kMfodIWIuQ9odlIbd1NN-2Fl3e5zRGxtsrgXS-2FgG0DfUzvKv1ggPaVUCt50IN-2Bitz9WaJZY=
+iD6IsnJNRm45VEnEUeyyliQfZhbXdIGRNUGNxRe5SAtgYADF9TdKEpEjeFD7ZAx3h9ZCECcxgwV=
+r00Mgii5-2BLWWmANsPPJQLcWmcjEVr7-2BJ-2FctcG-2F6RQ1KR7SkFHyN8I-2B5m7LI6zyc9J=
+6E4M68dusK3X26Hb6xUQQ4Jx8JFFGV2VOflVAuzVIG1qlBFUBE2OafEEQYSJO4IqnVKyPvZXWzs=
+Q-3D-3D" style=3D"color: #00aeef; text-decoration:none;">Contact Us</a>
+					</td>
+				</tr>
+			</table>
+			<!-- END OF TOP LINKS BLOCK-->
+
+	<!-- START OF LOGO BLOCK-->
+			<table class=3D"table-600" width=3D"600" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#004e7b" style=3D"padding: 0;=
+ margin: 0; ">
+			  <tr><!-- START OF LOGO HERE-->
+			    <td width=3D"600" height=3D"18" align=3D"left" valign=3D"top" bgcolo=
+r=3D"#004e7b" style=3D"padding-top: 16px; padding-left: 18px; padding-botto=
+m: 16px; padding-right: 18px; height: 18px;"><a href=3D"http://sg.pandora.c=
+om/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfbvx-2FxqB7zfUOzFRhaTmm4IuVle-2FdUtrQ=
+slUFRPZYr3h7rShwZcVh-2F-2BCRtn0LK2D7w-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-=
+2FtOffWjuJECs4VoeDM6Fbcf6JMKK34ecfWOuPAwdGBfxDdHUx9V1ATp41nRjvKIFZc0ATwQ2B6=
+GTy8XRL4hboQPP3n3-2F-2F5mDPsR73isyVhnBaam7pKbq1-2F5lwHZFwm-2FaYznlmURWyHM7-=
+2BEAaTZjdEGD-2BS-2F2FeFv90-2Bmp2A5Q-2F-2FVCUqsNErhS-2FkFVSCKf1YtbScoIAUi8ja=
+g-2Btb1TpVun34K-2FoYAftT-2BHUFcXb7CL4mD6pOnAQLj8BsoRoqd3St4PXmhJ52ycR9NrPeK=
+87-2F4ibeuWRQLuDR2WbAK0KIseNtMP1VDCd1pdUqOuYDz2Gv5-2Fpq9U1LJViHpUn2kAh-2Fpo=
+VMtoo7sYPz55emydj9sYuLJQEzUz4KhKZ3Yw-3D-3D" style=3D"color:#ffffff;"><img c=
+lass=3D"logo" src=3D"http://www.pandora.com/static/creatives/pandora_email/=
+responsive/logo_pandora1.png" alt=3D"PANDORA" border=3D"0" width=3D"126" he=
+ight=3D"18" style=3D"display:block;" /></a>
+		      	</td>
+					<!-- END OF LOGO HERE-->
+			</tr>
+	      </table>
+		  <!-- END OF LOGO BLOCK-->
+
+       <table class=3D"table-600" width=3D"600" border=3D"0" align=3D"cente=
+r" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"padding=
+:0; margin: 0; ">
+			<tr>
+				<td width=3D"600" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff" s=
+tyle=3D"padding: 0; margin: 0;font-family: Helvetica, Arial, sans-serif; fo=
+nt-size: 28px; font-weight: bold; color: #005587;">
+        		<div class=3D"mbl" style=3D"display:none; width:0px; height: 0px;=
+max-height: 0;"><a href=3D"http://sg.pandora.com/wf/click?upn=3DETtKLe9x3Bv=
+h4Lr9WuiJffKUXGvA8HDUnIvgXaAy1Lo-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWj=
+uJECs4VoeDM6Fbcf6JMKK34ecfWS-2Fwn-2BWNi0xzP9TS2hvVWc9Ya-2Bao6nvRRpnNDqiHMWt=
+1GY3E0ZApupSGyV8qf6frUNLV4ixlxFSrAEBLzfe40Ey4PRt6dzIFVAaszaaNtpFZddqKNTRaMf=
+H56w7fvZcn4O-2ByUR4QEzIDWspijOtM-2BNAQo-2BA8ekVq0Ky2DHb9nthRY7g4Y8KJ1xoQmiy=
+yQ5U8oY5QGkdgZKO-2BybYtspEWCJJFZNpd-2BYQISnOteLXcH-2FvWA2GPETy0W2nHT8HHEtOp=
+iPxvE9DFsOV5yxOqn-2F9T6z-2B3F-2FyATX925rBeM9ePDpk9IdZQBimKouYMEJInfKcVg2UDU=
+Epj8CuLnGSf9RyVwig-3D-3D" style=3D"color:#ffffff;"><img src=3D"http://pando=
+ra.com/static/creatives/pandora_email/1207_TOS_Update/Header_Mbl.jpg" width=
+=3D"0" height=3D"0" alt=3D"Terms of Service" border=3D"0" class=3D"mbl" sty=
+le=3D"display:none; width:0px; height: 0px;max-height: 0;" /></a></div><a h=
+ref=3D"http://sg.pandora.com/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJffKUXGvA8HD=
+UnIvgXaAy1Lo-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4VoeDM6Fbcf6JMK=
+K34ecfWzLNc88qGlSuke8NvjSLCuWsLtPMG8D3eQ4XghPQwaLyrHYPDSsywqmrHfOEtAAy-2Fm9=
+PsFpKRVWN6CzWxnRj5Eu29ugDeMlHgLqmKbNvgJXRxyywgWUcGJcAG5eB-2BoSb0OnVzWTyDDr7=
+k8o4eBpH3KRM4yKhipplDGKNxY4kcAX-2BxiFuyncuVigQZxoN-2F7ZIFhDnUN3XX7gqlLTWbxI=
+KUNnG3V0AW-2FPMtLiPxF17d-2F8X9vrII1r-2F-2BXN5mNS5JWFlC4r7LMR6G7tWrE8wCTdKS5=
+S-2FnfO5vybgbHESxwYDk0zc7yN6LRF3sFwEtM-2FZE5AyT7nJ8-2Bp1-2BEutaxhM3daIkqw-3=
+D-3D" style=3D"color:#ffffff;"><img src=3D"http://pandora.com/static/creati=
+ves/pandora_email/1207_TOS_Update/header.jpg" width=3D"600" height=3D"249" =
+alt=3D"Terms of Service" style=3D"display: block;" border=3D"0" id=3D"heade=
+r" class=3D"no-mbl" /></a>
+                </td>
+			</tr>
+		</table>
+
+        <!-- START OF MAIN CONTENT BLOCK-->
+		<table class=3D"table-600" width=3D"600" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" bgcolor=3D"#FFFFFF" align=3D"center" style=3D"background:#=
+fff; text-align:center;">
+        	<tr>
+            	<td id=3D"content" valign=3D"top" align=3D"center" style=3D"pa=
+dding-top: 6px; padding-bottom: 0px; padding-left: 0px; padding-right: 0px;=
+">
+                <table width=3D"500" align=3D"center" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td id=3D"text1" style=3D"font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; font-size: 16px; line-height: 33px; color: #76777b;font-wei=
+ght: 100; text-align:left; padding-top:25px;padding-bottom: 20px;padding-le=
+ft: 50px; padding-right:50px; font-weight:300;">  Dear Listener, <br> </br>
+=20=20=20=20=20
+
+<p> At Pandora, we=E2=80=99re committed to helping you discover the music a=
+nd comedy you love. In an effort to continually improve your listening expe=
+rience, we=E2=80=99ve made some changes to our service =E2=80=93 and these =
+changes are reflected in our updated Terms of Use and Privacy Policy. These=
+ changes apply to all Pandora listeners, which is why we are giving you a h=
+eads-up. </p> <br />=20
+
+
+
+<p> These updated agreements went into effect on June 30, 2015. We recommen=
+d you familiarize yourself with the updated <a href=3D"http://sg.pandora.co=
+m/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfc6qPYTsuq88aD-2F6SToqYSgvPj5ZolIKHlV4=
+3Y8m68b0SvIG03ookXWhwCeW6DsJQg-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffW=
+juJECs4VoeDM6Fbcf6JMKK34ecfWJWGK5yxu3gxA1i-2F-2FE1ZmtQ-2BRTrZQc2lrQ-2BkEgSd=
+iuWftBg18GTixWucUCuADP0AQ-2FbAk0VYuTrYdH6D-2FgkCfIY25LGUnxKs-2BY9B2wX7QMVot=
+6c1-2Fqwejy3YxggRIkDXEDb0EFQr2wgiaC09hVqrGrnTR5FJAbtfsM7HMZlqZD-2FD-2B6uUfG=
+Do04tOpSd1BMdI8Nfww430lajYpeGywmuYqCpbH07lgaj22-2B0MZlKYi8VIy6jOZAInE44cQA5=
+RAZnNZMbcw2xHcCnEdgshf9F-2BIA87EvFJUZRe2NArSD-2FNNIMiLaohfwbGDMOGALY-2FxMed=
+lgNybPph98j9JCR-2FMNhpLWQ-3D-3D" style=3D"color: #00aeef; text-decoration:n=
+one;" target=3D"blank"> Terms of Use </a> and <a href=3D"http://sg.pandora.=
+com/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfVRCYQYGJO24HIznWtg8E8-2FV-2FiyZKy2R=
+RrolwAFlccdRhVKogxFWmBOMc8N1BlAC6Q-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2Ft=
+OffWjuJECs4VoeDM6Fbcf6JMKK34ecfWZSL1T8ARURZyui3PP5ruOyOHH6QGL6-2BL2HIy10jpP=
+arLzwiyrKO-2FaOBT0CF4A-2FhI4cHcyzAOWW8kYHQa-2Fy378gwuY07sNIRlew3MbmO5JJtdOp=
+G780HaBWAMI53LAwizQBDx2PaaV13qjiBvnwxKcWqC4ExM3WKTOJyV9TSHx5JBOc1EMxHzSHL07=
+48HVC4-2BmWAA-2BO7B13MnvQN5oD6qhtO-2BIKg8imuBhgEDHvuhsuKIo3F2vLvCWLLnirGUMb=
+W-2FOxAm2QmczR7PjSObl7M7-2F2r26XADj0NSCJUMkUDxfSH1mea9-2ByKtCAAdnfZcWuABjy9=
+pwuUICOlG5ion-2FwUPLA-3D-3D" style=3D"color: #00aeef; text-decoration:none;=
+" target=3D"blank">Privacy Policy.</a> </p> <br />
+If you don't agree to these updated agreements, you may close your account =
+and you won't be bound by them.</p> <br />
+
+<p> If you need help or have any questions, don=E2=80=99t hesitate to email=
+ a member of our <a  href=3D" https://help.pandora.com/customer/portal/emai=
+ls/new?email[subject]=3DTerms%20Of%20Use%20Update&tc=3Dx-009822-0035-1149" =
+style=3D"color: #00aeef; text-decoration:none;" target=3D"blank"> Listener =
+Support team. </a></p> <br />
+
+
+Keep on enjoying the music you love, <br />
+
+Pandora
+
+
+   </td>
+   </tr>
+=20=20=20
+=20=20=20
+=20=20=20
+=20=20=20
+   <tr>=20
+=20=20
+=20=20=20
+=20=20=20
+=20=20=20
+										<td id=3D"city" valign=3D"top" align=3D"center" style=3D"padding-=
+bottom:0px;font-family:Helvetica, Arial, sans-serif;" >
+											<table width=3D"500" cellspacing=3D"0" cellpadding=3D"4" style=
+=3D"border-collapse:collapse; font-family: Helvetica, Arial, sans-serif; fo=
+nt-size:18px; font-weight:100; color:#76777b; text-align:left;">
+                                            <tr>
+													<td  style=3D"width:500px; text-align:left; padding-top:25px; =
+padding-left:0px; padding-bottom:10px; font-weight:400; border-top-style:so=
+lid; border-top-width:2px; border-top-color:#ececec;">Key highlights from e=
+ach agreement:</td>
+=09
+												</tr>
+=20=20=20
+		</table>
+=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+									<table>=09
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+									<tr>
+										<td  valign=3D"top" align=3D"center" style=3D"padding-bottom:37px=
+;font-family:Helvetica, Arial, sans-serif;" >
+											<table width=3D"550" background-color=3D"ffffff" cellspacing=3D"=
+0" cellpadding=3D"4" style=3D"border-collapse:collapse; font-family: Helvet=
+ica, Arial, sans-serif; font-size:16px; line-height:24px;font-weight:100; p=
+adding-bottom:25px; color:#888; text-align:left;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+												<tr>
+													<td style=3D"padding-top:20px;padding-bottom:10px; font-weight=
+:400"><img src=3D"http://pandora.com/static/creatives/pandora_email/1207_TO=
+S_Update/Mic.jpg"  width=3D"60" height=3D"60" border=3D"0" alt=3D"microphon=
+e" style=3D"display:inline-block; border: 0;" /></td>
+													<td style=3D"padding-top:13px; padding-bottom:10px; padding-le=
+ft:25px;"> We have updated our practices, and thus our Terms of Use, to mak=
+e it easier for your favorite Artists to connect with you, and to give you =
+control over how they connect with you.</td>
+												</tr>
+												<tr>
+													<td style=3D"padding-top:13px; padding-bottom:10px; font-weigh=
+t:400"><img src=3D"http://pandora.com/static/creatives/pandora_email/1207_T=
+OS_Update/Community.jpg"  width=3D"60" height=3D"60" border=3D"0" alt=3D"mi=
+crophone" style=3D"display:inline-block; border: 0;" /></td>
+													<td style=3D"padding-top:13px; padding-left:25px; padding-bott=
+om:10px;">We have created and published two new policies, our <a  href=3D"h=
+ttp://sg.pandora.com/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfc6qPYTsuq88aD-2F6S=
+ToqYShXoM95X2N2FHwrCeHk01NzqnU0ApYUmbiT1ADTkqmnT3pVjFI1tSm4dRR5m-2BfpH2Qmpy=
+6Sdncx-2FfkXfMAb0SyI_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4VoeDM6Fbc=
+f6JMKK34ecfWHMCuHLgqot-2FuQTNeRIH-2FzXT-2FQY4A2DK7M4ChlwPifCmiO0eHlvg45JoR-=
+2BQ6aoV9mqAL9UnQGnCmVKh3HJLhEQWXNxMNyxYSee-2Bn-2Bl73e80JzmYihsaYOwGlL2rmXQc=
+JxYESkaJJppmOGemaF8VxlHJOF1VnFP14rWpxh9sML3ox7Z8Kr9Yy7OUBAAbIs-2Fx3KytpnML0=
+6InTT-2BAXZrb8K1jRWcxREqXnUuyLQyqipyGB56h4-2BntYVZWXUuh4KSvDtQy11bQljz1bkBQ=
+ccTtYxO-2BzJ30PmjxRgdFDkwg8IZAWvpq5InwDgkNpoyPcG9sgfBXzB2icw1pgjLAYh9ThPDQ-=
+3D-3D" style=3D"color: #00aeef; text-decoration:none;" target=3D"blank">Com=
+munity and Content Policy</a>, and <a  href=3D"http://sg.pandora.com/wf/cli=
+ck?upn=3DETtKLe9x3Bvh4Lr9WuiJfc6qPYTsuq88aD-2F6SToqYShmDRTaExXK93RwnZN24A43=
+zs6NhLc0aRRL1bhkP-2BIsdvyry0UaBepLfoIHF3v-2BVXRUjgOHWJNDJcR8h3eOQkB2_jBu4Jw=
+xWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4VoeDM6Fbcf6JMKK34ecfWS3wO8YIF-2F9UuP=
+VeWRQc1nOrfDGN3nufBf51xmPv0nrgRiDf48GfAzb9jOYHkBkHC0qfpV-2B5v9L2uj5Ew0d7M8S=
+h-2F0AhJ-2BdI8NIfGpcycOp69rXba5G16DmDrtXIVM4hLN4VGEO5IG4vu1Y-2BQ2hJDkwnEOnE=
+pPP1nFT4tEnU5FAfj6CBzGSlT5irp6H1j7YulrwAvTZcu-2B-2Be5Vt-2Fgujzkv3hYHb4l-2BH=
+1jRj2WlEwcpZTQ0JXGRbdR2Fzwod7U4HfdrSUhqjGfiX6p04XhLhBfMh9UEvRSWQubNubUZkE6f=
+WvgzEV3DO1uyKhxYLnuSRepV77poXW6cyLwtulKokEcwA-3D-3D"  style=3D"color: #00ae=
+ef; text-decoration:none;" target=3D"blank"> Intellectual Property Policy</=
+a>, which apply to the content you post on Pandora.</td>
+												</tr>
+												<tr>
+													<td style=3D"padding-top:13px; padding-bottom:10px; font-weigh=
+t:400"><img src=3D"http://pandora.com/static/creatives/pandora_email/1207_T=
+OS_Update/Mail.jpg"  width=3D"60" height=3D"60" border=3D"0" alt=3D"microph=
+one" style=3D"display:inline-block; border: 0;" /></td>
+													<td style=3D"padding-top:13px; padding-bottom:10px; padding-le=
+ft:25px;">We have also updated our Terms of Use regarding the ways in which=
+ we may contact you.</td>
+												</tr>
+												<tr>
+													<td style=3D"padding-top:13px; padding-bottom:10px; font-weigh=
+t:400"><img src=3D"http://pandora.com/static/creatives/pandora_email/1207_T=
+OS_Update/Growth.jpg"  width=3D"60" height=3D"60" border=3D"0" alt=3D"micro=
+phone" style=3D"display:inline-block; border: 0;" /></td>
+													<td style=3D"padding-top:13px; padding-bottom:10px; padding-le=
+ft:25px;">To our privacy policy, we've added in provisions that comply with=
+ the European Union-Swiss Safe Harbor privacy principles, and describe how =
+we use data for measurement and how you can control your participation in t=
+hose measurement studies.</td>
+												</tr>
+												<tr>
+													<td style=3D"padding-top:13px; padding-bottom:10px; font-weigh=
+t:400"><img src=3D"http://pandora.com/static/creatives/pandora_email/1207_T=
+OS_Update/Legal.jpg"  width=3D"60" height=3D"60" border=3D"0" alt=3D"microp=
+hone" style=3D"display:inline-block; border: 0;" /></td>
+													<td style=3D"padding-top:13px; padding-bottom:25px; padding-le=
+ft:25px;">Finally, we also updated our Terms of Use relating to how legal d=
+isputes with us are handled, including a new informal dispute resolution pr=
+ocess and changes to the Arbitration Agreement.</td>
+												</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09
+											</table>
+                                            </td>
+                                            </tr>
+                                            </table>
+=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09
+		<!-- END OF CONTENT TEXT -->
+	<!-- END OF MAIN CONTENT BLOCK-->
+
+
+
+	<!-- START OF SOCIAL ICONS BLOCK-->
+			<table class=3D"table-600" width=3D"600" border=3D"0" align=3D"center" c=
+ellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#a0d1ec" style=3D"padding:0; =
+margin: 0; ">
+
+
+
+                <tr>
+					<!-- START OF SOCIAL ICONS HERE-->
+					<td width=3D"600" align=3D"center" valign=3D"middle" bgcolor=3D"#a0d1e=
+c" style=3D"padding-top:0px; padding-right: 10px; padding-left: 10px; paddi=
+ng-bottom: 0px; font-size:12px ; font-family: Helvetica, Arial, sans-serif;=
+"><table id=3D"social" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"250" align=3D"center" style=3D"width:250px; margin: auto;">
+					    <tr>
+					      <td id=3D"fb" width=3D"50" style=3D"width: 50px; padding-top:10p=
+x; padding-right: 0px; padding-left: 0px; padding-bottom: 10px; margin: 0;"=
+><a href=3D"http://sg.pandora.com/wf/click?upn=3DI8i-2F80ugQ-2BUVtdU18iL8Lq=
+7seQvtzjgrxv-2F5pAXxHO0swTZz97b8N1MyYPzYVXJX_jBu4JwxWN40IiYyAG79o58aNi9JdOH=
+-2FtOffWjuJECs4VoeDM6Fbcf6JMKK34ecfWI88ZQv0Qn-2Fdw6v1eh3bbjblMlep8q5sAfIBgc=
+n0AhnMAOt4-2FT1J6kEB9GeUD8taJfvW27aH9m1MKWonOrYmbCyOC1vSAu7VfhRNQKUBiV2kbFc=
+WPwmoOTxQUANsVuq0tzd8DPB20ZZgGOzeUEAzKVzzOfF58HfIpYpkpVqlMY4oF1MBhPu6CB8-2F=
+LPi-2BJFID9uiUzz0LqyIcnjPUtqaHqffV-2BmpaXX8L55dqiLzuE8nbSwJiYxiYMzKIBKoqcMh=
+EGX7i7irRnXlqOH6fch-2B1nqjZsw4wphzMELNJcaDrl-2B-2BTs-2B3mWZEpgOTyscJWsyKg0y=
+3FrJBR8epnBb6lS8X6Htg-3D-3D" target=3D"_blank" style=3D"color:#ffffff;"><im=
+g src=3D"http://www.pandora.com/static/creatives/pandora_email/responsive/f=
+acebook1.png" alt=3D"Fb" width=3D"50" height=3D"30" border=3D"0" style=3D"d=
+isplay:block;" /></a></td>
+					      <td width=3D"50" style=3D"width: 50px; padding-top:10px; padding=
+-right: 0px; padding-left: 0px; padding-bottom: 10px; margin: 0;"><a href=
+=3D"http://sg.pandora.com/wf/click?upn=3Dgj-2FOiZ2BkrIiw-2FbNB5xahLqhwFxqdg=
+tNlDaIdCGqKPq5P3aI37bpY9cn1yTRkZmo_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWju=
+JECs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNXC8PqOFtY-2BOB-2FwDCXD6ErF=
+hTDli6Oqph9u-2BijvGNMEh9Nl7S9oivtg1OCh6JXYAvRlsnBB80f-2FDqRgG8-2BfJvCDKQEJx=
+KlItYL8jYKp6vfRih5XTuVaxQK-2BB2-2BqoXkpRhzVGCtIEPzHHgkCqFTI-2Fvy3XP4oIBT2kc=
+wbLA7xkBKUz5jkqtxUzrpikdeWR6nNrXUrweX1OsBnpJRRmtCvdB87ojwEbVa-2FtwcZKapgfp5=
+iO1T2T84YNtd5JKS-2BvBuoRNaw5IDQ3gy2k9yme4yOWVp8c1VcDG6UPesIM2qL-2FzTJ4CPND0=
+EthINjMeoQcuOPdYg-3D-3D" target=3D"_blank" style=3D"color:#ffffff;"><img sr=
+c=3D"http://www.pandora.com/static/creatives/pandora_email/responsive/twitt=
+er1.png" alt=3D"Twitter" width=3D"50" height=3D"30" border=3D"0" style=3D"d=
+isplay:block;" /></a></td>
+					      <td width=3D"50" style=3D"width: 50px; padding-top:10px; padding=
+-right: 0px; padding-left: 0px; padding-bottom: 10px; margin: 0;"><a href=
+=3D"http://sg.pandora.com/wf/click?upn=3DEbLAVRvvYViaacD6-2FJmFbSolnWiPO9VV=
+0Vq7TXeJMjwCD0joJYff-2BUzUZidhjuTN_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWju=
+JECs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNZeFEkRt6qfAxnbdLPDk37OK4DQ=
+SsxegyyhokqYMZ9ykcfddWjLw8lu21LvwlA5clEpysHtOXE0ecc3No40eJmHS93RYqFLnN-2BC5=
+bx69eZ4eCBeS8C4AKFG9Cy6y59DdwdQJwGXxp6-2F45wr1bRnQgkwvSRp0TVzdaFzLp-2BTgZ42=
+1TbeQkgeCsAyrSIDbVKDwKgLOXAG3Y2Fd6niJI0wZI7tXSjGyPwenIwm3aOBxOW9YfM28FgGKwA=
+-2FPXRZabcI8uEtIYRKQZ4d8a-2BZy6S-2BFx-2BahTnWwS6NlSc0aZys-2FiVNTXhCXP3Vruli=
+u6hkXq40bXQ-3D-3D" target=3D"_blank" style=3D"color:#ffffff;"><img src=3D"h=
+ttp://www.pandora.com/static/creatives/pandora_email/responsive/gplus1.png"=
+ alt=3D"G+" width=3D"50" height=3D"30" border=3D"0" style=3D"display:block;=
+" /></a></td>
+					      <td width=3D"50" style=3D"width: 50px; padding-top:10px; padding=
+-right: 0px; padding-left: 0px; padding-bottom: 10px; margin: 0;"><a href=
+=3D"http://sg.pandora.com/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfbMfW6A-2BAT4T=
+OsYFgbur9GxMBnKuitXArz9Zn8XwN-2Bek_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWju=
+JECs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNcz6zgzCkCcqMnVyLTDc-2BQ10O=
+MGGe9QR4oQOCgj6DYLlouKxV8Hd6aMWII6lB-2F2jPVcU1m1EGcUAbApvvo9KWx-2Fsih1pPO-2=
+FyGTPq-2BX-2B2dnifhWCVUqsLooHqFYJqRA5-2BZwiyNJMZKJM8sF0JavkRwhKvc0IKTUgJQmE=
+vt3pZW81IYoOG5nphc7WqmoxFO2rWSveu3e7pep59B-2F4PnEPEJaGqJgy83fq1-2FqzaIZI17O=
+PSE50v2ThinHJ4ZfG08vBie1vRksTW-2BRcx-2BXucFPBnJtbYm8HAG8qeUmqw6lWeMR1x6pyvg=
+aoVJ6xWAclLM8AVFg-3D-3D" target=3D"_blank" style=3D"color:#ffffff;"><img sr=
+c=3D"http://www.pandora.com/static/creatives/pandora_email/responsive/youtu=
+be1.png" alt=3D"YT" width=3D"50" height=3D"30" border=3D"0" style=3D"displa=
+y:block;" /></a></td>
+					      <td width=3D"50" style=3D"width: 50px; padding-top:10px; padding=
+-right: 0px; padding-left: 0px; padding-bottom: 10px; margin: 0;"><a href=
+=3D"http://sg.pandora.com/wf/click?upn=3DmR9fHLlt0otj3FV0Oo4fwsHPxuYp40c6RG=
+PashnmJlOjOS-2BCPwlZ5jt6q4OFGL48_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJE=
+Cs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNblAP-2FSizl03H2fBxqe4ZLwrVgo=
+wafpwqB9BFpjZr08CpdUkuWu-2B8YWJ1Vtat8UYlsscXvWeXp15mr5Mmb1XsdX-2B-2F1tTSHXH=
+Fbc2YwP3mKL-2F3qInIQwhifp4nCEqKuZZriBsPo0XPcJAmJUCFZtfO7o6bLe8H6s33i-2FUNwf=
+4oB-2F24xfml9XSqUc67Y3ZJ-2FeqNTU54rykopiWbPDVoZK69WAm6dwnvUyXCapDlbYesUKWUX=
+twsewF9A3kcwy68tXJ7xnPKZ54TvcXCFhWzB4QUKSY7cGScuFBU6F20wNZL7UsRvacQf8Anygi6=
+JuO-2BNaEsg-3D-3D" target=3D"_blank" style=3D"color:#ffffff;"><img src=3D"h=
+ttp://www.pandora.com/static/creatives/pandora_email/responsive/instagram1.=
+png" alt=3D"Inst" width=3D"50" height=3D"30" border=3D"0" style=3D"display:=
+block;" /></a></td>
+				        </tr>
+			      </table></td>
+					<!-- END OF SOCIAL ICONS HERE-->
+				</tr>
+			</table>
+		<!-- END OF SOCIAL ICONS BLOCK-->
+
+
+
+	<!-- START OF FOOTER AREA BLOCK-->
+					<table class=3D"table-600" width=3D"600" border=3D"0" align=3D"center"=
+ cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ececec" style=3D"padding:0=
+; margin: 0; ">
+						<tr>
+		<!-- START OF FOOTER HERE-->
+							<td width=3D"654" align=3D"center" valign=3D"top" bgcolor=3D"#ececec=
+" class=3D"footer" style=3D"padding-top: 25px; padding-right: 20px; padding=
+-bottom: 35px; padding-left: 20px; font-size:12px; font-family: Helvetica, =
+Arial, sans-serif; line-height: 16px; color:#aaaaaa;">&copy; Copyright 2015=
+, Pandora Media, Inc. All rights reserved.<br />
+								<span class=3D"appleLinksFooter">2101 Webster St. Ste. 1650, Oaklan=
+d, CA 94612</span><br /><br />This is a one-time account related email. If =
+you have any trouble, please <a href=3D"http://sg.pandora.com/wf/click?upn=
+=3D-2Fg-2BQaqtTL1Zwiy2yoAedbLtPrLBLOVjyAHbiMjd1xTJHfNk6j-2BdbVzrjaLEUIcqyuN=
+tVrU2R1qpdEyTk9KCwwsdDtH139YnIZJIOs235uGlozZlrp33RaX-2FXyHVgkMyswNXsW1Ir5H5=
+Q4FKZwxiZxwu32xH0eWBims1v0ebuGHc-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWj=
+uJECs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNVbzTSwcEFB-2FqNlfEtpYER2G=
+5myBaeYct8qaOa7z3ESR7VlxFuQsuQnxWUzJN5hid1NYWrtfssjjFUDEgn17FpEsFHhK9VcDBfs=
+WoEfhFQpojvmEIarX1V1I33oCBpSViL4M03kEoEim81e-2FSxM3CFP-2BYiwPH5Caukvj3WCnZB=
+VWNlJywaCyE-2BYBiNvMehgVdFXvUjL6-2Bv-2Fcii-2FJW9WwVIRjlAgf9MApfL4ZpPDEsdS-2=
+FiUdR-2BDkyku-2FWWoqN-2FjrsfI8yf3-2BnXV89Lbpsq-2B73fP1rJWDg3qmWBOeulFyR-2Bc=
+qxikoBWo75bRTD-2B-2FC5ZU5fGQ-3D-3D" style=3D"color: #00aeef; text-decoratio=
+n:none;" target=3D"blank">email us</a>.<br /><a href=3D"http://sg.pandora.c=
+om/wf/click?upn=3DETtKLe9x3Bvh4Lr9WuiJfVRCYQYGJO24HIznWtg8E89ts3r1e0zuXHot2=
+SIY-2BYdbDs2beGBrH12er8faUyMtog-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOff=
+WjuJECs4VoeDM6Fbcf6JMKK34ecfWG1SjYb-2FVRUQQw1W0addXNXChWpjtUgw0Jz5KTffA3mSE=
+BvEYG4DplqXJjefJIzjOYiZzZiZwK2KSV53uCgUvctCqdBNRXhSJVkyHvDluPdLH6fFAYmt8lBt=
+uOYLyZhZS05S6bUE8JeAVIXHFtsBGDKdrJVCIWt87zCWS5MiIuwcBZTEKZYXD-2BKzeFmsM2mw8=
+Y11It71MZtOn3bUz4u-2FGQxvB0EJlSNorMdrDBXEPKlgAFha2qE5r6MYD1gqNcHqylPoIKcVk3=
+S2qClRYsL54GIo20LfY61lDLBnfh6CPSPmMyHx-2B-2FYYpehRX8dGuds0gWXurNH1LGVy041Jb=
+s2C6JA-3D-3D" target=3D"_blank" style=3D"color: #00aeef; text-decoration:no=
+ne;">Privacy Policy</a>
+							</td>
+		<!-- END OF FOOTER HERE-->
+						</tr>
+					</table>
+	<!-- END OF FOOTER AREA BLOCK-->
+				</td>
+			</tr>
+		</table>
+	</div>
+<!-- END OUTER WRAPPER -->
+
+
+<img src=3D"http://sg.pandora.com/wf/open?upn=3DjBu4JwxWN40IiYyAG79o58aNi9J=
+dOH-2FtOffWjuJECs4VoeDM6Fbcf6JMKK34ecfWrpSp7qz6SV9sWC1zmP5zFgXO8osYQK1pxp-2=
+FXNJHlg-2BZEefGBOdchmZdd9KNWhQfW0gbxIaUKTWKGy1mmtnMMMNyATf2v2PHKaYKDUq-2FEw=
+I-2BdrG-2FIiN-2BInzJBeXuqpXZXTVdYivtKmB6dNDeGBK2VhBP-2FLsHkGxO9tOY74LUnmr55=
+BNVN2Cnt5I8JMi0LteGuFlMf2dUtFRaMWXSjPsyvpPRyg4-2BUM4NMLFu9-2B6Xa2bVdRrLRd6z=
+zYAFzbaiM8WFwGpf0cYfV93wjLa1CYWyq5-2BFoTA3ZfI7trjR5F49OQizytcKrhu2htPrG5GiQ=
+fXHRjs7twNljXdL7J1CRpjU7fQ-3D-3D" alt=3D"" width=3D"1" height=3D"1" border=
+=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0 !=
+important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0=
+ !important;margin-left:0 !important;padding-top:0 !important;padding-botto=
+m:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--===============0001335400772655855==--

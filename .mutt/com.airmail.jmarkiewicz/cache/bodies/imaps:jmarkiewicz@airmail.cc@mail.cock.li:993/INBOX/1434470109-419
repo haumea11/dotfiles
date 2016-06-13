@@ -1,0 +1,92 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-type:content-transfer-encoding;
+        bh=GrtiTmgXkOA3KrT7Had7pCjk2q29eXZ0qmUsKcT66fs=;
+        b=Jj0zxsypOhJQDs0CJ7mSJU37nUXTO+4ZS0asatxmo1r9Iu2TzkRmUi3Ps2gaW2Ja7n
+         FQwBDNEMIywPQbPY1Re+NIs/NuWYlg4CyWXc589EvRslD2jKb/PVg8FVeQECbZfBukWe
+         XRpBfGbVv4mk5mvkwcUm+fcQP4R3KOvH+TjAg4g16UjICAJVsJocNFCDgpPae9FDDaIh
+         AedCzkJHp+s1bgUJVQcSuyMgKeu/Sfgs2xHdap9Yz96hHO9ZFcrz/+PTnbQq+spQZ4yL
+         Iks8ZYRuQutFBXa6ZkUSo2eLPFaFzan6qU0aenkcruodN0hxO7Waxmwr/Nxnw1VQ75/c
+         3W7Q==
+X-Received: by 10.107.12.204 with SMTP id 73mr26700299iom.131.1448233523546;
+        Sun, 22 Nov 2015 15:05:23 -0800 (PST)
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Subject: sorted list
+Message-ID: <56524A31.5060001@gmail.com>
+Date: Sun, 22 Nov 2015 18:05:21 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Icedove/38.3.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi John - huge props to stack overflow again
+
+
+-------------------------------------------------------------
+\documentclass{article}
+\usepackage{datatool}% http://ctan.org/pkg/datatool
+\newcommand{\sortitem}[2][\relax]{%
+  \DTLnewrow{list}% Create a new entry
+  \ifx#1\relax
+    \DTLnewdbentry{list}{sortlabel}{#2}% Add entry sortlabel (no
+optional argument)
+  \else
+    \DTLnewdbentry{list}{sortlabel}{#1}% Add entry sortlabel (optional
+argument)
+  \fi%
+  \DTLnewdbentry{list}{description}{#2}% Add entry description
+}
+\newenvironment{sortedlist}{%
+  \DTLifdbexists{list}{\DTLcleardb{list}}{\DTLnewdb{list}}% Create
+new/discard old list
+}{%
+  \DTLsort{sortlabel}{list}% Sort list
+  \begin{itemize}%
+    \DTLforeach*{list}{\theDesc=description}{%
+      \item \theDesc}% Print each item
+  \end{itemize}%
+}
+\begin{document}
+
+Default:
+\begin{itemize}
+  \item ISDYNSTP:  Is dynamic time step used ?
+  \item ISCDCA:
+  \item MVAR
+  \item IS2TL
+\end{itemize}
+
+Sorted:
+\begin{sortedlist}
+  \sortitem{ISDYNSTP:  Is dynamic time step used ?}
+  \sortitem[ISCDCA]{\textit{ISCDCA:}}
+  \sortitem[MVAR]{\textbf{MVAR}}
+  \sortitem{IS2TL}
+\end{sortedlist}
+
+\end{document}
+------------------------------------------------------------------
+-- 
+Shannon Markiewicz, Ph.D.
+      __
+     (  \
+ __   \  '\
+(  "-_ \ .-'----._
+ '-_  "v"         "-
+    "Y'             ".
+     |                |
+     |        o     o |
+     |          .<>.  |
+      \         "Ll"  |
+       |             .'
+       |             |
+       (             /
+      /'\         . \
+      "--^--.__,\_)-'
+
+- by andy753421 (with two very minor edits by uriel)

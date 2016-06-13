@@ -1,0 +1,318 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.181.19 with SMTP id e19csp416902vkf;
+        Fri, 3 Jun 2016 11:12:05 -0700 (PDT)
+X-Received: by 10.28.59.193 with SMTP id i184mr713391wma.73.1464977525253;
+        Fri, 03 Jun 2016 11:12:05 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-f52.google.com (mail-wm0-f52.google.com. [74.125.82.52])
+        by mx.google.com with ESMTPS id w13si8174587wjq.54.2016.06.03.11.12.05
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jun 2016 11:12:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.52 as permitted sender) client-ip=74.125.82.52;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@berniesanders.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.52 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wm0-f52.google.com with SMTP id a136so1205wme.0
+        for <kuiperhaumea@gmail.com>; Fri, 03 Jun 2016 11:12:05 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:to:from
+         :reply-to:subject:message-id:list-unsubscribe:mime-version;
+        bh=tdCZUEjAs1WJPYkL+shn2l8FYmWwOnENbtsRzu6cRu0=;
+        b=jBoNTFgZl9cx3MYrmT198YPCkOJoquHJpTikrFZKJe6SGkGT0XpITYtRMlUn3tjKiv
+         Me4uShPT/22a3dZCqVC46+BNyqvEIW71XJj6n9ZocsK5tMACIQe0XzfQSnphwlkGBp5t
+         CirJFmn+ZidWZyqW0sabrmZk8ydG8IlXhLR8gl970Aa6Bw3WSOdNBEJ+TXRRsrwYvEu3
+         TLqodbo+SLFBfbJ3G2f5/mPV5J58oZM6ev2xKqSNQQgN5gzz9L5MCtAsKAYau2G/w3YA
+         ohXfGBEKlcKSJMgMTXqxZKzWlpHi1SoH8xzSQLrlXmXurd1PkJydjPcHNlEGVNxqWPY3
+         5KAQ==
+X-Gm-Message-State: ALyK8tIbtaWKk0evIQvhuZW260hINKuGylcnDo8mbONyYWKTQlxmMcgBf2dtg2WlHw/7QyNoY9P+ta+tukJbIBkqSjOUH3U=
+X-Received: by 10.28.47.212 with SMTP id v203mr746907wmv.5.1464977524860;
+        Fri, 03 Jun 2016 11:12:04 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.35.75 with SMTP id j72csp425408wmj;
+        Fri, 3 Jun 2016 11:12:04 -0700 (PDT)
+X-Received: by 10.200.47.212 with SMTP id m20mr4572696qta.53.1464977523954;
+        Fri, 03 Jun 2016 11:12:03 -0700 (PDT)
+Return-Path: <BwBEWwoBVwJsAAEFBlEDAAZcBABXVQYKADBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwOVQA@bounce.bluestatedigital.com>
+Received: from mta-dock-front-1.bluestatedigital.com (mta-dock-front-1.bluestatedigital.com. [69.25.74.172])
+        by mx.google.com with ESMTP id s76si3103337qkl.56.2016.06.03.11.12.03
+        for <markiewicz.john@gmail.com>;
+        Fri, 03 Jun 2016 11:12:03 -0700 (PDT)
+Received-SPF: pass (google.com: domain of BwBEWwoBVwJsAAEFBlEDAAZcBABXVQYKADBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwOVQA@bounce.bluestatedigital.com designates 69.25.74.172 as permitted sender) client-ip=69.25.74.172;
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.60])
+	by mta-dock-front-1.bluestatedigital.com (Postfix) with ESMTP id 3rLsb3649Zz11SM
+	for <markiewicz.john@gmail.com>; Fri,  3 Jun 2016 18:10:39 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berniesanders.com;
+	s=berniesanderskey; t=1464977439;
+	bh=tdCZUEjAs1WJPYkL+shn2l8FYmWwOnENbtsRzu6cRu0=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=Tp6dy0QSNMaEMhPR9opHMknZrqZ93dx4s6/biupMUYRZ1u7Un3hZIviPbo+J2Jy3S
+	 tgHB5u1mII3+y1Xq774MOET81+k0A2xWP7J1My+co6gXPSk2RyyIed4oM3iHSF/EN8
+	 iqWlw57UBo+qY0UDR99iGAqq1XdxJUerUYYSesRc=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Fri, 3 Jun 2016 18:10:39 +0000
+Date: Fri, 3 Jun 2016 18:10:39 +0000
+To: John Markiewicz <markiewicz.john@gmail.com>
+From: "BernieSanders.com" <info@berniesanders.com>
+Reply-to: Info@BernieSanders.com
+Subject: 694.
+Message-ID: <e91dd1f38995ebe3f0f2e12f91605d7d@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 310740aee42cbc9b
+X-rpcampaign: rp_1091299
+X-maillist-guid: BwBEWwoBVwJsAAEFBlEDAAZcBABXVQYKADBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwOVQA
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=markiewicz.john%40gmail.com>, <mailto:BwBEWwoBVwJsAAEFBlEDAAZcBABXVQYKADBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwOVQA@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e91dd1f38995ebe3f0f2e12f91605d7d"
+
+
+--b1_e91dd1f38995ebe3f0f2e12f91605d7d
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+John -
+
+A whopping total of 694 pledged delegates are up for grabs on Tuesday, and =
+-- especially given the latest polling out of California -- we believe we =
+have a good chance of winning a big majority of them. But we need your =
+help to do that.
+
+Thousands of in-state volunteers are hitting the streets in these final =
+days to find Bernie voters and get them to the polls. But they just can't =
+knock the door of every voter we need to contact.
+
+So our task this weekend is pretty simple: call every single Bernie =
+supporter we can in the upcoming states, and make sure they have a plan to =
+vote on Tuesday. Can Bernie count on you to volunteer a couple hours of =
+your time?
+
+YES, I'LL MAKE SOME CALLS THIS WEEKEND:
+https://go.berniesanders.com/page/s/win-more-states-for-bernie?source=3Dem=
+160603
+
+If you've never called voters for Bernie before, now is the time to take =
+the plunge. Calling on our Bernie Dialer is easy; you just need a computer =
+or a tablet, and a phone. We provide a simple script for you to follow, =
+connect you directly to the targeted voters, and we have dedicated =
+volunteers standing by on livechat to help out if you run into any =
+problems.
+
+ Our plan is to go into the Democratic convention in Philadelphia with as =
+many votes, delegates and states as possible. From there, the =
+superdelegates will have to consider who is the best candidate to take on =
+Donald Trump - and the polls consistently show Bernie is that candidate.
+
+So don't let this opportunity slip by. Our collective efforts this weekend =
+have the potential to shock the political establishment and show the =
+billionaire class that we've had enough of super-PAC-funded politics as =
+usual. Your involvement will help write a pivotal chapter in American =
+political history, so we're asking you to step up and commit as much =
+volunteer time as you can.
+
+In solidarity,
+
+Team Bernie
+
+P.S. If you'd like to learn more about our weekend of action and the =
+importance of these June 7th contests, please join us on a special =
+livestream event tonight (Friday) at 9 pm ET/6 pm PT: =
+http://bernie.to/volstream
+
+
+
+
+
+
+
+
+
+----
+Paid for by Bernie 2016
+(not the billionaires)
+
+PO Box 905 - Burlington VT 05402 United States - (855) 4-BERNIE
+
+This email was sent to markiewicz.john@gmail.com. Email is one of the most =
+important tools we have to reach supporters like you, but if you=E2=80=99d =
+like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests who are systematically buying our Congress and =
+have their sights set on the presidency by contributing to Bernie here: =
+https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=3Demail_=
+footer.
+
+
+--b1_e91dd1f38995ebe3f0f2e12f91605d7d
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+font-size: 17px;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0; =
+border: 0; margin: 0;"><img width=3D"200" alt=3D"Bernie Sanders for =
+President" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/logo-2x.png"></h1>
+<div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size:17px; line-height:140%;">
+	John &ndash;</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	A whopping total of 694 pledged delegates are up for grabs on <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">Tuesday</a>, =
+and &ndash; especially given the latest polling out of California &ndash; =
+we believe we have a good chance of winning a big majority of them. =
+<strong>But we need your help to do that.</strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Thousands of in-state volunteers are hitting the streets in these final =
+days to find Bernie voters and get them to the polls. But they just can't =
+knock the door of every voter we need to contact.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	So our task this weekend is pretty simple: <strong>call every single =
+Bernie supporter we can in the upcoming states, and make sure they have a =
+plan to vote on <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">Tuesday</a></strong>. Can Bernie count on you to volunteer a =
+couple hours of your time?</p>
+<p align=3D"center" style=3D"font-family:Arial; font-size:17px; =
+line-height:140%;">
+	<strong><a href=3D"https://go.berniesanders.com/page/s/win-more-states-fo=
+r-bernie?source=3Dem160603" style=3D"font-family: sans-serif; font-size: =
+18px; background-color: #147FD7; border-top: 1px solid #1e88e0; =
+border-bottom: 2px solid #0e72c4; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://go.b=
+erniesanders.com/page/s/win-more-states-for-bernie?source=3Dem160603">Yes, =
+I'll make some calls this weekend</a></strong></p>
+<p>
+	</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	If you've never called voters for Bernie before, <strong>now is the time =
+to take the plunge.</strong> Calling on our Bernie Dialer is easy; you =
+just need a computer or a tablet, and a phone. We provide a simple script =
+for you to follow, connect you directly to the targeted voters, and we =
+have dedicated volunteers standing by on livechat to help out if you run =
+into any problems.</p>
+<p>
+	 </p>
+<p style=3D"line-height: 140%; font-family: Arial; font-size: 17px;">
+	Our plan is to go into the Democratic convention in Philadelphia with as =
+many votes, delegates and states as possible. From there, the =
+superdelegates will have to consider who is the best candidate to take on =
+Donald Trump &ndash; <strong>and the polls consistently show Bernie is =
+that candidate.</strong></p>
+<p style=3D"line-height: 140%; font-family: Arial; font-size: 17px;">
+	So don't let this opportunity slip by. Our collective efforts <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">this =
+weekend</a> have the potential to shock the political establishment and =
+show the billionaire class that we've had enough of super-PAC-funded =
+politics as usual. Your involvement will help write a pivotal chapter in =
+American political history, so <strong>we're asking you to <a =
+href=3D"https://go.berniesanders.com/page/s/win-more-states-for-bernie?sou=
+rce=3Dem160603" style=3D"text-decoration: underline;" =
+title=3D"https://go.berniesanders.com/page/s/win-more-states-for-bernie?so=
+urce=3Dem160603">step up and commit as much volunteer time as you =
+can.</a></strong></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Team Bernie</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	P.S. If you'd like to learn more about our weekend of action and the =
+importance of these <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">June 7th</a> contests, please <a =
+href=3D"http://bernie.to/volstream" style=3D"text-decoration: underline;" =
+title=3D"http://bernie.to/volstream"><strong>join us on a special =
+livestream event tonight</strong></a> <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">(Friday) at 9 pm ET/6 pm =
+PT.</a></p>
+<p>
+	&nbsp;</p>
+<br><br><br><br><p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p></div>
+<div class=3D"footer" style=3D"text-align: center; margin-top: 40px; =
+padding-top: 15px; border-top: 1px solid #aaa;">
+
+<p class=3D"disclaimer" style=3D"display: inline-block; border: 1px solid =
+#555; padding: 5px 10px; color: #444; margin-bottom: 5px;">Paid for by =
+Bernie 2016</p>
+<p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+
+<p style=3D"font-size: 9px; margin: 15px 0 15px; color: #444;">PO Box 905 =
+- Burlington VT 05402 United States - (855) 4-BERNIE</p>
+
+<p style=3D"font-size: 9px; color: #444;">This email was sent to =
+markiewicz.john@gmail.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D4320=
+1" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Demai=
+l_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D43201">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>. =
+Stand against the powerful special interests who are systematically buying =
+our Congress and have their sights set on the presidency by <a =
+href=3D"https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=
+=3Demail_footer" title=3D"https://secure.actblue.com/contribute/page/lets-=
+go-bernie?refcode=3Demail_footer">contributing to Bernie here</a>.</p>
+</div><img src=3D"https://go.berniesanders.com/page/o/24fb03f6/43904886/3f=
+19f49c/620190ba/4261470836/open.gif" width=3D"1" =
+height=3D"1"></body></html>
+
+
+
+--b1_e91dd1f38995ebe3f0f2e12f91605d7d--
+
+

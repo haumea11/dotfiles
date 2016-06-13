@@ -1,0 +1,158 @@
+Return-Path: <osu-ctf-bounces@lists.osu.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 164.107.81.174)
+	smtp.mailfrom=osu.edu; lists.osu.edu; dkim=none (message not signed)
+	header.d=none;lists.osu.edu; dmarc=bestguesspass action=none
+	header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+	164.107.81.174 as permitted sender) receiver=protection.outlook.com;
+	client-ip=164.107.81.174; helo=CIO-TNC-HT07.osuad.osu.edu;
+From: "Romig, Steve" <romig.1@osu.edu>
+To: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Thread-Topic: CTF meeting tonight...
+Thread-Index: AQHRBcSNFFbUhWqJPEyIC8rOHCz+sg==
+Date: Tue, 13 Oct 2015 14:36:31 +0000
+Message-ID: <BB9FF013-23A1-40A2-B560-6C0962B13910@osu.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-header-sapphire: true
+MIME-Version: 1.0
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11FD009;
+	1:1bPmdtlox/pdW4KtT45i2yyVNF7i5JG9wvqSbpLvR3iuzZIzNMzMj1eSaeL973nZCnXT3XLgXm5AY1bKCKJSe979bqOnFKobeQYiqED3gzIFFdFxBmMaW51apnFteyv34SCdRaRdnFfJ39L7sQRLxFBaZiFNOc22ESmlA6pbimHte/UWPebbzh5mKQ5p1wdSsYq9jw0SMszC0shi7HmfKy3QYTBh+bdTvHPfu/cwgWZtIeLycQfcbGFR6wGbFGIMvYvUXau1FMzimziTrrcIeR+L+WME9Z7ZQiLjkoSSD/Dl1/JTudQyODTJC6FDbK04o8QW0fNt3Ep5aHvULQqJCQ6HS+JHoXPweEuy08lPq/rlB91Zxp/LXHV8PSrtasLF
+X-Forefront-Antispam-Report: CIP:164.107.81.174; CTRY:US; IPV:CAL; IPV:NLI;
+	EFV:NLI; SFV:NSPM;
+	SFS:(979002)(2980300002)(438002)(189002)(199003)(107886002)(106116001)(15975445007)(5004730100002)(450100001)(189998001)(87936001)(6806005)(89122001)(512874002)(5003600100002)(229853001)(109096001)(566174002)(16236675004)(11100500001)(19580395003)(19580405001)(26826002)(2501003)(33656002)(110136002)(2900100001)(5250100002)(92566002)(106466001)(64706001)(102836002)(75432002)(86362001)(36756003)(90282001)(66066001)(54356999)(82746002)(50986999)(46102003)(104016004)(83716003)(5001920100001)(5008740100001)(19617315012)(2351001)(88552001)(84326002)(2171001)(104396002)(969003)(989001)(999001)(1009001)(1019001);
+	DIR:INB; SFP:; SCL:1; SRVR:BL2FFO11HUB041;
+	H:CIO-TNC-HT07.osuad.osu.edu; FPR:; SPF:Pass;
+	PTR:cio-tnc-ht07.osuad.osu.edu; MX:1; A:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	2:cANeF3TNSLIrYXG+PBNLFjGg4uYdj6NnXMleFckLB2xtDI4Hhe4820WEdGCXBIK+UunX3qwZmrdumP4Ict+Rq8yX7YWTYFvy/tH56GKnQyFBYcaYjV48DgXWb1BJ9BDZIjOU+HBbrYzPiZ1Oz1LAqZcVWj11VphM+nqnh2B47CA=;
+	3:d95IujM7vAhoqo/dg+U3WluA4qz0EQ9TrQDPbmo1bBx4SrMg/L4f7CfO59CM4Qe9Q/pgBDXX1gYlraAxRwxH2dKa+6t6+1mbSl14dO94EMrEKEaBLSGCbzHzHU3K5QlWW2lnwirrr03o2uBrOW8RVu4V+oKKlemYlDVj1JTjffbCGHeTKLqugDFLy+KZ7vilDI1YgX23j7sJxhvS0Fowxf2ublLWqkGie1adFSTtmdCmf0XnvTSBMK0GBQs+9CSjXsHlMXioa85AVPsi5pYDaA==;
+	25:+3hEcayMjomWqJpLZk+7AX87Z5O7hAp0xAcp3ay0bE9Nohik/tG0yg6c+lg5VqVktOtO6PkfJXIpbCKlNPvRZnCeZUV1F8HKq8UAHX0/0blObsUNTZ91Fzd6WL/pQQ/kcgEQPlmoKSO0Ilb/cRyfDKdBu5gatY5BnfAdKeD0AslCKdr0+WOVdWiESKsorCsMi7cmSx7GGTi/OPilYXOegK2GsMjBtHnWxFiHfp+d0fR4NwAntkivcj28reg/s0AgpvqTNG0GQTHlIm57uhSz+w==
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0; RULEID:(8251501001);
+	SRVR:BL2FFO11HUB041; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	20:Zum26uy/a5syMlYHsKcJPLYKJyX6p9Ttlmx0WHiID5hspzraUXIQl/olGFoJ80NFNED2gQVbQe1AaUSwSkufQLDR7fnG22XIZTmFLQnjUohjF52372nMFO1xkgnt303GPRS7aKjx0AqSaCUTOZjE2imSLfFkcmPigtQdvtlNT5eNsOf/NtbmIMxe90FuCXX1aoL8QiqgEHV1Vn3sFq+1JhcgUabEJtAjPripCbyW1cm/yaE9qkmdZ21WIpN6v18tkXCQBtlNO0k1hdwokeLmFRT8+VlTUAXSkTZOujih89GtBRxVdUZMYnds3RXJbptjhmh8x69r7pIvtD+tlqUrK3ov21qndXaLmK9VdR1zMFUZGimg1k1c+WTbGOOTkliFonRIJaNEPHWe0rkQJ6iSC4ZzYzUGplOxOUowFeWPLy3uB4urEoEOKodHPOeJk2euPusurR5Ntb3hrF5q1i8EJhQ9O4o/jOGv0pwUS1IXZ7xzaaAsY7w7iBMauQ6yOAvB;
+	4:2KIT2awUZL9TksNj/6LdF8S1wfIGul0cgsrqMeHrVVnd4ZSsvMegV9AN8q5GRjoBphHdBVemMR6gb8JPJ6RPdmyALnNX7cnRRcWbxAa27JjFHWWGpzkIr5Huvba+LL3LDb1qsdV9DSGrs2xUp659sj/yGCV2wWztfY7LCVdGXL6+syFOuXPUcQrV9lvmxWWbiVC3vDZ8QeszrLTm4Y+tApywWgQ3zDo+7wj2z0+FjAn2cZy+CeAQSwQ5cFhjdlpaezLwYIY7l4gVUaKVPUVsu9M991UhskfReubT+zeKxtGfNu3hruxFJQIB866SWFbL6kwATgeuBngEMRnB3AJaR9GO4rtG2r770adTmvPv8AA=
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(601004)(2401047)(8121501046)(520078)(3002001)(10115024);
+	SRVR:BL2FFO11HUB041; BCL:0; PCL:0; RULEID:; SRVR:BL2FFO11HUB041;
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1; BL2FFO11HUB041;
+	23:J9HQv4KDj9UBtaiTPDXCxVdDvX6NYWuHviOKe4jq?=
+	=?us-ascii?Q?YX7rleT2C++NU+5YR+ZyMiluhv63CBsZ7NwyLQAsaXMb0NbgeI4oxUqdawGy?=
+	=?us-ascii?Q?KYamZ3R8rlcigohjYsADUixX57oGlmxrzjWy35wk/QO8KBilrc1jY3KuHkd0?=
+	=?us-ascii?Q?ADxN3wlfmHAXNCuiNrqkYbVhIN6/Sk9rs+fyXdjpjcbC8f2W9Af/VTEhAVhT?=
+	=?us-ascii?Q?Hcgh9VBt4AICCibxlMHyS0yVQt5XR81b188Vkfl2pPYXzkQoedZKdtLftwyK?=
+	=?us-ascii?Q?DXRT7kiM0xI9brQPDPRl7qDHLhWTP17hTKwk/2wNk2evZ2Te8J79LHdbBUQ/?=
+	=?us-ascii?Q?XyZvMxXMX9lyt1LfzzUKcXAVm6yChOUbWYHCOJCuCToU+gYxz2tOaSmSLINo?=
+	=?us-ascii?Q?w+r7jfp9orBfPYVB7AdbPq2DLGfDL6ZcGXA11jXwgjhFK0GdUmzSm4YnhSmG?=
+	=?us-ascii?Q?swsOMpWEKT1P0M+uJbWEngFbbw0VLwfHyM35VebXOC9M+4WVmI66QYbAYQdf?=
+	=?us-ascii?Q?lOWKti1zsmZIx1J3rBmyWxBahbYnwlKHCfbKEZp/exlZBKZ0y6VKldS7N556?=
+	=?us-ascii?Q?l4FBrziUgpMtWQLUSn7Yq1cc62xjhf38Porges1yY1MKYesN//GXJZ57bL9W?=
+	=?us-ascii?Q?HiX5VBBZty4itjOHAAb1Qp1XmgQh4D37njZHXVXNlZZt04QksT40Ps9plh3L?=
+	=?us-ascii?Q?Wd8nymFq9UwSxPdphgTke98Xw6clMNBVq8F0SO2tXfqn1UtFVVRZp5Az3kNA?=
+	=?us-ascii?Q?sbLnIAeCEVBSgxM+THam5fz1JUQ1EKta4zIfO+GtGFDWwTItIkPLc0oSqyts?=
+	=?us-ascii?Q?Sh2yL6wF9zx4ffBvsWyQqeN3aKMgDrhPxZbM8wODlk/435PrUGNPGu21jou8?=
+	=?us-ascii?Q?7QdDQFNY0zCgKjXNoP7FKdibDCXzezA0exA36ujFC5hyfgprRbhbGoELyJkM?=
+	=?us-ascii?Q?n5j/Ml1F7GSoqqe1hs10XhTZYzr5WqXhwx718x9CaajPt46KECeQ4pFb6/FG?=
+	=?us-ascii?Q?KNrIVSUOwxgiq5QYojHSm0bsqyKnOik/hqO8I2rS156/7cycKVvbW6jTvwry?=
+	=?us-ascii?Q?o2W9dDZic/gdtPhh9t9JOtifpjYhKPac2evESKXCZd4OUnYUas9Yp1zS4H3r?=
+	=?us-ascii?Q?6qj63P40nsPu1BejA9w4O1cculGASS89cHvDgKdeMjwQJWHCQxpAGTonyiXq?=
+	=?us-ascii?Q?zULz8pbf8nzcMCT4JPxGejJkh4IvLLMISSVubB6x0SG+L5YdDhODJcIixX/a?=
+	=?us-ascii?Q?GfOAVNm/ZXUQsRIZjrcBxINyuJh6hdxb2i6Sa6tVN/vNxsD6D/ctw2Tow+W3?=
+	=?us-ascii?Q?KyoVmMWEllJHu+W61Duddkz33egIhRbnQCLfTJmn8nhVDCsgr5zwFOMd/s15?=
+	=?us-ascii?Q?JuKGK85W2MBEhmupZuMstG8Z8C4i0y+Ei2O5/hDP6w7I5VYK/KhYbkiNxXgv?=
+	=?us-ascii?Q?sukkMRHumkdZr0Wmp2bRVcaPdzsPiks=3D?=
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	5:gaKxuG1PqEhJmoyYBKI9D9T7K+Tf+XWDSA67TjcNjfMbKJaY+S50rqKfBFGfm+NH5/lAQME1tXz9cPQuUj/vt6B+GPGKpowETmVPZHR72xEAm0XsapF10YwOUx1XmlQckDuI63PDdRidjXts2YF3Gw==;
+	24:YIyUQCDVDUhkEcUizT81ufaOOUHLpK5tc6dy7bjpvcpjUyCsgCOp6WWx1wa9ia2n+UzzkiatLDuwWlqYbyP95LSRDI8gnzNhfCBsLwcqyRs=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Oct 2015 14:36:32.4662 (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=b4d138ca-1815-4a9b-a3a7-130a33b1e692;
+	Ip=[164.107.81.174]; Helo=[CIO-TNC-HT07.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2FFO11HUB041
+Subject: [Osu-ctf] CTF meeting tonight...
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0881906336175788776=="
+Errors-To: osu-ctf-bounces@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces@lists.osu.edu>
+
+--===============0881906336175788776==
+Content-Language: en-US
+Content-Type: multipart/alternative;
+	boundary="_000_BB9FF01323A140A2B5606C0962B13910osuedu_"
+
+--_000_BB9FF01323A140A2B5606C0962B13910osuedu_
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+
+U28gZmFyIGFzIEkga25vdywgd2XigJlyZSBjb250aW51aW5nIHdpdGggdGhlIHJldmVyc2UtZW5n
+aW5lZXJpbmcgc2VyaWVzIHRvbmlnaHQuDQoNClVuZm9ydHVuYXRlbHkgSSB3b27igJl0IGJlIGFi
+bGUgdG8gbWFrZSBpdC4gIEnigJl2ZSBhc2tlZCB0aGUgaGVscCBkZXNrIHRvIG9wZW4gdGhlIHJv
+b20gYXQgdGhlIHJlcXVlc3Qgb2YgYW55IG9mIHNldmVyYWwgcGVvcGxlICh3aG8gd2VyZSBjY+KA
+mWQgb24gdGhlIGVtYWlsIEkgc2VudCB0byB0aGUgaGVscCBkZXNrKS4gIElmIHlvdSBjYW7igJl0
+IGdldCBpbnRvIERMMjYzLCBJIHN1Z2dlc3QganVzdCBtZWV0aW5nIGFjcm9zcyB0aGUgaGFsbC4N
+Cg0KRm9yIHlvdXIgcmVhZGluZyBwbGVhc3VyZSwgdGFrZSBhIGxvb2sgYXQg4oCcTU9WIGlzIFR1
+cmluZyBDb21wbGV0ZeKAnSBhdCBodHRwczovL3d3dy5jbC5jYW0uYWMudWsvfnNkNjAxL3BhcGVy
+cy9tb3YucGRmIC0gc3VyZSBtYWtlcyByZXZlcnNlIGVuZ2luZWVyaW5nIGEgbG90IHNpbXBsZXIg
+Oi0pDQoNCuKAlCBTdGV2ZQ0KDQo=
+
+--_000_BB9FF01323A140A2B5606C0962B13910osuedu_
+Content-Type: text/html; charset="utf-8"
+Content-ID: <9F466F03B17611469ED39FDDCCF8FB80@osu.edu>
+Content-Transfer-Encoding: base64
+
+PGh0bWw+DQo8aGVhZD4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0i
+dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04Ij4NCjwvaGVhZD4NCjxib2R5IHN0eWxlPSJ3b3JkLXdy
+YXA6IGJyZWFrLXdvcmQ7IC13ZWJraXQtbmJzcC1tb2RlOiBzcGFjZTsgLXdlYmtpdC1saW5lLWJy
+ZWFrOiBhZnRlci13aGl0ZS1zcGFjZTsiIGNsYXNzPSIiPg0KU28gZmFyIGFzIEkga25vdywgd2Xi
+gJlyZSBjb250aW51aW5nIHdpdGggdGhlIHJldmVyc2UtZW5naW5lZXJpbmcgc2VyaWVzIHRvbmln
+aHQuICZuYnNwOw0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xh
+c3M9IiI+VW5mb3J0dW5hdGVseSBJIHdvbuKAmXQgYmUgYWJsZSB0byBtYWtlIGl0LiAmbmJzcDtJ
+4oCZdmUgYXNrZWQgdGhlIGhlbHAgZGVzayB0byBvcGVuIHRoZSByb29tIGF0IHRoZSByZXF1ZXN0
+IG9mIGFueSBvZiBzZXZlcmFsIHBlb3BsZSAod2hvIHdlcmUgY2PigJlkIG9uIHRoZSBlbWFpbCBJ
+IHNlbnQgdG8gdGhlIGhlbHAgZGVzaykuICZuYnNwO0lmIHlvdSBjYW7igJl0IGdldCBpbnRvIERM
+MjYzLCBJIHN1Z2dlc3QganVzdCBtZWV0aW5nIGFjcm9zcyB0aGUNCiBoYWxsLjwvZGl2Pg0KPGRp
+diBjbGFzcz0iIj48YnIgY2xhc3M9IiI+DQo8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+Rm9yIHlvdXIg
+cmVhZGluZyBwbGVhc3VyZSwgdGFrZSBhIGxvb2sgYXQg4oCcTU9WIGlzIFR1cmluZyBDb21wbGV0
+ZeKAnSBhdCZuYnNwOzxhIGhyZWY9Imh0dHBzOi8vd3d3LmNsLmNhbS5hYy51ay9+c2Q2MDEvcGFw
+ZXJzL21vdi5wZGYiIGNsYXNzPSIiPmh0dHBzOi8vd3d3LmNsLmNhbS5hYy51ay9+c2Q2MDEvcGFw
+ZXJzL21vdi5wZGY8L2E+Jm5ic3A7LSBzdXJlIG1ha2VzIHJldmVyc2UgZW5naW5lZXJpbmcgYSBs
+b3Qgc2ltcGxlciA6LSk8L2Rpdj4NCjxkaXYgY2xhc3M9IiI+PGJyIGNsYXNzPSIiPg0KPC9kaXY+
+DQo8ZGl2IGNsYXNzPSIiPuKAlCBTdGV2ZTwvZGl2Pg0KPGRpdiBjbGFzcz0iIj48YnIgY2xhc3M9
+IiI+DQo8L2Rpdj4NCjwvYm9keT4NCjwvaHRtbD4NCg==
+
+--_000_BB9FF01323A140A2B5606C0962B13910osuedu_--
+
+--===============0881906336175788776==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+
+--===============0881906336175788776==--

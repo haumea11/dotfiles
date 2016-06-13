@@ -1,0 +1,1630 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp94242oig;
+        Tue, 1 Sep 2015 15:51:45 -0700 (PDT)
+X-Received: by 10.194.205.68 with SMTP id le4mr5101356wjc.74.1441147905481;
+        Tue, 01 Sep 2015 15:51:45 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22b.google.com (mail-wi0-x22b.google.com. [2a00:1450:400c:c05::22b])
+        by mx.google.com with ESMTPS id hw3si20103725wjb.150.2015.09.01.15.51.45
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 01 Sep 2015 15:51:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22b as permitted sender) client-ip=2a00:1450:400c:c05::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x22b.google.com with SMTP id mc4so40657177wic.0
+        for <kuiperhaumea@gmail.com>; Tue, 01 Sep 2015 15:51:45 -0700 (PDT)
+X-Received: by 10.194.235.6 with SMTP id ui6mr6722993wjc.92.1441147904890;
+        Tue, 01 Sep 2015 15:51:44 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.131 with SMTP id w125csp145078wmw;
+        Tue, 1 Sep 2015 15:51:43 -0700 (PDT)
+X-Received: by 10.107.10.11 with SMTP id u11mr2867171ioi.36.1441147903826;
+        Tue, 01 Sep 2015 15:51:43 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id pm5si396665igb.61.2015.09.01.15.51.43
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 01 Sep 2015 15:51:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=SMRpkw8B+vGbp+KaEsARPvOeWlA=; b=UKex7LDQZRvDAtp0sTmS9aeBbDG3d
+	J5/R+AsM52ilLKc6O8huD+Pvu1RcZamTfiakSIgy3n8pcoKaUYUHX0XPDCtvuPuP
+	LOudLSJOXidVyllnSWKRkzxnupHSfAdBbyY73WaGCPLNZrs7Omd3pT5i7SHmMho0
+	sBraWNEcqo3yXw=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=SMRpkw8B+vGbp+KaEsARPvOeWlA=; b=k92HCy/qrCLkiPtJfqguwkV59gEWK
+	G8zzZh9ACl94Ig2LnZCoWTaluCMkhzmMRUSQfMwZncafgbUzm6i/1TW0RnbzChOE
+	oC56HmAPlQ2b3DyIinf9fIaQ4iaHikA25AHay0DSyupAUyQhhOE/9EQP5WIYr/jo
+	Xy31XVCvHfloxg=
+Received: by filter0839p1mdw1.sendgrid.net with SMTP id filter0839p1mdw1.30979.55E62BFB15
+        2015-09-01 22:51:39.676138734 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0006p1iad1.sendgrid.net (SG) with ESMTP id ULgfDNEnTL21iB96AN-WdA
+	for <markiewicz.john@gmail.com>; Tue, 01 Sep 2015 22:51:39.657 +0000 (UTC)
+From: "QuestBridge" <questions@questbridge.org>
+To: <markiewicz.john@gmail.com>
+Subject: Egyptology, Arctic Studies, and more!
+Date: Tue, 01 Sep 2015 22:51:27 +0000
+Message-ID: <87dc1ea7-5c3d-434b-8753-558a32f60780@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_88c31e52-102e-4449-955d-a6518f24b7f8"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGKVp1ywo9oT6d3ewwLV92tk/Xsu0xp/vhvMw
+ kIIGQ/jPO4lAQ11QHF4ct0aNwzWqXiggocz/npvEbM8rTxRDGR6GqQHt+ZhRiS0PbK/j+w3sGP74JC
+ 8O7Z0LyOeI8/CD1oLGLJb4Ki72rg35I0nBVF
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegIuSgzu50RaEr4wVFBNtQHppyLvBsbTb+MuV+nC6nEEpHOMEiGefPa8SI7
+ aEx46q4PVYUjnY7chd/4kDDcWvn4D+ElvdNwNo3Jyw1ip1vc+L3nXaQ07j1kMcI/2Yef5KHzBn9S3H
+ o8/fLDCOIrocyjXOpXzDnpWgaijo7er1n1JAYyN1/CKTf+ySGi4FwA9/hGo47kEBZ0p37kgC5a/cqb
+ +KNXUE+d3gIj7KzHOoHyg8
+
+------=_0_88c31e52-102e-4449-955d-a6518f24b7f8
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Not only do our partner colleges <http://www.questbridge.org/partner-colleg=
+es/overview-listing> offer excellent educational opportunities, they also o=
+ffer academic programs you won't find anywhere else!
+
+This week, we're featuring four schools with unique academic programs: Brow=
+n University, Bowdoin College, Trinity College, and the University of South=
+ern California.
+
+Remember: you can apply for admissions and a full four-year scholarship to =
+any of our partner colleges through the National College Match <http://www.=
+questbridge.org/for-students/ncm-how-to-apply>.
+
+
+
+
+
+
+
+
+Brown University
+
+
+ <http://www.brown.edu/admission/undergraduate/>
+
+
+Brown Admissions >> <http://www.brown.edu/admission/undergraduate/>
+Application Requirements >> <http://www.questbridge.org/brown-app-requireme=
+nts>
+
+
+
+
+
+Location: Providence, Rhode Island
+Undergraduate Students: 6,400
+Type of School: Research University
+
+Brown is an Ivy League college committed to diversity and freedom of study.=
+ Students create their own course of study across multiple departments.
+
+Egyptology <http://www.brown.edu/academics/egyptology/>: Established in 200=
+5, Brown's Department of Egyptology and Ancient Western Asian Studies bring=
+s students back to the birthplace of Western civilization as we know it.
+
+
+
+
+
+
+
+
+Bowdoin College
+
+
+Bowdoin Admissions >> <http://www.bowdoin.edu/admissions/>
+Application Requirements >> <http://www.questbridge.org/bowdoin-app-require=
+ments>
+
+
+
+
+
+Location: Brunswick, Maine
+Undergraduate Students: 1,800
+Type of School: Liberal Arts College
+
+Bowdoin is near marine, urban, and rural environments; students can easily =
+access them for real-world research, recreational activities, and more.
+
+Arctic Studies <http://www.bowdoin.edu/arctic-museum/arctic-studies/>: Offe=
+red in partnership with the campus Arctic Museum <http://www.bowdoin.edu/ar=
+ctic-museum/>, this program lets students explore cultural, social, and env=
+ironmental issues involving Arctic lands and peoples.
+
+
+
+
+
+
+
+
+Trinity College
+
+
+Trinity Admissions >> <http://www.trincoll.edu/Admissions/apply/Pages/defau=
+lt.aspx>
+Application Requirements >> <http://www.questbridge.org/trinity-app-require=
+ments>
+
+
+
+
+
+Location: Hartford, Connecticut
+Undergraduate Students: 2,300
+Type of School: Liberal Arts College
+
+Trinity's quality education is due to the strength of faculty-student inter=
+action. It is among a few small colleges to offer an accredited engineering=
+ program.
+
+Human Rights Program <http://www.trincoll.edu/Academics/SpecialPrograms/hum=
+anrights/Pages/default.aspx>: The first of its kind, this program fosters c=
+ritical debate about human rights problems and bridges the divide between l=
+ocal and global human rights concerns.
+
+
+
+
+
+
+
+
+University of Southern California
+
+
+USC Admissions >> <http://www.usc.edu/admission/undergraduate/>
+Application Requirements >> <http://www.questbridge.org/southerncalifornia-=
+app-requirements>
+
+
+
+
+
+Location: Los Angeles, California
+Undergraduate Students: 18,000
+Type of School: Research University
+
+USC is located just two miles from downtown Los Angeles and offers more tha=
+n 150 majors as well as 17 professional schools within the university.
+
+World Bachelor in Business <http://wbb.usc.edu/>=E2=80=8B: This program inv=
+olves a year each at: the USC Marshall School of Business, the Hong Kong Un=
+iversity of Science and Technology, and Universit=C3=A0 Bocconi in Milan, I=
+taly.
+
+
+
+ <https://questbridge.zendesk.com/home>     <https://www.facebook.com/Quest=
+Bridge>     <https://twitter.com/QuestBridge>     <https://www.youtube.com/=
+user/QuestBridge>     <http://instagram.com/we_are_questbridge>    <http://=
+thebridgeblog.org/>115 Everett Avenue, Palo Alto, California, 94301
+QuestBridge is a registered 501(c)(3) non-profit organization.
+
+
+This email was sent to markiewicz.john@gmail.com by QuestBridge.
+Unsubscribe from College Bulletin. <https://apply.questbridge.org/go?r=3Dop=
+tout&mid=3D87dc1ea7-5c3d-434b-8753-558a32f60780>=
+
+------=_0_88c31e52-102e-4449-955d-a6518f24b7f8
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+ /><style type=3D"text/css">
+/**/
+body {
+  margin: 0;
+  mso-line-height-rule: exactly;
+  padding: 0;
+  min-width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td {
+  padding: 0;
+  vertical-align: top;
+}
+.spacer,
+.border {
+  font-size: 1px;
+  line-height: 1px;
+}
+.spacer {
+  width: 100%;
+}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.image {
+  font-size: 0;
+  Margin-bottom: 26px;
+}
+.image img {
+  display: block;
+}
+.logo {
+  mso-line-height-rule: at-least;
+}
+.logo img {
+  display: block;
+}
+strong {
+  font-weight: bold;
+}
+h1,
+h2,
+h3,
+p,
+ol,
+ul,
+li {
+  Margin-top: 0;
+}
+ol,
+ul,
+li {
+  padding-left: 0;
+}
+blockquote {
+  Margin-top: 0;
+  Margin-right: 0;
+  Margin-bottom: 0;
+  padding-right: 0;
+}
+.column-top {
+  font-size: 52px;
+  line-height: 52px;
+}
+.column-bottom {
+  font-size: 26px;
+  line-height: 26px;
+}
+.column {
+  text-align: left;
+}
+.contents {
+  width: 100%;
+}
+.padded {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.wrapper {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  min-width: 620px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+table.wrapper {
+  table-layout: fixed;
+}
+.one-col,
+.two-col,
+.three-col {
+  Margin-left: auto;
+  Margin-right: auto;
+  width: 600px;
+}
+.centered {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.two-col .image {
+  Margin-bottom: 22px;
+}
+.two-col .column-bottom {
+  font-size: 30px;
+  line-height: 30px;
+}
+.two-col .column {
+  width: 300px;
+}
+.two-col .padded {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.three-col .image {
+  Margin-bottom: 21px;
+}
+.three-col .column-bottom {
+  font-size: 31px;
+  line-height: 31px;
+}
+.three-col .column {
+  width: 200px;
+}
+.three-col .padded {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media only screen and (min-width: 0) {
+  .wrapper {
+    text-rendering: optimizeLegibility;
+  }
+}
+@media only screen and (max-width: 620px) {
+  [class=3Dwrapper] {
+    min-width: 320px !important;
+    width: 100% !important;
+  }
+  [class=3Dwrapper] .one-col,
+  [class=3Dwrapper] .two-col,
+  [class=3Dwrapper] .three-col {
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .column,
+  [class=3Dwrapper] .gutter {
+    display: block;
+    float: left;
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .padded {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  [class=3Dwrapper] .block {
+    display: block !important;
+  }
+  [class=3Dwrapper] .hide {
+    display: none !important;
+  }
+  [class=3Dwrapper] .image {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .image img {
+    height: auto !important;
+    width: 100% !important;
+  }
+}
+.shadow {
+  font-size: 2px;
+  line-height: 2px;
+}
+.one-col-bg,
+.two-col-bg,
+.three-col-bg,
+.one-col-feature-bg {
+  width: 100%;
+}
+.wrapper h1 {
+  font-size: 36px;
+  Margin-bottom: 24px;
+}
+.wrapper h2 {
+  font-size: 26px;
+  Margin-bottom: 20px;
+}
+.wrapper h3 {
+  font-size: 16px;
+  Margin-bottom: 16px;
+}
+.wrapper p,
+.wrapper ol,
+.wrapper ul {
+  font-size: 16px;
+}
+.wrapper p a,
+.wrapper ol a,
+.wrapper ul a {
+  text-decoration: underline;
+}
+.wrapper p a:hover,
+.wrapper ol a:hover,
+.wrapper ul a:hover {
+  text-decoration: none;
+}
+.wrapper ol,
+.wrapper ul {
+  Margin-left: 30px;
+}
+.wrapper li {
+  Margin-bottom: 13px;
+}
+.wrapper a {
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.wrapper blockquote {
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.wrapper blockquote p {
+  text-align: center;
+}
+.wrapper blockquote :last-child {
+  Margin-bottom: 0 !important;
+}
+.btn {
+  Margin-bottom: 26px;
+  padding-bottom: 2px;
+}
+.btn a {
+  background-image: url(https://i3.createsend1.com/static/eb/master/05-slat=
+e/images/btn.png);
+  background-repeat: repeat-x;
+  background-position: left top;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 13px 35px 12px 35px;
+  text-align: center;
+  text-decoration: none;
+}
+.divider {
+  font-size: 4px;
+  line-height: 4px;
+}
+.one-col .column table:nth-last-child(2) td h1:last-child,
+.one-col .column table:nth-last-child(2) td h2:last-child,
+.one-col .column table:nth-last-child(2) td h3:last-child,
+.one-col .column table:nth-last-child(2) td p:last-child,
+.one-col .column table:nth-last-child(2) td ol:last-child,
+.one-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 26px;
+}
+.one-col h1,
+.one-col .btn {
+  text-align: center;
+}
+.one-col blockquote {
+  Margin-bottom: 26px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.one-col blockquote p,
+.one-col blockquote ol,
+.one-col blockquote ul {
+  font-size: 18px;
+  line-height: 32px;
+  Margin-left: -65px;
+  Margin-right: -65px;
+}
+.one-col .divider {
+  Margin-left: 185px;
+  Margin-right: 185px;
+  Margin-bottom: 26px;
+}
+.two-col .column table:nth-last-child(2) td h1:last-child,
+.two-col .column table:nth-last-child(2) td h2:last-child,
+.two-col .column table:nth-last-child(2) td h3:last-child,
+.two-col .column table:nth-last-child(2) td p:last-child,
+.two-col .column table:nth-last-child(2) td ol:last-child,
+.two-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 22px;
+}
+.two-col h1 {
+  font-size: 26px;
+  Margin-bottom: 24px;
+}
+.two-col h2 {
+  font-size: 20px;
+  Margin-bottom: 16px;
+}
+.two-col h3 {
+  font-size: 14px;
+  Margin-bottom: 12px;
+}
+.two-col p,
+.two-col ol,
+.two-col ul {
+  font-size: 14px;
+}
+.two-col ol,
+.two-col ul {
+  Margin-left: 26px;
+}
+.two-col li {
+  Margin-bottom: 11px;
+}
+.two-col .btn {
+  Margin-bottom: 22px;
+}
+.two-col .btn a {
+  font-size: 12px;
+  line-height: 22px;
+  padding: 10px 28px;
+}
+.two-col .divider {
+  Margin-left: 100px;
+  Margin-right: 100px;
+  Margin-bottom: 22px;
+}
+.two-col blockquote {
+  Margin-bottom: 22px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.two-col blockquote p,
+.two-col blockquote ol,
+.two-col blockquote ul {
+  font-size: 16px;
+  line-height: 24px;
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.three-col .column table:nth-last-child(2) td h1:last-child,
+.three-col .column table:nth-last-child(2) td h2:last-child,
+.three-col .column table:nth-last-child(2) td h3:last-child,
+.three-col .column table:nth-last-child(2) td p:last-child,
+.three-col .column table:nth-last-child(2) td ol:last-child,
+.three-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 21px;
+}
+.three-col h1 {
+  font-size: 20px;
+  Margin-bottom: 14px;
+}
+.three-col h2 {
+  font-size: 16px;
+  Margin-bottom: 12px;
+}
+.three-col h3 {
+  font-size: 13px;
+  Margin-bottom: 10px;
+}
+.three-col p,
+.three-col ol,
+.three-col ul {
+  font-size: 13px;
+}
+.three-col ol,
+.three-col ul {
+  Margin-left: 20px;
+}
+.three-col li {
+  Margin-bottom: 10px;
+}
+.three-col .btn {
+  Margin-bottom: 21px;
+}
+.three-col .btn a {
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 19px;
+  padding: 6px 18px 5px 18px;
+}
+.three-col .divider {
+  Margin-left: 65px;
+  Margin-right: 65px;
+  Margin-bottom: 21px;
+}
+.three-col blockquote {
+  padding: 12px 0;
+  Margin-bottom: 21px;
+}
+.three-col blockquote p,
+.three-col blockquote ol,
+.three-col blockquote ul {
+  font-size: 15px;
+  line-height: 23px;
+}
+.one-col-feature .column {
+  width: 600px;
+}
+.one-col-feature .column-top {
+  font-size: 64px;
+  line-height: 64px;
+}
+.one-col-feature .column-bottom {
+  font-size: 38px;
+  line-height: 38px;
+}
+.one-col-feature h1,
+.one-col-feature h2,
+.one-col-feature h3 {
+  text-align: center;
+}
+.one-col-feature h2 {
+  font-weight: 400;
+}
+.one-col-feature p {
+  text-align: center;
+}
+.one-col-feature blockquote {
+  background-image: url(https://i5.createsend1.com/static/eb/master/05-slat=
+e/images/blockquote.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: 0 solid transparent;
+  border-bottom: 0 solid transparent;
+  Margin-bottom: 23px;
+  padding-top: 38px;
+  padding-bottom: 0;
+}
+.one-col-feature blockquote p,
+.one-col-feature blockquote ol,
+.one-col-feature blockquote ul {
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.one-col-feature .btn {
+  text-align: center;
+}
+.one-col-feature .divider {
+  Margin-left: 185px;
+  Margin-right: 185px;
+  Margin-bottom: 26px;
+}
+.preheader {
+  width: 100%;
+}
+.preheader td,
+.preheader p {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 17px;
+  width: 50%;
+}
+.preheader .title,
+.preheader .webversion {
+  padding: 8px 32px;
+}
+.preheader .title {
+  text-align: left;
+}
+.preheader .webversion {
+  text-align: right;
+}
+.header {
+  width: 100%;
+}
+.logo {
+  padding-top: 16px;
+  padding-bottom: 32px;
+  font-size: 24px;
+  letter-spacing: -0.01em;
+  line-height: 32px;
+  width: 600px;
+}
+.logo a {
+  text-decoration: none;
+}
+.logo .logo-center {
+  text-align: center;
+}
+.logo .logo-center img {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.preheader a,
+.footer a {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.footer {
+  width: 100%;
+}
+.footer .inner {
+  padding-top: 60px;
+  padding-bottom: 55px;
+}
+.footer .cols {
+  width: 600px;
+}
+.footer .left,
+.footer .right,
+.footer p {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 17px;
+  padding-bottom: 22px;
+}
+.footer .left {
+  text-align: left;
+  width: 55%;
+  padding-right: 5px;
+}
+.footer .right {
+  text-align: right;
+  width: 45%;
+  padding-left: 5px;
+}
+.footer td.spacer {
+  width: 7px;
+}
+.footer .social span {
+  mso-text-raise: 6px;
+}
+.footer .social td {
+  padding-right: 15px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+.footer .social a {
+  display: block;
+  line-height: 21px;
+  transition: opacity 0.2s;
+}
+.footer .social a:hover {
+  opacity: 0.75;
+}
+@media (min-width: 0) {
+  body {
+    min-width: 100% !important;
+  }
+  [class=3Dwrapper] {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 620px) {
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h1:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h1:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h1:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h2:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h2:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h2:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h3:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h3:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h3:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+p:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+p:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d p:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+ol:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+ol:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d ol:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+ul:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+ul:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d ul:last-child {
+    Margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+blockquote :last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+blockquote :last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d blockquote :last-child {
+    margin-bottom: 0 !important;
+  }
+  [class=3Dwrapper] .preheader {
+    display: none;
+  }
+  [class=3Dwrapper] .header {
+    margin: 0 auto !important;
+  }
+  [class=3Dwrapper] .logo {
+    padding-top: 32px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    width: 280px !important;
+  }
+  [class=3Dwrapper] .logo img {
+    max-width: 280px !important;
+    height: auto !important;
+  }
+  [class=3Dwrapper] .footer .inner {
+    padding-top: 76px !important;
+  }
+  [class=3Dwrapper] .footer .cols {
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .footer .left,
+  [class=3Dwrapper] .footer .right {
+    display: block !important;
+    width: 300px !important;
+    text-align: center !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    margin: 0 auto !important;
+  }
+  [class=3Dwrapper] .social {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  [class=3Dwrapper] .social .spacer {
+    display: none !important;
+  }
+  [class=3Dwrapper] .social td {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    display: block !important;
+  }
+  [class=3Dwrapper] .social td:last-child {
+    padding-bottom: 30px !important;
+  }
+  [class=3Dwrapper] .first .column-bottom,
+  [class=3Dwrapper] .second .column-top,
+  [class=3Dwrapper] .three-col .second .column-bottom,
+  [class=3Dwrapper] .three-col .third .column-top {
+    display: none;
+  }
+  [class=3Dwrapper] h1 {
+    font-size: 36px !important;
+    margin-bottom: 24px !important;
+  }
+  [class=3Dwrapper] h2 {
+    font-size: 26px !important;
+    margin-bottom: 20px !important;
+  }
+  [class=3Dwrapper] h3 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-bottom: 16px !important;
+  }
+  [class=3Dwrapper] p,
+  [class=3Dwrapper] ol,
+  [class=3Dwrapper] ul {
+    font-size: 16px !important;
+    line-height: 26px !important;
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] ol,
+  [class=3Dwrapper] ul {
+    margin-left: 32px !important;
+  }
+  [class=3Dwrapper] li {
+    margin-bottom: 13px !important;
+  }
+  [class=3Dwrapper] .image {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .divider {
+    Margin-left: 115px !important;
+    Margin-right: 115px !important;
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .btn {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .btn a {
+    display: block !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 24px !important;
+    padding: 13px 10px 12px 10px !important;
+  }
+  [class=3Dwrapper] blockquote {
+    border-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 16px !important;
+    padding-bottom: 0 !important;
+  }
+  [class=3Dwrapper] blockquote:after {
+    border-top: inherit;
+    content: '';
+    display: block;
+    height: 26px;
+    margin-top: 16px;
+  }
+  [class=3Dwrapper] blockquote p,
+  [class=3Dwrapper] blockquote ol,
+  [class=3Dwrapper] blockquote ul {
+    font-size: 18px !important;
+    line-height: 32px !important;
+    margin-left: -10px !important;
+    margin-right: -10px !important;
+  }
+  [class=3Dwrapper] blockquote ol,
+  [class=3Dwrapper] blockquote ul {
+    margin-left: 10px !important;
+  }
+  [class=3Dwrapper] blockquote :last-child {
+    margin-bottom: 0 !important;
+  }
+  [class=3Dwrapper] .one-col-feature .column-top {
+    font-size: 62px !important;
+    line-height: 62px !important;
+  }
+  [class=3Dwrapper] .one-col-feature .column-bottom {
+    font-size: 38px !important;
+    line-height: 38px !important;
+  }
+  [class=3Dwrapper] .one-col-feature blockquote {
+    padding-top: 38px !important;
+    padding-bottom: 25px !important;
+  }
+  [class=3Dwrapper] .one-col-feature blockquote:after {
+    display: none;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and=
+ (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-rat=
+io: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min=
+-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  [class=3Dwrapper] .one-col-feature blockquote {
+    background-image: url(https://i4.createsend1.com/static/eb/master/05-sl=
+ate/images/blockquote@2x.png) !important;
+    background-size: 28px 26px !important;
+  }
+  [class=3Dwrapper] .footer .twitter {
+    background-image: url(https://i8.createsend1.com/static/eb/master/05-sl=
+ate/images/twitter@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+  [class=3Dwrapper] .footer .facebook {
+    background-image: url(https://i6.createsend1.com/static/eb/master/05-sl=
+ate/images/facebook@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+  [class=3Dwrapper] .footer .forward {
+    background-image: url(https://i7.createsend1.com/static/eb/master/05-sl=
+ate/images/forward@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+}
+/**/
+</style><meta name=3D"robots" content=3D"noindex,nofollow" /><meta property=
+=3D"og:title" content=3D"My First Campaign" /><style type=3D"text/css">
+/**/
+@import url(https://fonts.googleapis.com/css?family=3DCabin:400,700,400ital=
+ic,700italic);@media only screen and (min-width: 0){body{background-color:#=
+e1e2cf}}.wrapper,.preheader,.header,.one-col-bg,.emb-editor-canvas{backgrou=
+nd-color:#e1e2cf}h1{color:#2e3b4e}.wrapper h1{}.wrapper h1{font-family:Geor=
+gia,serif}h1{}.one-col h1,.one-col-feature h1{line-height:44px}.two-col h1{=
+line-height:34px}.three-col h1{line-height:26px}@media only screen and (max=
+-width: 620px){h1{line-height:44px !important}}h2{color:#2e3b4e}.wrapper h2=
+{}.wrapper h2{font-family:Georgia,serif}h2{}.one-col h2,.one-col-feature h2=
+{line-height:34px}.two-col h2{line-height:28px}.three-col h2{line-height:22=
+px}@media only screen and (max-width: 620px){h2{line-height:34px !important=
+}}h3{color:#2e3b4e}.wrapper h3{}.wrapper h3{font-family:Georgia,serif}h3{}.=
+one-col h3,.one-col-feature h3{line-height:24px}.two-col
+h3{line-height:22px}.three-col h3{line-height:19px}@media only screen and (=
+max-width: 620px){h3{line-height:24px !important}}p,ol,ul{color:#4e5561}.wr=
+apper p,.wrapper ol,.wrapper ul{}.wrapper p,.wrapper ol,.wrapper ul{font-fa=
+mily:Georgia,serif}p,ol,ul{}.one-col p,.one-col ol,.one-col ul,.one-col-fea=
+ture p,.one-col-feature ol,.one-col-feature ul{line-height:25px;Margin-bott=
+om:25px;font-weight:400}.two-col p,.two-col ol,.two-col ul{font-weight:400;=
+line-height:22px;Margin-bottom:22px}.three-col p,.three-col ol,.three-col u=
+l{font-weight:300;line-height:21px;Margin-bottom:21px}@media only screen an=
+d (max-width: 620px){p,ol,ul{line-height:25px !important;Margin-bottom:25px=
+ !important;font-weight:400 !important}}.wrapper a{color:#3b484e}.wrapper a=
+:hover{color:#252d31 !important}.wrapper .logo{color:#2e3b4e}.wrapper .logo=
+{font-family:Avenir,sans-serif}@media only screen and (min-width:
+0){.wrapper .logo{font-family:Cabin,Avenir,sans-serif !important}}.wrapper =
+.logo a{color:#2e3b4e}.wrapper .logo a:hover{color:#2e3b4e !important}.btn =
+a{}.wrapper .btn a{}.wrapper .btn a{font-family:Georgia,serif}.btn a{}.btn =
+a{font-weight:400}.wrapper .btn a{background-color:#555346;box-shadow:0 2px=
+ 0 #3f3d34;color:#fff;text-shadow:0 1px 0 0 1px 0 #4d4b3f}.wrapper .btn a:h=
+over{color:#fff !important;background-color:#716e5d !important;box-shadow:0=
+ 2px 0 #5b584b !important}.one-col-bg{background-color:#e1e2cf}.two-col-bg{=
+background-color:#dbdcc5}.three-col-bg{background-color:#d7d8bf}.one-col-fe=
+ature-bg{background-color:#d1d3b6}blockquote p,blockquote ol,blockquote ul{=
+}.wrapper blockquote p,.wrapper blockquote ol,.wrapper blockquote ul{}.wrap=
+per blockquote p,.wrapper blockquote ol,.wrapper blockquote ul{font-family:=
+Georgia,serif}blockquote p,blockquote ol,blockquote ul{}.one-col
+blockquote p,.one-col blockquote ol,.one-col blockquote ul,.one-col-feature=
+ blockquote p,.one-col-feature blockquote ol,.one-col-feature blockquote ul=
+{line-height:26px}.two-col blockquote p,.two-col blockquote ol,.two-col blo=
+ckquote ul{line-height:24px;font-weight:300}.three-col blockquote p,.three-=
+col blockquote ol,.three-col blockquote ul{font-weight:400;line-height:21px=
+}@media only screen and (max-width: 620px){blockquote p,blockquote ol,block=
+quote ul{line-height:26px !important}}.one-col blockquote{border-top:1px so=
+lid #cbcbba;border-bottom:1px solid #cbcbba}.one-col .divider{background-co=
+lor:#cbcbba}.two-col blockquote{border-top:1px solid #c5c6b2;border-bottom:=
+1px solid #c5c6b2}.two-col .divider{background-color:#c5c6b2}.three-col blo=
+ckquote{border-top:1px solid #c2c3ac;border-bottom:1px solid #c2c3ac}.three=
+-col .divider{background-color:#c2c3ac}.one-col-feature
+.divider{background-color:#bcbea3}.one-col-feature .shadow{background-color=
+:#bcbea3}.preheader td,.preheader p{color:#b3b3b3}.wrapper .preheader td,.w=
+rapper .preheader p{}.wrapper .preheader td,.wrapper .preheader p{font-fami=
+ly:Georgia,serif}.preheader td,.preheader p{}.preheader td a,.preheader p a=
+{font-weight:700}.wrapper .preheader a,.wrapper .footer a{color:#b3b3b3}.wr=
+apper .preheader a:hover,.wrapper .footer a:hover{color:#8d8d8d !important}=
+.footer{background-color:#e1e2cf}.footer .left,.footer .right,.footer p{col=
+or:#b3b3b3}.wrapper .footer .left,.wrapper .footer .right,.wrapper .footer =
+p{}.wrapper .footer .left,.wrapper .footer .right,.wrapper .footer p{font-f=
+amily:Georgia,serif}.footer .left,.footer .right,.footer p{}.footer .left a=
+,.footer .right a,.footer p a{font-weight:700}.footer .social a{}.footer .s=
+ocial a{font-family:Georgia,serif}@media
+(min-width:0){body{background-color:#e1e2cf}}
+/**/
+</style>
+</head>
+<body style=3D"margin: 0;mso-line-heightv-rule: exactly;padding: 0;min-widt=
+h: 100%"><style>@media only screen and (max-width: 660px) { .deliver_unsubs=
+cribe { width: 100%; } }</style><font face=3D"Times New Roman, Times, serif=
+" size=3D"3"><div style=3D"font-family: Times New Roman, Times, serif; font=
+-size: 12pt;"><!--[if (gte mso 9)|(IE)]>
+                <style>
+                        body {
+                          background-color: #ffffff;
+                        }
+                </style>
+                <![endif]--><center class=3D"wrapper" style=3D"display: tab=
+le;table-layout: fixed;width: 100%;min-width: 620px;-webkit-text-size-adjus=
+t: 100%;-ms-text-size-adjust: 100%;background-color: #e1e2cf"><table class=
+=3D"preheader" style=3D"border-collapse: collapse;border-spacing: 0;width: =
+100%;background-color: #e1e2cf"><tbody><tr><td class=3D"title" style=3D"pad=
+ding: 8px 32px;vertical-align: top;font-size: 11px;font-weight: 400;letter-=
+spacing: 0.01em;line-height: 17px;width: 50%;color: #b3b3b3;text-align: lef=
+t;font-family: Georgia,serif">&nbsp;</td><td class=3D"webversion" style=3D"=
+padding: 8px 32px;vertical-align: top;font-size: 11px;font-weight: 400;lett=
+er-spacing: 0.01em;line-height: 17px;width: 50%;color: #b3b3b3;text-align: =
+right;font-family: Georgia,serif">&nbsp;</td></tr></tbody></table><table cl=
+ass=3D"header" style=3D"border-collapse: collapse;border-spacing: 0;width: =
+100%;background-color: #e1e2cf"><tbody><tr><td style=3D"padding: 0;vertical=
+-align: top">&nbsp;</td><td class=3D"logo" style=3D"padding: 0;vertical-ali=
+gn: top;mso-line-height-rule: at-least;padding-top: 16px;padding-bottom: 32=
+px;font-size: 24px;letter-spacing: -0.01em;line-height: 32px;width: 600px;c=
+olor: #2e3b4e;font-family: Avenir,sans-serif"><div align=3D"center" class=
+=3D"logo-center" id=3D"emb-email-header" style=3D"text-align: center"><a hr=
+ef=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8=
+cLt4ybr-2Fsnfc-2Bn6bJc-2FuE4vbCjD1LiuZJ4AaSmWV_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv=
+1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcne=
+FWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxWHP7YB0jKIQI6j=
+G11oj3bwROIjocQ1CqljmHOu9g-2Fsz1YIbUtg1oHy82RJzGwKpjp2KLHGrWUVkcKBU-2Fg9j-2=
+F2z6fU86v9f-2Fbezawi5fmwPUW1HXQTf3b6SRllXOcAbM8CLffkgY1ga3m7ZsZS5i4itdw8SY9=
+zC3NndDEFFzlVfRg-3D-3D" style=3D"text-decoration: none;transition: all 0.2s=
+;color: #2e3b4e" target=3D"_blank"><img alt=3D"" style=3D"border: 0px; disp=
+lay: block; margin-left: auto; margin-right: auto; max-width: 421px; width:=
+ 340px; height: 63px;" height=3D"63" width=3D"340" src=3D"https://d2y48w7m6=
+jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3=
+bBdRNQfrVbSFtybGv4iw_TdjQSP5pIy2VEqlHzIlHPaLTAd7cH5zeXb9exJgJNAcBDRWhBfVfYc=
+twu41a6osT3Hav6o" /></a></div></td><td style=3D"padding: 0;vertical-align: =
+top">&nbsp;</td></tr></tbody></table><table class=3D"one-col-bg" style=3D"b=
+order-collapse: collapse;border-spacing: 0;width: 100%;background-color: #e=
+1e2cf"><tbody><tr><td align=3D"center" style=3D"padding: 0;vertical-align: =
+top"><table class=3D"one-col centered" style=3D"border-collapse: collapse;b=
+order-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px; backgro=
+und-color: #ffffff"><tbody><tr><td class=3D"column" style=3D"padding: 0;ver=
+tical-align: top;text-align: left"><div align=3D"center" class=3D"image" st=
+yle=3D"font-size: 0;Margin-bottom: 26px"><a href=3D"http://mx.technolutions=
+.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc-2FuE4v=
+bCjD1LiuZJ4AaSmWV_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImf=
+m6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGs=
+jYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxX5Q2QidjJ6Jl4Q1XY9AV7lDlfH5bmMJ9SJ4h7E7vyny=
+P-2F8SUXBMmCQQTJrU4knjB0WiALf2x86ToPHmQaHywI0CwryEUGyca3J0abD-2F4BolY5UlNxn=
+n6A6IfEeEaStJCQhTipR7rU9pN4WDFSkB3hWzrgK7eAAxp-2F686DePCxIOQ-3D-3D"><img al=
+t=3D"Meet the Colleges" style=3D"border: 0px; display: block; width: 600px;=
+ height: 200px;" height=3D"200" width=3D"600" src=3D"https://d2y48w7m6jzhpb=
+.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRN=
+QfrVbSFtybGv4iw_TdjQSPUY5mB8b8YT5elxm904hTXoKWbWMus_josI__OJnDYD0ZUWIYyK_in=
+PhoQKnFiJARyCdY_xe9C5A" /></a></div><table class=3D"contents" style=3D"bord=
+er-collapse: collapse;border-spacing: 0;width: 100%"><tbody><tr><td class=
+=3D"padded" style=3D"padding: 0;vertical-align: top;padding-left:40px;paddi=
+ng-right: 40px"><p style=3D"Margin-top: 0;color: #555346;font-size: 14px;Ma=
+rgin-bottom: 20px;font-family: Georgia,serif;line-height: 20px">Not only do=
+ our <a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAz=
+pDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc8EMQBzhlU5-2BcO7lz8Zj7Up4ZBhrEPGlqQXSf-2FvZ=
+6jTUT-2F1rmthh3xSlE8OnTmYfVc-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva=
+5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAny=
+cupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxW5X5w0pRK9JT9fufmcQhOGcJm0-2B=
+O2hwDYL7Q0oXna9iBoehRsxuHFlaXXjXtuiHGnysXo8-2FeW5mYpdHQGFp2HvkG8JHlq7tljDqA=
+fyekA4vBT7uAheV3Gh9CB9wsDMpecg0xf4ODCrH33qQM4Vofwy0OqzJhe3wB9OfqVqUSKVhg-3D=
+-3D">partner colleges</a> offer excellent educational opportunities, they a=
+lso offer academic programs you won't find anywhere else!<br /><br />
+This week, we're featuring four schools with unique academic programs: <str=
+ong>Brown University</strong>,&nbsp;<strong>Bowdoin College</strong>, <stro=
+ng>Trinity College</strong>, and the <strong>University of Southern Califor=
+nia.</strong><br /><br />
+Remember: you can apply for admissions and a <strong>full four-year scholar=
+ship</strong> to any of our partner colleges through the&nbsp;<a href=3D"ht=
+tp://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-=
+2Fsnfc-2Bn6bJc9z27mDt4hVZ7St07kftoEC0kQR6OhZ89vOu5D8Z47JfQ-3D-3D_fl-2FMBkJM=
+X7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2=
+B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczA=
+Xfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41=
+dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoT=
+qRSxUk2s-2BA5WhBJQIe8OjWZNWQNj9ArEU2hFT8hwLR4reDNB3M0TGTmXzI5MnXsEQmJaVMTqV=
+B3-2FIDVLeaqB7WAmldiLCwfsaA3gqmZyQDujzl4t6tnj-2FBhtBimO-2F9IiJ5P-2FLBhUYSYP=
+2qEgW-2BJ0C7av3o2mTW0TK5gDAAlCVk-2Fzzzdg-3D-3D">National College Match</a>.=
+</p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody><=
+/table><table class=3D"one-col centered" style=3D"border-collapse: collapse=
+;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px; backg=
+round-color: #ffffff"><tbody><tr><td class=3D"column" style=3D"padding: 0;v=
+ertical-align: top;text-align: left"><hr /><div align=3D"center" class=3D"i=
+mage" style=3D"font-size: 0;Margin-bottom: 0px">&nbsp;</div></td></tr></tbo=
+dy></table><!--start picture and article template "two-col-bg"--><table cla=
+ss=3D"two-col-bg" style=3D"border-collapse: collapse;border-spacing: 0;widt=
+h: 100%;background-color: #e1e2cf"><tbody><tr><td align=3D"center" style=3D=
+"padding: 0;vertical-align: top"><table class=3D"two-col centered" style=3D=
+"border-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right=
+: auto;width: 600px; background-color:#ffffff"><tbody><tr><td class=3D"colu=
+mn first" style=3D"padding: 0;vertical-align: top;text-align: left;width: 3=
+00px"><div><div class=3D"column-top" style=3D"font-size: 10px;line-height: =
+10px">&nbsp;</div></div><table class=3D"contents" style=3D"border-collapse:=
+ collapse;border-spacing: 0;width: 100%"><tbody><tr><td class=3D"padded" st=
+yle=3D"padding: 0;vertical-align: top;padding-left:35px;padding-right: 35px=
+"><h1 style=3D"margin-top: 0px; color: rgb(85, 83, 70); font-size: 20px; ma=
+rgin-bottom: 20px; font-family: Georgia, serif; line-height: 20px; text-ali=
+gn: center;">Brown University</h1></td></tr></tbody></table><table class=3D=
+"contents" style=3D"border-collapse: collapse;border-spacing: 0;width: 100%=
+"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-align: top;p=
+adding-left:40px;padding-right: 25px"><div align=3D"center" class=3D"image"=
+ style=3D"font-size: 0;Margin-bottom: 22px"><a href=3D"http://mx.technoluti=
+ons.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx65uiiVvk-2B-2FgGajodPdPAXtk-2=
+FJAU77K6NlXc5qydHYa8KE3sglJaKkxD8STT9mSVNA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8=
+-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLF=
+pICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWW=
+sv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXc=
+neFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxU4qniUUiFpRt=
+MQvUgN-2BswAtgIOlaZ0T-2BI7HsviGn9JOoAh8MV6SH0T1Z2SSvpUvs3CPyEZvng5fKN3sS0ir=
+9QB3nn5Ui4ax3XQJtYPOnTnjtSSSLrWbMLgCknCg3WXtQwE2LrWf4pnEyMcdDxlc7YYf-2FJhVy=
+qDyqwBXlQgWQB3Rg-3D-3D"><img alt=3D"" style=3D"border: 0px; display: block;=
+ max-width: 287px; width: 200px; height: 200px;" height=3D"200" width=3D"20=
+0" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHN=
+wwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSM-FFmKn9TsFzcI8WQ7ILNa=
+TAB-ag7aL-BhZb52KSZ8Y2BcSs6AfjN54TRiT9dizbHGeCGaBRquoS7Negg3oE4vSWkAkHteJOl=
+paqfoEfHX4Q" /></a><br />
+&nbsp;</div></td></tr></tbody></table><div style=3D"text-align: center;"><p=
+ style=3D"margin-top: 0px; color: rgb(78, 85, 97); font-size: 14px; font-fa=
+mily: Georgia,serif; font-weight: 400; line-height: 22px; margin-bottom: 10=
+px;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAz=
+pDulOpx65uiiVvk-2B-2FgGajodPdPAXtk-2FJAU77K6NlXc5qydHYa8KE3sglJaKkxD8STT9mS=
+VNA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi=
+-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcom=
+vNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08=
+D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJ=
+HyH7KlhI7cvQHtLl9OoTqRSxW8yMUzgV32iNncM27Kbiq1XwcKfu8ql2wzjNfATEopo-2FPnFR8=
+-2B8XgnCYfSmTBQhe-2FtwF4bS6zYiFJNXWxbDLQ0xe9r9NkNAv3BpWhcipA3UjkJ6gPBS83Gs8=
+6TblcUOrOfZ-2FGnS5crqVPiUxI6Nam2g0JpI5dSRJixZKRUbNEMHg-3D-3D">Brown Admissi=
+ons&nbsp;&gt;&gt;</a><br /><a href=3D"http://mx.technolutions.net/wf/click?=
+upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc-2FvDbBKHuQ8-2B8q0Jhp=
+HTsMI2MNarkPFAOray61gQP2oyw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siH=
+luMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmM=
+ms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61W=
+va5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iA=
+nycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxX-2FkqkxiP1sTK9tnNN3SjumTy7=
+vHaoEPAkUbiGn56s6kgZ91jqK-2FahoaMoYDCfTPUF8YQitlWW-2BQ4mvjN9ZuYYGaV84lht-2B=
+Jt0E6-2FUB67r8nwxhv-2B2M4mnqX-2BK8A-2Foid3w9hN1GG-2F-2BipFGUGDWDR4rk2LTR0Cj=
+LVHBYhyFEPfAVwA-3D-3D">Application Requirements &gt;&gt;</a></p></div></td>=
+<td class=3D"column second" style=3D"padding: 0;vertical-align: top;text-al=
+ign: left;width: 300px"><div><div class=3D"column-top" style=3D"font-size: =
+10px;line-height: 10px">&nbsp;</div></div><table class=3D"contents" style=
+=3D"border-collapse: collapse;border-spacing: 0;width: 100%"></table><table=
+ class=3D"contents" style=3D"border-collapse: collapse;border-spacing: 0;wi=
+dth: 100%"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-ali=
+gn: top;padding-left: 25px;padding-right: 25px"><p style=3D"margin-top: 0px=
+; color: rgb(78, 85, 97); font-size: 14px; font-family: Georgia,serif; font=
+-weight: 400; line-height: 22px; margin-bottom: 10px;"><em>Location:</em> P=
+rovidence, Rhode Island<br /><em>Undergraduate Students:</em> 6,400<br /><e=
+m>Type of School:</em> Research University<br /><br />
+Brown is an Ivy League college committed to diversity and freedom of study.=
+ Students create their own course of study across multiple departments.<br =
+/><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpx18tKKvs04K41GaynV8hfhIgZaH-2F5TBlAnfCQYLe3H4HdioLOGlL1Jswfc-2F5rO=
+nJIw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkF=
+i-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfco=
+mvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ0=
+8D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisP=
+JHyH7KlhI7cvQHtLl9OoTqRSxWSwFtKkqDxkU-2Bt7B8mq2Y01DapthxniPRaHnaCN0ZWrpgW9V=
+gDFSKzeL8JYCHbpLt72KN-2FBD4XUENy6wRpgruuL6imy5n0pJRQu1QYTWBbZKg3RuLHMxtL-2B=
+Sv-2FhbGqpCdhyVc5yV5mvzAJg4vw0ezv349c0dCEwVXZAI-2FADQ3zdw-3D-3D"><em>Egypto=
+logy</em></a>: Established in 2005, Brown&#8217;s Department of Egyptology =
+and Ancient Western Asian Studies brings students back to the birthplace of=
+ Western civilization as we know it.</p></td></tr></tbody></table></td></tr=
+></tbody></table><table class=3D"one-col centered" style=3D"border-collapse=
+: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 60=
+0px; background-color: #ffffff"><tbody><tr><td class=3D"column" style=3D"pa=
+dding: 0;vertical-align: top;text-align: left"><hr /><div align=3D"center" =
+class=3D"image" style=3D"font-size: 0;Margin-bottom: 0px">&nbsp;</div></td>=
+</tr></tbody></table></td></tr></tbody></table><!--start picture and articl=
+e template "two-col-bg"--><table class=3D"two-col-bg" style=3D"border-colla=
+pse: collapse;border-spacing: 0;width: 100%;background-color: #e1e2cf"><tbo=
+dy><tr><td align=3D"center" style=3D"padding: 0;vertical-align: top"><table=
+ class=3D"two-col centered" style=3D"border-collapse: collapse;border-spaci=
+ng: 0;Margin-left: auto;Margin-right: auto;width: 600px; background-color:#=
+ffffff"><tbody><tr><td class=3D"column first" style=3D"padding: 0;vertical-=
+align: top;text-align: left;width: 300px"><div><div class=3D"column-top" st=
+yle=3D"font-size: 10px;line-height: 10px">&nbsp;</div></div><table class=3D=
+"contents" style=3D"border-collapse: collapse;border-spacing: 0;width: 100%=
+"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-align: top;p=
+adding-left:35px;padding-right: 35px"><h1 style=3D"margin-top: 0px; color: =
+rgb(85, 83, 70); font-size: 20px; margin-bottom: 20px; font-family: Georgia=
+, serif; line-height: 20px; text-align: center;">Bowdoin College</h1></td><=
+/tr></tbody></table><table class=3D"contents" style=3D"border-collapse: col=
+lapse;border-spacing: 0;width: 100%"><tbody><tr><td class=3D"padded" style=
+=3D"padding: 0;vertical-align: top;padding-left:40px;padding-right: 25px"><=
+div align=3D"center" class=3D"image" style=3D"font-size: 0;Margin-bottom: 2=
+2px"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAz=
+pDulOpxxnmsMlRJueWRNhSjTHQ6FsKjfpiGB6FGflJM-2BcWIFsm_fl-2FMBkJMX7HXblz8UUSY=
+qUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJ=
+KrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6g=
+BQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixb=
+knXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxUnQkPWyD=
+trRxfNdP3rtuZf4IoKivg7MA7B3hL6Ct9PtxoQ6bI8FsUuttVB5I-2F4-2BZevjySo4x42qnxIW=
+qToT9uBK6f9IQzJbZj305KqAxxywXIltuN6aS4q4WsM2mBCgyf-2BocIeXU1C40gziNL0cA5Jpc=
+T26jWr1DvEqVuvK7Bwmg-3D-3D"><img alt=3D"" style=3D"border: 0px; display: bl=
+ock; max-width: 287px; width: 200px; height: 200px;" height=3D"200" width=
+=3D"200" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5=
+vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSM-FFmKn9TsFzcI8W=
+Q7ILNaTAB-ag7aL-BhZb52KSZ8Y2BcSs6AfjN54TRiT9dizbHGeCGaBRquocG5cqKZGBUFn7fRu=
+-cTJqlFO4Ny0hfAiqcMRP1mktvL" /></a></div></td></tr></tbody></table><div sty=
+le=3D"text-align: center;"><p style=3D"margin-top: 0px; color: rgb(78, 85, =
+97); font-size: 14px; font-family: Georgia,serif; font-weight: 400; line-he=
+ight: 22px; margin-bottom: 10px;"><a href=3D"http://mx.technolutions.net/wf=
+/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpxxnmsMlRJueWRNhSjTHQ6FsKjfpiGB6FGflJM-2B=
+cWIFsm_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2F=
+r6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNO=
+YCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3k=
+XLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH=
+7KlhI7cvQHtLl9OoTqRSxWwxPEmrbxb851apCLdYtWVbNHPmlYm-2B4sFgal8WKUqBBsqG-2Fab=
+X23jZiIe6mc4fU2xU9NQ0o821qpddEPgfiKcew5lOoDi-2FmqXutd5npsQno7V4GYGV4pzDKEWl=
+atF1BInC8Uzcwr54PNgzMuv3kqEB6pF6olQJTaUcVqVQADujQ-3D-3D">Bowdoin Admissions=
+ &gt;&gt;</a><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFg=
+Q-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc8TSlj8KwRMGprR38gID3w7Nou3YmQ=
+TkARqX4peb7OZUg-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvH=
+dImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FG=
+VLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxWR-2BDOanwG1H5CfZ8OoWc5t2dTJosBVy4CeWz6=
+Jl8WhzMiBRfKb-2Bv6vYWNnEn9QqjIzK5Mxxfj7Q0KWeQTddPAmNlmsptWIj3vAMwV99sFu5oRQ=
+LvP-2FAcheBuY80TMz0aG8CN0FkXPplDZQJiv3O3Zel5gSAN4t4jYlT-2BrhGfl-2FGN-2BoUt8=
+-2FGgwxuiaLtPK58R8-3D">Application Requirements &gt;&gt;</a></p></div></td>=
+<td class=3D"column second" style=3D"padding: 0;vertical-align: top;text-al=
+ign: left;width: 300px"><div><div class=3D"column-top" style=3D"font-size: =
+10px;line-height: 10px">&nbsp;</div></div><table class=3D"contents" style=
+=3D"border-collapse: collapse;border-spacing: 0;width: 100%"></table><table=
+ class=3D"contents" style=3D"border-collapse: collapse;border-spacing: 0;wi=
+dth: 100%"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-ali=
+gn: top;padding-left: 25px;padding-right: 25px"><p style=3D"margin-top: 0px=
+; color: rgb(78, 85, 97); font-size: 14px; font-family: Georgia,serif; font=
+-weight: 400; line-height: 22px; margin-bottom: 22px;"><em>Location:</em> B=
+runswick, Maine<br /><em>Undergraduate Students:</em> 1,800<br /><em>Type o=
+f School:</em> Liberal Arts College<br /><br />
+Bowdoin is near marine, urban, and rural environments; students can easily =
+access them for real-world research, recreational activities, and more.<br =
+/><br /><em><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Y=
+ekwlwAzpDulOpx3akptxKSBEo6WcYIiiVoOpniKtxPU69IDLN-2B-2FGp5qjn1G0eVvIAz8brk-=
+2Fm7ri-2B8mQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdIm=
+fm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLG=
+sjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxXK4aWP1aoAJnc6fZQ2ufcvc7JiNcernnZUKZeXie-2=
+FOnfzTiKR22pDOawF3zVXgmYH312R-2BfTF1p4ZXu0XNHGvr6vE4q-2FMn3O4mzP1c23P-2BO7X=
+lt7HDbjvgkPUnwCtjR6dXzueowj6YVh83e3gsxKHN22-2FeaXGwTi2FrFYMGJta1jj7XNTHofS8=
+crJtqVIn8fA-3D">Arctic Studies</a>:&nbsp;</em>Offered in partnership with t=
+he campus&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2F=
+n6YekwlwAzpDulOpx3akptxKSBEo6WcYIiiVoOqtdKpt2yQ-2BIdqYwbVA5LoD_fl-2FMBkJMX7=
+HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0=
+Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXf=
+w7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41db=
+q2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqR=
+SxXU-2FpLbceBI4apc29PXvBZCXoysH-2Fg402DWPWf38R8H94nluSwpGG5rR1NTQY85fwBCr-2=
+Fiwy5dCml1PEdvTdYqNyyuas24EPc-2FQzBR2ODS4K-2FoyzadtUZney23B-2Fd95MGFo7cvwzp=
+dXj0jZGsuOk2zo421-2BURAt-2BA7NvRuvkH4slNFBi4-2BsyE-2BXqeMMj-2F-2B1Y-2B8-3D"=
+>Arctic Museum</a>, this program lets students explore cultural, social, an=
+d environmental issues involving Arctic lands and peoples.&nbsp;</p></td></=
+tr></tbody></table></td></tr></tbody></table><!--end picture and article te=
+mplate--><!--line break--><table class=3D"one-col centered" style=3D"border=
+-collapse: collapse;border-spacing: 0;Margin-left: auto;Margin-right: auto;=
+width: 600px; background-color: #ffffff"><tbody><tr><td class=3D"column" st=
+yle=3D"padding: 0;vertical-align: top;text-align: left"><hr /><div align=3D=
+"center" class=3D"image" style=3D"font-size: 0;Margin-bottom: 0px">&nbsp;</=
+div></td></tr></tbody></table></td></tr></tbody></table><!--start picture a=
+nd article template "two-col-bg"--><table class=3D"two-col-bg" style=3D"bor=
+der-collapse: collapse;border-spacing: 0;width: 100%;background-color: #e1e=
+2cf"><tbody><tr><td align=3D"center" style=3D"padding: 0;vertical-align: to=
+p"><table class=3D"two-col centered" style=3D"border-collapse: collapse;bor=
+der-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px; backgroun=
+d-color:#ffffff"><tbody><tr><td class=3D"column first" style=3D"padding: 0;=
+vertical-align: top;text-align: left;width: 300px"><div><div class=3D"colum=
+n-top" style=3D"font-size: 10px;line-height: 10px">&nbsp;</div></div><table=
+ class=3D"contents" style=3D"border-collapse: collapse;border-spacing: 0;wi=
+dth: 100%"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-ali=
+gn: top;padding-left:35px;padding-right: 35px"><h1 style=3D"margin-top: 0px=
+; color: rgb(85, 83, 70); font-size: 20px; margin-bottom: 20px; font-family=
+: Georgia, serif; line-height: 20px; text-align: center;">Trinity College</=
+h1></td></tr></tbody></table><table class=3D"contents" style=3D"border-coll=
+apse: collapse;border-spacing: 0;width: 100%"><tbody><tr><td class=3D"padde=
+d" style=3D"padding: 0;vertical-align: top;padding-left:40px;padding-right:=
+ 25px"><div align=3D"center" class=3D"image" style=3D"font-size: 0;Margin-b=
+ottom: 22px"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6=
+YekwlwAzpDulOpx2d4S5GDirlCwWSjAqR22mlV6SrsYm50G06EUBGxEuWgyHalOqeCR51qBcXL8=
+R8sSKCkZQe-2Fdk3mvah7GhirVe8-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva=
+5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAny=
+cupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxWucQ7eg4JYcgAylDZXwRaM4GpxCEL=
+rRMLdempgAQ5XQCcsikjl3gbydBf6915az-2F0zeO0wo7E0wkVa6HvUKbTaHBPz9YumbG-2F-2B=
+BgqRyXeBX2Uh0RCjhmz01acLmVvi7SI2qLFAZISQVO8cmmZDkXM-2B5gpHoFfusN-2FEXRNLcup=
+kZXPkzEJd8Jo2g7qZZjZxyVY-3D"><img alt=3D"" style=3D"border: 0px; display: b=
+lock; max-width: 287px; width: 200px; height: 200px;" height=3D"200" width=
+=3D"200" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5=
+vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSM-FFmKn9TsFzcI8W=
+Q7ILNaTAB-ag7aL-BhZb52KSZ8Y2BcSs6AfjN54TRiT9dizbHGeCGaBRquoSD_N4GJtTD_9lKrK=
+Tq4KtxOzMFwbMeEF16LULZZZsWR" /></a></div></td></tr></tbody></table><div sty=
+le=3D"text-align: center;"><p style=3D"margin-top: 0px; color: rgb(78, 85, =
+97); font-size: 14px; font-family: Georgia,serif; font-weight: 400; line-he=
+ight: 22px; margin-bottom: 10px;"><a href=3D"http://mx.technolutions.net/wf=
+/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx2d4S5GDirlCwWSjAqR22mlV6SrsYm50G06EUBGx=
+EuWgyHalOqeCR51qBcXL8R8sSKCkZQe-2Fdk3mvah7GhirVe8-3D_fl-2FMBkJMX7HXblz8UUSY=
+qUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJ=
+KrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6g=
+BQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixb=
+knXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxUXWQ2zaS=
+ApZyxtTL-2BEKNRIwRUOyNvYtaltxEQENLt2ckftCAIopy3WUasi9b0wkCvIw-2BsffA1dZx2zP=
+knprrLTr7SOoHIpUAIcsuYawIa6STBYEkNjMHRuzeKNDcvavzjaVIdmph1TvW0iHNwFW1obsysf=
+sERAaqCkMqkdxax21GVCUQ4lSFQQ9m0NWogW-2FAU-3D">Trinity Admissions &gt;&gt;</=
+a><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc-2BysgWeHSCchEwaHRKQNAQsd-2FCCzN2Zc8QgeE=
+OExoS4LA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2=
+zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUw=
+xfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q=
+5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYP=
+SisPJHyH7KlhI7cvQHtLl9OoTqRSxXqihTA-2FKY0T5-2Foi1dgUwVUvmkSTuIgVBa-2FnFj609=
+E7g1xGtuu7IdUl3J8KIJAK4jRBeUL9LsvMd-2FdUF8q-2FREKVVn-2BWQ2-2F833jfiGhzfhG22=
+JfUPNWbc-2FBSOq0xC0hcTn-2Fq1Fo-2BC3MkAtdgTmzjCmKb-2F02aQ4bP6E3ChaTWf0XOROCH=
+h50BmcqbZOwsb8hbmgE-3D">Application Requirements &gt;&gt;</a></p></div></td=
+><td class=3D"column second" style=3D"padding: 0;vertical-align: top;text-a=
+lign: left;width: 300px"><div><div class=3D"column-top" style=3D"font-size:=
+ 10px;line-height: 10px">&nbsp;</div></div><table class=3D"contents" style=
+=3D"border-collapse: collapse;border-spacing: 0;width: 100%"></table><table=
+ class=3D"contents" style=3D"border-collapse: collapse;border-spacing: 0;wi=
+dth: 100%"><tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-ali=
+gn: top;padding-left: 25px;padding-right: 25px"><p style=3D"margin-top: 0px=
+; color: rgb(78, 85, 97); font-size: 14px; font-family: Georgia,serif; font=
+-weight: 400; line-height: 22px; margin-bottom: 22px;"><em>Location:</em> H=
+artford, Connecticut<br /><em>Undergraduate Students:</em> 2,300<br /><em>T=
+ype of School:</em> Liberal Arts College<br /><br />
+Trinity's quality education is due to the strength of faculty-student inter=
+action. It is among a few small colleges to offer an accredited engineering=
+ program.&nbsp;<br /><br /><em><a href=3D"http://mx.technolutions.net/wf/cl=
+ick?upn=3DFgQ-2Fn6YekwlwAzpDulOpx2d4S5GDirlCwWSjAqR22mnJbHqX5q50ZEpSt5OSy2d=
+VABCe67dWxLp2RNrcRE4lV2nfrGKlMEsEgIXwEwdbpSJGUAtiq8BI4xLbzQfV7Fro_fl-2FMBkJ=
+MX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-=
+2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbcz=
+AXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp4=
+1dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9Oo=
+TqRSxXRbCWdS-2FwH6pVG1JWvGGr4jYYOvvYrCMFRy6bT-2FikRi0q46uSlUG5R-2BuiydzYw1q=
+sbc9qBS9OEeAr42-2FIYnlPg0UQ6fiOSfSzkG63fgepdY0GT9OG8wHK5Spq-2FVGR1QyQW1N2aH=
+qFy26h7Oo9VgL2ylZyANMAH6stq1Qf3AD32wjj-2FLvQiK1eLJQJQHzK3QY4-3D">Human Righ=
+ts Program</a>:</em> The first of its kind, this program fosters critical d=
+ebate about human rights problems and bridges the divide between local and =
+global human rights concerns. &nbsp;</p></td></tr></tbody></table></td></tr=
+></tbody></table><!--end picture and article template--><!--line break--><t=
+able class=3D"one-col centered" style=3D"border-collapse: collapse;border-s=
+pacing: 0;Margin-left: auto;Margin-right: auto;width: 600px; background-col=
+or: #ffffff"><tbody><tr><td class=3D"column" style=3D"padding: 0;vertical-a=
+lign: top;text-align: left"><hr /><div align=3D"center" class=3D"image" sty=
+le=3D"font-size: 0;Margin-bottom: 0px">&nbsp;</div></td></tr></tbody></tabl=
+e></td></tr></tbody></table><!--start picture and article template "two-col=
+-bg"--><table class=3D"two-col-bg" style=3D"border-collapse: collapse;borde=
+r-spacing: 0;width: 100%;background-color: #e1e2cf"><tbody><tr><td align=3D=
+"center" style=3D"padding: 0;vertical-align: top"><table class=3D"two-col c=
+entered" style=3D"border-collapse: collapse;border-spacing: 0;Margin-left: =
+auto;Margin-right: auto;width: 600px; background-color:#ffffff"><tbody><tr>=
+<td class=3D"column first" style=3D"padding: 0;vertical-align: top;text-ali=
+gn: left;width: 300px"><div><div class=3D"column-top" style=3D"font-size: 1=
+0px;line-height: 10px">&nbsp;</div></div><table class=3D"contents" style=3D=
+"border-collapse: collapse;border-spacing: 0;width: 100%"><tbody><tr><td cl=
+ass=3D"padded" style=3D"padding: 0;vertical-align: top;padding-left:35px;pa=
+dding-right: 35px"><h1 style=3D"margin-top: 0px; color: rgb(85, 83, 70); fo=
+nt-size: 20px; margin-bottom: 20px; font-family: Georgia, serif; line-heigh=
+t: 20px; text-align: center;">University of Southern California</h1></td></=
+tr></tbody></table><table class=3D"contents" style=3D"border-collapse: coll=
+apse;border-spacing: 0;width: 100%"><tbody><tr><td class=3D"padded" style=
+=3D"padding: 0;vertical-align: top;padding-left: 40px;padding-right: 25px">=
+<div align=3D"center" class=3D"image" style=3D"font-size: 0;Margin-bottom: =
+22px"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwA=
+zpDulOpx8isz2j0c95IQray71YXnbGezZ-2Bm6OFNAae3834UwrW3nhMwNF9kGd2CWUPAvIQqrw=
+-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2F=
+r6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNO=
+YCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3k=
+XLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH=
+7KlhI7cvQHtLl9OoTqRSxU1NhU-2FZCPgCgmPe-2Brn-2BVn4bDiJEN3DPHCD2AgI8RF2nmtDrW=
+xs-2B0-2BS94nQ0tXhVYJV1RJsf3HpU9wr2jaLtB-2BNK2nRcTH6rFpCx2hRhi36H6A-2FHTQxz=
+PQ9jmPIjn1n8lDpV9p9-2FlT7j7Phjk2w37Kwkag14Gfo-2FKbuk7qzdXkNzYlYEYewKRw9I60P=
+FH7TT8Y-3D"><img alt=3D"" style=3D"border: 0px; display: block; max-width: =
+287px; width: 200px; height: 200px;" height=3D"200" width=3D"200" src=3D"ht=
+tps://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H=
+8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSM-FFmKn9TsFzcI8WQ7ILNaTAB-ag7aL-Bh=
+Zb52KSZ8Y2BcSs6AfjN5Fomx-0bxBl75AfjkmLq9VS0BwyyBEwk-" /></a></div></td></tr=
+></tbody></table><div style=3D"text-align: center;"><p style=3D"margin-top:=
+ 0px; color: rgb(78, 85, 97); font-size: 14px; font-family: Georgia,serif; =
+font-weight: 400; line-height: 22px; margin-bottom: 10px;"><a href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8isz2j0c95IQra=
+y71YXnbGezZ-2Bm6OFNAae3834UwrW3nhMwNF9kGd2CWUPAvIQqrw-3D-3D_fl-2FMBkJMX7HXb=
+lz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4=
+PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7q=
+FVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2U=
+Iz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxU=
+l363-2BjdYXyKV0Qpm2uqJnD883K-2FGGZ4jVt9Y7ZxuWDq03-2BB6oTtb1Ko2fV7A03PdtI5js=
+zlOaECrgpD0nL686wHayfeO1A9-2Flji0iYVk5UQD9ouFGniNX5mVehiZ4CfyiHmXAHDZH0bzBj=
+AgWFgYWnLjpXnGStAjnLOk0LTt-2BPgbvL3zuRxuDGNq0uu2AeFI-3D">USC Admissions &gt=
+;&gt;</a><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2F=
+n6YekwlwAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc8ITnY3Xg5PhTCyV1JrNxHzi1e7J9bDch9=
+sPRlB2qquYMuPA6emAhwyrMEVHa1ga94-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4s=
+iHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7m=
+mMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI6=
+1Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6=
+iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxVmn7NGVvi-2BXF24Hj7MLO7hB=
+UYgaSfX3yMzwFN6o0DWpCVTRRoGbSyqwobUsMTWN4zqbWyfGfrgxrqnrSZhGO8Yt6BBhCPVX3-2=
+F-2FU0Cy1trkKp-2F1N6i6DRz64eMzXSnc1uVMONH-2F-2BUeUWee9GbGDSHQJHhK28Bf1r9TeS=
+vC7aVqVM6gr-2BBwGgpW1E79wr-2BSZIf4-3D">Application Requirements &gt;&gt;</a=
+></p></div></td><td class=3D"column second" style=3D"padding: 0;vertical-al=
+ign: top;text-align: left;width: 300px"><div><div class=3D"column-top" styl=
+e=3D"font-size: 10px;line-height: 10px">&nbsp;</div></div><table class=3D"c=
+ontents" style=3D"border-collapse: collapse;border-spacing: 0;width: 100%">=
+<tbody><tr><td class=3D"padded" style=3D"padding: 0;vertical-align: top;pad=
+ding-left: 25px;padding-right: 25px"><p style=3D"margin-top: 0px; color: rg=
+b(78, 85, 97); font-size: 14px; font-family: Georgia,serif; font-weight: 40=
+0; line-height: 22px; margin-bottom: 22px;"><em>Location:</em> Los Angeles,=
+ California<br /><em>Undergraduate Students:</em> 18,000<br /><em>Type of S=
+chool:</em> Research University<br /><br />
+USC is located just two miles from downtown Los Angeles and offers more tha=
+n 150 majors as well as 17 professional schools within the university.<br /=
+><br /><em><a href=3D"http://mx.technolutions.net/wf/click?upn=3DD5l2sFo8-2=
+FQmcl81mGy-2FF56R-2B-2B3-2Bo2zSP30UulnJr9qs-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv=
+1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcne=
+FWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxVFuzCz32sms2L2=
+tC1w379sBspNp68UJLLjXAkx-2FOmIqEeqo5aEW69XDvVALJ8yzeF7nnmdK8bO-2FXy0l22cVmr=
+fZN59KKMNHrbWbwtSnQOLjB3DNrehW3a-2FsI4Gt1MdF-2BX-2FpSgjziGmGfjzf30qLfIlNwzi=
+YkEE8hvIOymEdepnuMge9Mp4W-2BqwBJT4FUyMeks-3D">World Bachelor in Business</a=
+>&#8203;:</em> This program involves a year each at: the USC Marshall Schoo=
+l of Business, the Hong Kong University of Science and Technology, and Univ=
+ersit&#224; Bocconi in Milan, Italy.</p></td></tr></tbody></table></td></tr=
+></tbody></table><!--end picture and article template--><!--line break--><t=
+able class=3D"footer" style=3D"border-collapse: collapse;border-spacing: 0;=
+width: 100%;background-color: #e1e2cf"><tbody><tr><td align=3D"center" clas=
+s=3D"inner" style=3D"padding: 0;vertical-align: top;padding-top: 30px;paddi=
+ng-bottom: 30px"><table class=3D"cols" style=3D"border-collapse: collapse;b=
+order-spacing: 0;width: 600px"><tbody><tr><td class=3D"left" style=3D"paddi=
+ng: 0px 5px 22px 0px; vertical-align: top; font-size: 11px; font-weight: 40=
+0; letter-spacing: 0.01em; line-height: 17px; width: 55%; color: rgb(179, 1=
+79, 179); font-family: Georgia, serif; text-align: center;"><a href=3D"http=
+://mx.technolutions.net/wf/click?upn=3DWDVE8q8lo2-2FHF48nIMlb6ogvAx0vCz3nz6=
+LX7tNptd6QHVqgFFoYkg0EVFxOz3qd_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluM=
+TS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-=
+2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5=
+nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnyc=
+upKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxU48CNnhBgabmbE2jOwCEGDnFnuWx9K=
+UPa7Us5jszsOSoPBFKw8lizJKARYhz6Y2dFoFdnKPcV-2FoJkNk6LDLs3jRgjl5zpLn49GFvHQW=
+v93jpEFlvmstl-2FnCvXzQ87hmHlwcO0jChveI58aNgRNggXm3h5At-2FcRcAEEQ1aicUbIiZZP=
+qsy-2BdDlBfEHLQNivSXQ-3D" target=3D"_blank"><img alt=3D"AskQB" style=3D"wid=
+th: 30px; height: 30px;" height=3D"30" width=3D"30" src=3D"https://d2y48w7m=
+6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS=
+3bBdRNQfrVbSFtybGv4iw_TdjQSORpcgt-2RFdBSY1pKgQdGSeGv-WYlmgLo1FQuNQ4LPvTTi8B=
+UP3t4D" /></a>&nbsp; &nbsp;&nbsp;<a href=3D"http://mx.technolutions.net/wf/=
+click?upn=3D-2B5DWCsFax5Df8U8NxLEwpdRYN3xzBgkAOmy8n0YHNOotxJZy-2Bg3D3Fm2FIC=
+cCf7a_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr=
+6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOY=
+CkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kX=
+LYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7=
+KlhI7cvQHtLl9OoTqRSxU2USSTNOhPCv0kJORU8GgtrwzQBsSlYpF0Lo6QN84cEK4ZYYe2mmMCS=
+-2BTHnYIasUS0vzkztJWQlStZhcUHwyrPkmUbx6xY-2FOE180CDYz1toGn08AI6F7-2FGeJykuz=
+JDb4mIdZn4i4l6-2F5yFoFxwBuGMCvHUeqxGL870G5X-2BcEpe90wDDWyEmVq-2BgG9upNAKEa0=
+-3D" target=3D"_blank"><img alt=3D"Facebook" style=3D"width: 30px; height: =
+30px;" height=3D"30" width=3D"30" src=3D"https://d2y48w7m6jzhpb.cloudfront.=
+net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv=
+4iw_TdjQSO1P-waaj3Bl8RDj0WLrB2_1fZoOBW0h3lRFev1icDAieuGKcUI8hSn" /></a>&nbs=
+p;&nbsp; &nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Df5b-2B=
+VyBP11dM6hwwjDU-2Fs75S2oPhMULpp8HITUSW06wHvKHXPIhvNw0CRSNjVwa9_fl-2FMBkJMX7=
+HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0=
+Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXf=
+w7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41db=
+q2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqR=
+SxWhQlEIVU5ERyu-2FZpr6h10-2BwpiekzCTaJW1PDgFvJHbxyNG3IoSVOf-2BRXq-2FXL8BYoA=
+dvRemMk8Uvh4Qg3jni5SgPhEjSLxx4LLZUcIu3bJRFalRdafup9pMr07GPwh1Dk9SSFaufAN1Nz=
+PSDFV6ZQYTkRNCCicizzTCWOCDu2I0ubNb2PnQhB6peCYmNn8obgY-3D" target=3D"_blank"=
+><img alt=3D"Twitter" style=3D"width: 30px; height: 30px;" height=3D"30" wi=
+dth=3D"30" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-=
+i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSNCT-xevPhZOS-x=
+_2H0IF_3jvUSHkNkr6O7D7iLUc4ywRt3muiaZK0JB4ZS2MOHYXU" /></a>&nbsp; &nbsp;&nb=
+sp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8N=
+xLEwpZyopwdBY7utGjwCvjIriNh2QWpEoARKdv2S08feTqo2_fl-2FMBkJMX7HXblz8UUSYqUr8=
+-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLF=
+pICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWW=
+sv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXc=
+neFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxVN3JMV6Wsmj0=
+YnwPFAlZsJX1OQLVs0sF5kG6GLayUCBtJkGJBxJOSCYloxcV6-2F5qsT-2FwwEajI7UAsTQSoRH=
+h2jd-2BKIQEcyder-2B0qBzs5AnLUy4j0b7sIwjst8opc6ORM4SHbi25SiVBWA-2BOtoMf6CKW4=
+jtM0PeXMDQWbEGZvRqCP0g0HfaEd9fDlSKY0A8B-2Bc-3D" target=3D"_blank"><img alt=
+=3D"youtube" style=3D"width: 30px; height: 30px;" height=3D"30" width=3D"30=
+" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNw=
+wKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSP0n8mqJBRLRF_Z2EwdqoVW8=
+xMzdwBEZJnP07RtlnpvgtJgIlxHLMEq0h09Wr8zgOc" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<=
+a href=3D"http://mx.technolutions.net/wf/click?upn=3DtQ550YTtXV6QVHBVm0ByBa=
+H3SFaKKmHoFwakYGRXsiGtV5ijpTHsvftPXXk-2FB4CV_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M=
+7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFW=
+edv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxVA7oC3py1BlVBStM=
+KMbYc6wN9YenhD1AZFiagG-2BywKTHCl8gwVm3zYkUBfXgAGSuvwoJRJuRa8PmTcbqT7CVWq0-2=
+FifIexTF-2B8pqh0RJbbBQ8ucoKZWtPPH3-2FGGvTb2sW8OFulhbZn6B73473-2ByK53yuSBBZj=
+1pmS2N23JXStHxd95IyWdKRue0Q2FJFyHDezY-3D" target=3D"_blank"><img alt=3D"Ins=
+tagram" style=3D"width: 30px; height: 30px;" height=3D"30" width=3D"30" src=
+=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz=
+_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSPSvyRRbNC4PSbH98i-0tcI9-2Nrb=
+HLIatwwQQ7lCT-T9iFCTNyCMnEMxWd9xXbWBI" /></a>&nbsp;&nbsp;&nbsp;<a href=3D"h=
+ttp://mx.technolutions.net/wf/click?upn=3DxX4Wnmgzv-2FXjI3Rpn3GYP9s9LGMf-2B=
+Hv1S3uBiKiQdqE-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImf=
+m6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGs=
+jYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxXYXYKFyCWE-2F6iZMjsKy1TZbLLmvbTBISy7ieDEs-2=
+Bte0bbMvmK2S8Jup9YHY8KjHUujKZSeiQvhjlcBqEYe2ZuelURRSBq-2Bq6ji8oNzl55Fn-2Fui=
+HpBD3g-2BSn1qYo-2FNOUgMeI89PegAMqXk6MCZcg1zt1VTLbKCXThO8AkqXYJS9VCJA9uu0XIJ=
+yliWRiFg5c5s-3D" target=3D"_blank"><img alt=3D"BridgeBlog" style=3D"color: =
+rgb(179, 179, 179); font-family: Georgia, serif; font-size: 11px; letter-sp=
+acing: 0.109999999403954px; line-height: 17px; width: 36px; height: 30px;" =
+height=3D"30" width=3D"36" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/=
+eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_Tdj=
+QSN6HDCxZ-qBV7OhxWQ3Bit1W9OkZdF_menE24z1A4tMf0_C5g23WSHi" /></a><p><em>115 =
+Everett Avenue, Palo Alto, California, 94301<br />
+QuestBridge is a registered 501(c)(3) non-profit organization.</em></p></td=
+></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><=
+/center></div></font><br /><table align=3D"center" bgcolor=3D"#fafafa" clas=
+s=3D"deliver_unsubscribe" style=3D"opacity: 0.75; clear: both; margin: 25px=
+ auto;" cellpadding=3D"5" cellspacing=3D"0" width=3D"650"><tr><td align=3D"=
+center"><font color=3D"#333333" face=3D"Arial, Helvetica, sans-serif" size=
+=3D"1"><span style=3D"font-size: 11px;">This email was sent to markiewicz.j=
+ohn@gmail.com by QuestBridge.<br /><a href=3D"http://mx.technolutions.net/w=
+f/click?upn=3D7aqtGo87cYwSxRwFLjEf1vuXXZQ08Mz9flj2jJ5MOIvEc1YgPyHzzxdPhYcSD=
+lSA54BjBfX7zii6SbbFYjL19BjpZ8XIwl9sHFLCKrwnCMcrqJdLx3WrDvbJJVQpv0g3_fl-2FMB=
+kJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2Bv=
+Z-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHb=
+czAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlyS=
+p41dbq2UIz4cixbknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9=
+OoTqRSxWF5rucXh4ubUolSeGkWJ1MPH5CWZj0u1FALkwF1K30uIRTULB0OV9fjH1rciIwzZqyaX=
+fSMNJOltIJLDiZSleUirHVJfswj-2FAVqKnwNUBfzUaZAVhl9T0C0avQ1tYaa9vV2njDohHe2X2=
+Mkc2sxA7u-2FBrMJo55BgHlXOsf0y8ysNFROdZ8qc1JfoNVklRbtA0-3D">Unsubscribe</a> =
+from College Bulletin.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6=
+gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdImfm6Q5wZ08D3kXLYhE1lJgSjlySp41dbq2UIz4cix=
+bknXcneFWedv-2F2l6iAnycupKh8-2FGVLGsjYPSisPJHyH7KlhI7cvQHtLl9OoTqRSxUvTjLa1=
+jbjf457JzKASlgTQva83ECme4pelLnLYqBotxZpeRYfzU-2FcwLluPHnEJrmhlvRV8ESE2Q2jyh=
+dYOe00fpg6oFdVj97zBl0ILAtJdT7jPUxFSvanI0-2FKLEbpv-2FqBQ3o6pq3xoNbhuEHxMrJcH=
+Baa9-2FZIpQQ8-2FHbtUsXowkXSZ3DzgdIDPzgQLuyf-2BJs-3D" alt=3D"" width=3D"1" h=
+eight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !importan=
+t;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !import=
+ant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impor=
+tant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 =
+!important;"/>
+</body>
+
+</html>
+
+
+------=_0_88c31e52-102e-4449-955d-a6518f24b7f8--

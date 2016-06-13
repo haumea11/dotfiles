@@ -1,0 +1,138 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp654651oid;
+        Sat, 4 Jul 2015 12:34:15 -0700 (PDT)
+X-Received: by 10.107.161.6 with SMTP id k6mr66384281ioe.41.1436038455523;
+        Sat, 04 Jul 2015 12:34:15 -0700 (PDT)
+Return-Path: <2rtmar.ac@gmail.com>
+Received: from mail-ig0-x22a.google.com (mail-ig0-x22a.google.com. [2607:f8b0:4001:c05::22a])
+        by mx.google.com with ESMTPS id 29si12191564iok.94.2015.07.04.12.34.15
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 04 Jul 2015 12:34:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22a as permitted sender) client-ip=2607:f8b0:4001:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22a as permitted sender) smtp.mail=2rtmar.ac@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ig0-x22a.google.com with SMTP id lr2so156564084igb.0
+        for <kuiperhaumea@gmail.com>; Sat, 04 Jul 2015 12:34:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=0Gdj/NpMfLrbZQRfN40k1fxkXWk1+GWVQENxEwh8zAk=;
+        b=cajzafPr61BLKghu/42rNApHkYk3fLtoWlhHtc/Ql7QfvgGtTndrdGLBVGGz7nYqo4
+         v3xTq8vThmECH/O5pQHbpiBNVD8b1JC5rG81leUBfXZUPj9kqzvZGHxh5jOEs3Xg62xI
+         B+dYMwgKelko3nBp+F3prjMRfJOq55z0RvNCUvUeVwIkckSvr7FSZ1VOHtr4pSPZ+Yip
+         qvQVZyA/mbG7dPEO+s3juVa1c6K/qCt8Ja1EL/CdoLyhDlA54CD0TZTSd+hOoKSyxAWX
+         j80e8mO8q9flDrbzbcFkXCaxcMij026wCc65cbpZQLZXy+FYFi0xql0X67s3iuJBkt/l
+         X30Q==
+MIME-Version: 1.0
+X-Received: by 10.107.46.135 with SMTP id u7mr65251170iou.69.1436038455334;
+ Sat, 04 Jul 2015 12:34:15 -0700 (PDT)
+Received: by 10.36.156.195 with HTTP; Sat, 4 Jul 2015 12:34:15 -0700 (PDT)
+In-Reply-To: <55983054.3040406@gmail.com>
+References: <CAJsGx3KHJxn+9DAHcCRNpX9_5AEVqtJV=nPKavTw9-SyLYb8Cw@mail.gmail.com>
+	<CAGBwmT10SB_Lc=Nq=EiHRcXurew4HPX5ASEaP+o8R14Q7U72+Q@mail.gmail.com>
+	<55983054.3040406@gmail.com>
+Date: Sat, 4 Jul 2015 15:34:15 -0400
+Message-ID: <CAGBwmT2QM4P1H1xVSb2=iRS8O9z79SYb03D1MbSrSTHK1iNT0Q@mail.gmail.com>
+Subject: Re: Soon-to-be ftp server
+From: Ryan Mar <2rtmar.ac@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113ac362039c96051a11c234
+
+--001a113ac362039c96051a11c234
+Content-Type: text/plain; charset=UTF-8
+
+Sounds good thanks! I've read about pgp before, I'm actually messing around
+with low-level encryption algorithms and stuff for fun .
+
+I also haven't figured out exactly how to transfer my system to a new hard
+drive yet, might just end up asking somebody at microcenter.
+
+Also, I assume you're running arch on the Pi? And did you manage to find a
+terabyte sd card for it yet?
+
+
+
+On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com> wrote:
+
+> My plan is to just hook it up to my dock for drives (has a 3tb WD green
+> for lots of low-reliability storage) and then just try and get it
+> accessible via ssh from outside my router.  If I can figure out that
+> part (which is the hardest part) then I should be good and I'll make
+> sure to tell you how I did it.
+>
+> As an aside, pgp is pretty cool.  Check it out if you ever have free
+> time.  Makes it possible to send somethign over e-mail and have it be
+> secure.
+>
+> On 07/04/2015 12:59 PM, Ryan Mar wrote:
+> > Hey this is awesome. Let me know how you go about making it a file
+> > server--I wanted to do this earlier this year but I had trouble finding
+> > a reasonable way of doing it.
+> >
+> > On Friday, July 3, 2015, John Markiewicz <markiewicz.john@gmail.com
+> <javascript:;>
+> > <mailto:markiewicz.john@gmail.com <javascript:;>>> wrote:
+> >
+> > Thought I'd show it off
+> >
+> >
+> > Sorry for the mess in the background, just got back from a trip and
+> > my desk is unclean.
+> >
+>
+
+--001a113ac362039c96051a11c234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sounds good thanks! I&#39;ve read about pgp before, I&#39;m actually messin=
+g around with low-level encryption algorithms and=C2=A0stuff for fun .=C2=
+=A0<div><br></div><div>I also haven&#39;t figured out exactly how to transf=
+er my system to a new hard drive yet, might just end up asking somebody at =
+microcenter.=C2=A0</div><div><br></div><div>Also, I assume you&#39;re runni=
+ng arch on the Pi? And did you manage to find a terabyte sd card for it yet=
+?</div><div><br></div><div><span></span><br><div><br>On Saturday, July 4, 2=
+015, John Markiewicz &lt;<a href=3D"mailto:kuiperhaumea@gmail.com">kuiperha=
+umea@gmail.com</a>&gt; wrote:<br><blockquote class=3D"gmail_quote" style=3D=
+"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">My plan is =
+to just hook it up to my dock for drives (has a 3tb WD green<br>
+for lots of low-reliability storage) and then just try and get it<br>
+accessible via ssh from outside my router.=C2=A0 If I can figure out that<b=
+r>
+part (which is the hardest part) then I should be good and I&#39;ll make<br=
+>
+sure to tell you how I did it.<br>
+<br>
+As an aside, pgp is pretty cool.=C2=A0 Check it out if you ever have free<b=
+r>
+time.=C2=A0 Makes it possible to send somethign over e-mail and have it be<=
+br>
+secure.<br>
+<br>
+On 07/04/2015 12:59 PM, Ryan Mar wrote:<br>
+&gt; Hey this is awesome. Let me know how you go about making it a file<br>
+&gt; server--I wanted to do this earlier this year but I had trouble findin=
+g<br>
+&gt; a reasonable way of doing it.<br>
+&gt;<br>
+&gt; On Friday, July 3, 2015, John Markiewicz &lt;<a href=3D"javascript:;" =
+onclick=3D"_e(event, &#39;cvml&#39;, &#39;markiewicz.john@gmail.com&#39;)">=
+markiewicz.john@gmail.com</a><br>
+&gt; &lt;mailto:<a href=3D"javascript:;" onclick=3D"_e(event, &#39;cvml&#39=
+;, &#39;markiewicz.john@gmail.com&#39;)">markiewicz.john@gmail.com</a>&gt;&=
+gt; wrote:<br>
+&gt;<br>
+&gt; Thought I&#39;d show it off<br>
+&gt;<br>
+&gt;<br>
+&gt; Sorry for the mess in the background, just got back from a trip and<br=
+>
+&gt; my desk is unclean.<br>
+&gt;<br>
+</blockquote></div></div>
+
+--001a113ac362039c96051a11c234--

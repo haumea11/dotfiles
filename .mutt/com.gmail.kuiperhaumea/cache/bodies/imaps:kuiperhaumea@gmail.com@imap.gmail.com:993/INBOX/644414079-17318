@@ -1,0 +1,189 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp18627oia;
+        Mon, 14 Mar 2016 07:09:43 -0700 (PDT)
+X-Received: by 10.28.223.70 with SMTP id w67mr17167168wmg.92.1457964583659;
+        Mon, 14 Mar 2016 07:09:43 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22e.google.com (mail-wm0-x22e.google.com. [2a00:1450:400c:c09::22e])
+        by mx.google.com with ESMTPS id o8si26261126wjo.165.2016.03.14.07.09.43
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Mar 2016 07:09:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) client-ip=2a00:1450:400c:c09::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x22e.google.com with SMTP id p65so98444659wmp.0
+        for <kuiperhaumea@gmail.com>; Mon, 14 Mar 2016 07:09:43 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:mime-version
+         :in-reply-to:references:date:message-id:subject:from:to:cc;
+        bh=ksHK6jZF28TSkmJHOz60A0bR05nW73vMjErWhdJ1KFE=;
+        b=YuHG7CiwxyFs4bcDGfGTTyJDTRH74lJhWgGxOV1MUYcvqUr9otEjSegGgRbLP0teO7
+         +rwzu0IuO1tzpnOiPEeJOMj+XKK9OLqRxgqgMgSC8WK7KknJCgp4balfV4iqtwQ/4My7
+         eUvhBBAW8qlUfDPiF1yoTt5MlxR76QmIyONlVtzgr4eJ24TiVwXIgAU4dzve+8TtqcqC
+         goHegQEsdc1zvzulZ1+2uQ6GIaT/sF8Y19VdWJ/L9evoULQN7RK+TcM9DU/asVS9BFIU
+         N0QV2b2SpnBnBFutPIcu2G/iV1zObjFZ59GPNcuM5HoNHVojkmjGPKCyj/tcySROqWPN
+         zyqw==
+X-Gm-Message-State: AD7BkJJajA3PiGNUkRQN1dD9lVXFG0Zse1iasly7qcGyWr8TbyUiBxbLu2TRYhrzdS5GCVRx48F9pj9s+ZsnHRF7Kxm3kRs=
+X-Received: by 10.194.84.171 with SMTP id a11mr23908391wjz.91.1457964583360;
+        Mon, 14 Mar 2016 07:09:43 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp33657wmb;
+        Mon, 14 Mar 2016 07:09:42 -0700 (PDT)
+X-Received: by 10.107.38.78 with SMTP id m75mr24265808iom.15.1457964582144;
+        Mon, 14 Mar 2016 07:09:42 -0700 (PDT)
+Return-Path: <lizodorisio@gmail.com>
+Received: from mail-io0-x232.google.com (mail-io0-x232.google.com. [2607:f8b0:4001:c06::232])
+        by mx.google.com with ESMTPS id v87si8489880iov.41.2016.03.14.07.09.41
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Mar 2016 07:09:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of lizodorisio@gmail.com designates 2607:f8b0:4001:c06::232 as permitted sender) client-ip=2607:f8b0:4001:c06::232;
+Received: by mail-io0-x232.google.com with SMTP id g203so222961317iof.2;
+        Mon, 14 Mar 2016 07:09:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc;
+        bh=ksHK6jZF28TSkmJHOz60A0bR05nW73vMjErWhdJ1KFE=;
+        b=Z91Nu2XLop8asiGef6RpwAwH18vj3gKGaZy8oBNbqAcyLEVP8B9mLT+9pQC8t8tg+E
+         yH0Y9izXVG5jElkbnJx+yPkgJMnEOV9BKpApU/Z/2g89lrm/SPMAyJt+9GtFUsOBJhJg
+         ONXpfIK6imRrwtMzMhemc9LXg9wbRmOoBpBuYw3CEKiFCCFboq3SDFeQB6Okej6fFmei
+         GdrBvgcMZuoL53SIdVFYDfgCJk6eWCYExTthWmACMHNqvlppe34IuMuy1G6NtGg/yYVG
+         guTYhFLDGwNtk1ZUtU8Z57DRbOM6Z6SDaMKnL9nLEcOEIuNDBDy2UYCYYK+w5qJ1cWkF
+         by1Q==
+MIME-Version: 1.0
+X-Received: by 10.107.15.153 with SMTP id 25mr23497416iop.3.1457964581323;
+ Mon, 14 Mar 2016 07:09:41 -0700 (PDT)
+Received: by 10.107.28.85 with HTTP; Mon, 14 Mar 2016 07:09:41 -0700 (PDT)
+In-Reply-To: <CA+Co4VcgGYKkBhyh=BzbJx0-ST-Y_s6U=Qqpiv6mNHV0EGaEFA@mail.gmail.com>
+References: <CA+Co4VcgGYKkBhyh=BzbJx0-ST-Y_s6U=Qqpiv6mNHV0EGaEFA@mail.gmail.com>
+Date: Mon, 14 Mar 2016 10:09:41 -0400
+Message-ID: <CA+Co4Ve_riVNVuUifR2+Y-FsdnkmjBaqKaCZQuApHwCDZLKe8w@mail.gmail.com>
+Subject: Re: Lean On Me Project
+From: "Liz O'Dorisio" <lizodorisio@gmail.com>
+To: Anna Ehret <aehret2016@gmail.com>, Harry Cencer <hcencer@gmail.com>, 
+	Mara Ohlin <mara.ohlin@gmail.com>, "Emma K." <e.koehler00@gmail.com>, 
+	Nolan Kelly <nolankelly444@gmail.com>, John Markiewicz <markiewicz.john@gmail.com>, 
+	Jillian Fountain <fountainjillian@gmail.com>, Rachel Smith <rachelnsmith3@gmail.com>, 
+	Annie Maglicic <akm3612@gmail.com>, dskullich@columbus.rr.com, Marie D <reesea09@gmail.com>, 
+	Margaret OBrien <mobrien74@gmail.com>, Fozzy McKew <redtwo742@gmail.com>, 
+	mckenzie gelo <mckenziegelo@hotmail.com>, Alex Bryant <alex.bryant999@gmail.com>, 
+	Elizabeth Rieser <emrieser218@yahoo.com>, "Kathryn O'Sullivan" <kathryno.dances@gmail.com>, 
+	Sarah Bender Choir 2016 <bendertm@yahoo.com>, Lizz Turnbull <icechickandsonggal@gmail.com>, 
+	Sam Palazzo <sampalazzo519@gmail.com>, nicoleorsini0@gmail.com, 
+	Joe Heutel <joeheutel123@gmail.com>, Shannon Becker <sbecker1221@gmail.com>, 
+	Jessica A Freeman <jessafree49@gmail.com>, Bridget Noonan <bridgetnoonan25@gmail.com>, 
+	Zach Uhazy <uhazy@sbcglobal.net>, michael carmody <mcarmody4298@gmail.com>
+Cc: "cjoyce@cdeducation.org" <cjoyce@cdeducation.org>
+Content-Type: multipart/alternative; boundary=001a113ee4fcf72289052e02d431
+
+--001a113ee4fcf72289052e02d431
+Content-Type: text/plain; charset=UTF-8
+
+THIS WEDNESDAY!
+Be Ready to create:)
+Peace,
+Liz
+
+On Sat, Mar 5, 2016 at 10:56 PM, Liz O'Dorisio <lizodorisio@gmail.com>
+wrote:
+
+> Hi Folks,
+> I realize I don't have everyone on here, so if you could forward it on to
+> cast members you think would be interested in our Hope Hollow project, I
+> would appreciate it!
+>
+> Hope Hollow Project <http://bwmusical.weebly.com/home/hope-hollow-project>
+>
+> We have a unique opportunity to perform the song, "Lean on Me", for our
+> Hope Hollow beneficiaries. This song will be a gift from us given to them
+> during our April 24 reception at 12PM. All cast, crew and musicians are
+> invited to perform 'Lean On Me'. We are especially seeking musicians to
+> accompany us so that we have more than the karaoke track to compliment our
+> voices.
+>
+> In addition, anyone interested in teaching a dance piece is welcome. We
+> will plan on taking video of members working on 'Bye Bye Birdie' - this
+> will include working on the set, costumes, lights, sound, curtain, as well
+> as acting/dancing/singing on stage.
+>
+> Karaoke video: https://www.youtube.com/watch?v=juBHK0RRG2Y
+> Inspiration video: https://youtu.be/LiouJsnYytI
+>
+> Wish for you all to perform this as natual as possible and would like you
+> all to take the lead on how you want this to play out. I will be there for
+> guidance, but if you have ideas, please bring them to the table.
+>
+> Need to know who is committed, so please let me know what part you will be
+> playing in this video: musician, singer, dancer, etc.
+>
+> Thanks everyone, I think Mr. and Mrs. Clark will love anything you do in
+> effort to support Hope Hollow!
+>
+> Peace,
+> Liz
+>
+
+--001a113ee4fcf72289052e02d431
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div>THIS WEDNESDAY!<br></div>Be Ready to create=
+:)<br></div>Peace,<br></div>Liz<br></div><div class=3D"gmail_extra"><br><di=
+v class=3D"gmail_quote">On Sat, Mar 5, 2016 at 10:56 PM, Liz O&#39;Dorisio =
+<span dir=3D"ltr">&lt;<a href=3D"mailto:lizodorisio@gmail.com" target=3D"_b=
+lank">lizodorisio@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"g=
+mail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-l=
+eft:1ex"><div dir=3D"ltr"><div><div><div><div><div><div>Hi Folks,<br></div>=
+I realize I don&#39;t have everyone on here, so if you could forward it on =
+to cast members you think would be interested in our Hope Hollow project, I=
+ would appreciate it!<br><br>
+	        	=20
+		=09
+=09
+=09
+		<div>
+			<h2>
+					<a href=3D"http://bwmusical.weebly.com/home/hope-hollow-project" targe=
+t=3D"_blank">Hope Hollow Project</a>
+
+			</h2></div>
+=09
+		<div>=C2=A0</div>
+=09
+	=09
+				<div style=3D"text-align:left">We have a unique=20
+opportunity to perform the song, &quot;Lean on Me&quot;, for our Hope Hollo=
+w=20
+beneficiaries. This song will be a gift from us given to them during our
+ April 24 reception at 12PM. All cast, crew and musicians are invited to
+ perform &#39;Lean On Me&#39;. We are especially seeking musicians to accom=
+pany=20
+us so that we have more than the karaoke track to compliment our voices.<br=
+><br>In
+ addition, anyone interested in teaching a dance piece is welcome. We=20
+will plan on taking video of members working on &#39;Bye Bye Birdie&#39; - =
+this=20
+will include working on the set, costumes, lights, sound, curtain, as=20
+well as acting/dancing/singing on stage.<br><br>Karaoke video: <a href=3D"h=
+ttps://www.youtube.com/watch?v=3DjuBHK0RRG2Y" target=3D"_blank">https://www=
+.youtube.com/watch?v=3DjuBHK0RRG2Y</a><span style=3D"padding:0px;margin:0px=
+ 0px 0px 5px"></span><br>Inspiration video: <a href=3D"https://youtu.be/Lio=
+uJsnYytI" target=3D"_blank">https://youtu.be/LiouJsnYytI</a><span style=3D"=
+padding:0px;margin:0px 0px 0px 5px"></span><br></div><br></div></div></div>=
+</div>Wish for you all to perform this as natual as possible and would like=
+ you all to take the lead on how you want this to play out. I will be there=
+ for guidance, but if you have ideas, please bring them to the table.<br><b=
+r></div><div>Need to know who is committed, so please let me know what part=
+ you will be playing in this video: musician, singer, dancer, etc. <br><br>=
+</div><div>Thanks everyone, I think Mr. and Mrs. Clark will love anything y=
+ou do in effort to support Hope Hollow!<br><br></div><div>Peace,<br></div><=
+div>Liz<br></div></div>
+</blockquote></div><br></div>
+
+--001a113ee4fcf72289052e02d431--

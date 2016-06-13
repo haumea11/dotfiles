@@ -1,0 +1,169 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.182.136 with SMTP id g130csp203974vkf;
+        Tue, 8 Dec 2015 10:16:12 -0800 (PST)
+X-Received: by 10.194.145.97 with SMTP id st1mr1175163wjb.130.1449598572428;
+        Tue, 08 Dec 2015 10:16:12 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22b.google.com (mail-wm0-x22b.google.com. [2a00:1450:400c:c09::22b])
+        by mx.google.com with ESMTPS id cb2si3478865wjc.79.2015.12.08.10.16.12
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 08 Dec 2015 10:16:12 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) client-ip=2a00:1450:400c:c09::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@iad01.hobsonsmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=otterbein.edu
+Received: by mail-wm0-x22b.google.com with SMTP id u63so175348959wmu.0
+        for <kuiperhaumea@gmail.com>; Tue, 08 Dec 2015 10:16:12 -0800 (PST)
+X-Received: by 10.28.174.130 with SMTP id x124mr6432686wme.2.1449598572103;
+        Tue, 08 Dec 2015 10:16:12 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp156961wme;
+        Tue, 8 Dec 2015 10:16:11 -0800 (PST)
+X-Received: by 10.55.78.82 with SMTP id c79mr1394088qkb.44.1449598571173;
+        Tue, 08 Dec 2015 10:16:11 -0800 (PST)
+Return-Path: <16404361.otterbein@iad01.hobsonsmail.com>
+Received: from mailer05.iad01.hobsonsmail.com (mailer05.iad01.hobsonsmail.com. [165.193.85.40])
+        by mx.google.com with ESMTP id d204si4452175qkb.109.2015.12.08.10.16.10
+        for <markiewicz.john@gmail.com>;
+        Tue, 08 Dec 2015 10:16:11 -0800 (PST)
+Received-SPF: pass (google.com: domain of 16404361.otterbein@iad01.hobsonsmail.com designates 165.193.85.40 as permitted sender) client-ip=165.193.85.40;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key3; d=iad01.hobsonsmail.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:Message-ID;
+ bh=iedY8XaX3oUl9tcuWi0PjUlXgR0=;
+ b=vBYM+/U/q2A8t90wrQO/VGWeL2uRCQNvk6ojsVWtuX6it7+1kIOgUsCk4WZEFl+wfeMKlEAttSxa
+   Znhv6iWLW5Y+iE6mmLWBQRdmYZiMgfHq0+ZDfwqF918Jxx8L6ti7CJ8eoJ89RTLV+l7CFacHmFS/
+   Hsyk2G9joXEaHmU0aLM=
+Received: from IAD1PA013 (10.56.152.134) by mailer05.iad01.hobsonsmail.com id hcsf6m19gqcg for <markiewicz.john@gmail.com>; Tue, 8 Dec 2015 13:14:46 -0500 (envelope-from <16404361.otterbein@iad01.hobsonsmail.com>)
+From: "Office of Admission" <uotterb@otterbein.edu> 
+To: "John Markiewicz" <markiewicz.john@gmail.com>
+Reply-To: 16404361.otterbein@iad01.hobsonsmail.com
+Date: Tue, 08 Dec 2015 13:14:46 -0500
+Subject: Priority Deadline Reminder
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_bf221b61d0c8418dba11da83e4c80543"
+X-Mailer: aspNetEmail ver 3.5.2.0
+Message-ID: <IAD1PA013927c31cf6b9e4d3a893bf5936f58f7ba@IAD1PA013>
+
+This is a multi-part email in Mime format.
+
+--_=aspNetEmail=_bf221b61d0c8418dba11da83e4c80543
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Our system has detected that your e-mail reader does not support HTML and=
+ you are therefore unable to view the content of this e-mail=2E=0D=0A=0D=0A=
+To opt-out from future e-mail communications, please http://otterbein=2Ea=
+skadmissions=2Enet/admin/Communications/OptOut=2Easpx?qs=3D27MBsC4vQyymzb=
+Ut1IFtaeh=252b85rrhxm5519=252b9aMh=252bXoSbpZKUVD1JA=253d=253d
+
+--_=aspNetEmail=_bf221b61d0c8418dba11da83e4c80543
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD><BODY><table style=3D=22background-color: rgb(0, 0, 0)=
+;=22 align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22 width=3D=22100=25=22>=0D=0A    <tbody>=0D=0A        <tr>=0D=
+=0A            <td style=3D=22background-color: rgb(255, 255, 255);=22>=26=
+nbsp;</td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A            <td styl=
+e=3D=22background-color: rgb(255, 255, 255);=22>=0D=0A            <div st=
+yle=3D=22text-align: center;=22>=0D=0A            <br>=0D=0A            <=
+table style=3D=22background-color: rgb(0, 0, 0); border-collapse: collaps=
+e; border: 1px solid rgb(255, 255, 255);=22 align=3D=22center=22 border=3D=
+=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=22>=0D=
+=0A                <tbody>=0D=0A                    <tr>=0D=0A           =
+             <td valign=3D=22top=22 style=3D=22background-color: rgb(255,=
+ 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px;=22=
+>=0D=0A                        <p><img src=3D=22https://static=2Easkadmis=
+sions=2Enet/otterbein/usermedia/Dec15_email=2Ejpg=22 alt=3D=22=22 style=3D=
+=22=22 usemap=3D=22=23rade_img_map_1448401893603=22 border=3D=220=22>=26n=
+bsp;</p>=0D=0A                        </td>=0D=0A                    </tr=
+>=0D=0A                    <tr>=0D=0A                        <td style=3D=
+=22background-color: rgb(255,255,255); font-family: Arial, Helvetica, san=
+s-serif; height: 15px; font-size: 14px; font-weight: normal; width: 600px=
+; letter-spacing: 300=25;=22>=26nbsp;</td>=0D=0A                    </tr>=
+=0D=0A                    <tr>=0D=0A                        <td style=3D=22=
+background-color: rgb(194, 32, 39); font-family: Arial, Helvetica, sans-s=
+erif; height: 30px; font-size: 14px; font-weight: normal; width: 600px; l=
+etter-spacing: 300=25;=22>=0D=0A                        <div style=3D=22t=
+ext-align: center;=22><a href=3D=22http://otterbein=2Easkadmissions=2Enet=
+/admin/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGhk=252fW=
+zpLEEyMF63VXwmk5c3=252fXIcHnTTswpaQSdG6m6LXbTbIcRG3NsQ=253d=22 style=3D=22=
+color: rgb(255, 255, 255); text-decoration: none;=22>About</a> =26nbsp; =26=
+nbsp;<a href=3D=22http://otterbein=2Easkadmissions=2Enet/admin/Communicat=
+ions/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGmDprMHt6ciuxxkSV0jHyZunAe=
+ntcW6dwVCuFOkcX6JqaBLwz2wiTnQ=253d=22 style=3D=22color: rgb(255, 255, 255=
+); text-decoration: none;=22>Future Students</a> =26nbsp; =26nbsp; <a hre=
+f=3D=22http://otterbein=2Easkadmissions=2Enet/admin/Communications/ClickT=
+hru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGlnDisbyDop2g55xPg4HsDXSw08iiiJijrsXj=
+Wh=252bxNQ1moYVAo=252fB0xU=253d=22 style=3D=22color: rgb(255, 255, 255); =
+text-decoration: none;=22>Academics</a> =26nbsp; =26nbsp; <a href=3D=22ht=
+tp://otterbein=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easp=
+x?qs=3DN9Jvq3WinExHsWdhMdSXGsnPdtlfPXscRMgV37duktF9b0hSjTGclhidcx83GcJ7kU=
+9PQCCmvh4=253d=22 style=3D=22color: rgb(255, 255, 255); text-decoration: =
+none;=22> Athletics</a> =26nbsp; =26nbsp; <a href=3D=22http://otterbein=2E=
+askadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinE=
+xHsWdhMdSXGkmtNOjrnodB35RxLUFiCc9JM3Ovy=252fAR=252fScA2seo8q64tn6E6yxUjrI=
+=253d=22 style=3D=22color: rgb(255, 255, 255); text-decoration: none;=22>=
+Campus Life</a> =26nbsp; =26nbsp; <a href=3D=22http://otterbein=2Easkadmi=
+ssions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhM=
+dSXGvHEitHGjlejTAYNiJxpKEBlmKXv61Art2rGPuY5QDttK7iVeIRIs8g=253d=22 style=3D=
+=22color: rgb(255, 255, 255); text-decoration: none;=22>Parents</a><a hre=
+f=3D=22http://otterbein=2Easkadmissions=2Enet/admin/Communications/ClickT=
+hru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGpVogmEWRtZWdcTit1Y5Zfi=252fIysV6Do7m=
+gf=252buUwkboNLGV4DpsTveMU=253d=22 style=3D=22color: rgb(255, 255, 255); =
+text-decoration: none;=22> =26nbsp; =26nbsp; Alumni</a> </div>=0D=0A     =
+                   </td>=0D=0A                    </tr>=0D=0A            =
+        <tr>=0D=0A                        <td style=3D=22background-color=
+: rgb(194, 32, 39); width: 600px; font-family: Arial, Helvetica, sans-ser=
+if; height: 30px; color: rgb(255,255,255); font-size: 12px;=22>=0D=0A    =
+                    <div style=3D=22text-align: center; letter-spacing: n=
+ormal; color: =23CFAB7A;=22>Otterbein University =26nbsp;=26nbsp;=26nbsp;=
+   1 South Grove Street, Westerville, OH 43081 =26nbsp;=26nbsp;=26nbsp; 1=
+-800-488-8144</div>=0D=0A                        </td>=0D=0A             =
+       </tr>=0D=0A                </tbody>=0D=0A            </table>=0D=0A=
+            </div>=0D=0A            </td>=0D=0A        </tr>=0D=0A    </t=
+body>=0D=0A</table>=0D=0A<map id=3D=22rade_img_map_1388677839661=22 name=3D=
+=22rade_img_map_1388677839661=22>=0D=0A<area shape=3D=22RECT=22 coords=3D=
+=227,88,592,349=22 href=3D=22http://otterbein=2Easkadmissions=2Enet/admin=
+/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGr=252flOlJ4oZY=
+fYQveR13G0Gz04ZTVmFo0QZJmFGdrt8v6v44Zx643Hyw=253d=22 target=3D=22_parent=22=
+></map><map id=3D=22rade_img_map_1389291864722=22 name=3D=22rade_img_map_=
+1389291864722=22>=0D=0A<area shape=3D=22RECT=22 coords=3D=2215,19,198,64=22=
+ href=3D=22http://otterbein=2Easkadmissions=2Enet/admin/Communications/Cl=
+ickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGugnKHssVe=252bC6=252bPhZ6Np=252f=
+zeh=252b7HHZwornTiwKJ8lq8OmSTHt544SzyA=253d=22 target=3D=22_parent=22>=0D=
+=0A<area shape=3D=22RECT=22 coords=3D=220,77,601,359=22 href=3D=22http://=
+otterbein=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=
+N9Jvq3WinExHsWdhMdSXGr=252flOlJ4oZYfYQveR13G0Gz04ZTVmFo0QZJmFGdrt8v6v44Zx=
+643Hyw=253d=22 target=3D=22_parent=22></map><map id=3D=22rade_img_map_141=
+6321861800=22 name=3D=22rade_img_map_1416321861800=22>=0D=0A<area shape=3D=
+=22RECT=22 coords=3D=2210,10,198,69=22 href=3D=22http://otterbein=2Easkad=
+missions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWd=
+hMdSXGugnKHssVe=252bC6=252bPhZ6Np=252fzeh=252b7HHZwornTiwKJ8lq8OmSTHt544S=
+zyA=253d=22 target=3D=22_parent=22>=0D=0A<area shape=3D=22RECT=22 coords=3D=
+=2242,82,595,350=22 href=3D=22http://otterbein=2Easkadmissions=2Enet/admi=
+n/Communications/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGr=252flOlJ4oZ=
+YfYQveR13G0Gz04ZTVmFo0QZJmFGdrt8v6v44Zx643Hyw=253d=22 target=3D=22_parent=
+=22></map><map id=3D=22rade_img_map_1448401893603=22 name=3D=22rade_img_m=
+ap_1448401893603=22>=0D=0A<area shape=3D=22RECT=22 coords=3D=221,77,602,3=
+61=22 href=3D=22http://otterbein=2Easkadmissions=2Enet/admin/Communicatio=
+ns/ClickThru=2Easpx?qs=3DN9Jvq3WinExHsWdhMdSXGr=252flOlJ4oZYfYQveR13G0Gz0=
+4ZTVmFo0QZJmFGdrt8v6v44Zx643Hyw=253d=22 target=3D=22_parent=22></map>=0D=0A=
+<BR><BR><TABLE width=3D=22100=25=22>=0D=0A<TR><TD><IMG src=3Dhttp://otter=
+bein=2Easkadmissions=2Enet/admin/Communications/WebBeacon=2Easpx?qs=3DN9J=
+vq3WinEwGFKWpirkHZ8LlHBqxNWEOemWe0IpNu0wEChtfWJoGHQ=253d=253d></TD></TR><=
+TR><TD style=3D=22FONT-SIZE: 10pt; FONT-FAMILY: Verdana=22 align=3D=22lef=
+t=22>To opt-out from future e-mail communications, please=26nbsp;<A HREF=3D=
+=22http://otterbein=2Easkadmissions=2Enet/admin/Communications/OptOut=2Ea=
+spx?qs=3D27MBsC4vQyymzbUt1IFtaeh=252b85rrhxm5519=252b9aMh=252bXoSbpZKUVD1=
+JA=253d=253d=22>Unsubscribe=2E</A></TD></TR>=0D=0A</TABLE></BODY></HTML>
+
+--_=aspNetEmail=_bf221b61d0c8418dba11da83e4c80543--
+

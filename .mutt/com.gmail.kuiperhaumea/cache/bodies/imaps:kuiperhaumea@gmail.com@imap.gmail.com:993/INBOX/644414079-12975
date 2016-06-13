@@ -1,0 +1,105 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp170654oig;
+        Thu, 20 Aug 2015 16:07:28 -0700 (PDT)
+X-Received: by 10.194.114.37 with SMTP id jd5mr9976324wjb.34.1440112047548;
+        Thu, 20 Aug 2015 16:07:27 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x230.google.com (mail-wi0-x230.google.com. [2a00:1450:400c:c05::230])
+        by mx.google.com with ESMTPS id w4si11043372wju.16.2015.08.20.16.07.26
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 20 Aug 2015 16:07:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::230 as permitted sender) client-ip=2a00:1450:400c:c05::230;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::230 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@rpinow.org
+Received: by mail-wi0-x230.google.com with SMTP id p15so4985797wij.0
+        for <kuiperhaumea@gmail.com>; Thu, 20 Aug 2015 16:07:26 -0700 (PDT)
+X-Received: by 10.194.119.161 with SMTP id kv1mr9870465wjb.157.1440112046705;
+        Thu, 20 Aug 2015 16:07:26 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.225.9 with SMTP id y9csp247208wmg;
+        Thu, 20 Aug 2015 16:07:25 -0700 (PDT)
+X-Received: by 10.129.35.3 with SMTP id j3mr7590345ywj.101.1440112045219;
+        Thu, 20 Aug 2015 16:07:25 -0700 (PDT)
+Return-Path: <RPIAdmissions@rpinow.org>
+Received: from mta935.app-info.net (mta935.app-info.net. [68.142.179.35])
+        by mx.google.com with ESMTP id c12si9830313qge.34.2015.08.20.16.07.24
+        for <markiewicz.john@gmail.com>;
+        Thu, 20 Aug 2015 16:07:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of RPIAdmissions@rpinow.org designates 68.142.179.35 as permitted sender) client-ip=68.142.179.35;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=rpinow.org; h=date:from
+	:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=CPWq5ZwxcDixb5gaUzppf2gYfgs=; b=lP3/dTiX7m
+	YpuYNIhbhsMgtSwaNbHblEIe8yqgXWgHtK9g/axbrDSjIeF4d1p6/GP/7o25UE5z
+	K4ItJeNkxgnil5OT2UD55d5O+6axej3OscEYUegCTd94UHfecmNNjTlJEJ6B8sPJ
+	XLqu+EGkUU+fEofsJDGmoI09D2HgQP8DM=
+Received: from mta61.app-info.net by Postman123.app-info.net with Rome(1.0.38532) id <pd.2.pF2.jA17802.sJj.26394878.rA7.3013.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Thu, 20 Aug 2015 17:00:07 -0400
+Date: Thu, 20 Aug 2015 17:00:07 -0400 (EDT)
+From: Rensselaer Polytechnic Institute <RPIAdmissions@rpinow.org>
+Reply-To: Rensselaer Polytechnic Institute <RPIAdmissions@rpinow.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <947182086.3654667.1440104407531.JavaMail.nobody@clavin4123.royall.com>
+Subject: Rensselaer recognizes your talent
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:RPIAdmissions@rpinow.org?subject=unsubscriberfc2369%2022Z6C3I9W4E8I7K8RAMJ~8%20213%20INQ>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Rensselaer recognizes your talent</title>
+</head>
+<body>
+<p>John,</p>=20
+<p>As a superior student, you will find challenging and rewarding opportuni=
+ties at our world-class university. That is why we gave you a special previ=
+ew of our exclusive <strong><a href=3D"https://www.rpinow.org/turn/cai/a2I/=
+spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yoJD/cyp/So/cmm/213/esd/34b41b15991976f76122=
+a90fa740d0b1dc5a8809/">Candidate's Choice Application</a>,</strong> giving =
+you the chance to be one of the first to apply to Rensselaer Polytechnic In=
+stitute's Class of 2020.</p>=20
+<p>Rensselaer looks forward to receiving your <strong><a href=3D"https://ww=
+w.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yoJ1/cyp/So/cmm/21=
+3/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">Candidate's Choice Applica=
+tion</a>,</strong> and we would like to offer you ...</p>=20
+<ul>=20
+ <li>Time savings ... fewer questions</li>=20
+ <li>A head start ... areas that have already been started with information=
+ about you</li>=20
+ <li>Greater convenience ... automatic consideration for merit scholarships=
+</li>=20
+</ul> =20
+<p>As you begin your final year of high school, Rensselaer encourages you t=
+o <a href=3D"https://www.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8=
+/lik/yoJm/cyp/So/cmm/213/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">sub=
+mit your <strong>Candidate's Choice Application</strong></a><strong>.</stro=
+ng></p>=20
+<p>We look forward to hearing from you!</p>=20
+<p>Best wishes,</p>=20
+<p>Karen S. Long<br /> Director, Undergraduate Admissions<br /> Rensselaer =
+Polytechnic Institute<br /> 110 8th Street<br /> Troy, NY 12180-3590</p>=20
+<p>P.S. You may also apply to Rensselaer with the <strong><a href=3D"https:=
+//www.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yoJX/cyp/So/cm=
+m/213/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">Common Application</a>=
+</strong> or the <strong><a href=3D"https://www.rpinow.org/turn/cai/a2I/spn=
+/22Z6C3I9W4E8I7K8RAMJ~8/lik/yoJe/cyp/So/cmm/213/esd/34b41b15991976f76122a90=
+fa740d0b1dc5a8809/">Universal College Application</a>.</strong> We treat al=
+l of these applications equally when considering you for admission, and you=
+ will receive the same benefits with each, including automatic consideratio=
+n for merit scholarships. If you have already submitted your application, t=
+hank you! We will be in touch with you shortly.</p>=20
+<p style=3D"font-size: 0.8em;">We received your information from a previous=
+ contact. If you would rather not get e-mail from RPI again, please <a href=
+=3D"https://www.rpinow.org/turn/cai/a2I/spn/22Z6C3I9W4E8I7K8RAMJ~8/lik/yoJU=
+/cyp/So/cmm/213/esd/34b41b15991976f76122a90fa740d0b1dc5a8809/">let us know<=
+/a>.</p>
+</body>
+</html>

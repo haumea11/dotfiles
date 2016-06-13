@@ -1,0 +1,241 @@
+Received: from BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.453.11 via Mailbox Transport; Mon, 11 Apr 2016 15:38:51 +0000
+Received: from BY2PR01MB1896.prod.exchangelabs.com (10.166.109.20) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.453.11; Mon, 11 Apr 2016 15:38:50 +0000
+Received: from BY2PR01CA0058.prod.exchangelabs.com (10.255.242.48) by
+ BY2PR01MB1896.prod.exchangelabs.com (10.166.109.20) with Microsoft SMTP
+ Server (TLS) id 15.1.466.12; Mon, 11 Apr 2016 15:38:49 +0000
+Received: from BL2FFO11FD013.protection.gbl (2a01:111:f400:7c09::112) by
+ BY2PR01CA0058.outlook.office365.com (2a01:111:e400:2c76::48) with Microsoft
+ SMTP Server (TLS) id 15.1.466.12 via Frontend Transport; Mon, 11 Apr 2016
+ 15:38:49 +0000
+Received: from cio-tnc-pf08.osuad.osu.edu (164.107.81.222) by
+ BL2FFO11FD013.mail.protection.outlook.com (10.173.160.221) with Microsoft
+ SMTP Server (TLS) id 15.1.453.6 via Frontend Transport; Mon, 11 Apr 2016
+ 15:38:48 +0000
+Received: from CIO-KRC-HT01.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf08.osuad.osu.edu (Postfix) with ESMTPS id 18F212E0081;
+	Mon, 11 Apr 2016 11:38:47 -0400 (EDT)
+Received: from CIO-TNC-D2MBX03.osuad.osu.edu ([fe80::299f:b663:16d6:bf89]) by
+ CIO-KRC-HT01.osuad.osu.edu ([fe80::6d8f:7dea:5691:1620%12]) with mapi id
+ 14.03.0248.002; Mon, 11 Apr 2016 11:37:32 -0400
+From: "Osborn, Jennifer" <osborn.21@osu.edu>
+To: Orientation <orientation@osu.edu>
+Subject: Ohio State Orientation
+Thread-Topic: Ohio State Orientation
+Thread-Index: AdGUBtlTP6hvP0ixRyKE+gu3AI3EYw==
+Date: Mon, 11 Apr 2016 11:37:29 -0400
+Message-ID:
+	<02109B6ABA100949B2B52286F1E8BA0569A6AEDB@CIO-TNC-D2MBX03.osuad.osu.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD013.protection.gbl
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-Network-Message-Id:
+	070e3490-f92a-4ba1-f4c1-08d3621f6039
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+received-spf: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.222 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.222; helo=cio-tnc-pf08.osuad.osu.edu;
+Content-Type: multipart/related;
+	boundary="_002_02109B6ABA100949B2B52286F1E8BA0569A6AEDBCIOTNCD2MBX03os_";
+	type="text/html"
+MIME-Version: 1.0
+
+--_002_02109B6ABA100949B2B52286F1E8BA0569A6AEDBCIOTNCD2MBX03os_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 14 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Helvetica;
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Plain Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Arial","sans-serif";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Arial","sans-serif";
+	color:windowtext;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+span.PlainTextChar
+	{mso-style-name:"Plain Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Plain Text";
+	font-family:"Arial","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal" style="text-autospace:none"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Congratulations on your admission to Ohio State for autumn semester 2016!<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-autospace:none"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoPlainText">If you haven&#8217;t already, soon you will be receiving a mailing through the US Postal Service about registering for an orientation program. There are also copies of our mailings online at
+<a href="http://orientation.osu.edu/mailings.html"><span style="color:windowtext">orientation.osu.edu/mailings.html</span></a>.&nbsp;You don&#8217;t have to wait for the mailing to find your mailbox to schedule into an orientation program, though! You can do so by following
+ the directions in that mailing pdf or by going straight to <a href="http://orientation.osu.edu/reservations/">
+<span style="color:windowtext">orientation.osu.edu/reservations/</span></a>.&nbsp;<o:p></o:p></p>
+<p class="MsoPlainText"><o:p>&nbsp;</o:p></p>
+<p class="MsoPlainText">Since course registration takes place at orientation for your first semester of enrollment at Ohio State, the earlier you can attend orientation, the better.<o:p></o:p></p>
+<p class="MsoNormal" style="text-autospace:none"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="text-autospace:none"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">Please let us know if you need any assistance or have any questions. We can be reached at 614-292-4161 or
+</span><a href="mailto:orientation@osu.edu"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext">orientation@osu.edu</span></a><span class="MsoHyperlink"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext">.</span></span><span class="MsoHyperlink"><span style="color:windowtext"><o:p></o:p></span></span></p>
+<p class="MsoNormal" style="text-autospace:none"><span class="MsoHyperlink"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext;text-decoration:none"><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal" style="text-autospace:none"><span class="MsoHyperlink"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext;text-decoration:none">Yours in Ohio State,<o:p></o:p></span></span></p>
+<p class="MsoNormal" style="text-autospace:none"><span class="MsoHyperlink"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:windowtext;text-decoration:none">Jenny Osborn<o:p></o:p></span></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-family:&quot;Arial&quot;,&quot;sans-serif&quot;"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;line-height:13.5pt;background:white">
+<span style="font-size:9.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:#333333"><img border="0" width="224" height="45" id="Picture_x0020_1" src="cid:image001.png@01D193E5.C47375B0" alt="The Ohio State University"><br>
+</span><b><span style="font-size:9.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:#BB0000;background:white">Jenny Osborn</span></b><span style="font-size:9.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:#333333"><br>
+Associate Director<br>
+</span><span style="font-size:9.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:#BB0000;background:white">Enrollment Services</span><span style="font-size:9.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:#333333"> University Orientation and First Year Experience<br>
+348 Student Academic Services Building, 281 West Lane Avenue, Columbus, OH 43210<br>
+614.247.7428 Office <br>
+<a href="mailto:osborn.21@osu.edu"><span style="color:blue;background:white">osborn.21@osu.edu</span></a>
+<a href="http://orientation.osu.edu/"><span style="color:blue">orientation.osu.edu</span></a>
+<a href="http://fye.osu.edu/"><span style="color:blue;background:white">fye.osu.edu</span></a>
+<o:p></o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_002_02109B6ABA100949B2B52286F1E8BA0569A6AEDBCIOTNCD2MBX03os_
+Content-Type: image/png; name="image001.png"
+Content-Description: image001.png
+Content-Disposition: inline; filename="image001.png"; size=3870;
+	creation-date="Mon, 11 Apr 2016 15:37:23 GMT";
+	modification-date="Mon, 11 Apr 2016 15:37:23 GMT"
+Content-ID: <image001.png@01D193E5.C47375B0>
+Content-Transfer-Encoding: base64
+
+iVBORw0KGgoAAAANSUhEUgAAAOAAAAAtCAYAAAC3W2eLAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ
+bWFnZVJlYWR5ccllPAAAA7dpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdp
+bj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6
+eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0
+NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJo
+dHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlw
+dGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wUmlnaHRzPSJodHRwOi8vbnMuYWRvYmUuY29tL3hh
+cC8xLjAvcmlnaHRzLyIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9t
+bS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3Vy
+Y2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcFJpZ2h0
+czpNYXJrZWQ9IkZhbHNlIiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9InhtcC5kaWQ6MDY4MDEx
+NzQwNzIwNjgxMTgyMkFFN0ZCQkY2RDYxOTUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MjhE
+RTUwRjA3RTA5MTFFMkJBRjFGMEMxRTIzRjM1MzgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6
+MjhERTUwRUY3RTA5MTFFMkJBRjFGMEMxRTIzRjM1MzgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUg
+UGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0
+YW5jZUlEPSJ4bXAuaWlkOjAyODAxMTc0MDcyMDY4MTE4MjJBQzE2M0FBQjgxMEU1IiBzdFJlZjpk
+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
+AQcAAAAASUVORK5CYII=
+
+--_002_02109B6ABA100949B2B52286F1E8BA0569A6AEDBCIOTNCD2MBX03os_--

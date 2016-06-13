@@ -1,0 +1,774 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1618934oid;
+        Mon, 13 Jul 2015 08:56:35 -0700 (PDT)
+X-Received: by 10.180.10.163 with SMTP id j3mr24265701wib.34.1436802994872;
+        Mon, 13 Jul 2015 08:56:34 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22c.google.com (mail-wg0-x22c.google.com. [2a00:1450:400c:c00::22c])
+        by mx.google.com with ESMTPS id fp5si13649506wib.85.2015.07.13.08.56.34
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 08:56:34 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22c as permitted sender) client-ip=2a00:1450:400c:c00::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22c as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@meetup.com
+Received: by mail-wg0-x22c.google.com with SMTP id m20so114121970wgx.3
+        for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 08:56:34 -0700 (PDT)
+X-Received: by 10.194.205.37 with SMTP id ld5mr72687855wjc.14.1436802994038;
+        Mon, 13 Jul 2015 08:56:34 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1427526wmd;
+        Mon, 13 Jul 2015 08:56:32 -0700 (PDT)
+X-Received: by 10.55.25.35 with SMTP id k35mr16523995qkh.76.1436802992463;
+        Mon, 13 Jul 2015 08:56:32 -0700 (PDT)
+Return-Path: <info@meetup.com>
+Received: from mail8.nyi.meetup.com (mail8.nyi.meetup.com. [64.90.170.38])
+        by mx.google.com with ESMTP id 22si6855033qkw.119.2015.07.13.08.56.31
+        for <markiewicz.john@gmail.com>;
+        Mon, 13 Jul 2015 08:56:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of info@meetup.com designates 64.90.170.38 as permitted sender) client-ip=64.90.170.38;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=meetup; d=meetup.com;
+ h=Message-ID:From:Sender:To:Subject:MIME-Version:Content-Type:Date; i=info@meetup.com;
+ bh=xFIrotbsL2WvRIg5b4fLkY6lFz4=;
+ b=e9zqE06h1Xcs2Ln3HKN5x5DqDCxw2fy8Ykwb9jM1pZiUp/f7SmgK61+uZFQZUu3Ip6kcRsDllnce
+   pkYiKkRErnqood+yhtJkYQ1l4obcVQLP7UzhLNfmmn9sxKv7rOt5fXImA25/pL5YK1lI25wi6F9e
+   CrvU3E+jPVf3aYU61ro=
+Received: by mail8.nyi.meetup.com id hkffr01dqk0s for <markiewicz.john@gmail.com>; Mon, 13 Jul 2015 11:56:29 -0400 (envelope-from <info@meetup.com>)
+Received: by pmta1.phi.meetup.com id hkffqq206m4j for <markiewicz.john@gmail.com>; Mon, 13 Jul 2015 11:56:28 -0400 (envelope-from <info@meetup.com>)
+Message-ID: <544005708.1436802988964.JavaMail.root@jobs3.meetup.com>
+From: Meetup <info@meetup.com>
+Sender: info@meetup.com
+To: markiewicz.john@gmail.com
+Subject: Meetups this week with: Pythonistas, TechLife Columbus members,
+ Developers, and others
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5813282_1978439181.1436802988963"
+X-MEETUP-RECIP-ID: 184271242
+X-MEETUP-TRACK: wc1d.2
+Date: Mon, 13 Jul 2015 11:56:28 -0400
+
+------=_Part_5813282_1978439181.1436802988963
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+*** Your Meetups ***
+
+___ Friday ___
+
+The Central Ohio Python Users Group: http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/223542279/t/wc1d.2_gp/?gj=wc1d.2_g&rv=wc1d.2_g&_af=event&_af_eid=223542279&expires=1436975788941&sig=2692614c803e24870697e042fefe3cdca559f173
+
+
+*** Top Meetups for you ***
+
+
+___ Tech ___
+
+TechLife Columbus: http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+AngularJS Meetup Group: http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+Girl Develop It Columbus: http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+TechLife Columbus: http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+Columbus WordPress Meetup Group: http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+
+___ Games ___
+
+Columbus LARP (Live Action Role-Play) Meet-up: http://www.meetup.com/Columbus-LARP-Live-Action-Role-Play-Meet-up/events/223843924/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+Columbus Tabletop Gamers: http://www.meetup.com/Columbus-Tabletop-Gamers/events/223613170/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+
+___ Education &amp; Learning ___
+
+Toastmasters Clubs of Columbus and Central Ohio: http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223295994/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+Toastmasters Clubs of Columbus and Central Ohio: http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+Grandview Toastmasters Club -  Improve Public Speaking: http://www.meetup.com/GrandviewToastmasters/events/223423291/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+
+___ Hobbies &amp; Crafts ___
+
+Crafting and Conversation: http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+
+___ Support ___
+
+Creative Solution Thinkers Meetup: http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g
+
+See all Meetups in your area: http://www.meetup.com/find/?eventFilter=mysugg&events=true
+
+--
+Add info@meetup.com to your address book to receive all Meetup emails
+
+To unsubscribe from this email, go to: http://www.meetup.com/__ms184271242/account/optout/?submit=true&eo=wc1d.2&email=city_news&_ms_unsub=true&expires=1439394988941&sig=16d81f1702b0324359096ade90cd498ec4b41c69
+Meetup, POB 4668 #37895 NY NY USA 10163
+
+Meetup HQ in NYC is hiring!  http://www.meetup.com/jobs/
+
+------=_Part_5813282_1978439181.1436802988963
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+
+
+<html>
+<head>
+<title>Meetup</title>
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+.other-meetups-tearsheet {
+display:none;
+}
+*[class=people],*[class=noFloat] {
+width: 100%!important;
+float:none!important
+}
+.showMobile {
+color:#222!important;
+line-height: 16px!important;
+max-height:20px!important;
+height:20px!important;
+}
+.hideMobile {
+color:#fff!important;
+line-height:0px!important;
+display:none!important;
+}
+}
+@media only screen and (max-device-width: 320px) {
+.event-meta,
+.event-rsvp-box,
+.noFloat,
+.event-rsvp-box-status {
+float:none!important;
+width:100%!important;
+}
+.showMobile {
+color:#222!important;
+line-height: 16px!important;
+max-height:20px!important;
+height:20px!important;
+}
+.hideMobile {
+color:#fff!important;
+line-height:5px!important;
+display:none!important;
+}
+.event-rsvp-box {
+margin-top:8px;
+}
+.other-meetups-rsvp {
+width:40%!important;
+}
+.other-meetups-event-meta {
+width:60%!important;
+}
+.event-rsvp-box-actions {
+width:100%;
+}
+*[class=people] {
+width: 100%!important;
+float:none!important
+}
+
+
+}
+@media only screen and (min-width: 10px) {
+.meetup-button-gradient {
+background-image:-webkit-gradient(linear,left top,left bottom,from(#e6304c),to(#cb1834));
+background-image:-moz-linear-gradient(center top,#e6304c,#cb1834);
+text-shadow:#b8263c -1px -1px 0;
+-moz-box-shadow:#ed6e81 1px 1px 0 0 inset;
+-webkit-box-shadow:#ed6e81 1px 1px 0 0 inset;
+-o-box-shadow:#ed6e81 1px 1px 0 0 inset;
+box-shadow:#ed6e81 1px 1px 0 0 inset;
+}
+.meetup-button-link {
+border: none!important;
+padding: 5px 18px!important;
+}
+}
+</style>
+</head>
+<body style="margin:0;padding:0;font-family:arial;color:#333;background:#eee!important;text-align:center;">
+<div style="background:#eee!important;">
+<table cellpadding="0" cellspacing="0" style="width:100%;">
+<tr>
+<td style="width:49%;padding:0;border-top:4px solid #E0393E;" valign="top">
+<div style="height:22px;background:#E0393E;">&nbsp;</div>
+</td>
+<td style="width:52px;padding:0;border-top:4px solid #E0393E;background:#E0393E;">
+<a style="display:block;height:36px;max-height:36px;" href="http://www.meetup.com/t/wc1d.2_1/"><img src="http://www.meetup.com/z/img/wc1d.2/MSMxODQyNzEyNDIjMjAxNS0wNy0xMyAxMTo1NjoyOCNlZGVkNzY4NS1kZTg4LTQ1ZDgtYjA5YS1mN2ZhZDQ5N2QyM2Q%3D/mup_logo_email_header.png" width="52" height="36" alt="Meetup" style="border:0;" /></a>
+</td>
+<td style="width:49%;padding:0;border-top:4px solid #E0393E;" valign="top">
+<div style="height:22px;background:#E0393E;">&nbsp;</div>
+</td>
+</tr>
+</table>
+<div style="width:94%;min-width:220px;max-width:650px;margin:0 auto;padding-top:6px;text-align:left;font-family:arial,sans-serif;font-size:13px;line-height:18px;color:#545454;;background:#eee!important;">
+<div style="border-top:20px solid #eee;border-bottom:10px solid #eee;border-left:10px solid #eee;border-right:10px solid #eee; background:#eee;text-align:center;">
+<div style="font-size:26px;color:#222;font-weight:bold;line-height:32px;border-bottom:10px solid #eee;">Your calendar for the week of <span style="color:#e6304c">July 13</span></div>
+
+<p style=" font-size:13px;line-height:18px;margin:0 0 10px; font-size:16px;font-style:italic;">Hi John Markiewicz, here's what Meetup looks like for you this week.</p>
+</div>
+
+<div style="border-top:20px solid #eee"></div>
+<div style="clear:both;text-decoration:none;color:#fff;font-size:22px;font-weight:bold;line-height:28px;border-top:10px solid #e6304c;border-bottom:5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;border-top-left-radius:5px;border-top-right-radius:5px;">
+Your Meetups
+</div>
+<div style="border:1px solid #ccc;border-top:none;border-bottom-left-radius:5px;border-bottom-right-radius:5px;">
+<div style="background:#fff;overflow:hidden;border-radius:5px;">
+<div style="border-top:20px solid #fff"></div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Friday</span> July 17</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/223542279/t/wc1d.2_gp/?gj=wc1d.2_g&rv=wc1d.2_g&_af=event&_af_eid=223542279&expires=1436975788942&sig=0665aefa442ce850b1fb96f079ad3b306ea902ca">
+<img src="http://photos2.meetupstatic.com/photos/event/b/3/8/7/thumb_10185959.jpeg" style="width:65px;line-height:0px;" border="0" title="The Central Ohio Python Users Group" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Central-Ohio-Python-Users-Group/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">The Central Ohio Python Users Group</a>
+</div>
+<div><a href="http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/223542279/t/wc1d.2_gnl/?gj=wc1d.2_e&rv=wc1d.2_e&_af=event&_af_eid=223542279&expires=1436975788942&sig=4ff7d0985948b57af293b4f0b8e601057e039efa" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">DoJo</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Friday</span>, <span style="color:#111;font-size:12px;">6:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 17</span></div>
+<div style="clear:both">
+<div style="width:56px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:56px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/223542279/t/wc1d.2_ppl/?gj=wc1d.2_p&rv=wc1d.2_p&_af=event&_af_eid=223542279&expires=1436975788942&sig=9f57f3aa7fc3a391dfb69065fcfc7719c6ea9f45"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/5/2/1/e/thumb_103761022.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/223542279/t/wc1d.2_ppl/?gj=wc1d.2_p&rv=wc1d.2_p&_af=event&_af_eid=223542279&expires=1436975788942&sig=9f57f3aa7fc3a391dfb69065fcfc7719c6ea9f45"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/2/8/thumb_9540040.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+2
+Pythonistas
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div style="border-top:20px solid #eee"></div>
+<div style="clear:both;text-decoration:none;color:#fff;font-size:22px;font-weight:bold;line-height:28px;border-top:10px solid #e6304c;border-bottom:5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;border-top-left-radius:5px;border-top-right-radius:5px;">
+Top Meetups for you
+</div>
+<div style="border:1px solid #ccc;border-top:none;border-bottom-left-radius:5px;border-bottom-right-radius:5px;">
+<div style="background:#fff;overflow:hidden;border-radius:5px;">
+<div style="border-top:20px solid #fff"></div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Tech</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos1.meetupstatic.com/photos/event/b/1/9/e/thumb_7365470.jpeg" style="width:65px;line-height:0px;" border="0" title="TechLife Columbus" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/techlifecolumbus/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">TechLife Columbus</a>
+</div>
+<div><a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Startup Grind Hosts Alex Frommeyer, Beam Brush (Beam Technologies)</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Monday</span>, <span style="color:#111;font-size:12px;">5:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 13</span></div>
+<div style="clear:both">
+<div style="width:112px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:112px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/1/f/e/a/thumb_241628170.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/5/5/9/4/thumb_241401908.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/8/b/b/2/thumb_177635762.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/220593607/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/a/c/b/e/thumb_172244222.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+5
+TechLife Columbus members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos1.meetupstatic.com/photos/event/6/e/c/thumb_422161772.jpeg" style="width:65px;line-height:0px;" border="0" title="AngularJS Meetup Group" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/ng-columbus/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">AngularJS Meetup Group</a>
+</div>
+<div><a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Monthly AngularJS Meetup</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Monday</span>, <span style="color:#111;font-size:12px;">6:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 13</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/b/1/b/e/thumb_41625502.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/1/1/3/5/thumb_246124405.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/c/9/3/2/thumb_2091506.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/9/b/6/6/thumb_216879782.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/e/5/5/c/thumb_247138716.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/ng-columbus/events/221975032/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/7/6/8/5/thumb_247110341.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+32
+Developers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos1.meetupstatic.com/photos/event/8/b/4/2/thumb_436775650.jpeg" style="width:65px;line-height:0px;" border="0" title="Girl Develop It Columbus" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/girldevelopitcbus/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Girl Develop It Columbus</a>
+</div>
+<div><a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Code & Coffee</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Monday</span>, <span style="color:#111;font-size:12px;">6:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 13</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/e/a/1/5/thumb_247319925.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/d/6/1/thumb_241983425.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/a/3/5/b/thumb_10541819.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/7/f/f/thumb_246902047.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/d/0/8/6/thumb_186953382.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/girldevelopitcbus/events/223332010/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/1/0/6/0/thumb_244864192.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+33
+Members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos1.meetupstatic.com/photos/event/b/1/9/e/thumb_7365470.jpeg" style="width:65px;line-height:0px;" border="0" title="TechLife Columbus" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/techlifecolumbus/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">TechLife Columbus</a>
+</div>
+<div><a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Columbus Javascript Usergroup - Jeff Valore Presenting</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Wednesday</span>, <span style="color:#111;font-size:12px;">6:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 15</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/2/d/f/2/thumb_117611762.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/1/1/3/5/thumb_246124405.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/e/b/4/thumb_244803764.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/2/4/2/e/thumb_90669262.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/7/8/thumb_244681656.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/techlifecolumbus/events/221975039/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/4/0/9/e/thumb_213856542.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+35
+TechLife Columbus members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos1.meetupstatic.com/photos/event/d/4/b/4/thumb_334554452.jpeg" style="width:65px;line-height:0px;" border="0" title="Columbus WordPress Meetup Group" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/wp-columbus/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Columbus WordPress Meetup Group</a>
+</div>
+<div><a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">WordPress Columbus Meetup</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Thursday</span>, <span style="color:#111;font-size:12px;">6:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 16</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/9/7/9/thumb_11942425.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/6/c/2/b/thumb_22107691.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/3/7/a/c/thumb_86954252.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/3/a/d/6/thumb_115335062.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/a/4/d/1/thumb_247182193.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/wp-columbus/events/220356121/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/8/a/f/7/thumb_247655575.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+14
+Members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="border-top:10px solid #fff;border-bottom:10px solid #fff; background:#fff;text-align:center;">
+<a href="https://secure.meetup.com/create/t/wc1d.2_smp?ic=wc1d.2_s" style=" color: #3987CB; text-decoration: none; font-size:20px;line-height:22px;">Start your own Tech Meetup &rarr;</a>
+</div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="border-top:1px solid #ccc;border-bottom:25px solid #fff;"></div><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Games</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/Columbus-LARP-Live-Action-Role-Play-Meet-up/events/223843924/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos2.meetupstatic.com/photos/event/1/f/8/b/thumb_436628075.jpeg" style="width:65px;line-height:0px;" border="0" title="Columbus LARP (Live Action Role-Play) Meet-up" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Columbus-LARP-Live-Action-Role-Play-Meet-up/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Columbus LARP (Live Action Role-Play) Meet-up</a>
+</div>
+<div><a href="http://www.meetup.com/Columbus-LARP-Live-Action-Role-Play-Meet-up/events/223843924/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Dagorhir - Weekly Unit Practice</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Thursday</span>, <span style="color:#111;font-size:12px;">6:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 16</span></div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/Columbus-Tabletop-Gamers/events/223613170/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos2.meetupstatic.com/photos/event/9/2/c/4/thumb_346357572.jpeg" style="width:65px;line-height:0px;" border="0" title="Columbus Tabletop Gamers" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Columbus-Tabletop-Gamers/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Columbus Tabletop Gamers</a>
+</div>
+<div><a href="http://www.meetup.com/Columbus-Tabletop-Gamers/events/223613170/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Kingmakers</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Sunday</span>, <span style="color:#111;font-size:12px;">1:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 19</span></div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="border-top:1px solid #ccc;border-bottom:25px solid #fff;"></div><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Education &amp; Learning</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223295994/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos4.meetupstatic.com/photos/event/4/2/4/2/thumb_283576962.jpeg" style="width:65px;line-height:0px;" border="0" title="Toastmasters Clubs of Columbus and Central Ohio" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Toastmasters Clubs of Columbus and Central Ohio</a>
+</div>
+<div><a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223295994/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Columbus Toastmasters.  One of the most established clubs in central Ohio!</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Tuesday</span>, <span style="color:#111;font-size:12px;">6:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 14</span></div>
+<div style="clear:both">
+<div style="width:56px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:56px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223295994/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/9/9/8/thumb_202227032.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223295994/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/img/noPhoto_50.png" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+2
+Toastmasters
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos4.meetupstatic.com/photos/event/4/2/4/2/thumb_283576962.jpeg" style="width:65px;line-height:0px;" border="0" title="Toastmasters Clubs of Columbus and Central Ohio" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Toastmasters Clubs of Columbus and Central Ohio</a>
+</div>
+<div><a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">City of Columbus Toastmasters</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Thursday</span>, <span style="color:#111;font-size:12px;">6:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 16</span></div>
+<div style="clear:both">
+<div style="width:112px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:112px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/7/9/b/0/thumb_158791152.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/4/2/9/2/thumb_171617042.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/e/4/e/a/thumb_33658602.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Toastmasters-Clubs-of-Columbus-and-Central-Ohio/events/223843727/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/img/noPhoto_50.png" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+4
+Toastmasters
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:1px dotted #ccc;border-bottom:10px solid #fff;border-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/GrandviewToastmasters/events/223423291/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos2.meetupstatic.com/photos/event/e/0/2/6/thumb_258717382.jpeg" style="width:65px;line-height:0px;" border="0" title="Grandview Toastmasters Club -  Improve Public Speaking" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/GrandviewToastmasters/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Grandview Toastmasters Club -  Improve Public Speaking</a>
+</div>
+<div><a href="http://www.meetup.com/GrandviewToastmasters/events/223423291/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Toastmasters Grandview</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Friday</span>, <span style="color:#111;font-size:12px;">12:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 17</span></div>
+<div style="clear:both">
+<div style="width:56px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:56px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/GrandviewToastmasters/events/223423291/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/9/4/5/e/thumb_131857982.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/GrandviewToastmasters/events/223423291/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/d/d/7/e/thumb_246116702.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+2
+Toastmasters
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="border-top:1px solid #ccc;border-bottom:25px solid #fff;"></div><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Hobbies &amp; Crafts</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="height:50px;overflow:hidden;border-top:5px solid #eee;border-bottom:5px solid #eee;background:#eee;text-align:center;">
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://img1.meetupstatic.com/img/nobodies_50.png" style="line-height:0px;" border="0" title="Crafting and Conversation" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Crafting-and-Conversation/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Crafting and Conversation</a>
+</div>
+<div><a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Let's Craft and Converse about the Role of Animals in Spirituality</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Sunday</span>, <span style="color:#111;font-size:12px;">2:00 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 19</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/7/5/6/5/thumb_242790053.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/7/6/9/8/thumb_242790360.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/c/9/4/e/thumb_245271534.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/7/c/7/thumb_246386567.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/a/6/3/8/thumb_108222552.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Crafting-and-Conversation/events/223566036/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/6/0/2/e/thumb_236244622.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+9
+Artful Thinkers
+<span style="color:#cc1c32">&mdash; 11 spots left!</span>
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style="border-top:10px solid #fff; background:#fff;clear:both;text-align:left;"><div style="border-top:1px solid #ccc;border-bottom:25px solid #fff;"></div><div style="font-size:22px;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color:#666;"><span style="color:#e6304c;">Support</div></div>
+<div style="overflow:hidden;border-bottom:10px solid #fff;border-left:10px solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style="width:100%">
+<tr>
+<td style="width:65px;vertical-align:top;padding-right:5px;padding-top:8px;">
+<div style="max-height:70px;overflow:hidden">
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_gp?gj=wc1d.2_g&rv=wc1d.2_g">
+<img src="http://photos3.meetupstatic.com/photos/event/5/e/b/a/thumb_439164250.jpeg" style="width:65px;line-height:0px;" border="0" title="Creative Solution Thinkers Meetup" />
+</a>
+</div>
+</td>
+<td style="vertical-align:top;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<div style="border-top:3px solid #fff;border-bottom:3px solid #fff; background:#fff;">
+<a style="text-decoration:none;color:#888;border-right:5px solid #fff" href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/t/wc1d.2_wr2/?gj=wc1d.2_c&rv=wc1d.2_c">Creative Solution Thinkers Meetup</a>
+</div>
+<div><a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_gnl?gj=wc1d.2_e&rv=wc1d.2_e" style=" color: #3987CB; text-decoration: none; font-size:16px;font-weight:bold;">Discuss _Switch: How to Change Things when Change is Hard_ by Chip and Dan Heath</a></div>
+</div>
+<div style="border-top:2px solid #fff;border-bottom:3px solid #fff; background:#fff;"><span style="color:#111">Monday</span>, <span style="color:#111;font-size:12px;">6:30 PM</span> <span style="color:#888;border-left:3px solid #fff; background:#fff;">Jul 13</span></div>
+<div style="clear:both">
+<div style="width:168px;padding-right:5px">
+<table cellspacing="0" cellpadding="0" style="width:168px;">
+<tr>
+<td style="padding-right:1px;width:24px">
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos3.meetupstatic.com/photos/member/7/a/1/c/thumb_244531260.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/9/6/8/7/thumb_12338535.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos2.meetupstatic.com/photos/member/1/1/f/0/thumb_203344592.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/6/5/9/c/thumb_123806012.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos4.meetupstatic.com/photos/member/5/0/f/8/thumb_246680728.jpeg" border="0" /></a>
+<a href="http://www.meetup.com/Creative-Solution-Thinkers-Meetup/events/223186359/t/wc1d.2_ppl?gj=wc1d.2_p&rv=wc1d.2_p"><img width="24" height="24" src="http://photos1.meetupstatic.com/photos/member/7/2/7/0/thumb_247829296.jpeg" border="0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style="text-align:left;padding-bottom:2px;line-height:12px;">
+9
+Creative Thinkers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div style="border-top:30px solid #eee;border-bottom:10px solid #eee; background:#eee;text-align:center;">
+<a href="http://www.meetup.com/find/?eventFilter=mysugg&events=true" style=" color: #3987CB; text-decoration: none; font-size:20px;line-height:22px;">See all Meetups in your area &rarr;</a>
+</div>
+<div style="border-top:20px solid #eee; background:#eee;"> </div>
+<div style="font-size:10px;line-height:14px;color:#545454;background:#eee;">
+You might like these Meetups based on your interest in:
+<a href="http://acoustic-music.meetup.com/cities/us/43201/t/wc1d.2/?gj=pct1" style="color: #3987CB; text-decoration: none;">Acoustic Music</a>,   																				<a href="http://musicians.meetup.com/cities/us/43201/t/wc1d.2/?gj=pct1" style="color: #3987CB; text-decoration: none;">Musicians</a>,   																				<a href="http://livemusic.meetup.com/cities/us/43201/t/wc1d.2/?gj=pct1" style="color: #3987CB; text-decoration: none;">Live Music</a>,   																				<a href="http://php.meetup.com/cities/us/43201/t/wc1d.2/?gj=pct1" style="color: #3987CB; text-decoration: none;">PHP</a>,   																				<a href="http://blogs.meetup.com/cities/us/43201/t/wc1d.2/?gj=pct1" style="color: #3987CB; text-decoration: none;">Blogging</a>  																																																																																																									and <a href="http://www.meetup.com/add_topics/t/wc1d.2_t/" style="color: #3987CB; text-decoration: none;">9 more topics</a>.
+<a href="http://www.meetup.com/add_topics/t/wc1d.2_t/" style="color:#3987CB;text-decoration:none;">Manage your interests</a>
+</div>
+</div>
+</div>
+</div>
+
+
+<div style="clear:both;background-color:#eee;border-top:solid 20px #eee;border-bottom:solid 15px #eee;margin:30px 0 0;">
+<div style="width:94%;margin:0 auto;text-align:center;border-left:solid 10px #eee;border-right:solid 10px #eee;min-width:220px;max-width:650px;font-family:arial;color:#2d2d2d;font-size:11px;">
+<p style="font-size:16px;font-weight:bold;margin:0 0 10px;"><span style="white-space:nowrap">Never miss a last-minute change.</span> <span style="white-space:nowrap">Get the app.</span></p>
+<a href="http://www.meetup.com/r/email/iphone/0/wc1d.2_appstore/http://itunes.apple.com/us/app/meetup/id375990038" style="text-decoration:none;padding-right:8px;">
+<img src="http://img1.meetupstatic.com/img/email/download-appstore@2x.png" width="135" height="40" alt="iPhone App Store" style="background-color:#eee;text-decoration:none;" />
+</a>
+<a href="http://www.meetup.com/r/email/android/0/wc1d.2_appstore/http://play.google.com/store/apps/details?id=com.meetup&referrer=utm_source%3Demailfooter" style="text-decoration:none;">
+<img src="http://img1.meetupstatic.com/img/email/download-playstore@2x.png" width="117" height="40"  alt="Google Play" style="background-color:#eee;text-decoration:none;"/>
+</a>
+</div>
+</div>
+<div style="clear:both;background:#555;text-align:center;border-top:solid 20px #555;border-bottom:solid 20px #555;">
+<div style="width:94%;margin:0 auto;border-left:solid 10px #555;border-right:solid 10px #555;min-width:220px;max-width:650px;text-align:left;font-family:arial;color:#ccc;font-size:11px;line-height:14px;">
+<p style="margin: 0 0 .25em;color:#ccc;"><a href="http://www.meetup.com/__ms184271242/account/optout/?submit=true&eo=wc1d.2&email=city_news&_ms_unsub=true&expires=1439394988947&sig=331a7be01aa704760c40ecefa22e506327e35c00" style="color:#ccc;text-decoration:underline;">Unsubscribe</a> from this email</p>
+<p style="margin: 0 0 .25em;color:#ccc;">Add <a href="mailto:info@meetup.com" style="color:#ccc;">info@meetup.com</a> to your address book to receive all Meetup emails</p>
+<p style="margin: 0 0 .25em;color:#ccc;"><a href="#" style="color:#ccc;text-decoration:none;cursor:default;">Meetup, POB 4668 #37895 NY NY USA 10163</a></p>
+<p style="margin: 0 0 .25em;color:#ccc;"><strong>Meetup HQ in NYC is hiring!</strong>  <a href="http://www.meetup.com/jobs/" style="color:#ccc;">meetup.com/jobs</a></p>
+</div>
+</div>
+</body>
+</html>
+------=_Part_5813282_1978439181.1436802988963--
+

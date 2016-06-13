@@ -1,0 +1,78 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=z8ShIE7eUBKGoukddyqJWkCP1wGYosC2jNUup0hCYCI=;
+        b=xZ1401mPXWQWrXOsXk+A5vb5oO4vmtBpV09CKcBpAQsYFZdSBNBKPQheE5XMV+2Iij
+         fmDMicA7cW+S8BVeQamw0NUnjiUJUOuQpqrZnBpxO0VeWT/ZZvnGVTFFEkxls2HntOgz
+         5QgfLbv70UZpK0q9dWQRNEc4HgDHkfeuZ3phH4fKzzDo16dqA/3aTwg9FnVEn5Feo/kd
+         sI6LjdjV1GzSRbsKmO9Y9nQEztsPsXP27b8U4yinOaGDDgI3ZKbZRJe+XuaY2CaKFSFO
+         BWOvoI1qYeDtyMiw9aqr3+7nmfiTvgIPpngYPTdVFrcsPwIcP8p28shAnXXWb21gAYD1
+         +k5w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to:content-type;
+        bh=z8ShIE7eUBKGoukddyqJWkCP1wGYosC2jNUup0hCYCI=;
+        b=l35b/yKk6SMN/zN+AAm9NOvyK7XSlgX45fcPlU0NlXr9wty4z+tlpBtJytA0W4bMvp
+         bdzHAvAVBdrdM/X5UfE3N0Glg87vi9rTockzN1CUFJ3NzRBvaOFX1IFlaqEZJT7D2GYb
+         dcLhMy1/htTxEyGOD1dpzl3lXFcHWmaKsikf3JJr2n2uYhj8G6fR6QPg3vE4/dsvcM3L
+         HsicUI3qJUlV62QxC1Lg6Se4on0aBIXuxZqVTeBGcFDG2Aq9D/CJRn33uiocnK1JIE6p
+         VJz5nf0EUqxExkO5YITD4SwARKKFnV/26g47+f4ed3d79CuAPJtR2JXfMtX3ktOOPsWW
+         /r/Q==
+X-Gm-Message-State: AG10YOR8m5FkpZwI38d2khUXDthn/+kA7OeHo7hx48t0O3ka1PCPEhZd7EVfZcuTQTNs4fTZXz/2Q43nNz3MSg==
+X-Received: by 10.31.9.72 with SMTP id 69mr24341622vkj.126.1455052976388; Tue,
+ 09 Feb 2016 13:22:56 -0800 (PST)
+MIME-Version: 1.0
+References: <20160209181421.GA32476@brando>
+In-Reply-To: <20160209181421.GA32476@brando>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Tue, 09 Feb 2016 21:22:46 +0000
+Message-ID: <CANNyMF9jPx8bNkSfNviY8GC2Ud=5exwHC94ByH3RLQ0uiJK1gw@mail.gmail.com>
+Subject: Re: Ride Home From School
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Content-Type: multipart/alternative; boundary=001a11440dfac98038052b5ceb92
+
+--001a11440dfac98038052b5ceb92
+Content-Type: text/plain; charset=UTF-8
+
+I'm here
+
+On Tue, Feb 9, 2016, 1:14 PM John Markiewicz <jmarkiewicz@airmail.cc> wrote:
+
+> Hey,
+>
+> I don't have a ride home from school.  I can see if I would be able to get
+> one, but I left my bus pass at home.  Would it be possible, if I were to
+> text you about whether I needed one, for me to get a ride?  No earlier than
+> 4:30, I have quartet practice until then.
+>
+> Best Wishes,
+> John Markiewicz
+>
+
+--001a11440dfac98038052b5ceb92
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">I&#39;m here</p>
+<br><div class=3D"gmail_quote"><div dir=3D"ltr">On Tue, Feb 9, 2016, 1:14 P=
+M=C2=A0John Markiewicz &lt;jmarkiewicz@airmail.cc&gt; wrote:<br></div><bloc=
+kquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #cc=
+c solid;padding-left:1ex">Hey,<br>
+<br>
+I don&#39;t have a ride home from school.=C2=A0 I can see if I would be abl=
+e to get<br>
+one, but I left my bus pass at home.=C2=A0 Would it be possible, if I were =
+to<br>
+text you about whether I needed one, for me to get a ride?=C2=A0 No earlier=
+ than<br>
+4:30, I have quartet practice until then.<br>
+<br>
+Best Wishes,<br>
+John Markiewicz<br>
+</blockquote></div>
+
+--001a11440dfac98038052b5ceb92--

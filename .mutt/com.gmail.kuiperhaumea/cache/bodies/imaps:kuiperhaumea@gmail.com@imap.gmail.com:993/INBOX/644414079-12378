@@ -1,0 +1,179 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp229564oid;
+        Fri, 17 Jul 2015 20:52:33 -0700 (PDT)
+X-Received: by 10.68.206.7 with SMTP id lk7mr35152160pbc.52.1437191553794;
+        Fri, 17 Jul 2015 20:52:33 -0700 (PDT)
+Return-Path: <no-reply@twitch.tv>
+Received: from postfix-6b24e8.justin.tv (postfix-6b24e8.justin.tv. [199.9.254.102])
+        by mx.google.com with ESMTP id pn8si21665289pbb.126.2015.07.17.20.52.33
+        for <kuiperhaumea@gmail.com>;
+        Fri, 17 Jul 2015 20:52:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.102 as permitted sender) client-ip=199.9.254.102;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.102 as permitted sender) smtp.mail=no-reply@twitch.tv
+Received: from rails-worker-7e9774.sfo01.justin.tv (rails-worker-7e9774.sfo01.justin.tv [192.16.64.141])
+	by postfix-6b24e8 (Postfix) with ESMTP id 0F3726D0712CA
+	for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 20:52:33 -0700 (PDT)
+Received: from justin.tv (localhost [127.0.0.1])
+	by rails-worker-7e9774.sfo01.justin.tv (Postfix) with ESMTP id 045826000F996
+	for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 20:52:33 -0700 (PDT)
+Date: Fri, 17 Jul 2015 20:52:33 -0700
+From: Twitch <no-reply@twitch.tv>
+To: kuiperhaumea@gmail.com
+Message-ID: <55a9cd811dd0_21563f94473457f458239@rails-worker-7e9774.mail>
+Subject: doppelio just went live on Twitch
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width">
+</head>
+<body style="background-color:#eee;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;color:#333;font-family:Helvetica, Arial, sans-serif;line-height:1.25;-webkit-text-size-adjust:100%;" >
+  <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" class="body-table">
+    <tr>
+      <td align="center" valign="top">
+        <table border="0" cellpadding="20" cellspacing="0" width="600" class="outer-email-container">
+          <tr>
+            <td align="center" valign="top">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="inner-email-container" style="background-color:#fff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;" >
+                <!-- Email Logo -->
+                <tr>
+                  <td align="center" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" height="90" width="100%" class="email-logo" style="background-color:#fff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;" >
+                      <tr>
+                        <td align="center" valign="middle">
+                          <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImxvZ28iLCJlbWFpbF9pZCI6IjEwZTJmMDYxNmQzOTkwMDlhZjMxNGU0NGNhYjA0YjliNTZmYTYxMzU3ZGVmZjEzNjhiNjAyYWE5ZjgxYTlkNjgiLCJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/72e6ec63fbe510bfed8269ad6dcafa1d212212d1/doppelio?tt_content=ttv_follow_up&tt_medium=email">
+                            <img src="http://s.jtvnw.net/jtv_user_pictures/hosted_images/twitch-email-logomark-purple.png" width="102" height="34" alt="Twitch" />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" height="1" width="100%" class="email-divider">
+                      <tr>
+                        <td align="center" valign="middle" style="background-color: #eeeeee" width="249"></td>
+                        <td align="center" valign="middle" style="background-color: #6441a5" width="102"></td>
+                        <td align="center" valign="middle" style="background-color: #eeeeee" width="249"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!-- Email Logo -->
+
+<!-- Email Header -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="40" cellspacing="0" height="0" width="100%" class="email-header">
+      <tr>
+        <td align="center" valign="middle">
+          <div class="header-message">
+            
+            Hey haumea11,
+            <strong style="color:#6441a5;">
+              <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImhlYWRlciIsImVtYWlsX2lkIjoiMTBlMmYwNjE2ZDM5OTAwOWFmMzE0ZTQ0Y2FiMDRiOWI1NmZhNjEzNTdkZWZmMTM2OGI2MDJhYTlmODFhOWQ2OCIsInNvdXJjZV9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJsb2dpbiI6ImhhdW1lYTExIn0=/28998583/ebc0209609a2d176ffd9e2a178ec953461ed83fb/doppelio?tt_content=ttv_follow_up&tt_medium=email" style="color:#6441a5;text-decoration:none;">
+                
+                doppelio just went live!
+              </a>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Header -->
+
+<!-- Email Content -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0" height="0" width="100%" class="email-content">
+      <tr>
+        <td align="center" valign="middle">
+          <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImNoYW5uZWxfcGljdHVyZSIsImVtYWlsX2lkIjoiMTBlMmYwNjE2ZDM5OTAwOWFmMzE0ZTQ0Y2FiMDRiOWI1NmZhNjEzNTdkZWZmMTM2OGI2MDJhYTlmODFhOWQ2OCIsInNvdXJjZV9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJsb2dpbiI6ImhhdW1lYTExIn0=/28998583/a574cf88e1b7a7422193fb8e699fce1dedc3b089/doppelio?tt_content=ttv_follow_up&tt_medium=email">
+            <img src="http://static-cdn.jtvnw.net/jtv_user_pictures/doppelio-profile_image-3751ac17c939fdc2-70x70.png" width="64" height="64" />
+          </a>
+          <div class="stream-status" style="color:#333;font-size:18px;font-weight:bold;line-height:24px;margin-top:10px;width:70%;">
+            <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImNoYW5uZWxfc3RhdHVzIiwiZW1haWxfaWQiOiIxMGUyZjA2MTZkMzk5MDA5YWYzMTRlNDRjYWIwNGI5YjU2ZmE2MTM1N2RlZmYxMzY4YjYwMmFhOWY4MWE5ZDY4Iiwic291cmNlX2VtYWlsIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibmFtZSI6InR3aXRjaF9mYXZvcml0ZV91cCIsImxvZ2luIjoiaGF1bWVhMTEifQ==/28998583/4be3b16386218a9d649b23f6b561e8f1f4399e6e/doppelio?tt_content=ttv_follow_up&tt_medium=email" style="color:#6441a5;text-decoration:none;">
+              [Friday] Casual co-ops
+            </a>
+          </div>
+          <div class="stream-game" style="color:#999;font-size:12px;line-height:16px;margin-bottom:40px;">
+            <strong>
+              
+              <strong>doppelio</strong> is playing <strong>Robocraft</strong>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Content -->
+
+<!-- Email Action -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="30" cellspacing="0" height="0" width="100%" class="email-action" style="border-top-width:1px;border-top-style:solid;border-top-color:#eee;">
+      <tr>
+        <td align="center" valign="middle">
+          <div>
+            <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImFjdGlvbiIsImVtYWlsX2lkIjoiMTBlMmYwNjE2ZDM5OTAwOWFmMzE0ZTQ0Y2FiMDRiOWI1NmZhNjEzNTdkZWZmMTM2OGI2MDJhYTlmODFhOWQ2OCIsInNvdXJjZV9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJsb2dpbiI6ImhhdW1lYTExIn0=/28998583/a513ebcb4542599440560abb80ccd4d292629115/doppelio?tt_content=ttv_follow_up&tt_medium=email" style="background-color:#6441a5;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:40px;margin-bottom:10px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">
+              Watch Now
+            </a>
+            <br />
+            <small class="alternate-link" style="color:#999;font-size:11px;margin-top:4px;margin-bottom:4px;margin-right:4px;margin-left:4px;">Or click on this link:
+              <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiZG9wcGVsaW8iLCJsb2NhdGlvbiI6ImFjdGlvbl9hbHQiLCJlbWFpbF9pZCI6IjEwZTJmMDYxNmQzOTkwMDlhZjMxNGU0NGNhYjA0YjliNTZmYTYxMzU3ZGVmZjEzNjhiNjAyYWE5ZjgxYTlkNjgiLCJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/8179b82c385afb68c4107ea7455b19a4a0e94f40/doppelio?tt_content=ttv_follow_up&tt_medium=email" style="color:#999">
+                http://www.twitch.tv/doppelio
+              </a>
+            </small>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Action -->
+
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+          <tr>
+            <td align="center" valign="top">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="email-footer" style="color:#7F7F7F;font-size:12px;" >
+                <tr>
+                  <td valign="top">
+                    
+                      
+                      To stop receiving emails about doppelio, <a href="http://www.twitch.tv/user/remove_me?block=channel&amp;channel_id=47984037&amp;email_id=10e2f0616d399009af314e44cab04b9b56fa61357deff1368b602aa9f81a9d68&amp;user_id=28998583&amp;validating_hash=779545dbee8c855ef91d4474078465ae62eacefa">click here</a>
+                      <br />
+                      To stop receiving emails about any of your favorites, <a href="http://www.twitch.tv/user/remove_me?block=kind&amp;email_id=10e2f0616d399009af314e44cab04b9b56fa61357deff1368b602aa9f81a9d68&amp;email_type=twitch_favorite_up&amp;user_id=28998583&amp;validating_hash=ca48f9aa42a926a4de6d2d052a70511e2e70f14b">click here</a>
+                      <br />
+                    
+                    To stop receiving email notifications, <a href="http://www.twitch.tv/user/remove_me?block=kind&amp;email_id=10e2f0616d399009af314e44cab04b9b56fa61357deff1368b602aa9f81a9d68&amp;email_type=all&amp;source_email=twitch_favorite_up&amp;user_id=28998583&amp;validating_hash=a04b67fdb967d47b4efc8449c31b7a15e1ccdea1">click here</a>
+                  </td>
+                  <td align="right" valign="top">
+                    
+                    
+                    &copy; 2015 Twitch. All Rights Reserved.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

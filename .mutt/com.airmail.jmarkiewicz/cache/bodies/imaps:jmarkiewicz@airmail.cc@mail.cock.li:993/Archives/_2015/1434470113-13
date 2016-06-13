@@ -1,0 +1,94 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type;
+        bh=ioGq/vo/GXEi8XQ3Tm7LD1ekP8j6OxlXokADhwBwqwg=;
+        b=kl1TDzhTEGCH15Rd5WjjUlyfNB7SwsbKrOWx/TpRdBk2t80IeQW+zCRggfFt2VpDrB
+         Loy9Und8edzlJmamcNz1HUTx8PyOe3xQsoln5VkWGQeHsxUy0i86r35u2WygRYOEqwpE
+         NRFGOBjThwsvjcHi72y0x5owKYbMdUOTQIqQDPUMJhKElqufs7jX9Vtahy3Llm4g0gs4
+         i8FIO3T93O6ba5CkX2iXLN5yPq7e6Vd+tuYQTG+eNYhOEfWYd2GZuyPuDEUKI328A/yc
+         AjOUN/6h14hFnis2PaZX34PH95+s0+SUW/eLnA2QQbMcmD4jAVBGCB6XOCY1LXjBt3U0
+         rRKw==
+X-Received: by 10.43.139.6 with SMTP id iu6mr26709018icc.32.1436033378234;
+        Sat, 04 Jul 2015 11:09:38 -0700 (PDT)
+Message-ID: <5598215F.5000309@gmail.com>
+Date: Sat, 04 Jul 2015 14:09:35 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: jmarkiewicz@airmail.cc
+Subject: i
+Content-Type: multipart/mixed;
+ boundary="------------010901040501090503010709"
+
+This is a multi-part message in MIME format.
+--------------010901040501090503010709
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+b
+
+--------------010901040501090503010709
+Content-Type: application/pgp-keys;
+ name="0x3DBA1E2F.asc"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="0x3DBA1E2F.asc"
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+wtBZRfYZoOMLWkRnfzumaeA+n4tLhfeGNbDNpA==
+=9h3t
+-----END PGP PUBLIC KEY BLOCK-----
+
+--------------010901040501090503010709--

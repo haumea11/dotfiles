@@ -1,0 +1,478 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp1004198oig;
+        Sun, 30 Aug 2015 10:28:09 -0700 (PDT)
+X-Received: by 10.55.204.66 with SMTP id r63mr3359626qki.10.1440955689505;
+        Sun, 30 Aug 2015 10:28:09 -0700 (PDT)
+Return-Path: <ntf-58824_1-181349540-KUIPERHAUMEA_=_GMAIL.COM@reply.ticketmaster.com>
+Received: from vg159.ntf.els4.ticketmaster.com (vg159.ntf.els4.ticketmaster.com. [209.104.37.159])
+        by mx.google.com with ESMTPS id 62si14454005qht.63.2015.08.30.10.28.09
+        for <KUIPERHAUMEA@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 30 Aug 2015 10:28:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ntf-58824_1-181349540-KUIPERHAUMEA_=_GMAIL.COM@reply.ticketmaster.com designates 209.104.37.159 as permitted sender) client-ip=209.104.37.159;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of ntf-58824_1-181349540-KUIPERHAUMEA_=_GMAIL.COM@reply.ticketmaster.com designates 209.104.37.159 as permitted sender) smtp.mailfrom=ntf-58824_1-181349540-KUIPERHAUMEA_=_GMAIL.COM@reply.ticketmaster.com;
+       dkim=pass header.i=@ticketmaster.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=ntfv2; d=ticketmaster.com;
+ h=List-Unsubscribe:Date:Message-Id:Reply-to:From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@reply.ticketmaster.com;
+ bh=Jw7DbwZTDSQkebPnCCQUeZw6XT0=;
+ b=ekEXD2hkyGbLz3S2AMJ8HrYSOe4bGB5C+b1BJ2GJMhxZ9d0sleXf3yg//DRVxxlYjpJWrWjDhfaH
+   5QFrmW+YeAFxjRbSz1iGOZmRKg4ah5PqeFD57lpVtl6/1XUlBiVRh/pDD0FPiItN2OA4SDWEik0N
+   ZR92K5t5F5C7qubj+J1HK28zXZRUKHQKbvsw0n2eW8KqXPNZjNXts/CKWm/4JNAOK7YlGTqn8oaR
+   qMyNYkuEOeeCJVzQbeETIt1Ubn0bH9Ra5k0DGWnWOap8KtcukPF7CWj/rJ1VjSLmK8M6iGjdSHCn
+   DpZpcN9+6sktLJKsGdcg5q3bm28LvezdfyA1qw==
+Received: from nta12.ntf.cft1.coresys.tmcs (10.74.108.57) by vg159.ntf.els4.ticketmaster.com (PowerMTA(TM) v3.5r15) id hscuik10hegn for <KUIPERHAUMEA@GMAIL.COM>; Sun, 30 Aug 2015 10:28:10 -0700 (envelope-from <ntf-58824_1-181349540-KUIPERHAUMEA_=_GMAIL.COM@reply.ticketmaster.com>)
+Received: (qmail 13733 invoked by uid 3001); 30 Aug 2015 10:28:10 -0700
+List-Unsubscribe: <mailto:gmailfb@ticketmaster.com?subject=Unsubscribe%2058824_1%20with%20S1VJUEVSSEFVTUVBQEdNQUlMLkNPTQ%3D%3D%0A>
+Date: 30 Aug 2015 10:28:10 -0700
+Message-Id: <13733-144095569071551-035698518306198@reply.ticketmaster.com>
+Reply-to: Ticketmaster <support@reply.ticketmaster.com>
+From: Ticketmaster <support@reply.ticketmaster.com>
+To: KUIPERHAUMEA@GMAIL.COM
+Subject: Event Reminder: Ratatat
+MIME-Version: 1.0
+X-NTF-To: S1VJUEVSSEFVTUVBQEdNQUlMLkNPTQ==
+X-NTF-MIME: HTML
+X-NTF-cell_id: 58824_1
+X-NTF-unique_key: 181349540
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title></title>
+<style type="text/css">
+body {
+ width: 100% !important;
+ -webkit-text-size-adjust: 100%;
+ -ms-text-size-adjust: 100%;
+ margin: 0;
+ padding: 0;
+}
+p {margin: 1.1em 0}
+.ExternalClass {width: 100% !important;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div, .ExternalClass br {line-height: 120%;}
+img {outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;}
+a img { border: none;}
+.applelinks a {color: inherit !important; text-decoration: none !important;}
+.nowrap { white-space: nowrap}
+ @media only screen and (max-width:480px) {
+*[class*=resizetofull] { width: 100% !important; height: auto !important;}
+*[class*=resizeto320] { width: 320px !important; height: auto !important; position: relative;}
+*[class*=nopadding]{padding: 0 !important;}
+img[class*=desktophide] {display: none; visibility: hidden;}
+*[class*=logo_container] {padding: 5px !important;}
+*[class*=artist] {width: 107px !important; height: auto !important}
+*[class*=header] {background: #fff url('http://promo.livenation.com/_emailimages/performer_alert/img/full.jpg') 0 0 no-repeat; background-size: 320px; width: 320px !important; padding-top: 84px;}
+*[class*=event-info] {padding: 0 10px; position: absolute; left: 0; top: 205px; font-size: 12px;}
+*[class*=mobile-padding-top] {padding-top: 55px !important}
+*[class*=app_img] {width: 48px !important; height: auto !important;}
+*[class*=category_img] {width: 75px !important; height: auto !important;}
+*[class*=left-padding] { padding-left: 10px !important;}
+*[class*=twelve] {font-size: 12px !important;}
+*[class*=padding-15] {padding: 15px !important;}
+*[class*=paddingB-15] {padding-bottom: 15px !important;}
+*[class*=paddingR-5] {padding: 15px 5px 15px 15px !important;}
+*[class*=findtickets-p] {padding-bottom: 10px !important}
+*[class*=app_text] {padding-left: 60px !important; padding-bottom: 30px !important;}
+*[class*=app_table] {margin-top: -52px;}
+a[class=ad] { display:block; padding:0 0 15px !important; }
+*[class*=table100] { width:100% !important; padding-top: 2px !important}
+*[class*=templateColumns]{ width:100% !important; }
+*[class*=templateColumnContainer]{ display:block !important; width:100% !important; border: none !important;}
+*[class*=dashborder]{ border-bottom: 1px dashed #cccccc;}
+*[class*=noborder]{ border: none !important; }
+*[class*=paddingT-10] {padding-top: 10px !important;}
+*[class*=padding-15] {padding: 15px !important;}
+*[class*=paddingT-25] {padding-top: 25px !important;}
+*[class*=twentyfour] {font-size: 24px !important}
+*[class*=paddingTB-5] {padding-top: 5px !important; padding-bottom: 5px !important;}
+}
+</style>
+</head>
+<body><img src="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9T1BFTiZVPTE4MTM0OTU0MCZNPTEmQj0wLjAmUz1odHRwOi8vbnRyLnRpY2tldG1hc3Rlci5jb20vaW1nL29wZW4uZ2lmP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCT1BFTg==" width=1 height=1 alt="" />
+<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#efefef">
+ <tr>
+ <td align="center" valign="top" class="nopadding" style="padding:10px">	<!-- Main content -->
+ <table cellpadding="0" cellspacing="0" width="600" border="0" class="resizeto320" style="font-family:Arial, Helvetica, sans-serif; color: #414141" bgcolor="#FFFFFF">
+ <tr>
+ <td class="padding-15" style="padding:20px 15px"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td width="193" align="left" bgcolor="#FFFFFF" class="templateColumnContainer" style=" font-family: Arial, Helvetica, sans-serif; font-size:14px;"><img src="http://media.ticketmaster.com/en-us/img/email/cend/TM_Logo_2x.gif" alt="Ticketmaster" width="169" height="23" /></td>
+ <td align="right" valign="bottom" class="templateColumnContainer paddingT-10"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="font-family:Arial, Helvetica, sans-serif">
+ <tr>
+ <td align="left" style="color: #009cde; font-size: 15px;">Event Reminder</td>
+ <td align="right" valign="bottom" style="color: #b4b5b5; font-size: 15px;">August 30, 2015</td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+<!-- Featured Event -->
+ <tr>
+ <td class="twentyfour padding-15" style="font-size:36px; color: #414141; padding: 35px 0 20px;" align="center" bgcolor="#efefef">Hi JOHN, Your Event Is Coming Up! </td>
+ </tr>
+ <tr>
+ <td class="padding-15" style="padding: 15px;"><table class="resizetofull" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="paddingB-15" align="center"><img src="http://media.ticketmaster.com/dam/a/634/87563b41-e190-4980-ae93-c0933ff42634_17331_CUSTOM.jpg" height="193" width="262" alt="Ratatat" /></td>
+ </tr>
+ </table>
+ <table class="resizetofull" width="290" border="0" align="right" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif; font-size: 18px; color: #414141">
+ <tr>
+ <td align="left"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfRXZ0TmFtZV8wNTAwNEVDOTdERTcxMjBGJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDOTdERTcxMjBGP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfRXZ0TmFtZV8wNTAwNEVDOTdERTcxMjBG" style="color:#414141; font-weight:bold; text-decoration: none;">Ratatat</a></td>
+ </tr> 
+ <tr>
+ <td style="color: #999999; font-size: 14px;" align="left"> Fri, Sep 04, 2015 6:30pm </td>
+ </tr>
+ <tr>
+ <td style="color: #999999; font-size: 14px; padding: 15px 0 0" align="left">LC Pavilion<br />405 Neil Avenue<br />Columbus, OH 43215</td>
+ </tr>
+ <tr>
+ <td class="findtickets-p" align="left" style="padding-top: 15px;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td><div>
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVEZMT0dPJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHBzOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vbWVtYmVyL29yZGVyX2hpc3Rvcnk/d3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9URkxPR08=" style="height:30px;v-text-anchor:middle;width:148px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]-->
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVEZMT0dPJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHBzOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vbWVtYmVyL29yZGVyX2hpc3Rvcnk/d3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9URkxPR08="
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:148px;-webkit-text-size-adjust:none;">View Tickets</a>
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ <tr>
+ <td style="color: #008cff; font-size: 14px; padding: 15px 0 0" align="left"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfRkJfU2hhcmVfMDUwMDRFQzk3REU3MTIwRiZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LmZhY2Vib29rLmNvbS9zaGFyZXIucGhwP3U9aHR0cDovL3d3dy50aWNrZXRtYXN0ZXIuY29tL2V2ZW50LzA1MDA0RUM5N0RFNzEyMEY/d3QubWNfaWQ9RU1MX05URjU4ODI0XzFbRkJYX19fU0xGQkstMjA4Jnd0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfRkJfU2hhcmVfMDUwMDRFQzk3REU3MTIwRg=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Facebook_2x_88x88.gif" alt="facebook" width="30" height="30" border="0"/></a></td>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVFdfU2hhcmVfMDUwMDRFQzk3REU3MTIwRiZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vdHdpdHRlci5jb20vaW50ZW50L3R3ZWV0P3RleHQ9UmF0YXRhdCUyMC0lMjBMQyUyMFBhdmlsaW9uJTIwRnJpZGF5JTJDJTIwU2VwdGVtYmVyJTIwMDQlMkMlMjAyMDE1JTIwJTIwNiUzQTMwcG0mdXJsPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDOTdERTcxMjBGP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xW1RXWF9fX1NMRkJLLTIwOCZyZWxhdGVkPVRpY2tldG1hc3RlciZoYXNodGFncz1UaWNrZXRtYXN0ZXImd3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9UV19TaGFyZV8wNTAwNEVDOTdERTcxMjBG"><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Twitter_2x_88x88.gif" alt="twitter" width="30" height="30" border="0"/></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <!-- CCE Text with Learn More Link at the end. -->
+ <tr>
+ <td style="padding: 30px 0 10px; font-size: 24px; color: #414141;" align="center" bgcolor="#efefef">Get Ready</td>
+ </tr>
+ <tr>
+ <td style="padding: 15px; border-bottom: 1px dashed #cccccc;" align="center" bgcolor="#FFFFFF"><table style="font-family: Arial, Helvetica, sans-serif;" border="0" cellspacing="0" cellpadding="0">
+ </table></td>
+ </tr>
+ <tr>
+ <td class="paddingTB-5 dashborder" style="padding-bottom: 2px;" align="center" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td style="border-bottom: 1px dashed #cccccc;" align="left" valign="middle" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td class="paddingTB-5" style="padding: 10px 0 10px 15px; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">Get in with our app</td>
+ </tr>
+ </table></td>
+ <td style="border-bottom: 1px dashed #cccccc;" align="left" bgcolor="#FFFFFF" class="templateColumnContainer"><table class="table100" border="0" align="right" cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="paddingTB-5" style="padding: 15px 10px 15px 15px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQXBwU3RvcmUmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cHM6Ly9pdHVuZXMuYXBwbGUuY29tL3VzL2FwcC90aWNrZXRtYXN0ZXIvaWQ1MDAwMDM1NjU/bXQ9OA=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/PA_2014_AppleStore_2x.gif" alt="App Store" width="135" height="40" border="0"/></a></td>
+ <td class="paddingTB-5" style="padding-right: 15px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfR29vZ2xlUGxheSZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM/aWQ9Y29tLnRpY2tldG1hc3Rlci5tb2JpbGUuYW5kcm9pZC5uYSZ3dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0dvb2dsZVBsYXk="><img src="http://media.ticketmaster.com/en-us/img/email/cend/PA_2014_GooglePlay_2x.gif" alt="Google Play" width="135" height="40" border="0"/></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td class="paddingTB-5 dashborder" style="padding-bottom: 2px;" align="center" bgcolor="#FFFFFF">
+ <table width="100%" border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td style="border-bottom: 1px dashed #cccccc;" align="left" valign="middle" bgcolor="#FFFFFF" class="templateColumnContainer noborder">
+ <table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td class="paddingTB-5" style="padding: 10px 0 10px 15px; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">Manage your tickets</td>
+ </tr>
+ </table>
+ </td>
+ <td style="border-bottom: 1px dashed #cccccc;" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer">
+ <table class="templateColumns" border="0" align="right" cellpadding="0" cellspacing="0">
+ <tr> <td class="templateColumnContainer noborder paddingTB-5" style="padding: 15px 15px 15px 15px;"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQlVHX1hGRVJCVE4mVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cHM6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9tZW1iZXIvb3JkZXJfaGlzdG9yeT93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0JVR19YRkVSQlRO" style="height:30px;v-text-anchor:middle;width:150px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQlVHX1hGRVJCVE4mVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cHM6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9tZW1iZXIvb3JkZXJfaGlzdG9yeT93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0JVR19YRkVSQlRO"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;">Transfer to Friends</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td> <td class="templateColumnContainer noborder paddingTB-5" style="padding:10px 15px"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQlVHX1NFTExCVE4mVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cHM6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9tZW1iZXIvb3JkZXJfaGlzdG9yeT93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0JVR19TRUxMQlRO" style="height:30px;v-text-anchor:middle;width:150px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQlVHX1NFTExCVE4mVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cHM6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9tZW1iZXIvb3JkZXJfaGlzdG9yeT93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0JVR19TRUxMQlRO"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:150px;-webkit-text-size-adjust:none;">Sell on Ticketmaster</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td> </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+<!-- </tr>
+ </table></td>
+ </tr>-->
+<!-- More Events -->
+<tr>
+ <td style="padding: 30px 0 10px; font-size: 24px; color: #414141;" align="center" bgcolor="#efefef"> More Events You Might Enjoy </td>
+</tr>
+ <tr>
+ <td class="nopadding" style="padding-bottom: 2px;" align="center" bgcolor="#efefef"><table border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td style="border-bottom: 1px solid #cccccc; border-right: 2px solid #efefef" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table class="table100 padtop0" width="298" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="100" align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px;"><img src="http://media.ticketmaster.com/tmimages/305x225_music.jpg" border="0" alt="Frank Harrison Group" width="100" height="73" class="resizetofull" /></td>
+ <td align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px 0;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif; color: #848484;"><a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0V2dE5hbWVfMDUwMDRFREREQUYxNDMxMiZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vZXZlbnQvMDUwMDRFREREQUYxNDMxMj93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1JlY19FdnROYW1lXzA1MDA0RUREREFGMTQzMTI=">Frank Harrison Group</a><br />LC Pavilion<br />
+ Fri, Sep 18, 2015 </td>
+ </tr>
+ <tr>
+ <td style="padding:10px 0"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVERERBRjE0MzEyJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVERERBRjE0MzEyP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVERERBRjE0MzEy" style="height:30px;v-text-anchor:middle;width:120px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVERERBRjE0MzEyJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVERERBRjE0MzEyP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVERERBRjE0MzEy"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:120px;-webkit-text-size-adjust:none;">See Tickets</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ <td style="border-bottom: 1px solid #cccccc; border-right: 2px solid #efefef" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table class="table100 padtop0" width="298" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="100" align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px;"><img src="http://media.ticketmaster.com/dbimages/202083a.jpg" border="0" alt="Scorpions" width="100" height="73" class="resizetofull" /></td>
+ <td align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px 0;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif; color: #848484;"><a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0V2dE5hbWVfMDUwMDRFNThBOEZENUVFRCZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vZXZlbnQvMDUwMDRFNThBOEZENUVFRD93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1JlY19FdnROYW1lXzA1MDA0RTU4QThGRDVFRUQ=">Scorpions</a><br />LC Pavilion<br />
+ Tue, Sep 22, 2015 </td>
+ </tr>
+ <tr>
+ <td style="padding:10px 0"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEU1OEE4RkQ1RUVEJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEU1OEE4RkQ1RUVEP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEU1OEE4RkQ1RUVE" style="height:30px;v-text-anchor:middle;width:120px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEU1OEE4RkQ1RUVEJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEU1OEE4RkQ1RUVEP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEU1OEE4RkQ1RUVE"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:120px;-webkit-text-size-adjust:none;">See Tickets</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td class="nopadding" style="padding-bottom: 2px;" align="center" bgcolor="#efefef"><table border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td style="border-bottom: 1px solid #cccccc; border-right: 2px solid #efefef" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table class="table100 padtop0" width="298" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="100" align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px;"><img src="http://media.ticketmaster.com/dbimages/76198a.jpg" border="0" alt="Warren Haynes" width="100" height="73" class="resizetofull" /></td>
+ <td align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px 0;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif; color: #848484;"><a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0V2dE5hbWVfMDUwMDRFRTFENjQ3NkMxNiZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vZXZlbnQvMDUwMDRFRTFENjQ3NkMxNj93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1JlY19FdnROYW1lXzA1MDA0RUUxRDY0NzZDMTY=">Warren Haynes</a><br />LC Pavilion<br />
+ Thu, Sep 24, 2015 </td>
+ </tr>
+ <tr>
+ <td style="padding:10px 0"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVFMUQ2NDc2QzE2JlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVFMUQ2NDc2QzE2P3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVFMUQ2NDc2QzE2" style="height:30px;v-text-anchor:middle;width:120px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVFMUQ2NDc2QzE2JlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVFMUQ2NDc2QzE2P3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVFMUQ2NDc2QzE2"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:120px;-webkit-text-size-adjust:none;">See Tickets</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ <td style="border-bottom: 1px solid #cccccc; border-right: 2px solid #efefef" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table class="table100 padtop0" width="298" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="100" align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px;"><img src="http://media.ticketmaster.com/dbimages/201656a.jpg" border="0" alt="Alabama Shakes" width="100" height="73" class="resizetofull" /></td>
+ <td align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px 0;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif; color: #848484;"><a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0V2dE5hbWVfMDUwMDRFQ0JDNTRFNDc1NCZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vZXZlbnQvMDUwMDRFQ0JDNTRFNDc1ND93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1JlY19FdnROYW1lXzA1MDA0RUNCQzU0RTQ3NTQ=">Alabama Shakes</a><br />LC Pavilion<br />
+ Tue, Sep 29, 2015 </td>
+ </tr>
+ <tr>
+ <td style="padding:10px 0"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkM1NEU0NzU0JlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDQkM1NEU0NzU0P3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkM1NEU0NzU0" style="height:30px;v-text-anchor:middle;width:120px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkM1NEU0NzU0JlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDQkM1NEU0NzU0P3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkM1NEU0NzU0"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:120px;-webkit-text-size-adjust:none;">See Tickets</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr>
+ <tr>
+ <td class="nopadding" style="padding-bottom: 2px;" align="center" bgcolor="#efefef"><table border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td style="border-bottom: 1px solid #cccccc; border-right: 2px solid #efefef" align="left" valign="top" bgcolor="#FFFFFF" class="templateColumnContainer noborder"><table class="table100 padtop0" width="298" border="0" align="left" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="100" align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px;"><img src="http://media.ticketmaster.com/dam/a/777/f3d9afc3-e8c3-4c9f-b87a-66c325fd9777_20511_EVENT_DETAIL_PAGE_16_9.jpg" border="0" alt="Halestorm" width="100" height="73" class="resizetofull" /></td>
+ <td align="left" valign="top" bgcolor="#FFFFFF" style="padding: 10px 0;"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="font-size:14px; font-family: Arial, Helvetica, sans-serif; color: #848484;"><a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0V2dE5hbWVfMDUwMDRFQ0JENDE3NTE3MiZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vZXZlbnQvMDUwMDRFQ0JENDE3NTE3Mj93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1JlY19FdnROYW1lXzA1MDA0RUNCRDQxNzUxNzI=">Halestorm</a><br />LC Pavilion<br />
+ Wed, Sep 30, 2015 </td>
+ </tr>
+ <tr>
+ <td style="padding:10px 0"><div> 
+ <!--[if mso]>
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkQ0MTc1MTcyJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDQkQ0MTc1MTcyP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkQ0MTc1MTcy" style="height:30px;v-text-anchor:middle;width:120px;" arcsize="10%" stroke="f" fillcolor="#009cde">
+ <w:anchorlock/>
+ <center>
+ <![endif]--> 
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkQ0MTc1MTcyJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9ldmVudC8wNTAwNEVDQkQ0MTc1MTcyP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfUmVjX0NUQUJ0bl8wNTAwNEVDQkQ0MTc1MTcy"
+style="background-color:#009cde;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:30px;text-align:center;text-decoration:none;width:120px;-webkit-text-size-adjust:none;">See Tickets</a> 
+ <!--[if mso]>
+ </center>
+ </v:roundrect>
+<![endif]--></div></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ <!--	<tr>
+ <td valign="top" align="center" class="vertpadding" style="padding:20px 0;">
+ </td>
+ </tr>-->
+<tr>
+ <td style="padding: 30px 0 10px; font-size: 24px; color: #414141;" align="center" bgcolor="#efefef">Get Tickets To Hot Events</td>
+</tr>
+<tr>
+ <td style="padding:15px;" align="center" bgcolor="#FFFFFF">
+ <table border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td align="left" valign="top" class="templateColumnContainer">
+ <table width="284" border="0" align="left" cellpadding="0" cellspacing="0" class="table100 padtop0">
+ <tr>
+ <td align="left" bgcolor="#FFFFFF">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfTXVzaWMmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL3d3dy50aWNrZXRtYXN0ZXIuY29tL3NlY3Rpb24vY29uY2VydHM/Yz1FTUxfVE1fUlRfV2VsY29tZV9NdXNpYyZ3dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX011c2lj"><img src="http://media.ticketmaster.com/en-us/img/email/cend/Cat_Music_284x284.jpg" width="142" height="142" /></a>
+ </td>
+ <td align="left" bgcolor="#FFFFFF">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfU3BvcnRzJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9zZWN0aW9uL3Nwb3J0cz9jPUVNTF9UTV9SVF9XZWxjb21lX1Nwb3J0cyZ3dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1Nwb3J0cw=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/Cat_Sports_284x284.jpg" width="142" height="142" /></a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ <td align="left" valign="top" class="templateColumnContainer">
+ <table width="284" border="0" align="left" cellpadding="0" cellspacing="0" class="table100 padtop0">
+ <tr>
+ <td align="left" bgcolor="#FFFFFF">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQXJ0cyZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vc2VjdGlvbi9hcnRzX3RoZWF0ZXI/Yz1FTUxfVE1fUlRfV2VsY29tZV9BcnRzJnd0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfQXJ0cw=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/Cat_ArtsTheater_284x284.jpg" width="142" height="142" /></a>
+ </td>
+ <td align="left" bgcolor="#FFFFFF">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfRmFtJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly93d3cudGlja2V0bWFzdGVyLmNvbS9zZWN0aW9uL2ZhbWlseT9jPUVNTF9UTV9SVF9XZWxjb21lX0ZhbSZ3dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0ZhbQ=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/Cat_Family_284x284.jpg" width="142" height="142" /></a>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+</tr>
+ <tr>
+ <td style="padding: 5px;" bgcolor="#EFEFEF"></td>
+ </tr>
+<!-- <tr>
+ <td class="paddingTB-5" style="padding-bottom: 2px; border-bottom: 1px solid #cccccc; border-top: 1px solid #cccccc;" align="center" bgcolor="#EFEFEF"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td align="left" valign="middle" bgcolor="#EFEFEF" class="templateColumnContainer noborder"><table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td class="paddingTB-5" style="padding: 10px 0 10px 15px; font-family: Arial, Helvetica, sans-serif; font-size: 16px;">Start listening to your 90-day trial of Beats Music.</td>
+ </tr>
+ </table></td>
+ <td align="left" valign="top" bgcolor="#EFEFEF" class="templateColumnContainer"><table class="table100" border="0" align="right" cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="paddingTB-5" style="padding:10px 15px"><a href="http://www.beatsmusic.com/"><img src="http://media.ticketmaster.com/en-us/img/email/cend/ER_BeatsMusicTrial_EN_186x30.gif" alt="Start Free beatsmusic Trial" /></a></td>
+ </tr>
+ </table></td>
+ </tr>
+ </table></td>
+ </tr> -->
+ <tr>
+ <td align="left" bgcolor="#efefef" style="padding:35px 10px;"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="templateColumns">
+ <tr>
+ <td align="center" class="templateColumnContainer" style=" font-family: Arial, Helvetica, sans-serif; font-size:14px;">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9YWRfMV8yMDB4NzUmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL2Fkcy5hczR4LnRtY3MudGlja2V0bWFzdGVyLmNvbS9jbGljay5uZy9zaXRlPXRtJnBhZ2Vwb3M9NDU2JmFkc2l6ZT0yMDB4NzUmcGFnZT1ldmVudHJlbWluZGVyJmRtYWlkPTI1OSZtYWpvcmNhdGlkPTEwMDAxJm1pbm9yY2F0aWQ9MzEmYXJ0aXN0aWQ9OTE4NjgwJnZlbnVlaWQ9NDE1NTQmZXZlbnRpZD0wNTAwNEVDOTdERTcxMjBGJmxhbmc9ZW4tdXMmcHJvbW90ZXI9MzQ4JlRyYW5zYWN0aW9uSUQ9MTE1NDU5MzEyNz93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QmFkXzFfMjAweDc1" class="ad"><img src="http://ads.as4x.tmcs.ticketmaster.com/image.ng/site=tm&pagepos=456&adsize=200x75&page=eventreminder&dmaid=259&majorcatid=10001&minorcatid=31&artistid=918680&venueid=41554&eventid=05004EC97DE7120F&lang=en-us&promoter=348&TransactionID=1154593127" width="200" height="75" border="0"/></a></td>
+ <td align="center" class="templateColumnContainer" style=" font-family: Arial, Helvetica, sans-serif; font-size:14px;">
+ <a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9YWRfMl8yMDB4NzUmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL3Byb21vLnRpY2tldG1hc3Rlci5jb20vbWluaW1hc3Rlcj9hY19saW5rPUNNUF9taW5pX2VtX3JlbWluZCZ3dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QmFkXzJfMjAweDc1" class="ad"><img src="http://media.ticketmaster.com/en-us/img/email/cend/PA_MiniMaster2015_EN_200x75.jpg" width="200" height="75" border="0"/></a></td>
+ </tr></table>
+ </td>
+ </tr>
+<tr>
+ <td align="left" bgcolor="#efefef" style="padding:10px 10px 10px;"><p style="font-size:12px; color: #414141; line-height: 18px; margin: 0;"> <span style="font-size: 18px; color: #414141;">Questions?</span><br />
+ <a class=".applelinks" style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQ29udGFjdF9VUyZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vaC9jdXN0b21lci1zZXJ2aWNlLmh0bWw/d3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9Db250YWN0X1VT">Contact us</a> or find your answer in our <a style="text-decoration: none; color: #009cde;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfRkFRcyZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vaGVscC50aWNrZXRtYXN0ZXIuY29tP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfRkFRcw==">FAQs</a><br>
+ Or write to us: Ticketmaster, Attn: Fan Support | 1000 Corporate Landing | Charleston, WV 25311</span></p></td>
+</tr>
+<tr>
+ <td align="left" bgcolor="#efefef" style="padding: 10px 15px;"><p class="fourteen" style="font-size:18px; color: #414141; margin:0 0 .5em 0">Follow Us.</p>
+ <table border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfRmFjZWJvb2smVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL2ZhY2Vib29rLmNvbS9UaWNrZXRtYXN0ZXI="><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Facebook_2x_88x88.gif" alt="facebook" width="44" height="44" border="0"/></a></td>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVHdpdHRlciZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vdHdpdHRlci5jb20vdGlja2V0bWFzdGVy"><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Twitter_2x_88x88.gif" alt="twitter" width="44" height="44" border="0"/></a></td>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfWW91VHViZSZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnlvdXR1YmUuY29tL3VzZXIvdGlja2V0bWFzdGVy"><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Youtube_2x_88x88.gif" alt="youtube" width="44" height="44" border="0"/></a></td>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfR29vZ2xlUGx1cyZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwczovL3BsdXMuZ29vZ2xlLmNvbS8xMTUyNzQ0MTE0MzkzNzIzMDAwNzI/cHJzcmM9Mw=="><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_GooglePlus_2x_88x88.gif" alt="google+" width="44" height="44" border="0"/></a></td>
+ <td style="padding-right: 10px;"><a href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfSW5zdGFncmFtJlU9MTgxMzQ5NTQwJk09MSZCPTIuMCZTPWh0dHA6Ly9pbnN0YWdyYW0uY29tL3RpY2tldG1hc3RlciM="><img src="http://media.ticketmaster.com/en-us/img/email/cend/LCPA_2014_Instagram_2x_88x88.gif" alt="instagram" width="44" height="44" border="0"/></a></td>
+ </tr>
+ </table></td>
+</tr>
+ <td align="left" bgcolor="#efefef" style="padding: 10px;">
+ <p style="font-size:11px; color: #414141; line-height: 18px; margin: 0;">
+ <a style="text-decoration: none; color: #414141" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVE0mVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL3d3dy50aWNrZXRtYXN0ZXIuY29tP3d0Lm1jX2lkPUVNTF9OVEY1ODgyNF8xJTVCRVJfVE0=">Ticketmaster</a> |
+ <a style="text-decoration: none; color: #414141" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfQWJvdXQmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL3d3dy50aWNrZXRtYXN0ZXIuY29tL2Fib3V0L2Fib3V0LXVzLmh0bWw/d3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9BYm91dA==">About</a> |
+ <a style="text-decoration: none; color: #414141; white-space: nowrap;" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfVE1fVGVybXMmVT0xODEzNDk1NDAmTT0xJkI9Mi4wJlM9aHR0cDovL3d3dy50aWNrZXRtYXN0ZXIuY29tL2gvdGVybXMuaHRtbD93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX1RNX1Rlcm1z">Terms of Use</a> |
+ <a style="text-decoration: none; color: #414141" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfUHJpdmFjeSZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vaC9wcml2YWN5Lmh0bWw/d3QubWNfaWQ9RU1MX05URjU4ODI0XzElNUJFUl9Qcml2YWN5">Privacy</a> |
+ <a style="text-decoration: none; color: #414141" href="http://ntr.ticketmaster.com:80/ssp3/?Z=Qz01ODgyNF8xJlI9RVJfSW50bCZVPTE4MTM0OTU0MCZNPTEmQj0yLjAmUz1odHRwOi8vd3d3LnRpY2tldG1hc3Rlci5jb20vaW50ZXJuYXRpb25hbD93dC5tY19pZD1FTUxfTlRGNTg4MjRfMSU1QkVSX0ludGw=">International</a> <br />
+ &copy; 2015 Ticketmaster. All rights reserved.
+ </p>
+ </td>
+</tr>
+ </table>
+ </td>
+ </tr>
+</table>
+</body>
+</html>
+

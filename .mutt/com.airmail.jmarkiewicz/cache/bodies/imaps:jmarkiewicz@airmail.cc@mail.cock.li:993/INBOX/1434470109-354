@@ -1,0 +1,142 @@
+Return-Path: <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 67.231.149.77)
+	smtp.mailfrom=battelle.org; lists.osu.edu;
+	dkim=none (message not signed)
+	header.d=none;lists.osu.edu; dmarc=bestguesspass action=none
+	header.from=battelle.org;
+Received-SPF: Pass (protection.outlook.com: domain of battelle.org designates
+	67.231.149.77 as permitted sender)
+	receiver=protection.outlook.com; 
+	client-ip=67.231.149.77; helo=mx0a-0013ba01.pphosted.com;
+From: "Toterhi, John V" <TOTERHIJ@battelle.org>
+To: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Thread-Topic: RPISEC MBE Lab 5 Recap (DEP & ROP)
+Thread-Index: AdEXBj7j083hM/5SQzexSa0Ok0xp7w==
+Date: Wed, 4 Nov 2015 14:22:46 +0000
+Message-ID: <BA9E8CFA4826F54C825938B752C2F30B363D02B6@WP-MBX2B.milky-way.battelle.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:, ,
+	definitions=2015-11-04_09:, , signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+	suspectscore=0
+	malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+	adjust=0 reason=mlx scancount=1 engine=8.0.1-1507310000
+	definitions=main-1511040262
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11FD034;
+	1:thE/4TX47Fb81VWIyuDx+wwte9JAzGcXTu0fUH3KlMnRYoh63RStve13Xth0CZzjUEoPrIu3xyxCPJ4keNmnUHKzF1NwJjib0iyW9oiEbav67CCOPdH9IcwJU6yBUkv+LOmAUjxi2icvymjtjxAoYHZaO+D+htPGFOCueIkAsxFmoSJ+QCIyq/zXj85IEPu778QNkxvH4Yyg5zI5XN4V78osNP+DvTTNhW7i3yRbIrEeS1r8uecps/eDEa45dl3cRnpr9EeZbfT+ix0g9TkaRP5Z6sQrNxZ23yGfFOceVbTDoFP6RcaJPRDABxANYOO4fTbfZXMMSW+RsPJIR+7q0WFKlRt2MxzQJfLnuEXUFrtI9H3mIjcS4rYHp538UbbWpVB9e+79PdFHDyxNzhvcBQ==
+X-Forefront-Antispam-Report: CIP:67.231.149.77; CTRY:US; IPV:NLI; EFV:NLI;
+	SFV:NSPM;
+	SFS:(6009001)(2990300002)(438002)(199003)(53754006)(152014003)(189002)(47776003)(2930100002)(2501003)(450100001)(2351001)(575784001)(5001920100001)(229853001)(6806005)(5008740100001)(106466001)(33656002)(86362001)(2171001)(55846006)(5003600100002)(50986999)(189998001)(19580405001)(54356999)(110136002)(15975445007)(566704002)(92566002)(5001970100001)(50466002)(77096005)(23756003)(102836002)(107886002)(2900100001)(2920100001)(5004730100002)(19580395003)(7099028)(217873001);
+	DIR:INB; SFP:; SCL:1; SRVR:BL2FFO11HUB041;
+	H:mx0a-0013ba01.pphosted.com; FPR:; SPF:Pass;
+	PTR:mx0a-0013ba01.pphosted.com; A:1; MX:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	2:08Sys0r3javrocgNJItSNIcEPa+hfVXCYcc7pjVhTzbyM44t6c5b0NKH+4y9Q7pnjzPdmnJH+BmQL842T7wxSlqoOSW6zy73tQMtGxxOI6G5IeHd86LASnzq4dlMzYo1FdXjfnP8Vyt/DAzPUbSyvV9PD1L85cxPEcec30HA/Fs=;
+	3:r/DKJCbxhEmLxsb3DuTRCxwToRA9VxKLTExp7FmdK4B4fIUcItrf4rdNvzVAIhuucKg5v5kUynWYPA5BGgVRoKGN+GebgSwfJFISgABGLtw7mePPN0CWDq4G1486D/c7/55PlKwUeB+wJmPZOXLWNE0nev1MooTQmiqTAeQMlR8jJC9l6+chiJ8ODEiDb/MJCy6JlaOKpyMqj4GSpy3K9CWu3lb/NgSOmI9ZTOrVpqsRScNzzf8ZrquudBb8zudYWhBi6Ype0bzcD2WNLYsSlTnf7CjX6Od0kRnqJqZ74Um/A0qxMNR8t6tbjQuACIhl;
+	25:ImtZRJz2NSAOcwo7G8bbBZm48QfgXDpsiib1VD9qkOS+P7ifcmuw5km3C/C1P6AKfYtb0mT6npUyB4CzxuO4iamgWEoZi7mX1JENzfzaYVNq4o9vNHRS9fEzh0J3zdn6f8CooFaiezshKHtXlm37LZR0dQuFgYoXn8Ksx4tOKDq4D8Um8L1ma/UB72MY8G+copAdmn27/B+HFmAgp5Lgv72EaFlrZ4qk83burhnFXuynRgWeHB/h36afQC0DRJTSYfO0k4oUOMPGBXj5YnQa5g==
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0;
+	RULEID:(8251501001)(71701003)(71702001); SRVR:BL2FFO11HUB041; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	20:zslWGZerWX4c+gWktptjdx6spKBZXayzcxPOVXs/XCYe6VbI0j/xXOrpJu5xPy5f35o2tLbpGr0YAbcIGiFAWp4PbsxD2egQS+qtyexf7ILn90SCMDLvbOXA8s+B6pmpwiq//QpIPjlQXp3YUqtnMkhggSradPfb5uv/oXL0tjKITyUW7C0M3fNEl0b8bVUzamWMZ0AIFL2A7STW5rKl0BCNePp64ozdZB2v3aBgEUiBXRt3egBxApg4oRFKnbx3CuFMjz50SzvwGxJqOTHVBgyYgX9fejgXB6tzgiV5UJjaGEyiZ51I93Zujjlq9cy/92ymrEK4dqPGA5CAZdfiBrcQ3bPn5H4RiwEKwNfGZ2WGk+AUAUX5cJYwyPOoEBo1/iNMG4Z7F/nSQ0cuk0UM9/RNsLyoGGYWBFBTHqWWem6GUXh+yIEsXDQN5Ht2sOeEBzpKc6E4w9rC89V4UDnILhaUGKfUJY55fioPNk1sjB2Z2n/uQelz/u1JtB1G+mxR;
+	4:soN3jQGYpCHgaTGysMF+/pYAvE0bY3YJJgpNKwt8J3ldit6Job+YtTIpZlWSvuPuazoJ2dymXWTNhSUfoRoWu+3vY/urfazMUCJe9OVgjpyPGQ9ZCG/PrutQI3sFEjb4z9YIMS87u+NPmdLE6JGuxXv9uEvs7AcSZzTGjoJb/ohu8k9wP1kBgXE9+PZESc9LPMtmKcs82f5cJ25xBveLCjhX1iL9O7Ef1ynM9zL3+eBR3NsOaJ2n6kfo4w0cfZSYlM2x9Bi4VVpkZMpHtBeNyi9v2hdFMMIm4bFS9DJPRXnbd7RNyUIZUits7P+9EAKpCs8ySXG3ap40HAuHt5ABzmvCejEfpwgxPHlgx2I1aItbSPDGk3gcatNgm3i5kBW2
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(601004)(2401047)(520078)(8121501046)(10201501046)(3002001);
+	SRVR:BL2FFO11HUB041; BCL:0; PCL:0; RULEID:; SRVR:BL2FFO11HUB041;
+X-Microsoft-Exchange-Diagnostics: =?iso-8859-1?Q?1; BL2FFO11HUB041;
+	23:fI9HJhuSxpZ3Pyyp0vCwXROzAD4TduSjFqrgyl?=
+	=?iso-8859-1?Q?UBZW43d9fRSiAo7CKaKcW8ySH17GxNh2t5ZvNOp7Nrr3GvqyEfzW5O0V9Y?=
+	=?iso-8859-1?Q?nK4MUJNevtGkGpW/eezl3MA/DcmV0QzHb8/Q6s/8j8lkK9qJW+BXthB87n?=
+	=?iso-8859-1?Q?58kyembwCl4FKuNTeavjbE4n8QPhFWKKXOYsxSr6UsHrZkEAmDel9SVTsk?=
+	=?iso-8859-1?Q?tZz9AytJt9tmFhqlhxBYV46YtVqdZlsXj5p/EXHCbWc0ORARJ6F9cG2yVX?=
+	=?iso-8859-1?Q?cUzh+fAZgJZ6XoiLS2ifBZ1PaIcF2b1AdMl34uEH3kHW71T5FYnyplgara?=
+	=?iso-8859-1?Q?t+rzJ/kCn2lD8XbLj5VGmJNPi3a0dd/9Ixj2tGl51q8YUsGZoY1xIg8A1V?=
+	=?iso-8859-1?Q?H7+AVXLm0vdUlVP+fLwXK5e/8KEK6fJZh46NfgPPX85mw5HLRDRgMurUba?=
+	=?iso-8859-1?Q?uRBFNlFow3pl6sFxG2hM7SO4TQApVK1kKmz5UcbUbjrTit79DBtlj/vvf+?=
+	=?iso-8859-1?Q?JtlcHhktakceolhKtzjvHGTn2XiLLcbT0mSiK9AzLpdsfFQiJvVYhaTP5O?=
+	=?iso-8859-1?Q?9khliyyHM5xYX++bbiFqqBpKs0Qllrdo3+v+uKIvsEb8vyniB7FmtqELZg?=
+	=?iso-8859-1?Q?nhSq25MhWJn42heW2wj5qhDfdUjBwQ5Pxq/cJjdqO/rXqSZBAxzwUda48h?=
+	=?iso-8859-1?Q?8ZQTruf/5loo+4aTivD5AknsQHGD0rBVoSJMLqOa4a8GkZ6IQEIm3fJ8Jk?=
+	=?iso-8859-1?Q?25NX09t6TRNWiV4L49rfvnl+OA07Eg7nr7Xlbrq5fpQTwmobi7I09bFpSj?=
+	=?iso-8859-1?Q?eJhm0cXOvt3c5S25AlpbhfdKOxx40FhjePK/+EMN5kjBPuX4nUi+Oe7R4w?=
+	=?iso-8859-1?Q?LH9bOjSZUkgNicxp29VfcUH5lOAQT7H+ONq2RTVQWiICjZpVQG4BzXsrKd?=
+	=?iso-8859-1?Q?Lg2oeu3t5ug0pZLLr+h/VCFfXYp1SG+VT+ZWuW7aYPOftcQWr2vTlI4YFW?=
+	=?iso-8859-1?Q?xKDr6bRsSfnqizB9bvBxt24omSMg21PdS3U/N5MlA12bX91uE9rHx382JK?=
+	=?iso-8859-1?Q?WSVV/7zKEIybjr0pjd4j7M4kD5oj6EpNPTWweCq6zlU+jpcrfg334nCMN4?=
+	=?iso-8859-1?Q?PHbsRyjTpW5bVP4uip3kx07a2t1G8T8N4OA+52dzi0yIMMANTr82unfJJG?=
+	=?iso-8859-1?Q?KJuIdvugW5IT3mArDK0mHOtqC9k6Bx4tQA=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB041;
+	5:CbAp6gsXwi8vCsYcXisX2M5EQ7O+QWSG7CDVfY12zxHUzvic6FclaHAO4azvvvc7goEV5fDHlne60W6uGUnAMRkZHJbK8T4vD1FLGiFu+Nhxjw0QY235WA+AxndVSnLz3umL26dg1RH0qrLj+qaryg==;
+	24:pInz6b3qUIDOHnN7ps3SQvU5bn4skgn1/FOnDKmipfdSpdi2A5WjUVIdppy70rh781Gc/APRf4J/dnn5g3nAyqcj/LMDNWhoQi78/fSSphQ=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Nov 2015 14:22:49.4090 (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2FFO11HUB041
+Subject: [Osu-ctf] RPISEC MBE Lab 5 Recap (DEP & ROP)
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Errors-To: osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+
+Hello everyone,
+
+So last night we learned about DEP and ROP by exploiting a program which uses a non-executable stack (DEP enabled). We did this by using a simple, but not always possible method called return to libc, or ret2libc. We essentially pointed execution into libc's system() function with a pointer to "/bin/sh" to gain a shell.
+
+A lot of people encountered a problem where their exploit caused the lab5C binary to segfault, even though you were confident your exploits were correct. This is due to the fact that stdin closes as soon as gets() is finished reading input from it. So what actually happening is gets() reads our exploit from stdin, we ret2libc and open a shell, but stdin immediately closes taking our shell access with it, the junk return pointer we put in our exploit then caused the application to crash.  To get around this, we need to keep stdin open. This is one common way:
+
+cat <(python -c 'print "<exploit code goes here>') - | ./lab5C
+
+The spacing in this cat <() - | ./binary command is very important. This will cause stdin to remain open until you explicitly end your shell session. Once you exit your shell, the application will continue on and crash. Again, it crashes because we just slapped in some random values for a return address. It is completely possible to exit cleanly or recover from this exploit, but it doesn't matter for our purposes.
+
+The ret2libc method is nice because we can get a shell without creating complicated ROP chains with whatever gadgets we happen to find. Since we only got through ret2libc last night, I've received several requests to spend another week on DEP & ROP. So next week will be DEP & ROP continued.  We'll search for gadgets and construct a legitimate, super sweet ROP chain to exploit the process. No system() for you! :)
+
+Here's the recap and preview:
+
+Lab 5. DEP & ROP
+- We learned that Data Execution Prevention protects memory segments in the Stack and Heap from being both writable and readable.
+- We learned how to check DEP status of a given program on Linux and Windows.
+- We learned that we can return to arbitrary locations (such as system()) with a primed stack to execute any imported function we want. This is how we got our shell.
+- We learned how to search memory for useful strings like "/bin/sh"
+- We learned how to keep stdin from closing and taking away out shell before we could use it
+
+Lab 5. DEP & ROP Continued
+Next week when we revisit DEP and ROP we will have a quick recap of ret2libc and start on lab5B.  I'll work with anyone who missed this week so you can quickly catch up. We will have to search for ROP gadgets and write our own ROP chain which executes a shell. We can model our chain by writing it to mimic shellcode on shell-storm. After completing lab2B you will have a very solid foundation in writing ROP chains to bypass DEP.
+
+Have a great week!
+
+OSU-CTF Site: https://u.osu.edu/osuctf/
+Hours: 7-9 PM every Tuesday
+Location: Ohio State Main Campus, Dreese Labs 263
+Dropbox link: https://goo.gl/jT9Iij
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org<https://webmail.battelle.org/owa/redir.aspx?C=cFuZE5RvoEmiYRfm91H-bhQBBGL-N9EI8B9_OPfSmRR0_uq9EpPXOWX0a3tiFooUZy1gle1ko8c.&URL=mailto%3atoterhij%40battelle.org>
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf

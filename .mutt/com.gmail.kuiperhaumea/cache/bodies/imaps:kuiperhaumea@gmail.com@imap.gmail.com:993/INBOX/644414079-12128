@@ -1,0 +1,101 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp1917488oia;
+        Mon, 29 Jun 2015 12:12:38 -0700 (PDT)
+X-Received: by 10.180.187.232 with SMTP id fv8mr26244699wic.28.1435605158170;
+        Mon, 29 Jun 2015 12:12:38 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22d.google.com (mail-wg0-x22d.google.com. [2a00:1450:400c:c00::22d])
+        by mx.google.com with ESMTPS id em3si14363564wib.90.2015.06.29.12.12.36
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 12:12:37 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22d as permitted sender) client-ip=2a00:1450:400c:c00::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22d as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@eldarion.com;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wg0-x22d.google.com with SMTP id u7so147712573wgu.3
+        for <kuiperhaumea@gmail.com>; Mon, 29 Jun 2015 12:12:36 -0700 (PDT)
+X-Received: by 10.194.87.4 with SMTP id t4mr33692840wjz.84.1435605156626;
+        Mon, 29 Jun 2015 12:12:36 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1694504wmd;
+        Mon, 29 Jun 2015 12:12:35 -0700 (PDT)
+X-Received: by 10.42.226.8 with SMTP id iu8mr20457028icb.17.1435605155166;
+        Mon, 29 Jun 2015 12:12:35 -0700 (PDT)
+Return-Path: <bounces+671425-507d-markiewicz.john=gmail.com@email.eldarion.com>
+Received: from o192254122123.outbound-mail.sendgrid.net (o192254122123.outbound-mail.sendgrid.net. [192.254.122.123])
+        by mx.google.com with ESMTPS id z3si8314289igl.13.2015.06.29.12.12.33
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 12:12:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+671425-507d-markiewicz.john=gmail.com@email.eldarion.com designates 192.254.122.123 as permitted sender) client-ip=192.254.122.123;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=eldarion.com; 
+	h=mime-version:subject:from:to:content-type; s=smtpapi; 
+	bh=YzB1BdC1uxLwkNP6/MC4kxb70po=; b=Sn8l/JDQJvRu6By2MdZapDyaV0tLJ
+	QopechgLQ7q5VGzKndkCt4D0ka1q3NXq5AvPmowmZBsRd0V6nh4MtYEl5Jnj7iXR
+	m6h4NviuTYLLlvFlMgpPtu8Frt6fr8/nX9z43b93qE2XDN/8mjM+07xj2Lb5FjL/
+	vbxz18OkfeKMsE=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=mime-version:subject:from:to:content-type:x-feedback-id; 
+	s=smtpapi; bh=YzB1BdC1uxLwkNP6/MC4kxb70po=; b=m1wCzZivMjGSyiuBN0
+	Aq7ETM5hx7F5yU9ZOuZuzGSMKZ0/dW6dpfqFnqRen3BT2Wxy2fCY11mBRBO+lAe/
+	IL2mid8vIBCKnq42hVRlWlAOXCUf9G1atTUAK3+zSkHPKADQUgWIaPuwmNyEuVUW
+	v9b8JtNiQ6XJMTw73CfYuaRAU=
+Received: by filter0435p1mdw1.sendgrid.net with SMTP id filter0435p1mdw1.19240.5591989FB
+        2015-06-29 19:12:31.596369002 +0000 UTC
+Received: from w1-o1-d330 (unknown [104.130.201.28])
+	by ismtpd-050 (SG) with ESMTP id 14e40bc2f6f.10db.e50be
+	for <markiewicz.john@gmail.com>; Mon, 29 Jun 2015 19:12:31 +0000 (UTC)
+MIME-Version: 1.0
+Subject: Your talk is a standby talk
+From: info@pyohio.org
+To: markiewicz.john@gmail.com
+Date: Mon, 29 Jun 2015 19:12:31 -0000
+Message-ID: <20150629191231.8347.41538@w1-o1-d330>
+Content-type: multipart/alternative; boundary="----------=_1435605151-25095-9"
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGi/45jIWXaeS4VoE/DZD+fa0bQCr5qhLcmCX
+ UICsb1YOohD5QTIAPMxJ64ZwrbyZtcPzC/KK5E19zV1KBYCfmLskdaYJYr875hZULcMQIZbv6lu3yF
+ mCwOnsCzArNiLMgDYITWCSCNY2K4a5xMgVLG
+X-Feedback-ID: 671425:9810xz1AfKaCwinorSc8bDrXERIB2IKGuch5RtbClfg=:9810xz1AfKaCwinorSc8bDrXERIB2IKGuch5RtbClfg=:SG
+
+This is a multi-part message in MIME format...
+
+------------=_1435605151-25095-9
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hey John Markiewicz --
+
+Your talk
+
+    I Could Have Wordled This Better
+
+is on the standby list.  Which means that if we get an opening in the schedule, we will ask you if you can step in.
+
+Also, you're in good company.  Both of my talk proposals ended up here too!
+
+Also, if you really want to give your talk, then sign up for an open space when you get to PyOhio.  We have two rooms set aside for self-organizing groups.
+
+Frankly, doing an open space talk is in my opinion way cooler anyhow.
+
+------------=_1435605151-25095-9
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Hey John Markiewicz &mdash;</p>
+<p>Your talk</p>
+<pre>I Could Have Wordled This Better</pre>
+<p>is on the standby list.  Which means that if we get an opening in the schedule, we will ask you if you can step in.</p>
+<p>Also, you're in good company.  Both of my talk proposals ended up here too!</p>
+<p>Also, if you really want to give your talk, then sign up for an open space when you get to PyOhio.  We have two rooms set aside for self-organizing groups.</p>
+<p>Frankly, doing an open space talk is in my opinion way cooler anyhow.</p>
+
+<img src="http://email.eldarion.com/wf/open?upn=fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3K7IKFu9XspkcZz7SwroXq-2B2rSnVv8EQ1cja92AGiH95Q4jyl2zOoKaz1FCJVoE1SrRn0uQ-2F6Cp7eGDoSLwBGT4JCi0wxK9hSBqQLgQvBgiyvpe9kqzjlXKi9u9HPtO88q4Cgypp7kGQPwmjyRwm9Uq3yp7XWG6ngoZa9bNGq3uuLbJ8ITfvzTZIMeCxQLQXA-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>
+</body></html>
+
+------------=_1435605151-25095-9--

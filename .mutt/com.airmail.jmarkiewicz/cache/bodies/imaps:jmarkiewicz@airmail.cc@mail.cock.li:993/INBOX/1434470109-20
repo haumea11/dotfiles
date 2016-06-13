@@ -1,0 +1,74 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:content-transfer-encoding;
+        bh=po8F/If43nVVNasjGO0UaKXMz61G0mHV8gvmYt6Lkow=;
+        b=HyWXUY2Mcse7UzdNWRMD5U3gTVrlVXGb4dAdrrosFy61ogleRl5gP04K88hKzQXFIm
+         cSAkLCFDPBwnKVzldLSmWarmNDtFAuD7x5T5EVHfma2G/TyrtaG+6nbc8XDOTFAzKc3G
+         u7eihn27DUCfU26tyPeip0IiQlWouo62Y/11aIj9x1PP5aPqpBIpayZEw03T7ffLiYrN
+         3TWqaalQ1mW4stJDC9xj1nXx6K8FYnIUfvznKupfP7X2Uvufsu/UabJTxlx801at3oRt
+         2lszYWhrHYB7gBw3ErFeu6GjY6hHHKKxxU6it3bcTcwIXnbgiAvR7o4TqfMeuW3EBHbj
+         WT1g==
+X-Received: by 10.50.73.225 with SMTP id o1mr50802igv.18.1436040473364;
+        Sat, 04 Jul 2015 13:07:53 -0700 (PDT)
+Message-ID: <55983D16.4000700@gmail.com>
+Date: Sat, 04 Jul 2015 16:07:50 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: Re: Why you should be against GNU userland
+References: <55983A9B.5000207@airmail.cc>
+In-Reply-To: <55983A9B.5000207@airmail.cc>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP MESSAGE-----
+Charset: utf-8
+Version: GnuPG v2
+
+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
+5umS
+=VZyQ
+-----END PGP MESSAGE-----

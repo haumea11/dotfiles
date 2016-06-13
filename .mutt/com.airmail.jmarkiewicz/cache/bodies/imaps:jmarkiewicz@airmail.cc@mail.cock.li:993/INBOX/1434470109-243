@@ -1,0 +1,206 @@
+Return-Path: <cjoyce@cdeducation.org>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=fupZyz+LTSqrlZTyo15Cfn+2i+OeMMhTDBUhpqLUE+M=;
+        b=QlDo7XbnLqWzsIZ9dFZWSyKwevDSSn9jX5gnc/XP2ckCZkQk8ZrtSUXzXNKgnFySMB
+         EvhF8ZEivyGUsjsdZbbfXrkVY3XSnueJuO46PJTu4c0H21PvBrYM9rdD0xb83I6xPrVC
+         zl7Cn6nFNoaHncqM+O1qP0d+Jy1eA+eomAeFB1VIxuDAH0Mcnmj3f+Q5XX+ZXkAHrczg
+         FVCmjtALimt/0rYdmMzsU9D989R9bCt3p+wrNWdUToBsHUxs8U6Ojd6UrKbfTTAyXGNM
+         GYjvR9giaIW0ATJxNAt8Gw9Snp4oPaBi5miEf5z2Z2U+oCB3266t6ArXP/GgwlMrbvCI
+         tW5Q==
+X-Gm-Message-State: ALoCoQlRjwuE2MXaYxs8sOcZdmB/QE/hI5lMLe0QrvsmTA7FFyjKnIUSL1Z3Sv5tuOjELSGFnsku
+MIME-Version: 1.0
+X-Received: by 10.31.171.142 with SMTP id u136mr12309498vke.132.1443837805062;
+ Fri, 02 Oct 2015 19:03:25 -0700 (PDT)
+Date: Fri, 2 Oct 2015 22:03:25 -0400
+Message-ID: <CAGs8aKrMAVPsGqMmdAMmtA8eAbvUPyPJfyF7i1zG9Rzv89F=pw@mail.gmail.com>
+Subject: October Choir Update
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: Abby Demboski <dembo@columbus.rr.com>, Alex Bryant <barry.bryant@prodigy.net>, 
+	Alison Lang <aliswanco@gmail.com>, Alison Lang <mjlang4@gmail.com>, 
+	Anna Ehret <jaehret1991@aol.com>, Carly Griffith <cgriffith333@gmail.com>, 
+	Carly Griffith <jprindler@columbus.rr.com>, Carly Stang <carly.stang1@gmail.com>, 
+	Carly Stang <stanger1@yahoo.com>, Carly Stang <tstang@fultoncommunications.com>, 
+	Caroline Golonka <deniseg0328@yahoo.com>, Chris Carter <ccarter51@gmail.com>, 
+	Chris Carter <mcloughlin.1@osu.edu>, David Skulich <jskulich@columbus.rr.com>, 
+	Dylan Murphy <elizabeth.murphy@johnsonelectric.com>, 
+	Dylan Murphy <murph255@columbus.rr.com>, Elizabeth Reiser <rrieser513@yahoo.com>, 
+	Ellena Yohannes <nlijam@cscc.edu>, Ellena Yohannes <yyohannes@ymail.com>, 
+	Elliot Stevens <kmstevens@columbus.rr.com>, Emily Kring <dkring4@gmail.com>, 
+	Emily Kring <E.kring36@gmail.com>, Emily Kring <jkring@columbus.rr.com>, 
+	Emma Koehler <e.koehler00@gmail.com>, Emma Koehler <lizkoehler217@yahoo.com>, 
+	Evan Rasor <rasor451@sbcglobal.net>, Ginny Pajor <kathypajor@yahoo.com>, 
+	Ginny Pajor <ppajor@yahoo.com>, Hayley Hoying <mhoying@insight.rr.com>, 
+	Jacob Erney <trerney@yahoo.com>, John Markiewicz <jmarkiewicz@airmail.cc>, 
+	John Markiewicz <shannon.markiewicz@gmail.com>, Jullian Fountain <ellyn.fountain@gmail.com>, 
+	Jullian Fountain <fountainjillian@gmail.com>, Jullian Fountain <kurt.fountain@gmail.com>, 
+	Justin Weltin <jkjweltin@aol.com>, Justin Weltin <jweltin2@gmail.com>, 
+	"Kathryn O'Sullivan" <ironcad.3@gmail.com>, "Kathryn O'Sullivan" <mosulliv@cdeducation.org>, 
+	Lauren Putz <beth@khptel.com>, Lizz Turnbull <clairemedic@aol.com>, 
+	"Makaela O'Reilly" <1970sue@sbcglobal.net>, "Makaela O'Reilly" <bernie@secondchancecolumbus.com>, 
+	"Margaret O'Brien" <danobrien35@aol.com>, "Margaret O'Brien" <jloobrien@aol.com>, 
+	"Margaret O'Brien" <mobrien74@gmail.com>, Matthew Kent <cokent@cdeducation.org>, 
+	Matthew Kent <kevin.kent@osumc.edu>, Maya Steller <jpsteller@yahoo.com>, 
+	Maya Steller <mlsteller@yahoo.com>, Megan Milam <jmilam07@gmail.com>, 
+	Michael Carmody <jmcarmody1025@aol.com>, Morgan Hull <chull@wowway.com>, 
+	Nina Buoni <tmbuoni@sbcglobal.net>, Nolan Kelly <kelly_6@att.net>, Nolan Kelly <mkelly@mecsrc.com>, 
+	Rachel Smith <rsmith46@columbus.rr.com>, Ryan Mar <2rtmar.ac@gmail.com>, 
+	Ryan Mar <cmar@cdeducation.org>, Ryan Mar <cwmar1@aol.com>, 
+	Sara Dowler <kathy.dowler@sbcglobal.net>, Sarah Bender <bendertm@yahoo.com>, 
+	Shannon Becker <becker.180@beckerplanet.com>, Shannon Becker <mbecker@beckerplanet.com>, 
+	Shannon Boyne <skittles101@columbus.rr.com>, Shannon Boyne <trsshome@columbus.rr.com>, 
+	Steven Gullo <prgcmg@gmail.com>, Steven Gullo <sgullo6599@gmail.com>, 
+	Tommy Anglim <ranglim@columbus.rr.com>, Tori Morell <jacquie_morell@yahoo.com>, 
+	Tori Morell <morell_john@yahoo.com>, Zach Uhazy <uhazy@sbcglobal.net>
+Content-Type: multipart/alternative; boundary=001a114409807c0c57052129afda
+
+--001a114409807c0c57052129afda
+Content-Type: text/plain; charset=UTF-8
+
+Hello Concert Choir Families,
+
+This is the first Choir update I've sent this school year. Just a few
+things to bring you up to date with for this month.
+
+1. All final packages of new uniforms were shipped this week, which means
+all uniforms should be sorted and given to students hopefully by the end of
+next week. This should allow time for any alterations that need to be made
+before the Eagle Auction on Oct. 31st.
+If alterations are made, please do your best to not cut any fabric off
+since uniforms are reused by other students.
+
+2. Our first fundraiser started on Thursday and runs until Oct. 15th. This
+is the Just Pies Gift Certificate Fundraiser. Information was passed out in
+class but is also available on Brain Honey under Course Resources. Students
+are encouraged to try to sell at least one Just Pies Gift Certificate for
+either a $10 or $20 amount. Just Pies has three locations and has over 35
+different varieties of pies available, homemade daily. With Thanksgiving
+and Christmas just around the corner, this is the perfect time to plan
+ahead for those family meals. Gift Certificates never expire and do not
+have to be used all at once. This fundraiser is not mandatory and students
+will also be selling Poinsettias in November. If your family would rather
+support the choir through Christmas Decor purchases, that is understood.
+If you have any questions regarding the Just Pies sale, please contact
+myself, Rhoda Anglim (ranglim@columbus.rr.com) or Denise Golonka (
+deniseg0328@yahoo.com)
+
+3. Students have the opportunity to show their Choir/Handbell Department
+Pride and earn 10 Pts. extra credit by working at 30 minute shift at the
+Fall Festival next Wednesday between 6-8. The Choral Department will be
+selling White Castle Slides and Smoothie King Smoothies!
+
+4. The Concert Choir will be performing at the Eagle Auction on Oct. 31st.
+I have not received a performance time, but I am expecting it to be around
+6-7pm. I will try to make this performance as short as possible for
+students since they will be performing the next day as well. You must have
+a ticket to the event in order to watch the students sing.
+
+5. The Concert Choir will be performing Faure's Requiem at Our Lady of
+Peace Church on Sunday, Nov. 1st at 2pm. This is a wonderful opportunity
+for student to perform a well known large-work. More information will be
+sent out soon.
+
+6. If you have any tea themed items (towels, pots, spoons, sugar, honey,
+etc.) The choir will be donating a basket of tea to the Eagle Auction. We
+currently have plenty of tea flavors. Please send in items this next week
+if you have something to donate.
+
+7. I hope you have had the chance to see a few of the video posted on the
+Choir's Twitter account. So fair they've only featured the handbell
+classes, but choir ones will begin to come out soon as songs are beginning
+to be memorized! It is a great way to see the progress your students are
+making.
+
+Have a great fall weekend!
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a114409807c0c57052129afda
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Concert Choir Families,<div><br><div>This is the fir=
+st Choir update I&#39;ve sent this school year. Just a few things to bring =
+you up to date with for this month.</div><div><br></div><div>1. All final p=
+ackages of new uniforms were shipped this week, which means all uniforms sh=
+ould be sorted and given to students hopefully by the end of next week. Thi=
+s should allow time for any alterations that need to be made before the Eag=
+le Auction on Oct. 31st.</div><div>If alterations are made, please do your =
+best to not cut any fabric off since uniforms are reused by other students.=
+</div><div><br></div><div>2. Our first fundraiser started on Thursday and r=
+uns until Oct. 15th. This is the Just Pies Gift Certificate Fundraiser. Inf=
+ormation was passed out in class but is also available on Brain Honey under=
+ Course Resources. Students are encouraged to try to sell at least one Just=
+ Pies Gift Certificate for either a $10 or $20 amount. Just Pies has three =
+locations and has over 35 different varieties of pies available, homemade d=
+aily. With Thanksgiving and Christmas just around the corner, this is the p=
+erfect time to plan ahead for those family meals. Gift Certificates never e=
+xpire and do not have to be used all at once. This fundraiser is not mandat=
+ory and students will also be selling Poinsettias in November. If your fami=
+ly would rather support the choir through Christmas Decor purchases, that i=
+s understood.</div><div>If you have any questions regarding the Just Pies s=
+ale, please contact myself, Rhoda Anglim (<a href=3D"mailto:ranglim@columbu=
+s.rr.com">ranglim@columbus.rr.com</a>) or Denise Golonka (<a href=3D"mailto=
+:deniseg0328@yahoo.com">deniseg0328@yahoo.com</a>)</div><div><br></div><div=
+>3. Students have the opportunity to show their Choir/Handbell Department P=
+ride and earn 10 Pts. extra credit by working at 30 minute shift at the Fal=
+l Festival next Wednesday between 6-8. The Choral Department will be sellin=
+g White Castle Slides and Smoothie King Smoothies!</div><div><br></div><div=
+>4. The Concert Choir will be performing at the Eagle Auction on Oct. 31st.=
+ I have not received a performance time, but I am expecting it to be around=
+ 6-7pm. I will try to make this performance as short as possible for studen=
+ts since they will be performing the next day as well. You must have a tick=
+et to the event in order to watch the students sing.=C2=A0</div><div><br></=
+div><div>5. The Concert Choir will be performing Faure&#39;s Requiem at Our=
+ Lady of Peace Church on Sunday, Nov. 1st at 2pm. This is a wonderful oppor=
+tunity for student to perform a well known large-work. More information wil=
+l be sent out soon.</div><div><br></div><div>6. If you have any tea themed =
+items (towels, pots, spoons, sugar, honey, etc.) The choir will be donating=
+ a basket of tea to the Eagle Auction. We currently have plenty of tea flav=
+ors. Please send in items this next week if you have something to donate.</=
+div><div><br></div><div>7. I hope you have had the chance to see a few of t=
+he video posted on the Choir&#39;s Twitter account. So fair they&#39;ve onl=
+y featured the handbell classes, but choir ones will begin to come out soon=
+ as songs are beginning to be memorized! It is a great way to see the progr=
+ess your students are making.</div></div><div><br></div><div>Have a great f=
+all weekend!</div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div=
+><div style=3D"margin-top:0in;margin-right:0in;margin-bottom:0pt;margin-lef=
+t:0in"><b><span style=3D"font-size:14pt"><font color=3D"#000000" face=3D"Ca=
+libri">Christen Joyce</font></span></b></div><font color=3D"#000000" face=
+=3D"Times New Roman" size=3D"3"></font><p style=3D"margin-top:0in;margin-ri=
+ght:0in;margin-bottom:0pt;margin-left:0in"><b><span style=3D"color:rgb(131,=
+11,44)"><font face=3D"Calibri" size=3D"3">Choral Director</font></span></b>=
+</p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p s=
+tyle=3D"margin-top:0in;margin-right:0in;margin-bottom:0pt;margin-left:0in">=
+<b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3"><=
+span><font color=3D"#830b2c">Bishop</font></span> <span><font color=3D"#830=
+b2c">Watterson</font></span> High School</font></span></b></p><font color=
+=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin-=
+top:0in;margin-right:0in;margin-bottom:0pt;margin-left:0in"><span><font col=
+or=3D"#000000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%28614%29%20268-8=
+671" value=3D"+16142688671" target=3D"_blank"><font color=3D"#1155cc">(614)=
+ 268-8671</font></a> x 289</font></span></p><font color=3D"#000000" face=3D=
+"Times New Roman" size=3D"3"></font><div style=3D"margin-top:0in;margin-rig=
+ht:0in;margin-bottom:0pt;margin-left:0in"><span style=3D"color:rgb(131,11,4=
+4)"><a href=3D"http://www.bishopwatterson.com/" target=3D"_blank"><span sty=
+le=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwat=
+terson.com</font></span></a></span></div><div style=3D"margin-top:0in;margi=
+n-right:0in;margin-bottom:0pt;margin-left:0in"><span style=3D"color:rgb(131=
+,11,44)"><img width=3D"420" height=3D"151" src=3D"https://docs.google.com/u=
+c?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4t=
+gJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div>=
+</div></div></div><div dir=3D"ltr"><div></div></div></span></div></div></di=
+v></div></div>
+</div>
+
+--001a114409807c0c57052129afda--

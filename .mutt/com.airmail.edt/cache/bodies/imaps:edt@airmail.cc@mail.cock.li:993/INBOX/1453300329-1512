@@ -1,0 +1,71 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: edt@airmail.cc
+Received: by cock.li (Postfix)
+	id A882B3B82236; Fri, 26 Feb 2016 03:06:05 +0200 (EET)
+Date: Fri, 26 Feb 2016 03:06:05 +0200 (EET)
+From: MAILER-DAEMON@cock.li (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: edt@airmail.cc
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="277103B821F0.1456448765/cock.li"
+Message-Id: <20160226010605.A882B3B82236@cock.li>
+
+This is a MIME-encapsulated message.
+
+--277103B821F0.1456448765/cock.li
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host cock.li.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<majordomo@lne.com>: host fltr-in1.mail.dreamhost.com[208.97.132.73] said: 550
+    5.7.1 <majordomo@lne.com>: Recipient address rejected: User unknown. (in
+    reply to RCPT TO command)
+
+--277103B821F0.1456448765/cock.li
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; cock.li
+X-Postfix-Queue-ID: 277103B821F0
+X-Postfix-Sender: rfc822; edt@airmail.cc
+Arrival-Date: Fri, 26 Feb 2016 03:06:01 +0200 (EET)
+
+Final-Recipient: rfc822; majordomo@lne.com
+Original-Recipient: rfc822;majordomo@lne.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; fltr-in1.mail.dreamhost.com
+Diagnostic-Code: smtp; 550 5.7.1 <majordomo@lne.com>: Recipient address
+    rejected: User unknown.
+
+--277103B821F0.1456448765/cock.li
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <edt@airmail.cc>
+Date: Thu, 25 Feb 2016 20:06:24 -0500
+From: Eastern Daylight Time <edt@airmail.cc>
+To: majordomo@lne.com
+Subject: subscribe cypherpunks
+Message-ID: <20160226010624.GA14624@brando.osuwireless.ohio-state.edu>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.24 (2015-08-30)
+
+
+
+--277103B821F0.1456448765/cock.li--

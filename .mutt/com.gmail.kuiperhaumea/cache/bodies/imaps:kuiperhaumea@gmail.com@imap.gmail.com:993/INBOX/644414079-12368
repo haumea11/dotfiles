@@ -1,0 +1,639 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1059981oid;
+        Fri, 17 Jul 2015 10:41:18 -0700 (PDT)
+X-Received: by 10.180.86.6 with SMTP id l6mr17328469wiz.91.1437154878339;
+        Fri, 17 Jul 2015 10:41:18 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f182.google.com (mail-wi0-f182.google.com. [209.85.212.182])
+        by mx.google.com with ESMTPS id pg3si10282656wic.30.2015.07.17.10.41.17
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Jul 2015 10:41:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.182 as permitted sender) client-ip=209.85.212.182;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.182 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wi0-f182.google.com with SMTP id ic2so44027135wid.0
+        for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 10:41:17 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:mime-version
+         :message-id:to:content-type:date:subject:list-unsubscribe:from
+         :reply-to;
+        bh=ZN6//TxZzUvM8dHwszA/t6Dv4ir3cGInuuGF5wy2do4=;
+        b=BxZlWO2LJxXsL4V7CbZBBl+yvEFqVIzHrRyGWblyZaoYOh9h/PwZr+Qt8irVOsjUwX
+         /9WddYAgkldZbMJyJFjFPMq7J3qCgfIxkwIAvYApuL5eCzOSNYOka1kZ9aIQXAXBTOui
+         550Sht1tJMC2jjleQnFWk+4qDvUqEvLdB90SLpG/VurV29npuS+mFhyjt1uOhVueNzFl
+         tIyLnzVEahxhAK/xiX6VeL/iwyCPJ06r7KGoi9wPH/K63d4XkTHT92fU9b7Z6LXWSkSm
+         FZMCIVLRmXdgWAR8rBsDFwUTvWxmd1szBujIUBh3dGoprTF0184FyJ/bq8DnC2nvk5dU
+         fOCg==
+X-Original-Authentication-Results: mx.google.com;       spf=neutral (google.com: 74.117.203.72 is neither permitted nor denied by best guess record for domain of uhecomm@uh.edu) smtp.mail=uhecomm@uh.edu
+X-Received: by 10.180.72.145 with SMTP id d17mr17650881wiv.69.1437154877523;
+        Fri, 17 Jul 2015 10:41:17 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp979641wmd;
+        Fri, 17 Jul 2015 10:41:16 -0700 (PDT)
+X-Received: by 10.50.114.9 with SMTP id jc9mr12427138igb.56.1437154875961;
+        Fri, 17 Jul 2015 10:41:15 -0700 (PDT)
+Return-Path: <uhecomm@uh.edu>
+Received: from rntmw72.rnmk.com (rntmw72.rnmk.com. [74.117.203.72])
+        by mx.google.com with ESMTP id g14si10386083icn.23.2015.07.17.10.41.15
+        for <markiewicz.john@gmail.com>;
+        Fri, 17 Jul 2015 10:41:15 -0700 (PDT)
+Received-SPF: neutral (google.com: 74.117.203.72 is neither permitted nor denied by best guess record for domain of uhecomm@uh.edu) client-ip=74.117.203.72;
+Return-Path: <uhecomm@uh.edu>
+Received: from [10.70.0.90] ([10.70.0.90:19100] helo=rnmdmw01.int.rightnowtech.com)
+	by rntmw72.rnmk.com (envelope-from <uhecomm@uh.edu>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id 71/61-27369-F2E39A55; Fri, 17 Jul 2015 12:41:03 -0500
+MIME-Version: 1.0
+Message-Id: <RNTM.AvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q.0.1437154857.0hXML_onxDfEGQ!!.689516@rnmdmw01.int.rightnowtech.com>
+To: markiewicz.john@gmail.com
+Content-Type: Multipart/Alternative;
+  boundary="------------Boundary-00=_3Q7NG6G0000000000000"
+Date: Fri, 17 Jul 2015 12:40:57 -0500 (CDT)
+Subject: =?iso-8859-1?Q?The_Honors_College_=97_The_Right_Place?=
+List-Unsubscribe: <mailto:uhecomm@uh.edu?subject=Unsubscribe AvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q>
+From: "University of Houston Honors College" <uhecomm@uh.edu>
+Reply-To: "University of Houston Honors College" <honorsadmissions@uh.edu>
+
+
+--------------Boundary-00=_3Q7NG6G0000000000000
+Content-Type: Text/Plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+University of Houston Honors College
+
+The Honors College =97 The Right Place
+
+Dear John,
+
+The Honors College provides the University of Houston's finest students w=
+ith the best of everything - the supportive environment of our small coll=
+ege and the rich resources of our diverse research university. As an Hono=
+rs student, you will:
+
+Be first.
+Starting with the special Scholars Orientation in April, enjoy priority c=
+ourse registration and personalized advising every term.
+
+Share an experience.
+Before classes even begin, make lifelong friends and get to know your pro=
+fessors at the Honors Retreat - an overnight event that welcomes new stud=
+ents through workshops, talent shows, skits, sports, team-building activi=
+ties and games. Mentor groups, formed at orientation, provide you with gu=
+idance and support for navigating your first year.
+
+Get smart(er).
+Honors offers small, seminar-style classes in both core and major course =
+requirements. From the cornerstone course - the Human Situation - to uppe=
+r-level colloquia, faculty from different disciplines bring students toge=
+ther in a shared conversation about great books and the ideas that shape =
+our world.
+
+Go explore.
+Through the Office of Undergraduate Research, participate in mentored res=
+earch to gain hands-on experience in your chosen discipline. Our innovati=
+ve minors and programs provide access to courses, workshops, internships =
+and other opportunities to develop your talents.
+
+Graduate with distinction.
+Complete the Honors curriculum, designed to complement any major, to earn=
+ University Honors at graduation, going above and beyond traditional Lati=
+n honors. A senior thesis may offer the capstone to an undergraduate care=
+er - and earn you the additional Honors in Major designation.
+
+See the world.
+Travel with your Honors classmates and professors: track William Faulkner=
+ to his birthplace; explore the wonders of Turkey, Ireland or Spain; see =
+the Parthenon up close; participate in service trips to Haiti and Hondura=
+s.
+
+Get social.
+As a member of our community, attend Honors events from Convocation to Th=
+e Great Conversation. Join student organizations like Model Arab League, =
+Club Theater and Honors Ambassadors; show your spirit at sporting events =
+as a Bleacher Creature; perform at the Coffeehouse; and catch the latest =
+flick at movie night.
+
+Have your own space.
+Comfy couches in the Honors Commons invite you to a home away from home f=
+or studying and relaxing. You also have exclusive access to facilities in=
+ the college including your own computer lab, printing services, reserved=
+ housing and easy-to-locate faculty offices.
+
+Don't believe it? Come see it!
+We invite you to attend an Honors College Open House (http://www.uh.edu/h=
+onors/students/prospective-students/visit-us/high-school-senior-open-hous=
+e/index.php), your firsthand opportunity to experience the Honors College=
+=2E Look for the official invitation to the Honors College Open House in =
+your mailbox soon.
+
+Honors is the Place. The Destination is Up to You.
+
+If you have any questions, please contact the Honors College at 713-743-1=
+766 or honorsadmissions@uh.edu. We look forward to hearing from you!
+
+HELPFUL LINKS
+Why Honors?: http://www.uh.edu/honors/students/prospective-students/why-h=
+onors/
+Honors Open House: http://www.uh.edu/honors/students/prospective-students=
+/visit-us/high-school-senior-open-house/
+UH Admissions: http://www.uh.edu/admissions)
+
+Best wishes,
+
+Sarah Bhojani
+Assistant Director, Admissions
+The Honors College
+University of Houston
+www.uh.edu/honors
+-------------------------------------------------------------------------=
+------------------------
+If you wish to unsubscribe to this email, please contact us at admissions=
+@uh.edu.
+
+This is an official message sent by the University of Houston. To verify =
+the validity of this message, visit uh.edu/phishing or emailsecurity@uh.e=
+du.
+
+The University of Houston, 4800 Calhoun Road, Houston, Texas 77004
+--------------Boundary-00=_3Q7NG6G0000000000000
+Content-Type: Text/Html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-micro=
+soft-com:office:office" xmlns:rn=3D"http://schemas.rightnow.com/crm/docum=
+ent">
+<head>
+<title>University of Houston</title>
+                                                                    =20
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<style type=3D"text/css" xml:space=3D"preserve">
+/*<![CDATA[*/
+BODY {
+        BACKGROUND-COLOR: #f7f7f7
+}
+#outlook A {
+        PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING=
+-RIGHT: 0px
+}
+BODY {
+        WIDTH: 100% !important; PADDING-BOTTOM: 0px; -MS-TEXT-SIZE-ADJUST=
+: 100%; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: =
+0px; -webkit-text-size-adjust: 100%
+}
+=2EExternalClass {
+        WIDTH: 100%
+}
+=2EExternalClass {
+        LINE-HEIGHT: 100%
+}
+=2EExternalClass P {
+        LINE-HEIGHT: 100%
+}
+=2EExternalClass SPAN {
+        LINE-HEIGHT: 100%
+}
+=2EExternalClass FONT {
+        LINE-HEIGHT: 100%
+}
+=2EExternalClass TD {
+        LINE-HEIGHT: 100%
+}
+=2EExternalClass DIV {
+        LINE-HEIGHT: 100%
+}
+#backgroundTable {
+        WIDTH: 100% !important; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PA=
+DDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 100% !important; PADDING-RIGHT=
+: 0px
+}
+IMG {
+        TEXT-DECORATION: none; OUTLINE-WIDTH: medium; OUTLINE-STYLE: none=
+; OUTLINE-COLOR: invert; -MS-INTERPOLATION-MODE: bicubic
+}
+A IMG {
+        BORDER-TOP: medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM=
+: medium none; BORDER-LEFT: medium none
+}
+=2Eimage_fix {
+        DISPLAY: block
+}
+P {
+        COLOR: #394963 !important; MARGIN: 1em 0px
+}
+H1 {
+        COLOR: #394963 !important
+}
+H2 {
+        COLOR: #394963 !important
+}
+H3 {
+        COLOR: #394963 !important
+}
+H4 {
+        COLOR: #394963 !important
+}
+H5 {
+        COLOR: #394963 !important
+}
+H6 {
+        COLOR: #394963 !important
+}
+H1 A {
+        COLOR: #394963 !important
+}
+H2 A {
+        COLOR: #394963 !important
+}
+H3 A {
+        COLOR: #394963 !important
+}
+H4 A {
+        COLOR: #394963 !important
+}
+H5 A {
+        COLOR: #394963 !important
+}
+H6 A {
+        COLOR: #394963 !important
+}
+H1 A:active {
+        COLOR: #394963 !important
+}
+H2 A:active {
+        COLOR: #394963 !important
+}
+H3 A:active {
+        COLOR: #394963 !important
+}
+H4 A:active {
+        COLOR: #394963 !important
+}
+H5 A:active {
+        COLOR: #394963 !important
+}
+H6 A:active {
+        COLOR: #394963 !important
+}
+H1 A:visited {
+        COLOR: #394963 !important
+}
+H2 A:visited {
+        COLOR: #394963 !important
+}
+H3 A:visited {
+        COLOR: #394963 !important
+}
+H4 A:visited {
+        COLOR: #394963 !important
+}
+H5 A:visited {
+        COLOR: #394963 !important
+}
+H6 A:visited {
+        COLOR: #394963 !important
+}
+TABLE TD {
+        BORDER-COLLAPSE: collapse
+}
+TABLE {
+        BORDER-COLLAPSE: collapse; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt
+}
+=2Eunsubscribe A {
+        COLOR: #75000d !important
+}
+=2Eunsubscribe A:visited {
+        COLOR: #75000d !important
+}
+=2Elink A {
+        COLOR: #e92e35 !important
+}
+=2Elink A:link {
+        COLOR: #e92e35 !important
+}
+=2Elink A:visited {
+        COLOR: #e92e35 !important
+}
+=2Elink A:active {
+        COLOR: #e92e35 !important
+}
+/*]]>*/
+</style>
+<!--[if gte mso 9]>
+        <style>
+                ul {
+                   padding-left: 24px !important;=20
+                   margin-top: 10px !important;=20
+                   margin-bottom: 10px !important;=20
+                   margin-left: 30px !important;=20
+                   margin-right: 0px !important;
+                   list-style-position: inside !important;
+                }
+        </style>
+        <![endif]-->
+</head>
+<body>
+
+<table id=3D"backgroundTable" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"600" align=3D"center" bgcolor=3D"#F7F7F7" border=3D"0"><!-- Wrapper Tabl=
+e -->
+<tbody>
+<tr>
+<td>
+<p align=3D"center">&#160;</p>
+<table style=3D"HEIGHT: 2441px; WIDTH: 621px" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"621" align=3D"center" bgcolor=3D"#F7F7F7" border=3D"0">=
+<!-- Body -->
+<tbody>
+<tr><!-- Header -->
+<td valign=3D"top" width=3D"600" colspan=3D"2" align=3D"center"></td>
+<!-- END Header --></tr>
+<tr bgcolor=3D"#E92E35"><!-- Text Hero -->
+<td valign=3D"top" width=3D"600" colspan=3D"2" align=3D"center">
+<p><img alt=3D"Image" height=3D"76" src=3D"http://www.uh.edu/admissions/g=
+raphics/windows/honors-the-honors-college-secondary-white.png" width=3D"5=
+05" /></p>
+</td>
+</tr>
+<!-- END Text Hero -->
+<tr align=3D"center" bgcolor=3D"#FDFBE4" width=3D"600"><!-- Main Content =
+-->
+<td bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"342" align=3D"center"><!-=
+- Column One -->
+<table style=3D"HEIGHT: 1030px; WIDTH: 351px" cellspacing=3D"0" cellpaddi=
+ng=3D"0" width=3D"351" align=3D"left" border=3D"0">
+<tbody>
+<tr><!-- Padding -->
+<td height=3D"25" colspan=3D"3">
+<p>&#160;</p>
+</td>
+</tr>
+<!-- End Padding -->
+<tr><!-- Main Copy Headline -->
+<td width=3D"25"></td>
+<td style=3D"TEXT-ALIGN: left" valign=3D"top" width=3D"292" align=3D"left=
+">
+<div style=3D"FONT-SIZE: 12px; HEIGHT: 2093px; FONT-FAMILY: Calibri; WIDT=
+H: 330px; COLOR: #000000; TEXT-ALIGN: left; LINE-HEIGHT: 22px" align=3D"c=
+enter">
+<p><span style=3D"FONT-SIZE: 12pt"><span style=3D'FONT-SIZE: 12pt; FONT-F=
+AMILY: "Calibri","sans-serif"; COLOR: black; mso-fareast-font-family: Cal=
+ibri; mso-fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-=
+fareast-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: =
+"Times New Roman"'>Dear John,</span></span></p>
+<p style=3D"COLOR: #000000"><font style=3D"FONT-SIZE: 12pt" color=3D"#000=
+000">The Honors College provides the University of Houston's finest stude=
+nts with the <span style=3D"FONT-WEIGHT: bold; FONT-STYLE: italic">best o=
+f everything</span> =97 the supportive environment of our small college a=
+nd the rich resources of our diverse research university. As an Honors st=
+udent, you will:<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Be first.</span><br />
+Starting with the special Scholars Orientation in April, enjoy priority c=
+ourse registration and personalized advising every term.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Share an experience.</span><br />
+Before classes even begin, make lifelong friends and get to know your pro=
+fessors at the Honors Retreat =97 an overnight event that welcomes new st=
+udents through workshops, talent shows, skits, sports, team-building acti=
+vities and games. Mentor groups, formed at orientation, provide you with =
+guidance and support for navigating your first year.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Get smart(er).</span><br />
+Honors offers small, seminar-style classes in both core and major course =
+requirements. From the cornerstone course =97 the Human Situation =97 to =
+upper-level colloquia, faculty from different disciplines bring students =
+together in a shared conversation about great books and the ideas that sh=
+ape our world.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Go explore.</span><br />
+Through the Office of Undergraduate Research, participate in mentored res=
+earch to gain hands-on experience in your chosen discipline. Our innovati=
+ve minors and programs provide access to courses, workshops, internships =
+and other opportunities to develop your talents.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Graduate with distinction.</span><br />
+Complete the Honors curriculum, designed to complement any major, to earn=
+ University Honors at graduation, going above and beyond traditional Lati=
+n honors. A senior thesis may offer the capstone to an undergraduate care=
+er =97 and earn you the additional Honors in Major designation.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">See the world.</span><br />
+Travel with your Honors classmates and professors: track William Faulkner=
+ to his birthplace; explore the wonders of Turkey, Ireland or Spain; see =
+the Parthenon up close; participate in service trips to Haiti and Hondura=
+s.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Get social.</span><br />
+As a member of our community, attend Honors events from Convocation to Th=
+e Great Conversation. Join student organizations like Model Arab League, =
+Club Theater and Honors Ambassadors; show your spirit at sporting events =
+as a Bleacher Creature; perform at the Coffeehouse; and catch the latest =
+flick at movie night.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Have your own space.</span><br />
+Comfy couches in the Honors Commons invite you to a home away from home f=
+or studying and relaxing. You also have exclusive access to facilities in=
+ the college including your own computer lab, printing services, reserved=
+ housing and easy-to-locate faculty offices.<br />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Don't believe it? Come see it!</span><b=
+r />
+We invite you to attend an <a style=3D"TEXT-DECORATION: none; COLOR: #cc0=
+000" href=3D"http://uhhelpdesk.custhelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~y=
+Jh34sqIM~58hhjfz7~Pv_q&amp;2=3D17627">Honors College Open House</a>, your=
+ firsthand opportunity to experience the Honors College. Look for the off=
+icial invitation to the Honors College Open House in your mailbox soon.<b=
+r />
+<br />
+<span style=3D"FONT-WEIGHT: bold">Honors is the Place. The Destination is=
+ Up to You.</span><br />
+<br />
+If you have any questions, please contact the Honors College at 713-743-1=
+766 or <a style=3D"TEXT-DECORATION: none; COLOR: #cc0000" href=3D"mailto:=
+honorsadmissions@uh.edu">honorsadmissions@uh.edu</a>. We look forward to =
+hearing from you!</font></p>
+<p style=3D"FONT-SIZE: 10pt"><font style=3D"FONT-SIZE: 12pt" color=3D"#00=
+0000">Best wishes,</font></p>
+<p style=3D"FONT-SIZE: 10pt"><font style=3D"FONT-SIZE: 12pt" color=3D"#00=
+0000">Sarah Bhojani<br />
+Director, Admissions<br />
+The Honors College<br />
+University of Houston</font></p>
+</div>
+</td>
+<td width=3D"25"></td>
+</tr>
+<!-- END Main Copy Headline -->
+<tr><!-- END Paragraph --></tr>
+<tr>
+<td height=3D"40" colspan=3D"3"></td>
+</tr>
+<!-- End Padding --></tbody>
+</table>
+<!-- END Column One --></td>
+<td height=3D"267" valign=3D"top" width=3D"258" align=3D"left">
+<p style=3D"COLOR: #000000" align=3D"center"><span style=3D"FONT-SIZE: 14=
+pt; FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000"><img alt=3D"=
+Image" height=3D"172" src=3D"http://www.uh.edu/admissions/graphics/window=
+s/honors-college-student.jpg" width=3D"258" /></span></p>
+<p style=3D"COLOR: #000000" align=3D"center"><span style=3D"FONT-SIZE: 14=
+pt; FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000"><img alt=3D"=
+Image" border=3D"0" src=3D"http://www.uh.edu/admissions/graphics/windows/=
+newbrand_email_images/icon-globe.gif" /></span></p>
+<p style=3D"COLOR: #000000" align=3D"center"><span style=3D"FONT-SIZE: 14=
+pt; FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000">HELPFUL LINK=
+S<br />
+<br /></span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><a style=3D"FONT-SIZE: 12pt; TEXT-DECORATION=
+: none; FONT-WEIGHT: normal; COLOR: #cc0000" href=3D"http://uhhelpdesk.cu=
+sthelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D17=
+464">Why Honors?</a></span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><a style=3D"FONT-SIZE: 12pt; TEXT-DECORATION=
+: none; FONT-WEIGHT: normal; COLOR: #cc0000" href=3D"http://uhhelpdesk.cu=
+sthelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D17=
+465">Honors College Open House</a></span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 12pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><a style=3D"TEXT-DECORATION: none; FONT-WEIG=
+HT: normal; COLOR: #cc0000" href=3D"http://uhhelpdesk.custhelp.com/rd?1=3D=
+AvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D17481">UH Admissions=
+</a></span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><a style=3D"TEXT-DECORATION: underline" href=
+=3D"http://uhhelpdesk.custhelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~=
+58hhjfz7~Pv_q&amp;2=3D17241"></a></span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><a href=3D"http://uhhelpdesk.custhelp.com/rd=
+?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D17242"></a></sp=
+an></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"FONT-SIZE: 14pt; FONT-FAMILY: Calibri; FONT-W=
+EIGHT: bold; COLOR: #000000"><span style=3D"COLOR: #000000"><a style=3D"T=
+EXT-DECORATION: underline" href=3D"http://uhhelpdesk.custhelp.com/rd?1=3D=
+AvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D17155"></a></span></=
+span></p>
+<p style=3D"FONT-FAMILY: Calibri; FONT-WEIGHT: bold; COLOR: #000000" alig=
+n=3D"center"><span style=3D"COLOR: #000000"><a href=3D"http://uhhelpdesk.=
+custhelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D=
+17156"></a></span></p>
+</td>
+<!-- END Column Two --></tr>
+<!-- END Main Content -->
+<tr><!-- Footer -->
+<td bgcolor=3D"#E92E35" valign=3D"top" width=3D"600" colspan=3D"2" align=3D=
+"center">
+<table style=3D"HEIGHT: 275px; WIDTH: 620px" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"620" align=3D"center" border=3D"0">
+<tbody>
+<tr><!-- Padding -->
+<td style=3D"FONT-SIZE: 1px; LINE-HEIGHT: 1px" bgcolor=3D"#F7F7F7" height=
+=3D"6" colspan=3D"6">&#160;</td>
+</tr>
+<!-- End Padding -->
+<tr><!-- Padding -->
+<td height=3D"10" colspan=3D"6"></td>
+</tr>
+<!-- End Padding -->
+<tr>
+<td width=3D"65"></td>
+<td height=3D"48" width=3D"97" align=3D"left"><a style=3D"TEXT-DECORATION=
+: none !important; COLOR: #ffffff !important" href=3D"http://uhhelpdesk.c=
+usthelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D1=
+3097"><img alt=3D"University of Houston Icon" class=3D"image_fix" height=3D=
+"48" src=3D"http://uh.edu/admissions/graphics/windows/newbrand_email_imag=
+es/uh-icon.gif" style=3D"BORDER-TOP: medium none; BORDER-RIGHT: medium no=
+ne; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" width=3D"97" />=
+</a></td>
+<td height=3D"48" width=3D"119" align=3D"left"><a style=3D"TEXT-DECORATIO=
+N: underline" href=3D"http://uhhelpdesk.custhelp.com/rd?1=3DAvNI~wpJDv8S~=
+xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D13419"><img alt=3D"Facebook Icon"=
+ class=3D"image_fix" height=3D"48" src=3D"http://uh.edu/admissions/graphi=
+cs/windows/newbrand_email_images/facebook-icon.gif" style=3D"BORDER-TOP: =
+medium none; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; BORDE=
+R-LEFT: medium none" width=3D"119" /></a></td>
+<td height=3D"48" width=3D"98" align=3D"left"><a href=3D"http://uhhelpdes=
+k.custhelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D=
+13420"><img alt=3D"Twitter Icon" class=3D"image_fix" height=3D"48" src=3D=
+"http://uh.edu/admissions/graphics/windows/newbrand_email_images/twitter-=
+icon.gif" style=3D"BORDER-TOP: medium none; BORDER-RIGHT: medium none; BO=
+RDER-BOTTOM: medium none; BORDER-LEFT: medium none" width=3D"98" /></a></=
+td>
+<td height=3D"48" width=3D"157" align=3D"left"><a style=3D"TEXT-DECORATIO=
+N: none !important; COLOR: #ffffff !important" href=3D"http://uhhelpdesk.=
+custhelp.com/rd?1=3DAvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv_q&amp;2=3D=
+13421"><img alt=3D"University of Houston Icon" class=3D"image_fix" height=
+=3D"48" src=3D"http://uh.edu/admissions/graphics/windows/newbrand_email_i=
+mages/app-icon.gif" style=3D"BORDER-TOP: medium none; BORDER-RIGHT: mediu=
+m none; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" width=3D"15=
+7" /></a></td>
+<td width=3D"65"></td>
+</tr>
+<tr><!-- Padding -->
+<td height=3D"10" colspan=3D"6"></td>
+</tr>
+<!-- End Padding -->
+<tr><!-- Unsubscribe -->
+<td colspan=3D"6">
+<div class=3D"unsubscribe" style=3D"FONT-SIZE: 11px; FONT-FAMILY: Arial, =
+sans-serif; COLOR: #75000d; TEXT-ALIGN: center; LINE-HEIGHT: 28px" align=3D=
+"center">
+<p style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Calibri; COLOR: #000000"><span =
+style=3D"COLOR: #ffffff"><span style=3D'FONT-SIZE: 10pt; FONT-FAMILY: "Ca=
+libri","sans-serif"; COLOR: white; mso-fareast-font-family: Calibri; mso-=
+fareast-theme-font: minor-latin; mso-ansi-language: EN-US; mso-fareast-la=
+nguage: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-family: Arial'>If =
+you wish to unsubscribe to this email, please contact us at <a style=3D"T=
+EXT-DECORATION: underline" href=3D"mailto:admissions@uh.edu"><b><span sty=
+le=3D"COLOR: #75000d">admissions@uh.edu</span></b></a>.</span></span></p>
+<p style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Calibri; COLOR: #000000"><span =
+style=3D"COLOR: #ffffff">This is an official message sent by the Universi=
+ty of Houston.</span><br />
+<span style=3D"COLOR: #ffffff">To verify the validity of this message, vi=
+sit uh.edu/phishing or email</span> <span style=3D"FONT-WEIGHT: bold; COL=
+OR: #000000"><a style=3D"TEXT-DECORATION: underline" href=3D"mailto:secur=
+ity@uh.edu">security@uh.edu</a><span style=3D"FONT-WEIGHT: normal; COLOR:=
+ #ffffff">.</span></span></p>
+<p style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Calibri; COLOR: #000000"><span =
+style=3D"FONT-SIZE: 10pt; FONT-FAMILY: Calibri; COLOR: #ffffff">The Unive=
+rsity of Houston, 4800 Calhoun Road, Houston, Texas 77004</span></p>
+</div>
+</td>
+</tr>
+<!-- End Unsubscribe -->
+<tr><!-- Padding -->
+<td height=3D"10" colspan=3D"6"></td>
+</tr>
+<!-- End Padding --></tbody>
+</table>
+</td>
+</tr>
+<!-- END Footer --></tbody>
+</table>
+<p>&#160;</p>
+<p><!-- END Body --></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- End of wrapper table -->
+<img alt=3D"" height=3D"1" width=3D"1" style=3D"display: none" src=3D"htt=
+p://uhhelpdesk.custhelp.com/rd/AvNI~wpJDv8S~xb~Gv9O~yJh34sqIM~58hhjfz7~Pv=
+_q.gif"/> </body>
+</html>
+
+--------------Boundary-00=_3Q7NG6G0000000000000--
+

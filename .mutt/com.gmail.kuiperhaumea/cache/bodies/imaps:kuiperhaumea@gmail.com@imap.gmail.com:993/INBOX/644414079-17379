@@ -1,0 +1,165 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp419655oia;
+        Thu, 17 Mar 2016 05:05:35 -0700 (PDT)
+X-Received: by 10.194.78.83 with SMTP id z19mr9381763wjw.5.1458216335352;
+        Thu, 17 Mar 2016 05:05:35 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22c.google.com (mail-wm0-x22c.google.com. [2a00:1450:400c:c09::22c])
+        by mx.google.com with ESMTPS id e67si9928154wme.27.2016.03.17.05.05.35
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 17 Mar 2016 05:05:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22c as permitted sender) client-ip=2a00:1450:400c:c09::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22c as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@targetx.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=utdallas.edu
+Received: by mail-wm0-x22c.google.com with SMTP id l68so218959962wml.0
+        for <kuiperhaumea@gmail.com>; Thu, 17 Mar 2016 05:05:35 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:domainkey-signature
+         :message-id:sender:from:to:reply-to:date:subject:mime-version;
+        bh=PrNskW/UzI8BnnclOm2OVt/d7MRS6RSLQBGqSg42MPo=;
+        b=E7EHuDTrfXDsaTUtrtJsDsFMqA0xrRjJPxdp3G46aoM7zMm1JeC6Jad5U/7bnd9Hp8
+         pGY1PwcUDTpqtHaNjgt9zL5840ffVuK8cD0OgxkkR4zUmbe9cgRiLywEVBFOqneJ2WOT
+         rsNiD6jpFcY9w+76XVT48ncfqa4Uu08vjJASxdde6p3BhsLvSItw0CilduMKEhTCk1nH
+         dxpsAUW5sT6Pkw8MBsVYMjZottJuJPCu7TbPGu1Vny5zMj1QhA2gtKZDLnMwH4OyT/PS
+         cVKbANP5hEu0VYxV2bNf+zKLmp9vHQAzkxbr0nWV+m6y4NKgsV5wNd4TuOULOw4U30h3
+         Uw+A==
+X-Gm-Message-State: AD7BkJIqYLGb3YAbzgU68ErvaKmRZI78bGc24bH7RH2Rw8ZPxTk1fujDA/Gq84u0OFcSq2D/yDedvWXE5HeM1AdxSDCiJXI=
+X-Received: by 10.28.194.132 with SMTP id s126mr3499070wmf.76.1458216334981;
+        Thu, 17 Mar 2016 05:05:34 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp341424wmb;
+        Thu, 17 Mar 2016 05:05:34 -0700 (PDT)
+X-Received: by 10.140.42.106 with SMTP id b97mr13509321qga.6.1458216334016;
+        Thu, 17 Mar 2016 05:05:34 -0700 (PDT)
+Return-Path: <bounceback-a0Gj000000nB8slEAC-003j000000VhoAWAAZ@ms2.targetx.com>
+Received: from mta-d228.targetx.com (mta-d228.targetx.com. [69.55.4.228])
+        by mx.google.com with ESMTPS id u5si7598483qkl.103.2016.03.17.05.05.33
+        for <markiewicz.john@gmail.com>
+        (version=TLS1 cipher=AES128-SHA bits=128/128);
+        Thu, 17 Mar 2016 05:05:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounceback-a0Gj000000nB8slEAC-003j000000VhoAWAAZ@ms2.targetx.com designates 69.55.4.228 as permitted sender) client-ip=69.55.4.228;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s1024; d=targetx.com;
+ h=Message-Id:Sender:From:To:Reply-To:Date:Subject:MIME-Version:Content-Type; i=bounceback-a0Gj000000nB8slEAC-003j000000VhoAWAAZ@ms2.targetx.com;
+ bh=tJP4ra9xkDYh8ad2RGD6xb56Utg=;
+ b=KsDmSLAx7YF+78ggV2OtVxeCCFZdgiZPAYnG6ZWJlzqlUsYYEcsyJl1A4BNtnJRApE6ig6MJtSWg
+   h9SzxR8uZjTYQo/LJvFpa8W0OnCs01ASgGzdlcqzw3nh+cAP2EDJjp+N561SB+bXo9ZCC7kZSeYn
+   oOzg+sPd8H9VFlMwyMk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=s1024; d=targetx.com;
+ b=voeXXB+tEKAeXNFsOiexrzw13ib6KOndhoyXd5MTI7uMkYglaGHe9112aGM/H7rG8f02YkZtJaM2
+   3OWuGH4qpe03lYfy06KqyyAQxMNLDCLEX11aIQxLwL6AmZF5IK5B0QtQ7gdT7Ma0QesezWAzfGQr
+   eKnkgIsHrbES0klaWE8=;
+Received: from ip-10-0-0-77 (54.174.228.194) by mta-d228.targetx.com (PowerMTA(TM) v3.5r6) id htaeoq0jf9cj for <markiewicz.john@gmail.com>; Thu, 17 Mar 2016 08:05:28 -0400 (envelope-from <bounceback-a0Gj000000nB8slEAC-003j000000VhoAWAAZ@ms2.targetx.com>)
+Message-Id: <D20160317080528.a0Gj000000nB8slEAC-003j000000VhoAWAAZ.70801@targetx.com>
+Sender: "UTD Admission and Enrollment" <bounceback-a0Gj000000nB8slEAC-003j000000VhoAWAAZ@ms2.targetx.com>
+From: "UTD Admission and Enrollment" <interest@utdallas.edu>
+To: markiewicz.john@gmail.com
+Reply-To: "UTD Admission and Enrollment" <interest@utdallas.edu>
+Date: Thu, 17 Mar 2016 08:05:28 -0400
+Subject: Happy Birthday, John
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundaryTagForAlternative"
+
+--boundaryTagForAlternative
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Dear John,
+
+Happy birthday to you from your friends in Admission and Enrollment at The University of Texas at Dallas
+https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0003379832-003j000000VhoAWAAZ
+
+800 W. Campbell Road, Richardson, Texas 75080-3021
+
+
+
+----------------------------------------------
+Powered by TargetX
+
+Remove me from future messages using a web browser:
+https://suite.targetx.com/suite4sf/email/bin/unsub.php?mid=a0Gj000000nB8slEAC-003j000000VhoAWAAZ
+
+--boundaryTagForAlternative
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="yes" />
+   <meta name="apple-mobile-web-app-capable" content="yes" />
+   <script src='http://www.utdallas.edu/websvcs/shared/jquery-1.8.0.js'></script>
+   <title>Happy Birthday from The University of Texas at Dallas</title>
+
+	<style type="text/css">
+	    /* CLIENT-SPECIFIC STYLES */
+    #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+    .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+    body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+    table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+    img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+/* RESET STYLES */
+    body{margin:0; padding:0;}
+    img{border:0;}
+    table{	max-width:600px !important}
+    body{height:100% !important; margin:0; padding:0; width:100% !important;}
+    .appleBody a {color:#88b3bf; text-decoration: none;}
+    .appleBody2 a {color:#ffffff; text-decoration: none;}
+    .appleBody3 a {color: #999999; text-decoration: none;}
+    .appleBody4 a {color: #818179; text-decoration: none;}
+    .appleFooter a {color:#999999; text-decoration: none;}
+    .appleEvents a {color: #404141; font-weight:bold; text-decoration: none;}
+
+	@media screen and (max-width: 600px) {
+	table[id="emailContainer"] {width:100% !important;}
+	img{ max-width: 100% !important; height:auto !important;}
+	img[class="mobile-hide"]{display: none !important;}
+	td[class="body-copy"] {font-size:20px !important; line-height:24px !important;}
+	td[class="body-header"] {font-size:20px !important;}
+	}
+	
+    </style>
+</head>
+
+<body bgcolor="#ffffff"><img src="https://suite.targetx.com/va0Gj000000nB8slEAC-003j000000VhoAWAAZ.gif" border="0">
+
+<div style="display:none;font-size:1px;color:#ffffff;line-height:1px;font-family:Arial, Helvetica, sans-serif;">Happy Birthday from The University of Texas at Dallas</div>
+
+<table width="450" align="center" cellpadding="0" cellspacing="0" border="0" id="emailContainer" style="max-width:450px; display:block;">
+
+<tr>
+<td>
+	
+<table width="100%" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="font-size:18px; max-width:450px;">
+
+
+<tr>
+					<td height="46" style="padding: 5px 0px 0px 10px; color: white; font-family: Arial, Helvetica, sans-serif; font-size: 26px; font-weight: bold; background-color: #008542;" width="450">Dear John,</td>
+				</tr>
+				<tr>
+					<td><a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0003379832-003j000000VhoAWAAZ"><img alt="The University of Texas at Dallas" height="325" src="https://www.utdallas.edu/evites/enroll/images/happy-birthday.gif" width="450"  border="0"  style="border: 0px;"/></a></td>
+				</tr>
+
+
+</table>
+<div style="font-family:Arial, Helvetica, sans-serif;text-align:center;padding: 10px 25px 20px 25px; font-size:12px;">
+800 W. Campbell Road, Richardson, Texas 75080-3021
+</div> 
+
+</td>
+</tr>
+</table>
+<p><table bgcolor="#ffffff" border="0" cellpadding="5" cellspacing="0" height="0" width="100%"><tr><td colspan="2"><font 
+color="#000000" face="Arial,Helvetica,sans-serif" size="1"></font><br>
+<hr size="1"></td></tr><tr valign="top"><td width="50%"><a href="https://suite.targetx.com/suite4sf/email/bin/unsub.php?mid=a0Gj000000nB8slEAC-003j000000VhoAWAAZ"><font face="Arial,Helvetica,sans-serif" color="#3333CC" size="2">Remove me from future messages</font></a><br><br></td><td width="50%"><div align="right"><font color="#3333cc" 
+face="Arial,Helvetica,sans-serif" size="2">Powered by TargetX</font></div></td></tr></table></p></body>
+</html>
+
+--boundaryTagForAlternative--

@@ -1,0 +1,119 @@
+Return-Path: <kuiperhaumea@gmail.com>
+Received: from heian ([2605:a000:1119:4043:812a:4f56:bb54:ef00])
+        by mx.google.com with ESMTPSA id a2sm8455663igx.3.2015.07.05.14.49.25
+        for <2rtmar.ac@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 05 Jul 2015 14:49:26 -0700 (PDT)
+Date: Sun, 5 Jul 2015 17:50:58 -0400
+From: John Markiewicz <kuiperhaumea@gmail.com>
+To: Ryan Mar <2rtmar.ac@gmail.com>
+Subject: Re: Soon-to-be ftp server
+Message-ID: <20150705215058.GA23754@heian>
+References: <CAJsGx3KHJxn+9DAHcCRNpX9_5AEVqtJV=nPKavTw9-SyLYb8Cw@mail.gmail.com>
+ <CAGBwmT10SB_Lc=Nq=EiHRcXurew4HPX5ASEaP+o8R14Q7U72+Q@mail.gmail.com>
+ <55983054.3040406@gmail.com>
+ <CAGBwmT2QM4P1H1xVSb2=iRS8O9z79SYb03D1MbSrSTHK1iNT0Q@mail.gmail.com>
+ <55983B3C.4080407@gmail.com>
+ <CAGBwmT0Q7NPP1ACYRgxQ89cHzCYcyLc_dQboDgyuvKoiR-Ku+A@mail.gmail.com>
+ <559858A8.2020701@gmail.com>
+ <CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com>
+User-Agent: Mutt/1.5.23+89 (0255b37be491) (2014-03-12)
+
+This e-mail is mostly just a test to see if my ridiculous text-based e-mail 
+client is a valid solution to e-mail over gmail.  Pretty sure it is.
+
+The client is called mutt and it's pretty cool if a bit hard to set up.
+
+--
+Best Wishes,
+John Markiewicz
+
+On Sat, Jul 04, 2015 at 06:05:07PM -0400, Ryan Mar wrote:
+> Haha true, good thing that I don't have much to hide at this point,
+> especially considering I'm using the gmail app on an iPhone right bow
+> 
+> On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com> wrote:
+> 
+> >  Thunderbird is pretty good stuff.  It integrates with pgp using a plugin
+> > called enigmail, which makes working with encryption almost reasonably
+> > easy.  Not perfectly usable for everyone, but not bad.
+> >
+> > For example, I could sign and encrypt this (though the encryption wouldn't
+> > make sense until you had a key) and nobody would be able to read it without
+> > my private key (residing only on physical drives I own) or your private key
+> > (hypothetically residing only on physical drives you own.)  It's pretty
+> > cool stuff when you consider how unsecured e-mail is in general.
+> >
+> > On 07/04/2015 04:21 PM, Ryan Mar wrote:
+> >
+> > I had thunderbird when I was using Ubuntu, but I never signed in because I
+> > don't know my email passwords by heart
+> >
+> > On Saturday, July 4, 2015, John Markiewicz <
+> > <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>
+> > kuiperhaumea@gmail.com
+> > <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wrote:
+> >
+> >>  Yeah, Arch linux on the Raspberry Pi.  No 1tb microsd cards yet, but I'm
+> >> on the lookout for one.  *There is no kill like overkill.*
+> >>
+> >> My method of transferring things is brute-force and requires a way to
+> >> connect to both drives at once.  Micro Center might give you a more simple
+> >> means of doing things, and they may even help you in doing it.
+> >>
+> >> Have you considered thunderbird as your mail client?  It makes working
+> >> with pgp/gpg easier.  Also it works on linux, which is a perk if you ever
+> >> make the switch or have to do work on a linux box.
+> >>
+> >> [side note: I can also be reached at jmarkiewicz@airmail.cc
+> >> <javascript:_e(%7B%7D,'cvml','jmarkiewicz@airmail.cc');>]
+> >>
+> >> On 07/04/2015 03:34 PM, Ryan Mar wrote:
+> >>
+> >> Sounds good thanks! I've read about pgp before, I'm actually messing
+> >> around with low-level encryption algorithms and stuff for fun .
+> >>
+> >>  I also haven't figured out exactly how to transfer my system to a new
+> >> hard drive yet, might just end up asking somebody at microcenter.
+> >>
+> >>  Also, I assume you're running arch on the Pi? And did you manage to
+> >> find a terabyte sd card for it yet?
+> >>
+> >>
+> >>
+> >> On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com
+> >> <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wrote:
+> >>
+> >>> My plan is to just hook it up to my dock for drives (has a 3tb WD green
+> >>> for lots of low-reliability storage) and then just try and get it
+> >>> accessible via ssh from outside my router.  If I can figure out that
+> >>> part (which is the hardest part) then I should be good and I'll make
+> >>> sure to tell you how I did it.
+> >>>
+> >>> As an aside, pgp is pretty cool.  Check it out if you ever have free
+> >>> time.  Makes it possible to send somethign over e-mail and have it be
+> >>> secure.
+> >>>
+> >>> On 07/04/2015 12:59 PM, Ryan Mar wrote:
+> >>> > Hey this is awesome. Let me know how you go about making it a file
+> >>> > server--I wanted to do this earlier this year but I had trouble finding
+> >>> > a reasonable way of doing it.
+> >>> >
+> >>> > On Friday, July 3, 2015, John Markiewicz <markiewicz.john@gmail.com
+> >>> <javascript:_e(%7B%7D,'cvml','markiewicz.john@gmail.com');>
+> >>> > <mailto:markiewicz.john@gmail.com>> wrote:
+> >>> >
+> >>> > Thought I'd show it off
+> >>> >
+> >>> >
+> >>> > Sorry for the mess in the background, just got back from a trip and
+> >>> > my desk is unclean.
+> >>> >
+> >>>
+> >>
+> >>
+> >

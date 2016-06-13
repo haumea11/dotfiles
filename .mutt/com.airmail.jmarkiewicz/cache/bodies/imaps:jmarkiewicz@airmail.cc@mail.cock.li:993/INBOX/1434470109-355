@@ -1,0 +1,177 @@
+Return-Path: <osu-ctf-bounces@lists.osu.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 67.231.149.77)
+	smtp.mailfrom=battelle.org; lists.osu.edu;
+	dkim=none (message not signed)
+	header.d=none;lists.osu.edu; dmarc=bestguesspass action=none
+	header.from=battelle.org;
+Received-SPF: Pass (protection.outlook.com: domain of battelle.org designates
+	67.231.149.77 as permitted sender)
+	receiver=protection.outlook.com; 
+	client-ip=67.231.149.77; helo=mx0a-0013ba01.pphosted.com;
+From: "Toterhi, John V" <TOTERHIJ@battelle.org>
+To: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Thread-Topic: RPISEC MBE Lab 5 Recap (DEP & ROP)
+Thread-Index: AdEXBj7j083hM/5SQzexSa0Ok0xp7wACqEx8
+Date: Wed, 4 Nov 2015 14:57:25 +0000
+Message-ID: <BA9E8CFA4826F54C825938B752C2F30B363D0302@WP-MBX2B.milky-way.battelle.org>
+References: <BA9E8CFA4826F54C825938B752C2F30B363D02B6@WP-MBX2B.milky-way.battelle.org>
+In-Reply-To: <BA9E8CFA4826F54C825938B752C2F30B363D02B6@WP-MBX2B.milky-way.battelle.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Proofpoint-SPF-Result: softfail
+X-Proofpoint-SPF-Record: v=spf1 ip4:131.167.253.50/26 ip4:63.240.200.201
+	ip4:192.101.109.61
+	ip4:192.101.109.63 ip4:65.221.8.29 ip4:65.221.8.13
+	include:customers.clickdimensions.com include:spf-0013ba01.pphosted.com
+	~all
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:, ,
+	definitions=2015-11-04_09:, , signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+	suspectscore=0
+	malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+	adjust=0 reason=mlx scancount=1 engine=8.0.1-1507310000
+	definitions=main-1511040273
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11FD025;
+	1:MeYuhgzJBrv3FxvQJDwR5JLha08oCEZOOzx8jl1ahZMCPZyLXodzr79UCkNDnOFwEkVgakcGsNM34rFZDrT1Rln8NK/g7Vnj/hpam/nJug38K4YcYy9Mwz8jlfPtm2LIDGUQlgHtKWoRjmxFNHuGi5q8P5J9RtoAwESbznmPw5tBrwxweMQXefCLFVy6k4vwNaJaQVw4kOglUxAlHyEVXmX5/aLY9bnV9h2cxH4ESFbOrgjPbw3ptSKdlRjlA2w6i6ixqe12ikTnYF91Nlr9N4devQLrf9WYEkRXiuVRdNM1u1sz5TTxbuo/Y50sMlBuPQhE9hqgHHoPl2Ten2IPl/oT6DZJ9Dhn3M/SJB7cAP8GsCjvg4mgex+w+TbdEoE0QAtwXkNoDsOZpnw81uoUWw==
+X-Forefront-Antispam-Report: CIP:67.231.149.77; CTRY:US; IPV:NLI; EFV:NLI;
+	SFV:NSPM;
+	SFS:(6009001)(2990300002)(438002)(189002)(377454003)(199003)(53754006)(152014003)(106466001)(19580405001)(86362001)(5004730100002)(46406003)(47776003)(5003600100002)(2501003)(6806005)(33656002)(5008740100001)(450100001)(575784001)(2171001)(189998001)(19580395003)(2940100001)(15975445007)(55846006)(566704002)(2920100001)(77096005)(2910100002)(54356999)(102836002)(2950100001)(107886002)(110136002)(76176999)(5001970100001)(23726002)(50466002)(2351001)(97756001)(2900100001)(92566002)(50986999)(7099028)(217873001);
+	DIR:INB; SFP:; SCL:1; SRVR:BL2FFO11HUB023;
+	H:mx0a-0013ba01.pphosted.com; FPR:; SPF:Pass;
+	PTR:mx0a-0013ba01.pphosted.com; MX:1; A:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB023;
+	2:YDAHsmUu3ey4sp7xRbXq7TMMnfAuUf5hLpW4wjV9KSwTIY4J4E/1DFbjxGKwts3ZDgvz/mOBspxFC9h0lfDYkaC8YXo7/AXyRlNcyXZ6uvcPEk6lUHG3SkMqBg9vX4FiMzyzD9ynbumn1GlPBw0IL4AFacaUaxpcD/fe1ZeWtto=;
+	3:jfnPFzWiVP6jTCSd+wXZSY4ThkNszi+ZECjiRGl1cxA8toZyYCzZ/Lwb/rbXe6VBzw9YMZbMPgJ9lcprHqx7o7jAnMfLum4f94TbHa0jl8ovuODS21lhjUopP3+1JeFK7+BXQaHtZNLcOHdUcnE5rBNQwuwXSHRBZ1/avvvKqZ9YvgknFVt28hKdFNFgif/9OcqjcMYZPkUIwUiyw7KUuNUsRAZcuZpB2/DcOD87u7RoPQsnHLzryab6Ui0rLDQgQkvQS9VTnLupjOA3rRkCXcD5a5Nk1bWe0n8UO9efE9dhLWq1HaLHtVHpTEkCXotX;
+	25:+af5H00ll5iB2c6PJ6ML7V2W2DQCYFgMAhusJ2nHh47wljxdCfLiXn9K1d00nqFTU0V+7h67/Oioa4krebEgXicEu5q8freABgwWkG1kWusB+6aTgHGTIaP+Oif2N3lX1rS0u+imE7mfeF3YOzMAiwyvKp554M0a67lsM7ayMBeDQOjqFRc3TilzPNw8MwnL9L/1l7Ex+yffo3khf+LG+Rbxa8bvnvU9ZxtesCwhALLTWE5ZMy2c1f5ekzgX+HCg3vW/mnTz9voVzv3kYpJKdQ==
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0;
+	RULEID:(8251501001)(71701003)(71702001); SRVR:BL2FFO11HUB023; 
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB023;
+	20:L0cVYWdcN7PyJqtcF5PK8UzEtReqJ98lQgb9T7Qhf2ZfpARoX/8dFvBLKNr3ZT4bbZUaHXq1fDJAb9xjiMTM8tB1bx4RTlTh9croKk0AYyBnWkvm1fIp9p6YDRSl8QFTrFr8aYXPTKvFOped0sVxxB30vApot8xtnQVVfFtt0FMDS60obIG+cmbH3HJx0MvGyFedMls/hVFY8BnK9kNbmLuP89N/svRu/GaHkN6fWkPIFlcfpXxp6ItbOzf3O0BImYr097WQpXbxlredfgLgHgNPp32uKklTKvgbZGKqKY/hdqlHTya4WmhNiAxjheRnoplNF5daQhgNh49LlWF6FNEmglQX9sK82CEd/DgV/IZLmVNE2VW91ATzYpQj1CO68Qws5wnaSzoJVWcZUto5PRIh5ZsmSFPllHecDbAPF1oxfeOqHs5Ena4Lu7WyoKzuBSksj6gkm7go61tRuQOEuMwBX6j0N8Pdq4K5v70a8eKBKOwQ95QXOlKMK+ouAKgg;
+	4:fxywqbU8+Z3NagBI2vqjNxkECbIUjuP9z+Ule5WANB//iHwBu7gEwXWuRAYCmZVJ7cYpf9UeLE23TQmcAVOajXoZVV0o9GPY+dSyMg9nGVUXRCOJ4OQrBMoRhIaMFDbkynO3Y81gSSEjS5P1nJ0zSy8Be0eyxzfYNuolmMXYuX7GxlL2662zteVIIznqo7Xd3PEymrvcGiMwoS7DLMvy/CH1A0CXJnnKvOsKzuSBGPAQfBN+Xbu+DADC+tp7Heq8QkiyorrWM0E3rmPkrqCu/pn8N1kkybMurh2Vgq2JhjOo357wTH3QqIpolmBTXmDEGf0Su23kXeH0f7m5zhAqTuxaDJ5qBNuxNRotRFlC+pbQ52EguDcPdm5AZz1rudgl
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(601004)(2401047)(8121501046)(520078)(3002001)(10201501046);
+	SRVR:BL2FFO11HUB023; BCL:0; PCL:0; RULEID:; SRVR:BL2FFO11HUB023;
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1; BL2FFO11HUB023;
+	23:YYwg58dN+gfjud2JhB8+hgxKX8AIjGY4H3LIq71X?=
+	=?us-ascii?Q?m6q0DLeA9kc2sBX+ho5vtBHQzlgLWQry19XMCqD97lP8O36mX4vDw+HiYXDV?=
+	=?us-ascii?Q?EOj+xi80Y76RYyVvutl3+167EnlY/zXjH6x9i4D6gyBJK0QjkQpju6yWvm7p?=
+	=?us-ascii?Q?PmnMsDuY92zWGeqV9Ew2MABsHrobY4mL1pXq8thbGovilve2eAgpccl6tfqY?=
+	=?us-ascii?Q?e8TlYXpQmYDebBJ+0Gm0bBRcThI4wj1wozcd1du1AbgbqmbPilJD19KKAB6U?=
+	=?us-ascii?Q?XXC108QBi28uHcXKFx2tVy6I9D3bJz+Gz3dqMVjJ1zhBHpX7rFg3BhDyJQxd?=
+	=?us-ascii?Q?1OqbRjj4YG4FEv7h9j9tUQnoP+ilpbLR4Ret8DngNg3Q8EdcC7zkdgfwfG29?=
+	=?us-ascii?Q?TsDWnbwz/Ws8r7ObovJLHPWOOueBTEYsHfOFW3j4G+NuM3UWqfGKFJezkiqg?=
+	=?us-ascii?Q?/uEyc+8bItEP9MNP8xpB1YMscq6LY1FKWDa2rsyZNHIo7YdvEecFc+vBSufS?=
+	=?us-ascii?Q?1ffFc9fL/rTUAQc42J6jPFnMU+W5XwjnGTwiY9LwiPByUED7xnEOrCepyKwM?=
+	=?us-ascii?Q?zgQrHhhOGLfgFIqvjXf3214BvzSw4RZMJjl1Y3SPzQqHE4uJjknzzbSmV2on?=
+	=?us-ascii?Q?q7ZHULOmJsp9QXjppxV+1S+c6cOgJxo8E4Hm5mwsxWghi8XfX6Xuc+1ZIFur?=
+	=?us-ascii?Q?hg2V6WW7DeuG1Lvqj2nsnOpShAsiErewuqS2dL3G+WbwPhNT4qxKOKRARvm3?=
+	=?us-ascii?Q?ixjiGIK2EB55FSE4Rgzs4wvN8lnCfozdLUJFCOADqgmDYENJxzvGMIoSWFur?=
+	=?us-ascii?Q?VxCK1zIqmNHIjsyn3jVzbwEZOhsN8PFSb7bXyGrBz/LlAqA1EFybMVcXMxTn?=
+	=?us-ascii?Q?et9XF96hTmNQ6wSOzW7kEYVOhMi3zAN9ffH4yJIGL2ZQAi3ma5PJbkZzhSbH?=
+	=?us-ascii?Q?ws9nAFhLlDpn9CEueIA9gDpOlNMUK19pV4GyApIwZZsVrkQTvJ1R/l0kW9HZ?=
+	=?us-ascii?Q?hTUNzw2sWYFoO8KYMo7yYrtBC7n7nHDxb5cOT+44AXoKpgRlYd2YIK8YheE6?=
+	=?us-ascii?Q?o4QH1IhT0jBZgzWNfS1FGL5+TFjklleC70NrRx3HZdBthn75+irIgeMv5ePr?=
+	=?us-ascii?Q?Be8wRH7Rksa7iIk7G/jA+zSe2wkBXGW5WAWDTMxBsUnaw1cJ49LEwip27ddA?=
+	=?us-ascii?Q?URiWUFfRQx3Ban52wZGxXrrqPqCzuAWC/Bo8Yg2AK1brfk8+x3ciQObEbdlf?=
+	=?us-ascii?Q?t2hd1/siQ9JppNtZfu8=3D?=
+X-Microsoft-Exchange-Diagnostics: 1; BL2FFO11HUB023;
+	5:nHWRmSJ3iw7EZrxgpwogftyKSbTEcEv3vKTGpr8B0XdkXB1gvs85pTNUwLhc51ydzCtjPcTRt3rIufzcZFbclVOESQyozffi6fysrlhm9WpBXZhND0xR/cuntkxosRZ1YoGlhd1ZFsszqZxdD/CH2A==;
+	24:ZHU6DeL036Rvbo6ZyvARfXJVw6SzhUsB2eCurcMN6Bbr0vEza7wDp+8KVE+PYZSNvSdbI8wJ0mQglP5UdG++ZnPOnaYzFmOEbv/cukQYkGc=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Nov 2015 14:57:27.7641 (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2FFO11HUB023
+Subject: Re: [Osu-ctf] RPISEC MBE Lab 5 Recap (DEP & ROP)
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Errors-To: osu-ctf-bounces@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces@lists.osu.edu>
+
+I made a pretty significant typo in the original recap email:
+
+Error:
+"We learned that Data Execution Prevention protects memory segments in the Stack and Heap from being both writable and readable."
+
+Should be:
+"We learned that Data Execution Prevention protects memory segments in the Stack and Heap from being both writable and executable."
+
+Notice the last word. Sorry for the spam, but this is a pretty important mistake!
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org
+
+________________________________________
+From: Osu-ctf [osu-ctf-bounces+toterhij=battelle.org@lists.osu.edu] on behalf of Toterhi, John V [TOTERHIJ@battelle.org]
+Sent: Wednesday, November 04, 2015 9:22 AM
+To: osu-ctf@lists.osu.edu
+Subject: [Osu-ctf] RPISEC MBE Lab 5 Recap (DEP & ROP)
+
+Hello everyone,
+
+So last night we learned about DEP and ROP by exploiting a program which uses a non-executable stack (DEP enabled). We did this by using a simple, but not always possible method called return to libc, or ret2libc. We essentially pointed execution into libc's system() function with a pointer to "/bin/sh" to gain a shell.
+
+A lot of people encountered a problem where their exploit caused the lab5C binary to segfault, even though you were confident your exploits were correct. This is due to the fact that stdin closes as soon as gets() is finished reading input from it. So what actually happening is gets() reads our exploit from stdin, we ret2libc and open a shell, but stdin immediately closes taking our shell access with it, the junk return pointer we put in our exploit then caused the application to crash.  To get around this, we need to keep stdin open. This is one common way:
+
+cat <(python -c 'print "<exploit code goes here>') - | ./lab5C
+
+The spacing in this cat <() - | ./binary command is very important. This will cause stdin to remain open until you explicitly end your shell session. Once you exit your shell, the application will continue on and crash. Again, it crashes because we just slapped in some random values for a return address. It is completely possible to exit cleanly or recover from this exploit, but it doesn't matter for our purposes.
+
+The ret2libc method is nice because we can get a shell without creating complicated ROP chains with whatever gadgets we happen to find. Since we only got through ret2libc last night, I've received several requests to spend another week on DEP & ROP. So next week will be DEP & ROP continued.  We'll search for gadgets and construct a legitimate, super sweet ROP chain to exploit the process. No system() for you! :)
+
+Here's the recap and preview:
+
+Lab 5. DEP & ROP
+- We learned that Data Execution Prevention protects memory segments in the Stack and Heap from being both writable and readable.
+- We learned how to check DEP status of a given program on Linux and Windows.
+- We learned that we can return to arbitrary locations (such as system()) with a primed stack to execute any imported function we want. This is how we got our shell.
+- We learned how to search memory for useful strings like "/bin/sh"
+- We learned how to keep stdin from closing and taking away out shell before we could use it
+
+Lab 5. DEP & ROP Continued
+Next week when we revisit DEP and ROP we will have a quick recap of ret2libc and start on lab5B.  I'll work with anyone who missed this week so you can quickly catch up. We will have to search for ROP gadgets and write our own ROP chain which executes a shell. We can model our chain by writing it to mimic shellcode on shell-storm. After completing lab2B you will have a very solid foundation in writing ROP chains to bypass DEP.
+
+Have a great week!
+
+OSU-CTF Site: https://u.osu.edu/osuctf/
+Hours: 7-9 PM every Tuesday
+Location: Ohio State Main Campus, Dreese Labs 263
+Dropbox link: https://goo.gl/jT9Iij
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org<https://webmail.battelle.org/owa/redir.aspx?C=cFuZE5RvoEmiYRfm91H-bhQBBGL-N9EI8B9_OPfSmRR0_uq9EpPXOWX0a3tiFooUZy1gle1ko8c.&URL=mailto%3atoterhij%40battelle.org>
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf

@@ -1,0 +1,1666 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1752280oid;
+        Mon, 13 Jul 2015 13:11:26 -0700 (PDT)
+X-Received: by 10.180.106.195 with SMTP id gw3mr26405472wib.25.1436818286135;
+        Mon, 13 Jul 2015 13:11:26 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x232.google.com (mail-wi0-x232.google.com. [2a00:1450:400c:c05::232])
+        by mx.google.com with ESMTPS id hf1si31286575wjc.22.2015.07.13.13.11.25
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 13:11:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) client-ip=2a00:1450:400c:c05::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail81.atl71.mcdlv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+Received: by mail-wi0-x232.google.com with SMTP id ic2so19019475wid.0
+        for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 13:11:25 -0700 (PDT)
+X-Received: by 10.194.6.229 with SMTP id e5mr73099321wja.158.1436818285168;
+        Mon, 13 Jul 2015 13:11:25 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1549236wmd;
+        Mon, 13 Jul 2015 13:11:23 -0700 (PDT)
+X-Received: by 10.13.218.71 with SMTP id c68mr40480374ywe.126.1436818283442;
+        Mon, 13 Jul 2015 13:11:23 -0700 (PDT)
+Return-Path: <bounce-mc.us2_6869534.1942133-MARKIEWICZ.JOHN=GMAIL.COM@mail81.atl71.mcdlv.net>
+Received: from mail81.atl71.mcdlv.net (mail81.atl71.mcdlv.net. [198.2.129.81])
+        by mx.google.com with ESMTP id r7si5503498yke.66.2015.07.13.13.11.22
+        for <MARKIEWICZ.JOHN@gmail.com>;
+        Mon, 13 Jul 2015 13:11:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_6869534.1942133-MARKIEWICZ.JOHN=GMAIL.COM@mail81.atl71.mcdlv.net designates 198.2.129.81 as permitted sender) client-ip=198.2.129.81;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail81.atl71.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=discoverasc=3Dosu.edu@mail81.atl71.mcdlv.net;
+ bh=83mD3NMRsX+y4qevfpyaoruXa5o=;
+ b=RfnCiwAn+CrG9G9He8vlzwWgm+yCtedUM84yBA5wsJohs31imrd0zAzdvhF4WaZkm/7xPgkaA7UQ
+   cTs7ZPzqXCXZXmzy7BMaB/jgi21/UNG49hSr+pK7iEQlawdmv2oKfxki30rsd2ZaxY0LRaL6Wbru
+   8+OumStfa1PN8SGHoyQ=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=83mD3NMRsX+y4qevfpyaoruXa5o=;
+ b=lFGU8+8JYEPGEy7p06/nK2B+i53lN3lIdTZajG5HDStnjoRWVVo3QUuyP9T4wSclWHN8/PdQrU2M
+   L8qwfLGR63lziAuzI2Xv01Fwh5jawvBfZharASD5I4fGoWhXZmz48v/gd4nO/oZMGfj+0EHeybL8
+   FVJjvhQlM6OuieKV+Zk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail81.atl71.mcdlv.net;
+ b=SfESBfZ0rwAKZKFDLD2xtIPorMbfVIfby0950Q7dSg4UJn4wVxcobP6wvQ71ip/kS2MNgtwp9x4n
+   r8vROVBY3eCXv9Aggo6IE50uCMqxTXPnK1mpnGOBGgHj3YU5oknf3PYLIBpRD8uCBjKotzgYw6XE
+   QJwbKyvlptZUPjE66dQ=;
+Received: from (127.0.0.1) by mail81.atl71.mcdlv.net id hkgdmm174f4h for <MARKIEWICZ.JOHN@GMAIL.COM>; Mon, 13 Jul 2015 20:05:52 +0000 (envelope-from <bounce-mc.us2_6869534.1942133-MARKIEWICZ.JOHN=GMAIL.COM@mail81.atl71.mcdlv.net>)
+Subject: =?utf-8?Q?Nepal=20Disaster=20Relief=3A=20Classroom=20Connections?=
+From: =?utf-8?Q?The=20Ohio=20State=20University=20College=20of=20Arts=20and=20Sciences?= <discoverasc@osu.edu>
+Reply-To: =?utf-8?Q?The=20Ohio=20State=20University=20College=20of=20Arts=20and=20Sciences?= <discoverasc@osu.edu>
+To: =?utf-8?Q?John?= <MARKIEWICZ.JOHN@GMAIL.COM>
+Date: Mon, 13 Jul 2015 20:05:52 +0000
+Message-ID: <39038225385d82983c3c2081c1ef7dc45dc.20150713200454@mail81.atl71.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CID36a3a1e52a1ef7dc45dc**
+X-Campaign: mailchimp39038225385d82983c3c2081c.36a3a1e52a
+X-campaignid: mailchimp39038225385d82983c3c2081c.36a3a1e52a
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=39038225385d82983c3c2081c&id=36a3a1e52a&e=1ef7dc45dc
+X-MC-User: 39038225385d82983c3c2081c
+X-Feedback-ID: 6869534:6869534.1942133:us2:mc
+List-ID: 39038225385d82983c3c2081cmc list <39038225385d82983c3c2081c.736929.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-39038225385d82983c3c2081c-36a3a1e52a-1ef7dc45dc@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://osu.us2.list-manage.com/unsubscribe?u=39038225385d82983c3c2081c&id=9dda3fe763&e=1ef7dc45dc&c=36a3a1e52a>
+Sender: "The Ohio State University College of Arts and Sciences" <discoverasc=osu.edu@mail81.atl71.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1522924057"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1522924057
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+When a 7.8M earthquake devasted Nepal=2C researchers at Ohio State were ca=
+lled upon to help with disaster relief efforts.
+
+View this email in your browser (http://us2.campaign-archive2.com/?u=3D390=
+38225385d82983c3c2081c&id=3D36a3a1e52a&e=3D1ef7dc45dc)
+
+
+** Nepal disaster relief efforts
+------------------------------------------------------------
+
+
+** Arts and Sciences in the News
+------------------------------------------------------------
+
+When a 7.8M earthquake devasted Nepal killing over 8=2C000 and injuring th=
+ousands more=2C researchers at Ohio State were called upon to help with di=
+saster relief efforts.
+
+Using the same high-resolution satellite imagery normally used to study gl=
+aciers=2C research teams at The Ohio State University and the University o=
+f Minnesota shifted their attention to produce high-resolution=2C 3-D digi=
+tal surface maps for use in the relief effort. Learn more =C2=BB (http://n=
+ews.osu.edu/news/2015/05/08/nepal-disaster-relief-efforts-to-be-aided-by-g=
+lacier-researchers/)
+US Geological Survey of 2015 Nepal earthquake
+
+
+** Classroom Connections
+------------------------------------------------------------
+The classes you take at Ohio State aren't just theoretical=E2=80=94they ha=
+ve real-world applications to events happening here and now.
+http://geography.osu.edu/courses/5270
+
+
+** GEOG 5225: GIS Applications in Remote Sensing
+------------------------------------------------------------
+
+This course provides an introduction to the fundamentals of remote sensing=
+ and its geographic applications. Lectures will focus on basic concepts an=
+d techniques in remote sensing data acquisition and analysis. Examples fro=
+m a variety of topical areas will be used to illustrate how the informatio=
+n derived from remotely sensed data can be used in geographic studies. Com=
+puter laboratory exercises are designed to help students to gain hands-on=
+ experiences on the digital processing of remotely sensed data. Students a=
+re expected to complete a project that applies remote sensing techniques t=
+o solve a real- world problem.
+
+
+** http://history-of-art.osu.edu
+HISTART 5723: Art of Nepal and Tibet
+------------------------------------------------------------
+
+HISTART 5723 offers an analysis of the cross currents of style and iconogr=
+aphy that constitute the pre-Muslim art of Central Asia.
+http://sociology.osu.edu
+Photo by Peter van der Sluijs (https://commons.wikimedia.org/wiki/File:Pov=
+erty_and_slums_in_Kathmandu_in_Nepal.jpg)
+
+
+** SOCIOL 3306: Sociology of Poverty
+------------------------------------------------------------
+
+A study of low-income peoples=2C especially concerning the effect of pover=
+ty on them=2C and their consequent social participation.
+
+
+
+** http://comparativestudies.osu.edu
+COMPSTD 2220: Introduction to South Asian Studies
+------------------------------------------------------------
+
+A multi-disciplinary introduction to South Asia's geographical=2C politica=
+l=2C cultural=2C and religious contexts and connections.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+** Explore the Arts and Sciences (http://discoverasc.osu.edu)
+** (http://www.facebook.com/ASCatOSU)
+** (https://www.twitter.com/ASCatOSU/)
+** (http://artsandsciences.osu.edu)
+** (mailto:discoverasc@osu.edu)
+** (http://www.youtube.com/user/OSUArtsandSciences)
+** (http://instagram.com/ASCatOSU/)
+Copyright =C2=A9 2015 The Ohio State University=2C All rights reserved.
+ You are on this list because you've expressed an interest in attending a=
+ university.
+
+Our mailing address is:
+The Ohio State University
+154B Denney Hall
+164 West 17th Avenue
+Columbus=2C Oh 43201
+USA
+** unsubscribe from this list (http://osu.us2.list-manage.com/unsubscribe?=
+u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc&c=3D36a3a1e52a)
+** update subscription preferences (http://osu.us2.list-manage.com/profile=
+?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc)
+--_----------=_MCPart_1522924057
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+    =09<!-- NAME: 1:2 COLUMN -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1.0">
+        <title>Nepal Disaster Relief: Classroom Connections</title>
+
+    <style type=3D"text/css">
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09a{
+=09=09=09word-wrap:break-word;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass span=2C.ExternalC=
+lass font=2C.ExternalClass td=2C.ExternalClass div{
+=09=09=09line-height:100%;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:20px;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#e0e0e0;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#bb0000 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:40px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-1px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#666666 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.75px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#bb0000 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:-.5px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#666666 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent=2C.preheaderContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#ffffff;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent a{
+=09=09=09color:#ffffff;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContainer .mcnTextContent=2C.headerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.headerContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContainer .mcnTextContent=2C.bodyContainer .mcnTextContent p{
+=09=09=09color:#292929;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContainer .mcnTextContent a{
+=09=09=09color:#bb0000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateColumns{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent=2C.leftColumnContainer .mcnText=
+Content p{
+=09=09=09color:#292929;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent a{
+=09=09=09color:#bb0000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent=2C.rightColumnContainer .mcnTe=
+xtContent p{
+=09=09=09color:#292929;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent a{
+=09=09=09color:#bb0000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContainer .mcnTextContent=2C.footerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[id=3DbodyCell]{
+=09=09=09padding:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3Dmcpreview-image-uploader]{
+=09=09=09width:100% !important;
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[class=3DmcnImage]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnImageGroupContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupContent]{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupBlockInner]{
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-top:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09tbody[class=3DmcnImageGroupBlockOuter]{
+=09=09=09padding-bottom:9px !important;
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionTopContent]=2Ctable[class=3DmcnCaptionBott=
+omContent]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftTextContentContainer]=2Ctable[class=3D=
+mcnCaptionRightTextContentContainer]=2Ctable[class=3DmcnCaptionLeftImageC=
+ontentContainer]=2Ctable[class=3DmcnCaptionRightImageContentContainer]=2C=
+table[class=3DmcnImageCardLeftTextContentContainer]=2Ctable[class=3DmcnI=
+mageCardRightTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftContentOuter] td[class=3DmcnTextConten=
+t]=2Ctable[class=3DmcnCaptionRightContentOuter] td[class=3DmcnTextConten=
+t]{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnCaptionBlockInner] table[class=3DmcnCaptionTopConten=
+t]:last-child td[class=3DmcnTextContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnBoxedTextContentColumn]{
+=09=09=09padding-left:18px !important;
+=09=09=09padding-right:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DcolumnsContainer]{
+=09=09=09display:block !important;
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnTextContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplateContainer]=2Ctable[id=3DtemplatePreheader]=2Cta=
+ble[id=3DtemplateHeader]=2Ctable[id=3DtemplateColumns]=2Ctable[class=3D=
+templateColumn]=2Ctable[id=3DtemplateBody]=2Ctable[id=3DtemplateFooter]{
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextCont=
+ent]=2Ctd[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextConten=
+t] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DpreheaderContainer] td[class=3DmcnTextContent]=2Ctd[cl=
+ass=3DpreheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DheaderContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DbodyContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DbodyContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DleftColumnContainer] td[class=3DmcnTextContent]=2Ctd[c=
+lass=3DleftColumnContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DrightColumnContainer] td[class=3DmcnTextContent]=2Ctd[=
+class=3DrightColumnContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DfooterContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] a[class=3DutilityLink]{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"margin: 0;padding: 0;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;background-color: #e0e0e0;height: 100% !=
+important;width: 100% !important;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;backg=
+round-color: #e0e0e0;height: 100% !important;width: 100% !important;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;margin: 0;padding: 20px;border-top: 0;h=
+eight: 100% !important;width: 100% !important;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;border: 0;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;b=
+order-top: 0;border-bottom: 0;">
+                                        <tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContainer" style=3D"padding-top: 9px;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #ffffff;font-family: Helvetica;font-=
+size: 11px;line-height: 125%;text-align: left;">
+
+                            <span style=3D"font-size:4px">When a 7.8M eart=
+hquake devasted Nepal=2C researchers at Ohio State were called upon to hel=
+p with disaster relief efforts.</span>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #ffffff;font-family: Helvetica;font-=
+size: 11px;line-height: 125%;text-align: left;">
+
+                            <a href=3D"http://us2.campaign-archive2.com/?u=
+=3D39038225385d82983c3c2081c&id=3D36a3a1e52a&e=3D1ef7dc45dc" target=3D"_blan=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #ffffff;font-weight: normal;text-decoration: unde=
+rline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"he=
+aderContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock=
+" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" class=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/39038225385d82983c3c2081c/images/e7ccd9a=
+d-04e0-4348-b143-82fbb6326c2a.png" width=3D"300" style=3D"max-width: 300px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;"=
+ class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border=
+-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #292929;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 style=3D"margin: 0;padding: 0;display: blo=
+ck;font-family: Helvetica;font-size: 40px;font-style: normal;font-weight:=
+ bold;line-height: 125%;letter-spacing: -1px;text-align: left;color: #bb00=
+00 !important;">Nepal disaster relief efforts</h1>
+
+<h2 style=3D"margin: 0;padding: 0;display: block;font-family: Helvetica;fo=
+nt-size: 26px;font-style: normal;font-weight: bold;line-height: 125%;lette=
+r-spacing: -.75px;text-align: left;color: #666666 !important;">Arts and Sc=
+iences in the News</h2>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">When a 7.8M earthquake devasted Nepa=
+l&nbsp;killing over 8=2C000 and injuring thousands more=2C researchers at=
+ Ohio State were called upon to help with disaster relief efforts.</p>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">Using the same high-resolution satel=
+lite imagery normally used to study&nbsp;glaciers=2C research teams at The=
+ Ohio State University and the University of Minnesota shifted their atten=
+tion&nbsp;to produce high-resolution=2C 3-D digital surface maps for use i=
+n the relief effort. <a href=3D"http://osu.us2.list-manage1.com/track/clic=
+k?u=3D39038225385d82983c3c2081c&id=3De61cd3e434&e=3D1ef7dc45dc" target=3D=
+"_blank" title=3D"Link to Ohio State news page" style=3D"word-wrap: break-=
+word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #bb0=
+000;font-weight: normal;text-decoration: underline;">Learn more =C2=BB</a>=
+</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" class=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"US Ge=
+ological Survey of 2015 Nepal earthquake" src=3D"https://gallery.mailchimp=
+=2Ecom/39038225385d82983c3c2081c/images/2ea6d503-a0e7-4924-bfa5-1bcc7eb00600=
+=2Epng" width=3D"564" style=3D"max-width: 600px;padding-bottom: 0;display: i=
+nline !important;vertical-align: bottom;border: 0;outline: none;text-decor=
+ation: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #292929;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h3 class=3D"null" style=3D"margin: 0;padding:=
+ 0;display: block;font-family: Helvetica;font-size: 22px;font-style: norma=
+l;font-weight: bold;line-height: 100%;letter-spacing: -.5px;text-align: le=
+ft;color: #bb0000 !important;">Classroom Connections</h3>
+The classes you take at Ohio State aren't just theoretical=E2=80=94they ha=
+ve real-world applications to events happening here and now.
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN COLUMNS // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateColumns" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bor=
+der-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align=3D"left" valign=3D"t=
+op" class=3D"columnsContainer" width=3D"50%" style=3D"mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"leftColumnContainer" style=3D"mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tab=
+le border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=
+=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+
+
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnCaptionBottomContent" width=3D"false" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" align=3D"center" valign=
+=3D"top" style=3D"padding: 0 9px 9px 9px;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <a href=3D"http://osu.us2.list-manage1.com/track/click?u=3D390=
+38225385d82983c3c2081c&id=3Df07511a1fa&e=3D1ef7dc45dc" title=3D"Link to c=
+ourse listing on Department of Geography website" class=3D"" target=3D"_bl=
+ank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+
+
+            <img alt=3D"" src=3D"https://gallery.mailchimp.com/39038225385=
+d82983c3c2081c/images/acff5a72-fa68-4a08-b803-c120ef5e610a.png" width=3D"1=
+50" style=3D"max-width: 150px;border: 0;outline: none;text-decoration: non=
+e;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnIma=
+ge">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 0 9p=
+x 0 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;color: #292929;font-family: Helvetica=
+;font-size: 15px;line-height: 150%;text-align: left;" width=3D"264">
+            <h4 class=3D"null" style=3D"margin: 0;padding: 0;display: bloc=
+k;font-family: Helvetica;font-size: 16px;font-style: normal;font-weight: b=
+old;line-height: 100%;letter-spacing: normal;text-align: left;color: #6666=
+66 !important;">GEOG 5225: GIS Applications in Remote Sensing</h4>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">This course provides an introduction=
+ to the fundamentals of remote sensing and its geographic applications. Le=
+ctures will focus on basic concepts and techniques in remote sensing data=
+ acquisition and analysis. Examples from a variety of topical areas will b=
+e used to illustrate how the information derived from remotely sensed data=
+ can be used in geographic studies. Computer laboratory exercises are desi=
+gned to help students to gain hands-on experiences on the digital processi=
+ng of remotely sensed data. Students are expected to complete a project th=
+at applies remote sensing techniques to solve a real- world problem.</p>
+
+<h4 class=3D"null" style=3D"margin: 0;padding: 0;display: block;font-famil=
+y: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-hei=
+ght: 100%;letter-spacing: normal;text-align: left;color: #666666 !importan=
+t;"><a href=3D"http://osu.us2.list-manage2.com/track/click?u=3D39038225385=
+d82983c3c2081c&id=3D01496b2322&e=3D1ef7dc45dc" target=3D"_blank" style=3D=
+"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;color: #bb0000;font-weight: normal;text-decoration: underline;"><im=
+g align=3D"center" alt=3D"Image of Ganesh tapestry linking to the Departme=
+nt of History of Art" height=3D"125" src=3D"https://gallery.mailchimp.com/=
+39038225385d82983c3c2081c/images/ee6da418-63e7-4f0f-ad20-e6e417a5392f.jpg"=
+ style=3D"width: 250px;height: 125px;margin: 10px 0px;border: 0;outline: n=
+one;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"250">=
+</a><br>
+HISTART 5723: Art of Nepal and Tibet</h4>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">HISTART 5723 offers&nbsp;an analysis=
+ of the cross currents of style and iconography that constitute the pre-Mu=
+slim art of Central Asia.</p>
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align=3D"left" valign=3D"t=
+op" class=3D"columnsContainer" width=3D"50%" style=3D"mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"rightColumnContainer" style=3D"mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=
+=3D"mcnCaptionBlock" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" valign=3D"top" style=3D"pad=
+ding: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+
+
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"mcnCaptionBottomContent" width=3D"false" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" align=3D"left" valign=
+=3D"top" style=3D"padding: 0 9px 9px 9px;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D3903=
+8225385d82983c3c2081c&id=3Dc0e6b3dd43&e=3D1ef7dc45dc" title=3D"" class=3D=
+"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Photo of the slums of Kathmandu linking to the Dep=
+artment of Sociology" src=3D"https://gallery.mailchimp.com/39038225385d829=
+83c3c2081c/images/ef2f0020-553d-4752-9f66-e4130a8a1255.jpg" width=3D"264"=
+ style=3D"max-width: 480px;border: 0;outline: none;text-decoration: none;-=
+ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage"=
+>
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" valign=3D"top" style=3D"padding: 0 9p=
+x 0 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;color: #292929;font-family: Helvetica=
+;font-size: 15px;line-height: 150%;text-align: left;" width=3D"264">
+            <div style=3D"text-align: right;"><span style=3D"font-size:10p=
+x">Photo by <a href=3D"http://osu.us2.list-manage1.com/track/click?u=3D390=
+38225385d82983c3c2081c&id=3D607ad3452e&e=3D1ef7dc45dc" target=3D"_blank"=
+ title=3D"Link to Wikimedia Commons page" style=3D"word-wrap: break-word;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #bb0000;fo=
+nt-weight: normal;text-decoration: underline;">Peter van der Sluijs</a></s=
+pan></div>
+
+<h4 class=3D"null" style=3D"margin: 0;padding: 0;display: block;font-famil=
+y: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-hei=
+ght: 100%;letter-spacing: normal;text-align: left;color: #666666 !importan=
+t;">SOCIOL 3306: Sociology of Poverty</h4>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">A study of low-income peoples=2C esp=
+ecially concerning the effect of poverty on them=2C and their consequent s=
+ocial participation.</p>
+&nbsp;
+
+<h4 class=3D"null" style=3D"margin: 0;padding: 0;display: block;font-famil=
+y: Helvetica;font-size: 16px;font-style: normal;font-weight: bold;line-hei=
+ght: 100%;letter-spacing: normal;text-align: left;color: #666666 !importan=
+t;"><a href=3D"http://osu.us2.list-manage2.com/track/click?u=3D39038225385=
+d82983c3c2081c&id=3D239d4b0f75&e=3D1ef7dc45dc" target=3D"_blank" style=3D=
+"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;color: #bb0000;font-weight: normal;text-decoration: underline;"><im=
+g align=3D"center" alt=3D"Map of South Asia linking to the Department of C=
+omparative Studies" height=3D"303" src=3D"https://gallery.mailchimp.com/39=
+038225385d82983c3c2081c/images/c37dfb31-93fa-4568-affe-93eaa819595c.png" s=
+tyle=3D"width: 250px;height: 303px;margin: 10px 0px;border: 0;outline: non=
+e;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"250"></=
+a><br>
+COMPSTD 2220: Introduction to South Asian Studies</h4>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #292929;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;">A multi-disciplinary introduction to=
+ South Asia's geographical=2C political=2C cultural=2C and religious conte=
+xts and connections.</p>
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END COLUMNS -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"fo=
+oterContainer" style=3D"padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"mcnButtonBlock" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"padding-top: 0;padding-right: 18px;padding-bottom=
+: 18px;padding-left: 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" ali=
+gn=3D"center" class=3D"mcnButtonBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnButtonContentContainer" style=3D"border-collapse:=
+ separate !important;border: 2px solid #5D0000;border-top-left-radius: 5px=
+;border-top-right-radius: 5px;border-bottom-right-radius: 5px;border-botto=
+m-left-radius: 5px;background-color: #BB0000;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=
+=3D"mcnButtonContent" style=3D"font-family: Arial;font-size: 16px;padding:=
+ 16px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+                                <a class=3D"mcnButton " title=3D"Link to t=
+he Ohio State College of Arts and Sciences page" href=3D"http://osu.us2.li=
+st-manage.com/track/click?u=3D39038225385d82983c3c2081c&id=3D511c63b94c&e=
+=3D1ef7dc45dc" target=3D"_blank" style=3D"font-weight: bold;letter-spacin=
+g: normal;line-height: 100%;text-align: center;text-decoration: none;color=
+: #FFFFFF;word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-si=
+ze-adjust: 100%;">Explore the Arts and Sciences</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnFollowBlock" style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding: 9px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;" class=3D"mcnFollowBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnFollowContentContainer" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td align=3D"center" style=3D"padding-left: 9px;padding-right: 9px=
+;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnFollowContent" style=3D"border: 1px none #EEEEEE;bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding-t=
+op: 9px;padding-right: 9px;padding-left: 9px;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09=09=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;">
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+ class=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D39038225=
+385d82983c3c2081c&id=3D625c7f5f93&e=3D1ef7dc45dc" target=3D"_blank" style=
+=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-block=
+-v2/dark-facebook-48.png" style=3D"display: block;border: 0;outline: none;=
+text-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" widt=
+h=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+ class=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"http://osu.us2.list-manage2.com/track/click?u=3D3903822=
+5385d82983c3c2081c&id=3D262e5ff162&e=3D1ef7dc45dc" target=3D"_blank" styl=
+e=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-bloc=
+k-v2/dark-twitter-48.png" style=3D"display: block;border: 0;outline: none;=
+text-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" widt=
+h=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+ class=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D39038225=
+385d82983c3c2081c&id=3D2697cf0ec1&e=3D1ef7dc45dc" target=3D"_blank" style=
+=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-block=
+-v2/dark-link-48.png" style=3D"display: block;border: 0;outline: none;text=
+-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" width=3D=
+"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+ class=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"mailto:discoverasc@osu.edu" target=3D"_blank" style=3D"=
+word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/=
+dark-forwardtofriend-48.png" style=3D"display: block;border: 0;outline: no=
+ne;text-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" w=
+idth=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+ class=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D39038225=
+385d82983c3c2081c&id=3Df80e1f109e&e=3D1ef7dc45dc" target=3D"_blank" style=
+=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-block=
+-v2/dark-youtube-48.png" style=3D"display: block;border: 0;outline: none;t=
+ext-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" width=
+=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse: collapse;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td valign=3D"top" style=
+=3D"padding-right: 0;padding-bottom: 9px;mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cla=
+ss=3D"mcnFollowContentItemContainer">
+=09=09=09                                            <table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnFollowConten=
+tItem" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                <tbody><tr>
+=09=09=09                                                    <td align=3D"=
+left" valign=3D"middle" style=3D"padding-top: 5px;padding-right: 10px;padd=
+ing-bottom: 5px;padding-left: 9px;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                        <table al=
+ign=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                            <tbod=
+y><tr>
+=09=09=09
+=09=09=09                                                                =
+    <td align=3D"center" valign=3D"middle" width=3D"24" class=3D"mcnFollow=
+IconContent" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                                                =
+        <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D39038225=
+385d82983c3c2081c&id=3D8cd902194a&e=3D1ef7dc45dc" target=3D"_blank" style=
+=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;"><img src=3D"http://cdn-images.mailchimp.com/icons/social-block=
+-v2/dark-instagram-48.png" style=3D"display: block;border: 0;outline: none=
+;text-decoration: none;-ms-interpolation-mode: bicubic;" height=3D"24" wid=
+th=3D"24" class=3D""></a>
+=09=09=09                                                                =
+    </td>
+=09=09=09
+=09=09=09
+=09=09=09                                                            </tr>
+=09=09=09                                                        </tbody><=
+/table>
+=09=09=09                                                    </td>
+=09=09=09                                                </tr>
+=09=09=09                                            </tbody></table>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 11px;line-height: 125%;text-align: left;">
+
+                            <em>Copyright =C2=A9 2015 The Ohio State Unive=
+rsity=2C All rights reserved.</em><br>
+ You are on this list because you've expressed an interest in attending a=
+ university.<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+<div class=3D"vcard"><span class=3D"org fn">The Ohio State University</spa=
+n><div class=3D"adr"><div class=3D"street-address">154B Denney Hall</div><=
+div class=3D"extended-address">164 West 17th Avenue</div><span class=3D"lo=
+cality">Columbus</span>=2C <span class=3D"region">Oh</span>  <span class=
+=3D"postal-code">43201</span></div><br><a href=3D"http://osu.us2.list-mana=
+ge.com/vcard?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763" class=3D"hcard=
+-download">Add us to your address book</a></div>
+<br>
+<br>
+<a class=3D"utilityLink" href=3D"http://osu.us2.list-manage.com/unsubscrib=
+e?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc&c=3D36a3a1e52=
+a" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: unde=
+rline;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp; <a class=3D"utili=
+tyLink" href=3D"http://osu.us2.list-manage.com/profile?u=3D39038225385d829=
+83c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc" style=3D"word-wrap: break-word;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;fon=
+t-weight: normal;text-decoration: underline;">update subscription preferen=
+ces</a>&nbsp;<br>
+<br>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://osu.us2.list-manage.com/track/open.php?u=3D39038225=
+385d82983c3c2081c&id=3D36a3a1e52a&e=3D1ef7dc45dc" height=3D"1" width=3D"1=
+"></body>
+</html>
+--_----------=_MCPart_1522924057--

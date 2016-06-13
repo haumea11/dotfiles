@@ -1,0 +1,57 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp206159oid;
+        Fri, 3 Jul 2015 16:52:02 -0700 (PDT)
+X-Received: by 10.170.37.14 with SMTP id 14mr46755653ykf.129.1435967522731;
+        Fri, 03 Jul 2015 16:52:02 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x233.google.com (mail-yk0-x233.google.com. [2607:f8b0:4002:c07::233])
+        by mx.google.com with ESMTPS id u131si2216921ywb.36.2015.07.03.16.52.02
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jul 2015 16:52:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::233 as permitted sender) client-ip=2607:f8b0:4002:c07::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::233 as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x233.google.com with SMTP id v136so106734765ykd.0
+        for <kuiperhaumea@gmail.com>; Fri, 03 Jul 2015 16:52:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=W1IROeY5jsFIthznAi7bwUq6moMMto4YiXsWgiNYOkA=;
+        b=F6QvwCrz6Cpk4e1uz03vncu/KvdEnu/B2OSu/DiG1wMFPXVZkJzvkARuTCBaC/bvvG
+         8BcZ3TXD9O4WvLnH/ozf7CcrGTVKSMWmIY5PNj1CPBIWdJE1cCyUjart/rvzc3d+Wirm
+         K+0DFcJBDXckkjpBlVE4BXA1LnJBgVGFpJRuTEURQpEreq19CVegqKl4wqMy+kYKP8Zh
+         UL8En+y+jWM7VJQsSdvLvAcbW9vtVM+RGK0xsat9OR5nOSr6QEMngnpH5x5UkT9hbPJU
+         1wwHbQm2mnKnXF9vEVqz6NZg9yjBMal7DiFvMZjCAd3BRfo6TR0vr4Wxy5SOeW6/Tk8C
+         Byuw==
+MIME-Version: 1.0
+X-Received: by 10.170.34.150 with SMTP id 144mr46007994ykc.17.1435967522446;
+ Fri, 03 Jul 2015 16:52:02 -0700 (PDT)
+Received: by 10.129.114.194 with HTTP; Fri, 3 Jul 2015 16:52:02 -0700 (PDT)
+Date: Fri, 3 Jul 2015 19:52:02 -0400
+Message-ID: <CANNyMF8rLuciHOoazfvs_pyCnk5xdLFguGd_YwgBY_52O49mZw@mail.gmail.com>
+Subject: security tutorials
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1135305e15a222051a013eee
+
+--001a1135305e15a222051a013eee
+Content-Type: text/plain; charset=UTF-8
+
+https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA
+
+https://www.youtube.com/user/OpenSecurityTraining
+
+--001a1135305e15a222051a013eee
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><a href=3D"https://www.youtube.com/channel/UC9pq4hre8qZI13=
+2O4cok5vA">https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA</a><br>=
+<div><br></div><div><a href=3D"https://www.youtube.com/user/OpenSecurityTra=
+ining">https://www.youtube.com/user/OpenSecurityTraining</a><br></div></div=
+>
+
+--001a1135305e15a222051a013eee--

@@ -1,0 +1,233 @@
+Received: from BL2PR01MB386.prod.exchangelabs.com (10.141.90.144) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.453.11 via Mailbox Transport; Fri, 8 Apr 2016 21:34:13 +0000
+Received: from BLUPR0101CA0026.prod.exchangelabs.com (10.163.116.164) by
+ BL2PR01MB386.prod.exchangelabs.com (10.141.90.144) with Microsoft SMTP Server
+ (TLS) id 15.1.447.10; Fri, 8 Apr 2016 21:34:12 +0000
+Received: from BL2FFO11FD021.protection.gbl (2a01:111:f400:7c09::189) by
+ BLUPR0101CA0026.outlook.office365.com (2a01:111:e400:52e8::36) with Microsoft
+ SMTP Server (TLS) id 15.1.466.12 via Frontend Transport; Fri, 8 Apr 2016
+ 21:34:12 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.208)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.208 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.208; helo=cio-krc-pf01.osuad.osu.edu;
+Received: from cio-krc-pf01.osuad.osu.edu (164.107.81.208) by
+ BL2FFO11FD021.mail.protection.outlook.com (10.173.161.100) with Microsoft
+ SMTP Server (TLS) id 15.1.453.6 via Frontend Transport; Fri, 8 Apr 2016
+ 21:34:12 +0000
+Received: from CIO-KRC-HT02.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-krc-pf01.osuad.osu.edu (Postfix) with ESMTPS id 11E4BA0034
+	for <markiewicz.22@buckeyemail.osu.edu>; Fri,  8 Apr 2016 17:34:12 -0400 (EDT)
+Received: from na01-by2-obe.outbound.protection.outlook.com (207.46.163.235)
+ by CIO-KRC-HT02.osuad.osu.edu (164.107.81.40) with Microsoft SMTP Server
+ (TLS) id 14.3.248.2; Fri, 8 Apr 2016 17:34:11 -0400
+Received: from BY2PR01CA0060.prod.exchangelabs.com (10.255.242.50) by
+ BY2PR01MB1928.prod.exchangelabs.com (10.166.109.28) with Microsoft SMTP
+ Server (TLS) id 15.1.466.12; Fri, 8 Apr 2016 21:34:01 +0000
+Received: from BN1AFFO11FD018.protection.gbl (2a01:111:f400:7c10::174) by
+ BY2PR01CA0060.outlook.office365.com (2a01:111:e400:2c76::50) with Microsoft
+ SMTP Server (TLS) id 15.1.466.12 via Frontend Transport; Fri, 8 Apr 2016
+ 21:34:02 +0000
+Authentication-Results: spf=softfail (sender IP is 128.146.217.3)
+ smtp.mailfrom=osu.edu; osu.edu; dkim=none (message not signed)
+ header.d=none;osu.edu; dmarc=none action=none header.from=osu.edu;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ osu.edu discourages use of 128.146.217.3 as permitted sender)
+Received: from SMTP02-NEW.studentaffairs.ohio-state.edu (128.146.217.3) by
+ BN1AFFO11FD018.mail.protection.outlook.com (10.58.52.78) with Microsoft SMTP
+ Server (TLS) id 15.1.453.6 via Frontend Transport; Fri, 8 Apr 2016 21:34:01
+ +0000
+Received: from [140.254.75.56] (140.254.75.56) by
+ SMTP02-STARREZ.studentaffairs.ohio-state.edu (128.146.217.2) with Microsoft
+ SMTP Server id 14.3.123.3; Fri, 8 Apr 2016 17:33:41 -0400
+X-Mailer: MailBee.NET 7.0.4.334
+To: "markiewicz.22@osu.edu" <markiewicz.22@osu.edu>
+From: OSU Housing <housing@osu.edu>
+Subject: Welcome Home to The Ohio State University!
+Date: Fri, 8 Apr 2016 17:33:42 -0400
+Message-ID: <1.6c98a8866056cde3df9b@UHDMORC353V12>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_7EEA_357BF9A3.E40B2EE9"
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: [140.254.75.56]
+X-GFI-SMTP-RemoteIP: 140.254.75.56
+X-EOPAttributedMessage: 1
+X-Forefront-Antispam-Report-Untrusted: CIP:128.146.217.3;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(6009001)(2980300002)(189002)(46034005)(199003)(41584004)(33716001)(586003)(6806005)(104016004)(86362001)(5640700001)(106466001)(15975445007)(33646002)(19580395003)(105596002)(75432002)(229853001)(2351001)(9686002)(71636004)(50226001)(92566002)(19580405001)(89122001)(2171001)(84326002)(5001970100001)(5005140100001)(226693001)(107886002)(450100001)(88552002)(189998001)(110136002)(2501003)(5008740100001)(50986999)(90282001)(7059030)(3940600001)(4720700001);DIR:INB;SFP:;SCL:1;SRVR:BY2PR01MB1928;H:SMTP02-NEW.studentaffairs.ohio-state.edu;FPR:;SPF:SoftFail;MLV:sfv;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BN1AFFO11FD018;1:g/yhZhtPVNjjh9G3MiubCaPADwj6MOEn6tyn5ee3VVrikMgw/+43iTeEyB/rCEkmL6NMPYhZT3Zx4uQjtEidMHEx/zz9ZQif16Tl9Ru21VBltBxl64Cx+/dux9L1s3/vf1COSAiD02gon6I7HBEI9Sw2NMrtCNIga1DnL/tdoi+z+LU4bUs2i6iIs/vI5JxQwSA4AIgpaRbFEA9i2eXjJi3nD0gOJVIB8xGbICy0qMb85FJiLwfLBdMss//cLGElOv9X9gJgS7fu8fpiEjMAeQvxqLyYvv8BLJs5p7fDYnK8ac903DovuiPK0QKE9/SUvCT8GkDNg0Q2Jj08sXUS2w+cS4doHbihQaiizUbsz9NOYeRC2DnGDIux9XrO+0nS0YFBRcuiYK+MWpvve0VjmkFroIinamTsNCjhaPkEF6OukljR4z+FB2DTCLbVmeW4D+LZ7m/4PXpwyQDy1j0zv7y1i7CGeur+Tyf6jXnn7mynRax1lSX/oZqpXiBjsK1dTrttjZj5kax39BbLYet2KmCgl95vrcCeyF5Nq1jN/36w3DtBWfJGwxSwFWUcl1SpMg0d57louk4W2YHwAklGFw==
+X-MS-Office365-Filtering-Correlation-Id: 1e515795-9b5f-4b33-af9c-08d35ff5871f
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BY2PR01MB1928;2:UD3Hrn38ZRPCzVUuGOWyD+8vIUssWpkoSpfMehWC3NPaiKWjuFPi+RA2TnYexS38s9FbbvTfGplnH9960nQ7BqZxYYX+/opiqdV6zQ/hgdoF+B9iBZdfiuRxDZMoUMiai9WXxmoerB09wZaYtfzjvOwXJ+jIlSes9Z1H1TLbKNZxalJz9MbSW9VrfHFvr6Co;3:KGjJHZD8cDdYphFcCgiEYMBFw5uvlhOa/3poEXUevBePTtNwY1Oa1F2ihUnjf7s4wzfuavyAOlqaQ5FJx59kg++H60mjeM3iGK5l9FknJdPr3AQHh0T/PCOqBQxpk42XsF0PbUNv/8Ly8Wdj0VsSbjj1wZkOFtQsUyqTEKnqC34iCkx2ZWXaaLiNgjVVCvQQGoSGJY9uiBSUbu07CzWFxCM1MYDYgcxwfBnNQrSeA/DttOKzlrqYRS4F5efkbpvj;25:mITdvFwtdnEFN7ZKo7aPNJ4OC00T4iC62d3v5mkyeYJPE/9kwYfRNDA5zXX+hVvF4hkPIF8/VpffZO4M78gHlJnkFE2wKQ3pcp0O0fvEuLzeWoAX2jK8D++wzGpNNLV1zNPIqdwJDM1J6C0qy3e+PWvO8ivb6vMCCy+z1RKAHhFdx4upfpt6dp8Je116riKMR4ZEx2nI+1fTD2XSgwAKTCzpVsffiJSo33MLmrSUtySrWRzjwhUbeZ6tBK8vOul6ahQbgjgTcDCbgDWnwoGcFOStmyufu2makTpdFjKOKTm0+7es3qI1O3TLS8K2Nwhz5xl4nyR7V1ffgAJWgW+7tA==
+X-Microsoft-Antispam-Untrusted: UriScan:;BCL:0;PCL:0;RULEID:(71701004);SRVR:BY2PR01MB1928;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BY2PR01MB1928;20:vLO8Z+TnQ2B4R6EWjIE2hu1m4ovjOMQ887/Lc8J8Tj7ecINkjHVlHL7fM10RL6LNeVql3NARUZNFap8h9mqKi1jlvdaZVz3V2kaS6jpDHoeWJpgSDSjEfKf4ZXTV5754pRGHZcWpAzvrMFCFUtmp2Lu6IqVZ/r5LGmWDuvF2jrT5h3Fd7aPA9Q/eCd5Q0h7PRYcSUx0lHIv+f+jEjO5Hi7f0jEKPcxMAa0qE7katXYdiH5BzPl/XWD/wyzxZQtaWHxxvDvqbO24MviQPyGKymrsTAE5wtbZwuROA+6cuqcr3XCZVL54OgP7kPzkWvMsaq8KH7vQ0He0pfiewzWrxdFfFP6XzwzNTlBZY6nlij3PDwZnXEzdkyBm0LV+l5ifBANjqvb2l7m7LAWYLJf1NHGfNNSNaY4aolaCInZ7IkjCIsZ7YGs2kqdZimjnro9dbMoYh7SyznOWeOrhbmmiDqLjqmy+20iRuffXtLbBRbaxklJk+8IdycDGIWPgtknqc
+X-Exchange-Antispam-Report-Test: UriScan:;UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(9101515026)(9101518026)(9101512052)(2401047)(8121501046)(9101501001)(9101509026)(13016025)(9101510026)(9101519026)(9101507010)(13018025)(9101520026)(9101504095)(3002001)(10201501046);SRVR:BY2PR01MB1928;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB1928;BCL:0;PCL:0;RULEID:(2401047)(13018025)(8121501046)(13015025)(13017025)(13024025)(13023025)(10201501046)(3002001);SRVR:BL2PR01MB386;BCL:0;PCL:0;RULEID:;SRVR:BL2PR01MB386;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BY2PR01MB1928;4:xJga5XFPOKYQE9hqbrjlgf04YvIlYvIbZ8xH8jK2aU1bSIgyEYVe8+aK7oEjDZvYMnC+hZN2FIt1tzoPEaXLMaALeuOeXgWkS1nhM8kgxcQlfdMacI0iNZAP4mI7uAgTSxzTT1RdGFJI2LnrngpE8ef89NxvUV/WXpkxEiGE56MpgyOjJPhskh47T3yMlO3qzyqiA5WDMMA17/lQSzGA6N72HmIlnO3h1yqctSX3BG2R0RBeyxcoLh3pASRdoKT7S8xnJNyV6j8TOuFg4TzGvzUhHakQJTKT4vnE/gXSyrL68hNdUTWDGiBUg9Q5f2xiYfsqgeKK1CqUFai3M4tTaeLwv8gKQkY46tj3v+HC9i/CPFI8w3seHGYBCNBZAZMF5kMsEFUfpwyAmab2ElPQdEayTG0EWhonxn4ozuI+liL5ISLjvyJW/qgpQjd0Drv/YdoXEAYrOwTHX9t6zbar/vQajCaypRl5vsTSm4mEBgS2SPcY7QS4SMHnhZv8sZvg3bu7YwEKiE6Mxpb41EJ+QyaRkubYxE5LnjrGD/N/IR1Aglqsfwt86lonJ23vN5RF+6TfzeeZo8vLdFzbAo61kLsYnbO4YedTnEAITlltBpNp0fNtqFf0AoLHMZe0gwGb
+X-Microsoft-Exchange-Diagnostics-untrusted: =?us-ascii?Q?1;BY2PR01MB1928;23:K8HQLCFet9BGfv6ASCUAlb7Nsm746Sc8G/Zx5z6LY?=
+ =?us-ascii?Q?T7A/Zb+byVmPKDJC1Z/nNhJLvhQS2Nl4nXY1skHBC3VH1+pL4SEwW2KEyltb?=
+ =?us-ascii?Q?RfPCUWhKdqnqkAEl71wjgsTu9Bud0VQ8fGaCuslWwvsjQjffDOGDRw8xJSX8?=
+ =?us-ascii?Q?GvCbULGRYPERzswt5aes7NfAwFXNiyg8ViSGRbp27/nZBG2PMVuQsjcvAMoB?=
+ =?us-ascii?Q?8lmMQWbwUFfdyUTQH4lE2kAQay4hv9HGNbVs4IfhrzuV/VPzMRqiQYUJZI4q?=
+ =?us-ascii?Q?+uMojhSmzH/BaunblZF0MvvDBQre8rlMMiUFjgYC5qqIXrSjyO1FSZVdrbrX?=
+ =?us-ascii?Q?b+Ns477hfs/SjljmG+eX3GtI8FVNjJwD69CxTFTpWbwLRFVjdzq1sG3geBId?=
+ =?us-ascii?Q?dOalSb7FyratLKqeZ2fed4R56+EOrJvAb34DpGHGzsTrBHUSDurYfVpsWBg/?=
+ =?us-ascii?Q?UiUF1ZBo9iC14FK9TvLv6jTh2m32mB18hIku/++IMAofnmU1Af9GuaoSz/qI?=
+ =?us-ascii?Q?ZgHXafc6ctUE6q9b5FMLBenIO1NX9J27MgErpMju/dS1u+1pQYRVZIe26pYs?=
+ =?us-ascii?Q?Z+SUXt7COFlWnjdCqSYSdUe/4Ci0yRMBH42zjPOScD+z6+PZvSf0ckIbv2uP?=
+ =?us-ascii?Q?swvTHd4U/0+x8bs4ftcBTb1XO37EFlHQ7DFFpOjcv0pj2oab4ubp+f+xbK7o?=
+ =?us-ascii?Q?d6hpdWKh+g9OTNelhTmahOn8THpkUgjHQaTb2fE1nLHztywmNtXdENs/vfJH?=
+ =?us-ascii?Q?hWTUeQ+C6oNh3jm/qpkzpdmAik/vB269wWN82kHmmOEw5QW5dmIoPUV04XMB?=
+ =?us-ascii?Q?9Gd+vHhc3P58GtZlRmlQ5EWqx5YTo39cnhHOgzkzo+GOHBFq35O1eOR4AqZG?=
+ =?us-ascii?Q?KYeftZ25TEspDDelepjDdBIwvznBGEdWZ7tRPHgq7FB4lYdKgXnCzptQcWTv?=
+ =?us-ascii?Q?eTw6WWqMiTQIpeZx/6ziMMClGpaCrlORYIkBcc6dqQbZAPJWbv6rqD9YvD8a?=
+ =?us-ascii?Q?fLZy0fuuzjrqtrLnt5FA3ki5zGbNA/1K8y14Hf3MvwHbfaO8vwi6f/P2viuh?=
+ =?us-ascii?Q?7AgZm/TfF31IWJFUuABblcZ3Y4dPCqh8kOgdyqD4V2ApyBsXXF2C106TJkpe?=
+ =?us-ascii?Q?PcKukzVThW8d2/ORdJIbweWJED4LIGk?=
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BY2PR01MB1928;5:QyHn0xK2zkdSZiqPl+qIODs9H/w3QTNd3dbzt+puuwlHwh5Pk6XoCZhXwekdqBTbycATMos3NpqhvDW8y3tnIiCz5FPnDKU4Yi/ueUOHyeT3n5SAgaEpPm5Ushk5MkEaj4cCkSeCVRZo/BIEXn//6T0nqnxOwHCci/89SOl6ZTzvlEPGGVYjoqwJGvKvUFX5;24:Hc8b19+CBiFTNjSfCGo4hJxxcVlWQKy6sEi+jj6YU3scV8lAQzjKqPeFe7x1eXOqxl6nGuBa71uG7wp9yLn90M9YdAY4w1L5tQqsPyI8xKQ=;7:ZStcd++u+/KbZIceb6wXuXZV3FPLaZXUIWSdfr+eUQ7cEfj58xI2MFRlE5SppGGZKs22j8bgWGC0nJ2/w79s9YlzH29yNSVx1ryLU79SfLSUwl6UbcUztlntpde0i6DlH+2iZhEHQgREq9pFNKWl3x7iVunmOhKOV+oDDKrQoTatxTfB/obRnj5jVuFhe0EPIGjLf3cJKtwL86csK/a4+Rj1EGFTb6TpSkEtF144GhY=;20:biNWZm1wkzTaTSUf1lPwHZu2oA7ABZuLmsn62kEUChaUDR3e8F7OSJapLfobPUSKyEn8hs675+a2Be6gD+DSXvvdjGNq5YtCgOkB/5xVV8qzBniLnNZFH36EJ189n6FhPF6f4KUEgojHlZYRMbxhPC01dGRFHrPUFsoC5IR6vnU=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB1928
+x-header-osu-auth: True
+X-CFilter-Loop: Reflected
+Return-Path: housing@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: 1e515795-9b5f-4b33-af9c-08d35ff5871f
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BL2FFO11FD021.protection.gbl
+X-Forefront-Antispam-Report: CIP:164.107.81.208;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(6009001)(2980300002)(438002)(3190300001)(41584004)(199003)(189002)(46034005)(2171001)(50986999)(19580395003)(450100001)(226693001)(19580405001)(90282001)(87936001)(86362001)(5640700001)(107886002)(110136002)(15975445007)(71636004)(6806005)(106466001)(92566002)(88552002)(84326002)(104016004)(5008740100001)(5005140100001)(93346002)(189998001)(75432002)(89122001)(229853001)(9686002)(1220700001)(33716001)(33646002)(586003)(109096001)(11100500001)(50226001)(2501003)(2351001)(7059030)(3940600001)(4720700001);DIR:INB;SFP:;SCL:1;SRVR:BL2PR01MB386;H:cio-krc-pf01.osuad.osu.edu;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD021;1:DwCb60sMrggo5hUlO/14TBzEyPYAgQkIQ8VlCi3sP+AghYPKfo1OvpvS0w/+I7T/U168EIUK4xVaM7gOywhQlboKUzq1uI751zXJAJcBI+zofkF3O1/vivChJxTQDw7eyZGPtrOlJL0zsDPgZJmmcOZZ9PHaa6zmI5BU7pM1J1jzzjYGAgUva0X9etdm8GTpH6/AntkwCBLHktuYA7zPoBejI3l26ImpH3hjmRT5LZWuAk5PGSlkRVGQfendeDJkq0c2yXYJBtI8YtFkRTQu3omz3cfZtOeLjDN5G3QizN5laf6BR1HC/Dwks66UY7iyLLKyhqivS0/CpSTaDgEgUHKaiaaUGuRCkaREJQdWdF7B56h94qU5REdX3NnTiDgt1vPqlVuWjdCAvyABiX0DfpaREG5TlSIDcniDP0iQqKlMftaPEz2LFSf74/mILFqQ+wL2Wy5rz53wi3cI8LcD9ZBt8K5+ao9Eok5f+eoxpR6YrvQqLpofSZwsxOBTmAYPle/56pKloz5SB+FRODnI7W6tXs58Gwlmv9fB3jvKCm3Eo7qlj0qT0x+9+CIgZ9JfA31rNlUpjGj2oEIGnGG53WQpbge0jveclxUYwM32et4qs7UbHPAm5DpA/G2dxE8T
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;2:+fNb9HtKtCj8Ffcvmt5nmI6gBYT8iGkWnAPDsenA+esrv+kflBS/DjTc9FHUMVEhnTyqLbnEDqd1s0FgzINxFD4XZSsWQE+GiEssxl1Tx4Ez/6HwQleA6gvAheB/sPCCJSAUFUSy6OnW+43hJ7mclykTw+dPo6FLgJ5cP3VnjI0NUOH5+n1SuOnBBbFkRHYs;3:jcKLARMCF8vofz3eGll4qHgGwlOx3yLXwzOjMLnzRORgPofLh9qf7glPGeYstFiBXur+SFGbSZtsoiP14eQATWYh/C0gjEm1PEQnVWL4RjoXTYXp9JdGoO2RunbJxo4JTKPruUB8ScCW5rsBfbdPP/PkgKjvwxjB9FINc6V9HB3DBAvVcYJ0TYteEiG0sN5Pnz5oevW9LRPnZ3cJ8LGymVZ1Tl3QzfdvFWL+gb7S4aYbRrzJtuDpo42YVVEyS1L7HbD5Dp93Ehoqd/zXq8ywLw==;25:AeKiznWYKhRojBVeTG91Qz6Y9f8bC1dUZDuyXAT3tZUopcMZ6zOOUzPoQ2JlqQGoxlU4YHz471YjUQtYMeuI9CtRtITxZDfnf/y/Dfqa3CLYJlgLqXWRKtbCjVdyNYMQXiPU2KCJMp3oeVq71vGbzfCsYd7RgagGTRXCAubQwG04WgCee2O2WmhMtHnxp0lRNbs1A99xSHkxRzOXi153T58H7SE8S1gYWxuTY0ce8zGj0s3yELy0tUHc51RbwdqlY8xLbd86QigBcEQFQzo9nr2pYLEwoHzRuDmt4CBzjGazn7GiIpwdl2TRrraNd8Uo7hUQkqD8Dqd1LNynGTRctg==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:BL2PR01MB386;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2PR01MB386;20:RS0xD3WAWvMVnuMgDxhQUh0j10TUd+oaqsWCt97x7ZGTHKQReqCCy/iOTWsa7KiKSxGznuR4qI1NFndLhmv17zJ/KLjjeXIkAdMWDTXeeQv9JqhwHIxkyl78sbTgVbgA7qKwo14ot2Ik4QU71Mcl4sUEPzR+5KTa+SoS32Axhm8BVJ5l0YlXsCQKoxKnhpcl9UO7fukD45wJhJ+0rwUTVzVyKRXeVTCoEZRhRl+YwfKqMyP7a23OHVSpJIF33Pnna7N+sA5yxQMgOxrFgUX/iiN1di6PuR8T54ZXpVwRASYatKk8VgtyFoW2krpxSWKkLYuWleHUY7nFstlj8JR3NuOwV+vTN4NpgUm53xMu28CXa11LpUM+J8U7sFq7LfOJtRs6ILqVK0UF19L432qBlhNK0AAdKGo24lrCxfrfbV8OOksNZeyQl4lOoDsUo7LNqbUnA9zI2mI001TfNjUtfwGXnwAfnK+sQ3qXKiqO2jPuF2mq6O+R/m+Qk6iTidan;4:wPb34juPwkpLur7iBa4tM2z/0Zp0tzNXHHGdFIQ0vkCy7Xo8UUsNIiidvE8zew2rqsic8UTxex33K1GZkxE9Cd7XF0iZArhIVkDDvZhXo94ZMrqWxA2zbQ2QO4y4CbkBNykpSdHw2E6CodbP8IlbW6ExTtIhmkYlR/FUJwGAdkvIXUG3IwjgloK/hiLPA+3/2gvhcFxVcC24ZUREEOcSm6nJyKpSnQ8440LybuaAMySvLl9V3ekxK9YhvUFug9NGkEfZvXUYK+OLuu0SYhFqHKmJ/XffPdy1rfTuSOVyePgOUId+YCX6sV6Wie3pRBkzDbueJG8p2ucW9ow/n3FjvMpvw/xF4KK8ttxTZKk19zDTjrYfaDH133fOa1TsvwqIDk6maAuaxtYZaJPyz90fyYBqwQaBxz7QTbMummHtwB0JQRkapFAubIcbkep7t/b2
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BL2PR01MB386;23:voer/eUpAyMClvuoUVzek5xFCKkdnxyOiSgcLQbi1b?=
+ =?us-ascii?Q?b3fd7HQ1xf4XjwvIRthcmYcclGijp2OWLdboIzhDJYsv/aK/g3DxyDm/fbIa?=
+ =?us-ascii?Q?eiczotyIeqdPJJ/ONMLkRhBY68/FMK4KDDFlzvZiemfzOiZTUTzpjI+UhEs1?=
+ =?us-ascii?Q?Q59k5WePIanSXYc5iiYU6vRLlwABBUS2WgEkr4EWY3aUtHG6A9MqSK6+p+b5?=
+ =?us-ascii?Q?cYImC9Jp91rtIhHaLE1sc6Plztik9ZFTqjvgYJK3GvkAUEDQISLHmQvWDvyH?=
+ =?us-ascii?Q?aB5gSkbdlhfoQYjbsIOqAWK2ToFTg1uXqB1b5zOEM6L2i0Q086RM0VLtcA29?=
+ =?us-ascii?Q?TN/WEexk+85fXdBuuf8VSM2YMzERFWDjAtZwB1xOPQpqGSmYmtJ6VnJXasIH?=
+ =?us-ascii?Q?RJz3J0Et0mq+pAPVFeAwuyYM2tqhDbICqKqqLLSsMl0D6ggRLSYV3I6LhsdX?=
+ =?us-ascii?Q?BTr2IDW0wLSoqT27xB6MgeYNwsHgYPJVaKb/Ku29cphgjMD8wdlrv66pKFGV?=
+ =?us-ascii?Q?8SeF2669zaT2Q2tNK8L6lRRGFBmYw6BxVAohN9ya7yqRZ3DqLvlSs7a51THI?=
+ =?us-ascii?Q?Jeh+VFwETuDbLaPm0MwiBCQl5DaKq6tQ0AjYiYve7lj88zbCJEO1a9MUkX2w?=
+ =?us-ascii?Q?AoIBBQOFeKg9jOa7yO0exZvdPXkUF8uC/l1pXczpnbjscsYnyvBSwf+BJvId?=
+ =?us-ascii?Q?nR5dNBm+L5uIgRYB1Ga/elLel8Qid6KhGn4/fIhSd7bc73OFhZF0c3BxTHac?=
+ =?us-ascii?Q?auw8RbT2mhoiCP0T3INawE8+Q7CDyx5fMUiv4qTITOLeFhstBuy0Y6Ih4t86?=
+ =?us-ascii?Q?BoBkvkd1hLBwiLpCMOxnco1DTqWrl0y/ftV44E8mjSyc9u/7SmEwRbMKS8Ie?=
+ =?us-ascii?Q?mwqMdyAmo4slF1PveySovyrbf5seDtSa3/MuYulUdb47u7/+vnCKfdYerz73?=
+ =?us-ascii?Q?xq/82vrQEJdlqYas1a/ru1qhz8zdMz9bZGN1eoE9E8rrvMKjTcqjSiJgI/rn?=
+ =?us-ascii?Q?Z81rh42xFU6rhpkqnXqSmhKvO3f9KZrHygQDrPit0gl8NF8jgx5C/IVKH7X1?=
+ =?us-ascii?Q?It5dqbezeELOCft0WQlGc61F+/1fBfArnDhGFXD4Di/4UGmObT5PUY2AN5i4?=
+ =?us-ascii?Q?LVaYpy8VY8NQQRnMONSX3K7uZe190Y3Fu+9aWQCwpPzWX+DzPsU5gvPfiUYH?=
+ =?us-ascii?Q?HaRWEjedXOXmUs0plLryFD0pPdYvnixb1XX8xPqB3X1JfV548RSf0xtw=3D?=
+ =?us-ascii?Q?=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BL2PR01MB386;5:TEeIEykmmFJe1QeNEBXTAZgcV/rV4ypdiUjFHHoywlTJ5IPPpKO0lKaqeDynuUITl3D++rDPW47Nczlii8AnPxa5/gSp4DxcwpVUq9jAMUEcmb+6j0Q1FKPlPe93wvQ25uCIUe14QSvLuTqxd6cClg==;24:8fJjr08x5tcbPOheJJplyvSHXHZ0Izz/R7+4Su9ezZCMlFRF5zCpXeqie2tlS7t1+huOYJapk/L4jjeEPjUehs+aOitO2UJji+dwFIGZ00o=;20:B83q3D8lD51J+mhp1DxlRSezCKDLP5UqgXeCWonawScwRvDWD2iEuLaX7y7OuLk72tHHmX5lAPbkK9woZcyWMxnPRWZ5DyDTG4a7oNqjjplPjd+KnBn0d6LM9W/KC9LNOYbFYwnpu+VW8nKuM0NVhh/uVYqmNuKPWv7fsweD7F4=
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 08 Apr 2016 21:34:12.6750
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.208];Helo=[cio-krc-pf01.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2PR01MB386
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD021.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.2537771
+MIME-Version: 1.0
+
+------=_NextPart_000_7EEA_357BF9A3.E40B2EE9
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+<html><P><FONT size=3D2 face=3DArial>Greetings from the staff at The Ohio S=
+tate University Office of Housing Services!&nbsp; </FONT></P>
+<P><FONT size=3D2 face=3DArial>We are excited to have you join us in the re=
+sidence halls beginning this&nbsp;autumn semester.&nbsp; You can access all=
+ of the housing information and materials that you will need for submitting=
+ a housing contract for a space on campus for<STRONG>&nbsp;the <EM>2016-201=
+7 and 2017-2018&nbsp;academic year(s)*</EM> </STRONG>via the website listed=
+ below.&nbsp; Please make sure to read the Terms and Conditions section car=
+efully before completing the online contract process.</FONT></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto; mso-list: l0 level2 lfo1; tab-stops: list 1.=
+0in"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso=
+-fareast-font-family: 'Times New Roman'"><EM>* <STRONG>Those students who g=
+raduated high school (or educational equivalent) during the 2015-2016 acade=
+mic year:&nbsp;the 2016-2017 and 2017-2018 academic years, or remainder the=
+reof* (autumn through spring semesters of the relevant academic years, incl=
+usive).</STRONG></EM></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto; mso-list: l0 level2 lfo1; tab-stops: list 1.=
+0in"><EM><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif';=
+ mso-fareast-font-family: 'Times New Roman'">* </SPAN><SPAN style=3D"FONT-S=
+IZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'Tim=
+es New Roman'"><STRONG>Those students not bound by the 2 year live-on requi=
+rement: The full 2016-2017 academic year, or remainder thereof (autumn thro=
+ugh spring semesters, inclusive) </STRONG></SPAN><BR></EM><BR><FONT size=3D=
+2 face=3DArial>WEB ADDRESS:&nbsp; http://housing.osu.edu/livingoncampus<BR>=
+&nbsp;<BR>Once you have reviewed these materials, you can then follow the i=
+nstructions to access your housing contract online.&nbsp; There are two opt=
+ions available for completion of your housing contract.&nbsp; You may compl=
+ete your contract entirely on-line and submit your contract signature and f=
+iling and space reservation fees electronically via credit card.&nbsp; Or, =
+you may choose to print a hard copy of the contract and return it signed an=
+d dated by mail with payment via check or money order.&nbsp; Students under=
+ the age of 18 are required to print and mail their contracts as the contra=
+ct form requires a parent or guardian signature.<BR>&nbsp;<BR>Please contac=
+t us if you have any questions.&nbsp; <BR><BR>Welcome Home to The Ohio Stat=
+e University!<BR>&nbsp;<BR>Office of Housing Services<BR>350 Morrill Tower<=
+BR>1910 Cannon Drive<BR>Columbus OH&nbsp; 43210<BR><BR>The Ohio State Unive=
+rsity<BR>University Housing/Dining Services<BR><BR>housing@osu.edu<BR>(614)=
+ 292-8266 phone<BR>(614) 292-6906 fax<BR><BR>Extraordinary Students * Extra=
+ordinary Experiences<BR></FONT></P></html>
+------=_NextPart_000_7EEA_357BF9A3.E40B2EE9
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<html><P><FONT size=3D2 face=3DArial>Greetings from the staff at The Ohio S=
+tate University Office of Housing Services!&nbsp; </FONT></P>
+<P><FONT size=3D2 face=3DArial>We are excited to have you join us in the re=
+sidence halls beginning this&nbsp;autumn semester.&nbsp; You can access all=
+ of the housing information and materials that you will need for submitting=
+ a housing contract for a space on campus for<STRONG>&nbsp;the <EM>2016-201=
+7 and 2017-2018&nbsp;academic year(s)*</EM> </STRONG>via the website listed=
+ below.&nbsp; Please make sure to read the Terms and Conditions section car=
+efully before completing the online contract process.</FONT></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto; mso-list: l0 level2 lfo1; tab-stops: list 1.=
+0in"><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso=
+-fareast-font-family: 'Times New Roman'"><EM>* <STRONG>Those students who g=
+raduated high school (or educational equivalent) during the 2015-2016 acade=
+mic year:&nbsp;the 2016-2017 and 2017-2018 academic years, or remainder the=
+reof* (autumn through spring semesters of the relevant academic years, incl=
+usive).</STRONG></EM></SPAN></P>
+<P class=3DMsoNormal style=3D"MARGIN: 0in 0in 0pt; mso-margin-top-alt: auto=
+; mso-margin-bottom-alt: auto; mso-list: l0 level2 lfo1; tab-stops: list 1.=
+0in"><EM><SPAN style=3D"FONT-SIZE: 10pt; FONT-FAMILY: 'Arial','sans-serif';=
+ mso-fareast-font-family: 'Times New Roman'">* </SPAN><SPAN style=3D"FONT-S=
+IZE: 10pt; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: 'Tim=
+es New Roman'"><STRONG>Those students not bound by the 2 year live-on requi=
+rement: The full 2016-2017 academic year, or remainder thereof (autumn thro=
+ugh spring semesters, inclusive) </STRONG></SPAN><BR></EM><BR><FONT size=3D=
+2 face=3DArial>WEB ADDRESS:&nbsp; http://housing.osu.edu/livingoncampus<BR>=
+&nbsp;<BR>Once you have reviewed these materials, you can then follow the i=
+nstructions to access your housing contract online.&nbsp; There are two opt=
+ions available for completion of your housing contract.&nbsp; You may compl=
+ete your contract entirely on-line and submit your contract signature and f=
+iling and space reservation fees electronically via credit card.&nbsp; Or, =
+you may choose to print a hard copy of the contract and return it signed an=
+d dated by mail with payment via check or money order.&nbsp; Students under=
+ the age of 18 are required to print and mail their contracts as the contra=
+ct form requires a parent or guardian signature.<BR>&nbsp;<BR>Please contac=
+t us if you have any questions.&nbsp; <BR><BR>Welcome Home to The Ohio Stat=
+e University!<BR>&nbsp;<BR>Office of Housing Services<BR>350 Morrill Tower<=
+BR>1910 Cannon Drive<BR>Columbus OH&nbsp; 43210<BR><BR>The Ohio State Unive=
+rsity<BR>University Housing/Dining Services<BR><BR>housing@osu.edu<BR>(614)=
+ 292-8266 phone<BR>(614) 292-6906 fax<BR><BR>Extraordinary Students * Extra=
+ordinary Experiences<BR></FONT></P></html>
+------=_NextPart_000_7EEA_357BF9A3.E40B2EE9--

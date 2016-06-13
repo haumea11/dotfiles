@@ -1,0 +1,50 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1934767oig;
+        Thu, 19 Nov 2015 04:53:57 -0800 (PST)
+X-Received: by 10.31.50.71 with SMTP id y68mr4434717vky.108.1447937637908;
+        Thu, 19 Nov 2015 04:53:57 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-vk0-x231.google.com (mail-vk0-x231.google.com. [2607:f8b0:400c:c05::231])
+        by mx.google.com with ESMTPS id u14si1571037vkd.188.2015.11.19.04.53.57
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 04:53:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:400c:c05::231 as permitted sender) client-ip=2607:f8b0:400c:c05::231;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:400c:c05::231 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-vk0-x231.google.com with SMTP id a189so6329113vkh.2
+        for <kuiperhaumea@gmail.com>; Thu, 19 Nov 2015 04:53:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=/ei7esjCtj90GtRBT9cDywKKrQgBxfs2a8Sa/BJq/s0=;
+        b=sAFskKIwlhjpw3PRNetlfbobZQX+Fi9PKQv0a5NyMqGyDz8aeLRfFwtQf1OVqcEV9n
+         rnrO/PccKZP7vKDMrK22HUR//OXk6omjGUi/H4VOohfAMxri57EBVlFGcY65RJGZ80Qp
+         IL0Zfrkjl2h0iqmHKr3rsdi4nAxOdUTX5G58NG5fDESYk/1U3rLYJG4pjdDU2yqh43yt
+         fofHSImrHYjekPVcNWp7D3wxmegebDWomiRuWLFFuVibPXkrDGMfgw0AO39OJIY10sCs
+         bUBR0wQcflwD3henirtmByPljgetvczFLDmyjdShgygDrAL0ZOVK8qirrwxGKE9MJvM5
+         Vy9w==
+X-Received: by 10.31.183.20 with SMTP id h20mr4231388vkf.139.1447937637709;
+ Thu, 19 Nov 2015 04:53:57 -0800 (PST)
+MIME-Version: 1.0
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Thu, 19 Nov 2015 12:53:48 +0000
+Message-ID: <CANNyMF-swKc9OWyWYGXDJxC02dGn2z0JSL4hBA6_v7E1AdoKSA@mail.gmail.com>
+Subject: Interesting
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a114380b68d7ec60524e440bf
+
+--001a114380b68d7ec60524e440bf
+Content-Type: text/plain; charset=UTF-8
+
+I think it would be super cool, on further thought if you majored in voice
+and picked up a minor in cs. I really like the idea!
+
+--001a114380b68d7ec60524e440bf
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">I think it would be super cool, on further thought if you majored in voice and picked up a minor in cs. I really like the idea!</p>
+
+--001a114380b68d7ec60524e440bf--

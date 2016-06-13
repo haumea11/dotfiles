@@ -1,0 +1,95 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp2040267oig;
+        Tue, 8 Sep 2015 09:28:09 -0700 (PDT)
+X-Received: by 10.194.158.68 with SMTP id ws4mr34513832wjb.25.1441729689883;
+        Tue, 08 Sep 2015 09:28:09 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22d.google.com (mail-wi0-x22d.google.com. [2a00:1450:400c:c05::22d])
+        by mx.google.com with ESMTPS id iz2si5890820wic.52.2015.09.08.09.28.09
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 08 Sep 2015 09:28:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) client-ip=2a00:1450:400c:c05::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@bellarmine-info.org
+Received: by mail-wi0-x22d.google.com with SMTP id fx3so115033668wic.0
+        for <kuiperhaumea@gmail.com>; Tue, 08 Sep 2015 09:28:09 -0700 (PDT)
+X-Received: by 10.194.113.1 with SMTP id iu1mr27685359wjb.158.1441729689240;
+        Tue, 08 Sep 2015 09:28:09 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1804949wmw;
+        Tue, 8 Sep 2015 09:28:08 -0700 (PDT)
+X-Received: by 10.140.25.206 with SMTP id 72mr36875553qgt.49.1441729688490;
+        Tue, 08 Sep 2015 09:28:08 -0700 (PDT)
+Return-Path: <BellarmineUniversity@bellarmine-info.org>
+Received: from mta8254.app-info.net (mta8254.app-info.net. [68.142.178.254])
+        by mx.google.com with ESMTP id 195si3473638qhw.70.2015.09.08.09.28.08
+        for <markiewicz.john@gmail.com>;
+        Tue, 08 Sep 2015 09:28:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of BellarmineUniversity@bellarmine-info.org designates 68.142.178.254 as permitted sender) client-ip=68.142.178.254;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=bellarmine-info.org; h=
+	date:from:reply-to:to:message-id:subject:mime-version
+	:content-type:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=48crhpeVHTtr6V6jaTK9pJmUcyc=; b=WBXeOJjj4q
+	rca+9hb91YLzQBN4FDmOd19Gu5t41tkAbut+3SNiAzc+lFTEUvZu8Pduh5HwFRIV
+	BWjtOfvNvIPkjQIeVtyvHICm48Zxiiu304MAxn+GB7egrbSwifRjqKlq62BG6pu2
+	h/6FSqtSvwEitnt1az0ZeEy+/O29rhhZY=
+Received: from mta61.app-info.net by Postman122.app-info.net with Rome(1.0.38532) id <pd.2.pF2.jA18274.sJj.22960636.rA7.2327.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Tue, 8 Sep 2015 11:57:48 -0400
+Date: Tue, 8 Sep 2015 11:57:48 -0400 (EDT)
+From: Bellarmine University <BellarmineUniversity@bellarmine-info.org>
+Reply-To: Bellarmine University <BellarmineUniversity@bellarmine-info.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <995011034.12562288.1441727868282.JavaMail.nobody@clavin4122.royall.com>
+Subject: You're guaranteed a merit scholarship!
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:BellarmineUniversity@bellarmine-info.org?subject=unsubscriberfc2369%20J2Z2C9I6W0E6I3K6RAM~8%20211%20SNR>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>You're guaranteed a merit scholarship!</title>
+</head>
+<body>
+<p>Dear John,</p>=20
+<p>Upon acceptance at Bellarmine University, you are guaranteed a merit sch=
+olarship! Each year, Bellarmine gives away more than $14 million in institu=
+tional scholarships and grants to entering students.</p>=20
+<p>Apply today <a href=3D"http://www.bellarmine-info.org/turn/cai/aff/spn/J=
+2Z2C9I6W0E6I3K6RAM~8/lik/Mmih/cyp/oW/cmm/211/esd/52bf8d22765f1fac84a1e4e943=
+cf2b567b83f967/">with your <strong>Ultimate status</strong></a> and you'll =
+also take advantage of:</p>=20
+<ul>=20
+ <li>No application essay</li>=20
+ <li>No application fee</li>=20
+ <li>A two-week admission decision</li>=20
+</ul> =20
+<p>I encourage you to submit <a href=3D"http://www.bellarmine-info.org/turn=
+/cai/aff/spn/J2Z2C9I6W0E6I3K6RAM~8/lik/Mmig/cyp/oW/cmm/211/esd/52bf8d22765f=
+1fac84a1e4e943cf2b567b83f967/">your <strong>Ultimate Application</strong></=
+a> as soon as you can!</p>=20
+<p>Sincerely,</p>=20
+<p>Timothy A. Sturgeon<br />Dean of Undergraduate Admission<br /><strong>Be=
+llarmine University</strong><br />2001 Newburg Rd.<br />Louisville, KY 4020=
+5</p>=20
+<p>P.S. Did you know 100% of incoming Bellarmine freshmen receive some sort=
+ of institutional gift-aid assistance? We want you to focus on personal, ac=
+ademic and professional goals, not paying for college. <a href=3D"http://ww=
+w.bellarmine-info.org/turn/cai/aff/spn/J2Z2C9I6W0E6I3K6RAM~8/lik/MmiW/cyp/o=
+W/cmm/211/esd/52bf8d22765f1fac84a1e4e943cf2b567b83f967/">Access your <stron=
+g>Ultimate Application</strong> here.</a></p>=20
+<p style=3D"font-size: 0.8em;">I received your email address from a nationa=
+l student testing or research organization, or from a previous contact with=
+ you. If you'd rather not receive email from Bellarmine University, <a href=
+=3D"http://www.bellarmine-info.org/turn/cai/aff/spn/J2Z2C9I6W0E6I3K6RAM~8/l=
+ik/MmiZ/cyp/oW/cmm/211/esd/52bf8d22765f1fac84a1e4e943cf2b567b83f967/">let m=
+e know</a>.</p>
+</body>
+</html>

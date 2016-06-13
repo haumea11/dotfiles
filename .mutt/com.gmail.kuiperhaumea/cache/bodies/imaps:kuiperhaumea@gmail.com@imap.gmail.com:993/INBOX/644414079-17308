@@ -1,0 +1,278 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp2170230oia;
+        Sun, 13 Mar 2016 09:40:15 -0700 (PDT)
+X-Received: by 10.28.178.208 with SMTP id b199mr12675020wmf.51.1457887215508;
+        Sun, 13 Mar 2016 09:40:15 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x236.google.com (mail-wm0-x236.google.com. [2a00:1450:400c:c09::236])
+        by mx.google.com with ESMTPS id ry17si20404428wjb.164.2016.03.13.09.40.15
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 13 Mar 2016 09:40:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::236 as permitted sender) client-ip=2a00:1450:400c:c09::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::236 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mx.aol.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=aol.com
+Received: by mail-wm0-x236.google.com with SMTP id l68so65752691wml.1
+        for <kuiperhaumea@gmail.com>; Sun, 13 Mar 2016 09:40:15 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:message-id:mime-version:to:cc:from
+         :subject:date:importance:dkim-signature;
+        bh=5KNLh3CvSFgDiQDW9g1S565uUxJvRqKbEzmAMqz2CGA=;
+        b=idDj76zwWoNhFrwn/gh+Tgpx5L7eA7wCKWapY3eSazhlFN4HxTDbNFeipuQHYiAqyH
+         7I6QAUPHXJ8BFK2QX00s+BUfr0/8oMenw5aCqdoph4/KhkkVSAeK+kGqdbCHQz+InSi1
+         15QFIsGZTs2i9Tm7crJ6EhaoRHf8mKhE45YQIUkRRgwyi/RjR63aheXwXL/amfxRZv6R
+         n8k8SXj7p9pFLJRZj70nAOiYFMrJw4CcGSyd0xitScPKvhwedR6xqJuO/sz9A3h1RGO9
+         HDESvKHy6tOYAhPKKuJm9vUXQ4gw71cR0kTamVbOVPtTfsyWBL/ksV3gRnPfghuw4CS0
+         eLZA==
+X-Gm-Message-State: AD7BkJLrEixuH+Q6fe1mS+qbEgjPxvc2l1KcivyOGnD8q3mMG/P7xDW9UxO3/VLSOwRaD+l7oaMWvY28XO0GUA49Gax6Snc=
+X-Received: by 10.194.134.134 with SMTP id pk6mr20147509wjb.176.1457887215022;
+        Sun, 13 Mar 2016 09:40:15 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp2027480wmb;
+        Sun, 13 Mar 2016 09:40:14 -0700 (PDT)
+X-Received: by 10.55.215.83 with SMTP id m80mr24584878qki.84.1457887213934;
+        Sun, 13 Mar 2016 09:40:13 -0700 (PDT)
+Return-Path: <greatspinx@aol.com>
+Received: from omr-m011e.mx.aol.com (omr-m011e.mx.aol.com. [204.29.186.11])
+        by mx.google.com with ESMTPS id b67si17776692qgf.86.2016.03.13.09.40.13
+        for <markiewicz.john@gmail.com>
+        (version=TLS1 cipher=AES128-SHA bits=128/128);
+        Sun, 13 Mar 2016 09:40:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of greatspinx@aol.com designates 204.29.186.11 as permitted sender) client-ip=204.29.186.11;
+Message-Id: <56e597ed.49698c0a.c1bc1.617fSMTPIN_ADDED_MISSING@mx.google.com>
+Received: from mtaout-aag01.mx.aol.com (mtaout-aag01.mx.aol.com [172.26.126.77])
+	by omr-m011e.mx.aol.com (Outbound Mail Relay) with ESMTP id 2A2713800042;
+	Sun, 13 Mar 2016 12:40:13 -0400 (EDT)
+Received: from [IPv6:::ffff:192.168.1.3] (cpe-76-181-227-142.columbus.res.rr.com [76.181.227.142])
+	(using TLSv1 with cipher AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-aag01.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 9E9F538000082;
+	Sun, 13 Mar 2016 12:40:12 -0400 (EDT)
+MIME-Version: 1.0
+To: "markiewicz.john@gmail.com" <markiewicz.john@gmail.com>
+Cc: "katyrdilts@gmail.com" <katyrdilts@gmail.com>, 
+	greatspinx <greatspinx@aol.com>
+From: <greatspinx@aol.com>
+Subject: Welcome to The Fishnet Mafia / Rocky Horror Picture Show of
+ Columbus, OH
+Date: Sun, 13 Mar 2016 12:40:14 -0400
+Importance: normal
+X-Priority: 3
+Content-Type: multipart/alternative;
+	boundary="_A9B1BBE5-999A-4FCD-99E7-87DFE3AFDD4B_"
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1457887213;
+	bh=5KNLh3CvSFgDiQDW9g1S565uUxJvRqKbEzmAMqz2CGA=;
+	h=From:To:Subject:Date:MIME-Version:Content-Type;
+	b=5T7/LME7UGY070vw4kLE40p+yOOAoc6/QMQOnAP3fpNVrN0oE6xuWQFHLcDz6sXMh
+	 JirnCZe3dWBnytyL94o/2nT0xW4Ag4eE4Vs4xS2gjSs5FvbljTtI1gEPEfTwV4u05X
+	 8FgGdpgcw5LEL3lWbS3a7OI/zxb9sv6dRXwPUkZ8=
+x-aol-sid: 3039ac1a7e4d56e597ec79a4
+X-AOL-IP: 76.181.227.142
+
+--_A9B1BBE5-999A-4FCD-99E7-87DFE3AFDD4B_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+Hello John,
+
+I do hope all is going well and you are looking forward to the next show.
+
+I think you'd make a great cast member and I would love to have you on cast=
+.=20
+
+Typically we do a 3 show trial run to make it official and see if we are go=
+od fit for you and you are a good fit for us. However, we have dropped a fe=
+w people and I want to fill our cast with those who have Rocky Horror in th=
+eir hearts and I feel this is you.
+
+There a few things I want to touch bases on and ensure you are good with al=
+l this.
+
+We do a lot of our cast communication on Facebook, from cast discussions, s=
+how information, thoughts, ideas, important information. I would suggest yo=
+u make it a habit on checking facebook when ever possible, (at least for th=
+e group)
+
+It is a secret group that I can add you to, that way you can get notificati=
+ons and take an active part in cast discussion and receive cast information=
+.
+
+As you know, our shows are typically the 1st Saturday of the month unless s=
+omething is happening at the theater in which we have to move it back like =
+ around Halloween time.  We always let everyone know well in advance to mak=
+e plans.
+
+The entire cast attends a meeting at 8pm (unless it is noted to make an ear=
+lier or later time) at Cora's house prior to the show on the Show night.  H=
+ere we discuss important information, issues, fun events and we do workshop=
+s and team building activates.  We also cast the next show at the meeting. =
+This also gives everyone a chance to mingle and great ready for the show if=
+ they need to.
+
+I would like you to begin attending cast meetings on show nights.
+Cora's address is:
+
+3806 Edendale Road
+Columbus, OH 43207
+
+Some people think that what we do as a shadowcast is a simple and quick eve=
+nt.  As you saw the other night, it's not that easy and it's almost like a =
+stage show. Lots is always going on. There for, I ask for dedication from m=
+y cast....from making sure you are meetings, shows, taking an active part i=
+n the cast in all aspects.=20
+
+If at any time you feel there is problem or a concern, you can contact me a=
+ny time,  I am always available on call, text or facebook.
+
+My Assistant Cast Director Katy is also available if you can't get in touch=
+ with me.
+
+Sometimes, bad things happen in life or things don't go as we planed.  If f=
+or any reason you can't make a meeting or show or both, be sure to contact =
+me and Katy as soon as possible.  Text us both or send a personal message o=
+n facebook.
+
+
+All Rocky Horror characters have 2 cast members that alternate the role. So=
+me roles are Full (such as Frank, Brad, Mags, Columbia) however, this does =
+not mean you may not get an opportunity to play a character.  =20
+
+Sometimes, an opening may become available and this would give you the oppo=
+rtunity to play a character you don't normally play.  To play a character, =
+a cast member is required to have that Character costume before playing the=
+ role. There a few smaller added costume pieces that have like Frank's cape=
+, Columbia's ears.
+
+I think this covers the important stuff at the moment.
+Add me to facebook as soon as posible
+Let me know if you have any questions or concerns.
+See you on April 2nd at Cora's.
+
+Huggzz and Kizzez
+Jimmy Reeb
+Cast Director of The Fishnet Mafia Shadowcast/Rocky Horrror Picture SHow
+614-599-4018
+greatspinx@aol.com
+
+
+Sent from Mail for Windows 10
+
+
+--_A9B1BBE5-999A-4FCD-99E7-87DFE3AFDD4B_
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta ht=
+tp-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta name=
+=3DGenerator content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style></head><body lang=3DEN-US link=3Dblue vlink=3D"#954F72"><div cla=
+ss=3DWordSection1><p class=3DMsoNormal>Hello John,<span style=3D'font-size:=
+12.0pt'><o:p></o:p></span></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>I do hope all is going well and you are looking forward t=
+o the next show.</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMs=
+oNormal>I think you'd make a great cast member and I would love to have you=
+ on cast. </p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNorma=
+l>Typically we do a 3 show trial run to make it official and see if we are =
+good fit for you and you are a good fit for us. However, we have dropped a =
+few people and I want to fill our cast with those who have Rocky Horror in =
+their hearts and I feel this is you.</p><p class=3DMsoNormal><o:p>&nbsp;</o=
+:p></p><p class=3DMsoNormal>There a few things I want to touch bases on and=
+ ensure you are good with all this.</p><p class=3DMsoNormal><o:p>&nbsp;</o:=
+p></p><p class=3DMsoNormal>We do a lot of our cast communication on Faceboo=
+k, from cast discussions, show information, thoughts, ideas, important info=
+rmation. I would suggest you make it a habit on checking facebook when ever=
+ possible, (at least for the group)</p><p class=3DMsoNormal><o:p>&nbsp;</o:=
+p></p><p class=3DMsoNormal>It is a secret group that I can add you to, that=
+ way you can get notifications and take an active part in cast discussion a=
+nd receive cast information.</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><=
+p class=3DMsoNormal>As you know, our shows are typically the 1st Saturday o=
+f the month unless something is happening at the theater in which we have t=
+o move it back like=C2=A0 around Halloween time.=C2=A0 We always let everyo=
+ne know well in advance to make plans.</p><p class=3DMsoNormal><o:p>&nbsp;<=
+/o:p></p><p class=3DMsoNormal>The entire cast attends a meeting at 8pm (unl=
+ess it is noted to make an earlier or later time) at Cora's house prior to =
+the show on the Show night.=C2=A0 Here we discuss important information, is=
+sues, fun events and we do workshops and team building activates.=C2=A0 We =
+also cast the next show at the meeting. This also gives everyone a chance t=
+o mingle and great ready for the show if they need to.</p><p class=3DMsoNor=
+mal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I would like you to begin att=
+ending cast meetings on show nights.</p><p class=3DMsoNormal>Cora's address=
+ is:</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>3806=
+ Edendale Road</p><p class=3DMsoNormal>Columbus, OH 43207</p><p class=3DMso=
+Normal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Some people think that wha=
+t we do as a shadowcast is a simple and quick event.=C2=A0 As you saw the o=
+ther night, it's not that easy and it's almost like a stage show. Lots is a=
+lways going on. There for, I ask for dedication from my cast....from making=
+ sure you are meetings, shows, taking an active part in the cast in all asp=
+ects. </p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>If=
+ at any time you feel there is problem or a concern, you can contact me any=
+ time,=C2=A0 I am always available on call, text or facebook.</p><p class=
+=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>My Assistant Cast Di=
+rector Katy is also available if you can't get in touch with me.</p><p clas=
+s=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Sometimes, bad thin=
+gs happen in life or things don't go as we planed.=C2=A0 If for any reason =
+you can't make a meeting or show or both, be sure to contact me and Katy as=
+ soon as possible.=C2=A0 Text us both or send a personal message on faceboo=
+k.</p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&=
+nbsp;</o:p></p><p class=3DMsoNormal>All Rocky Horror characters have 2 cast=
+ members that alternate the role. Some roles are Full (such as Frank, Brad,=
+ Mags, Columbia) however, this does not mean you may not get an opportunity=
+ to play a character.=C2=A0=C2=A0 </p><p class=3DMsoNormal><o:p>&nbsp;</o:p=
+></p><p class=3DMsoNormal>Sometimes, an opening may become available and th=
+is would give you the opportunity to play a character you don't normally pl=
+ay.=C2=A0 To play a character, a cast member is required to have that Chara=
+cter costume before playing the role. There a few smaller added costume pie=
+ces that have like Frank's cape, Columbia's ears.</p><p class=3DMsoNormal><=
+o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I think this covers the important =
+stuff at the moment.</p><p class=3DMsoNormal>Add me to facebook as soon as =
+posible</p><p class=3DMsoNormal>Let me know if you have any questions or co=
+ncerns.</p><p class=3DMsoNormal>See you on April 2nd at Cora's.</p><p class=
+=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Huggzz and Kizzez</p=
+><p class=3DMsoNormal>Jimmy Reeb</p><p class=3DMsoNormal>Cast Director of T=
+he Fishnet Mafia Shadowcast/Rocky Horrror Picture SHow</p><p class=3DMsoNor=
+mal>614-599-4018</p><p class=3DMsoNormal>greatspinx@aol.com</p><p class=3DM=
+soNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Sent from <a href=3D"https://go.microsoft.com/fwlink/?Lin=
+kId=3D550986">Mail</a> for Windows 10</p><p class=3DMsoNormal><span style=
+=3D'font-size:12.0pt;font-family:"Times New Roman",serif'><o:p>&nbsp;</o:p>=
+</span></p></div></body></html>=
+
+--_A9B1BBE5-999A-4FCD-99E7-87DFE3AFDD4B_--
+

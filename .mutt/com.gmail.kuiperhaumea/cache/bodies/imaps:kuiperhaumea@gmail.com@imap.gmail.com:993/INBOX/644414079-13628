@@ -1,0 +1,450 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp1707660oig;
+        Mon, 21 Sep 2015 09:32:56 -0700 (PDT)
+X-Received: by 10.180.211.243 with SMTP id nf19mr15053469wic.74.1442853176807;
+        Mon, 21 Sep 2015 09:32:56 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x231.google.com (mail-wi0-x231.google.com. [2a00:1450:400c:c05::231])
+        by mx.google.com with ESMTPS id gb9si17046999wib.29.2015.09.21.09.32.56
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 21 Sep 2015 09:32:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::231 as permitted sender) client-ip=2a00:1450:400c:c05::231;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::231 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@iad01.hobsonsmail.com
+Received: by mail-wi0-x231.google.com with SMTP id fx3so144888061wic.1
+        for <kuiperhaumea@gmail.com>; Mon, 21 Sep 2015 09:32:56 -0700 (PDT)
+X-Received: by 10.194.235.6 with SMTP id ui6mr28210594wjc.92.1442853176479;
+        Mon, 21 Sep 2015 09:32:56 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1706866wmw;
+        Mon, 21 Sep 2015 09:32:55 -0700 (PDT)
+X-Received: by 10.55.15.155 with SMTP id 27mr24104362qkp.9.1442853175352;
+        Mon, 21 Sep 2015 09:32:55 -0700 (PDT)
+Return-Path: <16190110.saicconnect@iad01.hobsonsmail.com>
+Received: from mailer04.iad01.hobsonsmail.com (mailer04.iad01.hobsonsmail.com. [165.193.85.13])
+        by mx.google.com with ESMTP id w194si22092102qha.91.2015.09.21.09.32.55
+        for <markiewicz.john@gmail.com>;
+        Mon, 21 Sep 2015 09:32:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 16190110.saicconnect@iad01.hobsonsmail.com designates 165.193.85.13 as permitted sender) client-ip=165.193.85.13;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key3; d=iad01.hobsonsmail.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:Message-ID;
+ bh=MOHfhXjIaWaHMAPE7FbFF0aZRgo=;
+ b=iQqr6DRXlYMEdj4RueVzC6AeF84MNIy5K65Hjt74impChjLDwEj2Y6uwCsUze/tIp9TwlEpthE7N
+   UEowfPiYvwp2s/J8qQ+nULusZHrKGsnEdr98uMY0p9a8amE8VF1yoRfFs+z4g/va8tdGmtEWfyUy
+   gISv9cQBttkyo0Z0US4=
+Received: from IAD1PA014 (10.56.152.142) by mailer04.iad01.hobsonsmail.com id h00oje19gqcq for <markiewicz.john@gmail.com>; Mon, 21 Sep 2015 12:32:54 -0400 (envelope-from <16190110.saicconnect@iad01.hobsonsmail.com>)
+From: "The School of the Art Institute of Chicago" <ugadmiss@saic.edu> 
+To: "John Markiewicz" <markiewicz.john@gmail.com>
+Reply-To: 16190110.saicconnect@iad01.hobsonsmail.com
+Date: Mon, 21 Sep 2015 12:32:54 -0400
+Subject: =?utf-8?B?VE9NT1JST1chIE9ubGluZSBJbmZvcm1hdGlvbiBTZXNzaW9uIC0gSG93IHRv?=
+	=?utf-8?B?IENvbXBsZXRlIHRoZSBDb21tb24gQXBwbGljYXRpb24gLSBTZXB0LiAyMg==?=
+	=?utf-8?B??=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_cac6e68b6fb443ca8f55c35ee2e36017"
+X-Mailer: aspNetEmail ver 3.5.2.0
+Message-ID: <IAD1PA014d01fcddea19b4eb59a854f003cf69b6f@IAD1PA014>
+
+This is a multi-part email in Mime format.
+
+--_=aspNetEmail=_cac6e68b6fb443ca8f55c35ee2e36017
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,=0D=0A=0D=0AThe School of the Art Institute of Chicago (SAIC)  =
+is hosting an online information session to assist you in completing the =
+Common Application=2E There will also be time for your questions during a=
+nd following the presentation=2E=0D=0A=0D=0AHow to Apply - Tips for Compl=
+eting the Common Application=0D=0ATuesday, September 22, 6:30pm (CDT) =0D=
+=0A=0D=0ATopics will include:=0D=0A> Accessing and completing the Common =
+Application=0D=0A> Uploading your portfolio=0D=0A> Submitting test scores=
+, transcripts and letters of recommendation=0D=0A> Filling out and submit=
+ting your Artist=27s Statement=0D=0A=0D=0A=0D=0ARegistration Instructions=
+=0D=0A=0D=0A1=2E  Go to: https://saic-events=2Ewebex=2Ecom/saic-events/on=
+stage/g=2Ephp?MTID=3De3686d4152fe25359e36297b3d4f934cd=0D=0A=0D=0A2=2E  C=
+lick Register=2E=0D=0A=0D=0A3=2E  Enter your information on the registrat=
+ion form and then click =22Submit=22=0D=0A=0D=0A4=2E  You will receive an=
+ email with information about how to join the webinar - and we=27ll send =
+you reminder emails as well=21=0D=0A=0D=0A=0D=0AFor technical assistance,=
+ please contact Cisco WebEx Support at:=0D=0A1=2E866=2E229=2E3239 (U=2ES=2E=
+ and Canada toll-free), 1=2E408=2E435=2E7088 (U=2ES=2E/Canada toll)=0D=0A=
+=0D=0AIf you have any questions, please feel free to contact our admissio=
+ns office at 1=2E800=2E232=2E7242, 312=2E629=2E6100, or ugadmiss=40saic=2E=
+edu=0D=0A=0D=0A********************=0D=0AConnect with SAIC=0D=0A*********=
+***********=0D=0A=0D=0AFACEBOOK: http://www=2Efacebook=2Ecom/groups/SAICU=
+ndergraduateAdmissions=0D=0ATWITTER: https://twitter=2Ecom/saicadmissions=
+=0D=0AVIMEO: https://vimeo=2Ecom/theschoolofart=0D=0ATUMBLR: http://saic=2E=
+tumblr=2Ecom/=0D=0A=0D=0AA leader in educating artists, designers, and sc=
+holars since 1866, the School of the Art Institute of Chicago (SAIC) offe=
+rs nationally and regionally accredited undergraduate, graduate, and post=
+-baccalaureate programs to nearly 3,200 students from across the globe=2E=
+ Located in the heart of Chicago, SAIC=27s educational philosophy is buil=
+t upon a multidisciplinary approach to art and design, giving students un=
+paralleled opportunities to develop their creative and critical abilities=
+, while working with renowned faculty who include many of the leading pra=
+ctitioners in their fields=2E SAIC=27s resources include the Art Institut=
+e of Chicago and its new Modern Wing; numerous special collections and pr=
+ogramming venues provide students with exceptional exhibitions, screening=
+s, lectures, and performances=2E=0D=0A=0D=0AIt is the policy of the Schoo=
+l not to discriminate on the basis of age, disability, color, creed, nati=
+onal origin, religion, race, sex, or sexual orientation in student recrui=
+tment and admissions, in financial aid programs, in student and employee =
+services, in educational programs and activities, or in employment practi=
+ces=2E=0D=0A=0D=0A<div align=3D=22center=22><span style=3D=22font-size: 1=
+1px; color: =23c9c9c9;=22 face=3D=22Arial=22>If you no longer wish to rec=
+eive E-mails from The School of the Art Institute of Chicago</style> http=
+://saicconnect=2Easkadmissions=2Enet/admin/Communications/OptOut=2Easpx?q=
+s=3DK5dOi2YJQSYTpH5YWx5X=252b4buU8orW=252bQME07IatFTi=252fIyWPs=252bWgRJV=
+w=253d=253d
+
+--_=aspNetEmail=_cac6e68b6fb443ca8f55c35ee2e36017
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD><BODY><=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E=
+0 Strict//EN=22 =22http://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-strict=2Edt=
+d=22><html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>=0D=0A    <head=
+>=0D=0A        <meta charset=3D=22utf-8=22>=0D=0A        <meta name=3D=22=
+viewport=22 content=3D=22width=3Ddevice-width, initial-scale=3D1=22>=0D=0A=
+        <meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22=
+>=0D=0A        <title>The School of the Art Institute of Chicago</title>=0D=
+=0A        <style type=3D=22text/css=22>=0D=0A            body =7B=0D=0A =
+           padding: 0;=0D=0A            margin: 0;=0D=0A            font-=
+family: sans-serif;=0D=0A            =7D=0D=0A            =40media screen=
+ and (max-width: 600px) =7B=0D=0A            table=5Bclass=3D=22responsiv=
+e-table=22=5D =7B=0D=0A            width: 90=25 =21important;=0D=0A      =
+      =7D=0D=0A            table=5Bclass=3D=22responsive-table2=22=5D =7B=
+=0D=0A            width: 100=25 =21important;=0D=0A            text-align=
+: center =21important;=0D=0A            padding: 10px 5=25 =21important;=0D=
+=0A            =7D=0D=0A            td=5Bclass=3D=22responsive-mainlinks=22=
+=5D =7B=0D=0A            text-align: center =21important;=0D=0A          =
+  =7D=0D=0A            table=5Bclass=3D=22email-container=22=5D =7B=0D=0A=
+            width: 100=25 =21important;=0D=0A            =7D=0D=0A       =
+     table=5Bclass=3D=22fluid=22=5D =7B=0D=0A            width: 100=25 =21=
+important;=0D=0A            =7D=0D=0A            td=5Bclass=3D=22force-co=
+l=22=5D =7B=0D=0A            display: block =21important; width: 100=25 =21=
+important; clear: both;=0D=0A            =7D=0D=0A            td=5Bclass=3D=
+=22force-col-center=22=5D =7B=0D=0A            display: block =21importan=
+t; width: 100=25 =21important; clear: both;=0D=0A            =7D=0D=0A   =
+         td=5Bclass=3D=22force-col-center=22=5D =7B=0D=0A            text=
+-align: center =21important;=0D=0A            =7D=0D=0A            table=5B=
+class=3D=22button=22=5D =7B=0D=0A            width: 100=25 =21important;=0D=
+=0A            =7D=0D=0A            =7D=0D=0A            =40media screen =
+and (max-device-width: 425px) =7B=0D=0A            table=5Bclass=3D=22hh-=
+fluid=22=5D =7B=0D=0A            width: 100=25 =21important;=0D=0A       =
+     =7D=0D=0A            td=5Bclass=3D=22hh-spacer=22=5D =7B=0D=0A      =
+      display: block =21important; width: 100=25 =21important; height: 20=
+px; clear: both;=0D=0A            =7D=0D=0A            td=5Bclass=3D=22hh=
+-force-col=22=5D =7B=0D=0A            display: block =21important; width:=
+ 100=25 =21important; clear: both;=0D=0A            =7D=0D=0A            =
+td=5Bclass=3D=22hh-force-col-center=22=5D =7B=0D=0A            display: b=
+lock =21important; width: 100=25 =21important; clear: both;=0D=0A        =
+    =7D=0D=0A            td=5Bclass=3D=22hh-force-col-center=22=5D =7B=0D=
+=0A            text-align: center =21important;=0D=0A            =7D=0D=0A=
+            =7D=0D=0A        </style>=0D=0A    </head>=0D=0A    <body>=0D=
+=0A        <=21-- FULL WIDTH CONTAINER -->=0D=0A        <table border=3D=22=
+0=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22100=25=22>=0D=
+=0A            <tbody>=0D=0A                <tr>=0D=0A                   =
+ <td align=3D=22center=22>=0D=0A                    <=21-- FIXED WIDTH 60=
+0px CONTAINER -->=0D=0A                    <table class=3D=22responsive-t=
+able=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 widt=
+h=3D=22600=22>=0D=0A                        <=21-- PRE-HEADER -->=0D=0A  =
+                      <tbody>=0D=0A                            <tr>=0D=0A=
+                                <td style=3D=22font-size: 10px; padding-t=
+op: 20px; display: none=21important;=22 class=3D=22headline=22 align=3D=22=
+center=22>The Nation=27s Most Influential Art and Design School</td>=0D=0A=
+                            </tr>=0D=0A                            <=21--=
+ END PRE-HEADER -->=0D=0A                            <=21-- LOGO / TAGLIN=
+E ROW -->=0D=0A                            <tr>=0D=0A                    =
+            <td style=3D=22padding-bottom: 20px;=22>=0D=0A               =
+                 <=21-- LOGO -->=0D=0A                                <ta=
+ble class=3D=22responsive-table2=22 align=3D=22left=22 border=3D=220=22 c=
+ellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22290=22>=0D=0A      =
+                              <tbody>=0D=0A                              =
+          <tr>=0D=0A                                            <td>=0D=0A=
+                                            <a href=3D=22http://saicconne=
+ct=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvY=
+CHpwXzhvpqX43xZVFnSW8VO=252brMiAK27SQJnz8vHN1DkpQJlFEgAsJd0B10UfKJP5HbQYP=
+c=253d=22><img src=3D=22http://static=2Easkadmissions=2Enet/saic/usermedi=
+a/Logo_Headers/SAIClogo_Blk_300=2Ejpg=22 alt=3D=22The School of the Art I=
+nstitute=22 height=3D=22auto=22 width=3D=22300=22>=0D=0A                 =
+                           </a>=0D=0A                                    =
+        </td>=0D=0A                                        </tr>=0D=0A   =
+                                 </tbody>=0D=0A                          =
+      </table>=0D=0A                                <=21-- END LOGO -->=0D=
+=0A                                <=21-- TAGLINE -->=0D=0A              =
+                  <table class=3D=22responsive-table2=22 style=3D=22text-=
+align:right;=22 align=3D=22right=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 width=3D=22280=22>=0D=0A                          =
+          <tbody>=0D=0A                                        <tr>=0D=0A=
+                                            <td>=0D=0A                   =
+                         <span style=3D=22letter-spacing: 3px; -ms-text-s=
+ize-adjust: 100=25; -webkit-text-size-adjust: 100=25; margin: 0pt; paddin=
+g: 0pt; font: 10px Helvetica, Neue, Helvetica, Arial, sans-serif; color: =
+rgb(26, 26, 26);=22>=0D=0A                                            THE=
+ NATION=27S MOST INFLUENTIAL<br>=0D=0A                                   =
+         ART AND DESIGN SCHOOL=0D=0A                                     =
+       </span>=0D=0A                                            </td>=0D=0A=
+                                        </tr>=0D=0A                      =
+              </tbody>=0D=0A                                </table>=0D=0A=
+                                <=21-- END TAGLINE -->=0D=0A             =
+                   </td>=0D=0A                            </tr>=0D=0A    =
+                        <=21-- END LOGO / TAGLINE ROW -->=0D=0A          =
+                  <=21-- MAIN LINKS -->=0D=0A                            =
+<tr>=0D=0A                                <td class=3D=22responsive-mainl=
+inks=22 style=3D=22padding: 10px 0; text-align: right;=22 valign=3D=22top=
+=22>=0D=0A                                <p style=3D=22letter-spacing: 2=
+px; margin: 0pt; padding: 0pt; font: 14px Helvetica, Neue, Helvetica, Ari=
+al, sans-serif;=22>=0D=0A                                <a href=3D=22htt=
+p://saicconnect=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Eas=
+px?qs=3D50hvYCHpwXzhvpqX43xZVKFKJwZxvxA8hL5vuQGKqc79i11Bv5CKfu=252bfujz2I=
+Y2HvLyde5d2lUA=253d=22 style=3D=22font-family: sans-serif; text-decoratio=
+n: none; color: rgb(238, 74, 169);=22 target=3D=22_blank=22>APPLY</a>=26n=
+bsp;=26nbsp;=0D=0A                                <a href=3D=22http://sai=
+cconnect=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=
+50hvYCHpwXzhvpqX43xZVJVT7vVJuvhA6Auh3c4i9hu=252fmlGN8Klj1QZUWN9BHHuFOBEqc=
+rx7DNE=253d=22 style=3D=22font-family: sans-serif; text-decoration: none;=
+ color: rgb(238, 74, 169);=22 target=3D=22_blank=22>VISIT</a>=26nbsp;=26n=
+bsp;=0D=0A                                <a href=3D=22http://saicconnect=
+=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCH=
+pwXzhvpqX43xZVLBkRMIRXkB2bS0XA8f2IEIjmxZnx84KTk2whcsNgDM1pKmFkll2Gzw=253d=
+=22 style=3D=22font-family: sans-serif; text-decoration: none; color: rgb=
+(238, 74, 169);=22 target=3D=22_blank=22>EVENTS</a>=0D=0A                =
+                </p>=0D=0A                                </td>=0D=0A    =
+                        </tr>=0D=0A                            <=21-- END=
+ MAIN LINKS -->=0D=0A                        </tbody>=0D=0A              =
+      </table>=0D=0A                    <=21-- END FIXED WIDTH 600px CONT=
+AINER -->=0D=0A                    </td>=0D=0A                </tr>=0D=0A=
+            </tbody>=0D=0A        </table>=0D=0A        <=21-- END FULL W=
+IDTH CONTAINER -->=0D=0A        <=21-- BODY CONTENT -->=0D=0A        <tab=
+le class=3D=22email-container=22 style=3D=22 border-spacing: 0; border-co=
+llapse: collapse; margin: auto; border: 1px solid =23d3d3d3;=22 align=3D=22=
+center=22 bgcolor=3D=22f9f9f9=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 width=3D=22600=22>=0D=0A            <tbody>=0D=0A                <=21=
+-- ROW: INITIAL -->=0D=0A                <tr>=0D=0A                    <t=
+d class=3D=22force-col-center=22 colspan=3D=223=22 height=3D=2260=22 widt=
+h=3D=22600=22>=0D=0A                    <br>=0D=0A                    </t=
+d>=0D=0A                </tr>=0D=0A                <=21-- END ROW: INITIA=
+L -->=0D=0A                <=21--ROW: INTRO -->=0D=0A                <tr>=
+=0D=0A                    <td>=26nbsp;=0D=0A                    </td>=0D=0A=
+                    <td class=3D=22force-col=22 style=3D=22vertical-align=
+: top=22>=0D=0A                    <p style=3D=22font: 14px/21px Helvetic=
+a Neue,Helvetica,Arial,sans-serif; color: rgb(119, 119, 119); margin: 0px=
+ 0pt 0pt; padding: 0pt;=22 align=3D=22left=22>=0D=0A                    D=
+ear John,=0D=0A                    </p>=0D=0A                    <p style=
+=3D=22font: 14px/21px Helvetica Neue,Helvetica,Arial,sans-serif; color: r=
+gb(119, 119, 119); margin: 15px 0pt 0pt; padding: 0pt;=22 align=3D=22left=
+=22>=0D=0A                    The <a href=3D=22http://saicconnect=2Easkad=
+missions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCHpwXzhvpq=
+X43xZVFnSW8VO=252brMiAK27SQJnz8vHN1DkpQJlFEgAsJd0B10UfKJP5HbQYPc=253d=22 =
+style=3D=22color: rgb(238, 74, 169); text-decoration: none;=22>School of =
+the Art Institute of Chicago</a> (SAIC) is hosting an online information =
+session to assist you in completing the Common Application=2E There will =
+also be time for your questions during and following the presentation=2E<=
+/p>=0D=0A                    <p style=3D=22font: 20px/24px Helvetica Neue=
+,Helvetica,Arial,sans-serif; color: rgb(50, 50, 50); margin: 15px 0pt 0pt=
+; padding: 0pt;=22 align=3D=22left=22>=0D=0A                    <strong>=0D=
+=0A                    How to Apply - Tips for Completing the Common Appl=
+ication</strong></p>=0D=0A                    <p style=3D=22font: 18px/22=
+px Helvetica Neue,Helvetica,Arial,sans-serif; color: rgb(50, 50, 50); mar=
+gin: 0px 0pt 0pt; padding: 0pt;=22 align=3D=22left=22>=0D=0A             =
+       Tuesday, September 22, 6:30pm (CDT)=0D=0A                    </p>=0D=
+=0A                    <p style=3D=22font: 14px/21px Helvetica Neue,Helve=
+tica,Arial,sans-serif; color: rgb(119, 119, 119); margin: 15px 0pt 0pt; p=
+adding: 0pt;=22 align=3D=22left=22>=0D=0A                    Topics will =
+include:=0D=0A                    </p>=0D=0A                    <ul style=
+=3D=22font: 14px/21px Helvetica Neue,Helvetica,Arial,sans-serif; color: r=
+gb(119, 119, 119); margin: 5px 20pt 0pt; padding: 0pt;=22 align=3D=22left=
+=22>=0D=0A                        <li style=3D=22margin: 0px 0pt 0pt;=22>=
+Accessing and completing the Common Application</li>=0D=0A               =
+         <li style=3D=22margin: 0px 0pt 0pt;=22>Uploading your portfolio<=
+/li>=0D=0A                        <li style=3D=22margin: 0px 0pt 0pt;=22>=
+Submitting test scores, transcripts and letters of recommendation</li>=0D=
+=0A                        <li style=3D=22margin: 0px 0pt 0pt;=22>Filling=
+ out and submitting your Artist=27s Statement</li>=0D=0A                 =
+   </ul>=0D=0A                    </td>=0D=0A                    <td>=26n=
+bsp;=0D=0A                    </td>=0D=0A                </tr>=0D=0A     =
+           <=21--END ROW: INTRO -->=0D=0A                <=21-- ROW: CTA =
+RSVP -->=0D=0A                <tr>=0D=0A                    <td>=26nbsp;=0D=
+=0A                    </td>=0D=0A                    <td class=3D=22forc=
+e-col-center=22 style=3D=22 vertical-align: top; padding: 20pt 0pt=22>=0D=
+=0A                    <=21-- BUTTON: CTA RSVP-->=0D=0A                  =
+  <table class=3D=22button=22 style=3D=22background-color: rgb(238, 74, 1=
+69); border-radius: 30px 30px 30px 30px; padding: 10px 30pt=22 align=3D=22=
+left=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 heig=
+ht=3D=22auto=22>=0D=0A                        <tbody>=0D=0A              =
+              <tr>=0D=0A                                <td>=0D=0A       =
+                         <p style=3D=22font: 15px/22px Helvetica Neue,Hel=
+vetica,Arial,sans-serif; color: rgb(250, 250, 250); letter-spacing: 3px; =
+margin: 0px 0px; text-align: center=22>=0D=0A                            =
+    <a target=3D=22_blank=22 href=3D=22http://saicconnect=2Easkadmissions=
+=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCHpwXzhvpqX43xZVOZ=
+glN189qiIgIJLdX37EiLFremoCrr0Y4BOQsgSS0oXk4xSP0j8z4Q=253d=22 style=3D=22c=
+olor: rgb(250, 250, 250); text-decoration: none;=22>RSVP</a>=0D=0A       =
+                         </p>=0D=0A                                </td>=0D=
+=0A                            </tr>=0D=0A                        </tbody=
+>=0D=0A                    </table>=0D=0A                    <=21-- END B=
+UTTON: CTA RSVP -->=0D=0A                    </td>=0D=0A                 =
+   <td>=26nbsp;=0D=0A                    </td>=0D=0A                </tr>=
+=0D=0A                <=21-- END ROW: CTA RSVP -->=0D=0A                <=
+=21--ROW: INSTRUCTIONS -->=0D=0A                <tr>=0D=0A               =
+     <td>=26nbsp;=0D=0A                    </td>=0D=0A                   =
+ <td class=3D=22force-col=22 style=3D=22text-align: left; vertical-align:=
+ top; margin: 20px 0pt 0pt;=22>=0D=0A                    <p style=3D=22fo=
+nt: 14px/21px Helvetica Neue,Helvetica,Arial,sans-serif; color: rgb(119, =
+119, 119); margin: 0px 0pt; padding: 0pt;=22 align=3D=22left=22>=0D=0A   =
+                 <strong>Registration Instructions</strong>=0D=0A        =
+            </p>=0D=0A                    <p style=3D=22font: 14px/19px H=
+elvetica Neue,Helvetica,Arial,sans-serif; color: rgb(119, 119, 119); marg=
+in: 15px 0pt 0pt; padding: 0pt;=22 align=3D=22left=22>=0D=0A             =
+       1=2E Click RSVP above or go to: <a style=3D=22color: rgb(238, 74, =
+169); text-decoration: none;=22 href=3D=22http://saicconnect=2Easkadmissi=
+ons=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCHpwXzhvpqX43xZ=
+VOZglN189qiIgIJLdX37EiLFremoCrr0Y4BOQsgSS0oXk4xSP0j8z4Q=253d=22 target=3D=
+=22_blank=22>https://saic-events=2Ewebex=2Ecom/saic-events/onstage/g=2Eph=
+p?MTID=3De3686d4152fe25359e36297b3d4f934cd</a></p>=0D=0A                 =
+   <p style=3D=22font: 14px/21px Helvetica Neue,Helvetica,Arial,sans-seri=
+f; color: rgb(119, 119, 119); margin: 15px 0pt; padding: 0pt;=22 align=3D=
+=22left=22>=0D=0A                    2=2E Click Register=2E=0D=0A        =
+            </p>=0D=0A                    <p style=3D=22font: 14px/21px H=
+elvetica Neue,Helvetica,Arial,sans-serif; color: rgb(119, 119, 119); marg=
+in: 15px 0pt; padding: 0pt;=22 align=3D=22left=22>=0D=0A                 =
+   3=2E Enter your information on the registration form and then click =22=
+Submit=22=0D=0A                    </p>=0D=0A                    <p style=
+=3D=22font: 14px/18px Helvetica Neue,Helvetica,Arial,sans-serif; color: r=
+gb(119, 119, 119); margin: 15px 0pt; padding: 0pt;=22 align=3D=22left=22>=
+=0D=0A                    4=2E You will receive an email with information=
+ about how to join the webinar - and we=27ll send you reminder emails as =
+well=21=0D=0A                    </p>=0D=0A                    <table cla=
+ss=3D=22fluid=22 style=3D=22background-color: rgb(253, 237, 246); margin:=
+ 10pt 0pt;=22 align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22=
+ cellspacing=3D=220=22 height=3D=22auto=22 width=3D=22100=25=22>=0D=0A   =
+                     <tbody>=0D=0A                            <tr>=0D=0A =
+                               <td class=3D=22force-col-center=22 style=3D=
+=22text-align: center; vertical-align: top=22>=0D=0A                     =
+           <p style=3D=22font: 12px/16px Helvetica Neue,Helvetica,Arial,s=
+ans-serif; color: rgb(25, 25, 25); margin: 10px; padding: 0pt;=22 align=3D=
+=22left=22>=0D=0A                                <em>=0D=0A              =
+                  For technical assistance, please contact Cisco WebEx Su=
+pport at: 1=2E866=2E229=2E3239 (U=2ES=2E and Canada toll-free), 1=2E408=2E=
+435=2E7088 (U=2ES=2E/Canada toll)=0D=0A                                </=
+em>=0D=0A                                </p>=0D=0A                      =
+          </td>=0D=0A                            </tr>=0D=0A             =
+           </tbody>=0D=0A                    </table>=0D=0A              =
+      <p style=3D=22font: 14px/21px Helvetica Neue,Helvetica,Arial,sans-s=
+erif; color: rgb(119, 119, 119); margin: 15px 0pt 0pt; padding: 0pt;=22 a=
+lign=3D=22left=22>=0D=0A                    If you have any questions, pl=
+ease feel free to contact our admissions office at 1=2E800=2E232=2E7242, =
+312=2E629=2E6100, or <a href=3D=22mailto:ugadmiss=40saic=2Eedu=22 style=3D=
+=22color: rgb(238, 74, 169); text-decoration: none;=22>ugadmiss=40saic=2E=
+edu</a>=2E=0D=0A                    </p>=0D=0A                    </td>=0D=
+=0A                    <td>=26nbsp;=0D=0A                    </td>=0D=0A =
+               </tr>=0D=0A                <=21--END ROW: INSTRUCTIONS -->=
+=0D=0A                <=21-- ROW: FINAL -->=0D=0A                <tr>=0D=0A=
+                    <td height=3D=2260=22 width=3D=2260=22>=0D=0A        =
+            <br>=0D=0A                    </td>=0D=0A                    =
+<td height=3D=2260=22 width=3D=22380=22>=0D=0A                    <br>=0D=
+=0A                    </td>=0D=0A                    <td height=3D=2260=22=
+ width=3D=2260=22>=0D=0A                    <br>=0D=0A                   =
+ </td>=0D=0A                </tr>=0D=0A                <=21-- END ROW: FI=
+NAL -->=0D=0A            </tbody>=0D=0A        </table>=0D=0A        <=21=
+--END BODY CONTENT -->=0D=0A        <=21-- FOOTER -->=0D=0A        <table=
+ class=3D=22email-container=22 style=3D=22-ms-text-size-adjust: 100=25; -=
+webkit-text-size-adjust: 100=25; border-spacing: 0; border-collapse: coll=
+apse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; margin: auto;  border=
+: 0px solid =23d3d3d3;=22 align=3D=22center=22 bgcolor=3D=22ffffff=22 bor=
+der=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 width=3D=22600=22=
+>=0D=0A            <tbody>=0D=0A                <tr>=0D=0A               =
+     <td align=3D=22center=22 height=3D=2230=22>=0D=0A                   =
+ <br>=0D=0A                    </td>=0D=0A                </tr>=0D=0A    =
+            <tr>=0D=0A                    <td align=3D=22center=22 height=
+=3D=2210=22 valign=3D=22middle=22><br>=0D=0A                    </td>=0D=0A=
+                </tr>=0D=0A                <=21-- SAIC INFO -->=0D=0A    =
+            <tr>=0D=0A                    <td class=3D=22force-col-center=
+=22 align=3D=22center=22 height=3D=2220=22>=0D=0A                    <p s=
+tyle=3D=22font: 12px Helvetica Neue,Helvetica,Arial,sans-serif; margin: 0=
+pt; padding: 0pt; color: rgb(119, 119, 119);=22>The School of the Art Ins=
+titute of Chicago=2E=0D=0A                    </p>=0D=0A                 =
+   </td>=0D=0A                </tr>=0D=0A                <tr>=0D=0A      =
+              <td class=3D=22force-col-center=22 align=3D=22center=22 hei=
+ght=3D=2220=22>=0D=0A                    <p style=3D=22font: 12px Helveti=
+ca Neue,Helvetica,Arial,sans-serif; margin: 0pt; padding: 0pt; color: rgb=
+(119, 119, 119);=22>36 South Wabash Ave=2E, Chicago, IL 60603, USA=0D=0A =
+                   </p>=0D=0A                    </td>=0D=0A             =
+   </tr>=0D=0A                <=21-- END SAIC INFO -->=0D=0A             =
+   <=21-- ROW: ICONS -->=0D=0A                <tr>=0D=0A                 =
+   <td class=3D=22force-col-center=22 style=3D=22height: 30px; padding: 1=
+0px; text-align: center; vertical-align: middle;=22>=0D=0A               =
+     <=21-- START ICONS -->=0D=0A                    <=21-- Facebook-->=0D=
+=0A                    <a target=3D=22_blank=22 href=3D=22http://saicconn=
+ect=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hv=
+YCHpwXzhvpqX43xZVCqzSvsM=252bVoLvvnjWS5aIr8a=252fxOFu8P=252b9WANAsOwiyMSQ=
+HPqNKGYIgQ=253d=22 title=3D=22Facebook=22>=0D=0A                    <img =
+alt=3D=22Facebook=22 src=3D=22https://static=2Easkadmissions=2Enet/saicco=
+nnect/usermedia/SocialMediaIcons/facebook_32=2Epng=22 height=3D=2232=22 w=
+idth=3D=2232=22></a>=0D=0A                    <=21-- Twitter-->=0D=0A    =
+                <a target=3D=22_blank=22 href=3D=22http://saicconnect=2Ea=
+skadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCHpwXz=
+hvpqX43xZVLAgT=252bTc7oK=252f6ujOjcpIh7CtnapLJ=252bgZQkcbex8Tn1dED8Db6qut=
+=252f6I=253d=22 title=3D=22Twitter=22>=0D=0A                    <img alt=3D=
+=22Twitter=22 src=3D=22https://static=2Easkadmissions=2Enet/saicconnect/u=
+sermedia/SocialMediaIcons/twitter_32=2Epng=22 height=3D=2232=22 width=3D=22=
+32=22></a>=0D=0A                    <=21-- Tumblr-->=0D=0A               =
+     <a target=3D=22_blank=22 href=3D=22http://saicconnect=2Easkadmission=
+s=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D50hvYCHpwXzhvpqX43xZVO=
+kDGCUF3vFy3vsbzyjRAIKhHj=252f804F8MUbO7E0pnn891IWtJHt4xo0=253d=22 title=3D=
+=22Tumblr=22><img alt=3D=22Tumblr=22 src=3D=22https://static=2Easkadmissi=
+ons=2Enet/saicconnect/usermedia/SocialMediaIcons/tumblr_32=2Epng=22 heigh=
+t=3D=2232=22 width=3D=2232=22></a>=0D=0A                    <=21-- Vimeo-=
+->=0D=0A                    <a target=3D=22_blank=22 href=3D=22http://sai=
+cconnect=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=
+50hvYCHpwXzhvpqX43xZVEPt0iTRkILXBqg7HKXsvOlzUQ=252frvU7ZRYocXFJEgdUdzU=25=
+2fkUICMCJQ=253d=22 title=3D=22Vimeo=22><img alt=3D=22Vimeo=22 style=3D=22=
+=22 src=3D=22https://static=2Easkadmissions=2Enet/saicconnect/usermedia/S=
+ocialMediaIcons/vimeo_32=2Epng=22 height=3D=2232=22 width=3D=2232=22></a>=
+=0D=0A                    <=21-- END ICONS -->=0D=0A                    <=
+/td>=0D=0A                </tr>=0D=0A                <=21-- END ROW: ICON=
+S -->=0D=0A                <tr>=0D=0A                    <td align=3D=22c=
+enter=22 height=3D=2250=22>=26nbsp;=0D=0A                    </td>=0D=0A =
+               </tr>=0D=0A            </tbody>=0D=0A        </table>=0D=0A=
+        <=21-- END FOOTER -->=0D=0A        <=21--TRACKING-->=0D=0A       =
+ <style>=0D=0A            =40media print=7B =23_t =7B background-image: u=
+rl(=27https://47hiod6d=2Eemltrk=2Ecom/47hiod6d?p=26d=3D=5BUNIQUE=5D=27);=7D=
+=7D div=2EOutlookMessageHeader =7Bbackground-image:url(=27https://47hiod6=
+d=2Eemltrk=2Ecom/47hiod6d?f=26d=3D=5BUNIQUE=5D=27)=7D table=2Emoz-email-h=
+eaders-table =7Bbackground-image:url(=27https://47hiod6d=2Eemltrk=2Ecom/4=
+7hiod6d?f=26d=3D=5BUNIQUE=5D=27)=7D blockquote =23_t =7Bbackground-image:=
+url(=27https://47hiod6d=2Eemltrk=2Ecom/47hiod6d?f=26d=3D=5BUNIQUE=5D=27)=7D=
+ =23MailContainerBody =23_t =7Bbackground-image:url(=27https://47hiod6d=2E=
+emltrk=2Ecom/47hiod6d?f=26d=3D=5BUNIQUE=5D=27)=7D=0D=0A        </style>=0D=
+=0A        <div id=3D=22_t=22></div>=0D=0A        <img src=3D=22https://4=
+7hiod6d=2Eemltrk=2Ecom/47hiod6d?d=3D=5BUNIQUE=5D=22 border=3D=220=22 heig=
+ht=3D=221=22 width=3D=221=22>=0D=0A        <=21--END TRACKING-->=0D=0A   =
+ </body>=0D=0A</html>=0D=0A<BR><BR><TABLE width=3D=22100=25=22>=0D=0A<TR>=
+<TD><IMG src=3Dhttp://saicconnect=2Easkadmissions=2Enet/admin/Communicati=
+ons/WebBeacon=2Easpx?qs=3D50hvYCHpwXyIlcdYNo5nRSB7M1C1SIDh00pX7HWYMWEHlec=
+65z4ekg=253d=253d></TD></TR><TR><TD style=3D=22FONT-SIZE: 10pt; FONT-FAMI=
+LY: Verdana=22 align=3D=22left=22><div align=3D=22center=22><span style=3D=
+=22font-size: 11px; color: =23c9c9c9;=22 face=3D=22Arial=22>If you no lon=
+ger wish to receive E-mails from The School of the Art Institute of Chica=
+go</style>=26nbsp;<A HREF=3D=22http://saicconnect=2Easkadmissions=2Enet/a=
+dmin/Communications/OptOut=2Easpx?qs=3DK5dOi2YJQSYTpH5YWx5X=252b4buU8orW=25=
+2bQME07IatFTi=252fIyWPs=252bWgRJVw=253d=253d=22><span style=3D=22font-siz=
+e: 11px; text-decoration: none; color: =23ee4aa9;=22 face=3D=22Arial=22>c=
+lick here to UNSUBSCRIBE</style></div></A></TD></TR><BR><BR><BR><BR><FONT=
+ face=3DVerdana size=3D2>To forward this e-mail,=26nbsp;</FONT><a href=3D=
+http://saicconnect=2Easkadmissions=2Enet/admin/Communications/EmailForwar=
+d=2Easpx?qs=3D50hvYCHpwXysoWyo4llbcTOjXnOQLWSNVhUatGjiuS7GNb91lTQf0=252f8=
+KGR78rqi1><FONT face=3DVerdana size=3D2>click here</FONT></a><TR><TD>=26n=
+bsp;</TD></TR><TR><TD style=3D=22FONT-SIZE: 8pt; FONT-FAMILY: Verdana=22 =
+align=3D=22center=22>=2E</TD></TR>=0D=0A</TABLE></BODY></HTML>
+
+--_=aspNetEmail=_cac6e68b6fb443ca8f55c35ee2e36017--
+

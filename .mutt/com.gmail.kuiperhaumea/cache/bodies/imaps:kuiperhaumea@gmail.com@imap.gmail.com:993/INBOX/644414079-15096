@@ -1,0 +1,49 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp217489oig;
+        Mon, 16 Nov 2015 09:27:58 -0800 (PST)
+X-Received: by 10.129.117.86 with SMTP id q83mr5973603ywc.250.1447694878602;
+        Mon, 16 Nov 2015 09:27:58 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x230.google.com (mail-yk0-x230.google.com. [2607:f8b0:4002:c07::230])
+        by mx.google.com with ESMTPS id x67si23367701ywe.266.2015.11.16.09.27.58
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 16 Nov 2015 09:27:58 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::230 as permitted sender) client-ip=2607:f8b0:4002:c07::230;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::230 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x230.google.com with SMTP id r82so239609784ykd.3
+        for <kuiperhaumea@gmail.com>; Mon, 16 Nov 2015 09:27:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=BL19J2II9UAu+BOvRrACc57W+0diBRAru3itdP3XH6Q=;
+        b=vlNZM2LVWf3sAPLkD5ZFeUhpqT2C+Apb20emtVmeqlw8DXpctOpJTHOHuToOGJhMwO
+         uqNem2OiKosaIRhGca5ShAV7ej9wZB7B3UwUG/H25DZaoylmIFkVtRRhyLEtiK+oa3C+
+         ygd1ynoS6GuIs12D+2QNvRJoJMxh0LtvJULKQFHGovdvG8PDjdRze624lPkYlAZPb8xh
+         XGCUlcbu/aoJSJ1V6jfZW3/8axRVWubQqmK1wNEqEeywldQYbESHfUFpgwU3kJP5V4Sm
+         KWy0xx9/vAXPd9zJpC/NAc88cb6O5YTrH2wzZL9OA4AUDfXlbYBoqgam0R0PxNgYAHB8
+         a7Ng==
+X-Received: by 10.129.99.195 with SMTP id x186mr35334261ywb.345.1447694878428;
+ Mon, 16 Nov 2015 09:27:58 -0800 (PST)
+MIME-Version: 1.0
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Mon, 16 Nov 2015 17:27:48 +0000
+Message-ID: <CANNyMF8K3QpWV5-2y-AtfdDpq=x_1X=q1SWH0NTGKUnRGpcc+A@mail.gmail.com>
+Subject: Fonts
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a114920f8f8d58b0524abba4b
+
+--001a114920f8f8d58b0524abba4b
+Content-Type: text/plain; charset=UTF-8
+
+I love Broadway.
+
+--001a114920f8f8d58b0524abba4b
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">I love Broadway.</p>
+
+--001a114920f8f8d58b0524abba4b--

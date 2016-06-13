@@ -1,0 +1,141 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+To: mailman@lists.cock.li
+References: <56B812BB.6050705@ivan.moe> <56B9EF04.8090402@cock.li>
+ <56BA7FF9.4010401@ivan.moe>
+From: ivan <ivan@ivan.moe>
+Message-ID: <56BA8962.5040200@ivan.moe>
+Date: Tue, 9 Feb 2016 18:50:42 -0600
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <56BA7FF9.4010401@ivan.moe>
+Subject: Re: [cock.li] vms, chroot, docker, lxc, etc.
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============4257666352654056053=="
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============4257666352654056053==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="SNLjFKSQQEUasnMIcFwDk5pQVVKvVxqBC"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--SNLjFKSQQEUasnMIcFwDk5pQVVKvVxqBC
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+it's basically a VM manager, from what i'm reading
+i mean sure, VMs are cool and all, but i kind of don't want to run a
+bulky VM that i have to wait for the OS to boot up for each different
+sandboxed application
+
+i'm looking more into lxc (and lxd), and i might end up using that in
+its entirety
+On 02/09/2016 06:10 PM, ivan wrote:
+> i always got the impression that it was meant to be used as a portable
+> development environment
+>=20
+> i'll look into it
+>=20
+> On 02/09/2016 07:52 AM, Knickser wrote:
+>> what about vagrant can that be used for production?
+>>
+>> I run it on windows
+>>
+>> On 08/02/16 04:59, ivan wrote:
+>>> so as of late, i've been getting increasingly curious with things lik=
+e
+>>> containers and such
+>>>
+>>> i used to have virtual machines and such for this kind of thing where=
+
+>>> i'd install an OS, install mysql, php, etc. and just keep it running,=
+
+>>> but it was super annoying for me to manage it all
+>>>
+>>> a few months ago i tried to set up nginx under a chroot jail, and it =
+was
+>>> so painful but it kind of worked, idk
+>>>
+>>> well, a few weeks ago i tried to set up docker and get going with it,=
+
+>>> but holy fuck is it convoluted, and there are so many different base
+>>> images this and that like what am i supposed to do
+>>>
+>>> and apparently docker wants me to have mysql and php and stuff in
+>>> separate containers, well i say fuck that
+>>>
+>>> so right now i'm trying out lxc, in hopes it will give me containers
+>>> that are kind of like vms but less stupid
+>>>
+>>> any recommendations? any tips?
+>>>
+>>>
+>>>
+>>> ______________________________
+>>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>>
+>>
+>>
+>>
+>> ______________________________
+>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>
+>=20
+>=20
+>=20
+> ______________________________
+> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>=20
+
+
+--SNLjFKSQQEUasnMIcFwDk5pQVVKvVxqBC
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWuolmAAoJEGfeZoAxcLsONZIQALrkaALCwa2M6jgrzyqRQXC4
+X42dDAJG22Hln+pI+QlM6sBRIyAQzYQQpz3xJBlYRQAmsXVKWyb6YJpMNsUSfHIl
+CQkoaQZJUfezL3Vto0Z7gjj7ibV47oPe87Bs/EJ4cYhAYr/Yh7QQy7pO2l4WKt11
+nGzC86T64n5htD9OG9e7neqpK2a1Uyc2SQ98RusmPZalgjg5AdCpQxxN/gtlP/xK
+X9MoDF7KZ8wS0JdnbKHJftThhBmZQKJSn79Nc0nU5+tlv9xIIzrT6Nx8CSmn+mGL
+JLgR6IOlwSw6URShy/SLRdzMj72WWZiP0cWLJLqLaUXligqiaEnlYtuRtFus5Y10
+Q3csPd9lvbgypf5N2L+zgDDF/AR19++XEU/T5yZ1hiMaMwVmTpUEQH3GIoP7un5J
+YimryiC6KnbO9z8k2AD3DkxB6iIBY3sxuZpNutSK4uPSxGhd76jgJuJtzphnhPPA
+crMw+YrUEds3kaLWK+MklSdr6rbRPMNjhofxKpbeTsM7NWUzii+tk/mN9Wv5aP48
+wZ36W1Kx26KXz8LRv46u3/zoEPpV414/0rN5R7Icw5WK12RbnG50kkZN9NpYhoYp
+0Ap5HLyKEM1X58uDiCqrm3Z/hBa6QG6UBpb9dBqnBDeShaFi6t2UAnVUi6PTSOUR
+pCarHF0Mt00CuaK83rZR
+=W06H
+-----END PGP SIGNATURE-----
+
+--SNLjFKSQQEUasnMIcFwDk5pQVVKvVxqBC--
+
+--===============4257666352654056053==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCjg9PT1bY29jay5saSBtYWlsaW5nIGxpc3Rd
+PT09RA==
+
+--===============4257666352654056053==--

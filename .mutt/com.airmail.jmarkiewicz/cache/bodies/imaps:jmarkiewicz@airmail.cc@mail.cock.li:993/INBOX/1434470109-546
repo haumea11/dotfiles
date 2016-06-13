@@ -1,0 +1,75 @@
+Return-Path: <lizodorisio@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type;
+        bh=7htGbGi7G8hIR//VBg2hDqKFuaDEcbdONwN+GfeuCUM=;
+        b=jsOz+XwNyK/Ky/+2zGIGJLzMkZ8jeqv26vKqmymnwVgeLm5LkYksykqnYIV1+FEZ4n
+         lyB2P96ytJ5biKVUlUgSsMm9yNoCGgLOMTwKxLqyleU7r6s9kH5ogXW2zLpiHPqoQDqX
+         C0y7hwMEUZjVgAFRNudI3Lsv0nHEJrGE6d+cRgPNsO7woNYxM08L5jlQ5b4erNwdFQNx
+         fwzHIYKoVuVQvbuph1ZH2dr4qynCOEG4QJicA8hzLjjWwvMOyxt2Ghr6kTl0SdPzsZwi
+         4fguBuB6Yi2MvjGUzHQf5oOrhxDFqvghac21a8tvUeKgR/2HVU79Y7hV+40cEBKbTI4x
+         qjKQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to:cc
+         :content-type;
+        bh=7htGbGi7G8hIR//VBg2hDqKFuaDEcbdONwN+GfeuCUM=;
+        b=C/W2U7RVSDZOphzISiUlG22DPKOZN20HjxMBDJSVhEg4+NNy3/VBXQx2JYfL6ngwdo
+         SmSyeORcMKCZr8Q08bEHZyOkUNKlE/qQ7AQIrV+9VdKRjBP+FtItLs7ov/m0F784ioWU
+         +HjSXD+gOli0hgHqBHFWan4R58E+CliUzG7DE70Vr8kvUQa2asDRmtefx08MUxvxu934
+         DfP5qd3ZqBkFOEfoOiSVv7z59l6sveC/jmrEL1f+dEiCSvAZWK/Wa5lTIsnQt8VWqdDR
+         IZGQhi1GeJmWxDzJCzQwQ3sccEwjO3MFh+QzBLtfe4X03Vo6IXGwlqIc0wEOpi6hHWho
+         93Ug==
+X-Gm-Message-State: ALoCoQn8DwBzgXvYzXHLrBjBbSfB9ao3U/Ma9L0rPS/7UYXnX9doMbeHIXmHer+aJCOF+FUd81v6cqZCRn3T+Er+J4SuZ0Sssw==
+MIME-Version: 1.0
+X-Received: by 10.31.136.16 with SMTP id k16mr85141008vkd.35.1452696568422;
+ Wed, 13 Jan 2016 06:49:28 -0800 (PST)
+Date: Wed, 13 Jan 2016 09:49:28 -0500
+Message-ID: <CA+Co4VesRZE0NCtjGwfsDYDQNksW13u=Y=_EWPSps87sybNxJA@mail.gmail.com>
+Subject: Rehearsal
+From: "Liz O'Dorisio" <lizodorisio@gmail.com>
+To: davidskulich@yahoo.com, jmarkiewicz@airmail.cc, mlsteller@yahoo.com, 
+	Anna Ehret <aehret2016@gmail.com>, jacoberney@gmail.com, ekoehler00@gmail.com
+Cc: "cjoyce@cdeducation.org" <cjoyce@cdeducation.org>
+Content-Type: multipart/alternative; boundary=001a11457a40ed66e805293846d5
+
+--001a11457a40ed66e805293846d5
+Content-Type: text/plain; charset=UTF-8
+
+Hi Leads,
+Knowing school is closed today, due to cold weather, we are cancelling the
+scheduled rehearsal.
+
+I thought I'd reach out to see if any leads are interested in coming in
+today at 3 for a concentrated lead rehearsal?
+
+I believe most of you drive, but not sure if the rest of you can get safe
+transportation to Watterson.
+
+If roads are drivable and it's a temperature question, I thought i'd ask,
+letting your parents decide.
+
+When you get a moment, shoot me back an email or text message letting me
+know.
+I'm okey either way.
+
+Stay warm!
+Liz
+
+--001a11457a40ed66e805293846d5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div>Hi Leads,<br></div>Knowing school=
+ is closed today, due to cold weather, we are cancelling the scheduled rehe=
+arsal.<br><br>I thought I&#39;d reach out to see if any leads are intereste=
+d in coming in today at 3 for a concentrated lead rehearsal?<br><br>I belie=
+ve most of you drive, but not sure if the rest of you can get safe transpor=
+tation to Watterson.<br><br>If roads are drivable and it&#39;s a temperatur=
+e question, I thought i&#39;d ask, letting your parents decide.<br></div><b=
+r></div>When you get a moment, shoot me back an email or text message letti=
+ng me know.<br></div><div>I&#39;m okey either way.<br></div><div><br></div>=
+Stay warm!<br></div>Liz<br><br></div>
+
+--001a11457a40ed66e805293846d5--

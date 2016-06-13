@@ -1,0 +1,187 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp1997109oia;
+        Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+X-Received: by 10.170.133.13 with SMTP id z13mr20988960ykb.41.1435612176548;
+        Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x235.google.com (mail-yk0-x235.google.com. [2607:f8b0:4002:c07::235])
+        by mx.google.com with ESMTPS id w141si14028832ywa.56.2015.06.29.14.09.36
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::235 as permitted sender) client-ip=2607:f8b0:4002:c07::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::235 as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x235.google.com with SMTP id r198so126334667ykd.3
+        for <kuiperhaumea@gmail.com>; Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=MFcjgN/OXk6PEUq1kH7x1zpIWKfLKUlDUsTOpH9YCEw=;
+        b=PQimEPv3u15V0SCuYyT7Orpxwh/el8mfOGVsWI8ZmEj8j4VNlyPgMKI+kA/qP1pY+W
+         1AC+u0T0Sy/Ok3gb+yrgVAaEPobhedNYgJEGdoUN/e45sXgRbp3HI9PXlbx4EgqqQoLZ
+         1YaoD1pwVnSP4W06nKTZXtpZgA0g2o47e8lO/+xvwX5Ny8f7lkQcy5/o7SphTZejvPpI
+         Qdkaj1QJX9FgVFfH6NpO7+cU7+ZwX5/Mj1nwIJ0GvQmNamxRik0n4ubfM5DotNyrEH7P
+         9GjYA+Oqd9mI7dW2YlVeYiVU6zJdDqEfeZeEpTzKo+GtYgIpKMJdBJPxEUFJNxIyQdN5
+         bLjw==
+MIME-Version: 1.0
+X-Received: by 10.170.37.14 with SMTP id 14mr21218205ykf.129.1435612176394;
+ Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+Received: by 10.129.114.194 with HTTP; Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+Received: by 10.129.114.194 with HTTP; Mon, 29 Jun 2015 14:09:36 -0700 (PDT)
+In-Reply-To: <CANNyMF-WqooUAA4JGKeki=tGXZAvCex+Q0XnpJHNv-RsDWgA_w@mail.gmail.com>
+References: <20150629191231.8347.41538@w1-o1-d330>
+	<5591A1D2.6080105@gmail.com>
+	<CANNyMF-WqooUAA4JGKeki=tGXZAvCex+Q0XnpJHNv-RsDWgA_w@mail.gmail.com>
+Date: Mon, 29 Jun 2015 17:09:36 -0400
+Message-ID: <CANNyMF-Ty13hmPs4up16_HV7u3egV-o5AZAKjCbmNpH32gJc5A@mail.gmail.com>
+Subject: Re: Fwd: Your talk is a standby talk
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113780b2cf313e0519ae8119
+
+--001a113780b2cf313e0519ae8119
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+A lot of peeps cancel, dont worry.
+On Jun 29, 2015 5:08 PM, "Shannon Markiewicz" <shannon.markiewicz@gmail.com=
+>
+wrote:
+
+> Dooooooooood. T20 just arrived. It is pristine.......
+> On Jun 29, 2015 3:50 PM, "John Markiewicz" <kuiperhaumea@gmail.com> wrote=
+:
+>
+>> -----BEGIN PGP SIGNED MESSAGE-----
+>> Hash: SHA256
+>>
+>> Yeah, this is the news I had been waiting on.  Looks like it may not
+>> be quite the scenario I hoped for, but hey.
+>>
+>>
+>> - -------- Forwarded Message --------
+>> Subject:        Your talk is a standby talk
+>> Date:   Mon, 29 Jun 2015 19:12:31 -0000
+>> From:   info@pyohio.org
+>> To:     markiewicz.john@gmail.com
+>>
+>>
+>>
+>> Hey John Markiewicz =E2=80=94
+>>
+>> Your talk
+>>
+>> I Could Have Wordled This Better
+>>
+>> is on the standby list. Which means that if we get an opening in the
+>> schedule, we will ask you if you can step in.
+>>
+>> Also, you're in good company. Both of my talk proposals ended up here to
+>> o!
+>>
+>> Also, if you really want to give your talk, then sign up for an open
+>> space when you get to PyOhio. We have two rooms set aside for
+>> self-organizing groups.
+>>
+>> Frankly, doing an open space talk is in my opinion way cooler anyhow.
+>>
+>>
+>>
+>> -----BEGIN PGP SIGNATURE-----
+>> Version: GnuPG v2
+>>
+>> iQIcBAEBCAAGBQJVkaHSAAoJEL1WveNn/kS+kjsP/AoCcxAMGI7P0hMBUrZiB8DE
+>> nC9dqEXDAyyF4ppvmeUaX1tE6RrBKS0aE+HJZbEnNqvvLiLwPrwvDETEvzt5pC+o
+>> BV5r7xK7wtT9RjKz5XKc/lmZBSwhdsfyVrVLDomYR5KsGo675euvTjXBVd/nS2DY
+>> 6mHCwv4kCTAX8VPR2TeOJVS/Hr8/MWqBP6GAnhOPxtc/d7BXz77NU1mjlY5BSx4K
+>> G/GGuEorVM9SeVbP0d0vCg3zt3YeNhQCFHtskPSPeivuEPsCw9FKDXZt+mb0NUfa
+>> JvOhsP1OHx/h2oeneEh6dpZ8t96t9mIO9+zQnd/Po4HLl6ikxNr+ppRk6isF94Yx
+>> Lod8AYVfj7721lXMrtBKXO61fUD/uw4lVOAux9BFs9WBQ30ykOhsml+7XLSPOYjr
+>> je4IcSvucVZ2a8D0Evd82dJbBfMKLbfpC1D9oZIpvxx9kx+LHOerePvRK6S6gjJd
+>> tuIPupA6kKWo2ucbKepThmBKOWzo4iLct1N8yTFKrUKG58rPfdqVFCu/Z3IqKFGC
+>> O+w9P4cpGYdjo+SNMD/lNxKH7elksAAB0udhPnRtOoLpaAEuATbTx33hL7DHGFsR
+>> oOafZRPWvOaiFlGGwWTBHYpFoIaiDGf8jMi8d+OfZ3QeEt7LFkkxKBXqkivZc2H2
+>> v5jaop/aWeXID/pBfZdn
+>> =3DFhgM
+>> -----END PGP SIGNATURE-----
+>>
+>
+
+--001a113780b2cf313e0519ae8119
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p>A lot of peeps cancel, dont worry.</p>
+<div class=3D"gmail_quote">On Jun 29, 2015 5:08 PM, &quot;Shannon Markiewic=
+z&quot; &lt;<a href=3D"mailto:shannon.markiewicz@gmail.com">shannon.markiew=
+icz@gmail.com</a>&gt; wrote:<br type=3D"attribution"><blockquote class=3D"g=
+mail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-l=
+eft:1ex"><p>Dooooooooood. T20 just arrived. It is pristine.......</p>
+<div class=3D"gmail_quote">On Jun 29, 2015 3:50 PM, &quot;John Markiewicz&q=
+uot; &lt;<a href=3D"mailto:kuiperhaumea@gmail.com" target=3D"_blank">kuiper=
+haumea@gmail.com</a>&gt; wrote:<br type=3D"attribution"><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">-----BEGIN PGP SIGNED MESSAGE-----<br>
+Hash: SHA256<br>
+<br>
+Yeah, this is the news I had been waiting on.=C2=A0 Looks like it may not<b=
+r>
+be quite the scenario I hoped for, but hey.<br>
+<br>
+<br>
+- -------- Forwarded Message --------<br>
+Subject:=C2=A0 =C2=A0 =C2=A0 =C2=A0 Your talk is a standby talk<br>
+Date:=C2=A0 =C2=A0Mon, 29 Jun 2015 19:12:31 -0000<br>
+From:=C2=A0 =C2=A0<a href=3D"mailto:info@pyohio.org" target=3D"_blank">info=
+@pyohio.org</a><br>
+To:=C2=A0 =C2=A0 =C2=A0<a href=3D"mailto:markiewicz.john@gmail.com" target=
+=3D"_blank">markiewicz.john@gmail.com</a><br>
+<br>
+<br>
+<br>
+Hey John Markiewicz =E2=80=94<br>
+<br>
+Your talk<br>
+<br>
+I Could Have Wordled This Better<br>
+<br>
+is on the standby list. Which means that if we get an opening in the<br>
+schedule, we will ask you if you can step in.<br>
+<br>
+Also, you&#39;re in good company. Both of my talk proposals ended up here t=
+o<br>
+o!<br>
+<br>
+Also, if you really want to give your talk, then sign up for an open<br>
+space when you get to PyOhio. We have two rooms set aside for<br>
+self-organizing groups.<br>
+<br>
+Frankly, doing an open space talk is in my opinion way cooler anyhow.<br>
+<br>
+<br>
+<br>
+-----BEGIN PGP SIGNATURE-----<br>
+Version: GnuPG v2<br>
+<br>
+iQIcBAEBCAAGBQJVkaHSAAoJEL1WveNn/kS+kjsP/AoCcxAMGI7P0hMBUrZiB8DE<br>
+nC9dqEXDAyyF4ppvmeUaX1tE6RrBKS0aE+HJZbEnNqvvLiLwPrwvDETEvzt5pC+o<br>
+BV5r7xK7wtT9RjKz5XKc/lmZBSwhdsfyVrVLDomYR5KsGo675euvTjXBVd/nS2DY<br>
+6mHCwv4kCTAX8VPR2TeOJVS/Hr8/MWqBP6GAnhOPxtc/d7BXz77NU1mjlY5BSx4K<br>
+G/GGuEorVM9SeVbP0d0vCg3zt3YeNhQCFHtskPSPeivuEPsCw9FKDXZt+mb0NUfa<br>
+JvOhsP1OHx/h2oeneEh6dpZ8t96t9mIO9+zQnd/Po4HLl6ikxNr+ppRk6isF94Yx<br>
+Lod8AYVfj7721lXMrtBKXO61fUD/uw4lVOAux9BFs9WBQ30ykOhsml+7XLSPOYjr<br>
+je4IcSvucVZ2a8D0Evd82dJbBfMKLbfpC1D9oZIpvxx9kx+LHOerePvRK6S6gjJd<br>
+tuIPupA6kKWo2ucbKepThmBKOWzo4iLct1N8yTFKrUKG58rPfdqVFCu/Z3IqKFGC<br>
+O+w9P4cpGYdjo+SNMD/lNxKH7elksAAB0udhPnRtOoLpaAEuATbTx33hL7DHGFsR<br>
+oOafZRPWvOaiFlGGwWTBHYpFoIaiDGf8jMi8d+OfZ3QeEt7LFkkxKBXqkivZc2H2<br>
+v5jaop/aWeXID/pBfZdn<br>
+=3DFhgM<br>
+-----END PGP SIGNATURE-----<br>
+</blockquote></div>
+</blockquote></div>
+
+--001a113780b2cf313e0519ae8119--

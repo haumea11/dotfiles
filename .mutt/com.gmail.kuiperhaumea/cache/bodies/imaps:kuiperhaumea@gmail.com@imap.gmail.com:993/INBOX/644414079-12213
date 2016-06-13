@@ -1,0 +1,54 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1269716oid;
+        Sun, 5 Jul 2015 18:27:24 -0700 (PDT)
+X-Received: by 10.194.185.8 with SMTP id ey8mr90883461wjc.118.1436146044394;
+        Sun, 05 Jul 2015 18:27:24 -0700 (PDT)
+Return-Path: <jmarkiewicz@airmail.cc>
+Received: from cock.li (cock.li. [176.9.0.140])
+        by mx.google.com with ESMTPS id ja14si45033191wic.18.2015.07.05.18.27.24
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 05 Jul 2015 18:27:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of jmarkiewicz@airmail.cc designates 176.9.0.140 as permitted sender) client-ip=176.9.0.140;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of jmarkiewicz@airmail.cc designates 176.9.0.140 as permitted sender) smtp.mail=jmarkiewicz@airmail.cc
+Date: Sun, 5 Jul 2015 21:28:57 -0400
+From: John Markiewicz <jmarkiewicz@airmail.cc>
+To: kuiperhaumea@gmail.com
+Subject: subject subject
+Message-ID: <20150706012857.GA22015@heian>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha256;
+	protocol="application/pgp-signature"; boundary="HlL+5n6rz5pIUxbD"
+Content-Disposition: inline
+User-Agent: Mutt/1.5.23+89 (0255b37be491) (2014-03-12)
+
+
+--HlL+5n6rz5pIUxbD
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+Body Paragraphs
+
+--HlL+5n6rz5pIUxbD
+Content-Type: application/pgp-signature; name="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJVmdnUAAoJEL1WveNn/kS+Y8IQAJb/bAJ6/e1m3q8wiJSLKnkr
+bsK9fslXcZF0HRLW62VJ+m4HmoHQJ5+3ok4r+QQHE7YKhezmmFW5/rd9E/oDYbBS
+0JsmAIbrT3Te0u3LnRKsFyh6WKIFPQ1WF/535dNRbc9gZgzzeo/6CdLmhCa7hOGK
+6PmqQVfuusXczvMHDMn74g7MCukPaJt3In8xia11hxqrJqfBXlFXymaTdRYFBPRo
+jKglj/zH/Bqgmd3hMW6PD0zk7BbN+cjN02mPPzWIelWU1h0MIJp3rXboP4D9CUIE
+E5uIMXYyZH80lkwKexjMnxAKHvpvaxPy+giPYrkrBdNq1/rNT8WFASq5XfAkLe2t
+YrXpYmUTxBFOZZ3g6qO3LshqaCZbHQrIaFuo6LVmoI+MHMK8TYXoNezFL2RAeBeF
+HYwXqCrvi0YK/7q5VQCCAH99Yo+7QIRI9/QA1PS3KK6PVjhVn27UvquQN0CNRYU3
+uZrSG7uLofMBoEc2abl9PlmhzvUDOJV+stXjkzpCrZ//t+0o73xllXW7dG33+wHS
+JTGdbNEkftaa4ElBowecNrIP2hzFFI7kU+BcVV2I/YfFnBPB2xinK4XJmhlogRaX
+FeoOa88RbPGMtMdXobvdwiK5oMctClsxCRM8m90EWDIgThyTVRpbnL0eCs0d+pXE
+6/VSZ7GSZa+Xh71YZo/C
+=OGb7
+-----END PGP SIGNATURE-----
+
+--HlL+5n6rz5pIUxbD--

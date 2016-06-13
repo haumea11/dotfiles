@@ -1,0 +1,784 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp1221563oig;
+        Mon, 14 Sep 2015 10:37:18 -0700 (PDT)
+X-Received: by 10.180.99.137 with SMTP id eq9mr28148780wib.4.1442252238790;
+        Mon, 14 Sep 2015 10:37:18 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x235.google.com (mail-wi0-x235.google.com. [2a00:1450:400c:c05::235])
+        by mx.google.com with ESMTPS id d1si18333360wib.112.2015.09.14.10.37.18
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Sep 2015 10:37:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) client-ip=2a00:1450:400c:c05::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x235.google.com with SMTP id ge5so151190692wic.0
+        for <kuiperhaumea@gmail.com>; Mon, 14 Sep 2015 10:37:18 -0700 (PDT)
+X-Received: by 10.194.109.97 with SMTP id hr1mr30689836wjb.38.1442252238484;
+        Mon, 14 Sep 2015 10:37:18 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1201421wmw;
+        Mon, 14 Sep 2015 10:37:17 -0700 (PDT)
+X-Received: by 10.194.173.72 with SMTP id bi8mr30785733wjc.100.1442252237645;
+        Mon, 14 Sep 2015 10:37:17 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id eu11si20058044wjd.161.2015.09.14.10.37.16
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Sep 2015 10:37:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=s1; 
+	bh=oZGkZzsmTJcGRsK9XS2D0ZxFG90=; b=nhbohAsxPFzc5cAQozgaTlIUOuonr
+	gZOcbcLtH262nrv8zMDKgvq6ycs0gj67pm2fXYIGPJV7KoXdLHMZ198yZ82G2ZGY
+	6kO5OGbwmkPtHf7zi1B6dtsvDDs3WaEEf+rdFigyeZhUuNWec3odGnzQSDGRpGjC
+	n9KNQc6NwXW7nc=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=oZGkZzsmTJcGRsK9XS2D0ZxFG90=; b=NR/b/4KmLSeunFabzdg9rWSlnUJOa
+	2XILMVFgTvJQEZgfq8dQ+UxYb9bepRBMHomuiRYWh+R0QXaaMZ8JLkbeP5z8Sj+n
+	/q19vrXz0buovqpOzU7IRdJhZFVJEJVbfTkxDjXZPd3O9QUVBOuETvy2IuS+Oyza
+	JeLk4q5yKUn2mE=
+Received: by filter0849p1mdw1.sendgrid.net with SMTP id filter0849p1mdw1.15537.55F705CA6
+        2015-09-14 17:37:14.084020151 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id AWjCBhMUSfSBfiss96h1JQ
+	for <markiewicz.john@gmail.com>; Mon, 14 Sep 2015 17:37:14.056 +0000 (UTC)
+Reply-To: <yygs.beijing@yale.edu>
+From: "Yale Young Global Scholars-Beijing" <yygs.beijing@yale.edu>
+To: <markiewicz.john@gmail.com>
+Subject: YYGS-Beijing: Announcing new program information
+Date: Mon, 14 Sep 2015 17:36:59 +0000
+Message-ID: <2cc167d4-f84e-4376-8600-dc9a7a7a896e@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_a3c2cf2d-319f-41cb-aeb7-9e360f8bc4ca"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuEdSgscq3Kv4D+b9MJMthkEqkhBOXTQNKbQ7u
+ 7TpKx/uUBgL97CwO4TPDsZFLl5/KlkF4JHdZ6wpyJWnE+8eqIU8dVmHNh8aGJr8xTZ4emWu6jTraDm
+ ATeCMEWoss9JBzYrozAeAPpIsVJwvZpSpTHi
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegEcJ6VWmKUJ05NAQa8vqgLL8ZPdWswRLfulO3zqzLQmMwHAoDnBcIbNSxH
+ 1In9cLXltCCaR4kidwo7XHfH6zVNnV/XoWgr3eBARwpR7Xw2FDM2v4nvSa4Pkav31QDkkcSgB5guGZ
+ 89Hy3FmlfvjPOFP0M6mnqZ0twPOSaEH/R6UR3A5e87d1BIO88FVAtuE5yev4y9spGxJE9Ocbqs9cOR
+ SNAKhhAIe0/4CxsGhGOCqdlrL53iV7U7TNjucJGY3x5Q==
+
+------=_0_a3c2cf2d-319f-41cb-aeb7-9e360f8bc4ca
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+The YYGS-Beijing online application is now available! <http://yygsbeijing.y=
+ale.edu>
+(Scroll down for the email in Chinese)
+YYGS-Beijing <http://yygsbeijing.yale.edu/> is a seven-day residential prog=
+ram for high school students at Yale Center Beijing <http://centerbeijing.y=
+ale.edu> in China. Students who are admitted to the program will live toget=
+her under adult supervision and complete a diverse curriculum designed to p=
+repare emerging student leaders for continued success in high school, colle=
+ge, and beyond. For eligibility requirements, visit our website <http://yyg=
+sbeijing.yale.edu/>.
+
+Applications are due October 15, 2015. Apply online at yygsbeijing.yale.edu=
+ <http://yygsbeijing.yale.edu>.
+Download our informational flyer <https://apply.globalscholars.yale.edu/www=
+/documents/Beijing%20Flyer_Final.pdf> for more information and to forward t=
+o anyone who may be interested in the program.
+
+
+In the following email, you will learn more about:
+* The student profile <#student%20profile>
+* What students can expect to gain from the program <#What%20Students%20Can=
+%20Expect%20to%20Gain:>
+* New test scores being accepted with the application <#New%20test%20scores=
+%20accepted> (for those who haven't taken the TOEFL)
+* Overview of seminar topics <#seminar%20topics>
+* How to register for an online information session <#webinar> (for residen=
+ts in China)
+
+
+YYGS-Beijing Students Will Have:
+* Strong written and verbal communication skills in English
+* An excellent academic record
+* Demonstrated leadership potential
+* Desire and ability to work cooperatively with peers
+* Curiosity and interest in global issues, peoples, and cultures
+* High standard of personal and professional conductWhat Students Can Expec=
+t to Gain:
+We are cultivating the next generation of global leaders. Through an immers=
+ive, first-of-its-kind program on-site at the Yale Center Beijing, students=
+ receive:
+* The chance to engage in a Q&A discussion with current college students in=
+ a panel setting
+* Friendships with peers and Yale student instructors from around the world
+* Enhanced preparation for intensive pre-collegiate programs, such as YYGS =
+in New Haven
+* A new perspective on their goals and college majors
+* Exposure to the vibrant city of BeijingNEW Standardized Tests Accepted!
+Haven't taken the TOEFL? No problem! YYGS-Beijing now accepts two additiona=
+l tests of English-language proficiency for admission: IELTS and PTE. Both =
+still have open test dates in China and around the world prior to the Octob=
+er 15 application deadline. More information is available on our updated El=
+igibility <http://yygsbeijing.yale.edu/eligibility> page. NEW Seminar Topic=
+s Announced!
+Essential to the YYGS-Beijing program is the opportunity for students to en=
+gage with world-renowned Yale faculty and graduate students in small semina=
+rs of their choosing. Topics currently include:
+* History
+* Economics
+* Public Health
+* Innovation and Entrepreneurship
+* International Relations
+* Environment
+* Applied Science
+* More topics to be added in the coming weeks!Interested But Need More Info=
+rmation?
+If you live in China, you may participate in our live interactive webinar o=
+n September 17 at 8:00 PM CST by registering through the following link: ht=
+tp://yygsbeijing.yale.edu/yygs-beijing-webinar-september-17. The webinar wi=
+ll be limited to 100 participants so if you would like to participate, plea=
+se register as early as possible. The deadline to register is September 16.=
+P.S. Want to hear student experiences from this past summer? Read this acco=
+unt <http://globalscholars.yale.edu/news/my-yygs-experience-yiwei-zhang-ias=
+-15> by Yiwei Zhang, Beijing native and 2015 YYGS participant.
+
+=E8=80=B6=E9=B2=81=E5=85=A8=E7=90=83=E9=9D=92=E5=B9=B4=E5=AD=A6=E8=80=85=EF=
+=BC=8D=E5=8C=97=E4=BA=AC=E9=A1=B9=E7=9B=AE <http://yygsbeijing.yale.edu/>=
+=E6=98=AF=E4=B8=80=E4=B8=AA=E4=BD=8F=E5=AE=BF=E9=A1=B9=E7=9B=AE=EF=BC=8C=E5=
+=BD=95=E5=8F=96=E7=9A=84=E5=AD=A6=E7=94=9F=E5=B0=86=E4=BC=9A=E5=9C=A8=E6=88=
+=90=E4=BA=BA=E7=AE=A1=E7=90=86=E4=B8=8B=E4=B8=80=E8=B5=B7=E7=94=9F=E6=B4=BB=
+=EF=BC=8C=E5=B9=B6=E5=9C=A8=E4=B8=AD=E5=9B=BD=E8=80=B6=E9=B2=81=E5=8C=97=E4=
+=BA=AC=E4=B8=AD=E5=BF=83 <http://centerbeijing.yale.edu/about-yale-center-b=
+eijing>=E5=8F=82=E5=8A=A0=E4=B8=BA=E6=9C=9F=E4=B8=83=E5=A4=A9=E7=9A=84=E5=
+=85=A8=E5=A4=A9=E9=A1=B9=E7=9B=AE=E6=B4=BB=E5=8A=A8=E3=80=82=E9=A1=B9=E7=9B=
+=AE=E8=AF=BE=E7=A8=8B=E6=98=AF=E4=B8=93=E9=97=A8=E8=AE=BE=E8=AE=A1=E6=9D=A5=
+=E5=B8=AE=E5=8A=A9=E5=B1=95=E9=9C=B2=E5=A4=B4=E8=A7=92=E7=9A=84=E5=AD=A6=E7=
+=94=9F=E9=A2=86=E8=A2=96=E5=81=9A=E5=A5=BD=E7=BB=A7=E7=BB=AD=E5=9C=A8=E9=AB=
+=98=E4=B8=AD=E3=80=81=E5=A4=A7=E5=AD=A6=E4=BB=A5=E5=8F=8A=E6=97=A5=E5=90=8E=
+=E6=88=90=E5=8A=9F=E5=8F=91=E5=B1=95=E7=9A=84=E5=87=86=E5=A4=87=E3=80=82=E5=
+=AF=B9=E4=BA=8E=E7=94=B3=E8=AF=B7=E8=B5=84=E6=A0=BC=E8=A6=81=E6=B1=82=EF=BC=
+=8C=E8=AF=B7=E8=AE=BF=E9=97=AE=E6=88=91=E4=BB=AC=E7=9A=84=E7=BD=91=E7=AB=99=
+ <http://yygsbeijing.yale.edu/eligibility>=E3=80=82
+
+=E7=94=B3=E8=AF=B7=E6=88=AA=E6=AD=A2=E6=97=A5=E6=9C=9F=E6=98=AF10=E6=9C=881=
+5=E6=97=A5=E3=80=82=E5=9C=A8=E7=BA=BF=E7=94=B3=E8=AF=B7=E8=AF=B7=E7=99=BB=
+=E5=BD=95yygsbeijing.yale.edu <http://yygsbeijing.yale.edu/>=E3=80=82
+=E6=83=B3=E8=A6=81=E4=BA=86=E8=A7=A3=E6=9B=B4=E5=A4=9A=E4=BF=A1=E6=81=AF=EF=
+=BC=8C=E8=AF=B7=E4=B8=8B=E8=BD=BD=E6=88=91=E4=BB=AC=E7=9A=84=E7=94=B5=E5=AD=
+=90=E4=BC=A0=E5=8D=95=EF=BC=9B=E5=B9=B6=E8=AF=B7=E8=BD=AC=E5=8F=91=E7=BB=99=
+=E4=BB=BB=E4=BD=95=E5=AF=B9=E9=A1=B9=E7=9B=AE=E5=8F=AF=E8=83=BD=E6=9C=89=E5=
+=85=B4=E8=B6=A3=E7=9A=84=E4=BA=BA=E3=80=82 <https://apply.globalscholars.ya=
+le.edu/www/documents/Beijing%20Flyer_Final.pdf>
+
+
+=E5=9C=A8=E4=B8=8B=E9=9D=A2=E7=9A=84=E9=82=AE=E4=BB=B6=E4=B8=AD=EF=BC=8C=E6=
+=82=A8=E5=B0=86=E8=AF=A6=E7=BB=86=E4=BA=86=E8=A7=A3=EF=BC=9A
+
+*=E5=AD=A6=E7=94=9F=E7=AE=80=E4=BB=8B <#Ch_1>
+*=E5=AD=A6=E7=94=9F=E5=8F=AF=E4=BB=A5=E6=9C=9F=E5=BE=85=E6=94=B6=E8=8E=B7=
+=E4=BB=80=E4=B9=88 <#Ch_2>
+*=E6=96=B0=E7=9A=84=E8=8B=B1=E8=AF=AD=E8=AF=AD=E8=A8=80=E8=80=83=E8=AF=95=
+=E6=88=90=E7=BB=A9=E8=A2=AB=E6=8E=A5=E5=8F=97 <#Ch_3>=EF=BC=88=E5=AF=B9=E4=
+=BA=8E=E9=82=A3=E4=BA=9B=E8=BF=98=E6=B2=A1=E6=9C=89=E5=8F=82=E5=8A=A0TOEFL=
+=E8=80=83=E8=AF=95=E7=9A=84=E5=AD=A6=E7=94=9F=EF=BC=89
+*=E7=A0=94=E8=AE=A8=E7=8F=AD=E8=AF=9D=E9=A2=98=E7=9A=84=E6=A6=82=E8=A7=88 <=
+#Ch_4>
+*=E5=A6=82=E4=BD=95=E6=B3=A8=E5=86=8C=E5=9C=A8=E7=BA=BF=E7=A0=94=E8=AE=A8=
+=E4=BC=9A <#Ch_5>=EF=BC=88=E5=AF=B9=E4=BA=8E=E4=B8=AD=E5=9B=BD=E5=B1=85=E6=
+=B0=91=EF=BC=89
+YYGS=EF=BC=8DBeijing=E7=9A=84=E5=AD=A6=E7=94=9F=E8=A6=81=E6=9C=89=EF=BC=9A
+
+* =E5=BE=88=E5=BC=BA=E7=9A=84=E8=8B=B1=E8=AF=AD=E5=86=99=E4=BD=9C=E5=92=8C=
+=E5=8F=A3=E8=AF=AD=E4=BA=A4=E6=B5=81=E8=83=BD=E5=8A=9B
+* =E4=B8=80=E4=BB=BD=E4=BC=98=E5=BC=82=E7=9A=84=E6=88=90=E7=BB=A9=E6=8A=A5=
+=E5=91=8A=E5=8D=95
+* =E5=B1=95=E7=8E=B0=E5=87=BA=E7=9A=84=E9=A2=86=E5=AF=BC=E5=8A=9B=E6=BD=9C=
+=E8=83=BD
+* =E4=B8=8E=E5=90=8C=E9=BE=84=E4=BA=BA=E5=90=88=E4=BD=9C=E7=9A=84=E6=B8=B4=
+=E6=9C=9B=E5=92=8C=E8=83=BD=E5=8A=9B
+* =E5=AF=B9=E5=9B=BD=E9=99=85=E4=BA=8B=E5=8A=A1=E3=80=81=E4=BA=BA=E4=B8=8E=
+=E6=96=87=E5=8C=96=E6=9C=89=E5=A5=BD=E5=A5=87=E5=BF=83=E5=92=8C=E5=85=B4=E8=
+=B6=A3
+* =E4=B8=AA=E4=BA=BA=E4=B8=8E=E8=81=8C=E4=B8=9A=E8=A1=8C=E4=B8=BA=E7=9A=84=
+=E9=AB=98=E6=A0=87=E5=87=86=E5=AD=A6=E7=94=9F=E5=8F=AF=E4=BB=A5=E6=9C=9F=E5=
+=BE=85=E6=94=B6=E8=8E=B7=E4=BB=80=E4=B9=88=EF=BC=9A
+
+=E6=88=91=E4=BB=AC=E5=9C=A8=E5=9F=B9=E5=85=BB=E4=B8=8B=E4=B8=80=E4=BB=A3=E7=
+=9A=84=E5=85=A8=E7=90=83=E9=A2=86=E8=A2=96=E3=80=82=E9=80=9A=E8=BF=87=E8=BF=
+=99=E4=B8=AA=E6=B5=B8=E6=B2=A1=E5=BC=8F=E7=9A=84=EF=BC=8C=E5=BC=80=E5=88=9B=
+=E6=80=A7=E7=9A=84=E9=A1=B9=E7=9B=AE=EF=BC=8C=E5=AD=A6=E7=94=9F=E5=B0=86=E8=
+=8E=B7=E5=BE=97=EF=BC=9A
+* =E5=85=B3=E4=BA=8E=E7=BE=8E=E5=9B=BD=E5=A4=A7=E5=AD=A6=E7=94=B3=E8=AF=B7=
+=E7=8B=AC=E4=B8=80=E6=97=A0=E4=BA=8C=E7=9A=84=E6=B4=9E=E8=A7=81
+* =E6=9C=89=E6=9C=BA=E4=BC=9A=E4=B8=8E=E8=80=B6=E9=B2=81=E5=9C=A8=E6=A0=A1=
+=E7=94=9F=E5=81=9AQ=EF=BC=86A=E8=AE=A8=E8=AE=BA
+* =E4=B8=8E=E4=B8=96=E7=95=8C=E5=90=84=E5=9C=B0=E7=9A=84=E5=90=8C=E9=BE=84=
+=E4=BA=BA=E5=92=8C=E8=80=B6=E9=B2=81=E5=AF=BC=E5=B8=88=E5=BB=BA=E7=AB=8B=E5=
+=8F=8B=E8=B0=8A
+* =E6=9B=B4=E5=A5=BD=E5=9C=B0=E5=87=86=E5=A4=87=E5=8F=82=E5=8A=A0=E9=AB=98=
+=E5=BC=BA=E5=BA=A6=E7=9A=84=E5=A4=A7=E5=AD=A6=E9=A2=84=E5=A4=87=E9=A1=B9=E7=
+=9B=AE=EF=BC=8C=E4=BE=8B=E5=A6=82=E5=9C=A8=E7=BA=BD=E9=BB=91=E6=96=87=E7=9A=
+=84=E8=80=B6=E9=B2=81=E5=85=A8=E7=90=83=E9=9D=92=E5=B9=B4=E5=AD=A6=E8=80=85=
+=E9=A1=B9=E7=9B=AE
+* =E5=85=B3=E4=BA=8E=E7=9B=AE=E6=A0=87=E4=B8=8E=E5=A4=A7=E5=AD=A6=E4=B8=93=
+=E4=B8=9A=E7=9A=84=E5=85=A8=E6=96=B0=E8=A7=86=E8=A7=92
+* =E6=8E=A5=E8=A7=A6=E5=85=85=E6=BB=A1=E6=B4=BB=E5=8A=9B=E7=9A=84=E5=8C=97=
+=E4=BA=AC=E6=8E=A5=E5=8F=97=E6=96=B0=E7=9A=84=E6=A0=87=E5=87=86=E5=8C=96=E6=
+=B5=8B=E8=AF=95=E6=88=90=E7=BB=A9=EF=BC=81
+
+=E8=BF=98=E6=B2=A1=E6=9C=89=E8=80=83TOEFL=EF=BC=9F=E6=B2=A1=E6=9C=89=E5=85=
+=B3=E7=B3=BB=EF=BC=81=E8=80=B6=E9=B2=81=E5=85=A8=E7=90=83=E9=9D=92=E5=B9=B4=
+=E5=AD=A6=E8=80=85=EF=BC=8D=E5=8C=97=E4=BA=AC=E9=A1=B9=E7=9B=AE=E7=8E=B0=E5=
+=9C=A8=E5=9C=A8=E6=8B=9B=E7=94=9F=E4=B8=AD=E6=8E=A5=E5=8F=97=E5=8F=A6=E5=A4=
+=96=E4=B8=A4=E7=A7=8D=E8=8B=B1=E8=AF=AD=E8=AF=AD=E8=A8=80=E6=B0=B4=E5=B9=B3=
+=E8=80=83=E8=AF=95=E6=88=90=E7=BB=A9=EF=BC=9AILETS=E5=92=8CPTE=E3=80=82=E5=
+=9C=A810=E6=9C=8815=E6=97=A5=E7=94=B3=E8=AF=B7=E6=88=AA=E6=AD=A2=E6=97=A5=
+=E5=89=8D=EF=BC=8C=E8=BF=99=E4=B8=A4=E7=A7=8D=E8=80=83=E8=AF=95=E5=9C=A8=E4=
+=B8=AD=E5=9B=BD=E5=92=8C=E5=85=A8=E4=B8=96=E7=95=8C=E9=83=BD=E8=BF=98=E6=9C=
+=89=E5=BC=80=E6=94=BE=E7=9A=84=E8=80=83=E8=AF=95=E6=97=B6=E9=97=B4=E3=80=82=
+=E6=9C=89=E5=85=B3=E6=9B=B4=E5=A4=9A=E7=9A=84=E4=BF=A1=E6=81=AF=E5=8F=AF=E4=
+=BB=A5=E5=9C=A8=E6=88=91=E4=BB=AC=E6=9C=80=E8=BF=91=E6=9B=B4=E6=96=B0=E7=9A=
+=84=E7=94=B3=E8=AF=B7=E6=9D=A1=E4=BB=B6 <http://yygsbeijing.yale.edu/eligib=
+ility>=E9=A1=B5=E9=9D=A2=E6=9F=A5=E6=89=BE=E3=80=82=E6=9C=80=E6=96=B0=E7=A0=
+=94=E8=AE=A8=E7=8F=AD=E8=AF=9D=E9=A2=98=E5=85=AC=E5=B8=83=EF=BC=81
+
+=E8=80=B6=E9=B2=81=E5=85=A8=E7=90=83=E9=9D=92=E5=B9=B4=E5=AD=A6=E8=80=85=EF=
+=BC=8D=E5=8C=97=E4=BA=AC=E9=A1=B9=E7=9B=AE=E7=9A=84=E6=A0=B8=E5=BF=83=E6=98=
+=AF=E6=8F=90=E4=BE=9B=E5=AD=A6=E7=94=9F=E5=9C=A8=E4=BB=96=E4=BB=AC=E8=87=AA=
+=E5=B7=B1=E9=80=89=E6=8B=A9=E7=9A=84=E5=B0=8F=E5=9E=8B=E7=A0=94=E8=AE=A8=E7=
+=8F=AD=E9=87=8C=E4=B8=8E=E4=B8=96=E7=95=8C=E7=9F=A5=E5=90=8D=E7=9A=84=E8=80=
+=B6=E9=B2=81=E6=95=99=E8=81=8C=E4=BA=BA=E5=91=98=E4=BB=A5=E5=8F=8A=E7=A0=94=
+=E7=A9=B6=E7=94=9F=E5=AF=86=E5=88=87=E4=BA=A4=E6=B5=81=E7=9A=84=E6=9C=BA=E4=
+=BC=9A=E3=80=82=E7=9B=AE=E5=89=8D=E7=9A=84=E7=A0=94=E8=AE=A8=E7=8F=AD=E8=AF=
+=9D=E9=A2=98=E5=8C=85=E6=8B=AC=EF=BC=9A
+* =E5=8E=86=E5=8F=B2
+* =E7=BB=8F=E6=B5=8E
+* =E5=85=AC=E5=85=B1=E5=81=A5=E5=BA=B7
+* =E5=88=9B=E6=96=B0=E4=B8=8E=E4=BC=81=E4=B8=9A=E5=AE=B6
+* =E5=9B=BD=E9=99=85=E5=85=B3=E7=B3=BB
+* =E7=8E=AF=E5=A2=83=E5=AD=A6
+* =E5=BA=94=E7=94=A8=E7=A7=91=E5=AD=A6
+* =E6=9B=B4=E5=A4=9A=E7=9A=84=E8=AF=9D=E9=A2=98=E5=B0=86=E4=BC=9A=E5=9C=A8=
+=E6=8E=A5=E4=B8=8B=E6=9D=A5=E7=9A=84=E5=87=A0=E4=B8=AA=E6=98=9F=E6=9C=9F=E9=
+=87=8C=E6=B7=BB=E5=8A=A0=EF=BC=81=E6=84=9F=E5=85=B4=E8=B6=A3=EF=BC=8C=E4=BD=
+=86=E9=9C=80=E8=A6=81=E6=9B=B4=E5=A4=9A=E4=BF=A1=E6=81=AF=EF=BC=9F
+
+=E5=A6=82=E6=9E=9C=E4=BD=A0=E4=BD=8F=E5=9C=A8=E4=B8=AD=E5=9B=BD=EF=BC=8C=E4=
+=BD=A0=E5=8F=AF=E4=BB=A5=E4=BA=8E=E5=8C=97=E4=BA=AC=E6=97=B6=E9=97=B49=E6=
+=9C=8817=E6=97=A5=E6=99=9A=E4=B8=8A8=EF=BC=9A00=E5=8F=82=E5=8A=A0=E6=88=91=
+=E4=BB=AC=E7=9A=84=E7=8E=B0=E5=9C=BA=E7=9B=B4=E6=92=AD=E4=BA=92=E5=8A=A8=E5=
+=9C=A8=E7=BA=BF=E7=A0=94=E8=AE=A8=E4=BC=9A=EF=BC=8C=E8=AF=B7=E9=80=9A=E8=BF=
+=87=E4=BB=A5=E4=B8=8B=E9=93=BE=E6=8E=A5=E6=B3=A8=E5=86=8C=EF=BC=9Ahttp://yy=
+gsbeijing.yale.edu/yygs-beijing-webinar-september-17 =E3=80=82=E6=9C=AC=E6=
+=AC=A1=E7=A0=94=E8=AE=A8=E4=BC=9A=E5=B0=86=E9=99=90=E5=AE=9A150=E4=B8=AA=E5=
+=90=8D=E9=A2=9D=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=BD=A0=E6=83=B3=E5=8F=82=E5=8A=
+=A0=EF=BC=8C=E8=AF=B7=E5=B0=BD=E6=97=A9=E6=B3=A8=E5=86=8C=E3=80=82=E6=B3=A8=
+=E5=86=8C=E7=9A=84=E6=88=AA=E6=AD=A2=E6=97=A5=E6=9C=9F=E6=98=AF9=E6=9C=8816=
+=E6=97=A5=E3=80=82=E9=99=84=E6=B3=A8=EF=BC=9A=E6=83=B3=E8=A6=81=E5=90=AC=E4=
+=B8=80=E5=90=AC=E6=88=91=E4=BB=AC=E7=9A=84=E5=AD=A6=E7=94=9F=E5=9C=A8=E5=88=
+=9A=E5=88=9A=E8=BF=87=E5=8E=BB=E7=9A=84=E8=BF=99=E4=B8=AA=E5=A4=8F=E5=A4=A9=
+=E7=9A=84=E7=BB=8F=E5=8E=86=E5=90=97=EF=BC=9F=E4=BD=A0=E5=8F=AF=E4=BB=A5=E8=
+=AF=BB=E4=B8=80=E8=AF=BB <http://globalscholars.yale.edu/news/my-yygs-exper=
+ience-yiwei-zhang-ias-15>=E5=BC=A0=E4=B8=80=E8=8B=87=EF=BC=8C=E4=B8=80=E4=
+=B8=AA=E6=9D=A5=E8=87=AA=E5=8C=97=E4=BA=AC=E5=BD=93=E5=9C=B0=E7=9A=84=E8=80=
+=B6=E9=B2=81=E5=85=A8=E7=90=83=E9=9D=92=E5=B9=B4=E5=AD=A6=E8=80=85=E7=9A=84=
+=E5=8F=99=E8=BF=B0=E3=80=82
+
+
+
+If you would like to be removed from the Yale Young Global Scholars contact=
+ list, please unsubscribe at the link below.
+
+
+This email was sent to markiewicz.john@gmail.com by Yale Young Global Schol=
+ars-Beijing.
+Unsubscribe from Yale Young Global Scholars. <https://apply.globalscholars.=
+yale.edu/go?r=3Doptout&mid=3D2cc167d4-f84e-4376-8600-dc9a7a7a896e>=
+
+------=_0_a3c2cf2d-319f-41cb-aeb7-9e360f8bc4ca
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;"><table align=3D"center" border=3D"0" cellpadding=3D"1" cellspacing=3D"=
+1" style=3D"width: 750px;"><tbody><tr><td><span style=3D"color:#FFFFFF;"><s=
+pan style=3D"font-size:8px;">The YYGS-Beijing online application is now ava=
+ilable!</span></span><a href=3D"http://mx.technolutions.net/wf/click?upn=3D=
+Kwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORCTYgqMU-2BrHxX3sbEeTJR9s_fl-2FMBk=
+JMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ=
+-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGsc=
+GTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OP=
+GbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FG=
+EXVAy3UY-2BojUR0bmE7uclLjcerkvMHngA9xNsL-2By0KM8SdXc0uECjglO-2F8MGV5j-2BlTr=
+-2FwA3aFYE-2BUw7mvlxWxO1JTVGNoNQf6kBjg36mfGo-2BogMH1tVUe4p4XHZXcs3yC1JpGXm8=
+whG84Grtr1C8OyHTaS1yiO2QfTQoIS5Fonu4n8OgOMqMCEzn1jfzB8es4mXqvhJa-2BL8-3D" t=
+arget=3D"_blank"><img alt=3D"" style=3D"width: 900px; height: 281px;" heigh=
+t=3D"281" width=3D"900" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/=
+-bgWTcF616sU-i5vVrdHNwwKigz_j51_8nh2OzVf8OyIxMO6ATV7n5pPFh-LoU6GHdKH2oy7QiS=
+qbcg02C_dE12CJCa5qErGCmiMlWzV4odKlXla_lfBhO-548ab8_LcOB4ATadO5PAd2C5MkXA2Wf=
+sqRU4aXytoaYqNAMxNegergTViefQrjw" /></a></td></tr><tr><td><p><span style=3D=
+"font-size:11px;"><span style=3D"font-family:lucida sans unicode,lucida gra=
+nde,sans-serif;"><em>(Scroll down for the email in Chinese)</em></span></sp=
+an><br /><span style=3D"font-size:12px;"><span style=3D"font-family:lucida =
+sans unicode,lucida grande,sans-serif;"><a href=3D"http://mx.technolutions.=
+net/wf/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORCgzwHNm0Io3jI0=
+VwNPcihT_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-=
+2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomj=
+SJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2Wt=
+gVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF=
+3aiSOOySixt2f-2FGEXVAy3UY-2Bog0jAUeijxmc9omZVWlhLPzN-2Fikzi-2FCHtxrvetHK76g=
+bKrWLjrwCqYsO45L6GgKZS5B-2F5BaYJQr0eQi7tnYhftrz7wNGP49mz4gYMvh5HRwGesFiQ1Ja=
+GkmtZQ4cy-2FpCOf6vSBe84meJ1SHRJzVb4Sx66dLjSyfQ3CevGrnNI-2BYKRP2TuYN8emLbKpd=
+idNsCS8-3D"><u>YYGS-Beijing</u></a> is a seven-day residential program for =
+high school students at <a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3D0n6hkDG7E77ZAbfAcQa7dO77e78q9dxpvJUkjo2cznbROb0N0-2FkSArWZE4KujKXW_fl-2F=
+MBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2=
+BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJy=
+GscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy=
+2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-=
+2FGEXVAy3UY-2Boi1bmhlYJly64BUdXJNVyn2V-2BPOYTuLT-2B6eARWk-2FCerGzV5sIxMXC2h=
+kzDPLLI0k207oP2Xunfk7HlJZocn-2FLVvIHM-2FlBjQ3d-2BdTLCWHCvfLjFlmTkSID8KTHS0W=
+y4oxkIscO6vx7Rdsbfc8mtp8O896Vpw1oCv1YigTlSsvaZjdHTGt18OGLCMYzg7AET-2FkDc-3D=
+">Yale Center Beijing</a> in China. Students who are admitted to the progra=
+m will live together under adult supervision and complete a diverse curricu=
+lum designed to prepare emerging student leaders for continued success in h=
+igh school, college, and beyond.&nbsp;</span></span><span style=3D"font-siz=
+e:12px;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans=
+-serif;">For eligibility requirements, <a href=3D"http://mx.technolutions.n=
+et/wf/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORCgzwHNm0Io3jI0V=
+wNPcihT_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2=
+Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjS=
+JF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2Wtg=
+VWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3=
+aiSOOySixt2f-2FGEXVAy3UY-2BohcFi7dmN7Og2UkIWAIMrsyfMfI6CSLWIt80cDdOvvNID9hz=
+iUrHE1If4pcFrxbvZ6PxYvlkFpryFPFiQ7MuphbiXBQNfeQANsLw52nTxl3S2tc3MLxfEwfzyIb=
+Ot695Tpd1mrqu-2Fj4stKFAN8-2F4iQwSS6luKzuUBpTt5hKw80Rfcb5NY7ybl37TbV50xyVa3A=
+-3D">visit our website</a>.</span></span><br /><br /><span style=3D"font-si=
+ze:22px;"><span style=3D"font-family: lucida sans unicode,lucida grande,san=
+s-serif;">Applications are due October 15, 2015. Apply online at <a href=3D=
+"http://mx.technolutions.net/wf/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT=
+6NSzQAn7hORCTYgqMU-2BrHxX3sbEeTJR9s_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4s=
+iHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7m=
+mMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZv=
+rHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2=
+FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BogupOgLjwOQCswoO70KS=
+76rlwEZkMvlNpbcIky9JaBhTDJwQ2fSxn53Zm8JYlimXRb-2FHzGHHMiQU1UsFF1bHuTRoEcT-2=
+BMfyOf9bH-2BY04HfZIFPfIFrsK4la-2FYWfNAsFPubMeL0L6NHYMU-2FHqvLpLf4q5DoW-2F07=
+ftBK198kviKUNsm8RUCXxPrUhOCnAwFSrzx4-3D">yygsbeijing.yale.edu</a></span></s=
+pan><span style=3D"font-size:12px;"><span style=3D"font-family: lucida sans=
+ unicode,lucida grande,sans-serif;">.<br /><a href=3D"http://mx.technolutio=
+ns.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1lH6JVAl5iz-2BcJQB2A1zMJ34TQq3XsW=
+14aiP1r6pIh-2BQSzgtu27GcWzkklfoO-2B1CI1eQMFxo9yb0lDcpv4e-2BmIU24x7zK-2F-2BK=
+cwX4dm4hIYyk_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zw=
+kFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxf=
+comjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6=
+s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpo=
+NwpF3aiSOOySixt2f-2FGEXVAy3UY-2BogI8GsM40849TTA5ECuIX19DkEQzdu0nftSG8RiahvX=
+P4PBFxt8sZcBVmeMX-2BdBYiLt9KGWXvkyDq9ojWKS0JUUHfucorXCuIzoBIZom9SeSMR6s0nJ7=
+TvXIUDWluUGwluwp4k20vbxEGs1bvFjlZiZM5VTFNF4EGo1wnahfUPdUJC68fL1pcxOzdin2IgM=
+e7M-3D" target=3D"_blank">Download our informational flyer</a> for more inf=
+ormation and to forward to anyone who may be interested in the program.</sp=
+an></span></p><p><br /><span style=3D"font-size:12px;"><span style=3D"font-=
+family: lucida sans unicode,lucida grande,sans-serif;"><span style=3D"color=
+:#000080;"><strong>In the following email, you will learn more about:</stro=
+ng><br />
+&#8226; <a href=3D"#student%20profile">The student profile</a><br />
+&#8226; <a href=3D"#What%20Students%20Can%20Expect%20to%20Gain:">What stude=
+nts can expect to gain from the program</a><br />
+&#8226; <a href=3D"#New%20test%20scores%20accepted">New test scores being a=
+ccepted with the application</a> (for those who haven't taken the TOEFL)<br=
+ />
+&#8226; <a href=3D"#seminar%20topics">Overview of seminar topics</a><br />
+&#8226; <a href=3D"#webinar">How to register for an online information sess=
+ion</a> (for residents in China)</span></span></span></p><hr /><hr /></td><=
+/tr><tr><td><span style=3D"font-size:12px;"><span style=3D"font-family: luc=
+ida sans unicode,lucida grande,sans-serif;"><a id=3D"student profile" name=
+=3D"student profile"><span style=3D"color:#000080;"><strong>YYGS-Beijing St=
+udents Will Have:</strong></span></a><br />
+&#8226; Strong written and verbal communication skills in English<br />
+&#8226; An excellent academic record<br />
+&#8226; Demonstrated leadership potential<br />
+&#8226; Desire and ability to work cooperatively with peers<br />
+&#8226; Curiosity and interest in global issues, peoples, and cultures<br />
+&#8226; High standard of personal and professional conduct</span></span><hr=
+ /><span style=3D"font-size:12px;"><span style=3D"font-family: lucida sans =
+unicode,lucida grande,sans-serif;"><a name=3D"What Students Can Expect to G=
+ain:"><span style=3D"color:#000080;"><strong>What Students Can Expect to Ga=
+in:</strong></span></a><br />
+We are cultivating the next generation of global leaders. Through an immers=
+ive, first-of-its-kind program on-site at the Yale Center Beijing, students=
+ receive:<br />
+&#8226; The chance to engage in a Q&amp;A discussion with current college s=
+tudents in a panel setting<br />
+&#8226; Friendships with peers and Yale student instructors from around the=
+ world<br />
+&#8226; Enhanced preparation for intensive pre-collegiate programs, such as=
+ YYGS in New Haven<br />
+&#8226; A new perspective on their goals and college majors<br />
+&#8226; Exposure to the vibrant city of Beijing</span></span><hr /><span st=
+yle=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,luc=
+ida grande,sans-serif;"><a name=3D"New test scores accepted"><span style=3D=
+"color:#000080;"><strong>NEW Standardized Tests Accepted!</strong></span></=
+a><br />
+Haven&#8217;t taken the TOEFL? No problem! YYGS-Beijing now accepts two add=
+itional tests of English-language proficiency for admission: IELTS and PTE.=
+ Both still have open test dates in China and around the world prior to the=
+ October 15 application deadline. More information is available on our upda=
+ted <a href=3D"http://mx.technolutions.net/wf/click?upn=3DKwwuqo6czIJGfAKfS=
+RGgV0WgZN6oFVT6NSzQAn7hORDLD8fx66Rqm-2FEcLo6Ekzts_fl-2FMBkJMX7HXblz8UUSYqUr=
+8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrL=
+FpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4=
+ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09B=
+qGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BohYKvx=
+yoydXjpfCKuTLY34qoQQzx-2BycXsKnnx-2B-2FQPIQf4m6RK4S-2BYRCNjRxRCkMLIpg93LumV=
+IMcF00Eva3S7Lyi1G3WiEinggbAwBP0KEcC-2FaS2wnGDSPlIS9MAy-2BDcsSZFt8EFPHo2tNb-=
+2BUSiJ6HiIl3iWJu88nskiEz7qtrWjuIH9gEgxfHJryi4Cq1zMQA-3D" target=3D"_blank">=
+Eligibility</a> page.&nbsp;</span></span><hr /><span style=3D"font-size:12p=
+x;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans-seri=
+f;"><a id=3D"seminar topics" name=3D"seminar topics"><span style=3D"color:#=
+000080;"><strong>NEW Seminar Topics Announced!</strong></span></a><br />
+Essential to the YYGS-Beijing program is the opportunity for students to en=
+gage with world-renowned Yale faculty and graduate students in small semina=
+rs of their choosing. Topics currently include:<br />
+&#8226; History<br />
+&#8226; Economics<br />
+&#8226; Public Health<br />
+&#8226; Innovation and Entrepreneurship<br />
+&#8226; International Relations<br />
+&#8226; Environment<br />
+&#8226; Applied Science<br />
+&#8226; More topics to be added in the coming weeks!</span></span><hr /><sp=
+an style=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicod=
+e,lucida grande,sans-serif;"><a id=3D"webinar" name=3D"webinar"><span style=
+=3D"color:#000080;"><strong>Interested But Need More Information?&nbsp;</st=
+rong></span></a><br /><u>If you live in China</u>, you may participate in o=
+ur live interactive webinar on September 17 at 8:00 PM CST by registering t=
+hrough the following link: <a href=3D"http://mx.technolutions.net/wf/click?=
+upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORBMeiIrkFa8B2EW5-2Fi5k80AegL=
+WOoLjtpp0hx8YL5QvgodI-2B8LmN63UP3SiLXsfwkI-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B=
+1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpIC=
+cA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4w=
+vEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSX=
+pJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BohsdkAWtoK=
+TdWkPYdnd6t38MEH4zmQG5Gwy9Mc-2BOOAqAb9l1eiWtpi-2FVRK40roiXZmPJZjlHvxDUnYY-2=
+FG5i-2BIe4pgP3GzL6SgXHKMxIbcX-2B-2BffQ98SG0XbDERRqE0OF-2BzybYXCKegl73IGM7Vu=
+9esgRtJLa7vgVrL89RyZuLE1DpjQkIpcvZ5-2FQob1uMtARn9Q-3D">http://yygsbeijing.y=
+ale.edu/yygs-beijing-webinar-september-17</a>. The webinar will be limited =
+to 100 participants so if you would like to participate, please register as=
+ early as possible. The deadline to register is September 16.</span></span>=
+<hr /><span style=3D"font-size:12px;"><span style=3D"font-family: lucida sa=
+ns unicode,lucida grande,sans-serif;">P.S. Want to hear student experiences=
+ from this past summer? <a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3DRxhzbYlSa3sMFitFhHrcwOnIFuMpQMMRip8gvT3v2HgdqyVWQiG1EHMg307xvXDY-2FvZRG8=
+CmGCZjPp-2F2MtvW6bQRw5G175hCyQNF-2BNIqiPo-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wv=
+EN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXp=
+JKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BojXhd8HRrdH=
+gyeAlMehlIzsCIXgfnDKAbSW6m9i0vlWvxeo68S8-2BlKow9cKSU3-2Ft3dwmfIhDsHinWn-2Bx=
+HATgBnKpJHa55UicnWlXSC4AOaoVmEsx6hrWlpMuPBMMW8TmD54xvrEiNvvWeHpAqu637uxZq-2=
+BSmmQ09mK0JW8St-2F6T4nNXsKnOkxIE4TMfnZRsi2k-3D" target=3D"_blank">Read this=
+ account</a> by Yiwei Zhang, Beijing native and 2015 YYGS participant.</spa=
+n></span><hr /></td></tr></tbody></table><table align=3D"center" border=3D"=
+0" cellpadding=3D"1" cellspacing=3D"1" style=3D"width: 750px;"><tbody><tr><=
+td><a href=3D"http://mx.technolutions.net/wf/click?upn=3DKwwuqo6czIJGfAKfSR=
+GgV0WgZN6oFVT6NSzQAn7hORCTYgqMU-2BrHxX3sbEeTJR9s_fl-2FMBkJMX7HXblz8UUSYqUr8=
+-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLF=
+pICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4u=
+i4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09Bq=
+GSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BogJWmm7=
+Acd484CVvEbL67wEYkeTDQ6GSSsYpBaZE7QNSk4gye4FZgB18kYQTDBMy1PYSSqKbUL4We1ahI3=
+GZqUj6sJMNptmcV-2FdY6Xj-2FTf7EE6Q4QVIuY24ip1FBbeUhCAArqtNsbl9ZelDx9Uro-2FX6=
+TnXuTPeKejDqMK5GoX3eEMiBRT9MdCXyjDcgrzeLXmk-3D" target=3D"_blank"><img alt=
+=3D"" style=3D"width: 900px; height: 278px;" height=3D"278" width=3D"900" s=
+rc=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKi=
+gz_j51_8nh2OzVf8OyIxMO6ATV7n5pPFh-LoU6GHdKH2oy7QiSqbcg02C_dE-gN9_uWJwKaAKSc=
+gp_EN9i8FMiT-5b3pO1_qsmOkMd1iSN2FvT_w80" /></a></td></tr><tr><td><br /><a h=
+ref=3D"http://mx.technolutions.net/wf/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZ=
+N6oFVT6NSzQAn7hORCgzwHNm0Io3jI0VwNPcihT_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9=
+um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBd=
+YQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0Gw=
+yVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9y=
+UA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BojL3BMoBr8EUjfam=
+9zZVGjlNgCqkOWphxVQ5BRjWjLhvcjs9wculqcP2NOPYqid4j1bgbssbETvmfsSrNcpG00G0FkB=
+9VcEG6Xr6E-2FIRIdKKK8nzOCglqFkzio-2Bw7pVd8oTLfBxJz0HqdvabhCqBitBcRlmg2C-2F9=
+4mhdtyaRTmgpu-2FHsa-2BmkG2OEFo-2FDNyjavk-3D">&#32822;&#40065;&#20840;&#2969=
+9;&#38738;&#24180;&#23398;&#32773;&#65293;&#21271;&#20140;&#39033;&#30446;<=
+/a>&#26159;&#19968;&#20010;&#20303;&#23487;&#39033;&#30446;&#65292;&#24405;=
+&#21462;&#30340;&#23398;&#29983;&#23558;&#20250;&#22312;&#25104;&#20154;&#3=
+1649;&#29702;&#19979;&#19968;&#36215;&#29983;&#27963;&#65292;&#24182;&#2231=
+2;&#20013;&#22269;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D0n6=
+hkDG7E77ZAbfAcQa7dO77e78q9dxpvJUkjo2cznat70Yjapm5CpL1CN7-2FfqwreA4rZ3CJaOfI=
+aH6Jl9n-2FrQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BIt=
+oyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka=
+01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BohFnOQFMYb-2B-2FDO9p3qx4-2F-2FCI3aoJg=
+-2Bn54qCGpdQpHd2jmE4hTOl-2Bxye-2FmmnRafltDBA7UpttkvG9hYEwd0t3TkzLc-2F5vrRo1=
+76wOlZB8RmdZWLtRi-2FqQkfW-2Fgo2Lgp77Hc16rDNOUdEA54dGjT79YD9qodnpSqDHDWI4GPB=
+S7GjizIxet-2BjU7qaDAK54V6XgGg-3D">&#32822;&#40065;&#21271;&#20140;&#20013;&=
+#24515;</a>&#21442;&#21152;&#20026;&#26399;&#19971;&#22825;&#30340;&#20840;=
+&#22825;&#39033;&#30446;&#27963;&#21160;&#12290;&#39033;&#30446;&#35838;&#3=
+1243;&#26159;&#19987;&#38376;&#35774;&#35745;&#26469;&#24110;&#21161;&#2363=
+7;&#38706;&#22836;&#35282;&#30340;&#23398;&#29983;&#39046;&#34966;&#20570;&=
+#22909;&#32487;&#32493;&#22312;&#39640;&#20013;&#12289;&#22823;&#23398;&#20=
+197;&#21450;&#26085;&#21518;&#25104;&#21151;&#21457;&#23637;&#30340;&#20934=
+;&#22791;&#12290;&#23545;&#20110;&#30003;&#35831;&#36164;&#26684;&#35201;&#=
+27714;&#65292;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DKwwuqo6=
+czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORDLD8fx66Rqm-2FEcLo6Ekzts_fl-2FMBkJMX7HXb=
+lz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4=
+PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklf=
+JUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGq=
+Mxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3U=
+Y-2Boizz53EhEKErVVdNlBmcG1-2Flfp5Jxe2H9IyESd9w9SfytkxIZarej-2Fw7g43-2BJdfWv=
+FdYbXOHW3I59HmEF6v2Ub3aToc6MeGcv-2FYYf-2BhxEI4Y2Ok-2FGa3-2BHY8-2BKmRNIkNYNX=
+OXM6SBVtd57sH4Vpf1TKH7W0BR-2FlUQEk0p4HJX80iOYwtFFnAmFVhA-2Fi8mqlVjIM-3D">&#=
+35831;&#35775;&#38382;&#25105;&#20204;&#30340;&#32593;&#31449;</a>&#12290;<=
+br /><br /><span style=3D"font-size:24px;">&#30003;&#35831;&#25130;&#27490;=
+&#26085;&#26399;&#26159;10&#26376;15&#26085;&#12290;&#22312;&#32447;&#30003=
+;&#35831;&#35831;&#30331;&#24405;<a href=3D"http://mx.technolutions.net/wf/=
+click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORCgzwHNm0Io3jI0VwNPcih=
+T_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTj=
+G9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJ=
+kL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1e=
+Wy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOy=
+Sixt2f-2FGEXVAy3UY-2Bogo0Bsh343DFSdkwxGNgWPfrueSe34g9CL-2Bj0tCDrOIZl9LcOlSA=
+e5bI1G9Lw9VYqZx1LwjJmI4U60ndgWjGAwvnUWGih1awuV13HQV3Ths1uXAHl79iWOLjackq-2B=
+wbtMchlplH9EpXIeqUH0GQfaPSJ-2BrIn4JIqzUXluWg0Hq3ea-2FrSBGtG7-2B8xkzxJlUREWc=
+-3D">yygsbeijing.yale.edu</a>&#12290;</span><br /><a href=3D"http://mx.tech=
+nolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1lH6JVAl5iz-2BcJQB2A1zMJ34=
+TQq3XsW14aiP1r6pIh-2BQSzgtu27GcWzkklfoO-2B1CI1eQMFxo9yb0lDcpv4e-2BmIU24x7zK=
+-2F-2BKcwX4dm4hIYyk_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWgl=
+xdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc=
+3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BI=
+toyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLk=
+a01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2Boi3nw2LqYmLFfNjQ-2BlAkkp-2FFNiY3aL4Q=
+DdF0beiSm59Vdc3W240cIvoaAyoUsaRHLGgrk-2BZktgk69Hx4MXJLFhe7cXjdNY7-2FIpVZDIf=
+e9-2BZLNS4-2Br9nAAjJOx04d8Q9qqIqOjicH7N0Fib-2B-2FHHHCtJxyH7v7n-2BvAxFfF9CHd=
+rAYoz68QARicEBUFBxeKBCUvak-3D" target=3D"_blank">&#24819;&#35201;&#20102;&#=
+35299;&#26356;&#22810;&#20449;&#24687;&#65292;&#35831;&#19979;&#36733;&#251=
+05;&#20204;&#30340;&#30005;&#23376;&#20256;&#21333;&#65307;&#24182;&#35831;=
+&#36716;&#21457;&#32473;&#20219;&#20309;&#23545;&#39033;&#30446;&#21487;&#3=
+3021;&#26377;&#20852;&#36259;&#30340;&#20154;&#12290;</a><br /><br /><br />=
+<u><strong>&#22312;&#19979;&#38754;&#30340;&#37038;&#20214;&#20013;&#65292;=
+&#24744;&#23558;&#35814;&#32454;&#20102;&#35299;&#65306;</strong></u><br />=
+<br /><span style=3D"font-size:12px;"><span style=3D"font-family: lucida sa=
+ns unicode,lucida grande,sans-serif;">&#8226;</span></span><a href=3D"#Ch_1=
+">&#23398;&#29983;&#31616;&#20171;</a><br /><span style=3D"font-size:12px;"=
+><span style=3D"font-family: lucida sans unicode,lucida grande,sans-serif;"=
+>&#8226;</span></span><a href=3D"#Ch_2">&#23398;&#29983;&#21487;&#20197;&#2=
+6399;&#24453;&#25910;&#33719;&#20160;&#20040;</a><br /><span style=3D"font-=
+size:12px;"><span style=3D"font-family: lucida sans unicode,lucida grande,s=
+ans-serif;">&#8226;</span></span><a href=3D"#Ch_3">&#26032;&#30340;&#33521;=
+&#35821;&#35821;&#35328;&#32771;&#35797;&#25104;&#32489;&#34987;&#25509;&#2=
+1463;</a>&#65288;&#23545;&#20110;&#37027;&#20123;&#36824;&#27809;&#26377;&#=
+21442;&#21152;TOEFL&#32771;&#35797;&#30340;&#23398;&#29983;&#65289;<br /><s=
+pan style=3D"font-size:12px;"><span style=3D"font-family: lucida sans unico=
+de,lucida grande,sans-serif;">&#8226;</span></span><a href=3D"#Ch_4">&#3074=
+0;&#35752;&#29677;&#35805;&#39064;&#30340;&#27010;&#35272;</a><br /><span s=
+tyle=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,lu=
+cida grande,sans-serif;">&#8226;</span></span><a href=3D"#Ch_5">&#22914;&#2=
+0309;&#27880;&#20876;&#22312;&#32447;&#30740;&#35752;&#20250;</a>&#65288;&#=
+23545;&#20110;&#20013;&#22269;&#23621;&#27665;&#65289;
+<hr /><hr /></td></tr><tr><td><a id=3D"Ch_1" name=3D"Ch_1"><strong><u>YYGS&=
+#65293;Beijing&#30340;&#23398;&#29983;&#35201;&#26377;&#65306;</u></strong>=
+</a><br /><br /><span style=3D"font-size:12px;"><span style=3D"font-family:=
+ lucida sans unicode,lucida grande,sans-serif;">&#8226;</span></span> &#244=
+56;&#24378;&#30340;&#33521;&#35821;&#20889;&#20316;&#21644;&#21475;&#35821;=
+&#20132;&#27969;&#33021;&#21147;<br /><span style=3D"font-size:12px;"><span=
+ style=3D"font-family: lucida sans unicode,lucida grande,sans-serif;">&#822=
+6;</span></span> &#19968;&#20221;&#20248;&#24322;&#30340;&#25104;&#32489;&#=
+25253;&#21578;&#21333;<br /><span style=3D"font-size:12px;"><span style=3D"=
+font-family: lucida sans unicode,lucida grande,sans-serif;">&#8226;</span><=
+/span> &#23637;&#29616;&#20986;&#30340;&#39046;&#23548;&#21147;&#28508;&#33=
+021;<br /><span style=3D"font-size:12px;"><span style=3D"font-family: lucid=
+a sans unicode,lucida grande,sans-serif;">&#8226;</span></span> &#19982;&#2=
+1516;&#40836;&#20154;&#21512;&#20316;&#30340;&#28212;&#26395;&#21644;&#3302=
+1;&#21147;<br /><span style=3D"font-size:12px;"><span style=3D"font-family:=
+ lucida sans unicode,lucida grande,sans-serif;">&#8226;</span></span> &#235=
+45;&#22269;&#38469;&#20107;&#21153;&#12289;&#20154;&#19982;&#25991;&#21270;=
+&#26377;&#22909;&#22855;&#24515;&#21644;&#20852;&#36259;<br /><span style=
+=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,lucida=
+ grande,sans-serif;">&#8226;</span></span> &#20010;&#20154;&#19982;&#32844;=
+&#19994;&#34892;&#20026;&#30340;&#39640;&#26631;&#20934;
+<hr /><a id=3D"Ch_2" name=3D"Ch_2"><strong><u>&#23398;&#29983;&#21487;&#201=
+97;&#26399;&#24453;&#25910;</u></strong><strong><u>&#33719;</u></strong><st=
+rong><u>&#20160;&#20040;&#65306;</u></strong></a><br />
+&nbsp;<br />
+&#25105;&#20204;&#22312;&#22521;&#20859;&#19979;&#19968;&#20195;&#30340;&#2=
+0840;&#29699;&#39046;&#34966;&#12290;&#36890;&#36807;&#36825;&#20010;&#2802=
+4;&#27809;&#24335;&#30340;&#65292;&#24320;&#21019;&#24615;&#30340;&#39033;&=
+#30446;&#65292;&#23398;&#29983;&#23558;&#33719;&#24471;&#65306;<br /><span =
+style=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,l=
+ucida grande,sans-serif;">&#8226;</span></span> &#20851;&#20110;&#32654;&#2=
+2269;&#22823;&#23398;&#30003;&#35831;&#29420;&#19968;&#26080;&#20108;&#3034=
+0;&#27934;&#35265;<br /><span style=3D"font-size:12px;"><span style=3D"font=
+-family: lucida sans unicode,lucida grande,sans-serif;">&#8226;</span></spa=
+n> &#26377;&#26426;&#20250;&#19982;&#32822;&#40065;&#22312;&#26657;&#29983;=
+&#20570;Q&#65286;A&#35752;&#35770;<br /><span style=3D"font-size:12px;"><sp=
+an style=3D"font-family: lucida sans unicode,lucida grande,sans-serif;">&#8=
+226;</span></span> &#19982;&#19990;&#30028;&#21508;&#22320;&#30340;&#21516;=
+&#40836;&#20154;&#21644;&#32822;&#40065;&#23548;&#24072;&#24314;&#31435;&#2=
+1451;&#35850;<br /><span style=3D"font-size:12px;"><span style=3D"font-fami=
+ly: lucida sans unicode,lucida grande,sans-serif;">&#8226;</span></span> &#=
+26356;&#22909;&#22320;&#20934;&#22791;&#21442;&#21152;&#39640;&#24378;&#242=
+30;&#30340;&#22823;&#23398;&#39044;&#22791;&#39033;&#30446;&#65292;&#20363;=
+&#22914;&#22312;&#32445;&#40657;&#25991;&#30340;&#32822;&#40065;&#20840;&#2=
+9699;&#38738;&#24180;&#23398;&#32773;&#39033;&#30446;<br /><span style=3D"f=
+ont-size:12px;"><span style=3D"font-family: lucida sans unicode,lucida gran=
+de,sans-serif;">&#8226;</span></span> &#20851;&#20110;&#30446;&#26631;&#199=
+82;&#22823;&#23398;&#19987;&#19994;&#30340;&#20840;&#26032;&#35270;&#35282;=
+<br /><span style=3D"font-size:12px;"><span style=3D"font-family: lucida sa=
+ns unicode,lucida grande,sans-serif;">&#8226;</span></span> &#25509;&#35302=
+;&#20805;&#28385;&#27963;&#21147;&#30340;&#21271;&#20140;
+<hr /><a id=3D"Ch_3" name=3D"Ch_3"><strong><u>&#25509;&#21463;&#26032;&#303=
+40;&#26631;&#20934;&#21270;&#27979;&#35797;&#25104;&#32489;&#65281;</u></st=
+rong></a><br />
+&nbsp;<br />
+&#36824;&#27809;&#26377;&#32771;TOEFL&#65311;&#27809;&#26377;&#20851;&#3199=
+5;&#65281;&#32822;&#40065;&#20840;&#29699;&#38738;&#24180;&#23398;&#32773;&=
+#65293;&#21271;&#20140;&#39033;&#30446;&#29616;&#22312;&#22312;&#25307;&#29=
+983;&#20013;&#25509;&#21463;&#21478;&#22806;&#20004;&#31181;&#33521;&#35821=
+;&#35821;&#35328;&#27700;&#24179;&#32771;&#35797;&#25104;&#32489;&#65306;IL=
+ETS&#21644;PTE&#12290;&#22312;10&#26376;15&#26085;&#30003;&#35831;&#25130;&=
+#27490;&#26085;&#21069;&#65292;&#36825;&#20004;&#31181;&#32771;&#35797;&#22=
+312;&#20013;&#22269;&#21644;&#20840;&#19990;&#30028;&#37117;&#36824;&#26377=
+;&#24320;&#25918;&#30340;&#32771;&#35797;&#26102;&#38388;&#12290;&#26377;&#=
+20851;&#26356;&#22810;&#30340;&#20449;&#24687;&#21487;&#20197;&#22312;&#251=
+05;&#20204;&#26368;&#36817;&#26356;&#26032;&#30340;<a href=3D"http://mx.tec=
+hnolutions.net/wf/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORDLD=
+8fx66Rqm-2FEcLo6Ekzts_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2=
+BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3B=
+Lka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2Bog6Kc5BkNyxVEOk-2F-2F-2FxXB3BKQckB=
+o59Z3XF0V3cYoERw3-2BAhYQuLYUWpiQwsmCTcbVdGwxHac5J4wndpnmn71EHz-2Beo4eqAeMbk=
+o6d11ZC34PrK9qbH3Mw-2FNisCvL5zgmHTo8gwo9AvoOxlZuqGKBrE8VVf2BM3g3wYUQQAKi7-2=
+FZY4l9Ifo-2FWyY0u-2Fn72ewmys-3D">&#30003;&#35831;&#26465;&#20214;</a>&#3902=
+9;&#38754;&#26597;&#25214;&#12290;
+<hr /><a id=3D"Ch_4" name=3D"Ch_4"><strong><u>&#26368;&#26032;&#30740;</u><=
+/strong><strong><u>&#35752;</u></strong><strong><u>&#29677;</u></strong><st=
+rong><u>&#35805;&#39064;</u></strong><strong><u>&#20844;&#24067;&#65281;</u=
+></strong></a><br />
+&nbsp;<br />
+&#32822;&#40065;&#20840;&#29699;&#38738;&#24180;&#23398;&#32773;&#65293;&#2=
+1271;&#20140;&#39033;&#30446;&#30340;&#26680;&#24515;&#26159;&#25552;&#2037=
+9;&#23398;&#29983;&#22312;&#20182;&#20204;&#33258;&#24049;&#36873;&#25321;&=
+#30340;&#23567;&#22411;&#30740;&#35752;&#29677;&#37324;&#19982;&#19990;&#30=
+028;&#30693;&#21517;&#30340;&#32822;&#40065;&#25945;&#32844;&#20154;&#21592=
+;&#20197;&#21450;&#30740;&#31350;&#29983;&#23494;&#20999;&#20132;&#27969;&#=
+30340;&#26426;&#20250;&#12290;&#30446;&#21069;&#30340;&#30740;&#35752;&#296=
+77;&#35805;&#39064;&#21253;&#25324;&#65306;<br /><span style=3D"font-size:1=
+2px;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans-se=
+rif;">&#8226;</span></span> &#21382;&#21490;<br /><span style=3D"font-size:=
+12px;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans-s=
+erif;">&#8226;</span></span> &#32463;&#27982;<br /><span style=3D"font-size=
+:12px;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans-=
+serif;">&#8226;</span></span> &#20844;&#20849;&#20581;&#24247;<br /><span s=
+tyle=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,lu=
+cida grande,sans-serif;">&#8226;</span></span> &#21019;&#26032;&#19982;&#20=
+225;&#19994;&#23478;<br /><span style=3D"font-size:12px;"><span style=3D"fo=
+nt-family: lucida sans unicode,lucida grande,sans-serif;">&#8226;</span></s=
+pan> &#22269;&#38469;&#20851;&#31995;<br /><span style=3D"font-size:12px;">=
+<span style=3D"font-family: lucida sans unicode,lucida grande,sans-serif;">=
+&#8226;</span></span> &#29615;&#22659;&#23398;<br /><span style=3D"font-siz=
+e:12px;"><span style=3D"font-family: lucida sans unicode,lucida grande,sans=
+-serif;">&#8226;</span></span> &#24212;&#29992;&#31185;&#23398;<br /><span =
+style=3D"font-size:12px;"><span style=3D"font-family: lucida sans unicode,l=
+ucida grande,sans-serif;">&#8226;</span></span> &#26356;&#22810;&#30340;&#3=
+5805;&#39064;&#23558;&#20250;&#22312;&#25509;&#19979;&#26469;&#30340;&#2096=
+0;&#20010;&#26143;&#26399;&#37324;&#28155;&#21152;&#65281;
+<hr /><a id=3D"Ch_5" name=3D"Ch_5"><strong><u>&#24863;</u></strong><strong>=
+<u>&#20852;</u></strong><strong><u>&#36259;&#65292;&#20294;&#38656;&#35201;=
+&#26356;&#22810;&#20449;&#24687;&#65311;</u></strong></a><br />
+&nbsp;<br /><u>&#22914;&#26524;&#20320;&#20303;&#22312;&#20013;&#22269;</u>=
+&#65292;&#20320;&#21487;&#20197;&#20110;&#21271;&#20140;&#26102;&#38388;9&#=
+26376;17&#26085;&#26202;&#19978;8&#65306;00&#21442;&#21152;&#25105;&#20204;=
+&#30340;&#29616;&#22330;&#30452;&#25773;&#20114;&#21160;&#22312;&#32447;&#3=
+0740;&#35752;&#20250;&#65292;&#35831;&#36890;&#36807;&#20197;&#19979;&#3814=
+2;&#25509;&#27880;&#20876;&#65306;<a href=3D"http://mx.technolutions.net/wf=
+/click?upn=3DKwwuqo6czIJGfAKfSRGgV0WgZN6oFVT6NSzQAn7hORBMeiIrkFa8B2EW5-2Fi5=
+k80AegLWOoLjtpp0hx8YL5QvgodI-2B8LmN63UP3SiLXsfwkI-3D_fl-2FMBkJMX7HXblz8UUSY=
+qUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJ=
+KrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7Qs=
+eQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F=
+09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2Boi0=
+5wdOV08vHCN6g5UreJFPL-2FPI8CZb19xJKaj3jUry7gKWUp13o8NKdU6pZ3ShgnbmjoQeLnUYh=
+Jm3m-2FTVeJ7JK2cEwkYMQSa3ojXVB2MoEhFtJ0GJKZLgA6NezBKNGdOt3EmsK1lh-2FA2awA62=
+WQq5tbv9LxnBgRahS4x5DTqcWrhgGnT5-2FjTUGZ1bY2OOP-2Fk-3D">http://yygsbeijing.=
+yale.edu/yygs-beijing-webinar-september-17</a> &#12290;&#26412;&#27425;&#30=
+740;&#35752;&#20250;&#23558;&#38480;&#23450;150&#20010;&#21517;&#39069;&#65=
+292;&#22914;&#26524;&#20320;&#24819;&#21442;&#21152;&#65292;&#35831;&#23613=
+;&#26089;&#27880;&#20876;&#12290;&#27880;&#20876;&#30340;&#25130;&#27490;&#=
+26085;&#26399;&#26159;9&#26376;16&#26085;&#12290;
+<hr />
+&#38468;&#27880;&#65306;&#24819;&#35201;&#21548;&#19968;&#21548;&#25105;&#2=
+0204;&#30340;&#23398;&#29983;&#22312;&#21018;&#21018;&#36807;&#21435;&#3034=
+0;&#36825;&#20010;&#22799;&#22825;&#30340;&#32463;&#21382;&#21527;&#65311;&=
+#20320;&#21487;&#20197;<a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3DRxhzbYlSa3sMFitFhHrcwOnIFuMpQMMRip8gvT3v2HgdqyVWQiG1EHMg307xvXDY-2FvZRG8=
+CmGCZjPp-2F2MtvW6bQRw5G175hCyQNF-2BNIqiPo-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7QseQ4ui4wv=
+EN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2F09BqGSXp=
+JKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2BoiP-2FDVkHU=
+-2FyCTXNqZ4NAcia3epIgo1qFz5gQcxZRxlGGVt4qqJ1lKacvB6zzMFklEPPn3tLR0WXvvagELq=
+gadVC2nTNbdqxHYbWXiscT415x6RZxI75tnfetfZd3fyo9OqtgoFBB9IQxpEHtVtjKQfKP1gm9z=
+YYBHzq7U4evx-2F0Iibml6eOm82btMVxjEmz9CA-3D">&#35835;&#19968;&#35835;</a>&#2=
+4352;&#19968;&#33479;&#65292;&#19968;&#20010;&#26469;&#33258;&#21271;&#2014=
+0;&#24403;&#22320;&#30340;&#32822;&#40065;&#20840;&#29699;&#38738;&#24180;&=
+#23398;&#32773;&#30340;&#21465;&#36848;&#12290;
+<hr /></td></tr></tbody></table><p style=3D"text-align: center;"><br /><br =
+/><br /><span style=3D"font-size:9px;"><span style=3D"font-family:lucida sa=
+ns unicode,lucida grande,sans-serif;">If you would like to be removed from =
+the Yale Young Global Scholars contact list, please unsubscribe at the link=
+ below.</span></span></p></div></font><br /><table align=3D"center" bgcolor=
+=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75; clear: b=
+oth; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=3D"650">=
+<tr><td align=3D"center"><font color=3D"#333333" face=3D"Arial, Helvetica, =
+sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This email was sent=
+ to markiewicz.john@gmail.com by Yale Young Global Scholars-Beijing.<br /><=
+a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1l=
+H6JVAl5iz-2BcJQB2A1zMJ3ASdEfxiW9bU4DegkyvCSBkaSKLeCbUWxlG2KV81Mv5BOXbtT-2Fx=
+4Rn6J6IZhY839-2FLitUOpG23Pr72XKbL636ZTtImmwTY3SKnw3-2Fph8KGGw-3D-3D_fl-2FMB=
+kJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2Bv=
+Z-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGs=
+cGTOVklfJUKn7QseQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2O=
+PGbF1zGqMxcx-2F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2F=
+GEXVAy3UY-2BoiObC-2F-2BYJHgFyabqGYNFiBQZvhX6ro9rhL5T2f9-2BVodoiXLEIp5RCv7ji=
+7bESwXmOAeQivbYWruGa8Q4dSLTgHf8YqshGI6YO59JW43vk6yh9UsLgP3yMFwFxsybAGT8X-2B=
+Oqnk8pu3r8CUYe-2FVHQuNWuRlTzH1jxBrEQ5vwm1NTveiADVeAWQRIb-2F0HfiK6udA-3D">Un=
+subscribe</a> from Yale Young Global Scholars.</span></font></td></tr></tab=
+le>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomjSJF0kyJkL0spJyGscGTOVklfJUKn7Q=
+seQ4ui4wvEN0GwyVZvrHvEnjSfWWVK-2BItoyjvY6s2WtgVWrP1eWy0M1wy2OPGbF1zGqMxcx-2=
+F09BqGSXpJKQ9yUA-2FUDkJ4zXWujP3BLka01rTpoNwpF3aiSOOySixt2f-2FGEXVAy3UY-2Boh=
+BLldGST48WYGOSpwkNPvRtpnfQc13p5Z62IEAA1PY3tKq-2BPcsG5lIgv3ZiZO500fpb0Gx7SPy=
+U-2FSXW455rUgpO4lEB8LiAwPJuZ1qf4TgIBd9WuUARpX0T9TuzicZfoUiDtJQOrpveQMyZYGx1=
+mZHyIvMqrXG1IrwHcHuTTQZjaaP3D3XftwUqU-2BPd5Bm51o-3D" alt=3D"" width=3D"1" h=
+eight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !importan=
+t;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !import=
+ant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !impor=
+tant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 =
+!important;"/>
+</body>
+
+</html>
+
+
+------=_0_a3c2cf2d-319f-41cb-aeb7-9e360f8bc4ca--

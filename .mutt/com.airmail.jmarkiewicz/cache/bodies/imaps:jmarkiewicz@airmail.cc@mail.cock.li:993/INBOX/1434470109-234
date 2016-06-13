@@ -1,0 +1,52 @@
+Return-Path: <skippy@skippy.net>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=K5zbx65mkNkf7+AkW4QqcNB98GRBv8P4NGskFvP8xkM=;
+        b=cHFPa2scU72bIROnvmYB1p/90BBK2iv1g2rYqxKvAtDG+x9CoxCyP+SSgScvj2raig
+         YSgV9mqwJcIqN8FdQYb/d1jB84RluadM5NWCIgFa6/ujasDDOn2hNyvCFxXmaQ1LlUZ1
+         waDYijZcO10LHqIvsjwT2SqWRKZdiZwZgm73lJ42B9I5O02c7rYis5azzOpBuSAYGmod
+         tADxUptW0tHL2k7NevQFMCU5idYLat1cBfAvb0vGT/fNTsfjI7AEe5fauYAnaRDLJ6yy
+         ctHhTan6aN66JAaA3n+mi1f5dyf3PhEVkMcGaXRkHvATprGlB3nDWF3ebUDDNnPEhhkz
+         eYPQ==
+X-Gm-Message-State: ALoCoQmiWex39QbbTP534w6+zGqynzqBb34hv39mOPqDaKETMTDX6xZ9hHx9uNg7wr62/N0M2Eg1
+MIME-Version: 1.0
+X-Received: by 10.194.22.69 with SMTP id b5mr4236998wjf.157.1443620937231;
+ Wed, 30 Sep 2015 06:48:57 -0700 (PDT)
+Date: Wed, 30 Sep 2015 09:48:57 -0400
+Message-ID: <CALxu18JFEfofqL+pXg8JFugqrdLn+L0fVw9RnbRH2oVbceXHxw@mail.gmail.com>
+Subject: Ohio LinuxFest Institute update
+From: Scott Merrill <skippy@skippy.net>
+To: Scott Merrill <skippy@skippy.net>
+Content-Type: text/plain; charset=UTF-8
+
+Hello!
+
+You are signed up to attend classes at Ohio LinuxFest Institute.
+Classes start at 9 AM on Friday.
+
+Registration should be open by 8 AM, so you should have plenty of time
+to check in and get situated.
+
+You will need to bring a laptop with you.  Some classes may have
+additional requirements.  I'm working to get those requirements
+identified on a per-class basis, so you may get additional emails from
+me.
+
+
+By default, Ohio LinuxFest **does not** share your email address with
+your instructors.  If you consent to me sharing your email address
+with your instructors, please reply to this email to affirm that. Then
+your instructors can coordinate directly with you.
+
+
+If you have any questions or concerns, please let me know.
+
+Thank you very much for participating in Ohio LinuxFest Institute.
+We're really looking forward to this weekend!
+
+Cheers,
+Scott

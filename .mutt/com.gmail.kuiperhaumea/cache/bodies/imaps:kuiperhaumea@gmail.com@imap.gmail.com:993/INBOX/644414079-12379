@@ -1,0 +1,186 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp291420oid;
+        Sat, 18 Jul 2015 00:07:21 -0700 (PDT)
+X-Received: by 10.66.161.135 with SMTP id xs7mr37505855pab.154.1437203241124;
+        Sat, 18 Jul 2015 00:07:21 -0700 (PDT)
+Return-Path: <no-reply@twitch.tv>
+Received: from postfix-6db074.justin.tv (postfix-6db074.justin.tv. [199.9.254.72])
+        by mx.google.com with ESMTP id ig4si22347405pbb.82.2015.07.18.00.07.20
+        for <kuiperhaumea@gmail.com>;
+        Sat, 18 Jul 2015 00:07:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.72 as permitted sender) client-ip=199.9.254.72;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.72 as permitted sender) smtp.mail=no-reply@twitch.tv;
+       dkim=pass header.i=@twitch.tv
+Received: from rails-worker-6eb2d8.sfo01.justin.tv (rails-worker-6eb2d8.sfo01.justin.tv [199.9.249.208])
+	by postfix-6db074 (Postfix) with ESMTP id 7F3096A2AC561
+	for <kuiperhaumea@gmail.com>; Sat, 18 Jul 2015 00:07:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=twitch.tv; s=noreply;
+	t=1437203240; bh=DwqkhIGqy24FXtdaY5SmnSGnsLedRbT/E1friA7Cu34=;
+	h=Date:From:To:Subject;
+	b=bphdkxh6N6tYGLQK3X71o3KIFezeq09xFkFX483hsB1eO5TuDz5mElwMrdsZP6HgI
+	 Pqouefj4D08DVDxT4rZE3hq73/mPV5QKmIIbs3zZ+/Udp9NgjgjCRB0qPpQHrOwt9P
+	 +Kupbww3uF9u2gw3MJ0Oe7xJEAOTCE2xcn9LgBAM=
+Received: from justin.tv (localhost [127.0.0.1])
+	by rails-worker-6eb2d8.sfo01.justin.tv (Postfix) with ESMTP id 6DE4126365
+	for <kuiperhaumea@gmail.com>; Sat, 18 Jul 2015 00:07:20 -0700 (PDT)
+Date: Sat, 18 Jul 2015 00:07:20 -0700
+From: Twitch <no-reply@twitch.tv>
+To: kuiperhaumea@gmail.com
+Message-ID: <55a9fb286b157_70d43fc31df5f83c532f1@rails-worker-6eb2d8.mail>
+Subject: citizenphnix just went live on Twitch
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width">
+</head>
+<body style="background-color:#eee;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;color:#333;font-family:Helvetica, Arial, sans-serif;line-height:1.25;-webkit-text-size-adjust:100%;" >
+  <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" class="body-table">
+    <tr>
+      <td align="center" valign="top">
+        <table border="0" cellpadding="20" cellspacing="0" width="600" class="outer-email-container">
+          <tr>
+            <td align="center" valign="top">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="inner-email-container" style="background-color:#fff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;" >
+                <!-- Email Logo -->
+                <tr>
+                  <td align="center" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" height="90" width="100%" class="email-logo" style="background-color:#fff;background-image:none;background-repeat:repeat;background-position:top left;background-attachment:scroll;" >
+                      <tr>
+                        <td align="center" valign="middle">
+                          <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJsb2dvIiwiZW1haWxfaWQiOiJjN2I0MzEzMTE4Y2E4NjgxOTAzNTRmYTVhZWI4ZDZmY2UxZTMxMjM3ZTM5MDAwNTU2ODViZWE0NzgwMDE3NjNmIiwic291cmNlX2VtYWlsIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibmFtZSI6InR3aXRjaF9mYXZvcml0ZV91cCIsImxvZ2luIjoiaGF1bWVhMTEifQ==/28998583/3777c3c530906051f264daf7d7ce0c152ec197d9/citizenphnix?tt_content=ttv_follow_up&tt_medium=email">
+                            <img src="http://s.jtvnw.net/jtv_user_pictures/hosted_images/twitch-email-logomark-purple.png" width="102" height="34" alt="Twitch" />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="top">
+                    <table border="0" cellpadding="0" cellspacing="0" height="1" width="100%" class="email-divider">
+                      <tr>
+                        <td align="center" valign="middle" style="background-color: #eeeeee" width="249"></td>
+                        <td align="center" valign="middle" style="background-color: #6441a5" width="102"></td>
+                        <td align="center" valign="middle" style="background-color: #eeeeee" width="249"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!-- Email Logo -->
+
+<!-- Email Header -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="40" cellspacing="0" height="0" width="100%" class="email-header">
+      <tr>
+        <td align="center" valign="middle">
+          <div class="header-message">
+            
+            Hey haumea11,
+            <strong style="color:#6441a5;">
+              <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJoZWFkZXIiLCJlbWFpbF9pZCI6ImM3YjQzMTMxMThjYTg2ODE5MDM1NGZhNWFlYjhkNmZjZTFlMzEyMzdlMzkwMDA1NTY4NWJlYTQ3ODAwMTc2M2YiLCJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/e6ba5991847e07e2f92a80b1dde18ee629759254/citizenphnix?tt_content=ttv_follow_up&tt_medium=email" style="color:#6441a5;text-decoration:none;">
+                
+                citizenphnix just went live!
+              </a>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Header -->
+
+<!-- Email Content -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0" height="0" width="100%" class="email-content">
+      <tr>
+        <td align="center" valign="middle">
+          <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJjaGFubmVsX3BpY3R1cmUiLCJlbWFpbF9pZCI6ImM3YjQzMTMxMThjYTg2ODE5MDM1NGZhNWFlYjhkNmZjZTFlMzEyMzdlMzkwMDA1NTY4NWJlYTQ3ODAwMTc2M2YiLCJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/b0f882e01f53190c3e3fc5fcc194f1bd098a9b64/citizenphnix?tt_content=ttv_follow_up&tt_medium=email">
+            <img src="http://static-cdn.jtvnw.net/jtv_user_pictures/citizenphnix-profile_image-3063cd1d7c507d3d-70x70.jpeg" width="64" height="64" />
+          </a>
+          <div class="stream-status" style="color:#333;font-size:18px;font-weight:bold;line-height:24px;margin-top:10px;width:70%;">
+            <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJjaGFubmVsX3N0YXR1cyIsImVtYWlsX2lkIjoiYzdiNDMxMzExOGNhODY4MTkwMzU0ZmE1YWViOGQ2ZmNlMWUzMTIzN2UzOTAwMDU1Njg1YmVhNDc4MDAxNzYzZiIsInNvdXJjZV9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJsb2dpbiI6ImhhdW1lYTExIn0=/28998583/dc3820fe08e295772ab7346f7f650d83cb588076/citizenphnix?tt_content=ttv_follow_up&tt_medium=email" style="color:#6441a5;text-decoration:none;">
+              No Sleep After Watching Evo Allowed
+            </a>
+          </div>
+          <div class="stream-game" style="color:#999;font-size:12px;line-height:16px;margin-bottom:40px;">
+            <strong>
+              
+              <strong>citizenphnix</strong> is playing <strong>Skullgirls</strong>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Content -->
+
+<!-- Email Action -->
+<tr>
+  <td align="center" valign="top">
+    <table border="0" cellpadding="30" cellspacing="0" height="0" width="100%" class="email-action" style="border-top-width:1px;border-top-style:solid;border-top-color:#eee;">
+      <tr>
+        <td align="center" valign="middle">
+          <div>
+            <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJhY3Rpb24iLCJlbWFpbF9pZCI6ImM3YjQzMTMxMThjYTg2ODE5MDM1NGZhNWFlYjhkNmZjZTFlMzEyMzdlMzkwMDA1NTY4NWJlYTQ3ODAwMTc2M2YiLCJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/1f2541fb5464e3c357e1ca51fd96d454fd1752c8/citizenphnix?tt_content=ttv_follow_up&tt_medium=email" style="background-color:#6441a5;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:14px;line-height:40px;margin-bottom:10px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">
+              Watch Now
+            </a>
+            <br />
+            <small class="alternate-link" style="color:#999;font-size:11px;margin-top:4px;margin-bottom:4px;margin-right:4px;margin-left:4px;">Or click on this link:
+              <a href="http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiY2l0aXplbnBobml4IiwibG9jYXRpb24iOiJhY3Rpb25fYWx0IiwiZW1haWxfaWQiOiJjN2I0MzEzMTE4Y2E4NjgxOTAzNTRmYTVhZWI4ZDZmY2UxZTMxMjM3ZTM5MDAwNTU2ODViZWE0NzgwMDE3NjNmIiwic291cmNlX2VtYWlsIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibmFtZSI6InR3aXRjaF9mYXZvcml0ZV91cCIsImxvZ2luIjoiaGF1bWVhMTEifQ==/28998583/dbac17c8b30bbf1001399b430c3f2540677eec5b/citizenphnix?tt_content=ttv_follow_up&tt_medium=email" style="color:#999">
+                http://www.twitch.tv/citizenphnix
+              </a>
+            </small>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Action -->
+
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+          <tr>
+            <td align="center" valign="top">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" class="email-footer" style="color:#7F7F7F;font-size:12px;" >
+                <tr>
+                  <td valign="top">
+                    
+                      
+                      To stop receiving emails about citizenphnix, <a href="http://www.twitch.tv/user/remove_me?block=channel&amp;channel_id=45005176&amp;email_id=c7b4313118ca868190354fa5aeb8d6fce1e31237e3900055685bea478001763f&amp;user_id=28998583&amp;validating_hash=779545dbee8c855ef91d4474078465ae62eacefa">click here</a>
+                      <br />
+                      To stop receiving emails about any of your favorites, <a href="http://www.twitch.tv/user/remove_me?block=kind&amp;email_id=c7b4313118ca868190354fa5aeb8d6fce1e31237e3900055685bea478001763f&amp;email_type=twitch_favorite_up&amp;user_id=28998583&amp;validating_hash=ca48f9aa42a926a4de6d2d052a70511e2e70f14b">click here</a>
+                      <br />
+                    
+                    To stop receiving email notifications, <a href="http://www.twitch.tv/user/remove_me?block=kind&amp;email_id=c7b4313118ca868190354fa5aeb8d6fce1e31237e3900055685bea478001763f&amp;email_type=all&amp;source_email=twitch_favorite_up&amp;user_id=28998583&amp;validating_hash=a04b67fdb967d47b4efc8449c31b7a15e1ccdea1">click here</a>
+                  </td>
+                  <td align="right" valign="top">
+                    
+                    
+                    &copy; 2015 Twitch. All Rights Reserved.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

@@ -1,0 +1,199 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp38505oid;
+        Fri, 10 Jul 2015 10:18:22 -0700 (PDT)
+X-Received: by 10.68.176.131 with SMTP id ci3mr44646067pbc.146.1436548702326;
+        Fri, 10 Jul 2015 10:18:22 -0700 (PDT)
+Return-Path: <bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com>
+Received: from mkt15-in.verticalresponse.com (mkt15-in.verticalresponse.com. [63.251.246.26])
+        by mx.google.com with ESMTP id oc1si14702803pbb.25.2015.07.10.10.18.21
+        for <kuiperhaumea@gmail.com>;
+        Fri, 10 Jul 2015 10:18:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com designates 63.251.246.26 as permitted sender) client-ip=63.251.246.26;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com designates 63.251.246.26 as permitted sender) smtp.mail=bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com;
+       dkim=pass header.i=@vresp.com
+Return-Path: <bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=vresp.com; s=dkim; c=simple/simple;
+	q=dns/txt; i=@vresp.com; t=1436548701;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=7Oe6LfTAOjV0oFDygUMcF0Olyoo=;
+	b=XZtfo2jhg0SiYCKc8kEYCppxyR38pow/hPupvdGT9OQxJUc/vNCXqYuqYpIuEVzS
+	eSvzHhg2b3g7yMPI4LAlEqDyjOurKttIb0gKOpq44Jzgj6CdGk8JW3IpNpW/X1qM
+	SCDP6gohmWZ4W3qIc2NX9mDwoCYY6vebaGoj/kQwnM8=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=mkt; d=vresp.com;
+	h=Received:From:Reply-To:To:Subject:Date:Message-ID:List-Unsubscribe:MIME-Version:X-Company_ID:X-vrfbldomain:X-vrpod:X-CTS-Enabled:X-Campaign:X-vrrpmm:X-Feedback-ID:Content-Type;
+	b=PD5YEpmSeakTiGsvhZaxOIXNJo/wZ2X4fdrXs+pwYSmBR5Srm2GfgsmvdGNZbxA9
+	RJ94z/Ztpfnbd2JUCcdakicMhlVHfG9GogjtZTybzF5jqBCQni2GTvkx7EIOlj7+
+	jGeUWyPzTAHel5Ajf2uRktklQqAlOLRAk9TYsQfJcyM=
+Received: from [10.4.33.150] ([10.4.33.150:48144] helo=vm-mailer12.sf.verticalresponse.com)
+	by tahoe (envelope-from <bounces-4137c4b391-d70ab5b7b8@b.cts.vresp.com>)
+	(ecelerity 3.1.6.41536 r(41536)) with ESMTP
+	id 24/C4-07271-D5EFF955; Fri, 10 Jul 2015 10:18:21 -0700
+From: "KOG Games" <KOG_Games@mail.vresp.com>
+Reply-To: "KOG Games" <reply-4137c4b391-d70ab5b7b8-f25d@u.cts.vresp.com>
+To: kuiperhaumea@gmail.com
+Subject: =?UTF-8?Q?Luciel=E2=80=99s=20Treat=20=E2=80=93=20Get=20Your=20Ice=20Burner=20on=20July=2011?=
+Date: Fri, 10 Jul 2015 17:18:21 +0000
+Message-ID: <4137c4b391-kuiperhaumea=gmail.com@mail.vresp.com>
+List-Unsubscribe: <mailto:reply-4137c4b391-d70ab5b7b8-f25d@u.cts.vresp.com?subject=unsubscribe>
+MIME-Version: 1.0
+X-Company_ID: 1083874
+X-vrfbldomain: fbl.p0.verticalresponse.com
+X-vrpod: p0
+X-CTS-Enabled: 4137c4b391-d70ab5b7b8
+X-Campaign: 4137c4b391
+X-vrrpmm: 1083874-4137c4b391
+X-Feedback-ID: 4137c4b391:1083874:vr1
+Content-Type: multipart/alternative;
+    boundary="__________MIMEboundary__________";
+    charset="UTF-8"
+
+This is a multi-part message in MIME format.
+
+--__________MIMEboundary__________
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Free Ice Burner
+Luciel's Gift to You
+
+
+Get It: Play for 1 hour between 5-7 PM PDT on July 11, 2015. Enjoy!
+
+
+[Button:
+http://cts.vresp.com/c/?KOGGames/4137c4b391/d70ab5b7b8/9df71e86c0]
+
+______________________________________________________________________
+Click to view this email in a browser
+http://hosted.verticalresponse.com/1815389/4137c4b391/592665623/d70ab5b7b8/
+
+If you no longer wish to receive these emails, please reply to this
+message with "Unsubscribe" in the subject line or simply click on the
+following link:=20
+
+http://cts.vresp.com/u?4137c4b391/d70ab5b7b8/mlpftw
+
+______________________________________________________________________
+This message was sent by KOG Games
+
+
+KOG Games
+13700 Alton Parkway, Ste 154-140
+Irvine, California 92618
+US
+
+
+
+
+--__________MIMEboundary__________
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+ =20
+ =20
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"content-type" />
+	<title>Luciel=E2=80=99s Treat =E2=80=93 Get Your Ice Burner on July 11</ti=
+tle>
+</head>
+<body bgcolor=3D"#FFFFFF" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" topmargin=3D"0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"687" id=
+=3D"Table_01" width=3D"560">
+	<tbody>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/4137c4b391/d70ab5b7b8/00=
+65754e7d"><img align=3D"none" alt=3D"Luciels-Gift-To-You-07-11-2015-1_01" b=
+order=3D"0" height=3D"221" hspace=3D"0" src=3D"http://img-ak.verticalrespon=
+se.com/media/8/2/b/82b32804bd/4137c4b391/e674b662f2/library/Luciels-Gift-To=
+-You-07-11-2015-1_01.jpg" style=3D"display: block; width: 560px; height: 22=
+1px;" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/4137c4b391/d70ab5b7b8/eb=
+c05d6fa6"><img align=3D"none" alt=3D"Luciels-Gift-To-You-07-11-2015-1_02" b=
+order=3D"0" height=3D"348" hspace=3D"0" src=3D"http://img-ak.verticalrespon=
+se.com/media/8/2/b/82b32804bd/4137c4b391/e674b662f2/library/Luciels-Gift-To=
+-You-07-11-2015-1_02.jpg" style=3D"display: block; width: 560px; height: 34=
+8px;" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/4137c4b391/d70ab5b7b8/a9=
+b5533e5a"><img align=3D"none" alt=3D"Luciels-Gift-To-You-07-11-2015-1_03" b=
+order=3D"0" height=3D"118" hspace=3D"0" src=3D"http://img-ak.verticalrespon=
+se.com/media/8/2/b/82b32804bd/4137c4b391/e674b662f2/library/Luciels-Gift-To=
+-You-07-11-2015-1_03.jpg" style=3D"display: block; width: 560px; height: 11=
+8px;" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+	</tbody>
+</table>
+=20
+
+
+</p>
+<br>
+<br style=3D"clear: both;">
+
+<hr>
+<table border=3D"0" cellspacing=3D"0" width=3D"100%" cellpadding=3D"5">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+       =20
+           <a href=3D"http://hosted.verticalresponse.com/1815389/4137c4b391=
+/592665623/d70ab5b7b8/">Click to view this email in a browser</a>
+           <br/><br/>
+        =20
+       If you no longer wish to receive these emails, please reply to this =
+message with "Unsubscribe" in the subject line or simply click on the follo=
+wing link:=20
+=20
+<a href=3D"http://cts.vresp.com/u?4137c4b391/d70ab5b7b8/mlpftw">Unsubscribe=
+</a>
+
+
+</font>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+                  KOG Games<br/>
+        13700 Alton Parkway, Ste 154-140<br/>
+                Irvine, California 92618<br/>
+                  US<br/>
+       =20
+       <p>
+         =20
+
+        </p>
+      </font>
+    </td>
+    <td align=3D"right">
+     =20
+    </td>
+  </tr>
+</table>
+
+  <img alt=3D"" src=3D"http://cts.vresp.com/o.gif?4137c4b391/d70ab5b7b8/mlp=
+ftw"/>
+
+
+</body>
+</html>
+
+
+
+--__________MIMEboundary__________--
+

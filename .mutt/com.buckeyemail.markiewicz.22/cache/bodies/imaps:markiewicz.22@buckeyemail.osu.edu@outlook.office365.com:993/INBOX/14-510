@@ -1,0 +1,524 @@
+Received: from DM2PR01MB397.prod.exchangelabs.com (10.141.83.12) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.415.9 via Mailbox Transport; Tue, 23 Feb 2016 00:05:28 +0000
+Received: from SN1PR01CA0031.prod.exchangelabs.com (10.165.224.41) by
+ DM2PR01MB397.prod.exchangelabs.com (10.141.83.12) with Microsoft SMTP Server
+ (TLS) id 15.1.409.10; Tue, 23 Feb 2016 00:05:27 +0000
+Received: from BY2FFO11FD041.protection.gbl (2a01:111:f400:7c0c::182) by
+ SN1PR01CA0031.outlook.office365.com (2a01:111:e400:7be0::41) with Microsoft
+ SMTP Server (TLS) id 15.1.422.2 via Frontend Transport; Tue, 23 Feb 2016
+ 00:05:27 +0000
+Authentication-Results: spf=softfail (sender IP is 164.107.81.214)
+ smtp.mailfrom=in.constantcontact.com; buckeyemail.osu.edu; dkim=fail
+ (signature did not verify) header.d=auth.ccsend.com;buckeyemail.osu.edu;
+ dmarc=none action=none header.from=getacceptd.com;
+Received-SPF: SoftFail (protection.outlook.com: domain of transitioning
+ in.constantcontact.com discourages use of 164.107.81.214 as permitted sender)
+Received: from cio-krc-pf07.osuad.osu.edu (164.107.81.214) by
+ BY2FFO11FD041.mail.protection.outlook.com (10.1.14.226) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Tue, 23 Feb 2016 00:05:26
+ +0000
+Received: from CIO-KRC-HT01.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-krc-pf07.osuad.osu.edu (Postfix) with ESMTPS id EF0D0500037
+	for <markiewicz.22@buckeyemail.osu.edu>; Mon, 22 Feb 2016 19:05:25 -0500 (EST)
+Received: from na01-bl2-obe.outbound.protection.outlook.com (207.46.163.206)
+ by CIO-KRC-HT01.osuad.osu.edu (164.107.81.37) with Microsoft SMTP Server
+ (TLS) id 14.3.248.2; Mon, 22 Feb 2016 19:05:25 -0500
+Received: from CY1PR01CA0022.prod.exchangelabs.com (10.163.94.32) by
+ CO1PR01MB014.prod.exchangelabs.com (10.242.162.22) with Microsoft SMTP Server
+ (TLS) id 15.1.415.9; Tue, 23 Feb 2016 00:05:24 +0000
+Received: from BL2FFO11FD030.protection.gbl (2a01:111:f400:7c09::157) by
+ CY1PR01CA0022.outlook.office365.com (2a01:111:e400:5290::32) with Microsoft
+ SMTP Server (TLS) id 15.1.415.9 via Frontend Transport; Tue, 23 Feb 2016
+ 00:05:24 +0000
+Authentication-Results: spf=pass (sender IP is 208.75.123.171)
+ smtp.mailfrom=in.constantcontact.com; osu.edu; dkim=pass (signature was
+ verified) header.d=auth.ccsend.com;osu.edu; dmarc=none action=none
+ header.from=getacceptd.com;
+Received-SPF: Pass (protection.outlook.com: domain of in.constantcontact.com
+ designates 208.75.123.171 as permitted sender)
+ receiver=protection.outlook.com; client-ip=208.75.123.171;
+ helo=ccm171.constantcontact.com;
+Received: from ccm171.constantcontact.com (208.75.123.171) by
+ BL2FFO11FD030.mail.protection.outlook.com (10.173.161.40) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Tue, 23 Feb 2016 00:05:24
+ +0000
+Received: from p2-jbsvcs5294.ad.prodcc.net (p2-pen7.ad.prodcc.net
+ [10.252.0.107])	by p2-mail194.ccm171.constantcontact.com (Postfix) with ESMTP
+ id AB87BA05897	for <markiewicz.22@osu.edu>; Mon, 22 Feb 2016 19:05:23 -0500
+ (EST)
+DKIM-Signature: v=1; q=dns/txt; a=rsa-sha256; c=relaxed/relaxed; s=1000073432; d=auth.ccsend.com; h=date:mime-version:subject:X-Feedback-ID:message-id:from:reply-to:list-unsubscribe:to; bh=wrjSBM0zTFx4MZrYZ2Z30a5iviJytzogpkp1CONDFPw=; b=iQjRg5gK4O47XnccI7IojWtd2SZuyZMODYVCQtFL0EkHxp4MUJVv8ThvTtOoIsdFzoDSoth1n7MIJj0e3G0MzCdSsjvV6RNpc3RTzGJaU1E9FMVss05FlYwE85ZqmIL2qESAde7f5YAfWT9iMAHLLjguxFcTaZH1pFDui0U25CM=
+Message-ID: <1123701140199.1116109130615.1149063527.0.121904JL.1002@scheduler.constantcontact.com>
+Date: Mon, 22 Feb 2016 19:05:23 -0500
+From: Acceptd <support@getacceptd.com>
+Reply-To: <support@getacceptd.com>
+To: <markiewicz.22@osu.edu>
+Subject: Deadline April 1: Study with Opera and Broadway Stars
+Content-Type: multipart/alternative;
+	boundary="----=_Part_596535236_668653997.1456185923688"
+List-Unsubscribe: http://visitor.constantcontact.com/do?p=un&m=001MZUTHGD8m8SBetrDLelsCg%3D%3D&se=001v975wUvS4FfKjqv0Shk1IQ%3D%3D&t=001EkZLEx15CcE%3D&llr=x8stuopab
+X-Campaign-Activity-ID: 74907a8a-c3e7-4034-94f4-7a9ec279d807
+X-Channel-ID: c45e6050-cb5b-11e5-b193-d4ae529a863c
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: AdJB6isPnQDSU9HqewnnYBw==_1116109130615_xF5gUMtbEeWxk9SuUpqGPA==@in.constantcontact.com
+X-Roving-Campaignid: 1123701140199
+X-Roving-Id: 1116109130615.1149063527
+X-Feedback-ID: c45e6050-cb5b-11e5-b193-d4ae529a863c:74907a8a-c3e7-4034-94f4-7a9ec279d807:1116109130615:CTCT
+X-CTCT-ID: c4486750-cb5b-11e5-b183-d4ae529a863c
+X-EOPAttributedMessage: 1
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;BL2FFO11FD030;1:kg1lCSN5weSPeyshk3FRjGPihF/RIEQC00fOsuu2xp4ACqQb3KJ7zgpyTtXOUAZydtCSANIwMF2ZkOqdgcBwNtiuBeujmFmuMkGsb45N1b2SyQncJ2jedF3/grK/rlsog2wjFwp/Fze7D2owq4Ah/JGA+ci+7oUofRjcQp+G4cWCBdimvKXcj0qHihb93vB6FyYf5i9Ro1FBQRA1X+zFb8dfam19z4pmkAaUlMEmznc8Lz88afDfcey6Lshin8XeCbjmZ8Po/vUQUPzWKPaCrEhU8U0OH9KpEPrL6bz8TVJjeilNEjBnvK/oGd1qcviYyje0k95xm4MPmgfFlLAFglHJgi1hzpwcxHVkRSgROzhl11xC0oU47Sbi5XY0WSwMNsZcGJqK7VKttqPQB5wNTZlZsL+NluePi/C4Mo68fDABTJ5WnqpAcJJ6kcaIifSjn7KdBL1A/6W9TvN2efPR6w==
+X-Forefront-Antispam-Report-Untrusted: CIP:208.75.123.171;CTRY:US;IPV:NLI;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(189002)(199003)(19618635001)(18206015028)(2171001)(84326002)(79362002)(450100001)(53806999)(47976999)(50986999)(956001)(11100500001)(106466001)(512874002)(146001)(307094003)(33656002)(19617315012)(5008740100001)(43066003)(229853001)(2351001)(586003)(15395725005)(6806005)(2361001)(104016004)(103116003)(4290100001)(17008665002)(15975445007)(15974865002)(16601075003)(19622755009)(110136002)(107886002)(3450700001)(19580395003)(19580405001)(14613045005)(85226003)(18926415007)(77096005)(5001970100001)(7059030)(42882005)(16866105001)(102196002);DIR:INB;SFP:;SCL:1;SRVR:CO1PR01MB014;H:ccm171.constantcontact.com;FPR:;SPF:Pass;MLV:sfv;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CO1PR01MB014;2:n6cP77njpGx7iZ3F7Vvf0GeG2vpwcRZaGPzP14cGqmlJDvlszmy//wnntmP52CME4weQWoWdKm4jqgm9CCTHye4DaxTYhKsyhS6fEW4UJWkrJuIOxINOf16twk8BZZiG5ET8floNF9njqFkRBqcjoQ==;3:1jFZvOWguNJSzf3Qc6kUTcC2/gEtqKmoTOMtFre7lZsCPNGQ+S2oedy0v+d+NJpFLvfwqGbZhUhjTNgnzHulq5J4u+X0R8s7tkgVT9mPmbuETstqTC7OUADbf8D2upZQYZVeYw4lgfLLfobgr84zQSWMTInKVEiZPy8A+nHGlZwTH2iL2hzPBMuRiyZgTGGdBIMSo5cUFD9xQUzB7FbBEnd9F5aOpgc+ncsmEVCkgsSfTWrYYq3OORINW2PzFzxAmYUhk1E3Ey4k52753Z9U8qiX2DGgbFnPvFHBJbcyKYz/BeX/emtxSYeBUtDJe9/q9vkKXO19JsAuTfM7Im9+YGjojhIhFq0Fx992xvtUPRcE06p3hEHVgsbax6/w6ymOMJaRs1aRSVMKlzCVdbjapQ==;25:P3q3M8Ly8c73v1r0VxTmwv6XZ52MOFXRCbBSwvF3LtNsMqZDdIdXb9+RqrNLj8BLeVFYzgZDAXG50+RSN61AsLKi4AM+1/8nEHRT2zcRijhg1eWtqMDYoOXcYrLeUJv1t54fa3O8547zt7Br5dDgYjclsXCwRzxt5GlUelVE0pHNSm0Xkd7NgHcgl8OOX/9ZIB1lF5Ii1TuuOvygvBjExJQOrcwwYMXgR5lLE6wtFv+Nvu5qYde4kmymzNjM0SAxHka8PZeWSqT24U4RGoy4k8cihxcMCHwY7CYNR6tVAg0YvbUX9EHDbc+6O8MIvAi9adKcQ5rZN5AXh/VipJ4QA7Lv04JFn2XEhyIdi5+CIk8=
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam-Untrusted: UriScan:(37413)(131795);BCL:4;PCL:0;RULEID:(421252001)(42139001)(3001015)(120001)(180001)(71701003);SRVR:CO1PR01MB014;
+X-MS-Office365-Filtering-Correlation-Id: 2de02e73-22f7-441f-bb51-08d33be508db
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CO1PR01MB014;20:EMlKeSyCclng2e8StYIPDg7yJQp9w5TqqE1jKJSlFQCdd8hpoJNolsG/9X8LVJZk2BmYAhwGinAjiKxj6TZkF82iua3/HenKuU71PXeuW0evXPOoofReOF1LXn7iynLvWDNhD6b+sq8/lofdDDJvjCKt26lc9QbX4qN3n6Z2a2kxGccaUjey1K3sqiFqRvifSUdiaMk/f8k4Ft2TuafnlNGYhuWnHx0LGxGkn7L0o7F0fK5+lpVVYIziowuqfC317twDnQGjPlz69mnF7X7FnjaAE9CkjtOZseI9j3QNYFyLkaGXgtTHwlqrED07amAxFKdw5PH/uBTRBMM8sGmWTD+DX6p/ONbTcMUgN4pj/sEH9LadisJU4dNccNiO5+rqs91jLLkw1yEDjatqF7SNjN74Pl8Wr6DCH/0t0tHnSIas8TgBsxB16j4bNyTn4lfTlQctDLV87y14FaPOz0pb8KrE3MD1oUv2o07Qf9gBxiKpVOxtcAt/94JnUQZJaTxq
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:4;PCL:0;RULEID:(2401047)(8121501046)(13023025)(13024025)(13016025)(13018025)(10201501046)(3002001);SRVR:CO1PR01MB014;BCL:4;PCL:0;RULEID:;SRVR:CO1PR01MB014;BCL:0;PCL:0;RULEID:(2401047)(13023025)(13017025)(13015025)(13024025)(13018025)(8121501046)(3002001)(10201501046);SRVR:DM2PR01MB397;BCL:0;PCL:0;RULEID:;SRVR:DM2PR01MB397;
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CO1PR01MB014;4:KW9hyab8nYQ+prLqgXPhyK79I9Oof5Qdcm47XeLufxWcwNkUFQa8IMAcs3hWUjkJ9q9oGRaMnWlv9hCQH/ZFfnE19hfg2Lr8QdrGBHzO+sviOu7SAeSsbjqS3xUltJQb++rWiK3u8qBBapY+SBsw21ernP2ucHv2sYufDUorNzr0dru0wsltyKDPtwgMyplVjGIkN7qN9IzbThECMPvkDHsFjwn0YPzy4DbUxeURp8yb4beA5FOy/F/hFOS30eWvDnHtqC7JRNjN6zhntvE/usZAbd74EhJPdFbwE81pPMzDhb7Eej+j6CjXmB07TxMD+27suA8rZcdtRaaxry2Qo9pACJKb26LDRzdKQtVkS8bLm9pyvNg6gzV7s80R2UW7qp+Wy/wUkJHIovpOxMuzrlQVPLLzkx/6O82gQlNLakqG2/YvjdaETUsVmBQ72iLjDHS6x4HNLwH58rYLhTGgDw==
+X-Microsoft-Exchange-Diagnostics-untrusted: =?us-ascii?Q?1;CO1PR01MB014;23:9VPB2Kk2IkdDaDg6XR5s4eoQOmYf4iEiI2my3nKTLo?=
+ =?us-ascii?Q?VxPDYK8XQNMWumgehWD8MveMI8HEiYOZ5bdyi0sxJmNv9CqJrFeyR7DC79iX?=
+ =?us-ascii?Q?+3sAScNQIKD41ydn+R0vpUh1gKvmnfwqMAsnk9QvtM1fzzB7rrcPoXm6OUwT?=
+ =?us-ascii?Q?NUtg/S7YPS9JIQmery70mLH/x/bQy0N5EwsbkW27ft8dA1TUZ3h0ybAJY940?=
+ =?us-ascii?Q?FvLyxz84hP4Nc93oEWwrk3n/nJJnclwpIL0RMVjwBbixa6a3k76xaUdZB0Gj?=
+ =?us-ascii?Q?SeuzM2qZ3Sxl0On+yWJUiYJQfU4CjapgWaDaZZt26Sy2KbKzp9IIJwZhevQY?=
+ =?us-ascii?Q?s5NI5/guZtVSHseU6l1IsU0Snqksatz/eN6En/T9Pj7dp+CH+P1pHEKTNa72?=
+ =?us-ascii?Q?Gqp4isnPeDQAmqW1duhR2aXFpsZsgvVo30CbHYPmByX1Q1y2bBjedG2jMQCX?=
+ =?us-ascii?Q?ZOL7A3TvJHy98fv8som7o8LnIoSyQYBQFNnmZmTWdUgYhRCyTnxougmUMEdP?=
+ =?us-ascii?Q?V0frpeteoLX8F4z45L6RXvS1rwy8Zy7w62xyC0FXc1dclFBbmY41HM7F//MC?=
+ =?us-ascii?Q?luX5xmdfMrr740kMHa9dvoFvefC60srzLOy8MtlHTEFQ/U5fKAuXXr/HcVKs?=
+ =?us-ascii?Q?TzimVisTXXTM8qKMTvL8MFQk9W6dRWiEMn2PCsYlLwGtGK5RxjXxFCRki0Ut?=
+ =?us-ascii?Q?CBbDXVvWXPUIwaVLq5C2TsnKZH1RnVd0nbH/kQJYDpxCvDg2+GjRqSxX4exc?=
+ =?us-ascii?Q?1InCZKrDtqjm+aO+Npw42ZQHE2+I1qqfaPYLH2xw4/yTXFWDXAnAUvCBApuc?=
+ =?us-ascii?Q?qrF4sPrgFtQPSvRwO+FFKYOsklv8H2C/imtIZiz9F5Keg+tBu752AcuW15kH?=
+ =?us-ascii?Q?TkWGa5SOntwHaTgiV9+o5zv2y77u7tmT0wQKI4+aJ9OFjbOF6O/Gbrs7syIp?=
+ =?us-ascii?Q?+skq4rKfucHdrt5o6SNj/19BKrleRfbDbMvRC1Eq1zoEdFUbMfdcpFa4Vf6u?=
+ =?us-ascii?Q?o22cLQ2ktrHYjFEgoNuvmdJ7DcBvHJjXlNn9OrW0J+4fFMCyZ+sJDuzRLLFy?=
+ =?us-ascii?Q?elhZuvr2UDp3l2wJ1aWeJMzg4i4z0/pp+LOH1vpztywLbuyjFUEWJBhjaIDJ?=
+ =?us-ascii?Q?f2bebJ1LcwmWpE4haKzm0A4pR/WxkULz2YxfuFlcJAfnZEaaQIRXl59diSIp?=
+ =?us-ascii?Q?iXjrZMuR5isX+bcgJsXt7vn2dyPNuGCSLC3052k/Nj1aWPT9w18ATkHTlAXt?=
+ =?us-ascii?Q?X0/8kxSWjeNpw9vwuUZLzxDYMQXsuATo8hPK6KUl0AR9PJFYUWcMAOOioP+J?=
+ =?us-ascii?Q?Amrgr8pZLEj2J/brksH35PrMJJADlvUtRQ7sF87NflGq8OyAGP7EscidLEwG?=
+ =?us-ascii?Q?uLlw=3D=3D?=
+X-Microsoft-Exchange-Diagnostics-untrusted: 1;CO1PR01MB014;5:YwtDd8ji+7Wxx0eCcKxvvpWrHz/kv4wOWmz/PRok2jbLZhXJvQhwNIyOptYPE9YOYt9vQs44YHxeQGTZJOP05dtLfHsPaJz7tNGo6oj5Tu3WgebFCqBeXwDxM9b0T7XZF51gxmiuV4Hl0TTBLju1ug==;24:ktbNJmZ6n4DukhQzIm8zw6igApBgVR4NBO+t4m9+V8ekZqN61MdmmQPS5ecVtgIIwhdV+swMuLUStFXwEORQ94q1GVcgaRWZdh4sDv3vcLs=;20:mCNx299d1uTaZSzi84q2yGWT5GJNZUgsDQC8cZ1pQ331Y2sX801772JB++oifKyCA5q5keUbJQyjBJE5gRjHpkfNTcGdP/hCCW5/cIHNqGsDzYCSVcOecKX3Gzi9K+nbMQq9OexaQSJYSoEO1GC/rIup+O7E/wC+/OIjVMV9Pg0=
+SpamDiagnosticOutput: 1:5
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+SpamDiagnosticMetadata: 4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO1PR01MB014
+x-header-osu-auth: True
+X-CFilter-Loop: Reflected
+Return-Path: AdJB6isPnQDSU9HqewnnYBw==_1116109130615_xF5gUMtbEeWxk9SuUpqGPA==@in.constantcontact.com
+X-MS-Exchange-Organization-Network-Message-Id: 2de02e73-22f7-441f-bb51-08d33be508db
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: BY2FFO11FD041.protection.gbl
+X-Microsoft-Exchange-Diagnostics: 1;BY2FFO11FD041;1:sgGv4mQhcVv/dGP9i0NS/W4jzS+9+AobXaVNjhEvirsydKFf1lGdMHvdDuTLGhqbN4s6RnMgVwONd19PkQRPew0L4dkqgTR855vjeXtyQs2wpiJYXM4/sVhPUCn86GdbyCNjwb/iVWRL9lFH59YPf4uJmm5TOq8pt04AUtF/pLGBPH/UU7fsFPBvwsPK2BYjOcyM52r0lx1GDUPgJSLRlZD1XdZEoaYwAyDZBiIvZDAVEa1UOPYbaAHPLczGVPWfT5xETMpbTWXK/BDJlZpnTDKKbeb7YKr2x1HzoJ/R3rKOiPJkJxPQ1yTxaejV9ohWm9zrMojZdmv2EPizEFdcQUWzrhZPv2zTY8tQfnrqXjupFwQpYB0I5n/aD3AC5EM15BWnVqxxi+VZ3Si0wy5wd19yWHSfPOl4njfKBfw3deTBxcKqFYly0yf67WRAQfxOQMUWySZjY3RpxlS8eI4GlKe1TCnyQxQfTlV/vn/1xzRVHSaIkN64F+0Lje12ILKh
+X-Forefront-Antispam-Report: CIP:164.107.81.214;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(2980300002)(3190300001)(199003)(189002)(19618635001)(87936001)(956001)(2171001)(50986999)(189998001)(53806999)(105596002)(47976999)(6806005)(11100500001)(512874002)(107886002)(110136002)(17008665002)(16601075003)(1220700001)(21840400001)(5008740100001)(586003)(307094003)(146001)(93346002)(4290100001)(15975445007)(3450700001)(79362002)(960300001)(43066003)(19617315012)(15974865002)(2351001)(229853001)(18206015028)(84326002)(33656002)(18926415007)(14613045005)(85226003)(19622755009)(109096001)(103116003)(15395725005)(106466001)(77096005)(19580405001)(19580395003)(104016004)(450100001)(7059030)(42882005)(102196002)(16866105001);DIR:INB;SFP:;SCL:1;SRVR:DM2PR01MB397;H:cio-krc-pf07.osuad.osu.edu;FPR:;SPF:SoftFail;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;DM2PR01MB397;2:DYK4riBbzjg6n4l/9Tx37IASpwtIFE//F+eWYvae+NVjw+p1I27yBuvYyyccOMuBAu+Fu4neiiXVfUspyaWOCTEHZcRrzeY/QMI6LSHNNxdklXITajqJNUOII0Z80VpTuXgXpExYqub/Hji3jW7qYw==;3:XroAJTF/A151WBIT8QjE7iQWmdflrnviJDHjGuozXI43n6AVTDf9LHgs/00Jikteiqt24u+LxdzfAinSUbQ0WFbFQgqCE5V5ost4J39o2gEVvifEmdXo8L7gc87P8Y9F9fVmBFCu7dyJ8zhPCzdLu2CbfYjAJv+8zgJc8vsBzRazBZbWL1QcuORwdDeWg8NyPt5nhjxOzJJAG1Vaoy6nj0kfyhI/3jPXH7P+zXVhynVpD0N6ipOjRZEOcbeDx0izOOh8yAfD7r8rO4sHRex2a5P3DdFNNicPoCstHf70YBK/m3pWpibpmZHXOtZWvP0de0ZlZKyhyKhfIG726fht7SgOjqTdSYawS0gQx7QFEQg=;25:D9UPyBOQJlPCkyI4m574F6QqG1VgHisCO85cz5rKqakVQQlmBSDXKQZCo6V3NaIPFR/uGK15uiS97MvPh/MXgH3YRqqSJV7WcrHV+4Qgm9DE0G/upwCTOm/5ZLqDK/SWdAaKwVEO262nug/tO3ywHzsE7nkzHWAchoXsKJb8e6J/F+kkdH6DGHeO0q60sQwGaR1skirVmY4aLyWZgVTYxhSFcwjjCDr3BzxkLfHEPX94KGF3CVOgxs5e8eCo99yiOnLIo887NYQpUE9mfuKoY9N2n85lO97mDCBhu0Vt/Uuj5kKdNOrY42QBMLm66G1HxYXCyCSPwd593L7U5trKNLOBAFU/O4Sxt9APjCf9An8=
+X-DkimResult-Test: Failed
+X-Microsoft-Antispam: UriScan:(37413)(131795);BCL:0;PCL:0;RULEID:(421252001)(42139001)(3002015)(120001);SRVR:DM2PR01MB397;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;DM2PR01MB397;20:nnNnt3LuYew6K10okf4TM1MYwVP9Uut7mlrQ0LfF80ds+Tr5+VuIbeDVIW0LuWrP3ay6I4F5vFZKOY4WMhM/FB3WNinyTuVz00kRDgC/mVwurav7kP/gpwy3eTrTlhLcktlFZEhUhQNdnmrW1Lmfa82w3ys0QbHS09/QS6uJg7Zove4UTETmRdzTo6g+6b93jx8g2z1nXqDjOYXZ3inRjFmQQPjiw6d3BNGh+raIbclp5dxUcHe8z6NE4qliVW5ydAG08O85z8G7Aj7FdQlEX9l+U/StI3OyeuZ6QhePm8mgQdr3ATdOdwRoGUgYNV8GMz37bb/RleZc8rDqdNykSYWFM5ULoIASICEt6cfjOZo5bD3LCVoFtwTFsFFg6FyqDD2Qp29PzE7yCOoJrkwKDTj/lEeMceFbMgE3ap7ubNU1qRWP0x0iGicQ43iBR+fIOye+jtQaMT+nywvA5Si92ktoHwtOThYXD3+n4CoFe2KU8eBV+ZJ5xxaRAUumlabL
+X-Microsoft-Exchange-Diagnostics: 1;DM2PR01MB397;4:uHVOAl/a6GDeG55PPDHU+AbFm5CSwGYeVcj1MrvIItO/NbPulg6ENAzL9esgSK2n8sygQSwN/dFbR/QRosw5QbN/tTQukpz98tumQR4PJIFqnKDqsOdH8rqPN3C4jVXIqwmqLANgbqHI5g8lDQBQf0YAw9fxxPwVpwLZNnii1RuVTxRkRDqRCrBYgij125ZfP7XSGGLgF3lcW3Kf1vVOZ/kAy7pvCvEcM/UyTK4SLetFK5F4MzSg/cK4+OoB1xlKafuVpR8fz4OV/Ql8nuE/Fu6gn149xxZbSRc/2rauU4hSLl+QTXq4xJwppuFBPOccxwo1sUNUR5nRwipSAlfEmGYfk1+DT9qAdj2WTBuS/kYYjmAQc2z1VlTbYewPaxQkNzXzEOs7Z9KCw/BUOE6tLaRBR1tf5ggwf3TOjbQ9Yy20ajJAboSWnA6+3dDB98NDgn9xkO24mCu1eyselRcYKfyjBARoVTijBAmB7dVEGg0=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;DM2PR01MB397;23:edHtl7ncAmoMMyQ4cDPojo4MgK4t2UJiV8riqRsBqg?=
+ =?us-ascii?Q?xwjRmsYWirkjkPCzW4dzmRqnDxUobcNyCTT1UhIILIorKjrqqXnWnzxGWNB6?=
+ =?us-ascii?Q?0znvh3OvQQsjim3cJCMHJQh5VdSr/taOu8+V6XgxUMJnohHJ8X7oADC7YjCR?=
+ =?us-ascii?Q?zqPvS1eZfT/yElWtGLmqQon1PVhGNrXCUM3Gu6bcK6jpteOkdvT3Ezr80cxP?=
+ =?us-ascii?Q?U8c4OpczuHaIDgYgkIGyFYjv4pHlrnqxS2ze37IcKcImrh3Rrt+G8XuzBaNO?=
+ =?us-ascii?Q?n1Wmvcp7rsQtf96nm47L8vpAaed19F4C3N9OQfEhiZCioz42C8AijftXjqET?=
+ =?us-ascii?Q?0txQlQSh55BhfbdDQRzMSYPba5YSAIUaIqtF/uY7KAulk0Gz0Nzzc2SotO6E?=
+ =?us-ascii?Q?HF0DGySY5DIAhtt1dbVC0Sn75JQuVzBRVR2KGC7C+AzwtKxvkz6PTXqRPZXk?=
+ =?us-ascii?Q?GC9ETP2A0Js6rW6o0+yy7IskZwiFSOe/0yLzXLDwcxgPchxJh7dRpTZTDk1X?=
+ =?us-ascii?Q?OhiQ6XzUJl2Q7EieuUAJJGYe1DanIbGHL5VapcA4RZyUQuYDsW1xaq2tsJT6?=
+ =?us-ascii?Q?7FGJyJPDeepStHEn/Mb1eSrsiHfuMIkDHtrCWkdSrxL1EtOrKt6v/d0PeII1?=
+ =?us-ascii?Q?qrhCxCliIh4MTtaAmtAfXxNFpXw1hUkWdzTBJB+642CPMY5dwfzWbQvyO7bw?=
+ =?us-ascii?Q?SbQyhEi1iJUP81LLCpcm2/OA2ehxzOfIT+8ZR/y+AH0L4Czc475Oy2Jdq7CK?=
+ =?us-ascii?Q?H2+9fGXf692+vA/Tpghmp5oA654HVN4jQJYbCob2yzpvarEgo88ln8HKwv5g?=
+ =?us-ascii?Q?bctRv3cn9aMoEJXQ79t0ILPRxPRSmbgaq+FjKiYLZNG4qvScgvIrRRTgpkSr?=
+ =?us-ascii?Q?jdLRJfQonjrHDfTuG6Gr/dxMb9lfZr/eciLLSkThmEbVpk/szMl6fWGfrxGQ?=
+ =?us-ascii?Q?gf8esX+Uyt7SezRRDpNRBT5s7x0ASb+f8MVf6NAmWp4UEuI4TGNS3Ngvpg01?=
+ =?us-ascii?Q?2qkZCEo0OO8ySM9hZkrRm3PCNNPykESe8uaS7Y1E8YaxHLkakT4l6IjxZTZo?=
+ =?us-ascii?Q?z5q1HoIC50Y1svx7Fen1wv4KlDY0SPQ0PFEkMnWyOinAyxmHwA4rkOietkT7?=
+ =?us-ascii?Q?fshGcPWbpf5uvUwTq1R7/RFLeI5rl3TA2oe5fCvFzZW12DJBKZgo0VijmBO3?=
+ =?us-ascii?Q?yqMZZbGGTbCAaGuJiP78NFGbPQDkR4JzTEK4nf0bnicaO54ocd6aSXU9Lwtn?=
+ =?us-ascii?Q?DHxVLNkOWeBadslJlpFBPaEeS3Qwqs6JhjLp5JvOkCWH93ArsITMaylknvvj?=
+ =?us-ascii?Q?EY4MJXFTBxKFcdrLUyzdkITS0wZuDcI3QdWXAMFVYtkHwYwdPGUu0PcWvHXa?=
+ =?us-ascii?Q?uoTrsYGZkQgvNmt9a6S3bnx6C/sdvAYiVk2bUrD5SuTPXmdMrCLZnsVmAksO?=
+ =?us-ascii?Q?WMBwA53HzdH5lCnk1QTyENfqZsNy8o1MsyKY3KWe8lKx5q6WSOTw4ioh0ZNM?=
+ =?us-ascii?Q?WEi8VYsBtjFw=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;DM2PR01MB397;5:/2EUzPj2bsL0dggKZUyWIkzwcGSq9CxBZf9HmmTGa+62j8Dp3GYe9JrCcx0zCp3BFYvVArrB0wVyclPjHRzuPgHNmDtNwWKgGgv1S9OVukLc8OMDaoqUWlK9H0/ul450kAPTERPI3hKiyOszwaHHow==;24:aCShbAC1WhtwbqT0j/v18WxXUYaXYk5vtpA/2p+lPE1sG/n5sWqy/CTROAJcCQa43xIVRBIe+lyNqDTU1jDlp0fJJU8YSwdfbA1lFId7HPM=;20:hI65Htq5QLuPIdIuNCQgAmrAN2nSI+hBdYCgBpMBIiYPptz8NEzV+sq5Lm11Jc3qMWHqS5T13fP2L+TftrrbFCZist3WgPah/QL6r/J+V06+pwlWmZpfWruRlgsUJDQNSEtMjetEi7cSk3h6iCU4DSQNaMuP6uZzBj58LXzNqCY=
+SpamDiagnosticOutput: 1:5
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+SpamDiagnosticMetadata: 0
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Feb 2016 00:05:26.9043
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.214];Helo=[cio-krc-pf07.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM2PR01MB397
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD041.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9441251
+MIME-Version: 1.0
+
+------=_Part_596535236_668653997.1456185923688
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Deadline=C2=A0April 1: Study with Current Opera and Broadway Stars
+
+Open to rising high school sophomores, juniors and seniors, the Torggler Su=
+mmer Vocal Institute (TSVI) at Christopher Newport University is a prestigi=
+ous two-week residency program in Virginia for emerging young singers who w=
+ish to train with world-renowned vocal pedagogues and performers. TSVI expo=
+ses students to critical theories while developing essential performance sk=
+ills, and includes private lessons, coaching, recitals and masterclasses ta=
+ught by leading performers. A maximum of 50 students are selected each year=
+, and each student will leave TSVI with a professionally produced audition =
+video.
+
+Apply now! -->=C2=A0https://app.getacceptd.com/torgglersummer.
+
+Forward email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dx8stuopab&m=3D1116109130615=
+&ea=3Ddhunter%40getacceptd.com&a=3D1123701140199
+
+
+
+
+
+This email was sent to markiewicz.22@osu.edu by support@getacceptd.com.
+
+Update Profile/Email Address
+http://visitor.constantcontact.com/do?p=3Doo&m=3D001MZUTHGD8m8SBetrDLelsCg%=
+3D%3D&ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&ca=3D74907a8a-c3e7-4034-94f=
+4-7a9ec279d807
+
+
+Instant removal with SafeUnsubscribe(TM)
+http://visitor.constantcontact.com/do?p=3Dun&m=3D001MZUTHGD8m8SBetrDLelsCg%=
+3D%3D&ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&ca=3D74907a8a-c3e7-4034-94f=
+4-7a9ec279d807
+
+
+Privacy Policy:
+http://www.constantcontact.com/legal/service-provider?cc=3Dabout-service-pr=
+ovider
+
+
+
+
+
+Online Marketing by
+Constant Contact(R)
+www.constantcontact.com
+
+
+
+Acceptd | 1550 Old Henderson Rd | Columbus | OH | 43220
+
+
+
+
+
+
+
+
+
+------=_Part_596535236_668653997.1456185923688
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>Summer Vocal Institute with World-Renowned Performers</title>
+<style type=3D"text/css">
+		+#outlook a{
+			padding:0;
+		}
+		body{
+			width:100% !important;
+			background-color:#ECECEC;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		+body{
+			-webkit-text-size-adjust:none;
+			background-color:#ECECEC;
+		}
+		+body{
+			margin:0 auto;
+			padding:0;
+			background-color:#ECECEC;
+		}
+		+img style=3D"display:block;"{
+			border:0;
+			height:auto;
+			line-height:100%;
+			outline:none;
+			text-decoration:none;
+		}
+		+table td{
+			border-collapse:collapse;
+			background-color:#FFF;
+			vertical-align:top;
+		}
+		+#backgroundTable{
+			height:100% !important;
+			margin:0;
+			padding:0;
+			width:100% !important;
+		}
+		body,#backgroundTable{
+			background-color:#ececec;
+		}
+		img style=3D"display:block;" {
+			display:block;
+		}
+		body, table, tr, td, img style=3D"display:block;" {
+			padding:0;
+			margin:0;
+		}
+</style></head><body bgcolor=3D"#ececec" style=3D"margin:0px; padding:0px; =
+background-color:#ececec;"><img alt=3D" " height=3D"1" src=3D"http://r20.rs=
+6.net/on.jsp?ca=3D74907a8a-c3e7-4034-94f4-7a9ec279d807&amp;a=3D111610913061=
+5&amp;d=3D1123701140199&amp;r=3D3&amp;o=3Dhttp://ui.constantcontact.com/ima=
+ges/p1x1.gif&amp;c=3Dc4486750-cb5b-11e5-b183-d4ae529a863c&amp;ch=3Dc45e6050=
+-cb5b-11e5-b193-d4ae529a863c" width=3D"1"><center>
+<table id=3D"Table_01" width=3D"500" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" bgcolor=3D"#FFFFFF">
+	<tr>
+		<td colspan=3D"11">
+			<img style=3D"display: block;" id=3D"id12212015_Spotlight_29" src=3D"htt=
+ps://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/859b968d-9275-4b22-9769-6326=
+bc2962d9.gif?ver=3D1449954990000" width=3D"500" height=3D"4" alt=3D""></td>
+	</tr>
+	<tr>
+		<td colspan=3D"2"><a alt=3D"http://www.getacceptd.com" href=3D"http://r20=
+.rs6.net/tn.jsp?f=3D001UNKnPxhjtTp2rlXiiLn9iPKQKtYTcam-h-OL6Ckr8TBuZiKcoDIU=
+HbByAaSXT8Mgso4WroYbhCafeauRkomk3bqVqjar07s111etcSZ5-t4Ni99GeYAKjPAkYSxruZr=
+1WYgB8zjxrcvuYYodZwPAMq8lrs-dERGmQMpTXQSjYn8=3D&amp;c=3Djb3kxWCzRvfZOuVxc66=
+aM8-QTn7Zsc4bXsvXKUxs-quFV8HtqoztxA=3D=3D&amp;ch=3DbL4uNeOOeeUSxK79OFS6Thck=
+HUmbUmGHMCwlxHt2VgPfYAqn1uX6Kw=3D=3D"><img style=3D"display:block;" id=3D"i=
+d01122016_Spotlight_copy_02" src=3D"https://mlsvc01-prod.s3.amazonaws.com/7=
+7bc94dd301/4f572f42-2fe7-42c5-ad73-d0d595a347e1.gif?ver=3D1450975170000" wi=
+dth=3D"124" height=3D"107" alt=3D""></a></td>
+		<td colspan=3D"6"><a alt=3D"http://cnu.edu/tsvinstitute/" href=3D"http://=
+r20.rs6.net/tn.jsp?f=3D001UNKnPxhjtTp2rlXiiLn9iPKQKtYTcam-h-OL6Ckr8TBuZiKco=
+DIUHR_wbqjx0sROVdYNZBtDuZvGRVko0DyGWKv1mZ8ZaUOxuQXAIRAN9hF7OJEKV233O4eurC6B=
+JZuFFSIE0K9AA3_D6opJDt1Y_-HpBfyTq6YhuI0DFvy1D5RbZakoQaQ3kA=3D=3D&amp;c=3Djb=
+3kxWCzRvfZOuVxc66aM8-QTn7Zsc4bXsvXKUxs-quFV8HtqoztxA=3D=3D&amp;ch=3DbL4uNeO=
+OeeUSxK79OFS6ThckHUmbUmGHMCwlxHt2VgPfYAqn1uX6Kw=3D=3D"><img style=3D"displa=
+y:block;" id=3D"id01122016_Spotlight_copy_03" src=3D"https://mlsvc01-prod.s=
+3.amazonaws.com/77bc94dd301/67f459d1-4d43-4185-9f39-22456a7eb42c.gif?ver=3D=
+1450975170000" width=3D"213" height=3D"107" alt=3D""></a></td>
+		<td colspan=3D"3" width=3D"163" height=3D"107"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"11"><a alt=3D"http://cnu.edu/tsvinstitute/" href=3D"http:/=
+/r20.rs6.net/tn.jsp?f=3D001UNKnPxhjtTp2rlXiiLn9iPKQKtYTcam-h-OL6Ckr8TBuZiKc=
+oDIUHR_wbqjx0sROVdYNZBtDuZvGRVko0DyGWKv1mZ8ZaUOxuQXAIRAN9hF7OJEKV233O4eurC6=
+BJZuFFSIE0K9AA3_D6opJDt1Y_-HpBfyTq6YhuI0DFvy1D5RbZakoQaQ3kA=3D=3D&amp;c=3Dj=
+b3kxWCzRvfZOuVxc66aM8-QTn7Zsc4bXsvXKUxs-quFV8HtqoztxA=3D=3D&amp;ch=3DbL4uNe=
+OOeeUSxK79OFS6ThckHUmbUmGHMCwlxHt2VgPfYAqn1uX6Kw=3D=3D"><img style=3D"displ=
+ay:block;" id=3D"id01122016_Spotlight_copy_05" src=3D"https://mlsvc01-prod.=
+s3.amazonaws.com/77bc94dd301/f8f10ba3-a5b5-471f-a20c-1a8e666a2c83.jpg?ver=
+=3D1450975170000" width=3D"500" height=3D"210" alt=3D""></a></td>
+	</tr>
+	<tr>
+		<td colspan=3D"11" style=3D"font-family: Arial;
+	color: #82ba41;
+	font-size: 24px;
+	font-weight: 400; text-align:center; padding:15px;">Just Confirmed! &#3;<b=
+r>
+	    Grammy Award-Winning<br>
+	    American Soprano Christine Brewer</td>
+	</tr>
+	<tr>
+		<td width=3D"37" height=3D"151"></td>
+		<td colspan=3D"4" valign=3D"bottom"><p style=3D"font-family: Arial;
+	color: #666666;
+	font-size: 14px;
+	font-weight: 400; margin:0;">Open to rising high school sophomores, junior=
+s and seniors, the Torggler Summer Vocal Institute (TSVI) at Christopher Ne=
+wport University is a prestigious </p>
+	    </td>
+		<td colspan=3D"6">
+			<img style=3D"display:block;" id=3D"id01122016_Spotlight_copy_09" src=3D=
+"https://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/e1158a01-6656-484c-91dc-=
+ac32c01afaef.jpg?ver=3D1450975171000" width=3D"335" height=3D"151" alt=3D""=
+></td>
+	</tr>
+	<tr>
+		<td width=3D"37" height=3D"162"></td>
+		<td colspan=3D"9" valign=3D"top"><p style=3D"font-family: Arial;
+	color: #666666;
+	font-size: 14px;
+	font-weight: 400; margin:0;">two-week residency program in Virginia for em=
+erging young singers who wish to train with world-renowned vocal pedagogues=
+ and performers. TSVI exposes students to critical theories while developin=
+g essential performance skills, and includes private lessons, coaching, rec=
+itals and masterclasses taught by leading performers. A maximum of 50 stude=
+nts are selected each year, and each student will leave TSVI with a profess=
+ionally produced audition video.</p>
+	    <p></p></td>
+		<td width=3D"41" height=3D"162"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"4" width=3D"146" height=3D"46"></td>
+		<td colspan=3D"5" bgcolor=3D"#82B826" align=3D"center">
+			<a alt=3D"https://app.getacceptd.com/torgglersummer" href=3D"http://r20.=
+rs6.net/tn.jsp?f=3D001UNKnPxhjtTp2rlXiiLn9iPKQKtYTcam-h-OL6Ckr8TBuZiKcoDIUH=
+R_wbqjx0sROHqDJ17Ad3Gsn-HXoYwvp3qXgnZGKBiYFMPLTxpZ311egBfjNbB1tasqJqBSfVFp0=
+yfzitL1q_2wFmVTCzGh4HPp9I77dmvNKo7LUZ0Tk3cUfN-NsF8ZvsqgBMlTkXwAL&amp;c=3Djb=
+3kxWCzRvfZOuVxc66aM8-QTn7Zsc4bXsvXKUxs-quFV8HtqoztxA=3D=3D&amp;ch=3DbL4uNeO=
+OeeUSxK79OFS6ThckHUmbUmGHMCwlxHt2VgPfYAqn1uX6Kw=3D=3D" style=3D"font-family=
+: Helvetica;
+	color: #ffffff;
+	font-size: 20px;
+	font-weight: 100; text-decoration:none;">Apply Now!</a></td>
+		<td colspan=3D"2" width=3D"151" height=3D"46"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"11" width=3D"500" height=3D"32"></td>
+	</tr>
+	<tr>
+		<td colspan=3D"11">
+			<img style=3D"display: block;" id=3D"id12212015_Spotlight_29" src=3D"htt=
+ps://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/859b968d-9275-4b22-9769-6326=
+bc2962d9.gif?ver=3D1449954990000" width=3D"500" height=3D"4" alt=3D""></td>
+	</tr>
+	<tr bgcolor=3D"#ECECEC">
+		<td width=3D"132" height=3D"23" colspan=3D"3"></td>
+		<td colspan=3D"3" rowspan=3D"2"><a alt=3D"https://facebook.com/acceptd" h=
+ref=3D"http://r20.rs6.net/tn.jsp?f=3D001UNKnPxhjtTp2rlXiiLn9iPKQKtYTcam-h-O=
+L6Ckr8TBuZiKcoDIUHbEf-AHXL0H1UlCJwwSoRdb-0eJ7Y5YkSCtHvgTctT4Hftzq9cjTA_My9x=
+QZqJ29hnMra4s6DX--9WU4BNxRngpXnz1_exVL6enVOcfJR8AyA-Isqg4CGa9Hd0fJSDnNHA=3D=
+=3D&amp;c=3Djb3kxWCzRvfZOuVxc66aM8-QTn7Zsc4bXsvXKUxs-quFV8HtqoztxA=3D=3D&am=
+p;ch=3DbL4uNeOOeeUSxK79OFS6ThckHUmbUmGHMCwlxHt2VgPfYAqn1uX6Kw=3D=3D"><img s=
+tyle=3D"display:block;" id=3D"id01122016_Spotlight_copy_19" src=3D"https://=
+mlsvc01-prod.s3.amazonaws.com/77bc94dd301/274fb829-9c7a-471b-a35a-d1595905a=
+04f.gif?ver=3D1450975171000" width=3D"74" height=3D"50" alt=3D""></a></td>
+		<td rowspan=3D"2"><a alt=3D"https://twitter.com/acceptd?ref_src=3Dtwsrc^g=
+oogle|twcamp^serp|twgr^author" href=3D"http://r20.rs6.net/tn.jsp?f=3D001UNK=
+nPxhjtTp2rlXiiLn9iPKQKtYTcam-h-OL6Ckr8TBuZiKcoDIUHR_wbqjx0sROfZ-vF-NAk4FI8d=
+fJVXWsLc0P_6NWhKIwDK9MLHV6-CynascMwoguxznLZjFzgjOuVUseOHAs8Q3IgLZ0xU-ZF88Y4=
+gHDB2wSSVA6sVH8WDnDrybWe6GSljiM2uWuMD9ddajlsx4ZftIul_HecaqpebbLv9fCfLecsBIR=
+6M0DrOtJVZWgtfdi3wkHtJkq8xIU&amp;c=3Djb3kxWCzRvfZOuVxc66aM8-QTn7Zsc4bXsvXKU=
+xs-quFV8HtqoztxA=3D=3D&amp;ch=3DbL4uNeOOeeUSxK79OFS6ThckHUmbUmGHMCwlxHt2VgP=
+fYAqn1uX6Kw=3D=3D"><img style=3D"display:block;" id=3D"id01122016_Spotlight=
+_copy_20" src=3D"https://mlsvc01-prod.s3.amazonaws.com/77bc94dd301/51b6c428=
+-706b-4678-98b3-5d1145628a4c.gif?ver=3D1450975171000" width=3D"60" height=
+=3D"50" alt=3D""></a></td>
+		<td width=3D"234" height=3D"50" colspan=3D"4" rowspan=3D"2"></td>
+	</tr>
+	<tr bgcolor=3D"#ECECEC">
+		<td colspan=3D"3" valign=3D"top" style=3D"font-family: Arial;
+	color: #666666;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 28px; text-align:right;">Stay Connected</td>
+	</tr>
+	<tr bgcolor=3D"#ECECEC">
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"37" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"87" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"8" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"14" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"19" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"41" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"60" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"71" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"12" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"110" height=3D"1" alt=3D""></td>
+		<td>
+			<img style=3D"display:block;" src=3D"https://mlsvc01-prod.s3.amazonaws.c=
+om/77bc94dd301/451a2e16-4996-4056-a110-8bc6443537a7.gif?ver=3D1447045063000=
+" width=3D"41" height=3D"1" alt=3D""></td>
+	</tr>
+</table>
+</center><br>
+<table bgcolor=3D"#ffffff" padding=3D"0" width=3D"100%"><tr align=3D"center=
+"><td><table bgcolor=3D"#ffffff" id=3D"footerContainer" width=3D"595"><tr><=
+td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><b><a href=3D"=
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dx8stuopab&amp;m=3D111610913=
+0615&amp;ea=3Ddhunter%40getacceptd.com&amp;a=3D1123701140199" style=3D"colo=
+r: #0000ff;" target=3D"_blank">Forward email</a></b></font><br>
+<br>
+</td></tr>
+<tr><td><FooterContent><a href=3D"http://visitor.constantcontact.com/do?p=
+=3Dun&amp;m=3D001MZUTHGD8m8SBetrDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b=
+193-d4ae529a863c&amp;ca=3D74907a8a-c3e7-4034-94f4-7a9ec279d807" target=3D"_=
+blank"><img border=3D"0" src=3D"http://img.constantcontact.com/letters/imag=
+es/SafeUnsubscribe_Footer_Logo_New.png"></a><br></FooterContent></td><td al=
+ign=3D"right"><font face=3D"tahoma,sans-serif" size=3D"1"><FooterLogo><a hr=
+ef=3D"http://www.constantcontact.com/index.jsp?cc=3Dcustom01"><img border=
+=3D"0" src=3D"http://img.constantcontact.com/letters/images/CC_Footer_Logo_=
+New.png"></a></FooterLogo></font>
+</td>
+</tr><tr><td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><Foo=
+terContent><div>This email was sent to markiewicz.22@osu.edu by <a href=3D"=
+mailto:support@getacceptd.com" style=3D"color:#0000ff;">support@getacceptd.=
+com</a> <span style=3D"color: #bababa;"> | </span> &nbsp; </div><div><a hre=
+f=3D"http://visitor.constantcontact.com/do?p=3Doo&amp;m=3D001MZUTHGD8m8SBet=
+rDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b193-d4ae529a863c&amp;ca=3D74907=
+a8a-c3e7-4034-94f4-7a9ec279d807" style=3D"color:#0000ff;" target=3D"_blank"=
+>Update Profile/Email Address</a> <span style=3D"color: #bababa;">|</span> =
+Rapid removal with <a href=3D"http://visitor.constantcontact.com/do?p=3Dun&=
+amp;m=3D001MZUTHGD8m8SBetrDLelsCg%3D%3D&amp;ch=3Dc45e6050-cb5b-11e5-b193-d4=
+ae529a863c&amp;ca=3D74907a8a-c3e7-4034-94f4-7a9ec279d807" style=3D"color:#0=
+000ff;" target=3D"_blank">SafeUnsubscribe</a>=E2=84=A2  <span style=3D"colo=
+r: #bababa;">|</span>  <a href=3D"http://www.constantcontact.com/legal/serv=
+ice-provider?cc=3Dabout-service-provider" style=3D"color:#0000ff;" target=
+=3D"_blank">About our service provider</a>.</div></FooterContent></font>
+</td>
+</tr>
+<tr><td colspan=3D"2"><font face=3D"tahoma,sans-serif" size=3D"1"><br>Accep=
+td | 1550 Old Henderson Rd | Columbus | OH | 43220</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<br>
+</body>
+
+
+------=_Part_596535236_668653997.1456185923688--

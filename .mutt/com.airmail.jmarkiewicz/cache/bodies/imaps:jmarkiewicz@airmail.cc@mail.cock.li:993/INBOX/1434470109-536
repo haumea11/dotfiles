@@ -1,0 +1,47 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-type:content-transfer-encoding;
+        bh=lxJ2RhO/BTMrGyMu1QPWNdiFws69QRmqHzsJK42emWI=;
+        b=0VaGHuwIKJN3OTKnaEiq3OZRL9jJXgoj+PxENoaKdIPGMoOT6rTvy+DFiNKT6Y2Wgc
+         HvkYsHYSJ2uVJtzK2CoyMyF6zzji+WDFtBu/+HSflXGp7Z3pAkVSvhJ3bb7+qeoIv1I8
+         IdWvmrtP1kvoJhTyrWnf57DbgL7P5Z74dOeha5qHkE1eC3cOvwY+JXw0HMI91HvAA12e
+         6LxP5Mv2g4flYbrhbKgARveGsJLkBdnqbyfogg155IG1ntyoUs+PEMQnxnkQ3hsEdqSf
+         FyOhfP6pXFQn6NyS9SZ7+ksfQNYpJV6h7BaDRaFFHPAbumjgXA6wm+bBYrlpKCUUrNyT
+         pu3g==
+X-Received: by 10.107.40.200 with SMTP id o191mr113915643ioo.160.1452362313237;
+        Sat, 09 Jan 2016 09:58:33 -0800 (PST)
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Subject: chill link
+Message-ID: <56914A47.9080209@gmail.com>
+Date: Sat, 9 Jan 2016 12:58:31 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Icedove/38.5.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+http://psc.informatik.uni-jena.de/languages/chill/chill.htm
+
+-- 
+Shannon Markiewicz, Ph.D.
+      __
+     (  \
+ __   \  '\
+(  "-_ \ .-'----._
+ '-_  "v"         "-
+    "Y'             ".
+     |                |
+     |        o     o |
+     |          .<>.  |
+      \         "Ll"  |
+       |             .'
+       |             |
+       (             /
+      /'\         . \
+      "--^--.__,\_)-'
+
+- by andy753421 (with two very minor edits by uriel)

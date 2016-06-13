@@ -1,0 +1,32 @@
+Return-Path: <reddit@reddit.com>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=reddit.com; s=r2;
+	t=1438978453; bh=4wQy3VkeQx1GGlC+fnKOTGvf6JWpJ5xEv1Y+WnGCNis=;
+	h=To:From:Subject:From;
+	b=fFRNvpci+h8gQxP4EEEXc6Hs11ngTlPaU6aakD5qgzOfXPCykAyCwVsuxbXAraTLu
+	 c5jyNCf/tbvY3dl8p6LN7apwImPVjWz1KTb/+MsHwKbQ4/6Xr/Q72djQU4ap3qZ+aC
+	 2QnlV/0f3pLrIRMdePAahI1+IPyRp4/omM2J+7tmX238LxcZhvgdmUM19yNoUd/cb/
+	 hb0O6SAx1z+RfQxvx2ULkEvIgCSu8qOcI6o44NhHZ6uJp+OwCIinZ/FyeX/mmWB/JX
+	 PfsvYM+teZE/bNlpbBwREPaETkw30hcB99FhgZIdws5DscvB87L33KC+f0HNNxKIW8
+	 TAK0VAJs6u5kQ==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+To: edt@airmail.cc
+From: "reddit.com" <reddit@reddit.com>
+Subject: [reddit] verify your email address
+X-Reddit-ID: 34228c9804094d525f6ab812e2c4e6997f8c3777
+
+
+
+
+your username is:
+
+    -edt
+
+visit this link to verify your email address:
+
+    https://www.reddit.com/verification/f62C8AmGuJHmfp6Vd91v7j88X5I?ref_campaign=verify_email&ref_source=email&ref=verify_email
+
+thanks for using the site!

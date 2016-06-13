@@ -1,0 +1,87 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp786603oia;
+        Sat, 27 Jun 2015 12:58:55 -0700 (PDT)
+X-Received: by 10.181.11.137 with SMTP id ei9mr7893032wid.48.1435435135355;
+        Sat, 27 Jun 2015 12:58:55 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22c.google.com (mail-wi0-x22c.google.com. [2a00:1450:400c:c05::22c])
+        by mx.google.com with ESMTPS id v3si266873wja.197.2015.06.27.12.58.54
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 27 Jun 2015 12:58:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) client-ip=2a00:1450:400c:c05::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x22c.google.com with SMTP id nd19so41240701wic.1
+        for <kuiperhaumea@gmail.com>; Sat, 27 Jun 2015 12:58:54 -0700 (PDT)
+X-Received: by 10.180.20.198 with SMTP id p6mr8433865wie.38.1435435134625;
+        Sat, 27 Jun 2015 12:58:54 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp697797wmd;
+        Sat, 27 Jun 2015 12:58:53 -0700 (PDT)
+X-Received: by 10.50.78.170 with SMTP id c10mr5621022igx.0.1435435133156;
+        Sat, 27 Jun 2015 12:58:53 -0700 (PDT)
+Return-Path: <2rtmar.ac@gmail.com>
+Received: from mail-ig0-x22a.google.com (mail-ig0-x22a.google.com. [2607:f8b0:4001:c05::22a])
+        by mx.google.com with ESMTPS id 70si16165305iok.94.2015.06.27.12.58.52
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 27 Jun 2015 12:58:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22a as permitted sender) client-ip=2607:f8b0:4001:c05::22a;
+Received: by mail-ig0-x22a.google.com with SMTP id v9so19954458igr.1
+        for <markiewicz.john@gmail.com>; Sat, 27 Jun 2015 12:58:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=P9ocaWCvUVc+Y6vOdzLW6GX3vUMEwS9zpFkrpQp74IQ=;
+        b=IB+e4RNZV9XoSeEVWAHE7218quZhjfXY8GJ0S0tzcq8AvHzJYuAtDz1gsTHTbftQ1n
+         PYxJO94jG7ZmYH4jjpR6EEKmFG2Ak4tx9Cq3R35mJYjaAgXGTZYEAIrPw1D2mkPwpmv2
+         y0cHgGPUgz+8L5pkU9KX7dlLhxXXiiA506SGn+SCowa/flHERfyp4mczQ2fmzAbOX7qW
+         WyUd2K5zQKXP5eWc9gS0dd1ww4NQ5xiYll1yowX3OeZtAlTnPCmkTYm28ROedHtzjJaq
+         6UCXvxfWgSG/k+M8v7QdE6bKNZPwMKoyXB6hNrzaUbTCZsAPgUcUpyJrHw0bNiYjBkjE
+         4MhQ==
+MIME-Version: 1.0
+X-Received: by 10.43.5.73 with SMTP id of9mr10515039icb.92.1435435132405; Sat,
+ 27 Jun 2015 12:58:52 -0700 (PDT)
+Received: by 10.36.156.195 with HTTP; Sat, 27 Jun 2015 12:58:52 -0700 (PDT)
+Date: Sat, 27 Jun 2015 15:58:52 -0400
+Message-ID: <CAGBwmT1Rrajg1im5bw=KK9SDChBntq0rBYFAcCy8Uvn406afQg@mail.gmail.com>
+Subject: Main laptop
+From: Ryan Mar <2rtmar.ac@gmail.com>
+To: Lukador Bernstyle <markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec50824982a519705198549d0
+
+--bcaec50824982a519705198549d0
+Content-Type: text/plain; charset=UTF-8
+
+Hey john,
+
+I want to install a new solid state drive in my primary laptop. I've heard
+there is a way to transfer the current system from one hard drive to
+another, using windows. Do you know how this works?
+
+Basically I want to keep windows 8 for a little while and install 10 later.
+But I don't want to purchase windows again. Hence why I want to transfer
+the system.
+
+Thanks man
+
+-Ryan Mar
+
+--bcaec50824982a519705198549d0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hey john,<div><br></div><div>I want to install a new solid state drive in m=
+y primary laptop. I&#39;ve heard there is a way to transfer the current sys=
+tem from one hard drive to another, using windows. Do you know how this wor=
+ks?</div><div><br></div><div>Basically I=C2=A0want to keep windows 8 for a =
+little while and install 10 later. But I don&#39;t want to purchase windows=
+ again. Hence why I want to transfer the system.</div><div><br></div><div>T=
+hanks man</div><div><br></div><div>-Ryan Mar<span></span></div>
+
+--bcaec50824982a519705198549d0--

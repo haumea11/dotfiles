@@ -1,0 +1,100 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1596653oid;
+        Mon, 13 Jul 2015 08:18:46 -0700 (PDT)
+X-Received: by 10.180.101.138 with SMTP id fg10mr24190851wib.46.1436800726311;
+        Mon, 13 Jul 2015 08:18:46 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22a.google.com (mail-wg0-x22a.google.com. [2a00:1450:400c:c00::22a])
+        by mx.google.com with ESMTPS id uo7si30008921wjc.58.2015.07.13.08.18.45
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 08:18:46 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22a as permitted sender) client-ip=2a00:1450:400c:c00::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22a as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@wakeforestinfo.org
+Received: by mail-wg0-x22a.google.com with SMTP id x7so296254207wgj.2
+        for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 08:18:45 -0700 (PDT)
+X-Received: by 10.194.236.199 with SMTP id uw7mr72862483wjc.92.1436800725426;
+        Mon, 13 Jul 2015 08:18:45 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1405929wmd;
+        Mon, 13 Jul 2015 08:18:44 -0700 (PDT)
+X-Received: by 10.55.23.2 with SMTP id i2mr52757916qkh.47.1436800724167;
+        Mon, 13 Jul 2015 08:18:44 -0700 (PDT)
+Return-Path: <WakeForestUniversity@wakeforestinfo.org>
+Received: from mta923.app-info.net (mta923.app-info.net. [68.142.179.23])
+        by mx.google.com with ESMTP id e23si20469402qkh.96.2015.07.13.08.18.43
+        for <markiewicz.john@gmail.com>;
+        Mon, 13 Jul 2015 08:18:44 -0700 (PDT)
+Received-SPF: pass (google.com: domain of WakeForestUniversity@wakeforestinfo.org designates 68.142.179.23 as permitted sender) client-ip=68.142.179.23;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wakeforestinfo.org; h=date
+	:from:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=xiz9yte9V+z9udjrGbPYUjTOmrY=; b=Ipz6ofYfAn
+	P92pTa/S1Dtt766MPrpeSg/+xLInRE9vAm3lFuDrhxHz8xX1gmV/b5wM4ka8VONc
+	gJmRw5oFJ0Oq4/fStB6T8uakyL+3tdqbsBF9IrHIAWU0kt0tJ9dVm4q+WPVfjojY
+	jdi1fgCV8rjOuNUKf1x5bK5o1HhQuOXo8=
+Received: from mta61.app-info.net by localhost.app-info.net with Rome(1.0.38450) id <pd.2.pF2.jA18008.sJj.20848450.rA7.946.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Mon, 13 Jul 2015 11:16:26 -0400
+Date: Mon, 13 Jul 2015 11:16:26 -0400 (EDT)
+From: Wake Forest University <WakeForestUniversity@wakeforestinfo.org>
+Reply-To: Wake Forest University <WakeForestUniversity@wakeforestinfo.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <2144263973.2221296.1436800586035.JavaMail.nobody@clavin4124.royall.com>
+Subject: A note from Wake Forest
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <https://www.wakeforestinfo.org/application/esuppress.asp?pin=Z2C0I8W4E8I4K5R0AMJ~8&c=211&e=markiewicz.john@gmail.com&ln=INQ&action=unsubscriberfc2369>, <mailto:WakeForestUniversity@wakeforestinfo.org?subject=unsubscriberfc2369%20Z2C0I8W4E8I4K5R0AMJ~8%20211%20INQ>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>A note from Wake Forest</title>
+</head>
+<body>
+<p>John,</p>=20
+<p>I encourage you to apply to Wake Forest University today.</p>=20
+<p>Remember, you are one of the high school students selected to receive ou=
+r personalized <strong><a href=3D"https://www.wakeforestinfo.org/turn/cai/a=
+A6/spn/Z2C0I8W4E8I4K5R0AMJ~8/lik/yWLP/cyp/jd/cmm/211/esd/9d277dc0f8a47aa6ea=
+282d632b35a4cc2bdb209b/">Wake Forest University Application</a>.</strong> T=
+his application is now available, so I encourage you to <a href=3D"https://=
+www.wakeforestinfo.org/turn/cai/aA6/spn/Z2C0I8W4E8I4K5R0AMJ~8/lik/yWLt/cyp/=
+jd/cmm/211/esd/9d277dc0f8a47aa6ea282d632b35a4cc2bdb209b/">submit it right a=
+way</a>.</p> =20
+<p>You may also apply to Wake Forest with the <strong><a href=3D"https://ww=
+w.wakeforestinfo.org/turn/cai/aA6/spn/Z2C0I8W4E8I4K5R0AMJ~8/lik/yWLl/cyp/jd=
+/cmm/211/esd/9d277dc0f8a47aa6ea282d632b35a4cc2bdb209b/">Common Application<=
+/a></strong> when it opens on August 1. Just <a href=3D"https://www.wakefor=
+estinfo.org/turn/cai/aA6/spn/Z2C0I8W4E8I4K5R0AMJ~8/lik/yWLu/cyp/jd/cmm/211/=
+esd/9d277dc0f8a47aa6ea282d632b35a4cc2bdb209b/">add us to your list of schoo=
+ls</a> and submit the required written supplement. Only one application is =
+required, and we treat both applications equally when considering you for a=
+dmission.</p>=20
+<p>I look forward to receiving your application soon!</p>=20
+<p>Sincerely,</p>=20
+<p>Martha Blevins Allman '82, MBA '92<br />Dean of Undergraduate Admissions=
+<br />Wake Forest University<br />2601 Wake Forest Road<br />Winston-Salem,=
+ NC 27106</p>=20
+<p>P.S. If you'd like us to consider your test scores as part of your <a hr=
+ef=3D"https://www.wakeforestinfo.org/turn/cai/aA6/spn/Z2C0I8W4E8I4K5R0AMJ~8=
+/lik/yWL0/cyp/jd/cmm/211/esd/9d277dc0f8a47aa6ea282d632b35a4cc2bdb209b/"><st=
+rong>Wake Forest University Application</strong></a> or <strong><a href=3D"=
+https://www.wakeforestinfo.org/turn/cai/aA6/spn/Z2C0I8W4E8I4K5R0AMJ~8/lik/y=
+WL6/cyp/jd/cmm/211/esd/9d277dc0f8a47aa6ea282d632b35a4cc2bdb209b/">Common Ap=
+plication</a>,</strong> please send them to us! However, <strong>this is an=
+ optional part of your application,</strong> so it's up to you. We'll consi=
+der you equally either way.</p>=20
+<p style=3D"font-size: 0.8em;">I received your contact information from a p=
+revious contact. If you would rather not receive e-mail from Wake Forest ag=
+ain, please <a href=3D"https://www.wakeforestinfo.org/turn/cai/aA6/spn/Z2C0=
+I8W4E8I4K5R0AMJ~8/lik/yWLN/cyp/jd/cmm/211/esd/9d277dc0f8a47aa6ea282d632b35a=
+4cc2bdb209b/">tell me</a>.</p>
+</body>
+</html>

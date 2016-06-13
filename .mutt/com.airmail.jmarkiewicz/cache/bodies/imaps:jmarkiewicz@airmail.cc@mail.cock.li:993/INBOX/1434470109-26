@@ -1,0 +1,77 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=/9OFNU2QwFuS9K/7FzBnt+IgAWHAX/YOC4UWJ7zNbKQ=;
+        b=c6+roQQOKCq/J+2w89PhNNAuohXV7N29JEM4z75cVyWDgUMw4yxIY/i1XOIQ9Q5iiC
+         t/XnBwOxC0GcyLG4NhbI5khHp3JxRW5BZgmUoDVxqDP/6i87ftd+MXHPOuFAU87iUlRh
+         2sVXCytq/JyY2Oe2WFZD7Vysa3V317DwpG4c57oplIq6U3K7bga+P+tdGOSIG6H/PfzT
+         NIewcKg/EzHyPF42dLTZvPTOqH8Vj/+Kv+H5e6vQs+5rXO1ywMZhtaeDS3E2YM/0Pooq
+         5haY1KxTX4SFLHWQSOW+VM6GRYu+t2DsggMtfniYkIc9u2hf3pqtJRodgBPQ28qTvq7a
+         D8gg==
+X-Received: by 10.170.37.14 with SMTP id 14mr6630476ykf.129.1436295516843;
+ Tue, 07 Jul 2015 11:58:36 -0700 (PDT)
+MIME-Version: 1.0
+References: <20150707172408.GC2498@heian>
+In-Reply-To: <20150707172408.GC2498@heian>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Tue, 07 Jul 2015 18:58:27 +0000
+Message-ID: <CANNyMF-18C5KA5mwAg=yPrC9DcVV7ebUdFfjHQfNOy1xEfRinA@mail.gmail.com>
+Subject: Re: GPG on a USB stick
+To: John Markiewicz <jmarkiewicz@airmail.cc>, pete.markiewicz@gmail.com
+Content-Type: multipart/alternative; boundary=001a113780b212f473051a4d9c80
+
+--001a113780b212f473051a4d9c80
+Content-Type: text/plain; charset=UTF-8
+
+Thx, dood.
+
+On Tue, Jul 7, 2015, 1:22 PM John Markiewicz <jmarkiewicz@airmail.cc> wrote:
+
+> Hey all,
+>
+> This link is to a project that allows you to use GPG on any message, on any
+> computer available.  It seems very useful, and while I haven't tested it I
+> figured it may be of interest to the both of you.
+>
+> http://www.gpg4usb.org/
+>
+> If you haven't done anything wrong, they have no right to search you.  Or
+> some
+> other dramatic sounding phrase about privacy.
+>
+> Best Wishes,
+> John Markiewicz
+>
+
+--001a113780b212f473051a4d9c80
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Thx, dood.</p>
+<br><div class=3D"gmail_quote"><div dir=3D"ltr">On Tue, Jul 7, 2015, 1:22 P=
+M=C2=A0John Markiewicz &lt;jmarkiewicz@airmail.cc&gt; wrote:<br></div><bloc=
+kquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #cc=
+c solid;padding-left:1ex">Hey all,<br>
+<br>
+This link is to a project that allows you to use GPG on any message, on any=
+<br>
+computer available.=C2=A0 It seems very useful, and while I haven&#39;t tes=
+ted it I<br>
+figured it may be of interest to the both of you.<br>
+<br>
+<a href=3D"http://www.gpg4usb.org/" rel=3D"noreferrer" target=3D"_blank">ht=
+tp://www.gpg4usb.org/</a><br>
+<br>
+If you haven&#39;t done anything wrong, they have no right to search you.=
+=C2=A0 Or some<br>
+other dramatic sounding phrase about privacy.<br>
+<br>
+Best Wishes,<br>
+John Markiewicz<br>
+</blockquote></div>
+
+--001a113780b212f473051a4d9c80--

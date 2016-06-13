@@ -1,0 +1,49 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp544327oig;
+        Wed, 2 Sep 2015 08:35:32 -0700 (PDT)
+X-Received: by 10.13.208.70 with SMTP id s67mr32138590ywd.169.1441208132491;
+        Wed, 02 Sep 2015 08:35:32 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-f169.google.com (mail-yk0-f169.google.com. [209.85.160.169])
+        by mx.google.com with ESMTPS id n8si1080580ykf.79.2015.09.02.08.35.32
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 02 Sep 2015 08:35:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 209.85.160.169 as permitted sender) client-ip=209.85.160.169;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 209.85.160.169 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-f169.google.com with SMTP id g206so592ykd.1
+        for <kuiperhaumea@gmail.com>; Wed, 02 Sep 2015 08:35:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=bvJCVH3hs2k7FnLaKcLgb3g1tF9sh1/ZUYtg90lXj7A=;
+        b=Q80jrEkXSC6iWUS1Wp62ni+jvW777XaEOu0tzt0Ka9n2h/tKD1X9r9iNnRSKK9MlBS
+         1sdqKO6zzdKEtMgnyKhahswhVuRH4JzJKPcs4lnXaSHSMLp+KGE5SvjhY1JLdwBNXmcw
+         pOvUVB/WZjILdYkCehimMOI8EaKZhsWodZhI+al9dvxAVI+4P9rATo2a+SoSPBT8T+fd
+         8znAdByPOUUQ9yXJw6L5GXx14xEF/3pE6MdE0NG4R6NgZQnOJB9mSADPf7uC5ZT9v05K
+         pqFXPv/UQ6wyZUnsToXvo6oZ/+noL/qStdbgwMHRuw4RTTKgXjEapNvCSl2SLs6XWTy7
+         ND7g==
+X-Received: by 10.13.238.195 with SMTP id x186mr34927373ywe.168.1441208132268;
+ Wed, 02 Sep 2015 08:35:32 -0700 (PDT)
+MIME-Version: 1.0
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Wed, 02 Sep 2015 15:35:22 +0000
+Message-ID: <CANNyMF9+23AfC8aWjStRUATk0FsYVfpN_Kz-CeMOQYQ7oGHeig@mail.gmail.com>
+Subject: How
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=94eb2c03536cc5770f051ec56aab
+
+--94eb2c03536cc5770f051ec56aab
+Content-Type: text/plain; charset=UTF-8
+
+Goes it?
+
+--94eb2c03536cc5770f051ec56aab
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">Goes it?</p>
+
+--94eb2c03536cc5770f051ec56aab--

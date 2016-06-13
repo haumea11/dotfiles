@@ -1,0 +1,132 @@
+Return-Path: <cock.li-news-bounces@lists.cock.li>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+X-Original-To: cock.li-news@lists.cock.li
+Delivered-To: cock.li-news@lists.cock.li
+To: cock.li-news@lists.cock.li
+From: Vincent Canfield <vc@cock.li>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <563AC8D8.8000306@cock.li>
+Date: Wed, 4 Nov 2015 22:11:20 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.3.0
+MIME-Version: 1.0
+X-Mailman-Approved-At: Thu, 05 Nov 2015 04:12:41 +0100
+Subject: [Cock.li News] The cops called here's what happened
+X-BeenThere: cock.li-news@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <cock.li-news.lists.cock.li>
+List-Unsubscribe: <https://lists.cock.li/mailman/options/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/cock.li-news/>
+List-Post: <mailto:cock.li-news@lists.cock.li>
+List-Help: <mailto:cock.li-news-request@lists.cock.li?subject=help>
+List-Subscribe: <https://lists.cock.li/mailman/listinfo/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============2834240132371852693=="
+Errors-To: cock.li-news-bounces@lists.cock.li
+Sender: "Cock.li-news" <cock.li-news-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============2834240132371852693==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="pX51sBKn0ickCN2TtUMtO5BmwOmshNEaM"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--pX51sBKn0ickCN2TtUMtO5BmwOmshNEaM
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi cock.li,
+
+TL;DR WATCH CLOSELY FOR THE REMOVAL OF THIS SIGN:
+https://cock.li/transparency/warrant-canary.txt
+
+Yes, cock.li has a warrant canary now! So you can stop asking for one.
+
+today I was issued cock.li's very first subpoena for user information!!!
+that means cock.li has officially had its first communication with law
+enforcement, and I'd like to take this time to tell you what that all
+means as far as policy goes.
+
+I am not a lawyer and I have no interest in challenging any legal
+request received by law enforcement for user data from any country that
+cock.li is under jurisdiction*. If it's really official looking, says
+"SUBPOENA" on it, is signed by someone important sounding and says
+"court" somewhere on the page, it is for SPECIFIC user information and
+is not overly-broad, and the E-mail really was received from a real law
+enforcement agency, it is good enough for me and I will comply with the
+order.
+
+* I acknowledge the jurisdiction of the United States (as a US citizen),
+Romania (where I am moving), Germany (where the server is hosted), and
+any country I might be in or might not want to upset as I may want to
+travel to one day. This means the brazillians of the site can rest
+assured their data will never be shared.
+
+I do not think that I will send out an E-mail like this every time it
+happens, as it's not really like that crazy, but I am adopting a
+specific policy in handling subpoenas and court orders:
+
+Publish everything and inform the targets.
+
+At https://cock.li/transparency/ you can see cock.li's history with law
+enforcement. I will keep this up to date with every communication with
+law enforcement I receive. I will also inform all targets involved in
+any subpoena or similar order. I may delay my informing of a target if
+there's a really good reason for it, I will publish everything I think
+is relevant, and I may redact some info like the detective's phone
+number as I see fit.
+
+I will post any new interactions with law enforcement on my Twitter:
+https://twitter.com/gexcolo
+
+Lastly, to those that use cock.li for stupid and illegal stuff like this
+guy probably was, please consider the fucking time you're wasting for me
+when I have to deal with these requests. Thanks.
+
+--=20
+    Vincent Canfield
+         -cock-
+5CB4 9CDC EAC7 97FB F8BD
+C074 FD71 AD27 71A5 CC1B
+
+
+--pX51sBKn0ickCN2TtUMtO5BmwOmshNEaM
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWOsjZAAoJEP1xrSdxpcwb938QAKgyyayhjSz6zNj3R/ww78tU
+sWHPDFayUcj7BmnrHIHPE0DVLU6xEaGIPGjA9iJXpPEbPk0a0+XAUUqimhwF8kXQ
+scuVDUZXCeiv7870uKX9kwni5ePtHo+zeQ3maQm1DzAzIlM8Ek7x/hc1S1hj4vtE
+cd6+G5hctqlcNqpiGStZqFYIr/LbrS3Zc6IoF2X4u3arOKGMkhPevzyyj8CVnfzc
+MLgxGXsk5WUMJamrfwQ14YGHl1Typzo9gyPgc2s0WWnbwa5hsUMZtCPwBoIv6OnB
+mZw9SjvPuyy8xmW9RFxQqcFFpBlOfgiAL2g+4E9NE3/G+i/o7WMagT0g77IxXsIN
+OXDu3BCtNPT0w3eU5BnVtKU/Oyf61TPqb7djgPmIWUx0+hXh5zjCVbkODqP3sqVV
++5cPXu5uzQJnM+ZgdMVuhWdCZ+sCHQXJKnkODLcYnPUkSLW5WzblMXPUYbnZhG/O
+VXwrJsylsiLp4ylozetHVLMLMeTLyJVNtJ1pXNBNvXT9cQIjJi/pYnjK9r/mJ19r
+iv2RDJecCoEyzd9taMtVwEIBoiFx+YIdktsV7H78DuhSHfI+9pOXgAGIr6LN1fZj
+AdiRa48Neejm1tYWUQcrWIi2PP0J6M2jujsf1bGJ4v8mqNpwO4khZEbMdCnDZ3AN
+dOshCE48OCitrIQM7jB6
+=ZfBI
+-----END PGP SIGNATURE-----
+
+--pX51sBKn0ickCN2TtUMtO5BmwOmshNEaM--
+
+--===============2834240132371852693==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+OD09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1ECiAgICAgICAgQ29jay5s
+aSBuZXdzIG1haWxpbmcgbGlzdAogICAgICAgICBUbyB1bnN1YnNjcmliZSwgRS1tYWlsCiAgY29j
+ay5saS1uZXdzLXVuc3Vic2NyaWJlQGxpc3RzLmNvY2subGk=
+
+--===============2834240132371852693==--

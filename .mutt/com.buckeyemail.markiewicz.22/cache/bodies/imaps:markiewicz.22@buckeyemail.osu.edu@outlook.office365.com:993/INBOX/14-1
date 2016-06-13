@@ -1,0 +1,205 @@
+Received: from BLUPR01MB390.prod.exchangelabs.com (10.141.77.17) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.390.13 via Mailbox Transport; Sun, 24 Jan 2016 20:01:39 +0000
+Received: from BY2PR01CA0015.prod.exchangelabs.com (10.163.25.25) by
+ BLUPR01MB390.prod.exchangelabs.com (10.141.77.17) with Microsoft SMTP Server
+ (TLS) id 15.1.365.19; Sun, 24 Jan 2016 20:01:38 +0000
+Received: from BY2FFO11FD037.protection.gbl (2a01:111:f400:7c0c::129) by
+ BY2PR01CA0015.outlook.office365.com (2a01:111:e400:5262::25) with Microsoft
+ SMTP Server (TLS) id 15.1.390.13 via Frontend Transport; Sun, 24 Jan 2016
+ 20:01:38 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.222)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.222 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.222; helo=cio-tnc-pf08.osuad.osu.edu;
+Received: from cio-tnc-pf08.osuad.osu.edu (164.107.81.222) by
+ BY2FFO11FD037.mail.protection.outlook.com (10.1.14.222) with Microsoft SMTP
+ Server (TLS) id 15.1.355.15 via Frontend Transport; Sun, 24 Jan 2016 20:01:38
+ +0000
+Received: from CIO-TNC-HT07.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf08.osuad.osu.edu (Postfix) with ESMTPS id F0C4A2E0036
+	for <markiewicz.22@buckeyemail.osu.edu>; Sun, 24 Jan 2016 15:01:36 -0500 (EST)
+Received: from idm-prod1 (140.254.104.144) by smtp.service.osu.edu
+ (164.107.81.254) with Microsoft SMTP Server id 14.3.248.2; Sun, 24 Jan 2016
+ 15:01:36 -0500
+Date: Sun, 24 Jan 2016 15:01:36 -0500
+From: "Bob Gribben, OSU IT Service Desk" <8help@osu.edu>
+Reply-To: <no-reply@osu.edu>
+To: <markiewicz.22@buckeyemail.osu.edu>, <markiewicz.john@gmail.com>
+Message-ID: <972193389.18004.1453665696382.JavaMail.root@idm-prod1>
+Subject: A BuckeyeMail account has been created for you
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Novell DirXML Engine
+X-SentFrom: IDVAULT-PROD
+X-CFilter-Loop: Reflected
+Return-Path: 8help@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: 6e505b63-6fa8-4e77-7d9a-08d324f92b55
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Microsoft-Exchange-Diagnostics: 1;BY2FFO11FD037;1:edFsONqD75n/R5yPMOvi14kXaBT3kd6wIeW+HiMM6B4zt/3jo1PJ9VTBy/oPCcnUr8VXRsuQaI90pKYmAeqztPfeYzrH6TnuIDDK84GRukKgFllM9kO+5mwROYEo0BODobVpDCML8qDJ0JepblJzLxLCP3VrNZJQV+FjKWQfvdL+t6LzjWKS4td/FN34h4gel41K6MB4XOPuHm2sLTFi1tgMgM+AXF2TB80ncqRb/wPL6CmcTgi6RWj7KBJ+cK8sRxF7vX71eRG/3aZRwu0TpTJkM8jPHZxHqkDcA7iINDE9grp7hBGt4mvtromwlqEwOP2tiwS6EZ7d33NMPeji5cBNpzfo8fDjAOuEhWx+KmTi4eZJjRMlfbHqOabL30Tu227xnejpwiICJVKto6Lj0Zj8/hzbYux1gI/A66YwKFvQ8E0p6K0uj6GA7LW85J9wXAarUGDhuxN3BTLEaMVb6A==
+X-Forefront-Antispam-Report: CIP:164.107.81.222;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(3000300001)(438002)(3190300001)(189002)(48184003)(199003)(86816001)(2171001)(19618635001)(87936001)(23846002)(75432002)(551544002)(33716001)(50226001)(23756003)(90282001)(43066003)(16236675004)(16796002)(19580395003)(19580405001)(19617315012)(53806999)(50986999)(93346002)(575854001)(86362001)(19627405001)(89122001)(109096001)(229853001)(107846001)(106466001)(189998001)(2420400006)(4001450100002)(6806005)(5008740100001)(11100500001)(16601075003)(15975445007)(450100001)(10710500007)(11986003)(88552002)(230700001)(586003)(1220700001)(50466002)(5001770100001)(107886002)(18206015028)(7059030)(107986001)(2101003)(24116002);DIR:INB;SFP:;SCL:1;SRVR:BLUPR01MB390;H:cio-tnc-pf08.osuad.osu.edu;FPR:;SPF:Pass;PTR:cio-tnc-pf08.osuad.osu.edu;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB390;2:uBDWrpcKc/dPCIfVXl7wbR2g/bicZi+l8GLyztohh7VsjG+q1tx1U9n4oFKJ+KyrV2iv+ppGCxD3l2eygU9UkglGc7q2mWNAWpTe/W2EbofF8Mz1gxfGggm1ZSwzqe+Af815hc6v9r3ttVrZM1XaCw==;3:5IG1kI9dULaCh+pDBa3n3JvbyjidFM9EjH/UXSjXakGZlr9askhrSCMQEF3yL2LuqhjWGMQuMmS5W+FGjET1gjeFe4Mn43sYkMdGzVHLjP9RHlZJFEnPmu783WeZN9Op+qZ5B3E/80Jkhs7k3mslZGEXfDDwVttpyctu0+obuj/K1Mo+7SXbsOU1ePXh4RbKIVLRape0fG2uu1BmBD06R9rH5YRp+8Ksljutb48mrgpLMaI1TNN6bf80JiBg2Z4NCEagnFLgrbttSc2s9geKWg==;25:uM5S5KVV/uoyR+iNXw8V+lmZnRScgwJyvv6w7GQuuKLJrNTYWU2O04UmCVYtxWCZ8tYtT1j3I4ogf7pGMZIiq23PnIVMzSdpM3pWJiAb12n0kuzKCzLGDBOZvfeIXa6mf9/7gyNBcShx/mrpC0LDFQwQmBui/I9L3IOKDztjuRdSc0ZMk2aHxpmS9HmzNYkyv8AAjlQ91aiBgfu8AOMQ9iji8d7SrcPMOfe67NfXDuFFq2mlKGv0VXfFWeK8a1T1
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501001);SRVR:BLUPR01MB390;
+X-MS-Office365-Filtering-Correlation-Id: 6e505b63-6fa8-4e77-7d9a-08d324f92b55
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB390;20:GV5F1oBnbSY6y/iiKeoE984RmjaexgH2VTVvYo1D/MQi0nt4dmZxtkxvrQJiIJA9EaYIC3Q/WAoyf2AiN7Qy+VMz6XTf5JE+pNalYb5TOWSFqmGGtbylscIK9wAYUW6xwnrtIP6SVsBspnallrRMC1OXRMiwj6Z0NtgCw3C31a8QY0Aj7KeYID8Cr4/4P4NjaVC1Ks5Ka+a+mA8PTyf+0+cynISh5hb26nA30I1blYfndEAq9kQrmEKysv+T7ir5hBW/qb37DlLdQ9bVi7P0hJxpVXZ6imed2MydU39Qc/5XmTnNZnO60Ld1yeXnMSGNZ9ZQh4Zyb7aVXNd+4x/V7U138Vt7pftgBcPNRfkdjXF7OwGJGr76bSTGRZ3aD2nWJKM0tthHu0UxiJXX3NHIXoggb8rVIks73xxf3Jm/CigD2qkqts8Vv2vbX/+1pbdHP+BZljcLZuRNswxTbbrpB9eLgSC/tbsGEZj5fxNU4tW9vqiD1QM4ixS+PMYfUiz+
+X-Exchange-Antispam-Report-Test: UriScan:(33066164058094)(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(13015025)(13024025)(520078)(8121501046)(13017025)(13018025)(3002001)(10201501046);SRVR:BLUPR01MB390;BCL:0;PCL:0;RULEID:;SRVR:BLUPR01MB390;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB390;4:ymBS7gOqlYHZZKFbWh1mhIX4HdXPN94aF8LvUvD+YG3p+FVPCrl+bq2eziaeFcq5x60W9qHVq5PCfIQKtfzl9r6fIF8YHvjQhc/ls28xnQIdH59TYMoab1/sROnQMw5tzvQFxiMXWi0YSOWksP7gkNiJFVnXBTht9jyQ4SqQZ2WtLjfbSDwgSgLCDDPbSaiN+w8YvQgjK0TUmVitIoq1/k/85GmJOjjDFmnHhoZqec7A2MpEzjVboswuvmOJvPOyh+s6Oq+qcVUc54dtiV8J2ZZvJkbqpR2k82Gx9rZ0OgvDyf39eFQ/Oc/d/vz2zk2eJQFBPM/FrttiP+caaebtHkf0WVAoa/oR7M4N6Gdqx+7YSii29GuFiP6XJ6ZN+nwUS5uq5U1nNZP7q7kvovwSBy6UX3eRAtZMemcTGZ5Btdf5zwP2Y2DeGCRMj4y7AurVj+TUxhoHe3x6ri11W8kJDP4NRc5LlSnJSChNxmPW8J1G/h1AnEEx0/xHs4zBNKm9
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?iso-8859-1?Q?1;BLUPR01MB390;23:KdwJzzWOY4VMc2lwEYXpQ6a+U9joPKtgCuGmfjMl?=
+ =?iso-8859-1?Q?57WK32GipaibPPKk4cEsaDb2JutBzaXGgguQmjH+4qTyVlvNfUwoJw8aWI?=
+ =?iso-8859-1?Q?xLYy3BcV8L51ehhDjt2C2KUtc3suZjsZVmA7FtHdPmS5xW21xFF+84pHM5?=
+ =?iso-8859-1?Q?cxWWdJr3qxTyL5Y2LD03ZdLcrS/XysqBos/DMBYQ8gdMmwZDJsz560UBid?=
+ =?iso-8859-1?Q?JyDrGg0pcfE1JbIAvAkk5sFyQveffDyRJYE4xukyzu1adcqesauxhgiXbA?=
+ =?iso-8859-1?Q?dvZY19o563gwvspFviW4jQElkZ2RDKl9OW6u2vXH3AAsXHn8QWCTS9RtCS?=
+ =?iso-8859-1?Q?Pei14ywuS+BKkALTrIC00G3tx7xjQX2713NT+s4JKZfYgHTvNxvfUfDDuc?=
+ =?iso-8859-1?Q?f+ZuAK5+zJs4vRIuJ7zLXjNvYgviH15eiqelaEl6JWI3tCB3FnWNmrCJmp?=
+ =?iso-8859-1?Q?nBEbYPxFiS8Ebczw4KusY6avGQsfVeM+0N5QRNLa0Wn/Sid3cNJsXl8b+u?=
+ =?iso-8859-1?Q?JRqprOUd3959lfzz3Q5mmK4wE0fPsim8gbYSbvBQWm3ngoLe7ii27mGp2A?=
+ =?iso-8859-1?Q?r+4EpCkqSqhvqmBirYjNGdoelsW1K9j1Elmoo1wUht0OMLZWHV6uilK5qZ?=
+ =?iso-8859-1?Q?fLf9odHivH6zrGW3LYzY/Ayno/K4FRZL/DQzy1eeCNYrZlG+pa3n441oI8?=
+ =?iso-8859-1?Q?1jbsq1wd05zdtPy9U9XP14wUlcjWdscDbwQvYfKgrFwTKmcjIi2D1h52I+?=
+ =?iso-8859-1?Q?NsbK2epd8IHxFuVlVhfYDvLLVatY+oeA6tlxx217Lcooq2srqsLSJFCbd3?=
+ =?iso-8859-1?Q?TFUdeJLEhi+PS5k13gRuS13DnWt7zX/PlgyObZ6V6g1m5D+lPgpoShcicm?=
+ =?iso-8859-1?Q?+5y4jsaDIh7mnLc3i55LeEYH3UW9iaAgI/HWNiwUcb4XXotkjCYvX/SFFo?=
+ =?iso-8859-1?Q?8jw95tLTiXflIAIeiVd9dgQlSv9BMG15MS7X6I8zkIVV7sAXjoVd6ozFmX?=
+ =?iso-8859-1?Q?1yOW1fqDabiy0Se4eDhqPw42ls2EUX1df120f812yXZdNc/s5EPipmL7HC?=
+ =?iso-8859-1?Q?3N2dF5PoNthZnedxXZI9+PbNulni2FVPu303r/hQjzq14fv6jHksKTz0+b?=
+ =?iso-8859-1?Q?AEvt36O652r/a5Onf0W5NBZW22u1/vF0ryXQP+uRpoNI9ooSusKe2KnRR0?=
+ =?iso-8859-1?Q?9m1yB2V4K1bYw7YxGE/R+UGU+Vl+/gSPi/0jhpw2SKcJYfvkBDmKi3wJHQ?=
+ =?iso-8859-1?Q?UOtg4/aaKT5Eh6gL80WfcmyuhQhckZAhDjUONW9ZU7YnW9TZ83Sz+7GwbG?=
+ =?iso-8859-1?Q?dVwGrfO0H97oqs+PM8Wd9Me6wjhF29lPO6rmRn7qt8fY602pgH9qOGhGy+?=
+ =?iso-8859-1?Q?9jjHljJXgAskK6/A5eL4HT+zail9ZZ6jOATNXeG1NsiuIa0nrjEvte/3Rx?=
+ =?iso-8859-1?Q?6mq6d7iHdhw5kGrLGzSu34cFiDd/s/ehCZyQRJT/VMtSgP+iLH3U8SzZCs?=
+ =?iso-8859-1?Q?g+pBi/85RAjqFyPOn7+NYF7Es5uZieH8uGaKK7e1XSDaAWKQpUBQi+dneF?=
+ =?iso-8859-1?Q?FEZg=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB390;5:J4OmD/5GICqGTqp75sRWIuOxTSqZ9bzzBdZvvz9i6MMQ7yrgzcNIiw7aUWLeekTEiWeHfOrFNBBnvCVXigLtVBj557D1wV4GLe/lOMTT0zYpl5tgbrwh/2/auO1eXAI1ijqtpjySRVTaDV69a7p9IA==;24:AxGLbHKD4Db+JQ7YrSejxz5E4i1Gw+8O7rIDHT1f9o67Ypd2ZfbdZ7CuW/v4renjYtCKR1gr/MO3ODQxLA/1RDe0ZaVv13cN+7LG0USudZQ=;20:VX0bkoh34zEk3AxJANRNQz4AtnOl0ERdf044slfvjws3gvaRD+CC22EdM2y4ugCCafjkQubgjPeEJhvjmmZG/6Ki2mRm6lIGwNPMZovS4qomKI2W0x5wrJT/A7jIrJaoZfUxaTPcEPLc5267WEtUb9FG/gdzgwzJUuEyyhJXMxU=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Jan 2016 20:01:38.0135
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.222];Helo=[cio-tnc-pf08.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR01MB390
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD037.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.1437217
+MIME-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+ <style>
+   p{
+    font-family:Helvetica, Arial, sans-serif; 
+    font-size: 13px; 
+    line-height: 20px; 
+    text-align: left; 
+    color: #333333; 
+    margin-bottom: 18px;
+   }
+   
+   ol,ul{
+    font-family:Helvetica, Arial, sans-serif; 
+    color: #333333; 
+    font-size: 13px; 
+   }
+   
+   
+ </style>
+</head>
+<body>
+<p style="display:none;">Important updates from The Ohio State University</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+ <tbody>
+  <tr>
+   <td align="center" valign="top" bgcolor="#f0f0f0">
+    <table width="600" border="0" align="center" cellpadding="0" cellspacing="0">
+     <tbody>
+      <tr>
+       <td bgcolor="#FFFFFF">
+        <table width="540" border="0" align="center" cellpadding="0" cellspacing="0">
+         <tbody>
+          <tr>
+           <td colspan="2">
+            <table width="540" border="0" align="center" cellpadding="0" cellspacing="0">
+             <tbody>
+              <tr>
+               <td height="45">&nbsp;</td>
+              </tr>
+              <tr>
+               <td>
+                <a href="http://www.osu.edu"><img style="display: block; font-size: 0" src="http://www.osu.edu/assets/images/brand/email/horizontal-osulogo.png" width="277" height="56" alt="The Ohio State University"></a></td>
+              </tr>
+             </tbody>
+            </table>
+           </td>
+          </tr>
+          <tr>
+           <td height="40" colspan="2">&nbsp;</td>
+          </tr>
+          <tr>
+           <td width="55"><img style="display: block; font-size: 0" src="http://www.osu.edu/assets/images/brand/email/spacer.gif" width="55" height="1" alt=" "></td>
+<!-- Body content -->
+           <td width="485" align="left"><!-- Text starts here --><p style="font-family:Helvetica, Arial, sans-serif; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; line-height: 22px; color: #BB0000; margin-bottom: 18px;">MESSAGE FROM THE OFFICE OF <br>THE CHIEF INFORMATION OFFICER</p>
+<!-- lv-messageContent goes here --> 
+<p>Dear John Markiewicz,</p>
+ 
+<p>Welcome to Ohio State!</p>
+ 
+<p>
+As an active student, you now have a BuckeyeMail address, markiewicz.22@buckeyemail.osu.edu. Your markiewicz.22@osu.edu address 
+will automatically be forwarded to your BuckeyeMail account so you don&#8217;t have to check both.  BuckeyeMail also has the capability to synchronize with your calendar and contacts (Outlook, Windows Mobile, iPhone, etc.).
+</p>
+
+<p>To login, visit <a href="http://buckeyemail.osu.edu">http://buckeyemail.osu.edu</a>
+<ul>
+	<li>Your username is: markiewicz.22@buckeyemail.osu.edu</li>
+	<li>Use the password you have already set for your markiewicz.22  username (university account, i.e. my.osu.edu). Password requirements are available online.</li>
+</ul>
+</p>
+
+<p><strong>OSU Computing Policy</strong><br>
+Access to OSU computing and internet resources must be used in a responsible manner.  A link to the Ohio State Policy on 
+Responsible Use of University Computing Resources can be found at <a href="https://my.osu.edu/">my.osu.edu</a>.
+</p>
+
+<p><strong>Need more help?</strong><br>
+Additional assistance is available through the IT Service Desk. Use the contact information below or visit one of 
+our BuckeyeBar locations &#8211; at Thompson Library or Tech Hub. 
+</p>
+ 
+<p>Thank you,</p>
+
+<p>IT Service Desk  &#8211; 8-HELP, Tech Hub &amp; the BuckeyeBar<br>
+Office of the Chief Information Officer<br>
+Phone: (614) 688-HELP (4357)<br>TDD: (614) 688-8743<br>
+Email: <a href="mailto:8help@osu.edu">8help@osu.edu</a></p>
+<br>
+<p><strong>IMPORTANT! The Ohio State University will NEVER ask for your account information by email. If you receive such a message, please report it to <a href="mailto:report-phish@osu.edu">report-phish@osu.edu</a>.<strong></p>
+											</td>	
+										</tr>
+										<tr>
+											<td colspan="2" align="right">&nbsp;</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>

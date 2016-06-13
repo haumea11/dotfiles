@@ -1,0 +1,15 @@
+set imap_user = "jmarkiewicz@airmail.cc"
+set imap_pass = "9om4fOfHILYC7F4SOY9DGckzMGHlZy13ruw4ASK9"
+set smtp_url = "smtp://jmarkiewicz@airmail.cc@mail.cock.li:587/"
+set smtp_pass = "9om4fOfHILYC7F4SOY9DGckzMGHlZy13ruw4ASK9"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set from = "jmarkiewicz@airmail.cc"
+set realname = "John Markiewicz"
+set folder = "imaps://mail.cock.li:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Airmail]/Drafts"
+set header_cache = ~/.mutt/com.airmail.jmarkiewicz/cache/headers                  
+set message_cachedir = ~/.mutt/com.airmail.jmarkiewicz/cache/bodies               
+set certificate_file = ~/.mutt/com.airmail.jmarkiewicz/certificates
+

@@ -1,0 +1,142 @@
+Return-Path: <osu-ctf-bounces@lists.osu.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 67.231.149.77)
+	smtp.mailfrom=battelle.org; lists.osu.edu;
+	dkim=none (message not signed)
+	header.d=none;lists.osu.edu; dmarc=bestguesspass action=none
+	header.from=battelle.org;
+Received-SPF: Pass (protection.outlook.com: domain of battelle.org designates
+	67.231.149.77 as permitted sender)
+	receiver=protection.outlook.com; 
+	client-ip=67.231.149.77; helo=mx0a-0013ba01.pphosted.com;
+From: "Toterhi, John V" <TOTERHIJ@battelle.org>
+To: "Romig, Steve" <romig.1@osu.edu>, "osu-ctf@lists.osu.edu"
+	<osu-ctf@lists.osu.edu>
+Thread-Topic: Meeting tonight...
+Thread-Index: AdFSunVTHufjjcLDTeuuPtwRlqeAxwAFUKzn
+Date: Tue, 19 Jan 2016 15:52:16 +0000
+Message-ID: <BA9E8CFA4826F54C825938B752C2F30B363F2E61@WP-MBX2B.milky-way.battelle.org>
+References: <3502D6AD-33B9-49A1-908F-8A1E9B82AF9F@osu.edu>
+In-Reply-To: <3502D6AD-33B9-49A1-908F-8A1E9B82AF9F@osu.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:, ,
+	definitions=2016-01-19_07:, , signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+	suspectscore=0
+	malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+	adjust=0 reason=mlx scancount=1 engine=8.0.1-1507310008
+	definitions=main-1601190272
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BN1BFFO11FD055;
+	1:v3vNsBpWRf+H+4qo0OnMfFXYGQ6t0eKySCE2Ey6nXjhK3v8V/IolQUfcs2RYMjiZ+EripuQT3N4yF8tD5eSRa7ih69B2EUTR/GfxN3BhKdyn/QeC3PG46H8K43NDTCTvpDImNEP0VPQZrdb/Y9I+1BLgiMLuN6LpVMHvblbPGcdQe6tHXPfQBR+cUJiEpDhO7XddP6BcGOsPdRu9WuyEro7jRHBaNU65ZklCvK8YxWwyMmH6T7GKBt41J3lWI4+GYMYFotoXJils/A+Ygk6QxLBGLgIawIzPRbMYptdoFImIpFDzJdTA293j4f7RDWtcDdUuYiVfsYWdXphf3xjI00DlYUV7CqNpLA3MSdEenBhSryMPl1AOo8R3grRGiIdSyS+lNwyzYTzE/pUKRh4SVMEJJu/OFax7AorgrNltVDJx1DUXV/SV9OWidNErebJt0oXhl/9n3MSCmQyaCHzEr+W5LUf934qgQEmQl2H+QLyuriQsAUlaCqoeJuBZ5R/D
+X-Forefront-Antispam-Report: CIP:67.231.149.77; CTRY:US; IPV:NLI; EFV:NLI;
+	SFV:NSPM;
+	SFS:(6009001)(2990300002)(438002)(377454003)(189002)(199003)(53754006)(189998001)(5008740100001)(19580405001)(46406003)(92566002)(5004730100002)(5001770100001)(11100500001)(86362001)(2950100001)(33656002)(5001970100001)(107886002)(450100001)(2501003)(76176999)(15975445007)(3846002)(50466002)(47776003)(19580395003)(586003)(55846006)(2171001)(97756001)(6116002)(23726003)(5003600100002)(54356999)(102836003)(77096005)(106466001)(6806005)(2900100001)(50986999)(566174002)(2920100001)(7099028);
+	DIR:INB; SFP:; SCL:1; SRVR:BY2PR0101MB1574;
+	H:mx0a-0013ba01.pphosted.com; FPR:; SPF:Pass;
+	PTR:mx0a-0013ba01.pphosted.com; MX:1; A:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2PR0101MB1574;
+	2:mLoEe4B5marFo2lxgFoGFwKuG+cux7bhm/WykZTnxJ89o526uO1+vnpu3z5oXgFi9vOQV+IxH4ND5m6S3pdZd6JknMb6f/BtVS7c0lsf8rBOyPrR9EP3PMsDgAGdhsvyD3TKhiHmr0lDd6fM9mpj+A==;
+	3:UVEDlP69gC/Trka1WB7ydaKepeR3xw1sPG4O+xOb/y3D4ipDn8FHSPXeufE8BzqGVzX4jDPA4jvjRefhiMcccYF6FsPfadYjuxWIddE4E4Z6pp2hVfhKx0yopq9V9qP4KpJiw0attIRsBivZU/knVvfWVaCvKKRru0gyeGjKGtuco1NS89isO7aAZY9pjxSCElv873GwnQr9pbtFMDiVmrjGDAyAK0pbuKzEBd/anZBgRlx9IlbfcqwIKPctiCgnrrtLIc+zHyQkneZUf9xiztpZX7JrTrOEMktantVmVIw=;
+	25:Ws7JLvFJYIBgfNJXDpsJGm/Kr1k0XAVcjmdS8eGQhFyi9rZG5mw+GyikkjX0o0yoxs8yrgRNVSarFh4VnV95zyqlH2JgcJl5r4GJF3qve9j3Zus35tfkOOvmQgnzaEsqwxdvWJwQ7dEVjxfZ04MhVOq1Quh17shSpkfKufWQGBlap77LGupS65MSQHj6C5n/t4ZG2WtCNFECcnuAhuq7Awkgnfp22mXBvALvUSkgcMEN6WJb4+R01GUhrMoksEnA
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0; RULEID:(8251501001)(71701003);
+	SRVR:BY2PR0101MB1574; 
+X-MS-Office365-Filtering-Correlation-Id: b9944fdd-96d2-4df9-c962-08d320e883b1
+X-Microsoft-Exchange-Diagnostics: 1; BY2PR0101MB1574;
+	20:dRTsJ8p9+NTKtf4Gyc5ISXXgsUla0QQti2CzA1+N0DhdHov48nIlU9ffuv5CJwwq7KEAJZz4rSnC4tpxwyEVFk9LWpIIJZZYCTzVLPFoQ9C38D6DFgEIM9JhPdxvR5uskLP2LDxDxX4Ky1FBlBIpjJd/5alMg81F8ldN6DCzD60opaL7A2ASjZttdYSub9zQfnO/NFlgshS8EsYMy4dLAaGpUruPyOA+7O+pCWGGubN/UVGT4d4DlTtr9qidZp16DWd1Stdm1/T0gkHm3fdcjrydGX5m7YSGwcvdIJvl+Vwv5EgbL8p1zmVcPuC3kjqMpwnApD1HbI/7XatI7EYArPXxVQMi7aRtc7G0cQwd9jbEz10v9a+8NKToCrm3YPx34EaMeoEbYFNblKRhI6GY59/L9CNH7k4tLcVULjkfkqsOY7IlFApwGyJpHh1TVGPNwEJDUz460K6o2MBTVxALGhG4AEbW7m54+JvL6xyJQYK9O1brf/XtGnRdj2RdtGTy
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(2401047)(13015025)(520078)(13023025)(13024025)(13018025)(13017025)(8121501046)(10201501046)(3002001);
+	SRVR:BY2PR0101MB1574; BCL:0; PCL:0; RULEID:;
+	SRVR:BY2PR0101MB1574; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2PR0101MB1574;
+	4:6K6hf+40ki3BwMhifskt3rP+rdI4Evuy8xbemxFkbE6Aon9IcIP/3rWfiqyp1Ve6R8KDuu4Q+BpWquZGt+cilJsC8KpgD/p+132QVyX7RBt7RzmfGKVqRqLoKk7FklTWJSL+R6nzTkdjOgMQr8ikIm83BVOJURGFbiAUa/kULck550ZQnkMlK7JE7XxvONXnIibEDvDQgUXljR3U3RQ0XMfmrzbN9KIEpm/KIb7KRvDpJ+1uQGMtcfwAbt4I9F8c67V/aJMgG9+NUX0G9N3QGrPq+PJkMYvXdGpnl3AN17uoe0d4lqQukaJZpoytBt5wrf6sjrfbofqG6G9B2vaYHknlgVyy0u/J8k34vxQFsaIG6kkv+98yrZIFGk7lEzakY2DUAfPJjU+Bq2kFGaeQgvOGF4b0FNEP1wR93TAP31TUigErO2DDKYajfIy7mWE4Suzn78R9oDLQs5T5NqdJCW+7+7Z2rFktf1FXcUoFwzI=
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1; BY2PR0101MB1574;
+	23:IDHSiOJQi7X0EoaJezUgQB80NCh3LCekuPeQQ2Y?=
+	=?us-ascii?Q?VAcuvBDy5zqRRGdOYGBt8vgikGK9AuJUYYVVCFbtzipB/4AYae/N0WywGNsV?=
+	=?us-ascii?Q?a9YRNjhlJw2i/3x7X12NstmhHGvfYEwwTPQPl6Gxbz0+f6uBwFHn3Qv50UrC?=
+	=?us-ascii?Q?CZ6SqxNIOP8+ZFsIsvQbrCSGBbNoFxmKr4qeUL17n22Zj4rVplYaa3VoXON9?=
+	=?us-ascii?Q?zen55UyYNX0+S7d2L6L0LQ/qPAfGs+ed97oFrbZFJD4qBKY0j/y7TuxHFV6z?=
+	=?us-ascii?Q?AKIvpF+oj6yXJv6bDrNAR/EYDd8hPM+YrO4+PQ3rMp1wJLZJnb5wsVGRnWhZ?=
+	=?us-ascii?Q?scDI/m4MG2fdz8y1oL6NcSU23LmzKTLV5IcwQfS3VM8rEDsgk+9NGHOHD1eA?=
+	=?us-ascii?Q?YY/AI3Rn9Mjrx1dgAH3OE3aaoRMrkxhMF67jfO5K/Hl9fDSzf2tTXRcVn6jD?=
+	=?us-ascii?Q?0w29Qo+OGaba2BNmGSAQnnnb6EUofe/OOWFjDq/3F4QGKdPlg3guzFHRKaGg?=
+	=?us-ascii?Q?9lv/Tjow+Y2qvPImv0xfMz6Fq6Acg622qDLvbpH/BXUeS38J3ylUF/qB/CuA?=
+	=?us-ascii?Q?OzsWPKou1Djl22cttXZQwa1LuEtsz91OuOTgvgho+UUBZMeDEcPXq3WFpvgc?=
+	=?us-ascii?Q?u+eFRZW9uAvgnjWEijSX1qkAx0CoYSHRBXx54XuEZ7SiTFf/MU838346QKFh?=
+	=?us-ascii?Q?0Ff2lFdp3SwmwK1znzs4rGf5d2jWpa+N/KaHJI/4JADumhVdCoVzwJsL5Wsw?=
+	=?us-ascii?Q?8otAarjO4gaaTdwmAsEuSdXc7AOAEmAAwwIZpKdp3zc7KWzWU0KXeBkTW1Sp?=
+	=?us-ascii?Q?zrhAskz5uok9EMyPus1LOB/lpJNJIVFIG7HaqObEBkMJeFbnee8pynXzsKow?=
+	=?us-ascii?Q?pU+beDieztc4FSQ/qXI1Xp0iNILuu4hSPWeSUqAxJnQ/aJrpNn6eMT8o2naC?=
+	=?us-ascii?Q?q8G49veO5PmUEjghXa49uWFepM5veYGAe+sXQZcEPYOZCXjGmjA2sflKrxcc?=
+	=?us-ascii?Q?uCDb6F6gI+LD7jodk1rQ5wRS8NpJ7tLUUa83tFa2RiIC3xhGLQy/CIEwUdCA?=
+	=?us-ascii?Q?rM3v6GUKr4ruD+VoOfMF3LZ+ll0TiYH7qT4W8teQ/39x5LKU4WQMYjHvyhiz?=
+	=?us-ascii?Q?DQ7XObB5Gxbuotxfv8cwBFFq4WV7ZUfGofnK0DDKlY9LhH5dvbBE+lwJUqzF?=
+	=?us-ascii?Q?vIUsXrvVbttM39tbmcnYRI8MCI1JQSjZmSw5p?=
+X-Microsoft-Exchange-Diagnostics: 1; BY2PR0101MB1574;
+	5:VacNHHCiF1KcitWsNOzk4TemcC3yDNFDdlJrc1SJo5CJhR549OooiQPoOChvuT1oTdfSO4k333T9TGkVwmSX04DlvYDRpJ0WDoD4qA4ocF/uSAzKAGjp4pmCvHs/U4gqdHqnQh2hgHZZvZkiMxVfGA==;
+	24:30e+dxEnVfoZhBQE/kMEm4WAv2kRrZeObDSJHGlhVBSsaStLGJq0SMPzw8ORl0KOFpGnhIfAYHxwADH+hLtujIAZzeg+X42Ibh5qi+DicqA=;
+	20:K/yoleMVOam1JA5InwZ1jblcD4+TOxsRi/XfC4CuxeqqV07Bug3HUAwhHw47sspzQTq+Mr1GhuqV4QmZg6qHOf6oNAUyJBvDCwQnWmADAppFzv+xGiCvx9hjeG7T1TGHCAEQqIXAZ5EaUb83EYZCrSJbQdjkGlDi7zQfjWPvMb8=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: buckeyemail.osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 19 Jan 2016 15:52:20.0532 (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR0101MB1574
+Subject: Re: [Osu-ctf] Meeting tonight...
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Errors-To: osu-ctf-bounces@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces@lists.osu.edu>
+
+Hello everyone,
+
+I will be at the meeting tonight, DL 263 @ 7PM.  I'd like to gauge interest in this semester's topics. I'm ultimately pushing to get more support for talks and projects.  Planning and presenting weekly is unfortunately not realistic for me this semester.
+
+Some topics of interest for this semester are 1.) cryptography implementations, weaknesses, and attacks, 2.) reverse engineering x86, x86_64, anti-debugging, reversing file formats and protocols, reversing key generation algorithms, dealing with packers, etc. 3.) Interpreter jail breaks (python, ruby, etc.) 4.) developing exploits for published CVEs 5.) writing metasploit modules for developed exploits, 6.) video game ROM hacking
+
+Ultimately I'm looking to lead only one session a month and present a full 2 hours of material on one of the topics above.  We'll talk about how this will work tonight and start making plans to get more involvement from students and people from industry.
+
+See you tonight,
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org
+
+________________________________________
+From: Osu-ctf [osu-ctf-bounces+toterhij=battelle.org@lists.osu.edu] on behalf of Romig, Steve [romig.1@osu.edu]
+Sent: Tuesday, January 19, 2016 8:08 AM
+To: osu-ctf@lists.osu.edu
+Subject: [Osu-ctf] Meeting tonight...
+
+I think we're meeting tonight, but I won't be able to make it.  I'll let the CSE help desk know that John or Jason will be asking for access to DL 263...
+
+--- Steve
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf

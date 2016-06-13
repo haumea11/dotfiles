@@ -1,0 +1,104 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.182.136 with SMTP id g130csp132097vkf;
+        Tue, 8 Dec 2015 08:13:03 -0800 (PST)
+X-Received: by 10.194.24.70 with SMTP id s6mr395864wjf.74.1449591183706;
+        Tue, 08 Dec 2015 08:13:03 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x232.google.com (mail-wm0-x232.google.com. [2a00:1450:400c:c09::232])
+        by mx.google.com with ESMTPS id v4si29396417wma.96.2015.12.08.08.13.03
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 08 Dec 2015 08:13:03 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) client-ip=2a00:1450:400c:c09::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@wittenberginfo.org
+Received: by mail-wm0-x232.google.com with SMTP id w144so22100518wmw.0
+        for <kuiperhaumea@gmail.com>; Tue, 08 Dec 2015 08:13:03 -0800 (PST)
+X-Received: by 10.194.246.132 with SMTP id xw4mr355276wjc.75.1449591183366;
+        Tue, 08 Dec 2015 08:13:03 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp91813wme;
+        Tue, 8 Dec 2015 08:13:02 -0800 (PST)
+X-Received: by 10.55.79.86 with SMTP id d83mr539214qkb.22.1449591182362;
+        Tue, 08 Dec 2015 08:13:02 -0800 (PST)
+Return-Path: <WittenbergUniversity@wittenberginfo.org>
+Received: from mta931.app-info.net (mta931.app-info.net. [68.142.179.31])
+        by mx.google.com with ESMTP id 27si4041436qks.47.2015.12.08.08.13.02
+        for <markiewicz.john@gmail.com>;
+        Tue, 08 Dec 2015 08:13:02 -0800 (PST)
+Received-SPF: pass (google.com: domain of WittenbergUniversity@wittenberginfo.org designates 68.142.179.31 as permitted sender) client-ip=68.142.179.31;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wittenberginfo.org; h=date
+	:from:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=HgbMwW64KAP29Ygj9yTU+1gwA7c=; b=NDZuLs1RPf
+	RM9pj8G8m/FH+EoTvy3zqdawCFlrETNWYbZ0BOpOKWgIK4Q/uYBkC3D1F48mX8EU
+	mYetLJedYvBQe19KeVZiHbMnA0uN78Ut+Ok2rUGJ1RHRTVDdF40LjFmYh+BsatPj
+	WLYu/aKtSK0ZtH43b7YXR+AVe3BhHU98U=
+Received: from mta61.app-info.net by Postman124.app-info.net with Rome(1.0.38739) id <pd.2.pF2.jA18209.sJj.20807891.rA7.1156.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Tue, 8 Dec 2015 11:09:35 -0500
+Date: Tue, 8 Dec 2015 11:09:35 -0500 (EST)
+From: Wittenberg University <WittenbergUniversity@wittenberginfo.org>
+Reply-To: Wittenberg University <WittenbergUniversity@wittenberginfo.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <140433073.18821991.1449590975865.JavaMail.nobody@clavin4124.royall.com>
+Subject: Are you checking your e-mail?
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:WittenbergUniversity@wittenberginfo.org?subject=unsubscriberfc2369%20Z2C0I8W0E7I8K9R1AMJ~8%206021%20SAS>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>Are you checking your e-mail?</title>
+</head>
+<body>
+<p>Dear John,</p>=20
+<p>I'm just making sure you're receiving my e-mails so you're aware that th=
+e January 15 deadline to apply to Wittenberg University for <strong>Early A=
+ction II</strong> with your <strong><a href=3D"http://www.wittenberginfo.or=
+g/turn/cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZM/cyp/1z/cmm/6021/esd/dcd5d=
+aef2e0501b6e975de617a8fcb3bf2701ef5/">Wittenberg Choice Application</a></st=
+rong> is approaching.</p> =20
+<p>This special application is reserved for students who have the potential=
+ to excel here. That's why when you apply today with your <strong><a href=
+=3D"http://www.wittenberginfo.org/turn/cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/li=
+k/yBZa/cyp/1z/cmm/6021/esd/dcd5daef2e0501b6e975de617a8fcb3bf2701ef5/">Witte=
+nberg Choice Application</a></strong> (or <a href=3D"http://www.wittenbergi=
+nfo.org/turn/cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZO/cyp/1z/cmm/6021/esd=
+/dcd5daef2e0501b6e975de617a8fcb3bf2701ef5/">the Common Application</a>), yo=
+u'll also enjoy special benefits.</p>=20
+<p>You'll pay <strong>no application fee,</strong> submit <strong>no teache=
+r recommendation,</strong> write <strong>no essay</strong> (just a short pe=
+rsonal statement) and receive <strong>automatic scholarship consideration</=
+strong> and an admission decision in <strong>as little as three weeks.</str=
+ong></p>=20
+<p>Are you looking for a college where you'll find challenging academics, c=
+ommunity engagement and an atmosphere of close collaboration between facult=
+y and students? Then submit your <strong><a href=3D"http://www.wittenbergin=
+fo.org/turn/cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZr/cyp/1z/cmm/6021/esd/=
+dcd5daef2e0501b6e975de617a8fcb3bf2701ef5/">Wittenberg Choice Application</a=
+></strong> or the <a href=3D"http://www.wittenberginfo.org/turn/cai/akn/spn=
+/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZw/cyp/1z/cmm/6021/esd/dcd5daef2e0501b6e975de6=
+17a8fcb3bf2701ef5/">Common Application</a> now!</p>=20
+<p>I hope to hear from you by <strong>January 15,</strong> John!</p>=20
+<p>All the best,<br /> Karen Hunt<br />Executive Director of Admission<br /=
+>Wittenberg University<br />Post Office Box 720<br />Springfield, Ohio 4550=
+1-0720</p>=20
+<p>P.S. If you've filled out <a href=3D"http://www.wittenberginfo.org/turn/=
+cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZI/cyp/1z/cmm/6021/esd/dcd5daef2e05=
+01b6e975de617a8fcb3bf2701ef5/">the Common Application</a>, receiving your b=
+enefits is as easy as adding Wittenberg to your list of schools. And if you=
+'ve already applied to Wittenberg, thanks! I'll be in touch soon.</p>=20
+<p style=3D"font-size: 0.8em;">I received your contact information from the=
+ Student Search Service of the College Board. If you'd rather not receive e=
+-mail from Wittenberg University, please <a href=3D"http://www.wittenbergin=
+fo.org/turn/cai/akn/spn/Z2C0I8W0E7I8K9R1AMJ~8/lik/yBZi/cyp/1z/cmm/6021/esd/=
+dcd5daef2e0501b6e975de617a8fcb3bf2701ef5/">let me know</a>.</p>
+</body>
+</html>

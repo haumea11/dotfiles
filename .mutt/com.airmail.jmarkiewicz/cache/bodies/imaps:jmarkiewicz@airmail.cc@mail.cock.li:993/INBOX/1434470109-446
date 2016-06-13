@@ -1,0 +1,481 @@
+Return-Path: <bounces+1617470-323a-jmarkiewicz=airmail.cc@email2.privateinternetaccess.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=privateinternetaccess.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=7aogHOjKminaFXYAFDEeQY1MWZ8=; b=h1yeIW9knHZC3dW/qk
+	nhnf1E6IXJs5gHVdzbjK4ERZMW7azGxc1OQ50AbebGc8IZ/VzTBQbboDCzgrO2n+
+	qcxIayB3LnzS/uaTnFT+YjuqkxOnTQpUiNXSzrwr2NZUIe5F2Aa2lU+rvCjnSNCy
+	dDYjWkWHMTh6CIGdiRAXdh7fg=
+Content-Type: multipart/alternative; boundary=0a97835a40760f884137986d26f26922e6e7b291b5c179b045633295dfec
+Date: Mon, 30 Nov 2015 21:15:53 +0000
+From: "Private Internet Access" <support@privateinternetaccess.com>
+Mime-Version: 1.0
+Reply-to: support@privateinternetaccess.com
+Subject: IP Address Leak Vulnerability
+To: jmarkiewicz@airmail.cc
+Message-ID: <EnLmxuMqQZCDSM3GQz9O7g@ismtpd0005p1iad1.sendgrid.net>
+List-Unsubscribe: <http://email2.privateinternetaccess.com/wf/unsubscribe?upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPifpdrB-2FZYsyDfioTN06XYvdACOncUj9WPHJZSQJCbNJIG9cqPiMIyq5N7WjKMCNQAMJUr8eKG4yitvu56MMZ4F-2BWKUleKpTCyQWvO45B6IOB3IBtstFvMzkiByx7O0T-2BdmMssHde5sYUq9RjNYL32y3iHXXWkmeMVvJPkZZwc5CkOp5buDpf3UPxVQkt3v5BCb19Pq5pZrYpE6dwEMGqV0ZAgS2SOVbPvSCKsnH6vg8bdEvs2HD8bIw0LLgu5-2BE4fkC2RkFWA9tf1L1pUE86DxcXG7uQpO91jTv00PVZM-2BsJWCwKy1wNzvzelRFfPAmQToDsgVIeL13onCD6pWXXEgQ-3D-3D>, <mailto:unsubscribe@email2.privateinternetaccess.com?subject=http://email2.privateinternetaccess.com/wf/unsubscribe*q*upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPifpdrB-2FZYsyDfioTN06XYvdACOncUj9WPHJZSQJCbNJIG9cqPiMIyq5N7WjKMCNQAMJUr8eKG4yitvu56MMZ4F-2BWKUleKpTCyQWvO45B6IOB3IBtstFvMzkiByx7O0T-2BdmMssHde5sYUq9RjNYL32y3iHXXWkmeMVvJPkZZwc5CkOp5buDpf3UPxVQkt3v5BCb19Pq5pZrYpE6dwEMGqV0ZAgS2SOVbPvSCKsnH6vg8bdEvs2HD8bIw0LLgu5-2BE4fkC2RkFWA9tf1L1pUE86DxcXG7uQpO91jTv00PVZM-2BsJWCwKy1wNzvzelRFfPAmQToDsgVIeL13onCD6pWXXEgQ-3D-3D>
+X-SG-EID: 2w2xRTL7OsJGmGUoCDQuE3qcQijPoqTFe0hSX6KoG2cmoqOj8dMZANM7lJkWazkz19yTZ0rtylb5WD
+ MNduFEnbDyz6xLzmSZ4G+vXiyl57o9HGwdpmykka2gQ4ud8MfXVFvqm51sBvIiQ2rumri291eemnSD
+ waFAni3TJjXFQGR2KjFRlLP0bnEEuYElRowV
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LD0Mt7EyGNFO5g9y7MHHAOo6D9C6sLTCnNE2N
+ Xi8WyJAEepWdAmjBwZl7aWZ0pjYiLLnlyPd7ZPMyMZHjrVRy7EyCkLXR9GhjJ1nCu6ol/vm98nlgbu
+ kVNIPlS7jbc9Snvm9MMtJelR3ioN2fiTIGJ4
+
+--0a97835a40760f884137986d26f26922e6e7b291b5c179b045633295dfec
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Dear Valued Customer,
+
+On November 17, we were privately notified of an IP address leak vulnerabil=
+ity affecting the port forwarding feature of our service. Essentially, anyo=
+ne connecting to a forwarded port on any of our VPN gateways could have the=
+ir real IP address leaked to an attacker specifically targeting a PIA user.
+
+Within 12 hours of the initial report, we developed and tested what we thou=
+ght was a complete fix, and deployed it to all of our VPN gateways.
+
+On November 26, the researchers who discovered the vulnerability made it pu=
+blic and we quickly noticed that our service was still vulnerable to the IP=
+ address leak in certain cases, despite our initial fix. After further inve=
+stigation, we also realized there was a separate but related issue on our d=
+esktop client. To fix this issue we are releasing updated VPN apps to preve=
+nt any leaks. We released v.52 on November 27.
+
+Protecting your privacy is our top priority and although exploiting this vu=
+lnerability is difficult and requires an attacker to specifically target yo=
+u, we feel like we let you down with our initial response. Please accept ou=
+r apologies, we are sorry.
+
+We highly recommend users update to v.52 (or later) of the client. To ensur=
+e all of our beloved users remain protected, we have pushed an update to ex=
+isting clients. Please update immediately from the application or visit one=
+ of the following links:
+
+Windows: https://www.privateinternetaccess.com/installer/download_installer=
+_win ( https://www.privateinternetaccess.com/installer/download_installer_w=
+in )
+
+Mac: https://www.privateinternetaccess.com/installer/download_installer_osx=
+ ( https://www.privateinternetaccess.com/installer/download_installer_osx )
+
+Technical Facts:
+
+The vulnerability relies on the fact that a direct route exists between the=
+ VPN client and server. If the client accesses a forwarded port on the VPN =
+server that is maliciously set up by an attacker, the client will use the d=
+irect route using the user's default route, bypassing the VPN entirely.
+
+Our initial fix was to block VPN clients from accessing forwarded ports on =
+the same server at the VPN gateway firewall level, but we soon discovered a=
+ flaw in our desktop clients that made the fix incomplete. When the client =
+disconnected, the direct route to the VPN gateway was not removed, thereby =
+making users vulnerable even after they disconnected from the VPN. Beginnin=
+g with v.52, we remove these "lingering" direct routes to the VPN gateway a=
+t disconnect time.
+
+Note: If you are connecting to our service with a native OpenVPN client, or=
+ PIA's Android or iOS apps, you do not need a client-side fix.
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                                                           =
+                                                                           =
+                                                Sincerely,=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+                                    Private Internet Access Team=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20
+                                    Subsidiary of London Trust Media Inc.  =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                        To unsubscribe plea=
+se click here ( http://email2.privateinternetaccess.com/wf/unsubscribe?upn=
+=3DgpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPieYJSP-2F=
+24Egx695T73cgXW30E5pZQCBYqI37tgomeT0qSxJUrdTsWQ8JPjnw094EdWPbPs76gkioCPWfWX=
+VaXAuJpkKNvgcLa88ubiTZ16EXFViuI7vW7tJ1NlFXKOzcjg9RlmfpqLdt7Pqhhh3FiDO6tQ-2B=
+QE8dPxcyxzruEZpv4lJ5duDlLnhSkb31eQ5rHNLc6maLuaE-2Bjzs41-2BmazF-2BhJ4TI3YN8z=
+xl3TxSKTOABQiOehfc2VHS6HJG4DHnEBZsd1Wo8J6dGnlQJlyNghUSRKH6bsGEs92zxdMmA2P3D=
+0EImg4Zq6xD-2Fq2c4g8wNg16x3OQk8skHfQ59TG7BP-2Fyw-3D-3D )=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        Homepage ( https://www.privateinternetaccess.com ) =
+| Client Sign-In ( https://www.privateinternetaccess.com/pages/client-suppo=
+rt/ ) | Support Center ( https://support.privateinternetaccess.com/ ) | Blo=
+g ( https://www.privateinternetaccess.com/blog/ ) | Forum ( https://www.pri=
+vateinternetaccess.com/forum/ ) | Terms of Service ( https://www.privateint=
+ernetaccess.com/pages/terms-of-service/ )=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+Londontrustmedia Inc. 2885 Sanford Ave SW Suite 20138 Granville, MI 49418
+=20
+                        Facebook ( https://www.facebook.com/privateinternet=
+access ) | Twitter ( https://twitter.com/buyvpnservice ) | Google Plus ( ht=
+tps://plus.google.com/+Privateinternetaccess )=
+
+--0a97835a40760f884137986d26f26922e6e7b291b5c179b045633295dfec
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+   <head>
+      <title>Private Internet Access</title>
+      <style type=3D"text/css">@media only screen and (max-width: 640px) {
+         table.sf-main,
+         td.sf-main,
+         table.sf-cont,
+         td.sf-cont {
+         width: 100% !important;
+         max-width: 100% !important;
+         min-width: 100% !important;
+         padding: 0 !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-td {
+         display: block !important;
+         width: auto !important;
+         height: auto !important;
+         min-width: initial !important;
+         max-width: initial !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         tr.noresp > td.sf-td {
+         display: table-cell !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-img img {
+         width: 100% !important;
+         height: auto !important;
+         max-width: 100% !important;
+         min-width: 100% !important;
+         padding: 0 !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-html table,
+         td.sf-html td,
+         td.sf-html img {
+         height: auto !important;
+         max-width: 100% !important;
+         padding: 0 !important;
+         width: auto !important;
+         display: block !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-img {
+         padding: 0 !important;
+         width: 100% !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         table.sf-share img {
+         width: 22px !important;
+         height: auto !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-share {
+         display: table-cell !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-share-icon {
+         width: 22px !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         table.sf-text-image table {
+         border-spacing: 10px !important;
+         }
+         }
+      </style>
+   </head>
+   <body>
+      <table class=3D"sf-main" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"height: 100%; background: #f2f2f2; table-lay=
+out: fixed; border-collapse: collapse; border: none; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt;">
+      <tr>
+         <td class=3D"sf-main" align=3D"center" valign=3D"top" style=3D"pad=
+ding: 40px 20px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <table class=3D"sf-cont" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"600" style=3D"min-width: 600px; max-width: 600px; width=
+: 600px; table-layout: fixed; border-collapse: collapse; border: none; -ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0=
+pt; mso-table-rspace: 0pt;">
+      <tr
+         >
+         <td class=3D"sf-cont" width=3D"600" style=3D"min-width: 600px; wid=
+th: 600px; text-align: left; background: #ffffff; padding: 0px; border: 1px=
+ solid #bcbcbc; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"table-layout: fixed; border-collapse: collapse; border: =
+none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table=
+-lspace: 0pt; mso-table-rspace: 0pt; border: 0px solid transparent;">
+      <tr>
+         <td class=3D"sf-td" valign=3D"top" style=3D"-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border: 0px solid transparent; width: 100%;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+      <tr>
+         <td class=3D"sf-html sf-td" style=3D"padding: 13px;"
+         <div>
+            <table align=3D"center" border=3D"0" cellpadding=3D"10" cellspa=
+cing=3D"1" style=3D"width: 500px;">
+               <tbody>
+                  <tr>
+                     <td>
+                        <a href=3D""><span style=3D"font-size:16px;"><span =
+style=3D"font-family: arial,helvetica,sans-serif;"><img alt=3D"PIA email" h=
+eight=3D"120" src=3D"https://www.privateinternetaccess.com/images/email_hea=
+der_template.png" style=3D"" width=3D"500" /></span></span></a>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <table align=3D"center" border=3D"0" cellpadding=3D=
+"1" cellspacing=3D"1" style=3D"width: 500px;">
+                           <tbody>
+                              <tr>
+                                 <td colspan=3D"2">
+                                    <span style=3D"font-size:14px;"><span s=
+tyle=3D"font-family: tahoma,geneva,sans-serif;">
+                                    Dear Valued Customer,
+<br><br>
+
+On November 17, we were privately notified of an IP address leak vulnerabil=
+ity affecting the port forwarding feature of our service. Essentially, anyo=
+ne connecting to a forwarded port on any of our VPN gateways could have the=
+ir real IP address leaked to an attacker specifically targeting a PIA user.
+<br><br>
+Within 12 hours of the initial report, we developed and tested what we thou=
+ght was a complete fix, and deployed it to all of our VPN gateways.
+<br><br>
+On November 26, the researchers who discovered the vulnerability made it pu=
+blic and we quickly noticed that our service was still vulnerable to the IP=
+ address leak in certain cases, despite our initial fix. After further inve=
+stigation, we also realized there was a separate but related issue on our d=
+esktop client. To fix this issue we are releasing updated VPN apps to preve=
+nt any leaks. We released v.52 on November 27.
+<br><br>
+Protecting your privacy is our top priority and although exploiting this vu=
+lnerability is difficult and requires an attacker to specifically target yo=
+u, we feel like we let you down with our initial response. Please accept ou=
+r apologies, we are sorry.
+<br><br>
+We highly recommend users update to v.52 (or later) of the client. To ensur=
+e all of our beloved users remain protected, we have pushed an update to ex=
+isting clients. Please update immediately from the application or visit one=
+ of the following links:
+<br><br>
+Windows: <a href=3D"http://email2.privateinternetaccess.com/wf/click?upn=3D=
+1RUIlXMkBg9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWSpJwh8lwXJrlxZrpZPaP4uJchRCqa=
+-2FlA6z8gkYV0ztk5Qcj69-2FpvY0o5fKklMobgg-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5=
+MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPi-2FCwBWQuRpyY1kHEM6JaJBa5dlpPv-2FfmpwqchVF=
+J6aipE6c1DhyHtXyHy5a73YAMefGqO9tCHp97fvL-2B5zgLosC1thRCje31c8qpfovLYE1Ckhio=
+4R4mrd5DGLYbv23CaNPhmB2yGswip6Yqpal1PmRqgif320akVrk4Jc6gv-2F9aKF8FA0elnGXkV=
+17IOEIxl1ViKQrKx98NMGHdOMOVNdowOYa4LslY89DsOL-2F3tJ47-2BZ5TXGZnyD1hjIVLB5ot=
+Inp0EiwaPEdohxD6sCzLvNz3oLVaQ4OgmTYWxqJ39csjTTlQrYiPqfHmnjXeh1gaAJm-2FpoOZQ=
+1H3-2BKWXMeBUUKg-3D-3D">https://www.privateinternetaccess.com/installer/dow=
+nload_installer_win</a>
+<br><br>
+Mac: <a href=3D"http://email2.privateinternetaccess.com/wf/click?upn=3D1RUI=
+lXMkBg9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWSpJwh8lwXJrlxZrpZPaP4uJchRCqa-2Fl=
+A6z8gkYV0ztk3TpQHRVE7BjlBJ38K02x-2FI-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPH=
+MRG16fNl3xJ7BGWSIjCRFX3vLGRPirqteidXT9-2Fd6T9Q-2BiZf7hpWJk-2F-2FGbxEMRu5kg6=
+iZvRyJNGkKpBSa7KtA1WhSOUJgz-2BegVjoVsNkYCrJFT57MiVgNRd3Y-2FART9vaXqJTZyzLgM=
+g810x2ZdohkKdhpmiMG9n-2BBruppdxB2P44mOwcKWXlTavEPs7LbTtLGtfgYR5AgQnW-2BxoOy=
+PpBxPbVxxR5ZHTXG3-2BGi43vadnRiDdeAta2xXMrvK8IGtY5uJE5LAlL815DptiHa-2FYR9h1F=
+QJVQdqDp4fR6xPsh2bKMGtu3WPEKUcs5m-2BilIVo6sCZfEttsiFX1Opd-2F0tWteXZ5FeWEM7g=
+433nrbQrt1bkrARtVnCw-3D-3D">https://www.privateinternetaccess.com/installer=
+/download_installer_osx</a>
+<br><br>
+Technical Facts:
+<br><br>
+The vulnerability relies on the fact that a direct route exists between the=
+ VPN client and server. If the client accesses a forwarded port on the VPN =
+server that is maliciously set up by an attacker, the client will use the d=
+irect route using the user's default route, bypassing the VPN entirely.
+<br><br>
+Our initial fix was to block VPN clients from accessing forwarded ports on =
+the same server at the VPN gateway firewall level, but we soon discovered a=
+ flaw in our desktop clients that made the fix incomplete. When the client =
+disconnected, the direct route to the VPN gateway was not removed, thereby =
+making users vulnerable even after they disconnected from the VPN. Beginnin=
+g with v.52, we remove these "lingering" direct routes to the VPN gateway a=
+t disconnect time.
+<br><br>
+Note: If you are connecting to our service with a native OpenVPN client, or=
+ PIA's Android or iOS apps, you do not need a client-side fix.
+<br><br>
+                                    <br /><br />
+                                    <span style=3D"font-size:14px;"><span s=
+tyle=3D"font-family: tahoma,geneva,sans-serif;">
+                                    <br>
+                                    </span></span>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td width=3D"100%">
+                                    <span>Sincerely,</span>
+                                    <br/>
+                                    <span>Private Internet Access Team</spa=
+n>
+                                    <br/>
+                                    <span>Subsidiary of London Trust Media =
+Inc.</span>
+                                 </td>
+                                 <td width=3D"237">  <span style=3D"font-si=
+ze:16px;"><span style=3D"font-family: tahoma,geneva,sans-serif;"></span>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style=3D"text-align: center;">
+                       <span style=3D"font-family:georgia,serif; font-size:=
+ 12px;">To unsubscribe please click <a href=3D"http://email2.privateinterne=
+taccess.com/wf/unsubscribe?upn=3DgpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fN=
+l3xJ7BGWSIjCRFX3vLGRPiwrDQpEnXhEBmImoHDa2NLqNptl70-2F-2BDXj4MYv3jigfbg7lLhy=
+4HMvxI2pB6JKtrmfID1v23H8hiVgUgOE4foXqrUtPITl0IRaq47bbflemXwBB18AMh13i5BWNMI=
+PN93KbO7dyjoR1yajRwY7ChgEfpffuhoO66YKRogtr3Rev-2Bjb-2FaG0LoXz-2FRwjCVMmXrRN=
+fL18Jp2ER6oelhHGImvH74nI0uML7bSTH6CgM0DCS-2FqAeFrSaGhmPxJ6Vp7TmlmmAEMKXqpkh=
+H4F9h9jLP6snor7J3MKF1RXJPNrg9iRJJ33BH6bYnXhthDZeIPob6k-2FdiTYN6zYi8fQnKFwPs=
+oLQ-3D-3D">here</a></span>
+                        <br />
+                        <br />
+                        <a href=3D"http://email2.privateinternetaccess.com/=
+wf/click?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWSpmqhSixxcAtlJ=
+poQCu4nw_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPizn=
+eceDeA-2FBGWC0reQCoW7-2Fg5JiDh0WxgrPkyD6t8H9ktTP-2BNdJowvb5QOgqncyVqEuw0awU=
+jmPmrnembHdH3Nd1N-2BZ2B6hP0kyxdJ6D0lyoFTgVIdYvSKAPvqVIEBaRN9vCHeoq1sC5BbZIo=
+VKRMbMtISwy9tCW9nucG5-2BqdFMm9vRvChYj9LMLvvftH2RUnIQ-2B8q9JGGoQUVNORnN2xJKt=
+ddQa-2BDOWIFga6FSaj7CKPBVHP3y1fWffzvgBLRd2Qmv6Z9CrrCVrxe2mdXuH4idnZ4pmRUmoc=
+8QpHd-2BRqPgHLDJccu2Q16exBPH6h0vqMFfoAdaCX2dGcqlgS5Rw7Tw-3D-3D"><span style=
+=3D"font-family:georgia,serif;"><span style=3D"font-size: 12px;">Homepage</=
+span></span></a> | <a href=3D"http://email2.privateinternetaccess.com/wf/cl=
+ick?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWQIHmvfHxJzsWRTxKS3F=
+JeFYVC60bQ2TWXrXS998UsDF583gumZlEwgMcWp3btczm8-3D_gpAQYPOQ9VYyEz2uxWMzFI7xn=
+Y0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPizr404t3Fz2z52J6KJRc49-2BU0Z6ksy5Web9=
+v4JTqwzlklZLilfgifrUwELEzDZ-2Fm-2FqIc23xp5QUqGXMobGMklMc56o9Hq7Ymv8iKfrP-2B=
+sslLCAlmK1A7vMMpL-2FXA3Uuq3S8z-2B339azy-2F-2Fqwh-2BUv-2BpH7WKhJelFrnKwnaKlj=
+HziWzr3RsoEGyf859eNrBPulwU-2FKnF4xpC9odwv82gtBcB99pSJAogo-2BWYPVLPiV8BQw3lq=
+aG1EaFbSywtpT3yhOOcI-2F4lMp5b7eJq7adt3eVzDKzOANd9BObM0eSV-2B5hFHqizJWxwseUq=
+kjwKSIAtsLn7wha-2BlmSBgqgFDS1GjMKMTg-3D-3D"><span style=3D"font-family:geor=
+gia,serif;"><span style=3D"font-size: 12px;">Client Sign-In</span></span></=
+a> | <a href=3D"http://email2.privateinternetaccess.com/wf/click?upn=3D1RUI=
+lXMkBg9qBZM-2BaL-2FG00p6pzW0GN4FJmr0g4q9GMRXeecf2NV55s3UsbBv-2BqGUaQVLKwdP-=
+2Bo-2FhmvGjHrlbhQ-3D-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWS=
+IjCRFX3vLGRPiYDrK3a5Fm5HFgqSqfobzjO2M94ufXKDo3MizhCxBrI84Sq53Up1jjB-2FlZJFZ=
+P53FcootujJwr4sSHkH7cBJXSLu47X56ZeLcWlr6Yv-2FUqjUVEMUr9GkV3MllxeZMvAJ8Vi-2B=
+AogIFx-2BtE-2BTixMH5GKhtmUU7-2BAfnzwFuD3MI4Gw7TxD-2FJWNSm72Xlfb4Zi5-2FNaXpX=
+zPjewDH-2B1tXdccosmO5OsMGEfAriZ3JG3n1qgrptbkt-2FDt3ltNFyaSlHCgXukVXHN849Jkw=
+X0zHCRsxJxt4tIzWVXCT-2FKosL5j8bRqgR-2F5c0-2B7BKmS82gGFGpKXJrum2FeJohOT1KEAR=
+VXTlHA-3D-3D"><span style=3D"font-family:georgia,serif;"><span style=3D"fon=
+t-size: 12px;">Support Center</span></span></a> | <a href=3D"http://email2.=
+privateinternetaccess.com/wf/click?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG04RtrRgWFo=
+p2cKNZWzOGkWTabYX4xCU3bfJ75yl1lU-2FQYQoYdlRalZYpyxwBRgseTw-3D-3D_gpAQYPOQ9V=
+YyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPiuRB-2BE4DBvirlrci-2FI=
+bFH6EwtFjd-2Fgh-2BK7zvNK5pNgf4D8bc2MyStlmh0ClsvcGFxbIyVeu1g2PqC49-2B0zG0ZR3=
+mCvrI55OuMolndCfu1U6FPP37gM4ghYc4l0rvFKkpV4wkAdvKwXPL4t7XwfoJnOPrYl4HOn-2FR=
+Q9fpUNrb-2Be9yUmHdRxvV9fE-2F6eXeFTRWaM-2FzrOmJxxZaj0zOXS3sBeBTVIpTKs2WNoTBc=
+uLyi7sCAvG8fFLNIqJyYr74NQOiR4vel4LEFfU-2BpAY8G8VoMpTfUkmjgoMdjJ1la59WqCCNHc=
+LKpiXylFJYNoJd1ZbOaGyGuBOOuH0nMNTkXN54SFw-3D-3D"><span style=3D"font-family=
+:georgia,serif;"><span style=3D"font-size: 12px;">Blog</span></span></a> | =
+<a href=3D"http://email2.privateinternetaccess.com/wf/click?upn=3D1RUIlXMkB=
+g9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWRchK15xulRTJmAdTQaMFRqg9z0CF2GalMDG-2B=
+toBcLVCA-3D-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vL=
+GRPiYeOjGxqLHAKluXT-2Bq7YoGO285Qt1x0gMKlKa0x6Z-2Bv5MSabJlS6dJoPsywCjI9pGzFW=
+VC8p01t0-2Ft6HRMKEKg9GRReq9b0We-2Btx52vR2EDxVkb1yfQOnLU-2BVThHajMdqHpSyNfcS=
+8cqKRf1IcaZ5yg-2FGfOyoVGZlJIo8mYoHFAFFeslhK3wVIqQu2BtweJBSkEkve9XRvfAujBwlW=
+grEE663QO3Te9ZRSBjaH1i4lWiiM6UHbTrdzdzQvMaqFS8udVisv4lfzfhGhBbXvxWgB7KC94NO=
+PFak4AcSt002rvMfwwpodKUL-2Bs-2BI-2BciDgl5K-2BPNc4kevLsPQq6ehm6MuRA-3D-3D"><=
+span style=3D"font-family:georgia,serif;"><span style=3D"font-size: 12px;">=
+Forum</span></span></a> | <a href=3D"http://email2.privateinternetaccess.co=
+m/wf/click?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG04RtrRgWFop2cKNZWzOGkWQIHmvfHxJzsW=
+RTxKS3FJeFLDI-2B1OsqzlruNzyW6J8RQ9wOs3gvIW0lAWRuGCb10cU-3D_gpAQYPOQ9VYyEz2u=
+xWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPi732GIm-2Fz6G6Eq6N068qg9DMvS=
+OhMegbmcjJVu6fDCt7b1a1A-2B2lFCGDyPC5I4Rf7xVzYHRevq2xoJQeDlJ33-2F4V2Gz6T9qsy=
+6hlSUfuxsVJ8W-2FW4BbYjlh3M6YYlCdvOpg0uLgOtfxQOvMfn3vqNtRFuit3No-2B1O1QyOAmW=
+-2FEr9pfhnWQHGvEcn8Ah-2F7cLy2icwjkvsfmoVMp3LOhOLtm322-2Fzc4M-2B-2BL4iRa2Cbo=
+m-2FwCAKCypgu86bQkBjJzBwGKrIUkwZ6ht4G-2F2LVrJNZLRpEhoZUkdi7opByx7RDr0sv7B8d=
+-2BygJ5YJ4BTUaqizAai2b0LGa19N9goVooPS-2FDhQ-3D-3D"><span style=3D"font-fami=
+ly:georgia,serif;"><span style=3D"font-size: 12px;">Terms of Service</span>=
+</span></a>
+                        <br /><br /><span style=3D"font-family:georgia,seri=
+f;"><span style=3D"font-size: 12px;">Londontrustmedia Inc. 2885 Sanford Ave=
+ SW Suite 20138 Granville, MI 49418</span><br /> <br />
+                        <a href=3D"http://email2.privateinternetaccess.com/=
+wf/click?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG09hnm280gNjRsjw1GC7KJ9felwmImXP3Xm75=
+ccc20r4N0-2BmFKIGYaIyUoFYNyNKMSg-3D-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHM=
+RG16fNl3xJ7BGWSIjCRFX3vLGRPig1QlH8e1zxYsO7b4zAwi2joGB4SPrrI6-2FjBJhYvrPuq-2=
+BGb0YQwXoVlGsE9k1k6mUMB6rgQqjzCIwAnfV6gvwwMfFOSQdnOrF6OyDUzebLKx8eW6MJttHjy=
+eTuNJRDusy5lYtHTLL-2FU50DM6ohYVArQPjO4mM-2Fr26pitp1TeDkI8SP4ASk-2BF1ZvCvdNb=
+2wYghjIrFG9nWwCtv5Uxf2d24dC-2B0KPuE8jd-2FO-2BhCv2R-2B6hCh9UehsuOtF-2BgqscT-=
+2BrG6AjUrchF08mrBm4Lt5FsZwUATjDIeivUKfS1O4ZmKAaNk7PWMyg1f1af6I-2Bni9lFdBxK5=
+84tfHmqJU-2BnKI0JbweQ-3D-3D"><span style=3D"font-family:georgia,serif;"><sp=
+an style=3D"font-size: 12px;">Facebook</span></span></a> | <a href=3D"http:=
+//email2.privateinternetaccess.com/wf/click?upn=3D1RUIlXMkBg9qBZM-2BaL-2FG0=
+3Pr5LzKYYAHF-2Bhkg9-2Fxg-2Bmhd0Pxc801BYkwGDKBsahr_gpAQYPOQ9VYyEz2uxWMzFI7xn=
+Y0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPisuh44795PvgCKOeSYedF1HzUeAWZ3X8x8faz=
+wIJ-2BOlPXcFCv0kgvt-2F4pJ1wFZQv-2B-2BGafEiS836wuZPwYHDqVkOxnmTv-2FaRTtzmAYx=
+XlXJMdpLRt94O0MvlPVl4DqA-2FMZU4MZnVmgeHT7EpEC135093h7o-2FfUcmDTs-2Bb4qn9obl=
+F-2BhvOqGOV84M6ngH4nr9-2F8-2BPCaoVySFatcc8y7LEdof4M8eOk2eqQIBKCpN3p9k43TQ3E=
+23skmfa7HQePuB8SVBIv3UYFE4qg3-2BcRz1m-2FxFcU-2BOiM8d99n9fhVB2hRDd7O0UQgYhgj=
+1fZWfYRkDxgUrqLHY6CcgxQyof6jhVaT0w-3D-3D"><span style=3D"font-family:georgi=
+a,serif;"><span style=3D"font-size: 12px;">Twitter</span></span></a> | <a h=
+ref=3D"http://email2.privateinternetaccess.com/wf/click?upn=3D1RUIlXMkBg9qB=
+ZM-2BaL-2FG0xX-2FHt9ljWBqjWC5KWFUk-2BejM-2Fzde2rkGzK2FT-2BCjOnMNz9-2BjRN-2F=
+w6TV33STChPTUQ-3D-3D_gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjC=
+RFX3vLGRPirqteidXT9-2Fd6T9Q-2BiZf7hkW7p30SlPQyYMdlIfl738MTxGLD-2BE93nzT2A04=
+hAJxZFNnWOH9npWBIYBoxa5ie1o7NIHGyc9h1jPFVfWRAF5XIdXtbywb-2B1hH7-2FncKRwEVcx=
+93wBfyswJYsmYzNrNgpR8rnymzw4JJs-2FRWqX0JYy5PzhlxF09VMu-2BQtO76VFRfZtFXO3IFy=
+zpqAREcO0KFp0Igzmu2yoCmp7hYO7w9s-2BEA6VGz6TVMUmb72LZzLemGRIXyRF11Rj-2BvaUZA=
+7vW5aWYf5Pbdhf0SDx4C-2Barg8hjY-2FTJHVuy9YTRt-2BXKL21vGlpZdU18Q3RGF-2BYsaVac=
+-2BfA-3D-3D"><span style=3D"font-family:georgia,serif;"><span style=3D"font=
+-size: 12px;">Google Plus</span></span></a>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+=20=20=20
+<img src=3D"http://email2.privateinternetaccess.com/wf/open?upn=3DgpAQYPOQ9=
+VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNl3xJ7BGWSIjCRFX3vLGRPivq0L3WFTQgiW5NOwetep=
+8UVhtZnk6OfiWMEIDzK-2F1vilL0NrRV-2FqcW09xuEj0sCM3C39cf2onbEjPKNn55ex4rMdgu5=
+AwaiMP5C2G-2B3uOERhjL4qo47L7umNR3b1FweM5-2FLQeY0WrWAIogKULcfhqY0pT-2FufyAgB=
+pWPIdSSBj-2F4vvQELGdYduIRzXSO1HMpICm9PC2-2BbWa1sRQvUJ5T1dqZFyYI6-2BzxphKrP6=
+cDjIbUpR04qEZhpFDKXZz0U54unBaQric-2F4vL-2FK6st0x-2BLaOUAqsNFsDxsf7wbjy4Ht25=
+IxYhReRhuIaZHCB-2FdbiPJlJ9-2FjkSr-2FtboHidhEUdg22w-3D-3D" alt=3D"" width=3D=
+"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !imp=
+ortant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !i=
+mportant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !=
+important;padding-bottom:0 !important;padding-right:0 !important;padding-le=
+ft:0 !important;"/>
+</body>
+</html>
+
+
+--0a97835a40760f884137986d26f26922e6e7b291b5c179b045633295dfec--

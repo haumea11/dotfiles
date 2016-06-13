@@ -1,0 +1,169 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp241692oid;
+        Wed, 8 Jul 2015 11:36:06 -0700 (PDT)
+X-Received: by 10.180.10.4 with SMTP id e4mr37760843wib.82.1436380565668;
+        Wed, 08 Jul 2015 11:36:05 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f172.google.com (mail-wi0-f172.google.com. [209.85.212.172])
+        by mx.google.com with ESMTPS id da9si4736370wib.123.2015.07.08.11.36.05
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 08 Jul 2015 11:36:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.172 as permitted sender) client-ip=209.85.212.172;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.172 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wi0-f172.google.com with SMTP id l6so353035874wiw.0
+        for <kuiperhaumea@gmail.com>; Wed, 08 Jul 2015 11:36:05 -0700 (PDT)
+X-Received: by 10.180.215.101 with SMTP id oh5mr78045646wic.6.1436380565120;
+        Wed, 08 Jul 2015 11:36:05 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp150420wmd;
+        Wed, 8 Jul 2015 11:36:04 -0700 (PDT)
+X-Received: by 10.60.76.35 with SMTP id h3mr10115280oew.46.1436380563765;
+        Wed, 08 Jul 2015 11:36:03 -0700 (PDT)
+Return-Path: <cjoyce@cdeducation.org>
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com. [209.85.214.174])
+        by mx.google.com with ESMTPS id oq12si2119657oeb.82.2015.07.08.11.36.02
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 08 Jul 2015 11:36:03 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.214.174 is neither permitted nor denied by best guess record for domain of cjoyce@cdeducation.org) client-ip=209.85.214.174;
+Received: by mail-ob0-f174.google.com with SMTP id km3so154532117obb.1
+        for <markiewicz.john@gmail.com>; Wed, 08 Jul 2015 11:36:02 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:cc
+         :content-type;
+        bh=B1JKr7bIe2zKAExG5jnr0B6ajBk7MmNBnvZyTI5ZXYM=;
+        b=BBxOnU45MvlyOiossGBFdPrpqlcqAvvZ9V7Fto2DN9KcgpcX/hDFe8+r1d9V4enSFV
+         XszbkQVI5x7BS0bSqCOMNv/dFV6iuOc5Os5pDt7eOU2hmr5TbdXx30Clfpo0/B6am56u
+         APfW2lY43PQGa9jphaDOeX0vY+WiH5s8Kyund2jkAQPL6sXup8MuncxqkP5e5KvEZmKK
+         8tjTOD3fttdcZC2/BY7nAgz4TDjVr0YIp+6YYiKKDRLXly0p+G0iwXXcaWTRpWViSLQ1
+         ctm/OV9XBQsvzRfY4eTUziVJSTaiKU5iXokHoTrArLiroIjLyRY73KLI4i9jRcm/2oA2
+         tMOw==
+X-Gm-Message-State: ALoCoQksKByxSjLaUvHJ408eou6buwD9ag+B3txBA2xFm3lKjxypxfSc62eANbsUje5B3lf1T4sE
+MIME-Version: 1.0
+X-Received: by 10.182.165.71 with SMTP id yw7mt7709812obb.16.1436380562239;
+ Wed, 08 Jul 2015 11:36:02 -0700 (PDT)
+Received: by 10.60.160.10 with HTTP; Wed, 8 Jul 2015 11:36:02 -0700 (PDT)
+Date: Wed, 8 Jul 2015 14:36:02 -0400
+Message-ID: <CAGs8aKrkEPLpmfucz0AJgLht5L0oPPgOsTsQryof0tOLtmQQWw@mail.gmail.com>
+Subject: Watterson Choir Retreat and Potluck
+From: Christen Joyce <cjoyce@cdeducation.org>
+Cc: Abby Demboski <dembo@columbus.rr.com>, Abby Demboski <pdemboski@ableroof.com>, 
+	Alex Bryant <barry.bryant@prodigy.net>, Alison Lang <aliswanco@gmail.com>, 
+	Alison Lang <mjlang4@gmail.com>, Anna Ehret <ehretanna05@aol.com>, 
+	Anna Ehret <jaehret1991@aol.com>, Carly Griffith <cgriffith333@gmail.com>, 
+	Carly Griffith <jprindler@columbus.rr.com>, Carly Stang <carly.stang1@gmail.com>, 
+	Carly Stang <stanger1@yahoo.com>, Carly Stang <tstang@fultoncommunications.com>, 
+	Caroline Golonka <deniseg0328@yahoo.com>, Chris Carter <mcloughlin.1@osu.edu>, 
+	David Skulich <dskulich@columsbus.rr.com>, David Skulich <jskulich@columbus.rr.com>, 
+	Dylan Murphy <elizabeth.murphy@johnsonelectric.com>, 
+	Dylan Murphy <murph255@columbus.rr.com>, Elizabeth Reiser <rrieser513@yahoo.com>, 
+	Ellena Yohannes <nlijam@cscc.edu>, Ellena Yohannes <yyohannes@gmail.com>, 
+	Emily Kring <donna.kring@nationwidechildrens.com>, Emily Kring <jkring@columbus.rr.com>, 
+	Emma Koehler <e.koehler00@gmail.com>, Emma Koehler <lizkoehler217@yahoo.com>, 
+	Ginny Pajor <kathypajor@yahoo.com>, Ginny Pajor <ppajor@yahoo.com>, 
+	Hayley Hoying <mhoying@insight.rr.com>, Jacob Erney <trerney@yahoo.com>, 
+	John Markiewicz <markiewicz.john@gmail.com>, John Markiewicz <shannon.markiewicz@gmail.com>, 
+	Jullian Fountain <ellyn.fountain@gmail.com>, Jullian Fountain <kurt.fountain@gmail.com>, 
+	Justin Weltin <jkjweltin@aol.com>, Justin Weltin <jweltin2@gmail.com>, 
+	"Kathryn O'Sullivan" <ironcad.3@gmail.com>, "Kathryn O'Sullivan" <mosulliv@cdeducation.org>, 
+	Lauren Putz <beth@khptel.com>, Lizz Turnbull <clairemedic@aol.com>, 
+	"Makaela O'Reilly" <1970sue@sbcglobal.net>, "Makaela O'Reilly" <bernie@secondchancecolumbus.com>, 
+	"Margaret O'Brien" <danobrien35@aol.com>, "Margaret O'Brien" <jloobrien@aol.com>, 
+	Matthew Kent <cokent@cdeducation.org>, Matthew Kent <kevin.kent@osumc.edu>, 
+	Maya Steller <jpsteller@yahoo.com>, Maya Steller <mlsteller@yahoo.com>, 
+	Michael Carmody <jmcarmody1025@aol.com>, Morgan Hull <chull@wowway.com>, Nina Buoni <buoni_1@osu.edu>, 
+	Nina Buoni <tmbuoni@sbcglobal.net>, Nolan Kelly <kelly_6@att.net>, Nolan Kelly <mkelly@mecsrc.com>, 
+	Rachel Smith <rsmith46@columbus.rr.com>, Ryan Mar <cmar@cdeducation.org>, 
+	Ryan Mar <cwmar1@aol.com>, Sara Dowler <kathy.dowler@sbcglobal.net>, 
+	Sarah Bender <bendertm@yahoo.com>, Shannon Becker <becker.180@beckerplanet.com>, 
+	Shannon Becker <mbecker@beckerplanet.com>, Shannon Boyne <skittles101@columbus.rr.com>, 
+	Shannon Boyne <trsshome@columbus.rr.com>, Steven Gullo <prgcmg@gmail.com>, 
+	Steven Gullo <sgullo6599@gmail.com>, Tommy Anglim <ranglim@columbus.rr.com>, 
+	Tori Morell <jacquie_morell@yahoo.com>, Tori Morell <morell_john@yahoo.com>, 
+	Zach Uhazy <uhazy@sbcglobal.net>
+Content-Type: multipart/alternative; boundary=001a11c2e2f02d6e4f051a6169a0
+
+--001a11c2e2f02d6e4f051a6169a0
+Content-Type: text/plain; charset=UTF-8
+
+Hello Concert Choir Members,
+
+I hope that everyone's summer is going well and that you're finding time to
+relax and do something fun for yourself. While I don't want to bring up
+thoughts of the upcoming school year, I do want to remind you that we have
+a summer Choir Retreat coming up at the end of this month!
+
+Our retreat will be held this year on Thursday, July 30th. It is
+tentatively scheduled for 1-6pm with the family potluck beginning at 6pm.
+
+I will send out another email in the coming weeks with more specific
+details about the day as well as an RSVP and sign-up for the potluck.
+Please mark your calendars! It is a nice way to start of the back-to-school
+season and bond as a choir.
+
+Also, this is the first email that I have sent using the new class list. If
+you would prefer to receive emails on a different email or if you wish to
+be removed from the list, please let me know so that I can make the proper
+adjustments.
+
+Thanks so much and I hope to see you on July 30th!
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a11c2e2f02d6e4f051a6169a0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Concert Choir Members,<div><br><div>I hope that ever=
+yone&#39;s summer is going well and that you&#39;re finding time to relax a=
+nd do something fun for yourself. While I don&#39;t want to bring up though=
+ts of the upcoming school year, I do want to remind you that we have a summ=
+er Choir Retreat coming up at the end of this month!=C2=A0</div><div><br></=
+div><div>Our retreat will be held this year on Thursday, July 30th. It is t=
+entatively scheduled for 1-6pm with the family potluck beginning at 6pm.=C2=
+=A0</div><div><br></div><div>I will send out another email in the coming we=
+eks with more specific details about the day as well as an RSVP and sign-up=
+ for the potluck. Please mark your calendars! It is a nice way to start of =
+the back-to-school season and bond as a choir.=C2=A0</div><div><br></div><d=
+iv>Also, this is the first email that I have sent using the new class list.=
+ If you would prefer to receive emails on a different email or if you wish =
+to be removed from the list, please let me know so that I can make the prop=
+er adjustments.</div><div><br></div><div>Thanks so much and I hope to see y=
+ou on July 30th!<br clear=3D"all"><div><div class=3D"gmail_signature"><div =
+dir=3D"ltr"><div><div style=3D"margin:0in 0in 0pt"><b><span style=3D"font-s=
+ize:14pt"><font color=3D"#000000" face=3D"Calibri">Christen Joyce</font></s=
+pan></b></div><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"><=
+/font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44=
+)"><font face=3D"Calibri" size=3D"3">Choral Director</font></span></b></p><=
+font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=
+=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=
+=3D"Calibri" size=3D"3"><span><font color=3D"#830b2c">Bishop</font></span> =
+<span><font color=3D"#830b2c">Watterson</font></span> High School</font></s=
+pan></b></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></f=
+ont><p style=3D"margin:0in 0in 0pt"><span><font color=3D"#000000" face=3D"C=
+alibri" size=3D"3"><a href=3D"tel:%28614%29%20268-8671" value=3D"+161426886=
+71" target=3D"_blank"><font color=3D"#1155cc">(614) 268-8671</font></a> x 2=
+89</font></span></p><font color=3D"#000000" face=3D"Times New Roman" size=
+=3D"3"></font><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(13=
+1,11,44)"><a href=3D"http://www.bishopwatterson.com/" target=3D"_blank"><sp=
+an style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bis=
+hopwatterson.com</font></span></a></span></div><div style=3D"margin:0in 0in=
+ 0pt"><span style=3D"color:rgb(131,11,44)"><img width=3D"420" height=3D"151=
+" src=3D"https://docs.google.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviI=
+vcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3W=
+DFNPQ"><div dir=3D"ltr"><div><div></div></div></div><div dir=3D"ltr"><div><=
+/div></div></span></div></div></div></div></div>
+</div></div></div>
+
+--001a11c2e2f02d6e4f051a6169a0--

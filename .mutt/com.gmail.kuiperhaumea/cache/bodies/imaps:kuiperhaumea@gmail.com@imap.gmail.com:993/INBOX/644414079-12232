@@ -1,0 +1,1517 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2772727oid;
+        Tue, 7 Jul 2015 13:24:05 -0700 (PDT)
+X-Received: by 10.180.92.162 with SMTP id cn2mr65801501wib.26.1436300645490;
+        Tue, 07 Jul 2015 13:24:05 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22b.google.com (mail-wi0-x22b.google.com. [2a00:1450:400c:c05::22b])
+        by mx.google.com with ESMTPS id fx1si24137138wic.87.2015.07.07.13.24.04
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 07 Jul 2015 13:24:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22b as permitted sender) client-ip=2a00:1450:400c:c05::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22b as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail52.atl71.mcdlv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+Received: by mail-wi0-x22b.google.com with SMTP id a1so250391213wig.0
+        for <kuiperhaumea@gmail.com>; Tue, 07 Jul 2015 13:24:04 -0700 (PDT)
+X-Received: by 10.194.60.226 with SMTP id k2mr11398921wjr.10.1436300644558;
+        Tue, 07 Jul 2015 13:24:04 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2305281wmd;
+        Tue, 7 Jul 2015 13:24:03 -0700 (PDT)
+X-Received: by 10.170.185.200 with SMTP id b191mr7000915yke.85.1436300642659;
+        Tue, 07 Jul 2015 13:24:02 -0700 (PDT)
+Return-Path: <bounce-mc.us2_6869534.1942157-MARKIEWICZ.JOHN=GMAIL.COM@mail52.atl71.mcdlv.net>
+Received: from mail52.atl71.mcdlv.net (mail52.atl71.mcdlv.net. [198.2.129.52])
+        by mx.google.com with ESMTP id t77si9991116ywf.123.2015.07.07.13.24.02
+        for <MARKIEWICZ.JOHN@gmail.com>;
+        Tue, 07 Jul 2015 13:24:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_6869534.1942157-MARKIEWICZ.JOHN=GMAIL.COM@mail52.atl71.mcdlv.net designates 198.2.129.52 as permitted sender) client-ip=198.2.129.52;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail52.atl71.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=discoverasc=3Dosu.edu@mail52.atl71.mcdlv.net;
+ bh=CdCVXhrE90KlusNNKgsSQ0izTpU=;
+ b=MKPyEBTqGeGCtoxXlUfvGroWbwXyR8I4/z3ySm9v5tCDd0ZoCqCf50k9u7U1e+Od1c1FzqHLaFWj
+   oSU+9A0W3UlPl6UMC4gH9KLaBp9m2u4+iExVQGjvTDkVNchKjM+6X0KV+lQCriUd6x6hQXkdhV8m
+   Bhp8GSuzHRFvSZl3DJM=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=CdCVXhrE90KlusNNKgsSQ0izTpU=;
+ b=Bda0E9QKD09Z6OcE5XBDuNn7zZqgS3LIpdOljWef+hxAdKUzRBhQY8AnUxIlC/FPl4aVn5QHkjUG
+   o+JCgBel8PTux/+UQbmUnz0w0sGtLFuz613Hqxeaoa1DCmZQmkwa57clq79OoNHVIg8Ni1edo6ej
+   HKZ+ObJwiVdfikf9uv8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail52.atl71.mcdlv.net;
+ b=cYtaP2lLUDAosm70xXTe3+60V95vfc2v/G2r2a7BXlOEteIljB2WIew7SlL1as5nNO0q+gQ//AKW
+   GuxpqSP538QOBlxi7vG2i+5ZhBOwBGIiE2B8F4eZ64LyY71B62PzK+EQAN7cmWAr87BvD8e9A2b/
+   SdwKbO99H7k+Bi8d4zQ=;
+Received: from (127.0.0.1) by mail52.atl71.mcdlv.net id hjgqm4174f4j for <MARKIEWICZ.JOHN@GMAIL.COM>; Tue, 7 Jul 2015 20:03:34 +0000 (envelope-from <bounce-mc.us2_6869534.1942157-MARKIEWICZ.JOHN=GMAIL.COM@mail52.atl71.mcdlv.net>)
+Subject: =?utf-8?Q?The=20Heart=C2=A0of=20Ohio=20State?=
+From: =?utf-8?Q?The=20Ohio=20State=20University=20College=20of=20Arts=20and=20Sciences?= <discoverasc@osu.edu>
+Reply-To: =?utf-8?Q?The=20Ohio=20State=20University=20College=20of=20Arts=20and=20Sciences?= <discoverasc@osu.edu>
+To: =?utf-8?Q?John?= <MARKIEWICZ.JOHN@GMAIL.COM>
+Date: Tue, 7 Jul 2015 20:03:34 +0000
+Message-ID: <39038225385d82983c3c2081c1ef7dc45dc.20150707200254@mail52.atl71.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDde2426c0971ef7dc45dc**
+X-Campaign: mailchimp39038225385d82983c3c2081c.de2426c097
+X-campaignid: mailchimp39038225385d82983c3c2081c.de2426c097
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=39038225385d82983c3c2081c&id=de2426c097&e=1ef7dc45dc
+X-MC-User: 39038225385d82983c3c2081c
+X-Feedback-ID: 6869534:6869534.1942157:us2:mc
+List-ID: 39038225385d82983c3c2081cmc list <39038225385d82983c3c2081c.736929.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-39038225385d82983c3c2081c-de2426c097-1ef7dc45dc@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://osu.us2.list-manage2.com/unsubscribe?u=39038225385d82983c3c2081c&id=9dda3fe763&e=1ef7dc45dc&c=de2426c097>
+Sender: "The Ohio State University College of Arts and Sciences" <discoverasc=osu.edu@mail52.atl71.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_973923670"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_973923670
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+OSU Arts and Sciences logo
+
+View this email in your browser (http://us2.campaign-archive2.com/?u=3D390=
+38225385d82983c3c2081c&id=3Dde2426c097&e=3D1ef7dc45dc)
+
+
+** What are the arts and sciences?
+------------------------------------------------------------
+
+http://www.youtube.com/watch?v=3DrduI6wG_w8w
+
+
+** Everything from African American and African Studies to zoology
+------------------------------------------------------------
+
+The College of Arts and Sciences is the academic core and the heart of The=
+ Ohio State University. The breadth and depth of our 80 major and 100 mino=
+r programs provide unparalleled academic opportunities for our students.
+
+Click on the boxes below to explore just some of the tremendous news=2C re=
+sources and advantages available to students at Ohio State.
+https://artsandsciences.osu.edu/current-students/academic-programs/majors
+http://artsandsciences.osu.edu/current-students/university-resources/acade=
+mic-support-and-tutoring
+http://artsandsciences.osu.edu/arts
+http://artsandsciences.osu.edu/discoverasc/why-study-asc/facilities
+http://www.youvisit.com/tour/osu/
+http://artsandsciences.osu.edu/discoverasc/parents/faq
+http://honors-scholars.osu.edu
+http://artsandsciences.osu.edu/ascent/2015/spring
+http://apply.osu.edu/FR-columbus.html
+
+Want to learn more about The Ohio State University? Get in touch (mailto:d=
+iscoverasc@osu.edu)  or schedule a tour (https://campusvisit.osu.edu) of t=
+he Columbus campus.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2015 The Ohio State University=2C All rights reserved.
+ You are on this list because you've expressed an interest in attending a=
+ university.
+
+Our mailing address is:
+The Ohio State University
+154B Denney Hall
+164 West 17th Avenue
+Columbus=2C Oh 43201
+USA
+** unsubscribe from this list (http://osu.us2.list-manage2.com/unsubscribe=
+?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc&c=3Dde2426c097=
+)
+** update subscription preferences (http://osu.us2.list-manage1.com/profil=
+e?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc)
+** Link to Youtube (https://www.youtube.com/user/OSUArtsandSciences)
+** Link to facebook (https://twitter.com/ascatosu)
+** Twitter Link (https://twitter.com/ascatosu)
+--_----------=_MCPart_973923670
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+=09<head>
+    =09<!-- NAME: 1:3:1 COLUMN -->
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+=09=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUT=
+F-8">
+=09=09<title>The Heart=C2=A0of Ohio State</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09}
+=09=09a{
+=09=09=09word-wrap:break-word;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding-top:20px;
+=09=09=09padding-right:10px;
+=09=09=09padding-bottom:20px;
+=09=09=09padding-left:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px;
+=09=09}
+=09=09.columnsContainer{
+=09=09=09max-width:197px;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#efefef;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#bb0000 !important;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:38px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-1px;
+=09=09=09text-align:center;
+=09=09}
+=09=09h2{
+=09=09=09color:#666666 !important;
+=09=09=09;
+                /*@editable*/ font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.75px;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#606060 !important;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.5px;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#808080 !important;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent=2C.preheaderContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContainer .mcnTextContent=2C.headerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.headerContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateUpperBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.upperBodyContainer .mcnTextContent=2C.upperBodyContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#333333;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.upperBodyContainer .mcnTextContent a{
+=09=09=09color:#bb0000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateColumns{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent=2C.leftColumnContainer .mcnText=
+Content p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent a=2C.leftColumnContainer .mcnTe=
+xtContent p a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.centerColumnContainer .mcnTextContent=2C.centerColumnContainer .mcn=
+TextContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.centerColumnContainer .mcnTextContent a=2C.centerColumnContainer .m=
+cnTextContent p a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent=2C.rightColumnContainer .mcnTe=
+xtContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent a=2C.rightColumnContainer .mcn=
+TextContent p a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateLowerBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.lowerBodyContainer .mcnTextContent=2C.lowerBodyContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#333333;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.lowerBodyContainer .mcnTextContent a{
+=09=09=09color:#bb0000;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContainer .mcnTextContent=2C.footerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.footerContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media screen and (min-width:768px){
+=09=09.columnsContainer{
+=09=09=09width:197px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09.columnsContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09.columnWidth{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09img.mcnImage=2Ctable.mcnShareContent=2Ctable.mcnCaptionTopContent=2C=
+table.mcnCaptionBottomContent=2Ctable.mcnTextContentContainer=2Ctable.mcnB=
+oxedTextContentContainer=2Ctable.mcnImageGroupContentContainer=2Ctable.mcn=
+CaptionLeftTextContentContainer=2Ctable.mcnCaptionRightTextContentContaine=
+r=2Ctable.mcnCaptionLeftImageContentContainer=2Ctable.mcnCaptionRightImage=
+ContentContainer=2Ctable.mcnImageCardLeftTextContentContainer=2Ctable.mcnI=
+mageCardRightTextContentContainer{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09table.mcnCaptionLeftContentOuter td.mcnTextContent=2Ctable.mcnCaptio=
+nRightContentOuter td.mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnImageCardTopImageContent=2Ctd.mcnCaptionBlockInner table.mcnCa=
+ptionTopContent:last-child td.mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09tbody.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnTextContent=2Ctd.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.mcnImageCardLeftImageContent=2Ctd.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.columnsContainer{
+=09=09=09display:block !important;
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09table.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.footerContainer a.utilityLink{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09table.mcnBoxedTextContentContainer td.mcnTextContent=2Ctd.mcnBoxedTe=
+xtContentContainer td.mcnTextContent p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td#templatePreheader{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.preheaderContainer td.mcnTextContent=2Ctd.preheaderContainer td.m=
+cnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.headerContainer td.mcnTextContent=2Ctd.headerContainer td.mcnText=
+Content p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.upperBodyContainer td.mcnTextContent=2Ctd.upperBodyContainer td.m=
+cnTextContent p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.leftColumnContainer td.mcnTextContent=2Ctd.leftColumnContainer td=
+=2EmcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.centerColumnContainer td.mcnTextContent=2Ctd.centerColumnContaine=
+r td.mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.rightColumnContainer td.mcnTextContent=2Ctd.rightColumnContainer=
+ td.mcnTextContent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.lowerBodyContainer td.mcnTextContent=2Ctd.lowerBodyContainer td.m=
+cnTextContent p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width:480px){
+=09=09td.footerContainer td.mcnTextContent=2Ctd.footerContainer td.mcnText=
+Content p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}</style></head>
+=09<body style=3D"margin: 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;background-color: #efefef;height: 100% !important;w=
+idth: 100% !important;">
+=09=09<center>
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D=
+"100%" width=3D"100%" id=3D"bodyTable" style=3D"border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;margin: 0;padding: 0;background-color: #efefef=
+;height: 100% !important;width: 100% !important;">
+=09=09=09=09<tr>
+=09=09=09=09=09<td align=3D"center" valign=3D"top" id=3D"bodyCell" style=
+=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;margin: 0;padding: 0;padding-top: 20px;padding-right: 10=
+px;padding-bottom: 20px;padding-left: 10px;border-top: 0;height: 100% !imp=
+ortant;width: 100% !important;">
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" style=3D"width:600px;" width=3D"600">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" class=3D"templateContainer" style=3D"border-collapse: coll=
+apse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;max-width: 600px;border: 0;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templatePreheader" style=3D"mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border=
+-top: 0;border-bottom: 0;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+                                        <tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContainer" style=3D"mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"bo=
+rder-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 11px;lin=
+e-height: 125%;text-align: left;">
+
+                            <img align=3D"left" alt=3D"OSU Arts and Scienc=
+es logo" height=3D"43" src=3D"https://gallery.mailchimp.com/39038225385d82=
+983c3c2081c/images/14f1289f-57d7-4b4b-9483-6af85a87a513.png" style=3D"widt=
+h: 300px;height: 43px;margin: 15px 0px 0px;border: 0;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" width=3D"300">
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 11px;lin=
+e-height: 125%;text-align: left;">
+
+                            <a href=3D"http://us2.campaign-archive2.com/?u=
+=3D39038225385d82983c3c2081c&id=3Dde2426c097&e=3D1ef7dc45dc" target=3D"_blan=
+k" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-weight=
+: normal;text-decoration: underline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templateHeader" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border-to=
+p: 0;border-bottom: 0;">
+                                    <!-- BEGIN HEADER // -->
+                                    <table align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tr>
+                                            <td align=3D"center" valign=3D=
+"top" class=3D"headerContainer" style=3D"mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBloc=
+k" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px;=
+line-height: 150%;text-align: left;">
+
+                            <h1 style=3D"display: block;margin: 0;padding:=
+ 0;font-family: Helvetica;font-size: 38px;font-style: normal;font-weight:=
+ bold;line-height: 125%;letter-spacing: -1px;text-align: center;color: #bb=
+0000 !important;">What are the arts and sciences?</h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templateUpperBody" style=3D"mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border=
+-top: 0;border-bottom: 0;">
+                                    <!-- BEGIN UPPER BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"up=
+perBodyContainer" style=3D"mso-line-height-rule: exactly;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageCardBlock" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageCardBlockOuter">
+        <tr>
+            <td class=3D"mcnImageCardBlockInner" valign=3D"top" style=3D"p=
+adding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px=
+;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-siz=
+e-adjust: 100%;">
+
+<table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"mcnImageCardBottomContent" width=3D"100%" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnImageCardBottomImageContent" align=3D"left" valign=
+=3D"top" style=3D"padding-top: 0px;padding-right: 0px;padding-bottom: 0;pa=
+dding-left: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-=
+webkit-text-size-adjust: 100%;">
+
+
+            <a href=3D"http://osu.us2.list-manage.com/track/click?u=3D3903=
+8225385d82983c3c2081c&id=3D09dcf601eb&e=3D1ef7dc45dc" title=3D"" class=3D=
+"" target=3D"" style=3D"word-wrap: break-word;mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"" src=3D"https://gallery.mailchimp.com/video_thumb=
+nails/017aead004580232a7ded9b792062d80.png" width=3D"564" style=3D"max-wid=
+th: 640px;border: 0;height: auto;outline: none;text-decoration: none;-ms-i=
+nterpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" valign=3D"top" style=3D"padding-top:=
+ 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-line-h=
+eight-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #333333;font-family: Helvetica;font-size: 15px;line-height: 150=
+%;text-align: left;" width=3D"546">
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #333333;font-family: Helvetica;font-size: 15px;=
+line-height: 150%;text-align: left;">
+
+                            <h3 style=3D"display: block;margin: 0;padding:=
+ 0;font-family: Helvetica;font-size: 18px;font-style: normal;font-weight:=
+ bold;line-height: 125%;letter-spacing: -.5px;text-align: left;color: #606=
+060 !important;">Everything from African American and African Studies to z=
+oology</h3>
+
+<p style=3D"margin: 1em 0;mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #333333;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;text-align: left;">The College of Ar=
+ts and Sciences is the academic core and the heart of The Ohio State Unive=
+rsity. The breadth and&nbsp;depth&nbsp;of our 80 major and 100 minor progr=
+ams provide unparalleled academic opportunities&nbsp;for our students.</p>
+
+<p style=3D"margin: 1em 0;mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #333333;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;text-align: left;">Click on the boxe=
+s below to explore just some of the tremendous news=2C&nbsp;resources and=
+ advantages available&nbsp;to students at Ohio State.</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END UPPER BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                            =09<!-- BEGIN COLUMNS // -->
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templateColumns" style=3D"mso-line-height-rule: exactly;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border-t=
+op: 0;border-bottom: 0;">
+                                    <table align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"=
+text-align: center;display: inline-block;mso-line-height-rule: exactly;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+                                                <!-- BEGIN INDIVIDUAL COLU=
+MNS // -->
+                                                <!--[if gte mso 9]>
+                                                <table align=3D"center" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"width:600px;" widt=
+h=3D"600">
+                                                <tr>
+                                                <td align=3D"center" valig=
+n=3D"top" style=3D"width:197px;" width=3D"197">
+                                                <![endif]-->
+                                                <div style=3D"display:inli=
+ne-block; vertical-align:top; width:197px;" class=3D"columnWidth">
+                                                <table align=3D"left" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"colum=
+nsContainer" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;max-width: 197px;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"leftColumnContainer" style=3D"mso-line-height-rule: exactly;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBloc=
+k" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage.=
+com/track/click?u=3D39038225385d82983c3c2081c&id=3Ded3779ddc6&e=3D=
+1ef7dc45dc" title=3D"Link to College of Arts and Sciences majors page" class=3D""=
+ target=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: ex=
+actly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Arts an=
+d Sciences majors color box" src=3D"https://gallery.mailchimp.com/39038225=
+385d82983c3c2081c/images/282d7062-405a-4d86-99d7-30703a8c1e42.png" width=
+=3D"161" style=3D"max-width: 260px;padding-bottom: 0;display: inline !impo=
+rtant;vertical-align: bottom;border: 0;height: auto;outline: none;text-dec=
+oration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage1=
+=2Ecom/track/click?u=3D39038225385d82983c3c2081c&id=3Dc131b1e048&e=3D=
+1ef7dc45dc" title=3D"Link to College of Arts and Sciences tutoring page" class=
+=3D"" target=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rul=
+e: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Two stu=
+dents studying" src=3D"https://gallery.mailchimp.com/39038225385d82983c3c2=
+081c/images/8bb46c31-ecd5-4a21-890b-ecf6766c292f.png" width=3D"161" style=
+=3D"max-width: 260px;padding-bottom: 0;display: inline !important;vertical=
+-align: bottom;border: 0;height: auto;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage.=
+com/track/click?u=3D39038225385d82983c3c2081c&id=3D704cce31a3&e=3D=
+1ef7dc45dc" title=3D"Link to College of Arts and Sciences Arts and Culture page"=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;mso-line-heig=
+ht-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%=
+;">
+                                        <img align=3D"left" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/39038225385d82983c3c2081c/images/b901a46=
+6-4185-48ab-a7a0-013200eedb2a.jpg" width=3D"161" style=3D"max-width: 260px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mo=
+de: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                <td align=3D"center" valig=
+n=3D"top" style=3D"width:197px;" width=3D"197">
+                                                <![endif]-->
+                                                <div style=3D"display:inli=
+ne-block; vertical-align:top; width:197px;" class=3D"columnWidth">
+                                                <table align=3D"left" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"colum=
+nsContainer" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;max-width: 197px;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"centerColumnContainer" style=3D"mso-line-height-rule: exactly;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBl=
+ock" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage1=
+=2Ecom/track/click?u=3D39038225385d82983c3c2081c&id=3Df0d9385a75&e=3D=
+1ef7dc45dc" title=3D"Link to Arts and Sciences facilities page" class=3D"" targe=
+t=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Scarlet=
+ Laser Facility photo" src=3D"https://gallery.mailchimp.com/39038225385d82=
+983c3c2081c/images/625c57b1-f4ed-4d95-a392-84d4cce68c40.jpg" width=3D"161"=
+ style=3D"max-width: 260px;padding-bottom: 0;display: inline !important;ve=
+rtical-align: bottom;border: 0;height: auto;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage2=
+=2Ecom/track/click?u=3D39038225385d82983c3c2081c&id=3D18379f1222&e=3D=
+1ef7dc45dc" title=3D"Link to YouVisit Ohio State campus tour" class=3D"" target=
+=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Columbu=
+s Campus ariel view" src=3D"https://gallery.mailchimp.com/39038225385d8298=
+3c3c2081c/images/65f76ebf-8635-4203-a803-feeeeb438b07.jpg" width=3D"161" s=
+tyle=3D"max-width: 260px;padding-bottom: 0;display: inline !important;vert=
+ical-align: bottom;border: 0;height: auto;outline: none;text-decoration: n=
+one;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage.=
+com/track/click?u=3D39038225385d82983c3c2081c&id=3Df0a898cb52&e=3D=
+1ef7dc45dc" title=3D"Link to College of Arts and Sciences FAQ page" class=3D"" ta=
+rget=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exact=
+ly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/39038225385d82983c3c2081c/images/a5cb58f=
+1-0f7d-4bf2-9f87-53d1e73636fc.png" width=3D"161" style=3D"max-width: 260px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;height: auto;outline: none;text-decoration: none;-ms-interpolation-mo=
+de: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                <td align=3D"center" valig=
+n=3D"top" style=3D"width:197px;" width=3D"197">
+                                                <![endif]-->
+                                                <div style=3D"display:inli=
+ne-block; vertical-align:top; width:197px;" class=3D"columnWidth">
+                                                <table align=3D"left" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"colum=
+nsContainer" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;max-width: 197px;">
+                                                    <tr>
+                                                        <td align=3D"cente=
+r" valign=3D"top" class=3D"rightColumnContainer" style=3D"mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage.=
+com/track/click?u=3D39038225385d82983c3c2081c&id=3De8d024f312&e=3D=
+1ef7dc45dc" title=3D"Link to Ohio State Honors and Scholars page" class=3D"" targ=
+et=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exactly=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Honors=
+ and Scholars Box" src=3D"https://gallery.mailchimp.com/39038225385d82983c=
+3c2081c/images/ee8f3056-97bb-4a6b-8a0e-5403e2482bad.png" width=3D"161" sty=
+le=3D"max-width: 260px;padding-bottom: 0;display: inline !important;vertic=
+al-align: bottom;border: 0;height: auto;outline: none;text-decoration: non=
+e;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage.=
+com/track/click?u=3D39038225385d82983c3c2081c&id=3Dfc741d42f0&e=3D=
+1ef7dc45dc" title=3D"Link to ASCENT spring 2015 issue" class=3D"" target=3D"_blan=
+k" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"ASCENT=
+ Cover image" src=3D"https://gallery.mailchimp.com/39038225385d82983c3c208=
+1c/images/eec4b8fb-b88e-47f2-8b2e-bb1f5cf8477d.png" width=3D"161" style=3D=
+"max-width: 260px;padding-bottom: 0;display: inline !important;vertical-al=
+ign: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms=
+-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" c=
+lass=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+
+                                    <a href=3D"http://osu.us2.list-manage1=
+=2Ecom/track/click?u=3D39038225385d82983c3c2081c&id=3D8dec9148b4&e=3D=
+1ef7dc45dc" title=3D"Link to Application Information page" class=3D"" target=3D"=
+_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img align=3D"left" alt=3D"Apply n=
+ow color box" src=3D"https://gallery.mailchimp.com/39038225385d82983c3c208=
+1c/images/111c9ebc-b1fb-4ade-8c11-4847fd37ffd3.png" width=3D"161" style=3D=
+"max-width: 260px;padding-bottom: 0;display: inline !important;vertical-al=
+ign: bottom;border: 0;height: auto;outline: none;text-decoration: none;-ms=
+-interpolation-mode: bicubic;" class=3D"mcnImage">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+                                                    </tr>
+                                                </table>
+                                                </div>
+                                                <!--[if gte mso 9]>
+                                                </td>
+                                                </tr>
+                                                </table>
+                                                <![endif]-->
+                                                <!-- // END INDIVIDUAL COL=
+UMNS -->
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                <!-- // END COLUMNS -->
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templateLowerBody" style=3D"mso-line-height-rule: exactly;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border=
+-top: 0;border-bottom: 0;">
+                                    <!-- BEGIN LOWER BODY // -->
+                                    <table align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"lo=
+werBodyContainer" style=3D"mso-line-height-rule: exactly;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"bo=
+rder-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;color: #333333;font-family: Helvetica;font-size: 15px;=
+line-height: 150%;text-align: left;">
+
+                            <p style=3D"margin: 1em 0;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #333333;font-family: Helvetica;font-size: 15px;line-height: 150%;text-ali=
+gn: left;">Want to learn more about The Ohio State University? Get in <a h=
+ref=3D"mailto:discoverasc@osu.edu" target=3D"_blank" style=3D"word-wrap: b=
+reak-word;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;color: #bb0000;font-weight: normal;text-decoration=
+: underline;">touch</a>&nbsp;or schedule a <a href=3D"http://osu.us2.list-=
+manage.com/track/click?u=3D39038225385d82983c3c2081c&id=3D9de00285eb&e=3D=
+1ef7dc45dc" target=3D"_blank" title=3D"Link to Ohio State Campus Visit pag=
+e" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;color: #bb0000;font-weight=
+: normal;text-decoration: underline;">tour</a> of the Columbus campus.&nbs=
+p;</p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END LOWER BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" id=3D"=
+templateFooter" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border-to=
+p: 0;border-bottom: 0;">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"fo=
+oterContainer" style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" style=3D"borde=
+r-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 11px;lin=
+e-height: 125%;text-align: center;">
+
+                            <em>Copyright =C2=A9 2015 The Ohio State Unive=
+rsity=2C All rights reserved.</em><br>
+ You are on this list because you've expressed an interest in attending a=
+ university.<br>
+<br>
+<strong>Our mailing address is:</strong><br>
+<div class=3D"vcard"><span class=3D"org fn">The Ohio State University</spa=
+n><div class=3D"adr"><div class=3D"street-address">154B Denney Hall</div><=
+div class=3D"extended-address">164 West 17th Avenue</div><span class=3D"lo=
+cality">Columbus</span>=2C <span class=3D"region">Oh</span>  <span class=
+=3D"postal-code">43201</span></div><br><a href=3D"http://osu.us2.list-mana=
+ge.com/vcard?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763" class=3D"hcard=
+-download">Add us to your address book</a></div>
+<br>
+<br>
+<a class=3D"utilityLink" href=3D"http://osu.us2.list-manage2.com/unsubscri=
+be?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc&c=3Dde2426c0=
+97" style=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-weigh=
+t: normal;text-decoration: underline;">unsubscribe from this list</a>&nbsp=
+;&nbsp;&nbsp; <a class=3D"utilityLink" href=3D"http://osu.us2.list-manage1=
+=2Ecom/profile?u=3D39038225385d82983c3c2081c&id=3D9dda3fe763&e=3D1ef7dc45dc" s=
+tyle=3D"word-wrap: break-word;mso-line-height-rule: exactly;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-weight: no=
+rmal;text-decoration: underline;">update subscription preferences</a>&nbsp=
+;<br>
+<br>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 11px;lin=
+e-height: 125%;text-align: center;">
+
+                            <a href=3D"http://osu.us2.list-manage.com/trac=
+k/click?u=3D39038225385d82983c3c2081c&id=3D2c6ae44889&e=3D1ef7dc45dc" tar=
+get=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-rule: exactl=
+y;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060=
+;font-weight: normal;text-decoration: underline;"><img align=3D"right" alt=
+=3D"Link to Youtube" height=3D"32" src=3D"https://gallery.mailchimp.com/39=
+038225385d82983c3c2081c/images/3f2ba19d-9d8c-4672-86f0-d1d7cf4699eb.png" s=
+tyle=3D"width: 32px;height: 32px;margin: 0px;border: 0;outline: none;text-=
+decoration: none;-ms-interpolation-mode: bicubic;" width=3D"32"></a><a hre=
+f=3D"http://osu.us2.list-manage.com/track/click?u=3D39038225385d82983c3c20=
+81c&id=3D35d05a89fa&e=3D1ef7dc45dc" target=3D"_blank" style=3D"word-wrap:=
+ break-word;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webk=
+it-text-size-adjust: 100%;color: #606060;font-weight: normal;text-decorati=
+on: underline;"><img align=3D"right" alt=3D"Link to facebook" height=3D"32=
+" src=3D"https://gallery.mailchimp.com/39038225385d82983c3c2081c/images/35=
+4a36bd-d47a-4ef4-8042-4bfe1777bcf4.png" style=3D"width: 32px;height: 32px;=
+margin: 0px 5px;border: 0;outline: none;text-decoration: none;-ms-interpol=
+ation-mode: bicubic;" width=3D"32"></a><a href=3D"http://osu.us2.list-mana=
+ge.com/track/click?u=3D39038225385d82983c3c2081c&id=3D38b8257ed9&e=3D=
+1ef7dc45dc" target=3D"_blank" style=3D"word-wrap: break-word;mso-line-height-r=
+ule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;col=
+or: #606060;font-weight: normal;text-decoration: underline;"><img align=3D=
+"right" alt=3D"Twitter Link" height=3D"32" src=3D"https://gallery.mailchim=
+p.com/39038225385d82983c3c2081c/images/8d5281d2-ce54-4525-b6f4-df4d6c39f17=
+6.png" style=3D"width: 32px;height: 32px;margin: 0px;border: 0;outline: no=
+ne;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"32"></=
+a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</table>
+=09=09</center>
+=09<img src=3D"http://osu.us2.list-manage.com/track/open.php?u=3D390382253=
+85d82983c3c2081c&id=3Dde2426c097&e=3D1ef7dc45dc" height=3D"1" width=3D"1"=
+></body>
+</html>
+--_----------=_MCPart_973923670--

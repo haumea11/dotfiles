@@ -1,0 +1,501 @@
+Received: from BY2PR01MB394.prod.exchangelabs.com (10.141.140.16) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.415.9 via Mailbox Transport; Mon, 29 Feb 2016 01:00:06 +0000
+Received: from BL2PR01CA0051.prod.exchangelabs.com (10.141.66.51) by
+ BY2PR01MB394.prod.exchangelabs.com (10.141.140.16) with Microsoft SMTP Server
+ (TLS) id 15.1.415.9; Mon, 29 Feb 2016 01:00:05 +0000
+Received: from BY2FFO11OLC010.protection.gbl (2a01:111:f400:7c0c::175) by
+ BL2PR01CA0051.outlook.office365.com (2a01:111:e400:c1b::51) with Microsoft
+ SMTP Server (TLS) id 15.1.427.11 via Frontend Transport; Mon, 29 Feb 2016
+ 01:00:04 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.216)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.216 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.216; helo=cio-tnc-pf02.osuad.osu.edu;
+Received: from cio-tnc-pf02.osuad.osu.edu (164.107.81.216) by
+ BY2FFO11OLC010.mail.protection.outlook.com (10.1.15.21) with Microsoft SMTP
+ Server (TLS) id 15.1.422.5 via Frontend Transport; Mon, 29 Feb 2016 01:00:04
+ +0000
+Received: from CIO-TNC-HT05.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf02.osuad.osu.edu (Postfix) with ESMTPS id 6898E2004F
+	for <markiewicz.22@buckeyemail.osu.edu>; Sun, 28 Feb 2016 20:00:03 -0500 (EST)
+Received: from CIO-KRC-D1MBX06.osuad.osu.edu ([fe80::9d4a:ba1e:a193:155d]) by
+ CIO-TNC-HT05.osuad.osu.edu ([fe80::d0be:603:484c:5a2f%10]) with mapi id
+ 14.03.0248.002; Sun, 28 Feb 2016 20:00:02 -0500
+From: NickB <esue-telecounselor12@osu.edu>
+To: "Markiewicz, John A." <markiewicz.22@buckeyemail.osu.edu>
+Subject: Congrats from Ohio State!
+Thread-Topic: Congrats from Ohio State!
+Thread-Index: AdFyjFe+5A5xWKclQl2eZYqF//3b3Q==
+Date: Mon, 29 Feb 2016 01:00:02 +0000
+Message-ID: <4C9564A2D21D4D4EA2A5316A0E6BD5C8797372B9@CIO-KRC-D1MBX06.osuad.osu.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [164.107.137.150]
+Content-Type: multipart/alternative;
+	boundary="_000_4C9564A2D21D4D4EA2A5316A0E6BD5C8797372B9CIOKRCD1MBX06os_"
+X-CFilter-Loop: Reflected
+Return-Path: esue-telecounselor12@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: a560958d-581d-4da2-d717-08d340a3a916
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Microsoft-Exchange-Diagnostics: 1;BY2FFO11OLC010;1:MqY59kwjC2v6iwFwQYMV0xPMMVU8SXQZ+ulQKolr8PyPv4/EOt0FzRqrpnaDNTS7khjwinNGMpTPlvQHsbVLK9tEoGFUAlQrHdoMAaxVr0BOpW6wR18g1Z1RQ+Hh7IYf3ygblcm8bS4pDDE/x520Ks7WR++HyOq884zml/y+FOKS+axYuhL413ZrC/aBKMNPazpJXBzN6D2/DTOavSnp71pR0OhjE+l4VmtKQTQCxpTxoO0Q0PV6yMZUOaG4CTzh7K3J2jn+bJU5BAGJZH+jVF0USuXkmVrVTmnzEi3sI8+REIxQws3Y6HHcRyDv8VSsTS+F+PYzH6pQmw994KnFnH/gCfGq6J8VQTRZYfw9ti1RA+gANw0fsga/zOyj8Qh/dRltsi8RqjLujDuFYR1lEeHXwTAHoJUHTds3c0awaEfCCRnS4ui6WANrB58eHhaJnjta0hLOqviJ01TJE1/gq6VkySTtvxXiQMDNpCtW4ew=
+X-Forefront-Antispam-Report: CIP:164.107.81.216;CTRY:US;IPV:NLI;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(3190300001)(199003)(51694002)(189002)(107886002)(6116002)(790700001)(102836003)(1220700001)(5004730100002)(16796002)(586003)(3846002)(84326002)(90282001)(92566002)(5003600100002)(86362001)(189998001)(110136002)(50986999)(300700001)(512954002)(106466001)(229853001)(226693001)(260700001)(87936001)(54356999)(109096001)(6806005)(15975445007)(55846006)(5008740100001)(89122001)(5250100002)(11100500001)(2920100001)(2900100001)(66066001)(93346002)(2930100002)(16236675004)(19625215002)(33656002)(19617315012)(450100001)(19580405001)(3480700003)(2171001)(88552002)(19300405004)(5880100001)(75432002)(19580395003)(7059030);DIR:INB;SFP:;SCL:1;SRVR:BY2PR01MB394;H:cio-tnc-pf02.osuad.osu.edu;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB394;2:Nxplsa2b1tGDabLP0PpfMmRriaUZ+v2SrJLnn+WA1pUBmu2YNq8Ragtj6B4Ufc4XSWYY6QQv/tt1xYcIfs4kf043UqEaLJ8ynUhWFhYtHF+rQKDX/dNueGG8Sp8STqP4e31eSOsU6hcacl48MCbRtw==;3:VMB92jiBjyNvjGQYUAiYu/r7uGW/31SHueWSxiH8uzBSK+3/CB95Klag9Ej16GO5l2faaqNJLX0Y6o7Km1YaMzbj1p3CW/rosHvuEf0OEpvfKEzcWd4d2Nd4QTeDe8gJQ1yxPElSl818qJBmnVprQi5INeHuJRoFIHedFm4Y0tgVX2Q0Ujkl4xoRxAgBobLSjgLjVXxyA4lcpcriiY+jQtClaBO5H/oP7zYNz4M24H+Y7FeXRZ8DE3nLo77R18ln9/tQ1/BHpkzY8swGrFt3Jg==;25:PSsy3Q+a45tjDb2Z0nuA1T09vMx5ViERsQPWveoqMKdivJZcEPE2zvk42BzwgRDbxtA1mal5O2aFH7UbOHa5G7R5mDKEhLwKoRE9NW4IJiDcdlTUITCxFG9ucCrZpXQSztbW37Q5WFcrI9Z1D4FHlyve3YlqxB2YIi96QZgBZBzyqQ4GePCT4X6gB8bJnkr59C3yFFCYb+xxsHv4LphQNKU47qyRqbwnmXJJJ5QdDIFwx6jhU7AMV+JEPCeEPITJX1qyg41qD+OPQ4b67VM2YGvQjYk/F6f3n55bYpfGzAtKm/pOJ4dQ0w0sc5erT6/vT3C8wvlIXra6ELMpaC/7T46UUIFyRtD86ui6d0rg//dzjyuHNevdjPHuopYKwz/gc+uvxUPqNnleEEmyau0emw==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501001);SRVR:BY2PR01MB394;
+X-MS-Office365-Filtering-Correlation-Id: a560958d-581d-4da2-d717-08d340a3a916
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB394;20:JBVe6V4pCaBlF72ow2n1cj7CKAJa4M/R66WMq1VwT2YFEIyMUe0EnISI+YUl9NPp1hHO34Z0NaoUvwj2z9shywvmIcS9JQ6GmyN3dqUxrUWOXjcJBe44leDuXXHcBoOxNlRjcup9e8q443tXDVcMNU9n5VK27aDd2OihqQ/s4v2W+a48LsbEvT/fOgbOZAG0+HWGwvgIbkRtNTwdi1/QFXuztPKqHwiE0a55FCyd3Pgva/WDC5NnjE06vhyTYM1kQVQsn0TQVhd7Yp34BEYEPsxpI1fOAYyvSLilFejpD3P1chHLcln5KdKJUicTCZ1FYA6/XjLEQy2VX1Po9fc2Os6n+vsEfGC+IxupuI6W3+V5zi9WmvsayxSHjHwg7p/cpOYUv2yq3Az4VrvJiN3VNVPRbb/rF+eNflVYVuF2TgBXVjfM2I6Q56A/Dbv69cvYtjJzghhhUl2jdy25LKcV0Y96eCjCg3LS9xDA4SBNkBCPc9yXSBnkkDzULkkf6LpJ
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(13015025)(8121501046)(13024025)(13017025)(13023025)(13018025)(10201501046)(3002001);SRVR:BY2PR01MB394;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB394;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB394;4:xppKAdqo20XML2J9TS70DCgWMKk/CpbK82lLh64/askAHjKy/A5qTrlpcPd5TnLpj6Q1/vbNo3OalhllJDlOu+YxL0r3LnOO1YXXrPrktSFGbP6aCc4FMb4rUTwwbRCxFOa/kZggON+Sat5Q3gskJ1QzsPN+of8iYUwYctRx0xoZsv63HUDTuLRsSaAv6DgLyCVnV2UC3kRk9wmGOTDDhuVBomJ7C7QnN5d2QKlh9ad/4SjxX1/sr6pTqygs+gLb+J1hvPb44lHzLO4XyIRnbqYcaaKqe5qKU8/GQ8kgXiZ6V/WNIVfQqMXf22jClyCYIDQLC0ybyv+2V8VO17fz8qqyFqnVIsTThf7YgHCJkDrKjals5IncG5VopHFar8mnb8yntezzuMQtVoiYePahluxJ6aBufSzF7vqL8qXYnpEUwhQJygclc4OfN/LvMnhxihOGWENVZyj7YZdQUz356cLBO0+oAs+vvWhTvPTB9rw=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BY2PR01MB394;23:jR+QoDKG3eMgYPaS6Uf80vKCtxFLoGfZXrCARgDX7b?=
+ =?us-ascii?Q?S12bJVJygOj/mlLNUrAfjlz6PdHyY/0QFwYwES55JD9+5HvA0iWVGJILSDZu?=
+ =?us-ascii?Q?O8/UV/c7xslmBfL3N6GuqzgLXxZxepjPeqkCpEcA2+9N0XXC8W25Negy4nHe?=
+ =?us-ascii?Q?caBkLY/oidmhd/9PDyYbKoPZQylt8wWOIZOZ7WGtdarzuRSeeJmA+wkiJ2a2?=
+ =?us-ascii?Q?UgW46JvRHiizzK6fflZeNMN3APQqmRkvITPz4mzSIRcln74oM/BpKYVeSuc+?=
+ =?us-ascii?Q?JKw+olOS0emQua0Naw8v0OspcOumkB5BaIHJjLPRQy+BGJ0Vzl64UYknUjHS?=
+ =?us-ascii?Q?mVekzOr7cxNhtn2l77jNukEcVvWsb6omk+UvyLwhGsLpJL5x20ZOpa51NWs+?=
+ =?us-ascii?Q?oP5EmfdBu0gFmAQgQ0cUAWun7TX0bUMEslIJzZFXxPeP8AIT8XcKwXlwSTDz?=
+ =?us-ascii?Q?B+fCUpK4yJeNCg8PNdsq1//PwaomYAi0KcBWFU/ZJ5jV253x0LWX6WxJIwqL?=
+ =?us-ascii?Q?gXrjT4E6oifVcV2rrsTo8gxydXgNiI5ZTEw1p6YPMB7eOAZOSzVIibs+2JsY?=
+ =?us-ascii?Q?Sr7xNvHsyWYnuagQskUs9rxJUsGM947w417oWYGecUMLmF/ZMzG4Gphbgivx?=
+ =?us-ascii?Q?Wwq8o9YjU3k9LYBfHdMz7XJFLwafjWWJfpYOac1Jbbp5nIX+Qo4a7J8vOXnc?=
+ =?us-ascii?Q?C3CJsWoT+ZaRbkgCb5MLUDQVev9w3DoEFJ1omMvbzxYDj8N/eLmQqr8eooUg?=
+ =?us-ascii?Q?IzEwAeFfzU4Y/0fsV/4XXaW+blfTkiGc9UJliZCWxtIOgbCl2en+FZBqDhPI?=
+ =?us-ascii?Q?QvEY9FVINzkPHR2dVyDzT9Y/aHKZiMiXH1TE8bKBWPb5SaqbWPG8SZ2kOuYV?=
+ =?us-ascii?Q?4k20PzNmjZ/rePfC7JA1O+nBYBsSWDycSEjBZdH8q8smCnVYvM+Ye/YY+jmR?=
+ =?us-ascii?Q?uSVaISntV8b02BjEjmvMZExEBi7saZmOElw1sU5Zb8qFkhTX08WWC6XTsk2I?=
+ =?us-ascii?Q?CyZqazolWGL5z4JGo3ENXJgyJAgZKf/+j0QD60PrZrAuhyZXQO+oIadL+wSg?=
+ =?us-ascii?Q?hBaUuc/l8Bjr+0xeo/jVWLxpDuQE1rOVsEkgA24qBEYFKS3AomEyK8lG45PU?=
+ =?us-ascii?Q?Ubax1F0f56MziztLr3EZDNzSnKB0maMO4vt/+ZLUPXq7bge7BK6EpYpGNc/f?=
+ =?us-ascii?Q?WEt/zwQNVOgXa2GAAeoz3U0ypiUrg7PthSmKDJoo9UyhCL9BRzJ2lMZMuob+?=
+ =?us-ascii?Q?1URdRnc2/e/agm915eMgxNwCnIz/7JRXP9hBBytI5M5URLnmvDhxID5AfmSc?=
+ =?us-ascii?Q?/NsMRwkpVrn0HyHuKrd+6uz2PsCEI2b2FvWugUKYctyFbmcvlb/EqZu+1CQK?=
+ =?us-ascii?Q?DA7IU1eFaRdNTowj+DFq1TiS1ltyJYUUylM4DKW+Ov94WeF0be/CIcUq+BSj?=
+ =?us-ascii?Q?mpXeOSPpPON7VT2Truysyw/Lr7y3qehyl9aj2teVsNwf7/aMUHw3Np6J57wS?=
+ =?us-ascii?Q?Toks13Av2u/BIjXFPdGyrP294/VIssBbs=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB394;5:039C2b0Xu2g1vMUCFGSHSF04/WRR85HB0tq0Lr5mCWzSutenWZ+TD9NrVA9pfvDBcy01haBlZ4fArJpXKQm87R3uoec5XS57pEipMkUmEFO1MIse2pZqLazmHVK9qRhBZnQ2hmeGzrP4IFfEk1ac2A==;24:e0dxFb/8fO+Corppk5UANzD2aClckk2UeIhpl6q2iajbwTckpa0Ku6x0JgVa8kEdBgP6dORZha59/GIaHfbE0dSdptAKPiScTa1j/dmImHA=;20:gFT69x7zQ53uWvBJrIsePZ3D+v9sj+UFZGHl5fQS8lgtWjlJ5Dn1eZF7nQKIOsia8Putpz9P2v0SraEXlOBQjY75H3f+aAx+gLe6oGbAC7NF44AvxsLpTvRCbIaUT+rnzjr4J/WGxT0NUb/Im7mCowg70h4xWGEgb/17v900WV4=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 29 Feb 2016 01:00:04.8349
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.216];Helo=[cio-tnc-pf02.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB394
+X-MS-Exchange-Organization-AuthSource: BY2FFO11OLC010.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.0961255
+MIME-Version: 1.0
+
+--_000_4C9564A2D21D4D4EA2A5316A0E6BD5C8797372B9CIOKRCD1MBX06os_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hey, John!
+
+It was great talking to you today! Congratulations, again, on your admissio=
+n to Ohio State! We are so excited that you could become a Buckeye in Autum=
+n 2016! I just wanted to give you a re-cap of some of the things we discuss=
+ed on the phone.
+Information about your intended major:
+Computer and Information Science
+Computer and Information Science: http://majors.osu.edu/pdfview.aspx?id=3D3=
+8
+Department of Computer Science and Engineering: http://www.cse.ohio-state.e=
+du/
+While you are a student:
+- Students can choose to work towards a Bachelor of Arts or Bachelor of Sci=
+ence in Computer and Information Science! Students are admitted as pre-CIS =
+majors.
+- Students can participate in the BS/MS program which allows them to start =
+their Master's in Computer Science during their senior year with classes co=
+unting for both their BS/MS.
+
+
+  *   Some of the amazing opportunities available to Buckeyes:
+     *   Consider doing undergraduate research<http://www.undergraduaterese=
+arch.osu.edu/>
+     *   Find an internship/co-op or campus job with Buckeye Careers<http:/=
+/careers.osu.edu/>
+     *   Experience all that Columbus<http://www.experiencecolumbus.com/> h=
+as to offer - events, food and history
+     *   Join one of 1,000+ student organizations<http://ohiounion.osu.edu/=
+get_involved/student_organizations/directory> to meet people similar to you
+     *   Stay active in OSU's many recreational sports and facilities<http:=
+//www.recsports.osu.edu/>
+     *   Get connected to additional resources and other new students with =
+First Year Experience<http://fye.osu.edu/>
+     *
+  *   The next steps in our admissions process:
+        *   Housing<https://housing.osu.edu/living-on-campus/> and Orientat=
+ion<http://fye.osu.edu/orientation.html>, which will be sent in the spring =
+in the order we receive acceptance fees.
+        *   Football ticket<http://www.ohiostatebuckeyes.com/> ordering inf=
+ormation, which will be sent in early June.
+     *   Pay your $100 nonrefundable acceptance fee. Although it is not due=
+ until May 1st, it is a good idea to send this in as soon as you know you w=
+ant to come to OSU so that you get housing and Orientation information as s=
+oon as possible.
+If you're interested, I'd love to know what you thought about our conversat=
+ion. Click here<https://osu.az1.qualtrics.com/SE/?SID=3DSV_eeAxtjK16RqIVZr>=
+ for a brief survey so that I can continue to improve myself in helping oth=
+er prospective students like you.
+Enjoy the rest of your senior year and congrats on your OSU acceptance!
+Go Bucks!
+Nick
+Psychology, Sociology
+Class of 2016
+Enrollment Services Undergraduate Admissions
+340 SAS Building, 281 W Lane Ave, Columbus, OH 43210
+(614) 292-4044
+askabuckeye@osu.edu<mailto:askabuckeye@osu.edu>
+
+
+--_000_4C9564A2D21D4D4EA2A5316A0E6BD5C8797372B9CIOKRCD1MBX06os_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Rockwell Extra Bold";
+	panose-1:2 6 9 3 4 5 5 2 4 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:143814749;
+	mso-list-template-ids:-690062878;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Hey,
+<span style=3D"color:red">John</span>!<br>
+<br>
+It was great talking to you today! Congratulations, again, on your admissio=
+n to Ohio State! We are so excited that you could become a Buckeye in Autum=
+n 2016! I just wanted to give you a re-cap of some of the things we discuss=
+ed on the phone.
+<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Information about your intended major:
+<o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><strong><u><span style=3D"font-size:14.0pt;font-family:&quot;Arial=
+&quot;,&quot;sans-serif&quot;">Computer and Information Science
+</span></u></strong><span style=3D"font-family:&quot;Times New Roman&quot;,=
+&quot;serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><span style=3D"font-size:8.0pt;font-family:&quot;Arial&quot;,&quot=
+;sans-serif&quot;">Computer and Information Science:
+</span><a href=3D"http://majors.osu.edu/pdfview.aspx?id=3D38"><span style=
+=3D"font-size:8.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">h=
+ttp://majors.osu.edu/pdfview.aspx?id=3D38</span></a><span style=3D"font-siz=
+e:8.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+</span><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><i><span style=3D"font-size:8.0pt;font-family:&quot;Arial&quot;,&q=
+uot;sans-serif&quot;">Department of Computer Science and Engineering:
+</span></i><a href=3D"http://www.cse.ohio-state.edu/"><i><span style=3D"fon=
+t-size:8.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">http://w=
+ww.cse.ohio-state.edu/</span></i></a><i><span style=3D"font-size:8.0pt;font=
+-family:&quot;Arial&quot;,&quot;sans-serif&quot;">
+</span></i><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto"><b><span style=3D"=
+font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">While=
+ you are a student:
+</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&q=
+uot;sans-serif&quot;">-</span></b>
+<b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;">Students can choose to work towards a Bachelor of Arts or Bach=
+elor of Science in Computer and Information Science! Students are admitted =
+as pre-CIS majors.</span></b><o:p></o:p></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&q=
+uot;sans-serif&quot;">-</span></b><span style=3D"font-size:9.0pt;font-famil=
+y:&quot;Arial&quot;,&quot;sans-serif&quot;">
+<b>Students can participate in the BS/MS program which allows them to start=
+ their Master&#8217;s in Computer Science during their senior year with cla=
+sses counting for both their BS/MS.
+</b></span><br>
+<br>
+<o:p></o:p></p>
+<ul type=3D"square">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level1 lfo1">
+Some of the amazing opportunities available to Buckeyes:<span style=3D"font=
+-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p><=
+/o:p></span>
+<ul type=3D"circle">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level2 lfo1">
+Consider doing <a href=3D"http://www.undergraduateresearch.osu.edu/"><span =
+style=3D"color:blue">undergraduate research</span></a><span style=3D"font-s=
+ize:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p></o=
+:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso=
+-margin-bottom-alt:auto;mso-list:l0 level2 lfo1">
+Find an internship/co-op or campus job with <a href=3D"http://careers.osu.e=
+du/"><span style=3D"color:blue">Buckeye Careers</span></a><span style=3D"fo=
+nt-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p=
+></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto=
+;mso-margin-bottom-alt:auto;mso-list:l0 level2 lfo1">
+Experience all that <a href=3D"http://www.experiencecolumbus.com/"><span st=
+yle=3D"color:blue">Columbus</span></a> has to offer &#8211; events, food an=
+d history
+<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-ma=
+rgin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level2 lfo1">
+Join one of 1,000&#43; <a href=3D"http://ohiounion.osu.edu/get_involved/stu=
+dent_organizations/directory">
+<span style=3D"color:blue">student organizations</span></a> to meet people =
+similar to you<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quo=
+t;,&quot;sans-serif&quot;"><o:p></o:p></span></li><li class=3D"MsoNormal" s=
+tyle=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 leve=
+l2 lfo1">
+Stay active in OSU&#8217;s many <a href=3D"http://www.recsports.osu.edu/" t=
+itle=3D"http://www.recsports.osu.edu/">
+<span style=3D"color:blue">recreational sports and facilities</span></a><sp=
+an style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-ser=
+if&quot;"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margi=
+n-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level2 lfo1">
+Get connected to additional resources and other new students with <a href=
+=3D"http://fye.osu.edu/">
+<span style=3D"color:blue">First Year Experience</span></a><span style=3D"f=
+ont-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:=
+p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:aut=
+o;mso-margin-bottom-alt:auto;mso-list:l0 level2 lfo1">
+<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-=
+serif&quot;"><o:p>&nbsp;</o:p></span></li></ul>
+</li><li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bo=
+ttom-alt:auto;mso-list:l0 level1 lfo1">
+The next steps in our admissions process:<span style=3D"font-size:12.0pt;fo=
+nt-family:&quot;Verdana&quot;,&quot;sans-serif&quot;"><o:p></o:p></span>
+<ul type=3D"circle">
+<ul type=3D"square">
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level3 lfo1">
+<u><span style=3D"color:blue"><a href=3D"https://housing.osu.edu/living-on-=
+campus/"><span style=3D"color:blue">Housing</span></a></span></u> and
+<a href=3D"http://fye.osu.edu/orientation.html"><span style=3D"color:blue">=
+Orientation</span></a>,<b>
+</b>which will be sent in the spring in the order we receive acceptance fee=
+s.<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;san=
+s-serif&quot;"><o:p></o:p></span></li><li class=3D"MsoNormal" style=3D"mso-=
+margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level3 lfo1">
+<a href=3D"http://www.ohiostatebuckeyes.com/"><span style=3D"color:blue">Fo=
+otball ticket</span></a> ordering information, which will be sent in early =
+June.<span style=3D"font-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;=
+sans-serif&quot;"><o:p></o:p></span></li></ul>
+<li class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:auto;mso-list:l0 level2 lfo1">
+Pay your $100 nonrefundable acceptance fee. Although it is not due until <b=
+>May 1<sup>st</sup></b>, it is a good idea to send this in as soon as you k=
+now you want to come to OSU so that you get housing and Orientation informa=
+tion as soon as possible.<span style=3D"font-size:12.0pt;font-family:&quot;=
+Verdana&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></li></ul>
+</li></ul>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b>If you&#8217;re interested, I&#8217;d love to know what you tho=
+ught about our conversation. Click
+<a href=3D"https://osu.az1.qualtrics.com/SE/?SID=3DSV_eeAxtjK16RqIVZr"><spa=
+n style=3D"color:blue">here</span></a> for a brief survey so that I can con=
+tinue to improve myself in helping other prospective students like you.</b>=
+<b><span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,=
+&quot;serif&quot;"><o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto">Enjoy the rest of your senior year and congrats on your OSU accept=
+ance!<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot=
+;,&quot;serif&quot;"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;mso-line-height-alt:13.15pt;background:white">
+<b><span style=3D"font-size:16.0pt;color:black">Go&nbsp;</span></b><b><span=
+ style=3D"font-size:16.0pt;color:#C00000">B</span></b><b><span style=3D"fon=
+t-size:16.0pt;color:gray">u</span></b><b><span style=3D"font-size:16.0pt;co=
+lor:#C00000">c</span></b><b><span style=3D"font-size:16.0pt;color:gray">k</=
+span></b><b><span style=3D"font-size:16.0pt;color:#C00000">s</span></b><b><=
+span style=3D"font-size:16.0pt;color:black">!</span></b><span style=3D"font=
+-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:b=
+lack"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;mso-line-height-alt:13.15pt;background:white">
+<b><span style=3D"font-size:20.0pt;font-family:&quot;Rockwell Extra Bold&qu=
+ot;,&quot;serif&quot;;color:#C00000">Nick</span></b><span style=3D"font-siz=
+e:12.0pt;font-family:&quot;Rockwell Extra Bold&quot;,&quot;serif&quot;;colo=
+r:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:13.15pt;background:white">
+<span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-ser=
+if&quot;;color:#333333">Psychology, Sociology<br>
+Class of 2016<br>
+</span><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;s=
+ans-serif&quot;;color:#BB0000">Enrollment Services</span><span style=3D"fon=
+t-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;color:#33=
+3333">&nbsp;Undergraduate&nbsp;</span><span style=3D"font-size:9.0pt;font-f=
+amily:&quot;Arial&quot;,&quot;sans-serif&quot;;color:black">Admissions&nbsp=
+;</span><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;=
+sans-serif&quot;;color:#333333"><br>
+340 SAS Building, 281 W Lane Ave, Columbus, OH 43210</span><span style=3D"f=
+ont-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;colo=
+r:black"><br>
+</span><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;s=
+ans-serif&quot;;color:#333333">(614) 292-4044</span><span style=3D"font-siz=
+e:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:black=
+"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;line-height:13.15pt;background:white">
+<u><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-=
+serif&quot;;color:blue"><a href=3D"mailto:askabuckeye@osu.edu"><span style=
+=3D"color:blue">askabuckeye@osu.edu</span></a></span></u><span style=3D"fon=
+t-size:12.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;color:=
+black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_4C9564A2D21D4D4EA2A5316A0E6BD5C8797372B9CIOKRCD1MBX06os_--

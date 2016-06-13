@@ -1,0 +1,239 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp939450oid;
+        Thu, 2 Jul 2015 16:02:14 -0700 (PDT)
+X-Received: by 10.129.102.213 with SMTP id a204mr5783367ywc.19.1435878134801;
+        Thu, 02 Jul 2015 16:02:14 -0700 (PDT)
+Return-Path: <bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com>
+Received: from mail.jetpens.com (mail.jetpens.com. [198.2.132.221])
+        by mx.google.com with ESMTPS id x66si4961784ywb.70.2015.07.02.16.02.14
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 02 Jul 2015 16:02:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com designates 198.2.132.221 as permitted sender) client-ip=198.2.132.221;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com designates 198.2.132.221 as permitted sender) smtp.mail=bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com;
+       dkim=pass header.i=@jetpens.com;
+       dkim=pass header.i=@mandrillapp.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=jetpens.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=jetpens@jetpens.com;
+ bh=au0iW4x5zYoU1e7R0UxG1kiPSRk=;
+ b=qRxC27hjSYt4j3ByF6N6HR3P1WMsGgrfC3AlMqm+5WRGIT32BAE9hpunZnwb5V6IHYxlir9TjxcM
+   DpRoyW4Z9LfdwV4Z/fxv677UIm3ChWtWS9lJgH2b6cWJIVnXxbBddFNbd5KD4hluaLp4EvCxTBGQ
+   hKZAXIhucBj7Jxa69f4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=jetpens.com;
+ b=LRMjd8uu+hatlepysd/UDmKytj0CfBhKluM8vks4Dc6aOEYnF3zZf03QTwVVAS7KiKhpfsQbqwEI
+   Au4uVXVy2RpPTmanqewApTQYUbNRdWDilQv1ufwmaQEZ7g2bH1XPyTtx7mjvv7sz55IXwlpkyBe3
+   fbvPkG4oGMiNw1A4Pn0=;
+Received: from pmta02.mandrill.prod.atl01.rsglab.com (127.0.0.1) by mail.jetpens.com id hin1fc1sar8i for <kuiperhaumea@gmail.com>; Thu, 2 Jul 2015 23:02:12 +0000 (envelope-from <bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1435878131; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=uGbCAfF3NJb1R24718D5EPA8Ii4OHBpmvuNDMp2BhFQ=; 
+ b=LUVb4GQGiHsNQfzkWS3EsGevIWn30KJYqaRZEyADCNuUacZmuXnlXChgmL0e8EdGBFnFjG
+ l+TvjWrRZ9/VlH3IYpVdPlZJNdgCrZFRwRypuELE88RQvuOuw4XH/8gFTeueE81gA74CmLhc
+ UIymyUZiiej2X5tH73/aNEgjkQAzk=
+From: JetPens <jetpens@jetpens.com>
+Subject: JetPens Order 867913 - How Were Your Recent Purchases?
+Return-Path: <bounce-md_30155893.5595c2f3.v1-4765aaf82cb743a48139f4bc417f4438@mandrillapp.com>
+Received: from [209.68.59.94] by mandrillapp.com id 4765aaf82cb743a48139f4bc417f4438; Thu, 02 Jul 2015 23:02:11 +0000
+To: <kuiperhaumea@gmail.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30155893.4765aaf82cb743a48139f4bc417f4438
+X-Mandrill-User: md_30155893
+Message-Id: <30155893.20150702230211.5595c2f3eddc57.51224495@mail.jetpens.com>
+Date: Thu, 02 Jul 2015 23:02:11 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-cG74VZy2BG-5rXdLXtOG0Q"
+
+--_av-cG74VZy2BG-5rXdLXtOG0Q
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ <http://www.jetpens.com>       Dear John,
+ 
+ Thank you for you recent order with JetPens! How do you like your new
+goodies? We wanted to make sure that everything arrived safely and in good
+condition. 
+ 
+ We'd love to know what you think about the products you ordered. Click
+here
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request>
+or on the products below to post a review! Your feedback helps the JetPens
+community.
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D13346>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D5361>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D6793>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D7475>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D5532>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D50>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D5933>
+<https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medi=
+um=3Demail&utm_source=3Dreview_request&products_id=3D5921>
+
+ 
+ Thank you!
+ Your Friends at JetPens          *Copyright =C2=A92015 PCOW, Inc., All rig=
+hts
+reserved.*
+
+ *Our mailing address is:*
+ JetPens.com
+ 2050 Gateway Place Suite 100-184
+ San Jose, CA 95110
+
+--_av-cG74VZy2BG-5rXdLXtOG0Q
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" styl=
+e=3D"padding:0;background-color:#DCDFCA;border-radius:8px;font-size:11px;fo=
+nt-family:Arial;" align=3D"center">
+  <tr><td align=3D"center">
+    <table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" a=
+lign=3D"center" style=3D"background-color:none;">
+
+      <tr><td class=3D"Newsletter_View_Element_Header" style=3D"padding: 10=
+px 0px 0px 0px;">
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"10" border=3D"0" styl=
+e=3D"background-color:#F8F8EE;">
+  <tr>
+    <td style=3D"text-align:left;width:600px;padding:0px 0px 0px 0px;"><a h=
+ref=3D"http://www.jetpens.com" style=3D"color: #6DC6DD;"><img border=3D"0" =
+alt=3D"JetPens.com" title=3D"JetPens.com" src=3D"http://static1.jetpens.com=
+/images/a/000/062/62939.png"></a></td>
+  </tr>
+</table></td></tr>
+
+      <tr><td style=3D"padding: 10px 0px 0px 0px;">
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"10" border=3D"0" styl=
+e=3D"background-color:white;">
+  <tr>
+    <td style=3D"text-align:left;width:600px;padding:15px 17px;font-size:12=
+px;line-height:18px;">
+    Dear John,<br />
+<br />
+Thank you for you recent order with JetPens! How do you like your new goodi=
+es? We wanted to make sure that everything arrived safely and in good condi=
+tion. <br />
+<br />
+We'd love to know what you think about the products you ordered. Click <a h=
+ref=3D"https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&ut=
+m_medium=3Demail&utm_source=3Dreview_request">here</a> or on the products b=
+elow to post a review! Your feedback helps the JetPens community.<br />
+<br />
+<div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a href=3D"http=
+s://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medium=3D=
+email&utm_source=3Dreview_request&products_id=3D13346"><img title=3D"Pilot =
+Hi-Tec-C Coleto Lumio 4 Color Gel Ink Multi Pen Body Component - Pearl Whit=
+e" alt=3D"Pilot Hi-Tec-C Coleto Lumio 4 Color Gel Ink Multi Pen Body Compon=
+ent - Pearl White" style=3D"width:130px;height:130px;border: 1px solid #eee=
+;padding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);-webkit-box-sh=
+adow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px 1px 5px rgba(0, 0, 0, .=
+1);" src=3D"http://static.jetpens.com/images/a/000/066/66070.jpg"/></a></di=
+v><div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a href=3D"ht=
+tps://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medium=
+=3Demail&utm_source=3Dreview_request&products_id=3D5361"><img title=3D"Koku=
+yo Systemic Refillable Notebook Cover - A6 (4.1&quot; X 5.8&quot;) - Khaki =
+/ Navy" alt=3D"Kokuyo Systemic Refillable Notebook Cover - A6 (4.1&quot; X =
+5.8&quot;) - Khaki / Navy" style=3D"width:130px;height:130px;border: 1px so=
+lid #eee;padding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);-webki=
+t-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px 1px 5px rgba(0,=
+ 0, 0, .1);" src=3D"http://static1.jetpens.com/images/a/000/015/15826.jpg"/=
+></a></div><div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a h=
+ref=3D"https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&ut=
+m_medium=3Demail&utm_source=3Dreview_request&products_id=3D6793"><img title=
+=3D"Pilot Dr. Grip Pure White Shaker Mechanical Pencil - 0.5 mm - White Acc=
+ent Body" alt=3D"Pilot Dr. Grip Pure White Shaker Mechanical Pencil - 0.5 m=
+m - White Accent Body" style=3D"width:130px;height:130px;border: 1px solid =
+#eee;padding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);-webkit-bo=
+x-shadow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px 1px 5px rgba(0, 0, =
+0, .1);" src=3D"http://static1.jetpens.com/images/a/000/022/22819.jpg"/></a=
+></div><div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a href=
+=3D"https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_m=
+edium=3Demail&utm_source=3Dreview_request&products_id=3D7475"><img title=3D=
+"Saki P-661 Roll Pen Case with Traditional Japanese Fabric - Navy" alt=3D"S=
+aki P-661 Roll Pen Case with Traditional Japanese Fabric - Navy" style=3D"w=
+idth:130px;height:130px;border: 1px solid #eee;padding: 2px;-moz-box-shadow=
+: 1px 1px 5px rgba(0, 0, 0, .1);-webkit-box-shadow: 1px 1px 5px rgba(0, 0, =
+0, .1);box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);" src=3D"http://static1.je=
+tpens.com/images/a/000/027/27414.jpg"/></a></div><div style=3D"display:inli=
+ne-block;margin:5px 5px 0px 0px;"><a href=3D"https://www.jetpens.com/accoun=
+t/reviewProducts?orders_id=3D867913&utm_medium=3Demail&utm_source=3Dreview_=
+request&products_id=3D5532"><img title=3D"Zebra Color Flight 0.3 Mechanical=
+ Pencil - 0.3 mm - White" alt=3D"Zebra Color Flight 0.3 Mechanical Pencil -=
+ 0.3 mm - White" style=3D"width:130px;height:130px;border: 1px solid #eee;p=
+adding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);-webkit-box-shad=
+ow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px 1px 5px rgba(0, 0, 0, .1)=
+;" src=3D"http://static1.jetpens.com/images/a/000/016/16540.jpg"/></a></div=
+><div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a href=3D"htt=
+ps://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_medium=
+=3Demail&utm_source=3Dreview_request&products_id=3D50"><img title=3D"Pilot =
+Hi-Tec-C Gel Ink Pen - 0.3 mm - Blue Black" alt=3D"Pilot Hi-Tec-C Gel Ink P=
+en - 0.3 mm - Blue Black" style=3D"width:130px;height:130px;border: 1px sol=
+id #eee;padding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);-webkit=
+-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px 1px 5px rgba(0, =
+0, 0, .1);" src=3D"http://static1.jetpens.com/images/a/000/000/20.jpg"/></a=
+></div><div style=3D"display:inline-block;margin:5px 5px 0px 0px;"><a href=
+=3D"https://www.jetpens.com/account/reviewProducts?orders_id=3D867913&utm_m=
+edium=3Demail&utm_source=3Dreview_request&products_id=3D5933"><img title=3D=
+"Pentel Stein Enhanced Silica Pencil Lead - 0.5 mm - F" alt=3D"Pentel Stein=
+ Enhanced Silica Pencil Lead - 0.5 mm - F" style=3D"width:130px;height:130p=
+x;border: 1px solid #eee;padding: 2px;-moz-box-shadow: 1px 1px 5px rgba(0, =
+0, 0, .1);-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);box-shadow: 1px=
+ 1px 5px rgba(0, 0, 0, .1);" src=3D"http://static1.jetpens.com/images/a/000=
+/018/18367.jpg"/></a></div><div style=3D"display:inline-block;margin:5px 5p=
+x 0px 0px;"><a href=3D"https://www.jetpens.com/account/reviewProducts?order=
+s_id=3D867913&utm_medium=3Demail&utm_source=3Dreview_request&products_id=3D=
+5921"><img title=3D"Pentel Stein Enhanced Silica Pencil Lead - 0.3 mm - HB"=
+ alt=3D"Pentel Stein Enhanced Silica Pencil Lead - 0.3 mm - HB" style=3D"wi=
+dth:130px;height:130px;border: 1px solid #eee;padding: 2px;-moz-box-shadow:=
+ 1px 1px 5px rgba(0, 0, 0, .1);-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0=
+, .1);box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);" src=3D"http://static1.jet=
+pens.com/images/a/000/018/18341.jpg"/></a></div><br />
+<br />
+Thank you!<br />
+Your Friends at JetPens
+    </td>
+  </tr>
+</table></td></tr>
+
+<tr><td class=3D"Newsletter_View_Element_Footer" style=3D"padding: 10px 0px=
+;">
+<table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr s=
+tyle=3D"background-color:white">
+<td align=3D"center" style=3D"padding: 10px;vertical-align: top;padding-top=
+: 5px;">
+
+  <table class=3D"footer-bd" width=3D"580" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" style=3D"font-size: 10px;">
+    <tr>
+      <td align=3D"left" style=3D"vertical-align: top;padding-top: 5px;">
+   <div class=3D"copyright" style=3D"color: #666;"><i>Copyright &#169;2015 =
+PCOW, Inc., All rights reserved.</i></div><br>
+=09=09=09=09=09=09=09=09    <div class=3D"mailing-address" style=3D"color: =
+#666;"><b>Our mailing address is:</b></div>
+=09=09=09=09=09=09=09=09    <div>JetPens.com</div>
+<div>2050 Gateway Place Suite 100-184</div>
+<div>San Jose, CA 95110</div>
+      </td>
+    </tr>
+  </table>
+</td>
+</tr></table>
+</td></tr>
+    </table>
+  </td></tr>
+</table><img src=3D"http://mandrillapp.com/track/open.php?u=3D30155893&id=
+=3D4765aaf82cb743a48139f4bc417f4438" height=3D"1" width=3D"1">
+
+--_av-cG74VZy2BG-5rXdLXtOG0Q--
+

@@ -1,0 +1,62 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp433216oia;
+        Thu, 5 Nov 2015 05:05:35 -0800 (PST)
+X-Received: by 10.13.216.212 with SMTP id a203mr5840433ywe.112.1446728735729;
+        Thu, 05 Nov 2015 05:05:35 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x233.google.com (mail-yk0-x233.google.com. [2607:f8b0:4002:c07::233])
+        by mx.google.com with ESMTPS id x7si1124433ywe.421.2015.11.05.05.05.35
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 05 Nov 2015 05:05:35 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::233 as permitted sender) client-ip=2607:f8b0:4002:c07::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::233 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x233.google.com with SMTP id v3so841041ykd.0
+        for <kuiperhaumea@gmail.com>; Thu, 05 Nov 2015 05:05:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=cFtHHmbAffQLGiAbHJAko4HrkralC4wDdCTR5RknI8w=;
+        b=CSgMWwZiggsqsDFiwzf7GB32FEyU1cRltt0VqKyIA9AtWs8ehfgImFASZIwH8Nu1oY
+         iRuIR/Fe9UvPdRerYrbEATPw+tpJyLMnEV7JhhlAn3roMS6oVHqhoAjeVUjc62hg8sEv
+         EqCC/VetkFIFVmwR68rN7t2/g1Z9UMpeZf8y1XVPYHODPI6lITGlrqX0VY1H57ALemdM
+         YWjKmA28cxIjJWNJNdDA9hwday2yg8KF8vwEZ49g1IV7k1XyVYAUvyefkIeGXWTUlAU+
+         MY+7lOQkLjyJwCEkChs+eRssmCKQD3G6jt96ypPXC4Flxmx8yxc0neGQktAl0wy7cYvg
+         1mZg==
+X-Received: by 10.31.54.86 with SMTP id d83mr6832005vka.139.1446728735459;
+ Thu, 05 Nov 2015 05:05:35 -0800 (PST)
+MIME-Version: 1.0
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Thu, 05 Nov 2015 13:05:26 +0000
+Message-ID: <CANNyMF9JFLzQ8NzC4Z8URWXK9ZUqTYZ4cZD=o5=vRMm4Qk5oTg@mail.gmail.com>
+Subject: The chats (Le chats?)
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a114388045d0f390523cac87d
+
+--001a114388045d0f390523cac87d
+Content-Type: text/plain; charset=UTF-8
+
+No worries dude. If it helps, you are way more together than I was at your
+age. The only thing I thought about was getting the hell away from my mom
+and her insanity, and never never being poor again.
+
+I really wanted to stay home today as well.
+
+Happy Thursday!  Are you going to osc tonight? The talk is on licenses, so
+it's not one I am too interested in...
+
+--001a114388045d0f390523cac87d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">No worries dude. If it helps, you are way more together than=
+ I was at your age. The only thing I thought about was getting the hell awa=
+y from my mom and her insanity, and never never being poor again.</p>
+<p dir=3D"ltr">I really wanted to stay home today as well.</p>
+<p dir=3D"ltr">Happy Thursday!=C2=A0 Are you going to osc tonight? The talk=
+ is on licenses, so it&#39;s not one I am too interested in...</p>
+
+--001a114388045d0f390523cac87d--

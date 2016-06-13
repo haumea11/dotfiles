@@ -1,0 +1,556 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2738635oid;
+        Wed, 15 Jul 2015 00:36:07 -0700 (PDT)
+X-Received: by 10.194.89.5 with SMTP id bk5mr5616606wjb.144.1436945766266;
+        Wed, 15 Jul 2015 00:36:06 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x235.google.com (mail-wi0-x235.google.com. [2a00:1450:400c:c05::235])
+        by mx.google.com with ESMTPS id bg1si6055131wjb.161.2015.07.15.00.36.05
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 00:36:06 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) client-ip=2a00:1450:400c:c05::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@extsend.com
+Received: by mail-wi0-x235.google.com with SMTP id jy10so118520536wid.1
+        for <kuiperhaumea@gmail.com>; Wed, 15 Jul 2015 00:36:05 -0700 (PDT)
+X-Received: by 10.180.91.107 with SMTP id cd11mr12352721wib.51.1436945765572;
+        Wed, 15 Jul 2015 00:36:05 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2414921wmd;
+        Wed, 15 Jul 2015 00:36:04 -0700 (PDT)
+X-Received: by 10.55.19.25 with SMTP id d25mr5788831qkh.19.1436945763842;
+        Wed, 15 Jul 2015 00:36:03 -0700 (PDT)
+Return-Path: <sender_1756_6376_91830460@extsend.com>
+Received: from mail3.extsend.com (mail3.extsend.com. [216.27.20.142])
+        by mx.google.com with ESMTP id k62si4374144qkh.116.2015.07.15.00.36.03
+        for <markiewicz.john@gmail.com>;
+        Wed, 15 Jul 2015 00:36:03 -0700 (PDT)
+Received-SPF: pass (google.com: domain of sender_1756_6376_91830460@extsend.com designates 216.27.20.142 as permitted sender) client-ip=216.27.20.142;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=ec; d=extsend.com;
+ h=To:From:Reply-To:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:List-Help:List-Unsubscribe:List-Owner:Sender:Message-ID; i=visit=3Dpratt.edu@extsend.com;
+ bh=jGIu40d7Jiz4P403LwwOvEkFYDk=;
+ b=xuCdKbZZK9D5VQzCIc0VKGzgj6tVT8lTAjCALO4seeHVj5G+24cu3eO8bwruVYivAkgg92M/2wPd
+   E2qdu/nzcACqzlOfWCuNY+Q5RCpl4MO5prcmmwcVLcISJWRBHNy4OJ68qNSJb6du/XObEWhpcaQw
+   PqYdOi5fFtHjmURQ7+I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=ec; d=extsend.com;
+ b=US4sNxdSWqw9xJyNKYtOLS5tL8kTqyyBsJo5fToMiwUjaIPiLXguXeZuumbQbCw6fTOKP5YYdflM
+   iYO5cxMF76AkHCWGjUGuFFdZE0hCEQhzuNpH2a3e4lXWuP6he3ehcq+RsAKrsXoFULZvQoA0PTDN
+   i2xMb/K8AVkbo4Mlc9Q=;
+Return-Path: sender_1756_6376_91830460@extsend.com
+To: JOHN MARKIEWICZ <markiewicz.john@gmail.com>
+From: "Pratt Institute, Office of Admissions" <visit@pratt.edu>
+Reply-To: Dustin Liebenow
+ <sender_1756_6376_3482630@reply.emailcampaigns.net>
+Subject: A Message for JOHN from Pratt Institute
+Date: Wed, 15 Jul 2015 07:04:24 +0000
+X-LibVersion: 3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-204905577855a60bc5ebfaf1.57204297_=_"
+Content-Transfer-Encoding: 7bit
+List-Help: <http://clicks.gotoextinguisher.com/manage/about_list.php?g=6376&c=1756&p=a3be8c2e1940195941d917a6cde02e38&utm_source=Fire%20Engine%20RED&utm_medium=email&utm_campaign=FA%2016%20summer%20info%20session%20invite%20to%20search%20lists%20>
+List-Unsubscribe: <http://clicks.gotoextinguisher.com/r/?g=6376&c=1756&p=a3be8c2e1940195941d917a6cde02e38&l=0&utm_source=Fire%20Engine%20RED&utm_medium=email&utm_campaign=FA%2016%20summer%20info%20session%20invite%20to%20search%20lists%20>,<mailto:unsubscribe_1756_6376_a3be8c2e1940195941d917a6cde02e38@extsend.com>
+List-Owner: <mailto:jaaron@pratt.edu>
+X-EC-PID: a3be8c2e1940195941d917a6cde02e38
+X-EC-SEND-ID: 91830460
+x-sendconfig: 6
+X-Mailer: Emailcampaigns
+ [U69lj+ARHMlx4kjSxEjXQOflpiG6AH6wR5dbJmgaFMhD1ENxmuFL9rsF6w==]
+Sender: "Pratt Institute, Office of Admissions"
+ <visit=pratt.edu@extsend.com>
+Message-ID: <20150715073504.21366.550002986.swift@vulcan>
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-204905577855a60bc5ebfaf1.57204297_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[base_of_sculpture__2007_Bob_Handelman.jpg]
+   [ACCEPTED_STUDENT_DAY_IMAGE.jpg]
+   Images of Pratt's Brooklyn Campus
+
+   [Pratt_Logo_CMYK.gif]
+
+   Dear JOHN,
+
+   Summer is an excellent time to visit colleges. If you are
+   considering majors in art, design, architecture, writing, or a
+   similar field, I hope you are considering Pratt Institute, the
+   number one ranked college for fine art and studio programs by USA
+   Today.  Join us this August for one of our last summer information
+   sessions. Available dates are listed below under "Visiting
+   Campus". [1]REGISTER ONLINE NOW
+
+   Pratt Institute, ranked among the top design schools by
+   BusinessWeek, is located in Brooklyn, New York. Pratt is one of the
+   country's most prestigious art, architecture, and design schools
+   with a wide variety of programs including fashion design, fine art,
+   writing, interior design, animation, art education (for future
+   teachers), architecture, industrial design and much more. Most of
+   Pratt's programs are [2]ranked among the top ten and five in the
+   country. See a full list of Pratt's majors below.
+
+   [3]REQUEST A CATALOG NOW!
+
+   [4]Visiting Campus
+   All information sessions include a presentation covering Pratt's
+   highly ranked majors, a question and answer forum, and campus and
+   residence hall room tours.  Optional portfolio reviews/meetings
+   with an admissions counselor are available before or after
+   information sessions depending on availability.  Reservations are
+   required for both, and sessions book quickly.  You do not need to
+   register separately for the campus tour as it is included.
+   [5] REGISTER ONLINE NOW
+
+   Information sessions are offered in Myrtle Hall, 2nd floor, on the
+   following dates  at 10am or 1pm.  (The fall schedule will be posted
+   online in late-August)
+
+   Friday, August 7
+   Friday, August 14
+   Friday, August 21
+   Friday, August 28
+
+   [6]REGISTER ONLINE NOW
+
+   Unable to visit campus on these dates? Join us for a [7]campus
+   tour.   Brooklyn campus tours are offered Monday through Friday at
+   10am or 2pm.  There is also an additional 12:00 tour offered on
+   Mondays and Fridays only.  Campus tours are not available on
+   Wednesdays.  General Brooklyn campus tours are conducted by current
+   students and visit undergraduate dorms, various studio spaces for
+   each major, dining facilities, Career Services, Library, and
+   Pratt=E2=80=99s gymnasium. View Pratt=E2=80=99s [8]complete schedule of =
+Brooklyn
+   campus tours online.
+
+   Unable to visit in person?  Try our [9]virtual tour
+
+   Pratt is an ideal choice with:
+     * [10]over 20 undergraduate degree programs in virtually every
+       area of art, design, and architecture (see full list below) and
+       [11]12 minors
+
+     * an ideally located,  beautifully landscaped 25 acre campus, 20
+       minutes from Manhattan, with exceptional studio facilities,
+       on-campus dining options and athletic facilities, and
+       guaranteed on-campus housing
+
+     * a faculty of practicing professional artists, architects,
+       designers, and writers that connects students with internships
+       and eventually jobs
+
+   JOHN, we look forward to seeing you!  Get started now and
+   [12]request a catalog or [13]schedule a campus visit.
+
+   Sincerely yours,
+
+   [Dustin_Liebenow_Signature.jpg]
+
+   Dustin Liebenow
+   Director of Enrollment Management
+
+   Join us on [14]Facebook!
+
+   Pratt's Majors
+     * [15]Architecture
+     * [16]Art And Design Education
+     * [17]Art History BA
+     * [18]Theory, Criticism, and History of Art, Design, and
+       Architecture (BFA)
+     * [19]Critical and Visual Studies
+     * [20]Communications Design (graphic design, illustration,
+       advertising art direction)
+     * [21]Digital Arts 3D (animation and motion arts, 2D animation,
+       interactive arts)
+     * [22]Fashion Design
+     * [23]Film
+     * [24]Fine Arts (drawing, painting, sculpture, printmaking,
+       ceramics, jewelry)
+     * [25]Industrial Design
+     * [26]Interior Design
+     * [27]Photography
+     * [28]Writing
+
+   Manhattan Campus
+
+   Two-year Programs
+     * [29]Graphic Design/Illustration A.A.S.
+     * [30]Painting/Drawing A.A.S.
+     * [31]Building and Construction A.A.S.
+     * [32]Digital Design And Interactive Media A.O.S.
+     * [33]Graphic Design A.O.S.
+     * [34]Illustration A.O.S.
+
+   Four-Year Programs
+     * [35]Construction Management B.P.S.
+     * [36]Construction Management B.S.
+
+References
+
+   1. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Db9fd03e8b5cf41e799fd0abc177acba3&q=3D&t=3D2
+   2. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Db5c023ee1de28843274a9b16aac9a3b3&q=3D&t=3D2
+   3. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dfb51ac36aad2daf69e7fb90b005fef48&q=3D&t=3D2
+   4. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Db9fd03e8b5cf41e799fd0abc177acba3&q=3D&t=3D2
+   5. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dcb3bfd505409334ae2deca88dadd48a8&q=3D&t=3D2
+   6. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dcb3bfd505409334ae2deca88dadd48a8&q=3D&t=3D2
+   7. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3D56de3739b58aa559ba9871ef9fb193d7&q=3D&t=3D2
+   8. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dcb3bfd505409334ae2deca88dadd48a8&q=3D&t=3D2
+   9. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3D7a0e336820dd8dbce509ef36ce8cb456&q=3D&t=3D2
+  10. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3D3e3c43e87ecc123b0fe34aee446199c8&q=3D&t=3D2
+  11. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dacbff535f88e52e902c22df95f944ed9&q=3D&t=3D2
+  12. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3D43f40d2ef491e6aa90e527638ba8d14b&q=3D&t=3D2
+  13. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dcb3bfd505409334ae2deca88dadd48a8&q=3D&t=3D2
+  14. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3D69cadd6d0607ed73634756f9911c4284&q=3D&t=3D2
+  15. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  16. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  17. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  18. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  19. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  20. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  21. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  22. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  23. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  24. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  25. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  26. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  27. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  28. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  29. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  30. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  31. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  32. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  33. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  34. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  35. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2
+  36. http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc4e5543c0bb6c8b4f13a7c3fe2a7c493&q=3D&t=3D2=
+=0AThis message sent by:=0A					Pratt Institute=0A					200 Willoughby Ave=
+=0A					Brooklyn, NY 11205=0A=0AGo to the following url to unsubscribe: htt=
+p://clicks.gotoextinguisher.com/r/?g=3D6376&c=3D1756&p=3Da3be8c2e1940195941=
+d917a6cde02e38&l=3D0&utm_source=3DFire%20Engine%20RED&utm_medium=3Demail&ut=
+m_campaign=3DFA%2016%20summer%20info%20session%20invite%20to%20search%20lis=
+ts%20=0A=0AYou opted in to this list from: PSAT
+--_=_swift-204905577855a60bc5ebfaf1.57204297_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">=0A<html>=0A=
+=0A<!-- If you are having trouble viewing this message, you can see it in y=
+our browser by following this link: http://clicks.gotoextinguisher.com/prev=
+iew/?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&utm_source=3DFi=
+re%20Engine%20RED&utm_medium=3Demail&utm_campaign=3DFA%2016%20summer%20info=
+%20session%20invite%20to%20search%20lists%20-->=0A<head>=0A<meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=0A<title>Array</t=
+itle>=0A</head>=0A<body style=3D"font-family: Times New Roman;font-size: 12=
+px;"><div style=3D"text-align: center; font-size: 11px; margin-bottom: 5px;=
+">If you are having trouble viewing this message, <a href=3D"http://clicks.=
+gotoextinguisher.com/preview/?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a=
+6cde02e38&utm_source=3DFire%20Engine%20RED&utm_medium=3Demail&utm_campaign=
+=3DFA%2016%20summer%20info%20session%20invite%20to%20search%20lists%20">see=
+ it in your browser</a>.</div>
+<table border=3D"0" style=3D"width: 421px; height: 148px;"><tbody><tr>=0A<t=
+d>=0A<img src=3D"http://images.gotoextinguisher.com/client_id_1756/base_of_=
+sculpture__2007_Bob_Handelman.jpg" width=3D"200">&nbsp; <img src=3D"http://=
+images.gotoextinguisher.com/client_id_1756/ACCEPTED_STUDENT_DAY_IMAGE.jpg" =
+width=3D"200">&nbsp;<br><span style=3D"font-family: arial,helvetica,sans-se=
+rif; font-size: 10px;"><em>Images of Pratt's Brooklyn Campus</em></span>=0A=
+</td>
+</tr></tbody></table>=0A<p style=3D"text-align: left;"><img height=3D"33" s=
+rc=3D"http://images.gotoextinguisher.com/client_id_1756/Pratt_Logo_CMYK.gif=
+" width=3D"103"></p>
+<p style=3D"text-align: left;"></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;">Dear JOHN,<br></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><span style=3D"font-family: arial,helvetica,sans-serif;">Summe=
+r is an excellent time to visit colleges. If you are considering majors in =
+art, design, architecture, writing, or a similar field, I hope you are cons=
+idering Pratt Institute, the number one ranked college for fine art and stu=
+dio programs by <em>USA Today</em>.&nbsp; Join us this August for one of ou=
+r last summer information sessions. Available dates are listed below under =
+"Visiting Campus".&nbsp;<a href=3D"http://clicks.gotoextinguisher.com/trkr/=
+?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3De7b6e4da55c7c35=
+1221bf670a422f7eb&q=3D&t=3D1" title=3D"Visiting Campus" target=3D"_blank">R=
+EGISTER ONLINE NOW</a>&nbsp; </span></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><span style=3D"font-family: arial,helvetica,sans-serif;"><span=
+ style=3D"font-family: arial,helvetica,sans-serif;">Pratt Institute, ranked=
+ among the top design schools by <strong><em>BusinessWeek</em></strong>, is=
+ located in Brooklyn, New York.</span> Pratt is one of the country's most p=
+restigious art, architecture, and design schools with a wide variety of pro=
+grams including fashion design, fine art, writing, interior design, animati=
+on, art education (for future teachers), architecture, industrial design an=
+d much more. Most of Pratt's programs are <a href=3D"http://clicks.gotoexti=
+nguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=
+=3Dca23130263fac175600806c0c510a385&q=3D&t=3D1" title=3D"Pratt's Rankings" =
+target=3D"_blank">ranked</a> among the top ten and five in the country. <sp=
+an style=3D"font-family: arial,helvetica,sans-serif;"></span>See a full lis=
+t of Pratt's majors below. </span></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><span style=3D"font-family: arial,helvetica,sans-serif;"><a hr=
+ef=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c=
+2e1940195941d917a6cde02e38&u=3Dc19987aeb55376cd631e7dab9c3f7131&q=3D&t=3D1"=
+ title=3D"Request Information" target=3D"_blank"><strong>REQUEST A CATALOG =
+NOW!</strong></a><span style=3D"font-family: arial,helvetica,sans-serif;"><=
+span style=3D"font-family: arial,helvetica,sans-serif;"><strong></strong><b=
+r></span></span></span></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><strong><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=
+=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D01e6455de5ba92bcc=
+8b583af1c381d9c&q=3D&t=3D1" title=3D"Visiting Campus" target=3D"_blank">Vis=
+iting Campus</a> <br></strong>All information sessions include&nbsp;a prese=
+ntation covering Pratt's highly ranked majors, a question and answer forum,=
+ and campus and residence hall room tours.&nbsp; Optional portfolio reviews=
+/meetings with an admissions counselor are available before or after inform=
+ation sessions depending on availability.&nbsp; Reservations are required f=
+or both, and sessions book quickly.&nbsp; You do not need to register separ=
+ately for the campus tour as it is included. <span style=3D"background-colo=
+r: #ffff99;"><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=
+=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D8462e2730e28272e5d670607e0=
+d51c2b&q=3D&t=3D1" title=3D"RSVP" target=3D"_blank"><span style=3D"backgrou=
+nd-color: #ffff99;">&nbsp;<strong>REGISTER ONLINE NOW</strong></span></a></=
+span></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;">Information sessions are offered in Myrtle Hall, 2nd floor, on=
+ the following dates &nbsp;at <strong>10am or 1pm.</strong>&nbsp; (The fall=
+ schedule will be posted online in late-August)&nbsp;</span></p>
+<p style=3D"text-align: justify;"><strong><span style=3D"font-family: arial=
+,helvetica,sans-serif;">Friday, August 7<br>Friday, August 14<br>Friday, Au=
+gust 21<br>Friday, August 28<br></span></strong></p>
+<p style=3D"text-align: left;"><span style=3D"background-color: #ffff99;"><=
+a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3=
+be8c2e1940195941d917a6cde02e38&u=3D7c7d6df4a18455f5a75c5b0f7a1c011b&q=3D&t=
+=3D1" title=3D"Register Online Now" target=3D"_blank"><span style=3D"backgr=
+ound-color: #ffff99;"><strong><span style=3D"font-family: arial,helvetica,s=
+ans-serif;">REGISTER ONLINE NOW</span></strong></span></a></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><strong>Unable to visit campus on these dates?</strong> Join u=
+s for a <a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D63=
+76&p=3Da3be8c2e1940195941d917a6cde02e38&u=3Dd15e6118882f6099ef8c4f8bd5f88d6=
+b&q=3D&t=3D1" title=3D"General Campus Tour" target=3D"_blank">campus tour.<=
+/a> &nbsp; Brooklyn campus tours are offered Monday through Friday at 10am =
+or 2pm.&nbsp; There is also an additional 12:00 tour offered on Mondays and=
+ Fridays only.&nbsp; Campus tours are not available on Wednesdays.&nbsp; Ge=
+neral Brooklyn campus tours are conducted by current students and visit und=
+ergraduate dorms, various studio spaces for each major, dining facilities, =
+Career Services, Library, and Pratt&rsquo;s gymnasium.&nbsp;</span><span st=
+yle=3D"font-family: arial,helvetica,sans-serif;">View Pratt&rsquo;s <a href=
+=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c2e=
+1940195941d917a6cde02e38&u=3D2cdc990f92c5ff70f1d0c4177f298ef2&q=3D&t=3D1" t=
+itle=3D"Schedule a Visit" target=3D"_blank">complete schedule</a> of Brookl=
+yn campus tours online. <br></span></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;"><strong>Unable to visit in person?</strong>&nbsp; Try our <a h=
+ref=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8=
+c2e1940195941d917a6cde02e38&u=3D0fcb91e7ab1d18763974596746553c06&q=3D&t=3D1=
+" title=3D"Virtual Tour" target=3D"_blank">virtual tour</a></span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;"><strong>Pratt i=
+s an ideal choice with:</strong></span></p>
+<ul>=0A<li><span style=3D"font-family: arial,helvetica,sans-serif;"><a href=
+=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c2e=
+1940195941d917a6cde02e38&u=3D2091b417843513d579579e1c80805664&q=3D&t=3D1" t=
+itle=3D"Undergraduate Degrees" target=3D"_blank">over 20 undergraduate degr=
+ee programs</a> in virtually every area of art, design, and architecture (s=
+ee full list below) and <a href=3D"http://clicks.gotoextinguisher.com/trkr/=
+?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3Daf3e5dcb79469a1=
+f30a072b13dc70637&q=3D&t=3D1" title=3D"Minors" target=3D"_blank">12 minors<=
+/a></span></li>
+</ul>=0A<ul>=0A<li><span style=3D"font-family: arial,helvetica,sans-serif;"=
+>an ideally located,&nbsp; beautifully landscaped 25 acre campus, 20 minute=
+s from Manhattan, with exceptional studio facilities, <span style=3D"font-f=
+amily: arial,helvetica,sans-serif;">on-campus dining options and athletic f=
+acilities, </span>and guaranteed <span style=3D"font-family: arial,helvetic=
+a,sans-serif;"><span style=3D"font-family: arial,helvetica,sans-serif;">on-=
+campus housing</span></span></span></li>
+</ul>=0A<ul>=0A<li><span style=3D"font-family: arial,helvetica,sans-serif;"=
+>a faculty of practicing professional artists, architects, designers, and w=
+riters that connects students with internships and eventually jobs</span></=
+li>
+</ul>=0A<p style=3D"text-align: left;"><span style=3D"font-family: arial,he=
+lvetica,sans-serif;">JOHN,&nbsp;we look forward to seeing you!&nbsp; Get st=
+arted now and <strong><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=
+=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D612ede59f0e1c5708=
+a9240dd2b1f85be&q=3D&t=3D1" title=3D"Request Information" target=3D"_blank"=
+>request a catalog</a></strong> or <a href=3D"http://clicks.gotoextinguishe=
+r.com/trkr/?c=3D1756&g=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D2090=
+5b93320c95cb138285550ef2d945&q=3D&t=3D1" title=3D"Schedule a Visit" target=
+=3D"_blank"><strong>schedule</strong></a> a campus visit.</span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;">Sincerely yours=
+,</span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;"><img height=3D"=
+44" src=3D"http://images.gotoextinguisher.com/client_id_1756/Dustin_Liebeno=
+w_Signature.jpg" width=3D"127"></span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;">Dustin Liebenow=
+</span><br><span style=3D"font-family: arial,helvetica,sans-serif;">Directo=
+r of </span><span style=3D"font-family: arial,helvetica,sans-serif;">Enroll=
+ment Management </span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;">Join us on <str=
+ong><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Da912a67e0a2c6b41d08b12036fb96e5e&q=
+=3D&t=3D1" title=3D"Facebook" target=3D"_blank">Facebook! </a></strong><br>=
+</span></p>
+<p><strong><span style=3D"font-family: arial,helvetica,sans-serif;">Pratt's=
+ Majors</span></strong></p>
+<ul>=0A<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=
+=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D90f4583920f93aa15700e8c4bc=
+037fbf&q=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=
+=3D"font-family: arial,helvetica,sans-serif;">Architecture</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Df13d6d912e4d837ed6495450a98c6d8c&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Art And Design Education</span></a></=
+li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Ddf410d4554f791d7ab113d1ed1ae7c34&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Art History BA</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Dab3b784964580885a44c4e758209a739&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Theory, Criticism, and History of Art=
+, Design, and Architecture (BFA)</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Dbf4134ac900de1e7599830d092b60115&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Critical and Visual Studies</span></a=
+></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D6808c13e177501479eb033fa269e1ce8&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Communications Design (graphic design=
+, illustration, advertising art direction)</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Db1fd18fb1838f5edc2a7e82d93a1b152&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Digital Arts 3D (animation and motion=
+ arts, 2D&nbsp;animation, &nbsp;interactive arts)</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Dbe5a2a07425ba825e879b2f35afc60a9&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Fashion Design&nbsp;</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D4314e7cea862cac16b92ac8f7cbb70ff&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Film</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D7aae646aac1515c7fa8ffbebfecb78dc&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Fine Arts (drawing, painting, sculptu=
+re, printmaking, ceramics, jewelry)</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Dd5a513e28d41ebc88138f0f5298850ac&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Industrial Design</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Dbaf94c7498d447578b84c1f9a9608d48&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Interior Design</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3Daf1d8ef613d3f8b1227e01f97095938a&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Photography</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D9615de0246af4b4bbcc5edb904aabc56&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Writing</span></a></li>
+</ul>=0A<p><span style=3D"font-family: arial,helvetica,sans-serif; font-siz=
+e: 11px;"><strong>Manhattan</strong> <strong>Campus</strong></span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif; font-size: 11px;=
+"><strong>Two-year Programs</strong></span></p>
+<ul>=0A<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=
+=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D3bac7b3586ade97563df2b328a=
+7923f8&q=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=
+=3D"font-family: arial,helvetica,sans-serif;">Graphic Design/Illustration A=
+.A.S.</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D67c3ac45edf91896af3ed4798d6a7645&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Painting/Drawing A.A.S.</span></a></l=
+i>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3De67027f554261b182b51d0c6a1c0d186&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Building and Construction A.A.S.</spa=
+n></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D027a3ada910ef597fdeec550c4bff201&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Digital Design And Interactive Media =
+A.O.S.</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D15214d244dd02bddffad2ad9dcee2494&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Graphic Design A.O.S.&nbsp;</span></a=
+></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D91603fedb1d881feb107b0c4f3b3c69d&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Illustration A.O.S.</span></a></li>
+</ul>=0A<p><span style=3D"font-family: arial,helvetica,sans-serif; font-siz=
+e: 11px;"><strong>Four-Year Programs</strong></span></p>
+<ul>=0A<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=
+=3D6376&p=3Da3be8c2e1940195941d917a6cde02e38&u=3D1fa15ec96abcbc9ad13efae4db=
+afd050&q=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=
+=3D"font-family: arial,helvetica,sans-serif;">Construction Management B.P.S=
+.</span></a></li>
+<li><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D1756&g=3D6376&p=
+=3Da3be8c2e1940195941d917a6cde02e38&u=3D8be97fdcf60ab5edb113ae4057c8a2f9&q=
+=3D&t=3D1" title=3D"Pratt's Programs" target=3D"_blank"><span style=3D"font=
+-family: arial,helvetica,sans-serif;">Construction Management B.S.</span></=
+a></li>
+</ul>=0A<table id=3D"footer" align=3D"center" class=3D"ec-footer" style=3D"=
+margin-top: 5px;"><tr><td style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size: 11px; color: #585858">This message sent to <b>MARKIEWICZ.JOHN=
+@gmail.com</b> by <b>visit@pratt.edu</b>.<br><img src=3D"http://clicks.goto=
+extinguisher.com/o/?c=3D1756&p=3Da3be8c2e1940195941d917a6cde02e38&t=3D1&g=
+=3D6376" alt=3D"" style=3D"position:absolute;" />Pratt Institute<br>200 Wil=
+loughby Ave<br>Brooklyn, NY 11205<br><br><b>You opted in to this list from:=
+</b> PSAT<br><a href=3D"http://clicks.gotoextinguisher.com/r/?g=3D6376&c=3D=
+1756&p=3Da3be8c2e1940195941d917a6cde02e38&l=3D0&utm_source=3DFire%20Engine%=
+20RED&utm_medium=3Demail&utm_campaign=3DFA%2016%20summer%20info%20session%2=
+0invite%20to%20search%20lists%20" >Unsubscribe</a></td></tr></table></body>=
+=0A</html>=0A
+--_=_swift-204905577855a60bc5ebfaf1.57204297_=_--
+

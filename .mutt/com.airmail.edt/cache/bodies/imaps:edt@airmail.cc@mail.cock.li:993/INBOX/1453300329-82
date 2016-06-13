@@ -1,0 +1,69 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=openmailbox.org;
+ s=openmailbox; t=1455115661;
+ bh=5+GLVRECU8WF6wK0stNzz+fzYPc0sU6MTVj0995oX7E=;
+ h=Subject:To:References:From:Date:In-Reply-To:From;
+ b=YbDLwxAQMRKHiRLRznOsIHFotK6aCT7BdDCrTZpgyWQv8x/6SmkcCLSwwFSih5dX8
+ m7fMhxsCGxdguk2v6Az9KPsMQCFxPPCjo5bhdhUtlZjDJxrQ33FQERGHXLbnjDpbPY
+ MYiGALvgLhCiCFQIchRkNB2I5W3UZ4lZxVqP9CHk=
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on openmailbox-b2
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+ DKIM_VALID,DKIM_VALID_AU,NO_RECEIVED,NO_RELAYS,URIBL_BLOCKED autolearn=no
+ autolearn_force=no version=3.4.0
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=openmailbox.org;
+ s=openmailbox; t=1455115651;
+ bh=5+GLVRECU8WF6wK0stNzz+fzYPc0sU6MTVj0995oX7E=;
+ h=Subject:To:References:From:Date:In-Reply-To:From;
+ b=zk/XVcjjcR8tcf1Tg9RlXkppJSl7xvY4idnOgtsPydNnCjHF3aqjx5zKf8t8i2umy
+ OSibTiXYqMBJgXDCq3bBPfa4X0sA9/+VwHO13JXLbZbOs53gz3brIzOiKNqyJcqpuQ
+ yE0C0j/5oyi6VWLUWF3C6sMKSHNhxZrlReXyPaSA=
+To: mailman@lists.cock.li
+References: <20160210092355.6d272b0a320eb4bc92c29686@horsefucker.org>
+ <56BB485B.7090000@8chan.co>
+ <20160210092614.6b52ec2c850badcb27a3f9c9@horsefucker.org>
+ <56BB4BDA.2040504@8chan.co>
+ <20160210094443.1e8dd954e326465d357121ed@horsefucker.org>
+From: maiki <maiki@openmailbox.org>
+Message-ID: <56BB4D6B.2060809@openmailbox.org>
+Date: Wed, 10 Feb 2016 08:47:07 -0600
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <20160210094443.1e8dd954e326465d357121ed@horsefucker.org>
+Subject: Re: [cock.li] cock.li snapchat group
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+aXRzIGEgbXVtYmxlIHNlcnZlcgoKT24gMTAvMDIvMTYgMDg6NDQsIEp1ZGdlIEJpbGx5IHdyb3Rl
+Ogo+IHdoYXQgdGhlIGZ1Y2sgaXMgYWFhdGhhdHMzYXMKPiBpLWlzIGl0IGFub3RoZXIgbWFpbGlu
+ZyBsaXN0Cj4gaS1pIHdhbnQgbW9yZSBtYWlsaW5nIGxpc3RzIHRiaAo+IAo+IE9uIFdlZCwgMTAg
+RmViIDIwMTYgMDk6NDA6MjYgLTA1MDAKPiBza2lwcGVyYmx1ZSA8c2tpcHBlcmJsdWVAOGNoYW4u
+Y28+IHdyb3RlOgo+IAo+PiBJIGhhdmUgYSBidW5jaCBvZiBwZW9wbGUgZnJvbSBBQUF0aGF0czNh
+cyBhbmQgaSBkb250IGdldCBsZXdkcyBmcm9tIHRoZW0KPj4KPj4KPj4gT24gMDIvMTAvMjAxNiAw
+OToyNiBBTSwgSnVkZ2UgQmlsbHkgd3JvdGU6Cj4+PiB3aGF0IHdvdWxkIHlvdSBleHBlY3QgZnJv
+bSB1c2VycyBmcm9tIENPQ0subGkKPj4+Cj4+PiBPbiBXZWQsIDEwIEZlYiAyMDE2IDA5OjI1OjMx
+IC0wNTAwCj4+PiBza2lwcGVyYmx1ZSA8c2tpcHBlcmJsdWVAOGNoYW4uY28+IHdyb3RlOgo+Pj4K
+Pj4+PiBza2lwcGVyYmx1ZQo+Pj4+Cj4+Pj4gbm8gbGV3ZHMgcGxlYXNlCj4+Pj4KPj4+PiBPbiAw
+Mi8xMC8yMDE2IDA5OjIzIEFNLCBKdWRnZSBCaWxseSB3cm90ZToKPj4+Pj4gYW55b25lIGVsc2Ug
+aW50ZXJlc3RlZCBpbiB0aGlzPyBiZW5pcyB3aWxsIHByb2JhYmx5IGFycml2ZQo+Pj4+Pgo+Pj4+
+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+Pj4+IDg9PT1bY29jay5saSBtYWlsaW5n
+IGxpc3RdPT09RAo+Pj4KPj4KPj4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4+IDg9
+PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RAo+IAo+IApfX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX18KOD09PVtjb2NrLmxpIG1haWxpbmcgbGlzdF09PT1E

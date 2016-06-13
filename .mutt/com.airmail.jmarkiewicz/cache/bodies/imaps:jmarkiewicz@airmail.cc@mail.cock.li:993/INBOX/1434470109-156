@@ -1,0 +1,33 @@
+Return-Path: <bounce+abced8.947b4-jmarkiewicz=airmail.cc@mg.gitlab.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mg.gitlab.com; q=dns/txt;
+ s=mailo; t=1441654845; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=P2M2WWkrkFIAslMEeLCSaBD0CSIxX5PUzI6jZYFFPU4=; b=S0rakimXQa7sX547IsLq/+6K0N/N05k7QSadgEu98zr00vloSQP7iePJBwxN3zwZ8+QgEcHg
+ LylFjaCG2pkauBcIt7Op7LEILsAf+QxB7iXpemJ0BGqYQbmAUXWUzFpORJXT6INAxSGMaBk8
+ xvBjKSl03HbFLHq2TsoOAJMoE4I=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mg.gitlab.com; s=mailo;
+ q=dns; h=Sender: Date: From: Reply-To: To: Message-ID: Subject:
+ Mime-Version: Content-Type: Content-Transfer-Encoding;
+ b=bnQFviO9qu7NcwO7qbLqAwGcVhBA7PzYlX5wlWweaV5iQnH59WIkx3I24CrXkuWfoPdr7Z
+ eFUTDxYlFZhMDg2kNzkL2nSjJ6arDvGysrZfJqdmPOiaNsemBfgBXFvUJPGuDmP5FEXEwoaG
+ +KTj3jf2Dmy5TPG0+zLy4per+0o4o=
+Sender: gitlab=gitlab.com@mg.gitlab.com
+X-Mailgun-Sid: WyJiMGNjZSIsICJqbWFya2lld2ljekBhaXJtYWlsLmNjIiwgIjk0N2I0Il0=
+Date: Mon, 07 Sep 2015 19:40:44 +0000
+From: GitLab <gitlab@gitlab.com>
+Reply-To: noreply@gitlab.com
+To: jmarkiewicz@airmail.cc
+Message-ID: <55ede83c6396f_5f020a2bc82177d5@worker25.cluster.gitlab.com.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Welcome John Markiewicz!</p>
+
+  <p>You can confirm your account through the link below:</p>
+
+<p><a href="https://gitlab.com/users/confirmation?confirmation_token=ax9M77wqnkgNkUXGKdqQ">Confirm your account</a></p>

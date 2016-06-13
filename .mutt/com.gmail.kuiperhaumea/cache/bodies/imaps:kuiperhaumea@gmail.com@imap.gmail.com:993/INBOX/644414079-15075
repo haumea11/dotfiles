@@ -1,0 +1,103 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp2161855oig;
+        Sun, 15 Nov 2015 11:20:00 -0800 (PST)
+X-Received: by 10.28.8.129 with SMTP id 123mr13857152wmi.25.1447615200172;
+        Sun, 15 Nov 2015 11:20:00 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x232.google.com (mail-wm0-x232.google.com. [2a00:1450:400c:c09::232])
+        by mx.google.com with ESMTPS id m79si20745358wmg.42.2015.11.15.11.20.00
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 15 Nov 2015 11:20:00 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) client-ip=2a00:1450:400c:c09::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gocwru.org
+Received: by mail-wm0-x232.google.com with SMTP id v187so146974768wmv.1
+        for <kuiperhaumea@gmail.com>; Sun, 15 Nov 2015 11:20:00 -0800 (PST)
+X-Received: by 10.28.150.11 with SMTP id y11mr13928731wmd.43.1447615199928;
+        Sun, 15 Nov 2015 11:19:59 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1953385wme;
+        Sun, 15 Nov 2015 11:19:59 -0800 (PST)
+X-Received: by 10.55.82.137 with SMTP id g131mr32074463qkb.66.1447615199194;
+        Sun, 15 Nov 2015 11:19:59 -0800 (PST)
+Return-Path: <admissions@gocwru.org>
+Received: from mta8254.app-info.net (mta8254.app-info.net. [68.142.178.254])
+        by mx.google.com with ESMTP id f22si23615663qhf.45.2015.11.15.11.19.58
+        for <markiewicz.john@gmail.com>;
+        Sun, 15 Nov 2015 11:19:59 -0800 (PST)
+Received-SPF: pass (google.com: domain of admissions@gocwru.org designates 68.142.178.254 as permitted sender) client-ip=68.142.178.254;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=gocwru.org; h=date:from
+	:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=A14TO6WxIKprULBDIZAkn/lyMzU=; b=JJ0eD2lta0
+	jbJ2DxkVdsqS6lERf5eCxZUa0O/9fTyUj7x/OUK/lcqb//zKi38PDD9MeuL0hrIo
+	cLYaNJjprRqp4NB5wcyO1U1HIJxe/XghCweHS2C2f8/y1908GibMbEl7am/axA+v
+	2DVIyA6iNpWTwp1ZBuyzgCP0fKW1aMJ9E=
+Received: from mta61.app-info.net by Postman122.app-info.net with Rome(1.0.38739) id <pd.2.pF2.jA18131.sJj.21774253.rA7.448.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Sun, 15 Nov 2015 14:04:59 -0500
+Date: Sun, 15 Nov 2015 14:04:59 -0500 (EST)
+From: Case Western Reserve University <admissions@gocwru.org>
+Reply-To: Case Western Reserve University <admissions@gocwru.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <1785622543.9470523.1447614299963.JavaMail.nobody@clavin4122.royall.com>
+Subject: I'm looking for the best and brightest ...
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:admissions@gocwru.org?subject=unsubscriberfc2369%2052Z1C7I7W4E2I5K3RAM~8%20218%20SNR>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>I'm looking for the best and brightest ...</title>
+</head>
+<body>
+<p>... to join the 2016 incoming freshman class at Case Western Reserve Uni=
+versity. I'd love to see <a href=3D"http://www.gocwru.org/turn/cai/aY0/spn/=
+52Z1C7I7W4E2I5K3RAM~8/lik/yBmh/cyp/wC/cmm/218/esd/a01300e5ce9bbda1f3de56e7d=
+4eebbfd31892f83/">your application</a> and to consider you for admission.</=
+p>=20
+<p>I encourage you to <a href=3D"http://www.gocwru.org/turn/cai/aY0/spn/52Z=
+1C7I7W4E2I5K3RAM~8/lik/yBmg/cyp/wC/cmm/218/esd/a01300e5ce9bbda1f3de56e7d4ee=
+bbfd31892f83/">submit your application today</a>, John. In fact, I've made =
+it <strong>free for you to apply</strong> using the <a href=3D"http://www.g=
+ocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yBmW/cyp/wC/cmm/218/es=
+d/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">Common Application</a>, which =
+you can access <a href=3D"http://www.gocwru.org/turn/cai/aY0/spn/52Z1C7I7W4=
+E2I5K3RAM~8/lik/yBmZ/cyp/wC/cmm/218/esd/a01300e5ce9bbda1f3de56e7d4eebbfd318=
+92f83/">here</a>.</p>=20
+<p>As an added convenience, if you've already completed the <strong><a href=
+=3D"http://www.gocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yBm8/c=
+yp/wC/cmm/218/esd/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">Common Applica=
+tion</a>,</strong> you can simply <a href=3D"http://www.gocwru.org/turn/cai=
+/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yBmc/cyp/wC/cmm/218/esd/a01300e5ce9bbda1=
+f3de56e7d4eebbfd31892f83/">add us to your list of schools</a>. Once I recei=
+ve your completed application, which includes your SAT/ACT scores, high sch=
+ool transcript(s), Secondary School Report and recommendation letters, I'll=
+ return an admission decision to you as soon as I can.</p>=20
+<p>I'm excited to consider you for admission to one of the nation's top uni=
+versities, so I hope you'll accept my invitation to <a href=3D"http://www.g=
+ocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yBmo/cyp/wC/cmm/218/es=
+d/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">apply right away</a>.</p>=20
+<p>I'll keep an eye out for your <strong><a href=3D"http://www.gocwru.org/t=
+urn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yBmL/cyp/wC/cmm/218/esd/a01300e5c=
+e9bbda1f3de56e7d4eebbfd31892f83/">Common Application</a>,</strong> John.</p=
+>=20
+<p>Sincerely,</p>=20
+<p>Bob<br /><br />Robert R. McCullough <br />Director of Undergraduate Admi=
+ssion<br />Case Western Reserve University<br />10900 Euclid Ave. <br />Cle=
+veland, OH 44106<br /><br /></p>=20
+<p style=3D"font-size: 0.8em;">I received your contact information from a n=
+ational student testing or research organization, or from a previous contac=
+t with you. If you no longer wish to be contacted via email by Case Western=
+ Reserve University, please <a href=3D"http://www.gocwru.org/turn/cai/aY0/s=
+pn/52Z1C7I7W4E2I5K3RAM~8/lik/yBm2/cyp/wC/cmm/218/esd/a01300e5ce9bbda1f3de56=
+e7d4eebbfd31892f83/">let me know</a>.</p>
+</body>
+</html>

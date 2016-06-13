@@ -1,0 +1,84 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=s5H+nSIl5Z8MBfEZ0+mdthg33lDAZw9Gq+UakbjOGaI=;
+        b=v9nC605VaoOSS+fkyLG0t6obbCglwNmkbPLRK+CruQzYxrqTw0EdK5/LaBzagy1NyN
+         baxURqE/7yVLnN0k3L+VK5tq4DFBXwAu0Cbb1haiq9F6p60LihCbu2DRQHhv5TPuGPOH
+         O4EELm0YzIXQ6/xSylEnKV5oRKKOPrh+P71Pqgz7jbti9Z2GEh9VLDo8U/94M7Ud27TQ
+         4aK2RFvMi1xhRKNez3hxDU3DZ+pF2+xbqtMjPSd6awZEK5CqbZlxathfFdRF9VnCt4AR
+         BFdLgQWMve6u7jr6jXw03qkqz6DoqoADOUoc9eDWIBNkiknl9gAQhoVZNzdNfn3fkTew
+         xIYQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=s5H+nSIl5Z8MBfEZ0+mdthg33lDAZw9Gq+UakbjOGaI=;
+        b=bImz2DLb07KCI58JkvPpX34t8Enm+/ACeyJuhNiJvaIU0vFYsNYzQOMUVW9WIaVkBw
+         v434A5GXuL83OnKEoy5tctzOGAjWBptHOQZJ1S6tc3PpNSbkiKIPJ+aX7mvHcbakK4Pa
+         9zM6QKp8gM4SntB53a0/JVslwvT8bvhynT42my6tlaYLhE/S8DK3KhmkbsDPEadIvD75
+         c3Nba3TUXB1jTtkeGPt+B3B2J6suSLQ7oCPSRMmmnXEaVygcnRHrQxa7qp92IAqVVPX/
+         kdbXMy1eInPtNJYBZl7beueNaQlnj9anj/PkRRv7wzL+NXMMLzHUG/Lf69n+KDK25g08
+         HRFA==
+X-Gm-Message-State: ALoCoQkg3gwczk2rlYvXTX6AxzD0sQcZHm/sy7IYMea1MMZoDkVtyorso1BXYnQonr/0wxAIIrfn
+MIME-Version: 1.0
+X-Received: by 10.31.180.87 with SMTP id d84mr41748990vkf.83.1448680300367;
+ Fri, 27 Nov 2015 19:11:40 -0800 (PST)
+Date: Fri, 27 Nov 2015 22:11:40 -0500
+Message-ID: <CAGs8aKqiXQW0MAR+yphoQ8+Crf3kfB9wzaoV7ruYZ8K+HR5RUg@mail.gmail.com>
+Subject: Poinsettia Pick-up on Sunday
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a11438996b270a00525912ab0
+
+--001a11438996b270a00525912ab0
+Content-Type: text/plain; charset=UTF-8
+
+Hello!
+I hope that everyone had a wonderful Thanksgiving full of lots of good food
+and family!
+
+Just a reminder that Poinsettia pick-up is THIS SUNDAY
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a11438996b270a00525912ab0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello!<div>I hope that everyone had a wonderful Thanksgivi=
+ng full of lots of good food and family!</div><div><br></div><div>Just a re=
+minder that Poinsettia pick-up is THIS SUNDAY</div><div><div><div class=3D"=
+gmail_signature"><div dir=3D"ltr"><div><div style=3D"margin:0in 0in 0pt"><b=
+><span style=3D"font-size:14pt"><font color=3D"#000000" face=3D"Calibri">Ch=
+risten Joyce</font></span></b></div><font color=3D"#000000" face=3D"Times N=
+ew Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=
+=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">Choral Director=
+</font></span></b></p><font color=3D"#000000" face=3D"Times New Roman" size=
+=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(1=
+31,11,44)"><font face=3D"Calibri" size=3D"3"><span><font color=3D"#830b2c">=
+Bishop</font></span> <span><font color=3D"#830b2c">Watterson</font></span> =
+High School</font></span></b></p><font color=3D"#000000" face=3D"Times New =
+Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><span><font color=
+=3D"#000000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%28614%29%20268-867=
+1" value=3D"+16142688671" target=3D"_blank"><font color=3D"#1155cc">(614) 2=
+68-8671</font></a> x 289</font></span></p><font color=3D"#000000" face=3D"T=
+imes New Roman" size=3D"3"></font><div style=3D"margin:0in 0in 0pt"><span s=
+tyle=3D"color:rgb(131,11,44)"><a href=3D"http://www.bishopwatterson.com/" t=
+arget=3D"_blank"><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri=
+" size=3D"3">www.bishopwatterson.com</font></span></a></span></div><div sty=
+le=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><img width=
+=3D"420" height=3D"151" src=3D"https://docs.google.com/uc?export=3Ddownload=
+&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8=
+rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div></div></div></div><=
+div dir=3D"ltr"><div></div></div></span></div></div></div></div></div>
+</div></div>
+
+--001a11438996b270a00525912ab0--

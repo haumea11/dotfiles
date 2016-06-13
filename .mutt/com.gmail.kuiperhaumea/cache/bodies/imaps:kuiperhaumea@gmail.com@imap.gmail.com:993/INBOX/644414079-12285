@@ -1,0 +1,77 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp501894oid;
+        Sat, 11 Jul 2015 06:17:27 -0700 (PDT)
+X-Received: by 10.180.104.129 with SMTP id ge1mr6882053wib.84.1436620646474;
+        Sat, 11 Jul 2015 06:17:26 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22a.google.com (mail-wi0-x22a.google.com. [2a00:1450:400c:c05::22a])
+        by mx.google.com with ESMTPS id p2si18722140wjf.71.2015.07.11.06.17.25
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 11 Jul 2015 06:17:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) client-ip=2a00:1450:400c:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@huntington.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=huntington.com
+Received: by mail-wi0-x22a.google.com with SMTP id mz13so26509467wic.0
+        for <kuiperhaumea@gmail.com>; Sat, 11 Jul 2015 06:17:25 -0700 (PDT)
+X-Received: by 10.180.13.199 with SMTP id j7mr6725104wic.40.1436620645648;
+        Sat, 11 Jul 2015 06:17:25 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp395800wmd;
+        Sat, 11 Jul 2015 06:17:24 -0700 (PDT)
+X-Received: by 10.50.62.106 with SMTP id x10mr3734365igr.29.1436620644125;
+        Sat, 11 Jul 2015 06:17:24 -0700 (PDT)
+Return-Path: <HuntingtonOnline@huntington.com>
+Received: from gw2web.huntington-bank.co (gw2web.huntington-bank.co. [170.128.140.135])
+        by mx.google.com with ESMTPS id g76si9903966iod.72.2015.07.11.06.17.23
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 11 Jul 2015 06:17:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of HuntingtonOnline@huntington.com designates 170.128.140.135 as permitted sender) client-ip=170.128.140.135;
+DomainKey-Signature: s=hnbdkey-2048; d=huntington.com; c=simple; q=dns;
+  h=Message-Id:X-HNB-Ironport-SBRS:X-IronPort-AV:Received:
+   MIME-Version:From:To:Date:Subject:Content-Type:
+   Content-Transfer-Encoding;
+  b=r3ViXSFzxV4bkqwPzNAlAUeNoaV8rghHz4B0ztOx5hBRZW87fRdRUjSQ
+   e0piJ8ovGcC+iK3fO5MNMIYwiphO5S1GovuVru7MYGqiBiuuI7jrjFprd
+   cTcxZv5Vh3b64SUnIJNannkjWCypRfBbGQLLrn0XKVhisitBzXD1YPXkO
+   pXmcc7jskAh9ENgzCz8Fe2PT+JdfJt2YSloEJuYHQ0IT1zefvuk7PNC+H
+   Ypz8bS8A4aLXNZus7vwqfLt0ng906ApwWN6TnaDcwGpB4S5VvUVMYK1Ee
+   pJGPEJveMHOo3KFU52YdEveOfz/t4ReweuMrV3WNSY6Z4H+brH/7IKap+
+   w==;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=huntington.com; i=@huntington.com; q=dns/txt;
+  s=hnbdkim-2048; t=1436620644; x=1468156644;
+  h=mime-version:from:to:date:subject:
+   content-transfer-encoding:message-id;
+  bh=vgdWy6bSMEQw8G+rLL/VBdYN0w19OKtWfIWW5omD0E4=;
+  b=L6BhlEaGNuTaxiJKSuohNPo83A41Feeo80ahECr4Wkai+XJbeeVgvYXi
+   AYxUsvnWP/2b7F11k8EXtVVOFiwgqR9CcvAZ5BTDBKxHibuhesoFCdUVV
+   kmTrdQ/i6dTa1vpTf0q2PbaFldtkTRdgyyq1qnJ57RWsXpRTWQujDyLPO
+   WTzL++9XXszlTjWo/JbLmCcfTJHlUs+1SsNmSSYqrg0btJNa2fsCKqO2S
+   zDt39bVVVU8Pyfu0y0yFRnn4c6BVLAM+sSPp+ZZUuOX11ePYU3Q3Bu0r1
+   cMPTGpJI9Bc3G/nwNSmu2YjYP2Ljau98/v9ikwtPYoH8Gj9RWwIu6eeNy
+   Q==;
+Message-Id: <ab6460$jol55@gw2web.dmz.hban.us>
+X-HNB-Ironport-SBRS: None
+X-IronPort-AV: E=Sophos;i="5.15,453,1432612800"; 
+   d="scan'208";a="20731045"
+Received: from pdwolbap02.hbient.hbicorp.huntington.com (HELO PDWOLBAP02) ([10.7.130.35])
+  by gw2web.dmz.hban.us with ESMTP; 11 Jul 2015 09:17:21 -0400
+MIME-Version: 1.0
+From: HuntingtonOnline@huntington.com
+To: markiewicz.john@gmail.com
+Date: 11 Jul 2015 09:17:21 -0400
+Subject: Your Huntington Online Statement
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+Dear JOHN MARKIEWICZ,=0D=0A=0D=0AYour Huntington online statement=
+ is now available.  To view your statement, please log on to your=
+ online banking account.=0D=0A=0AThank you for banking online wit=
+h Huntington.
+

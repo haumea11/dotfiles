@@ -1,0 +1,667 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp348565oid;
+        Thu, 16 Jul 2015 09:09:08 -0700 (PDT)
+X-Received: by 10.194.5.4 with SMTP id o4mr21860155wjo.51.1437062948057;
+        Thu, 16 Jul 2015 09:09:08 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x233.google.com (mail-wi0-x233.google.com. [2a00:1450:400c:c05::233])
+        by mx.google.com with ESMTPS id df3si2505208wib.53.2015.07.16.09.09.07
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 16 Jul 2015 09:09:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::233 as permitted sender) client-ip=2a00:1450:400c:c05::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::233 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=fail header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x233.google.com with SMTP id ic2so10112903wid.0
+        for <kuiperhaumea@gmail.com>; Thu, 16 Jul 2015 09:09:07 -0700 (PDT)
+X-Received: by 10.180.9.168 with SMTP id a8mr8107802wib.77.1437062947280;
+        Thu, 16 Jul 2015 09:09:07 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp337241wmd;
+        Thu, 16 Jul 2015 09:09:06 -0700 (PDT)
+X-Received: by 10.50.79.168 with SMTP id k8mr4490174igx.77.1437062945664;
+        Thu, 16 Jul 2015 09:09:05 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id s13si2079791ign.70.2015.07.16.09.09.03
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 16 Jul 2015 09:09:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=YYSWVk8Sv/ygcbXyo9SeAZVXR28=; b=GsFPgUZpQHi0O85829AR8jzrA6fgv
+	nJBOR6nBsgZF6ngN5Q7Vln+/76Mr8/ST82isEKy564aIJmiDP//l7+6CommHZ+Ol
+	Q7K2pSwm5qarIPsN8+x/VUg9V5jn6dy1Re9HzotU8iUVyMVuLlwnRT00nlTKSAnZ
+	qXtJFXUenSZcoc=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=YYSWVk8Sv/ygcbXyo9SeAZVXR28=; b=KCGYajgaKjgdrBGNaJytKtLH4C7+9
+	m+lv2nPeKpeywfrqllskeHXmlCO5itMrKe27Kr8KJGvZX6p6wZ9l1kTPVjoyW/XV
+	/LtjjRnPR2m+vjTKn4biIMPW7wM5XEeynQKBVWw2cWVi1/BzlMPo+6U+dkqmPXsK
+	WJET9ZVkZDAy38=
+Received: by filter0635p1mdw1.sendgrid.net with SMTP id filter0635p1mdw1.12614.55A7D71C11
+        2015-07-16 16:09:00.425462412 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-020 (SG) with ESMTP id 14e97a045d3.1b1f.154419
+	for <markiewicz.john@gmail.com>; Thu, 16 Jul 2015 16:09:00 +0000 (UTC)
+From: "Ted White, Harvard Class of 2017" <harvardfirstgenprogram@gmail.com>
+To: <markiewicz.john@gmail.com>
+Subject: Are You the First in Your Family to Go to College?
+Date: Thu, 16 Jul 2015 16:08:55 +0000
+Message-ID: <1b246416-25e5-4501-9d01-05d221544651@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_cbadfb2f-2134-4126-8ca0-a694206686e3"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuHbS88TS0qM7hIlTNQ1yMhutRCG/TVtco+ND3
+ vrGV+g5EnHrVgCEcgVoCCJJyN38HOopWR+nO7MS56Ml1rBfBZRm4TLHSEfqdeZrIgxragyp9FiO4tK
+ 8/hY5FymCIwu97bnknnWIPVH2cVoe5FPFUug
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegHp1jSsLerYhcBLN0LMTRiUKxlQQKZXSr8gF66XAVogYas9nI/u//BVCl+
+ EhaDmqTKFPkJBxkndxYGCNBUQcR1aDUgtl/3HkCKYwiirLuQTjX6/XgGrORqMVrtWwiWBD2wOkuT5m
+ jLGO98MVvJn57P8KWVN7IvZi8kuAkmYBBCTfCX7JKvnSZTpKKRStL5TlG/vaMygidHQYxYZYg0wxXK
+ FAMHxnfX3MbxIgQe4eMasUyxjWe8Dg1PuCQjiFsqLvXw==
+
+------=_0_cbadfb2f-2134-4126-8ca0-a694206686e3
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+First generation college student? Talk to me about applying to Harvard!
+
+
+
+
+ <https://college.harvard.edu/admissions?utm_source=3D2020search&utm_medium=
+=3Demail&utm_campaign=3DHFGP_07162015>
+Dear John,
+
+
+My name is Ted and I am a rising junior at Harvard concentrating in Governm=
+ent and Sociology. I'm also a coordinator for the Harvard First Generation =
+Program <https://college.harvard.edu/admissions/hear-our-students/first-gen=
+eration-students?utm_source=3D2020search&utm_medium=3Demail&utm_campaign=3D=
+HFGP_07162015>, a new initiative of the Harvard Admissions and Financial Ai=
+d Office.
+
+
+The term first generation college student=E2=80=94referring to students who=
+se parents did not graduate from four-year colleges=E2=80=94may not yet be =
+familiar to you. But recently it has gained national recognition as well as=
+ momentum at Harvard.
+
+The Harvard First Generation Program <https://college.harvard.edu/admission=
+s/hear-our-students/first-generation-students?utm_source=3D2020search&utm_m=
+edium=3Demail&utm_campaign=3DHFGP_07162015> launched to help first gen stud=
+ents navigate the admissions and financial aid processes. Harvard also has =
+a growing, vibrant community of first gen students on campus, connected and=
+ supported through the efforts of the First Generation Student Union. Next =
+year the Harvard first generation student community is excited to host the =
+second annual 1vyG Conference, an inter-Ivy League gathering and discussion=
+ among first generation students!
+
+If you're a first gen student and you're unsure about whether Harvard is ri=
+ght for you, or you're curious about how to navigate the application and/or=
+ financial aid process, please let me know! Email me at harvardfirstgenprog=
+ram@gmail.com. As a first gen student myself, I'd like to help answer any q=
+uestions you might have. You can also read my blog posts <http://college.ha=
+rvard.edu/admissions/hear-our-students/student-blogs?uid=3D64576> about fir=
+st gen student life.
+
+Get In Touch With the HFGP <mailto:harvardfirstgenprogram@gmail.com>
+
+In addition, join us Wednesday, July 29th at 11am for a live Google Hangout=
+ <https://plus.google.com/b/110269133928001503487/events/cblo31ok29gj8ehmdj=
+8kc1m3cok> where we'll share our experiences as first generation students a=
+nd answer your questions. This event will be broadcast live as well as reco=
+rded so that you can watch it later.
+
+If you have any questions for me before then, simply reply or email me at h=
+arvardfirstgenprogram@gmail.com.
+
+I'm looking forward to hearing from you!
+
+Sincerely,
+
+Ted White <http://college.harvard.edu/users/tedwhite?utm_source=3D2020searc=
+h&utm_medium=3Demail&utm_campaign=3DHFGP_07162015>
+HFGP Coordinator
+Harvard Class of 2017
+
+
+
+
+
+
+
+
+
+
+
+86 Brattle Street, Cambridge, MA 02138
+(617) 495-1551 (Office of Admissions)
+(617) 495-1581 (Griffin Financial Aid Office)
+
+
+ Need help <http://sdm3.rm04.net/ui/static/ReceptionIssues.html> viewing th=
+is email?
+
+
+
+
+=C2=A92015 President and Fellows of Harvard College <http://college.harvard=
+.edu?utm_source=3D2020search&utm_medium=3Demail&utm_campaign=3DHFGP_0716201=
+5>
+
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by Ted White, Harvard Clas=
+s of 2017.
+Unsubscribe from Harvard College Admissions & Financial Aid. <https://apply=
+.college.harvard.edu/go?r=3Doptout&mid=3D1b246416-25e5-4501-9d01-05d2215446=
+51>=
+
+------=_0_cbadfb2f-2134-4126-8ca0-a694206686e3
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta content=3D"text/html; charset=3Dus-ascii" http-equiv=3D"Content-Type"=
+ /><meta content=3D"initial-scale=3D1.0" name=3D"viewport" /><meta content=
+=3D"telephone=3Dno" name=3D"format-detection" /><style type=3D"text/css">
+/**/
+@import url("http://fonts.googleapis.com/css?family=3DPontano+Sans|Crimson+=
+Text");
+        .ReadMsgBody { width: 100%; background-color: #F3F3F1;}
+        .ExternalClass {width: 100%; background-color: #F3F3F1;}
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCla=
+ss font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+        .yshortcuts a { border-bottom: none !important; }
+
+        @media screen and ( min-width: 500px ) {
+                td[class=3D"preheader-text"] {
+                        display: table-cell;
+                }
+                td[class=3D"preheader-spacer"] {
+                        height: 15px;
+                }
+        }
+        @media screen and ( max-width: 600px ) {
+                table[class=3D"wrapper"] {
+                        width: 100% !important;
+                }
+                table[class=3D"container-wrapper"] {
+                        width: 100% !important;
+                }
+                table[class=3D"container"] {
+                        width: 95% !important;
+                }
+                table[class=3D"preheader"] {
+                        width: 95% !important;
+                }
+                table[class=3D"main-content"] {
+                        width: 100% !important;
+                }
+                td[class=3D"content-wrapper"] {
+                        width: 95% !important;
+                }
+                td[class=3D"content-full-width"] {
+                        width: 100% !important;
+                }
+                td[class=3D"content-padding"] {
+                        width: 4% !important;
+                }
+                td[class=3D"content-area"] {
+                        width: 90% !important;
+                }
+                td[class=3D"column-large"] {
+                        width: 60% !important;
+                }
+                td[class=3D"column-small"] {
+                        width: 33% !important;
+                }
+                td[class=3D"column-spacer"] {
+                        width: 5% !important;
+                }
+                td[class=3D"stats-block"] {
+                        width: 100% !important;
+                }
+                img {
+                        height: auto !important;
+                        max-width: 100% !important;
+                }
+                table[class=3D"footer"] {
+                        width: 100% !important;
+                }
+                table[class=3D"footer-links"] {
+                        width: 100% !important;
+                }
+                td[class=3D"footer-help"] {
+                        display: block;
+                        width: 100% !important;
+                }
+                td[class=3D"footer-unsubscribe"] {
+                        display: block;
+                        width: 100% !important;
+                }
+                td[class=3D"footer-links-spacer"] {
+                        height: 10px;
+                }
+        }
+        @media screen and ( max-width: 480px ) {
+                td[class=3D"container-padding"] {
+                        padding-left: 12px !important;
+                        padding-right: 12px !important;
+                }
+                td[class=3D"column-large"] {
+                        display: block;
+                        width: 100% !important;
+                }
+                td[class=3D"column-small"] {
+                        display: block;
+                        width: 100% !important;
+                }
+                td[class=3D"column-spacer"] {
+                        display: none;
+                        width: 0 !important;
+                }
+                td[class=3D"footer-logo"] {
+                        display: block;
+                        width: 100% !important;
+                }
+                td[class=3D"footer-social"] {
+                        display: block;
+                        text-align: left;
+                        width: 100% !important;
+                }
+        }
+/**/
+</style>
+</head>
+<body bgcolor=3D"#F3F3F1" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" style=3D"-webkit-text-size-adjust: none; -ms-text-size-adjust: none;=
+ color: #1E1E1E; font-family: 'Crimson Text', Georgia, 'Times New Roman', T=
+imes, serif; font-size: 17px; background: #F3F3F1; margin: 0; padding: 0;" =
+topmargin=3D"0"><style>@media only screen and (max-width: 660px) { .deliver=
+_unsubscribe { width: 100%; } }</style><font face=3D"Times New Roman, Times=
+, serif" size=3D"3"><div style=3D"font-family: Times New Roman, Times, seri=
+f; font-size: 12pt;"><table bgcolor=3D"#F3F3F1" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"border-spacing: 0;" width=3D"100%"><!-- Full=
+ width red bar --><tbody><tr><td bgcolor=3D"#A51C30" class=3D"bar" style=3D=
+"border-collapse: collapse; color: #A51C30; font-size: 1px; height: 5px; ba=
+ckground: #A51C30;" valign=3D"top">&nbsp;</td></tr><!-- END Full width red =
+bar --><tr><!-- Full width wrapper (grey background) --><td align=3D"center=
+" bgcolor=3D"#F3F3F1" style=3D"border-collapse: collapse;" width=3D"100%"><=
+table align=3D"center" bgcolor=3D"#F3F3F1" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"wrapper" style=3D"border-spacing: 0; background: =
+#F3F3F1;" width=3D"600"><!-- Preheader --><tbody><tr><td align=3D"center" s=
+tyle=3D"border-collapse: collapse;" valign=3D"top"><table bgcolor=3D"#F3F3F=
+1" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"preheader" sty=
+le=3D"border-spacing: 0; background: #F3F3F1;" width=3D"550"><tbody><tr><td=
+ class=3D"preheader-spacer" style=3D"border-collapse: collapse; font-size: =
+1px; height: 5px;">&nbsp;</td></tr><tr><td align=3D"center" class=3D"prehea=
+der-text" style=3D"border-collapse: collapse; color: #AAAAAA; display: none=
+; font-family: 'Pontano Sans', Arial, sans-serif; font-size: 14px; text-sha=
+dow: 0 1px 0 #FFFFFF;"><!-- EDIT Preheader for preview pane -->First genera=
+tion college student? Talk to me about applying to Harvard! <!-- END EDIT -=
+-></td></tr><tr><td class=3D"preheader-spacer" style=3D"border-collapse: co=
+llapse; font-size: 1px; height: 5px;">&nbsp;</td></tr></tbody></table></td>=
+</tr><tr><td align=3D"center" bgcolor=3D"#F3F3F1" class=3D"container-wrappe=
+r" style=3D"border-collapse: collapse;" valign=3D"top" width=3D"600"><!-- C=
+ontent area container (white background) --><table align=3D"center" bgcolor=
+=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"cont=
+ainer" style=3D"border-spacing: 0; border: 2px solid #e1e1e0;" width=3D"600=
+"><tbody><tr><td bgcolor=3D"#FFFFFF" class=3D"padding-top" height=3D"20" st=
+yle=3D"border-collapse: collapse; font-size: 1px;" width=3D"100%">&nbsp;</t=
+d></tr><tr><td align=3D"center" bgcolor=3D"#FFFFFF" class=3D"content-wrappe=
+r" style=3D"border-collapse: collapse;" width=3D"600"><table align=3D"left"=
+ bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"main-content" style=3D"border-spacing: 0;" width=3D"600"><tbody><tr><td=
+ class=3D"content-padding" style=3D"border-collapse: collapse; font-size: 1=
+px;" width=3D"30">&nbsp;</td><!-- Padded content area --><td align=3D"left"=
+ class=3D"content-area" style=3D"border-collapse: collapse;" width=3D"540">=
+<a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd4rVvUxxvV3GpH450=
+SnC3EjxAfe-2FwhXbcs1-2BJK4LgeUFadZbdbg8eHpX3dw34jq5htVIGBCF7-2FrO1I9aAVRniK=
+oy7T-2FVBb-2B0OwFkuADKvINKiWBGdJDPdigrOxR1XGslKZg-2FB8F6ytUJRMm-2BOA-3D-3D_=
+fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9=
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQ=
+DHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2M=
+cDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV=
+-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTR5Gs1nHyVAyU9KTEyhzM58yAHCdDi3XEa8A7s7q=
+VqpV7cepRPNkK3OH0UkUIRvGjgq1qBTwMDQAl0u7HC7sOJ9nhuUf-2F-2FWDkizjrqjwiMPR6QH=
+lEubPOnoGWNctaSY121f5YmeCcKGXxOvFIYcnl5wHl-2FUh4HJGptNEoPOsoCWL8co8d7pWZRA6=
+IZln2qb1Jc-3D" target=3D"_blank"><img alt=3D"HARVARD COLLEGE Admissions &am=
+p; Financial Aid" style=3D"display: block;" src=3D"https://d2y48w7m6jzhpb.c=
+loudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWid3NZq=
+FS4HAXDGkEzL8qbYei9d15SRx5HcN_QyI23Jc9zynbuZ3DeAfoXh4Ys9QdlG19RV9i6MENk1j" =
+/></a><p style=3D"color: #1E1E1E; font-family: 'Crimson Text', Georgia, 'Ti=
+mes New Roman', Times, serif; font-size: 17px; font-weight: 200; line-heigh=
+t: 24px; margin: 0 0 15px;"><!-- EDIT Name of person --><br />
+Dear John, <!-- END EDIT --></p><table><tbody><tr><td align=3D"center" clas=
+s=3D"column-large" style=3D"border-collapse: collapse; padding:5px;" valign=
+=3D"top" width=3D"180"><a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3De-2FpelLiFsw2WMcn2-2BgAK9MnBVx3rYPBEzamw-2FLMHGauQrBwFaWwbXEWYQBri3-2Bkr=
+hManR5P9J1FTtBFQwaBC6jbyX01IkYVp4FHQcFh-2FVAJRjxU-2BmKso-2FTD9gWCp9Gj0jzdEX=
+s4HpGXsCTXE4wVQ-2Bb5q5jQMw-2FQWTt-2BzmD0RSq8-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-=
+2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFp=
+ICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4=
+tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Y=
+y4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8=
+a97y9vpcTSq3eNRjBPzJwWTuMQ6hZrwR9iHmvR-2BTL7PXqNcLOSmzH2-2FN3rxyRLA-2BxIwqP=
+08u0Y4E1olPJan5UnnzcihL3OzPzjoqCjrRLo-2FbuyqQCzsVx5nYUMTgGjY7lbeS-2FNkWsFpz=
+sDpfVg7QR4Fj83a4X-2FZmgIe-2FkaHNnNXvbdrIjTADvd7QXYhyzu07pdZCH6z254-3D"><img=
+ alt=3D"" style=3D"width: 200px; height: 200px;" height=3D"200" width=3D"20=
+0" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHN=
+wwKigz_j51_cBotY9LeG20COtigWid3NZqFS4HAXDGkEzL8qbYei9d15SRx5HcN_ekEonaPQMEg=
+X39MkMTKCtG9EVNTJWOVvw" /></a></td><td class=3D"column-spacer" style=3D"bor=
+der-collapse: collapse;" width=3D"20">&nbsp;</td><td align=3D"left" class=
+=3D"column-small" style=3D"border-collapse: collapse;" valign=3D"top" width=
+=3D"330"><p style=3D"color: #1E1E1E; font-family: 'Crimson Text', Georgia, =
+'Times New Roman', Times, serif; font-size: 17px; font-weight: 200; line-he=
+ight: 24px; margin: 0 0 15px;">My name is Ted and I am a rising junior at H=
+arvard concentrating in Government and Sociology. I&#8217;m also a coordina=
+tor for the <a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd4rVv=
+UxxvV3GpH450SnC3EjxAfe-2FwhXbcs1-2BJK4XKRQPGAZ9XI-2B2LmrwHH2GnMrVAxsbIzHthK=
+V0ufU7bQizkcWaVrJRVVUlF9y-2Fqnlcvb0bLDRT7xawcY1yKUdPXoFoIZzBQmr-2F9F7-2F0YE=
+Zyrxz0gwGGf2DB-2BvR-2F2CrTHpjpJgbZWX6ancO480tp-2BWkoGGoZW0P5-2FjHRtDVDsmbww=
+-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2F=
+r6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdI=
+LYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7=
+aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2B=
+kF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTRHmwE90KGhNnOWDmKW5-2BuoSNmWWDK-=
+2F35Hj2kmrRuoWPY1kJOU0X0zHUBUhbhi053Rn20erJByUCAAQ8nBlDTRjgPAV75C8-2Fe7Raj0=
+ubJecWRHOxf4JTFd-2BCr-2BY7Ve0PR9TdufW3NVCFwwaQcgvv52Q-2FzLgiakZ-2BDTb2omo5Q=
+dz8X7KMHVMooVrb-2FV6HxRe1Tk-3D" style=3D"color: #A51C30;">Harvard First Gen=
+eration Program</a>, a new initiative of the Harvard Admissions and Financi=
+al Aid Office.</p></td></tr></tbody></table><p style=3D"color: #1E1E1E; fon=
+t-family: 'Crimson Text', Georgia, 'Times New Roman', Times, serif; font-si=
+ze: 17px; font-weight: 200; line-height: 24px; margin: 0 0 15px;">The term =
+first generation college student&#8212;referring to students whose parents =
+did not graduate from four-year colleges&#8212;may not yet be familiar to y=
+ou. But recently it has gained national recognition as well as momentum at =
+Harvard.<br /><br />
+The <a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd4rVvUxxvV3Gp=
+H450SnC3EjxAfe-2FwhXbcs1-2BJK4XKRQPGAZ9XI-2B2LmrwHH2GnMrVAxsbIzHthKV0ufU7bQ=
+izkcWaVrJRVVUlF9y-2Fqnlcvb0bLDRT7xawcY1yKUdPXoFoIZzBQmr-2F9F7-2F0YEZyrxz0gw=
+GGf2DB-2BvR-2F2CrTHpjpJgbZWX6ancO480tp-2BWkoGGoZW0P5-2FjHRtDVDsmbww-3D-3D_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQD=
+HAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2Mc=
+Dc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-=
+2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTRK-2FLoA67bL01IkJD03LAh9xqdphZdgSq3ZpZbL=
+uzkz7uuTNQsGi7YE-2B-2FyeyiMQ3akBrRkmvriHDwh-2FEspwXU6jpzTyRNUSDJb3Fkh7YLL6t=
+yhknNwcMIwd-2FnSepSZk8PZmqxHKi1Mnr6YtDBmGZRzO-2FAPj3wzo2KABjOP7VTOoGvqMB746=
+-2FoUgjOW8GMikTZ4-3D" style=3D"color: #A51C30;">Harvard First Generation Pr=
+ogram</a> launched to help first gen students navigate the admissions and f=
+inancial aid processes. Harvard also has a growing, vibrant community of fi=
+rst gen students on campus, connected and supported through the efforts of =
+the First Generation Student Union. Next year the Harvard first generation =
+student community is excited to host the second annual 1vyG Conference, an =
+inter-Ivy League gathering and discussion among first generation students!<=
+br /><br />
+If you&#8217;re a first gen student and you&#8217;re unsure about whether H=
+arvard is right for you, or you&#8217;re curious about how to navigate the =
+application and/or financial aid process, please let me know! Email me at h=
+arvardfirstgenprogram@gmail.com. As a first gen student myself, I&#8217;d l=
+ike to help answer any questions you might have. You can also <a href=3D"ht=
+tp://mx.technolutions.net/wf/click?upn=3De-2FpelLiFsw2WMcn2-2BgAK9MnBVx3rYP=
+BEzamw-2FLMHGaucakaMtqowo0cEhd0ULXz-2BHpFbTtLRFTqKu0iUYvG75l-2BXrBkwuem1RDb=
+-2FGqf3AaDoD3HwUhRGapGEjgdIajBt_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bx=
+yyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-=
+2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTRUpHGQk=
+aYIJ9YMmiGDMA-2F6q9uc63hg4adu3KROB7RLsHBbrgNVA0u40QJR9LSIlPxSXNxgZGkPY0tqd4=
+cOoMbNKPMzKQ-2BnQty62JrFApM6OEEE3bLhDTszz7WvVWjyW3NG4nk7JhtqMV9ckqp3Jzd0-2F=
+MemIbviWzf7NzEi9e6E0hPOBkOvioKdvlxd3wGIX-2Bc-3D" style=3D"color: #A51C30;">=
+read my blog posts</a> about first gen student life.</p><table class=3D"but=
+ton" style=3D"border-spacing: 0;"><tbody><tr><td align=3D"center" bgcolor=
+=3D"#8A2829" class=3D"button-top" style=3D"color: #fff; font-size: 17px; fo=
+nt-weight: normal; text-decoration: none; display: block; border-collapse: =
+collapse; background: #8a2829;" width=3D"auto"><a href=3D"mailto:harvardfir=
+stgenprogram@gmail.com" style=3D"color: #FFF; text-decoration: none; font-f=
+amily: Arial, sans-serif; vertical-align: baseline; display: block; padding=
+: 14px 30px;">Get In Touch With the HFGP</a></td></tr><tr><td class=3D"butt=
+on-bottom" style=3D"display: block; font-size: 16px; border-collapse: colla=
+pse;" width=3D"auto">&nbsp;</td></tr></tbody></table><p style=3D"color: #1E=
+1E1E; font-family: 'Crimson Text', Georgia, 'Times New Roman', Times, serif=
+; font-size: 17px; font-weight: 200; line-height: 24px; margin: 0 0 15px;">=
+In addition, join us Wednesday, July 29th at 11am for a <a href=3D"http://m=
+x.technolutions.net/wf/click?upn=3Dc6YuzeQrTj9zTbvz2jYueyTEnKgFH-2FdIHqlD9s=
+2ubOqUNnPCV45yZJpyn98BJniiNWsHGcEfMxd4CJH0Zg9nIbIMuKtQ1vpwVCiI-2FwGddhq0ESB=
+ejRK2WCO5DvcGenej_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzl=
+BFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0=
+CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTRPcawmnSgoqNwF2c6Ndcp=
+4WylhUQl2yhzMQw22LH2oAcfDhujD-2BJ6rs2vZEF3Kick4y87ZEMI7oAp2QcINLDewB1oqsUMk=
+XiBUYH2WlTYXPy46SAMHS6Kvz-2BXPU-2FuBqw4F1nyMhyGWmr1-2FNx4fc5ToEmuxIoNVZeqG8=
+kXQhwQhaewi27kbURwAmR8ow7pxYho-3D" style=3D"color: #A51C30;">live Google Ha=
+ngout</a> where we&#8217;ll share our experiences as first generation stude=
+nts and answer your questions. This event will be broadcast live as well as=
+ recorded so that you can watch it later.<br /><br />
+If you have any questions for me before then, simply reply or email me at h=
+arvardfirstgenprogram@gmail.com.&nbsp;<br /><br />
+I&#8217;m looking forward to hearing from you!<br /><br />
+Sincerely,<br /><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3De-2FpelLiFsw2WMcn2-2BgAK9MnBVx3rYPBEzamw-2FLMHGauQrBwFaWwbXEWYQBri3-2Bkr=
+hManR5P9J1FTtBFQwaBC6jbyX01IkYVp4FHQcFh-2FVAJRjxU-2BmKso-2FTD9gWCp9Gj0jzdEX=
+s4HpGXsCTXE4wVQ-2Bb5q5jQMw-2FQWTt-2BzmD0RSq8-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-=
+2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFp=
+ICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4=
+tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Y=
+y4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8=
+a97y9vpcTT-2B3aab371jfYqngZrTbNIxnC76UauUYoLuFzcQu47O2s65JlTpq0Y20jUb-2BMN6=
+bEax9jwbX-2FRgz-2BxqcyOolx7wLJh6gFeOJi2UA2M-2FRrizZopuwXVXlmViXBj3dVb701DQF=
+ArkU-2B-2F2HaMxu5ykPJuQ-2Bp54N2cwDRNSXDUPLMvwHrZZAgWKQXxDqaOqAyy0AwI-3D" st=
+yle=3D"color: #A51C30;">Ted White</a><br />
+HFGP Coordinator<br />
+Harvard Class of 2017</p></td><!-- END Padded content area --><td class=3D"=
+content-padding" style=3D"border-collapse: collapse; font-size: 1px;" width=
+=3D"30">&nbsp;</td></tr><!-- Financial aid stats --><tr><td align=3D"center=
+" class=3D"stats-block" colspan=3D"3" style=3D"border-collapse: collapse;">=
+<a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd4rVvUxxvV3GpH450=
+SnC3EjxAfe-2FwhXbcs1-2BJK6j1wOTwBC2H9Oa0LPTqzQxN1mWr5lPY9Px3Ofcifjr3Z2fmtrP=
+oLoODaAgabVQQO4rm7yt-2BEcb61Kfv5fBYolJrK-2Btoiu5orkBPCXgtPj9qENYLMLHXRdztK3=
+xFB6dLgg-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwk=
+Fi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfc=
+omHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1=
+MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-=
+2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTQHLeXf6hohH8BKQyybI20Ba97yi=
+VMLuA57-2FtiNpvlTtK0UGFXLzrbiGcwJ-2FWhhDtMaZT4-2B78QIBsCrGSwQU73vwC072pCJjR=
+rE99I4bnAUKCTp672iQ58bSvH-2Bp2b0o-2Fp692k7oUzjxNwurVgIjss5f0pfiv8f9Wppq2ZXu=
+sReQNnr8Tii4dBayjzJtZx7P2s-3D" style=3D"color: #A51C30;" target=3D"_blank">=
+<img alt=3D"Less than 70% of our students receive some form of aid, 100% of=
+ our students can graduate debt-free, &gt;20% of our students' families pay=
+ nothing" style=3D"display: block; height: 108px; width: 600px; background:=
+ rgb(165, 28, 48);" height=3D"108" width=3D"600" src=3D"https://d2y48w7m6jz=
+hpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWi=
+d3NZqFS4HAXDGkEzL8qbYei9d15SRx5HcN_X8ywEnT7litqbGjzb158bqs3QqTwU7MRifOKUklF=
+D2idOcBiGK18gY" /></a></td></tr><!-- END Financial aid stats --></tbody></t=
+able></td></tr></tbody></table><!-- END Content container --></td></tr><tr>=
+<!-- Footer --><td align=3D"center" bgcolor=3D"#F3F3F1" style=3D"border-col=
+lapse: collapse;" valign=3D"top"><table bgcolor=3D"#F3F3F1" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"footer" style=3D"border-spacing:=
+ 0;" width=3D"600"><tbody><tr><td bgcolor=3D"#F3F3F1" class=3D"padding-top"=
+ colspan=3D"3" height=3D"20" style=3D"border-collapse: collapse; font-size:=
+ 1px;" width=3D"100%">&nbsp;</td></tr><tr><td class=3D"footer-padding" styl=
+e=3D"border-collapse: collapse;" width=3D"30">&nbsp;</td><td align=3D"left"=
+ class=3D"footer-content" style=3D"border-collapse: collapse;"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0;"><t=
+body><tr><td align=3D"left" class=3D"footer-logo" style=3D"border-collapse:=
+ collapse;" width=3D"255"><a href=3D"http://mx.technolutions.net/wf/click?u=
+pn=3DRsAZd4rVvUxxvV3GpH450SnC3EjxAfe-2FwhXbcs1-2BJK4LgeUFadZbdbg8eHpX3dw34j=
+q5htVIGBCF7-2FrO1I9aAVRniKoy7T-2FVBb-2B0OwFkuADKvINKiWBGdJDPdigrOxR1XGslKZg=
+-2FB8F6ytUJRMm-2BOA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6=
+jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79l=
+MeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVg=
+t-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQ=
+XrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTTwD80oUBVU5Ko=
+GJhz79FIzfqoxciqOU1jrfH8fzVEnH5C2NS9asdmHxaBF8SPSImZk42iZIY-2BbRIKTMI4yLF-2=
+FGtaSGom1-2BvRGgY-2BjEode6l8067eVnqVDnOZ4H14uYtynVQnQ37IckVNCuCtJm13EIW2mcp=
+Kl1FKDF6ZqiZ2a4v9Mo-2FthSgbydXGErNy-2F1svg-3D" style=3D"color: #888888;" ta=
+rget=3D"_blank"><img alt=3D"HARVARD COLLEGE Admissions &amp; Financial Aid"=
+ style=3D"display: block;" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/=
+eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWid3NZqFS4HAXDGkEzL8qbYe=
+i9d15SRx5HcN_c8DN7a5m8p640sDO4kitcIaHA2xDhVMrBCfdVAZGSaM" /></a></td><td al=
+ign=3D"right" class=3D"footer-social" style=3D"border-collapse: collapse;" =
+width=3D"285"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"border-spacing: 0;"><tbody><tr><td height=3D"44" style=3D"border-collap=
+se: collapse;" width=3D"44"><a href=3D"http://mx.technolutions.net/wf/click=
+?upn=3DArGmOXNrXZXX-2F83mTJo6EPCEaIZcqgkEa5G84kJXQYHQhFwPKwi2OIYzRvq0hOyC_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQD=
+HAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2Mc=
+Dc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-=
+2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTSfoFXjptUXKM6zwW3-2B0r-2B4DFSwhj-2FHwIWT=
+lA7akGxkRurnIt0tOt1DCLF3T74cUPAtyUtzN07pVVnqsDORL1EX5mh9DKBj59z3oR4xIxpSxKa=
+2LrpzJB1ZtfPM2YAtIbl5xKzhTY-2BrrLpLAskU-2Ftrb64-2BCYKxv-2B1Gfb9iQgXQcb28V7B=
+u81PzvNbujEO5N-2BIs-3D" style=3D"color: #888888;" target=3D"_blank"><img al=
+t=3D"tw" style=3D"display: block;" src=3D"https://d2y48w7m6jzhpb.cloudfront=
+.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWid3NZqFS4HAXDGk=
+EzL8qbYei9d15SRx5HcN_XKGC2OrKwWA-RfTS8ogLg0VlaKgZMPTPQ" /></a></td><td styl=
+e=3D"border-collapse: collapse;" width=3D"10">&nbsp;</td><td height=3D"44" =
+style=3D"border-collapse: collapse;" width=3D"44"><a href=3D"http://mx.tech=
+nolutions.net/wf/click?upn=3DTWqKwQLFDPCCLdle7UoVVM2YMqcmEj2RoMg5APujuJcrG3=
+Cqe5b-2FSvtAPbuTxPIU_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWg=
+lxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZ=
+c3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2=
+vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA=
+4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTQuMdt3ZrxcglhMJgCv=
+6PxMruMgFNBUjWjnuSwwNssGhRhibfpU-2BkSz82yMi8gPo4XnDHxz7gvcwOEp7lAOxlgPVgCN-=
+2B2BtZG9MridcVL6BlPX0EOT-2BLzjBQsfPGcmWeZFdRLCaC7so1PCrRTIkqtrLHceBf4ogt8nf=
+1c3eLWkqSELMOpV8Y2VfaQax-2Brlm3jc-3D" style=3D"color: #888888;" target=3D"_=
+blank"><img alt=3D"f" style=3D"display: block;" src=3D"https://d2y48w7m6jzh=
+pb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWid=
+3NZqFS4HAXDGkEzL8qbYei9d15SRx5HcN_XKGC2OrKwWAUVuZ0fnwxEh1eqkMzD3E4w" /></a>=
+</td><td style=3D"border-collapse: collapse;" width=3D"10">&nbsp;</td><td h=
+eight=3D"44" style=3D"border-collapse: collapse;" width=3D"44"><a href=3D"h=
+ttp://mx.technolutions.net/wf/click?upn=3DtQ550YTtXV6QVHBVm0ByBUCKWujxEVlzK=
+irzWu-2Bw335wOGmuugeyPS2pfLg59IZu_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siH=
+luMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmM=
+ms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5=
+bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK3=
+8-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTR5rFx=
+OPRKrrStNyugu9zpsVcZfaeepVi9QK5unuVbF7MjcY5MwAGIn-2BBW2qOUAzWXVVFbQ3S7SZyWD=
+QNz8WMgp5OXo6ZRB4IkH-2FJFkd4H7YQ5GUtQUuo1ZX9RHrcqRYlJiLP7w-2F0wYkLA-2FOYw6g=
+-2BXjrDRkXm4689Z-2F8xKr4Wx6nISj2P1rWw7Ur0wP0Uocbt8-3D" style=3D"color: #888=
+888;" target=3D"_blank"><img alt=3D"i" style=3D"display: block;" src=3D"htt=
+ps://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_cB=
+otY9LeG20COtigWid3NZqFS4HAXDGkEzL8qbYei9d15SRx5HcN_XKGC2OrKwWAO3vbU-q-_1rML=
+YlXQPrFGg" /></a></td><td style=3D"border-collapse: collapse;" width=3D"10"=
+>&nbsp;</td><td height=3D"44" style=3D"border-collapse: collapse;" width=3D=
+"44"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dj3h4UgvMobNQmMD8=
+kxtmDJW4NZKkg3W2rdj8Q1GctmFvfVoZwPmRi81-2FbeLB4Hwn_fl-2FMBkJMX7HXblz8UUSYqU=
+r8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKr=
+LFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI=
+1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G=
+39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-=
+2F8a97y9vpcTSuomFFFaDSZLT9nl3FQ4xBEgK5lpHijnmnSCqJz-2BDeZub0OhHz6ev3hYHgHcm=
+UIzxmucoE91cAUWQT8j0b7nAi0YWpl1U-2B7EH6imEiKEZ7LVQIx84aMUuEsLpe9WeLdF2FVa6-=
+2Blq4-2BhHLhAjgUktv3GGAsyOm4HwdczQUK-2FGkgH-2FJrwzGGKeILprsIJtCakS8-3D" sty=
+le=3D"color: #888888;" target=3D"_blank"><img alt=3D"tu" style=3D"display: =
+block;" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5v=
+VrdHNwwKigz_j51_cBotY9LeG20COtigWid3NZqFS4HAXDGkEzL8qbYei9d15SRx5HcN_XKGC2O=
+rKwWA8RIN5YqA58w8cURsipvu1w" /></a></td></tr></tbody></table></td></tr></tb=
+ody></table><p align=3D"left" style=3D"color: #AAAAAA; font-family: 'Crimso=
+n Text', Georgia, 'Times New Roman', Times, serif; font-size: 16px;">86 Bra=
+ttle Street, Cambridge, MA 02138<br />
+(617) 495-1551 (Office of Admissions)<br />
+(617) 495-1581 (Griffin Financial Aid Office)</p><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"footer-links" style=3D"border-spacin=
+g: 0;" width=3D"540"><tbody><tr><td class=3D"footer-spacer" colspan=3D"2" h=
+eight=3D"10" style=3D"border-collapse: collapse; color: #AAAAAA; font-size:=
+ 16px;">&nbsp;</td></tr><tr><td class=3D"footer-help" style=3D"border-colla=
+pse: collapse; color: #AAAAAA; font-size: 16px;" width=3D"220"><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0;"><t=
+body><tr><td style=3D"border-collapse: collapse; color: #AAAAAA; font-size:=
+ 16px; line-height: 16px;" valign=3D"top" width=3D"16"><img alt=3D"?" style=
+=3D"display: block;" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bg=
+WTcF616sU-i5vVrdHNwwKigz_j51_cBotY9LeG20COtigWid3NZqFS4HAXDGkEzL8qbYei9d15S=
+Rx5HcN_XKGC2OrKwWASY-HU2wKbGDWLGGhDuHVNg" /></td><td style=3D"border-collap=
+se: collapse; color: #AAAAAA; font-size: 16px; line-height: 16px;" valign=
+=3D"top">&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Drlw9or=
+DJfVxTQlFjCdo-2FLPbTsLXZkdARSKf1-2BNm40KwhfNmcjZz-2BodXSkw67iBa2Bd2FmqlPjGo=
+Enxu9nrJxPA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzl=
+BFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0=
+CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTQg4CnSiELFEyFLp7kZP7N=
+SdAqyeV0G496L-2Bmk0zztazEcXLh-2FAIZqQsBdihw8i-2BDSf-2F04h-2F9tc1ckwCwRlyJLw=
+8ulCdbUk5VgJXYAmWN8zrw0F1vIuJfUAjxS6JQIF25LeSrqnsTDILGVmIa53FntMezz7-2BpoHl=
+BEkKuPkriCkElc7LThDXzlxQqW3jLNRp-2B0-3D" style=3D"color: #888888;">Need hel=
+p</a> viewing this email?</td></tr><tr><td class=3D"footer-links-spacer" co=
+lspan=3D"2" height=3D"0" style=3D"border-collapse: collapse; color: #AAAAAA=
+; font-size: 1px; line-height: 16px;">&nbsp;</td></tr></tbody></table></td>=
+<td class=3D"footer-unsubscribe" style=3D"border-collapse: collapse; color:=
+ #AAAAAA; font-size: 16px;" width=3D"300">&nbsp;</td></tr><tr><td class=3D"=
+footer-spacer" colspan=3D"2" height=3D"10" style=3D"border-collapse: collap=
+se; color: #AAAAAA; font-size: 16px;">&nbsp;</td></tr></tbody></table><p al=
+ign=3D"left" style=3D"color: #AAAAAA; font-family: 'Crimson Text', Georgia,=
+ 'Times New Roman', Times, serif; font-size: 16px;">&#169;2015 President an=
+d Fellows of <a href=3D"http://mx.technolutions.net/wf/click?upn=3De-2FpelL=
+iFsw2WMcn2-2BgAK9MnBVx3rYPBEzamw-2FLMHGavexr1AIZA40YeJkwWb5-2BkPuA4L3IE4oe0=
+3OMZdk00VMhHuVYAOllNgmDeLF6Dd-2FxBYZsZ7uylr6hFuExxlC3c6bkukmkVl40vufWR0t2ZP=
+mg-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-=
+2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomH=
+dILYlk9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1Myf=
+E7aK8SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-=
+2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTSTePBU6zlQyUoIsN7IIhY-2BNqX-2B=
+3PMWpvUtsN-2F-2FfxQ0j19XQZpLuNSsqs08IdR4LC0w0MOxxQBXzOkimBFnUwfOMRzuEoP6FmW=
+ocUmKfLSPjvFpEiTdzW8ZGC9yjeOKWu43rRylQMbP1tPogSgfPrOidDgL7kLR7k74vj8awY5ybM=
+kIrpWbE5gl5I6N8oqdNxM-3D" style=3D"color: #888888;">Harvard College</a></p>=
+</td><td class=3D"footer-padding" style=3D"border-collapse: collapse;" widt=
+h=3D"30">&nbsp;</td></tr><tr><td bgcolor=3D"#F3F3F1" class=3D"padding-botto=
+m" colspan=3D"3" height=3D"20" style=3D"border-collapse: collapse;" width=
+=3D"100%">&nbsp;</td></tr></tbody></table></td></tr></tbody></table><!-- EN=
+D 100% wrapper (grey background) --></td></tr></tbody></table></div></font>=
+<br /><table align=3D"center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscr=
+ibe" style=3D"opacity: 0.75; clear: both; margin: 25px auto;" cellpadding=
+=3D"5" cellspacing=3D"0" width=3D"650"><tr><td align=3D"center"><font color=
+=3D"#333333" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><span style=
+=3D"font-size: 11px;">This email was sent to markiewicz.john@gmail.com by T=
+ed White, Harvard Class of 2017.<br /><a href=3D"http://mx.technolutions.ne=
+t/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1oxvNjv9-2BXgFzLXkuryyvtmJGK9chCSRUsQi=
+9utSzRXIoK1tuLgVm-2B5Smf8FtKPgAZwzQarCg08QMaV-2FM6KvFVEYvknCWkC6Zsh-2BhYtNm=
+Qc1_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6V=
+TjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYl=
+k9BQDHAMbHTZHS-2Bvxp-2FOAhMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8=
+SA2McDc1-2FLJj02-2FjCA4fZ00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3=
+NxLV-2BvZdy-2BK-2BD7GNPPQd7-2F8a97y9vpcTRZOysysGeJUakOfMX5Av4RnqRoBvmOk79jj=
+JksQ3ok9AuZqnEuArIrwzQ90Ai8RlnhVAg4DpRKjvTtFaNYoHrwH9hg625j2yrJBQypik-2FxKw=
+eUaZ9NyAowzzS7Nxm64t-2Fu3YwJbVc6-2F-2F4JpAiZ0H056ziwc4kpSvxMpTO9IdyKER9bDKa=
+epaUrAkvRQ8BKavI-3D">Unsubscribe</a> from Harvard College Admissions &amp; =
+Financial Aid.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomHdILYlk9BQDHAMbHTZHS-2Bvxp-2FOA=
+hMI1n4tkiNChvDQWIvW5bxyyOKVgt-2F2vzlBFUqJ1MyfE7aK8SA2McDc1-2FLJj02-2FjCA4fZ=
+00G39Yy4-2FgkICrZzK38-2FFvPQXrxDA4f0CfmuH-2B-2BkF3NxLV-2BvZdy-2BK-2BD7GNPPQ=
+d7-2F8a97y9vpcTS9vX1SSSQKEy21jHYhOnqCNmX1e2nSQqw4beeBO-2BDrJwzpu1s3h9cq-2Bn=
+5JADKB7ORJUTYoe2n0W3VHsKncQTL4aPNFTk7IgniSuK1yjXCaJklmrRGiuIXNh7AkiaN9h7OOp=
+-2FeDeTUCl2tc18Hr9ZNrsoLAq-2Blbc5RzF1xHYX6ZZVFQ77YA8oybgsXpKwiET4A-3D" alt=
+=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_cbadfb2f-2134-4126-8ca0-a694206686e3--

@@ -1,0 +1,2186 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.182.136 with SMTP id g130csp759788vkf;
+        Wed, 9 Dec 2015 07:25:04 -0800 (PST)
+X-Received: by 10.202.208.83 with SMTP id h80mr4613451oig.74.1449674704322;
+        Wed, 09 Dec 2015 07:25:04 -0800 (PST)
+Return-Path: <30EdoVgcLDLkmnqdokxxntstad.bnlJthodqGZtldZflZhk.bnl@scoutcamp.bounces.google.com>
+Received: from mail-oi0-x248.google.com (mail-oi0-x248.google.com. [2607:f8b0:4003:c06::248])
+        by mx.google.com with ESMTPS id ri7si1886080oeb.61.2015.12.09.07.25.04
+        for <KuiperHaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 09 Dec 2015 07:25:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of 30EdoVgcLDLkmnqdokxxntstad.bnlJthodqGZtldZflZhk.bnl@scoutcamp.bounces.google.com designates 2607:f8b0:4003:c06::248 as permitted sender) client-ip=2607:f8b0:4003:c06::248;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 30EdoVgcLDLkmnqdokxxntstad.bnlJthodqGZtldZflZhk.bnl@scoutcamp.bounces.google.com designates 2607:f8b0:4003:c06::248 as permitted sender) smtp.mailfrom=30EdoVgcLDLkmnqdokxxntstad.bnlJthodqGZtldZflZhk.bnl@scoutcamp.bounces.google.com;
+       dkim=pass header.i=@youtube.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=youtube.com
+Received: by mail-oi0-x248.google.com with SMTP id w189so78860732oiw.2
+        for <KuiperHaumea@gmail.com>; Wed, 09 Dec 2015 07:25:04 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=youtube.com; s=20120806;
+        h=mime-version:reply-to:feedback-id:list-unsubscribe:message-id:date
+         :subject:from:to:content-type;
+        bh=2JIkT8yVpJ84F4lMBcS7L5RIaIEWHUVgYu2FiwvbNAw=;
+        b=HZvU5Z5lNV+c7wxQMvUEHUJp2roAG0fvQzgikLeeoEv+DZfz3j+MMaFkBzPS0p15Bv
+         kYgmaOKKBtf5O6a5ybi9e84sbR0ci3d+rRXnrslIPpib0NrBK4XU0WQY646dTzASK/0i
+         lt48OXgnbIs9rCG3QEk3guy/EhLnyifG9fhvMaFXwRKw15pjuM/8tvdY9FTNbH3o1XOD
+         wxW2hwG9F9OUEzUZbIMLDDQtB/H+rupQ3/4ujKgRsYHW13/HneWWeN/C4F+qWOq72DXi
+         VT9mh5drH+X6qGW6cxDOc6RL1f7ihByAru/q7zSr+lz4yDBD/mGC0jg4BqoOnQ7iD3Zn
+         PUwg==
+MIME-Version: 1.0
+X-Received: by 10.202.173.143 with SMTP id w137mr4447728oie.52.1449674704045;
+ Wed, 09 Dec 2015 07:25:04 -0800 (PST)
+Reply-To: YouTube <noreply@youtube.com>
+X-Google-Id: yt-em-subs_digest-g
+Feedback-ID: Len-US:D3432015:C709701:gamma
+X-No-Auto-Attachment: 1
+List-Unsubscribe: <mailto:yt-mailto@google.com?subject=http://www.youtube.com/email_unsubscribe%3Fuid%3DMxgrVu0r6TRrCBerL7uf5A%26action_unsubscribe%3DPyXDM98t4qeizi_eC6jeiqGSkp18MTQ0OTY3NDY4NUAxNDQ5Njc0Njg1%26feature%3Dem-subs_digest-g>,
+ <http://www.youtube.com/email_unsubscribe?uid=MxgrVu0r6TRrCBerL7uf5A&action_unsubscribe=PyXDM98t4qeizi_eC6jeiqGSkp18MTQ0OTY3NDY4NUAxNDQ5Njc0Njg1&feature=em-subs_digest-g>
+X-Feedback-Id: em-subs_digest-g:UCSNxIry_FPFcQDFRbi3VOAw:Ul8naTHIV4g:YouTube
+Message-ID: <bcf80bad43bf7beb.1449674703118.826106.709701.en-US.7a8c02ee9244b1af@google.com>
+Date: Wed, 09 Dec 2015 15:25:04 +0000
+Subject: Andertons Music Co: "Tone City Pedals Does Rock Tones" and more videos
+From: YouTube <noreply@youtube.com>
+To: Lukador Bernstyle <KuiperHaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113cee24c6477b052678b19a
+
+--001a113cee24c6477b052678b19a
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+
+Here are the newest videos from each of your subscriptions. To change the  
+subscriptions for which you receive updates, or to turn off updates, go to  
+your email options:
+http://www.youtube.com/account_notifications?feature=em-subs_digest-g
+----------------------------------------------------------------
+Latest subscription updates
+----------------------------------------------------------------
+http://youtu.be/Ul8naTHIV4g?em
+Tone City Pedals Does Rock Tones
+[+3 videos]
+by Andertons Music Co
+--
+http://youtu.be/2Q4Yv3rgv-0?em
+Steve Shives: Activism, Apologists, and the F-Word
+by TheThinkingAtheist
+--
+http://youtu.be/b7yBjZiBAgg?em
+Sports Teams (ROCKET LEAGUE)
+[+1 video]
+by PauseUnpause
+--
+http://youtu.be/SycYqnPt7QA?em
+Don't Starve: Shipwrecked - Las Vegas! (E4)
+[+2 videos]
+by GuudeBoulderfist
+--
+http://youtu.be/oHEDzHyJiw8?em
+Cake!!!
+[+1 video]
+by TheRealNinjaBoy
+--
+http://youtu.be/kYaUVDTq1sA?em
+MaGLX2 postgame - 163 - blasting station
+[+1 video]
+by raocow
+--
+http://youtu.be/hoZkpbLitgA?em
+Does Police Training Make Cops Dangerous? (Huge Argument)
+[+2 videos]
+by The Jimmy Dore Show
+--
+http://youtu.be/ACVWnEq-guU?em
+The Condom Challenge :) (My first YouTube Challenge)
+by Brittany Simon
+--
+http://youtu.be/jiO0nkXTwcc?em
+ModKitsDIY - Mod 102+ Amp Demo & Review
+[+1 video]
+by The Tone King
+--
+http://youtu.be/9D_vUi1p6Lk?em
+Return to Minecraft 12 What Started Super Hostile?
+[+1 video]
+by Vechs
+----------------------------------------------------------------
+More new videos available at  
+http://www.youtube.com?feature=em-subs_digest-g.
+
+--001a113cee24c6477b052678b19a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<html lang=3D"en">
+<head>
+<title>
+Andertons Music Co: &quot;Tone City Pedals Does Rock Tones&quot; and more v=
+ideos
+</title>
+<style>
+* {
+font-family: arial, Arial, sans-serif;
+}
+@media only screen and (max-device-width: 480px) {
+body[class=3Dsuppress-border-on-mobile] {
+margin: 0 !important;
+border: 0 !important;
+padding: 0 !important;
+}
+table[class=3Dsuppress-on-mobile], td[class=3Dsuppress-on-mobile], div[clas=
+s=3Dsuppress-on-mobile], img[class=3Dsuppress-on-mobile], span[class=3Dsupp=
+ress-on-mobile] {
+display: none !important;
+width: 0px !important;
+height: 0px !important;
+line-height: 0px !important;
+margin: 0 !important;
+border: 0 !important;
+padding: 0 !important;
+}
+table[class=3Douter-container-width], td[class=3Douter-container-width] {
+width: 640px !important;
+}
+td[class=3Douter-container-padding-width] {
+width: 20px !important;
+}
+table[class=3Dinner-container-width], td[class=3Dinner-container-width] {
+width: 600px !important;
+}
+table[class=3Dheader-container-width] {
+width: 600px !important;
+height: 100px !important;
+}
+td[class=3Dheader_left_padding_width] {
+width: 25px !important;
+}
+td[class=3Dlogo_container_size] {
+width: 575px !important;
+height: 100px !important;
+}
+img[class=3Dheader_logo_size] {
+width: 125px !important;
+height: 50px !important;
+}
+table[class=3Dfooter-padding-width], td[class=3Dfooter-padding-width] {
+width: 30px !important;
+}
+table[class=3Dfooter-width], td[class=3Dfooter-width] {
+width: 540px !important;
+}
+td[class=3Dfooter-font], div[class=3Dfooter-font] {
+font-size: 18px !important;
+line-height: 24px !important;
+}
+table[class=3Dfooter-content-padding-height], td[class=3Dfooter-content-pad=
+ding-height] {
+height: 30px !important;
+}
+table[class=3Dlarge-section-padding-height], td[class=3Dlarge-section-paddi=
+ng-height] {
+height: 30px !important;
+}
+table[class=3Dsmall-section-padding-height], td[class=3Dsmall-section-paddi=
+ng-height] {
+height: 20px !important;
+}
+table[class=3Dcontent-container-padding-width], td[class=3Dcontent-containe=
+r-padding-width] {
+width: 30px !important;
+}
+table[class=3Dcontent-container-padding-height], td[class=3Dcontent-contain=
+er-padding-height] {
+height: 30px !important;
+}
+table[class=3Dcontent-container-width], td[class=3Dcontent-container-width]=
+ {
+width: 540px !important;
+}
+span[class=3Dvideo-title-font-class], a[class=3Dvideo-link-font-class], div=
+[class=3Dvideo-link-font-class], div[class=3Dgreeting-font], td[class=3Dgre=
+eting-font] {
+font-size: 30px !important;
+line-height: 36px !important;
+}
+span[class=3Dmeta-data-font], div[class=3Dmeta-data-font], a[class=3Dmeta-d=
+ata-font], td[class=3Dmeta-data-font] {
+display: block !important;
+font-size: 30px !important;
+line-height: 36px !important;
+}
+td[class=3Dsmall-meta-data-font] {
+font-size: 25px !important;
+line-height: 30px !important;
+}
+table[class=3Dvideo-content-padding-height], td[class=3Dvideo-content-paddi=
+ng-height] {
+height: 45px !important;
+}
+td[class=3Davatar-size], img[class=3Davatar-size] {
+width: 40px !important;
+height: 40px !important;
+}
+img[class=3Dlarge-avatar-size] {
+width: 70px !important;
+height: 70px !important;
+}
+img[class=3Dchannel-avatar-size] {
+width: 80px !important;
+height: 80px !important;
+}
+table[class=3Dmore-videos-size] {
+height: 100px !important;
+}
+div[class=3Dmore-videos-font], td[class=3Dmore-videos-font] {
+font-size: 24px !important;
+line-height: 27px !important;
+}
+table[class=3Dmore-videos-button-size] {
+width: 230px !important;
+height: 60px !important;
+}
+td[class=3Dmore-videos-button-width] {
+width: 250px !important;
+}
+td[class=3Dmore-videos-text-width] {
+width: 270px !important;
+}
+table[class=3Dvideo-spotlight-width] {
+width:600px !important;
+}
+td[class=3Dvideo-spotlight-size], img[class=3Dvideo-spotlight-size] {
+width:600px !important;
+height:332px !important;
+}
+table[class=3Dregular-button-height] {
+height:60px !important;
+}
+td[class=3Dregular-button-padding-width] {
+width:20px !important;
+}
+td[class=3Dregular-button-font] {
+font-size:27.5px !important;
+line-height:27.5px !important;
+}
+img[class=3Dplay-button-img-size] {
+width:20px !important;
+height:20px !important;
+}
+table[class=3Dlarge-button-size] {
+width:600px !important;
+height:70px !important;
+}
+table[class=3Dvideo-2col-size] {
+width:600px !important;
+height:600px !important;
+}
+table[class=3Dvideo-2col-width], td[class=3Dvideo-2col-width] {
+width:600px !important;
+}
+img[class=3Dvideo-2col-thumb-size] {
+width:600px !important;
+height:332px !important;
+}
+table[class=3Dvideo-2col-outer-container-size], td[class=3Dvideo-2col-outer=
+-container-size] {
+width: 600px !important;
+height: 268px !important;
+}
+table[class=3Dvideo-2col-inner-container-size], td[class=3Dvideo-2col-inner=
+-container-size] {
+width: 540px !important;
+height: 268px !important;
+}
+table[class=3Dvideo-2col-inner-container-width], td[class=3Dvideo-2col-inne=
+r-container-width] {
+width: 540px !important;
+}
+div[class=3Dsection-title-font], td[class=3Dsection-title-font] {
+font-size: 35px !important;
+line-height: 35px !important;
+}
+div[class=3Dsection-subtitle-font], td[class=3Dsection-subtitle-font] {
+font-size: 25px !important;
+line-height: 25px !important;
+}
+table[class=3Dvideo-3col-padding-height], td[class=3Dvideo-3col-padding-hei=
+ght] {
+height: 55px !important;
+}
+img[class=3Dvideo-3col-thumb-size], table[class=3Dvideo-3col-thumb-size] {
+width: 600px !important;
+height: 332px !important;
+}
+table[class=3Dvideo-3col-width], td[class=3Dvideo-3col-width] {
+width: 600px !important;
+}
+table[class=3Dinner-3col-content-container-width], td[class=3Dinner-3col-co=
+ntent-container-width] {
+width: 600px !important;
+}
+td[class=3Dsmall-pad-width] {
+width: 20px !important;
+}
+img[class=3Dchannel-avatar-size] {
+width: 80px !important;
+height: 80px !important;
+}
+span[class=3Dfollow-and-subs-font] {
+display: block !important;
+font-size: 24px !important;
+line-height: 27px !important;
+max-height:30px !important;
+}
+td[class=3Dsocial-logo-padding-width] {
+width: 12px !important;
+}
+table[class=3Dchannel-owner-block-content-width], td[class=3Dchannel-owner-=
+block-content-width] {
+width: 420px !important;
+}
+td[class=3Dshow-only-on-mobile] {
+display: block !important;
+width: 100% !important;
+max-height: 100% !important;
+overflow: visible !important;
+}
+}
+</style>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</head>
+<body class=3D"suppress-border-on-mobile">
+<span style=3D"display: none !important; visibility: hidden; width: 0; heig=
+ht: 0; opacity: 0; color: transparent;">Andertons Music Co: &quot;Tone City=
+ Pedals Does Rock Tones&quot; and more videos</span>
+<table class=3D"outer-container-width" width=3D"680" bgcolor=3D"#f0f0f0" al=
+ign=3D"center" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+<tr>
+<td class=3D"outer-container-padding-width" width=3D"40"></td>
+<td class=3D"inner-container-width" width=3D"600">
+<table class=3D"inner-container-width" width=3D"600" align=3D"center" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td>
+<table class=3D"header-container-width" width=3D"600" height=3D"60" align=
+=3D"center" valign=3D"center" bgcolor=3D"#3c3c3c" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+<tr>
+<td class=3D"header_left_padding_width" width=3D"16"></td>
+<td class=3D"logo_container_size" width=3D"584" height=3D"60" valign=3D"cen=
+ter">
+<img class=3D"header_logo_size" width=3D"75" height=3D"30" src=3D"http://ww=
+w.gstatic.com/youtube/img/email/email_logo.png" border=3D"0" style=3D"displ=
+ay:block;">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td style=3D"max-height:0px; font-size:0; display:none;"><hr class=3D"i=
+nner-container-width" width=3D"600" style=3D"height:0px; border:none; borde=
+r-color:#f0f0f0; padding:0px; margin:0px;"></td></tr>
+<tr><td class=3D"large-section-padding-height" height=3D"30"></td></tr>
+<tr>
+<td>
+<table class=3D"inner-container-width" width=3D"600" align=3D"center" valig=
+n=3D"center" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td>
+
+<table class=3D"inner-container-width" width=3D"600" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0">
+<tr>
+<td class=3D"greeting-font" style=3D"font-family:arial,Arial,sans-serif; fo=
+nt-size:20px; line-height:24px; letter-spacing:0px; font-weight:bold; color=
+:#222222; text-decoration:none; -webkit-text-size-adjust:none;">
+<b>Lukador</b>, check out the latest videos from your channel subscriptions=
+ for Dec 9, 2015.
+</td>
+<td class=3D"suppress-on-mobile" width=3D"20"></td>
+<td class=3D"suppress-on-mobile" align=3D"right" valign=3D"top">
+<table class=3D"large-button-size" bgcolor=3D"#f0f0f0">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DUl8naTHIV4g%252Co9uObc4XvVg%252C5ksLpmx9i1I%252Co=
+l3Ed1LSjMM%252C2Q4Yv3rgv-0%252Cb7yBjZiBAgg%252CrxaLendU53c%252CSycYqnPt7QA%=
+252Cjbe0h1ifl3A%252CLea6bZoARRg%252CoHEDzHyJiw8%252CtLmNot32u_g%252CkYaUVDT=
+q1sA%252C1g22_wRBQ4o%252ChoZkpbLitgA%252CWGI48B1ClD8%252C0zqB5_pujCM%252CAC=
+VWnEq-guU%252CjiO0nkXTwcc%252C7gg4MBxkp9w%252C9D_vUi1p6Lk%252CFqeBXfROldA%2=
+52CaYRLgxD9PI4%252C1BEA-yMeUS8%252CEhosbjfXs-E%252C2Z9Pl_WJ66A%252C6F-Vcpjm=
+TWA%252CL2nWyZvgKW0%252CZvUO-u0E_cM%252CmciOgnITYyA%26no_autoplay%3D1%26fea=
+ture%3Dem-subs_digest-g&amp;g=3DoZ4_jw-MWrfND2yZ3oi0Om6U-IP4eFbjE0AC3Mb-mK6=
+-Osg1Fo2qzqOSlapTAFClMlghuk-YFwFcsUr---kzfWjBG4GVqdF5N1Nty5LjFPNVKmBLIiL3J7=
+in6mzMRVOl-kd2PuiwSrAOJeO5t7VF1J_RDcMsR6EVl-sPtOo3TAa1G0VVEoy4J8Ig3ImrpkWSE=
+v-ABmQJqEevJNqDrcB0MtVJA6FGQL__Flzw5uQkH8ceEbRv0tWVwzzoNJkJivP_ampG1BD3k-2U=
+rs_cuu8oPWpzugH07tc11MHzE5JsuHA5uHueaSFqbmfkSNfAUDU8S-Z8ZG3pUhqHstQE64l4Foh=
+I5ZRGT9dBttS2cQArPOaL90RxipzGFVbCFkzH1DdzAOKhpfmpSGJELtV6dV-n5cLLFjzshsBp9i=
+rOJHTl2ON1H-g2sgwLHiMgVVArByGwzLrnShKWxQuPI8m5uBpA-PKe5hrYUJG07UPYSgM3Nns9x=
+iDFV1kCKm2DoW1H8EH-3YKzh_EG6Hjjs2yGiaTo0Rqe7tZFgLxdaR2K7RQqY7dRpFHu-IiiIQ9n=
+ofZJjD7hlhMltK99B3iZcyy21Q1aoIwLL_yWmAsS4DG8zWp3sSuffCRCgjUqLuSRygflCagigpt=
+gHiUYNjU6LTd-AjaCExApXzKRFSRANTL_oRy-YK5dI8EVzg82qgEBdsx2D4f4VvJHf-coqaUH0X=
+gvpcJ7C3vzl2SDfoU7IvctqPhJ2JpBtjHetbLzQYCKQHdQaHcl2dR-2Xn-hWWtFvnySTqSw8byb=
+PBV6FLEH3hpSeFT06FLV8T9HcVb13TlSXrwuj1h" target=3D"_blank" class=3D"nonplay=
+able" style=3D"text-decoration:none;">
+<table class=3D"large-button-size" height=3D"20" valign=3D"center" bgcolor=
+=3D"#fafafa" style=3D"border-style:solid; border-color:#d3d3d3; border-widt=
+h:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" nowrap style=3D"font-fami=
+ly:arial,Arial,sans-serif; color:#333333; line-height:15px; font-size:11px;=
+ font-weight:bold; text-align:center; text-decoration:none; vertical-align:=
+middle;">
+=C2=A0=C2=A0<img class=3D"play-button-img-size" src=3D"http://www.gstatic.c=
+om/youtube/img/email/mobile_email_play.png" style=3D"vertical-align:middle;=
+" width=3D"9" height=3D"9" border=3D"0">=C2=A0<span style=3D"vertical-align=
+:middle;">Play all</span>=C2=A0=C2=A0
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"suppress-on-mobile" width=3D"20"></td>
+</tr>
+<tr>
+<td colspan=3D"4">
+<table class=3D"large-section-padding-height" height=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-section-padding-height" height=3D"0"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<!--[if !mso]><!-->
+<td align=3D"right" colspan=3D"4" class=3D"show-only-on-mobile" style=3D"wi=
+dth:0; max-height:0; overflow:hidden; float:left; display:none;">
+<table class=3D"large-button-size" bgcolor=3D"#f0f0f0">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DUl8naTHIV4g%252Co9uObc4XvVg%252C5ksLpmx9i1I%252Co=
+l3Ed1LSjMM%252C2Q4Yv3rgv-0%252Cb7yBjZiBAgg%252CrxaLendU53c%252CSycYqnPt7QA%=
+252Cjbe0h1ifl3A%252CLea6bZoARRg%252CoHEDzHyJiw8%252CtLmNot32u_g%252CkYaUVDT=
+q1sA%252C1g22_wRBQ4o%252ChoZkpbLitgA%252CWGI48B1ClD8%252C0zqB5_pujCM%252CAC=
+VWnEq-guU%252CjiO0nkXTwcc%252C7gg4MBxkp9w%252C9D_vUi1p6Lk%252CFqeBXfROldA%2=
+52CaYRLgxD9PI4%252C1BEA-yMeUS8%252CEhosbjfXs-E%252C2Z9Pl_WJ66A%252C6F-Vcpjm=
+TWA%252CL2nWyZvgKW0%252CZvUO-u0E_cM%252CmciOgnITYyA%26no_autoplay%3D1%26fea=
+ture%3Dem-subs_digest-g&amp;g=3DoZ4_jw-MWrfND2yZ3oi0Om6U-IP4eFbjE0AC3Mb-mK6=
+-Osg1Fo2qzqOSlapTAFClMlghuk-YFwFcsUr---kzfWjBG4GVqdF5N1Nty5LjFPNVKmBLIiL3J7=
+in6mzMRVOl-kd2PuiwSrAOJeO5t7VF1J_RDcMsR6EVl-sPtOo3TAa1G0VVEoy4J8Ig3ImrpkWSE=
+v-ABmQJqEevJNqDrcB0MtVJA6FGQL__Flzw5uQkH8ceEbRv0tWVwzzoNJkJivP_ampG1BD3k-2U=
+rs_cuu8oPWpzugH07tc11MHzE5JsuHA5uHueaSFqbmfkSNfAUDU8S-Z8ZG3pUhqHstQE64l4Foh=
+I5ZRGT9dBttS2cQArPOaL90RxipzGFVbCFkzH1DdzAOKhpfmpSGJELtV6dV-n5cLLFjzshsBp9i=
+rOJHTl2ON1H-g2sgwLHiMgVVArByGwzLrnShKWxQuPI8m5uBpA-PKe5hrYUJG07UPYSgM3Nns9x=
+iDFV1kCKm2DoW1H8EH-3YKzh_EG6Hjjs2yGiaTo0Rqe7tZFgLxdaR2K7RQqY7dRpFHu-IiiIQ9n=
+ofZJjD7hlhMltK99B3iZcyy21Q1aoIwLL_yWmAsS4DG8zWp3sSuffCRCgjUqLuSRygflCagigpt=
+gHiUYNjU6LTd-AjaCExApXzKRFSRANTL_oRy-YK5dI8EVzg82qgEBdsx2D4f4VvJHf-coqaUH0X=
+gvpcJ7C3vzl2SDfoU7IvctqPhJ2JpBtjHetbLzQYCKQHdQaHcl2dR-2Xn-hWWtFvnySTqSw8byb=
+PBV6FLEH3hpSeFT06FLV8T9HcVb13TlSXrwuj1h" target=3D"_blank" class=3D"nonplay=
+able" style=3D"text-decoration:none;">
+<table class=3D"large-button-size" height=3D"20" valign=3D"center" bgcolor=
+=3D"#fafafa" style=3D"border-style:solid; border-color:#d3d3d3; border-widt=
+h:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" nowrap style=3D"font-fami=
+ly:arial,Arial,sans-serif; color:#333333; line-height:15px; font-size:11px;=
+ font-weight:bold; text-align:center; text-decoration:none; vertical-align:=
+middle;">
+=C2=A0=C2=A0<img class=3D"play-button-img-size" src=3D"http://www.gstatic.c=
+om/youtube/img/email/mobile_email_play.png" style=3D"vertical-align:middle;=
+" width=3D"9" height=3D"9" border=3D"0">=C2=A0<span style=3D"vertical-align=
+:middle;">Play all</span>=C2=A0=C2=A0
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+<!--<![endif]-->
+</tr>
+<tr>
+<td colspan=3D"4">
+<table class=3D"small-section-padding-height" height=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"0"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"inner-container-width" width=3D"600" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" bgcolor=3D"#F0F0F0">
+<tr>
+<td class=3D"inner-container-width" width=3D"600">
+<table class=3D"inner-container-width" width=3D"600" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" bgcolor=3D"#F0F0F0">
+<tr>
+<td class=3D"inner-container-width" width=3D"600" valign=3D"top">
+<table align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DUl8naTHIV4g%252Co9uObc4XvVg%252C5ksLpmx9i1I%252Co=
+l3Ed1LSjMM%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BAndertons%2BMusic%2BCo%2Bfor%2BDec%2B9,%2B2015&amp;g=3DXY=
+65OyXqSZjjQ4zpi5pwRr0niiYqCQS16bJ-gteoVYN2xWm-HBVbEYQFhrVU7vLLo7t6HgjolmT1w=
+c5IKdWbBhf49aHFDYUOTkC3o0jxqJjhMBuGtyLts-RMHH3GcfySkNjl0EuQqD7q-PMUImnxyV7p=
+PMbpJ9hpFtGHgYomY5OHX_eSFFF2kFNq8W008gRjKgxy0vzrN--uZtBse2j2GsXdAsy5yMr-Zsh=
+jJKNrbxl44rrTJzZWfgjssptbJYBV2TS-YZz6J6waCBBTmTYlUHU_vipLgjku_ks4sDYT5ozI7G=
+4SRPBLdwSEWAG0BvV4bhbDSrSFsaGXgYgCfIDzucUgm0Y_oQx8MSwDRsKg5FxgjvyjcC0rCwj4o=
+Padfiurs1o%3D" style=3D"text-decoration:none;" target=3D"_blank" ; class=3D=
+"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/Ul8naTHIV=
+4g/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DXA_F4axUXzIfrPighiCTE8j9R5E" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DUl8naTHIV4g%252Co=
+9uObc4XvVg%252C5ksLpmx9i1I%252Col3Ed1LSjMM%26no_autoplay%3D1%26feature%3Dem=
+-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BAndertons%2BMusic%2BCo%2B=
+for%2BDec%2B9,%2B2015&amp;g=3DXY65OyXqSZjjQ4zpi5pwRr0niiYqCQS16bJ-gteoVYN2x=
+Wm-HBVbEYQFhrVU7vLLo7t6HgjolmT1wc5IKdWbBhf49aHFDYUOTkC3o0jxqJjhMBuGtyLts-RM=
+HH3GcfySkNjl0EuQqD7q-PMUImnxyV7pPMbpJ9hpFtGHgYomY5OHX_eSFFF2kFNq8W008gRjKgx=
+y0vzrN--uZtBse2j2GsXdAsy5yMr-ZshjJKNrbxl44rrTJzZWfgjssptbJYBV2TS-YZz6J6waCB=
+BTmTYlUHU_vipLgjku_ks4sDYT5ozI7G4SRPBLdwSEWAG0BvV4bhbDSrSFsaGXgYgCfIDzucUgm=
+0Y_oQx8MSwDRsKg5FxgjvyjcC0rCwj4oPadfiurs1o%3D" style=3D"font-family:arial,A=
+rial,sans-serif; font-size:12px; font-weight:bold; color:#222222; line-heig=
+ht:15px; letter-spacing:0px; -webkit-text-size-adjust:none; text-decoration=
+:none;">
+Tone City Pedals Does Rock Tones
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+6 hours ago
+=C2=A0=E2=80=A2=C2=A0
+286 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/AndertonsMusic?feature%3Dem-subs_digest-g&amp;g=3DOSs-fY_uOhovW6cywlq=
+ZFj5Ma46OMGE2-MWA09ZvrYgAOPihdBchffk9yGTyGi55ZL8jBPYwfry0HWS-pk5TGVuxbeahG_=
+ukReKqF6Tkfh3Iy9t499OOuypgaFyq6MqxN1q4uguxh1XxQ3LlgdqEaIXeaQ6OTMlZQMQ%3D">
+<img class=3D"avatar-size" src=3D"https://lh4.googleusercontent.com/-TNpuBm=
+24H7A/AAAAAAAAAAI/AAAAAAAAAAA/aMNpnykWdc0/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/AndertonsMusic?feature%3Dem-subs_dige=
+st-g&amp;g=3DOSs-fY_uOhovW6cywlqZFj5Ma46OMGE2-MWA09ZvrYgAOPihdBchffk9yGTyGi=
+55ZL8jBPYwfry0HWS-pk5TGVuxbeahG_ukReKqF6Tkfh3Iy9t499OOuypgaFyq6MqxN1q4uguxh=
+1XxQ3LlgdqEaIXeaQ6OTMlZQMQ%3D" style=3D"font-family:arial,Arial,sans-serif;=
+ font-size:12px; color:#222222; line-height:15px; letter-spacing:0px; -webk=
+it-text-size-adjust:none; text-decoration:none;">
+Andertons Music Co
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DUl8naTHIV4g%252Co9uObc4XvVg%252C5ksLpmx9i1I%252Co=
+l3Ed1LSjMM%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BAndertons%2BMusic%2BCo%2Bfor%2BDec%2B9,%2B2015&amp;g=3DXY=
+65OyXqSZjjQ4zpi5pwRr0niiYqCQS16bJ-gteoVYN2xWm-HBVbEYQFhrVU7vLLo7t6HgjolmT1w=
+c5IKdWbBhf49aHFDYUOTkC3o0jxqJjhMBuGtyLts-RMHH3GcfySkNjl0EuQqD7q-PMUImnxyV7p=
+PMbpJ9hpFtGHgYomY5OHX_eSFFF2kFNq8W008gRjKgxy0vzrN--uZtBse2j2GsXdAsy5yMr-Zsh=
+jJKNrbxl44rrTJzZWfgjssptbJYBV2TS-YZz6J6waCBBTmTYlUHU_vipLgjku_ks4sDYT5ozI7G=
+4SRPBLdwSEWAG0BvV4bhbDSrSFsaGXgYgCfIDzucUgm0Y_oQx8MSwDRsKg5FxgjvyjcC0rCwj4o=
+Padfiurs1o%3D" target=3D"_blank" style=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 3 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch?v%3D2Q4Yv3rgv-0%26feature%3Dem-subs_digest-g&amp;g=3DFgH_pTMrWALrXsu=
+hH9H49N32T3rbaiD32K5-0mCaWrpbD24SwyiRAbwlYTgE6IXQ0wLK3x-8rfL5nenrcWILI3HQiH=
+rCf6_BsNaoyzV9waHfbHhZJxbOYlFHa_I6axF_-Wc3Ql8OwX6j2Z2ImGEP4ovTsZibc-L098p4m=
+9jY" style=3D"text-decoration:none;" target=3D"_blank" ; class=3D"nonplayab=
+le">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/2Q4Yv3rgv=
+-0/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3D4TDZJYF7lwNV1jZ6LS2pjXiiscc" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch?v%3D2Q4Yv3rgv-0%26feature%3Dem-subs_=
+digest-g&amp;g=3DFgH_pTMrWALrXsuhH9H49N32T3rbaiD32K5-0mCaWrpbD24SwyiRAbwlYT=
+gE6IXQ0wLK3x-8rfL5nenrcWILI3HQiHrCf6_BsNaoyzV9waHfbHhZJxbOYlFHa_I6axF_-Wc3Q=
+l8OwX6j2Z2ImGEP4ovTsZibc-L098p4m9jY" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:12px; font-weight:bold; color:#222222; line-height:15px; l=
+etter-spacing:0px; -webkit-text-size-adjust:none; text-decoration:none;">
+Steve Shives: Activism, Apologists, and the F-Word
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+17 hours ago
+=C2=A0=E2=80=A2=C2=A0
+6,487 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/TheThinkingAtheist?feature%3Dem-subs_digest-g&amp;g=3D7Xf1B02MUCCn656=
+KeNeDsGg2U5oHfb0Yten8CDce-WBVlziX2tCErF3RbCnrcHEK-UAiRZFHoc-zpNJmSO9VK4fiVT=
+WFgr1Hn2402rkfq2TBHnaMGo6WYrgDBL8sr-tI7CbXQf2QiNNG-_-GLpdOYKsxXQiBBdlC0YUUG=
+Jxn">
+<img class=3D"avatar-size" src=3D"https://lh6.googleusercontent.com/-ptzePp=
+F6Hno/AAAAAAAAAAI/AAAAAAAAAAA/FizgMheuF8Y/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/TheThinkingAtheist?feature%3Dem-subs_=
+digest-g&amp;g=3D7Xf1B02MUCCn656KeNeDsGg2U5oHfb0Yten8CDce-WBVlziX2tCErF3RbC=
+nrcHEK-UAiRZFHoc-zpNJmSO9VK4fiVTWFgr1Hn2402rkfq2TBHnaMGo6WYrgDBL8sr-tI7CbXQ=
+f2QiNNG-_-GLpdOYKsxXQiBBdlC0YUUGJxn" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:12px; color:#222222; line-height:15px; letter-spacing:0px;=
+ -webkit-text-size-adjust:none; text-decoration:none;">
+TheThinkingAtheist
+</a>
+</td>
+<td align=3D"right">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"600" valign=3D"top">
+<table align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3Db7yBjZiBAgg%252CrxaLendU53c%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BPauseUnpause%2=
+Bfor%2BDec%2B9,%2B2015&amp;g=3Dqc7jAgktpnAQ2tMvKx6aWKdNgTbNZu6XbDgFCdGKVFr0=
+dsxjMSy7WwfG3-YquKgPkNShaELJxleEvnEVKt4sQhmu86zXx1c8NRdCC50oVE7XRNfuwgJIifo=
+U4uPd8mdIGBXkG6I7kCm_5kMP6qxbPzg6TgOWy5jfk3KLHrZbexOdq8d7u66lVsd-0e-kQzGnX3=
+l2GESFqTmHPDr1ovCOWZpRCdosYpAMBHkmfRxroycucTvytOMRTlnD5HnPLu542011VUkTBb67P=
+JKAStYQ3D7KJ1IoYUehe2tOD0r6c65grNoXZ2rnOQaZvFgnF0lHMKYA4_57KsM%3D" style=3D=
+"text-decoration:none;" target=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/b7yBjZiBA=
+gg/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DJKU4pXxcbaTjcuLIiNdO-OLdXho" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3Db7yBjZiBAgg%252Cr=
+xaLendU53c%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BPauseUnpause%2Bfor%2BDec%2B9,%2B2015&amp;g=3Dqc7jAgktpnAQ=
+2tMvKx6aWKdNgTbNZu6XbDgFCdGKVFr0dsxjMSy7WwfG3-YquKgPkNShaELJxleEvnEVKt4sQhm=
+u86zXx1c8NRdCC50oVE7XRNfuwgJIifoU4uPd8mdIGBXkG6I7kCm_5kMP6qxbPzg6TgOWy5jfk3=
+KLHrZbexOdq8d7u66lVsd-0e-kQzGnX3l2GESFqTmHPDr1ovCOWZpRCdosYpAMBHkmfRxroycuc=
+TvytOMRTlnD5HnPLu542011VUkTBb67PJKAStYQ3D7KJ1IoYUehe2tOD0r6c65grNoXZ2rnOQaZ=
+vFgnF0lHMKYA4_57KsM%3D" style=3D"font-family:arial,Arial,sans-serif; font-s=
+ize:12px; font-weight:bold; color:#222222; line-height:15px; letter-spacing=
+:0px; -webkit-text-size-adjust:none; text-decoration:none;">
+Sports Teams (ROCKET LEAGUE)
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+13 hours ago
+=C2=A0=E2=80=A2=C2=A0
+2,167 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/PauseUnpause?feature%3Dem-subs_digest-g&amp;g=3DBey1gNVwbuQToI3a19szV=
+S0N4hR1Ol7OiLPXJUuuIiafXKTE0BS7tiyTiSrsZj0M-BcI3TtIncuP7NsFjAt4WnzWmcOFM9k5=
+GwlOm-OhwNRIOcQNpN4Q_nh82ia-fqNTLKKussoy6A4l8qHFa7nEZg80ZbnYPjtQ">
+<img class=3D"avatar-size" src=3D"https://lh4.googleusercontent.com/-OTSWHH=
+hwxD4/AAAAAAAAAAI/AAAAAAAAAAA/a6ROK57bpf4/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/PauseUnpause?feature%3Dem-subs_digest=
+-g&amp;g=3DBey1gNVwbuQToI3a19szVS0N4hR1Ol7OiLPXJUuuIiafXKTE0BS7tiyTiSrsZj0M=
+-BcI3TtIncuP7NsFjAt4WnzWmcOFM9k5GwlOm-OhwNRIOcQNpN4Q_nh82ia-fqNTLKKussoy6A4=
+l8qHFa7nEZg80ZbnYPjtQ" style=3D"font-family:arial,Arial,sans-serif; font-si=
+ze:12px; color:#222222; line-height:15px; letter-spacing:0px; -webkit-text-=
+size-adjust:none; text-decoration:none;">
+PauseUnpause
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3Db7yBjZiBAgg%252CrxaLendU53c%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BPauseUnpause%2=
+Bfor%2BDec%2B9,%2B2015&amp;g=3Dqc7jAgktpnAQ2tMvKx6aWKdNgTbNZu6XbDgFCdGKVFr0=
+dsxjMSy7WwfG3-YquKgPkNShaELJxleEvnEVKt4sQhmu86zXx1c8NRdCC50oVE7XRNfuwgJIifo=
+U4uPd8mdIGBXkG6I7kCm_5kMP6qxbPzg6TgOWy5jfk3KLHrZbexOdq8d7u66lVsd-0e-kQzGnX3=
+l2GESFqTmHPDr1ovCOWZpRCdosYpAMBHkmfRxroycucTvytOMRTlnD5HnPLu542011VUkTBb67P=
+JKAStYQ3D7KJ1IoYUehe2tOD0r6c65grNoXZ2rnOQaZvFgnF0lHMKYA4_57KsM%3D" target=
+=3D"_blank" style=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 1 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DSycYqnPt7QA%252Cjbe0h1ifl3A%252CLea6bZoARRg%26no_=
+autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%=
+2BGuudeBoulderfist%2Bfor%2BDec%2B9,%2B2015&amp;g=3DQytUNzeKyn_-stEw8Cj0Xa_K=
+NMPxY5dhncJSgUk5cZJCLHIfgD6jF_lUQUlZ2oXWewuXH79-zIX7OOZQFU4tX6Z69lhqxb2w1o8=
+5XCbxaFymA6iXicfWgrEWG_smJP2epvkfOyaSImSYetVUHsUu_jSdwcYgXghDAEmlfxg0awpPMa=
+Oqr3G3KWVL3N7OMS3tvg3bvUfO7ogIPcijXzb0y0ac5Zr5ECu-4kuWrMHiOgMW5EjP5lIho0xGv=
+7nNefV9_EUd8EsyEuCx1-ypr5IS9JBGW5eAKxE1qPhcqbG7IagsQ-GNnWg_rgo8nTGEvDlchcSH=
+koKfrj4SKf83f2CDcQBiybj5DN-nVvBxew%3D%3D" style=3D"text-decoration:none;" t=
+arget=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/SycYqnPt7=
+QA/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DbdV_NKv39kwPMjbl0DUf3bDr9Tw" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DSycYqnPt7QA%252Cj=
+be0h1ifl3A%252CLea6bZoARRg%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%2=
+6title%3DLatest%2Bvideos%2Bfrom%2BGuudeBoulderfist%2Bfor%2BDec%2B9,%2B2015&=
+amp;g=3DQytUNzeKyn_-stEw8Cj0Xa_KNMPxY5dhncJSgUk5cZJCLHIfgD6jF_lUQUlZ2oXWewu=
+XH79-zIX7OOZQFU4tX6Z69lhqxb2w1o85XCbxaFymA6iXicfWgrEWG_smJP2epvkfOyaSImSYet=
+VUHsUu_jSdwcYgXghDAEmlfxg0awpPMaOqr3G3KWVL3N7OMS3tvg3bvUfO7ogIPcijXzb0y0ac5=
+Zr5ECu-4kuWrMHiOgMW5EjP5lIho0xGv7nNefV9_EUd8EsyEuCx1-ypr5IS9JBGW5eAKxE1qPhc=
+qbG7IagsQ-GNnWg_rgo8nTGEvDlchcSHkoKfrj4SKf83f2CDcQBiybj5DN-nVvBxew%3D%3D" s=
+tyle=3D"font-family:arial,Arial,sans-serif; font-size:12px; font-weight:bol=
+d; color:#222222; line-height:15px; letter-spacing:0px; -webkit-text-size-a=
+djust:none; text-decoration:none;">
+Don&#39;t Starve: Shipwrecked - Las Vegas! (E4)
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+133 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/GuudeBoulderfist?feature%3Dem-subs_digest-g&amp;g=3D8NjCrmpXZcn0I-BVH=
+7PNLs4_SM0N8wDLBCZjRkogdjxP-EMMzS4iLM00qHdx1fRU__SQnO-p3GLNsvyrBSJvr82v2vcS=
+HcjfqvBX2rch5CeJhM1UMBtlLIRXsnNop2-G8CiwNPNSTlu0aoGh_q1WDB5Pnxb9ZRczRjUeyQ%=
+3D%3D">
+<img class=3D"avatar-size" src=3D"https://lh3.googleusercontent.com/-POcLZo=
+9ZxFw/AAAAAAAAAAI/AAAAAAAAAAA/EQO9wfLCCMw/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/GuudeBoulderfist?feature%3Dem-subs_di=
+gest-g&amp;g=3D8NjCrmpXZcn0I-BVH7PNLs4_SM0N8wDLBCZjRkogdjxP-EMMzS4iLM00qHdx=
+1fRU__SQnO-p3GLNsvyrBSJvr82v2vcSHcjfqvBX2rch5CeJhM1UMBtlLIRXsnNop2-G8CiwNPN=
+STlu0aoGh_q1WDB5Pnxb9ZRczRjUeyQ%3D%3D" style=3D"font-family:arial,Arial,san=
+s-serif; font-size:12px; color:#222222; line-height:15px; letter-spacing:0p=
+x; -webkit-text-size-adjust:none; text-decoration:none;">
+GuudeBoulderfist
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DSycYqnPt7QA%252Cjbe0h1ifl3A%252CLea6bZoARRg%26no_=
+autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%=
+2BGuudeBoulderfist%2Bfor%2BDec%2B9,%2B2015&amp;g=3DQytUNzeKyn_-stEw8Cj0Xa_K=
+NMPxY5dhncJSgUk5cZJCLHIfgD6jF_lUQUlZ2oXWewuXH79-zIX7OOZQFU4tX6Z69lhqxb2w1o8=
+5XCbxaFymA6iXicfWgrEWG_smJP2epvkfOyaSImSYetVUHsUu_jSdwcYgXghDAEmlfxg0awpPMa=
+Oqr3G3KWVL3N7OMS3tvg3bvUfO7ogIPcijXzb0y0ac5Zr5ECu-4kuWrMHiOgMW5EjP5lIho0xGv=
+7nNefV9_EUd8EsyEuCx1-ypr5IS9JBGW5eAKxE1qPhcqbG7IagsQ-GNnWg_rgo8nTGEvDlchcSH=
+koKfrj4SKf83f2CDcQBiybj5DN-nVvBxew%3D%3D" target=3D"_blank" style=3D"text-d=
+ecoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 2 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"600" valign=3D"top">
+<table align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DoHEDzHyJiw8%252CtLmNot32u_g%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BTheRealNinjaBo=
+y%2Bfor%2BDec%2B9,%2B2015&amp;g=3DSKhp9xtoEJIqxudlvsI0JpwoIE5hNU9XbfTC20lJd=
+VG2AvdNeqqD9UcfUcTruBX_g21xCeZVXMY8T5Xm1jTXPdKEqgqlogRzj0u_mCOIGytg8jCd4gRF=
+-C59Uo41sjlKQCHodS_-1we4qorMkgFW24R9VwzQScLVTKoAJsN3fs4WYHUxCvh0USQmmBB9sW1=
+qtZIzugifCFEzdzhPozVguZj7z30--DPL20vc9jWI7xXTZq8buGCYiv2q2_lnA3WSwZePeTCbYy=
+oOSKs0vvJrvdltXu7MNYhxJROi3n-RATDEa3xRx6odWogmfrSHcnPxxTrI0dX1G_Fmu2I%3D" s=
+tyle=3D"text-decoration:none;" target=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/oHEDzHyJi=
+w8/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DZ3oD5hplNY4TTS5hGKX-dedJWFo" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DoHEDzHyJiw8%252Ct=
+LmNot32u_g%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BTheRealNinjaBoy%2Bfor%2BDec%2B9,%2B2015&amp;g=3DSKhp9xtoE=
+JIqxudlvsI0JpwoIE5hNU9XbfTC20lJdVG2AvdNeqqD9UcfUcTruBX_g21xCeZVXMY8T5Xm1jTX=
+PdKEqgqlogRzj0u_mCOIGytg8jCd4gRF-C59Uo41sjlKQCHodS_-1we4qorMkgFW24R9VwzQScL=
+VTKoAJsN3fs4WYHUxCvh0USQmmBB9sW1qtZIzugifCFEzdzhPozVguZj7z30--DPL20vc9jWI7x=
+XTZq8buGCYiv2q2_lnA3WSwZePeTCbYyoOSKs0vvJrvdltXu7MNYhxJROi3n-RATDEa3xRx6odW=
+ogmfrSHcnPxxTrI0dX1G_Fmu2I%3D" style=3D"font-family:arial,Arial,sans-serif;=
+ font-size:12px; font-weight:bold; color:#222222; line-height:15px; letter-=
+spacing:0px; -webkit-text-size-adjust:none; text-decoration:none;">
+Cake!!!
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+1 hour ago
+=C2=A0=E2=80=A2=C2=A0
+21 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/TheRealNinjaBoy?feature%3Dem-subs_digest-g&amp;g=3DRcjWSk0Y86tRzbtRio=
+tTuAq0BfeszNFQdW3e_yTYlLz3sKhcs6EBQHtT3O8Xyqmkm8s2cM_gm2jvIkiKxR29LEd04lmRA=
+rEgPDqXX2yh_YesjblpJmCOGhn2H1DbQlDVzbGhMDnBXkewY1QppcTtvScmKKZwvntBFFwI">
+<img class=3D"avatar-size" src=3D"https://lh6.googleusercontent.com/-CW9rY4=
+E2888/AAAAAAAAAAI/AAAAAAAAAAA/cgEJECA_IYA/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/TheRealNinjaBoy?feature%3Dem-subs_dig=
+est-g&amp;g=3DRcjWSk0Y86tRzbtRiotTuAq0BfeszNFQdW3e_yTYlLz3sKhcs6EBQHtT3O8Xy=
+qmkm8s2cM_gm2jvIkiKxR29LEd04lmRArEgPDqXX2yh_YesjblpJmCOGhn2H1DbQlDVzbGhMDnB=
+XkewY1QppcTtvScmKKZwvntBFFwI" style=3D"font-family:arial,Arial,sans-serif; =
+font-size:12px; color:#222222; line-height:15px; letter-spacing:0px; -webki=
+t-text-size-adjust:none; text-decoration:none;">
+TheRealNinjaBoy
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DoHEDzHyJiw8%252CtLmNot32u_g%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BTheRealNinjaBo=
+y%2Bfor%2BDec%2B9,%2B2015&amp;g=3DSKhp9xtoEJIqxudlvsI0JpwoIE5hNU9XbfTC20lJd=
+VG2AvdNeqqD9UcfUcTruBX_g21xCeZVXMY8T5Xm1jTXPdKEqgqlogRzj0u_mCOIGytg8jCd4gRF=
+-C59Uo41sjlKQCHodS_-1we4qorMkgFW24R9VwzQScLVTKoAJsN3fs4WYHUxCvh0USQmmBB9sW1=
+qtZIzugifCFEzdzhPozVguZj7z30--DPL20vc9jWI7xXTZq8buGCYiv2q2_lnA3WSwZePeTCbYy=
+oOSKs0vvJrvdltXu7MNYhxJROi3n-RATDEa3xRx6odWogmfrSHcnPxxTrI0dX1G_Fmu2I%3D" t=
+arget=3D"_blank" style=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 1 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DkYaUVDTq1sA%252C1g22_wRBQ4o%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2Braocow%2Bfor%2=
+BDec%2B9,%2B2015&amp;g=3Dr2Xc5o4qnElrlWRdOraZxGr7eiKWsnSheHYgP-C7OUKocCaoqg=
+_vAHgsNm8aRyZeEHsNCFHuQhPd_ns5q9-8yFRiPeh9lfIQe0f6dgg7hAGIVkPU21UQeBblt1A9U=
+uJPKmqgq-5xC6slBEFISwSrZVo8o76cNSsS-zqIbEqAnszX6uBznemyR_GsZXSzROc0Zf8Xq3NS=
+c_8OVaS2J_BokdgX4vORt12mDHrk-0NuKwBmnSl_XHFvUDsbx3Jl-CoGaN7T9ZG3URr9qtZgSzD=
+C1pRWDXtcYdWlLVwTwMZr3mXqG5qq5QpFw3gSamdkuzatnjI%3D" style=3D"text-decorati=
+on:none;" target=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/kYaUVDTq1=
+sA/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3Dz-XUbK4Kmb3qJBPK2wXgvJG2gxs" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DkYaUVDTq1sA%252C1=
+g22_wRBQ4o%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2Braocow%2Bfor%2BDec%2B9,%2B2015&amp;g=3Dr2Xc5o4qnElrlWRdOr=
+aZxGr7eiKWsnSheHYgP-C7OUKocCaoqg_vAHgsNm8aRyZeEHsNCFHuQhPd_ns5q9-8yFRiPeh9l=
+fIQe0f6dgg7hAGIVkPU21UQeBblt1A9UuJPKmqgq-5xC6slBEFISwSrZVo8o76cNSsS-zqIbEqA=
+nszX6uBznemyR_GsZXSzROc0Zf8Xq3NSc_8OVaS2J_BokdgX4vORt12mDHrk-0NuKwBmnSl_XHF=
+vUDsbx3Jl-CoGaN7T9ZG3URr9qtZgSzDC1pRWDXtcYdWlLVwTwMZr3mXqG5qq5QpFw3gSamdkuz=
+atnjI%3D" style=3D"font-family:arial,Arial,sans-serif; font-size:12px; font=
+-weight:bold; color:#222222; line-height:15px; letter-spacing:0px; -webkit-=
+text-size-adjust:none; text-decoration:none;">
+MaGLX2 postgame - 163 - blasting station
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+3 hours ago
+=C2=A0=E2=80=A2=C2=A0
+387 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/raocow?feature%3Dem-subs_digest-g&amp;g=3DXhAooqqRvqDRmdU2fOlXqOV3AMA=
+2c1bL8O_J9NucgvnNeZiYWeegIekpvKOUhie1BIe5uJHflbIiIoZS5rHqcxmamqJ7BSisBLUA7O=
+ySBpLIrcvwsZIcHpFQSAs0wqvUJ-JK2UDYr01kYJsELACGbxpW">
+<img class=3D"avatar-size" src=3D"https://lh3.googleusercontent.com/-NJlc4N=
+GHGUQ/AAAAAAAAAAI/AAAAAAAAAAA/PUNt-AgDFJc/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/raocow?feature%3Dem-subs_digest-g&amp=
+;g=3DXhAooqqRvqDRmdU2fOlXqOV3AMA2c1bL8O_J9NucgvnNeZiYWeegIekpvKOUhie1BIe5uJ=
+HflbIiIoZS5rHqcxmamqJ7BSisBLUA7OySBpLIrcvwsZIcHpFQSAs0wqvUJ-JK2UDYr01kYJsEL=
+ACGbxpW" style=3D"font-family:arial,Arial,sans-serif; font-size:12px; color=
+:#222222; line-height:15px; letter-spacing:0px; -webkit-text-size-adjust:no=
+ne; text-decoration:none;">
+raocow
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DkYaUVDTq1sA%252C1g22_wRBQ4o%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2Braocow%2Bfor%2=
+BDec%2B9,%2B2015&amp;g=3Dr2Xc5o4qnElrlWRdOraZxGr7eiKWsnSheHYgP-C7OUKocCaoqg=
+_vAHgsNm8aRyZeEHsNCFHuQhPd_ns5q9-8yFRiPeh9lfIQe0f6dgg7hAGIVkPU21UQeBblt1A9U=
+uJPKmqgq-5xC6slBEFISwSrZVo8o76cNSsS-zqIbEqAnszX6uBznemyR_GsZXSzROc0Zf8Xq3NS=
+c_8OVaS2J_BokdgX4vORt12mDHrk-0NuKwBmnSl_XHFvUDsbx3Jl-CoGaN7T9ZG3URr9qtZgSzD=
+C1pRWDXtcYdWlLVwTwMZr3mXqG5qq5QpFw3gSamdkuzatnjI%3D" target=3D"_blank" styl=
+e=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 1 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"600" valign=3D"top">
+<table align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DhoZkpbLitgA%252CWGI48B1ClD8%252C0zqB5_pujCM%26no_=
+autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%=
+2BThe%2BJimmy%2BDore%2BShow%2Bfor%2BDec%2B9,%2B2015&amp;g=3DtHFkzHpbmwMT152=
+_mOk2qt0hjxWPrgQ_euFDjqAB3QGrddLCzwi3DCERsBYThX0HVNq7Y7Haiv1AhwTBnYXIq-qUjh=
+O_llgaoR4eboQ7TP-rOFlAqzPIIuyDtJ7NFgZ91YYCERsQ5rA2Ei0pjKbfr87CJCG97cvozfC_P=
+40_QHrrx5WHhITyCtDQ95io7vfj1jhmp-vKWbl7ymj-kZSa9xaP4Qc5qALB8s6o0qt5fLHf4Mw2=
+K_nheXPYm6WcQs0iEETyoTbeT7OIiyDgb41seWmdzFO1917CDCXwWRoQbfYIeCkjoPubk-l5LMr=
+GOVXVRseNHQFyRAnFqyK_MukMi8qHBO2o15Ykg9UwL5c7E9bHQc_CCA%3D%3D" style=3D"tex=
+t-decoration:none;" target=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/hoZkpbLit=
+gA/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DO3VFC7u8TPPjxPdVZVNhRpSieEU" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DhoZkpbLitgA%252CW=
+GI48B1ClD8%252C0zqB5_pujCM%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%2=
+6title%3DLatest%2Bvideos%2Bfrom%2BThe%2BJimmy%2BDore%2BShow%2Bfor%2BDec%2B9=
+,%2B2015&amp;g=3DtHFkzHpbmwMT152_mOk2qt0hjxWPrgQ_euFDjqAB3QGrddLCzwi3DCERsB=
+YThX0HVNq7Y7Haiv1AhwTBnYXIq-qUjhO_llgaoR4eboQ7TP-rOFlAqzPIIuyDtJ7NFgZ91YYCE=
+RsQ5rA2Ei0pjKbfr87CJCG97cvozfC_P40_QHrrx5WHhITyCtDQ95io7vfj1jhmp-vKWbl7ymj-=
+kZSa9xaP4Qc5qALB8s6o0qt5fLHf4Mw2K_nheXPYm6WcQs0iEETyoTbeT7OIiyDgb41seWmdzFO=
+1917CDCXwWRoQbfYIeCkjoPubk-l5LMrGOVXVRseNHQFyRAnFqyK_MukMi8qHBO2o15Ykg9UwL5=
+c7E9bHQc_CCA%3D%3D" style=3D"font-family:arial,Arial,sans-serif; font-size:=
+12px; font-weight:bold; color:#222222; line-height:15px; letter-spacing:0px=
+; -webkit-text-size-adjust:none; text-decoration:none;">
+Does Police Training Make Cops Dangerous? (Huge Argument)
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+14 hours ago
+=C2=A0=E2=80=A2=C2=A0
+606 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/TYTComedy?feature%3Dem-subs_digest-g&amp;g=3DgSYmN0QPiEic7Mwxvifc4inO=
+wehmD2sNfHy5yg7JGgspmOzMaYDOcQbaNRTYSXAJN4C1mu5Dqz2mn0k3lvuaMSTHSBU-yinzWTK=
+rtSJDIGehxRPrKdMUOSMJeLs5clAZVF0ELLiWsBIUgHKg3C1UbMJKqdsY">
+<img class=3D"avatar-size" src=3D"https://lh6.googleusercontent.com/-Oro4Mu=
+gspec/AAAAAAAAAAI/AAAAAAAAAAA/OX4cAjep0Ks/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/TYTComedy?feature%3Dem-subs_digest-g&=
+amp;g=3DgSYmN0QPiEic7Mwxvifc4inOwehmD2sNfHy5yg7JGgspmOzMaYDOcQbaNRTYSXAJN4C=
+1mu5Dqz2mn0k3lvuaMSTHSBU-yinzWTKrtSJDIGehxRPrKdMUOSMJeLs5clAZVF0ELLiWsBIUgH=
+Kg3C1UbMJKqdsY" style=3D"font-family:arial,Arial,sans-serif; font-size:12px=
+; color:#222222; line-height:15px; letter-spacing:0px; -webkit-text-size-ad=
+just:none; text-decoration:none;">
+The Jimmy Dore Show
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DhoZkpbLitgA%252CWGI48B1ClD8%252C0zqB5_pujCM%26no_=
+autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%=
+2BThe%2BJimmy%2BDore%2BShow%2Bfor%2BDec%2B9,%2B2015&amp;g=3DtHFkzHpbmwMT152=
+_mOk2qt0hjxWPrgQ_euFDjqAB3QGrddLCzwi3DCERsBYThX0HVNq7Y7Haiv1AhwTBnYXIq-qUjh=
+O_llgaoR4eboQ7TP-rOFlAqzPIIuyDtJ7NFgZ91YYCERsQ5rA2Ei0pjKbfr87CJCG97cvozfC_P=
+40_QHrrx5WHhITyCtDQ95io7vfj1jhmp-vKWbl7ymj-kZSa9xaP4Qc5qALB8s6o0qt5fLHf4Mw2=
+K_nheXPYm6WcQs0iEETyoTbeT7OIiyDgb41seWmdzFO1917CDCXwWRoQbfYIeCkjoPubk-l5LMr=
+GOVXVRseNHQFyRAnFqyK_MukMi8qHBO2o15Ykg9UwL5c7E9bHQc_CCA%3D%3D" target=3D"_b=
+lank" style=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 2 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch?v%3DACVWnEq-guU%26feature%3Dem-subs_digest-g&amp;g=3DI3sBQb4jgWCw4aB=
+SxOSBjbTfDm9rxGAy7PpwikMw3ID-C1JOZs4y1NAEiqTigcYO37beCklZfqIH4PZDGwbLetoMCQ=
+hPg-8tKtKrZoEuw_Db3EeWTgd1zcItktmYp0OEvFRPSotgv34fbB0GfdwHKrqDDahElvBfDMieA=
+3FN" style=3D"text-decoration:none;" target=3D"_blank" ; class=3D"nonplayab=
+le">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/ACVWnEq-g=
+uU/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DWfQIOZbCh9GK_b3az4s-k_tdSEs" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch?v%3DACVWnEq-guU%26feature%3Dem-subs_=
+digest-g&amp;g=3DI3sBQb4jgWCw4aBSxOSBjbTfDm9rxGAy7PpwikMw3ID-C1JOZs4y1NAEiq=
+TigcYO37beCklZfqIH4PZDGwbLetoMCQhPg-8tKtKrZoEuw_Db3EeWTgd1zcItktmYp0OEvFRPS=
+otgv34fbB0GfdwHKrqDDahElvBfDMieA3FN" style=3D"font-family:arial,Arial,sans-=
+serif; font-size:12px; font-weight:bold; color:#222222; line-height:15px; l=
+etter-spacing:0px; -webkit-text-size-adjust:none; text-decoration:none;">
+The Condom Challenge :) (My first YouTube Challenge)
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+11 hours ago
+=C2=A0=E2=80=A2=C2=A0
+428 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/Brittanysofficial?feature%3Dem-subs_digest-g&amp;g=3DRhzy3UIvWoI7bTai=
+OitLipLcXDXjKdgssCDOPxxKEydve2d7FTb5rHKQcZsyeSIUHoZmBScRIQaD7lBbfSuUSwsFo9F=
+-NPIzPKhf5hRPrffWFOaFiKJKugOM7Fy6tv2w0nFhOYOZPSTwhVJq_MJgAzZcnzmQHOthVV1pvI=
+8%3D">
+<img class=3D"avatar-size" src=3D"https://lh5.googleusercontent.com/-Zwj8Gh=
+0JzaY/AAAAAAAAAAI/AAAAAAAAAAA/BOU4ushjd2A/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/Brittanysofficial?feature%3Dem-subs_d=
+igest-g&amp;g=3DRhzy3UIvWoI7bTaiOitLipLcXDXjKdgssCDOPxxKEydve2d7FTb5rHKQcZs=
+yeSIUHoZmBScRIQaD7lBbfSuUSwsFo9F-NPIzPKhf5hRPrffWFOaFiKJKugOM7Fy6tv2w0nFhOY=
+OZPSTwhVJq_MJgAzZcnzmQHOthVV1pvI8%3D" style=3D"font-family:arial,Arial,sans=
+-serif; font-size:12px; color:#222222; line-height:15px; letter-spacing:0px=
+; -webkit-text-size-adjust:none; text-decoration:none;">
+Brittany Simon
+</a>
+</td>
+<td align=3D"right">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"inner-container-width" width=3D"600" valign=3D"top">
+<table align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DjiO0nkXTwcc%252C7gg4MBxkp9w%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BThe%2BTone%2BK=
+ing%2Bfor%2BDec%2B9,%2B2015&amp;g=3DGpml1ZljIjG-opBRJjbgZtB8lDNS8oh8Gqq1iQT=
+WZ25dS23zvjUCYA1KENGFjaLQkzVo5Jp4-dDveNXsl39hON92F4bzm4SLOGplfaeQ1MuWu2dpCp=
+Qvu1_Dy6Fen1W5a3rWBcAgd9_oL6oA7Ztj-t_t4GMACWvj70RPGep8jjOliPnuWZFpeyBP0HTP_=
+mS8gR0HVJlc7fazkT6iM4BL-dmI8r2Da-6bDXdRe9nPQLacCOGDcFs69Z4Vzz1nm4Nedr5Tqmdh=
+DvnvAhWrZhDR5a8c43QcUmijjhfp-Oucjc3aV4BQcWgIM__5xlOdWRNy2b885FOnNAMvefKVgw%=
+3D%3D" style=3D"text-decoration:none;" target=3D"_blank" ; class=3D"nonplay=
+able">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/jiO0nkXTw=
+cc/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DBVryCQJUnf5SpVx2zNWmJ9YMQQo" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3DjiO0nkXTwcc%252C7=
+gg4MBxkp9w%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BThe%2BTone%2BKing%2Bfor%2BDec%2B9,%2B2015&amp;g=3DGpml1Zl=
+jIjG-opBRJjbgZtB8lDNS8oh8Gqq1iQTWZ25dS23zvjUCYA1KENGFjaLQkzVo5Jp4-dDveNXsl3=
+9hON92F4bzm4SLOGplfaeQ1MuWu2dpCpQvu1_Dy6Fen1W5a3rWBcAgd9_oL6oA7Ztj-t_t4GMAC=
+Wvj70RPGep8jjOliPnuWZFpeyBP0HTP_mS8gR0HVJlc7fazkT6iM4BL-dmI8r2Da-6bDXdRe9nP=
+QLacCOGDcFs69Z4Vzz1nm4Nedr5TqmdhDvnvAhWrZhDR5a8c43QcUmijjhfp-Oucjc3aV4BQcWg=
+IM__5xlOdWRNy2b885FOnNAMvefKVgw%3D%3D" style=3D"font-family:arial,Arial,san=
+s-serif; font-size:12px; font-weight:bold; color:#222222; line-height:15px;=
+ letter-spacing:0px; -webkit-text-size-adjust:none; text-decoration:none;">
+ModKitsDIY - Mod 102+ Amp Demo &amp; Review
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+9 hours ago
+=C2=A0=E2=80=A2=C2=A0
+241 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/lmsjr?feature%3Dem-subs_digest-g&amp;g=3D0UTRKrL1Z-2Gs99Kszewoq7bB1O7=
+vRikcnmm2wh22K5C01jnTLEvr66dL9EuZ5E9cjEElK3XJ7OuWBuMTWK3cuzd7ckADNryziXoRyP=
+4-USrrJFwSiyI4I87nu6sBoAL6U6F7Zuf3oGnjIxmMzalO8k%3D">
+<img class=3D"avatar-size" src=3D"https://lh5.googleusercontent.com/--d6TT7=
+DyoEc/AAAAAAAAAAI/AAAAAAAAAAA/QMf79LhhTO0/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/lmsjr?feature%3Dem-subs_digest-g&amp;=
+g=3D0UTRKrL1Z-2Gs99Kszewoq7bB1O7vRikcnmm2wh22K5C01jnTLEvr66dL9EuZ5E9cjEElK3=
+XJ7OuWBuMTWK3cuzd7ckADNryziXoRyP4-USrrJFwSiyI4I87nu6sBoAL6U6F7Zuf3oGnjIxmMz=
+alO8k%3D" style=3D"font-family:arial,Arial,sans-serif; font-size:12px; colo=
+r:#222222; line-height:15px; letter-spacing:0px; -webkit-text-size-adjust:n=
+one; text-decoration:none;">
+The Tone King
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3DjiO0nkXTwcc%252C7gg4MBxkp9w%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BThe%2BTone%2BK=
+ing%2Bfor%2BDec%2B9,%2B2015&amp;g=3DGpml1ZljIjG-opBRJjbgZtB8lDNS8oh8Gqq1iQT=
+WZ25dS23zvjUCYA1KENGFjaLQkzVo5Jp4-dDveNXsl39hON92F4bzm4SLOGplfaeQ1MuWu2dpCp=
+Qvu1_Dy6Fen1W5a3rWBcAgd9_oL6oA7Ztj-t_t4GMACWvj70RPGep8jjOliPnuWZFpeyBP0HTP_=
+mS8gR0HVJlc7fazkT6iM4BL-dmI8r2Da-6bDXdRe9nPQLacCOGDcFs69Z4Vzz1nm4Nedr5Tqmdh=
+DvnvAhWrZhDR5a8c43QcUmijjhfp-Oucjc3aV4BQcWgIM__5xlOdWRNy2b885FOnNAMvefKVgw%=
+3D%3D" target=3D"_blank" style=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 1 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"small-section-padding-height" height=3D"20" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"small-section-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"video-2col-size" width=3D"290" height=3D"290" style=3D"box-=
+shadow:1px 1px 2px rgba(0, 0, 0, 0.15);" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0">
+<tr>
+<td class=3D"video-2col-thumb-size" width=3D"290" height=3D"162">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3D9D_vUi1p6Lk%252CFqeBXfROldA%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BVechs%2Bfor%2B=
+Dec%2B9,%2B2015&amp;g=3D4Geqj7--wffcrjb7woNH5NiEHb9gnrV8ijsr_thD11k4rHUEV90=
+XjLtFQ18AJt1-F9qjVTtgW-1u270OOVIoy2K-PPzkrltFLOpZtyzNJF2ROMW52_AlMwdFuN_u7b=
+HQYROYSQWcw7fDd7z3V1yl2tvXpKeqSwCEFmWXQYrHMFGCIWg7xDMZkhqv6EVT7IefmTKD73tdB=
+rQg34xeq1JJR2t4oXjSS6KHdBmYaubunMCEzHZfN_mVOMWex0jrIMEh-vUOUhCdl3TQ_ZgGG68Q=
+eN7B5nu00z75tW5HGj5C5mWMYy8Ll_gNYFZONI7yXodgoA%3D%3D" style=3D"text-decorat=
+ion:none;" target=3D"_blank" ; class=3D"nonplayable">
+<img class=3D"video-2col-thumb-size" src=3D"http://i.ytimg.com/vi/9D_vUi1p6=
+Lk/sddefault.jpg?w=3D640&amp;h=3D360&amp;feature=3Dem-subs_digest-g&amp;sig=
+h=3DKVXpPpoEqM0nNp9DBdqlgB6SB-4" width=3D"290" height=3D"162" border=3D"0" =
+style=3D"display:block;">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"video-2col-outer-container-size" width=3D"290" height=3D"12=
+8" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td>
+<table class=3D"video-2col-inner-container-size" width=3D"250" height=3D"12=
+8" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"video-2col-width" width=3D"250" valign=3D"top">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/watch_videos?video_ids%3D9D_vUi1p6Lk%252CF=
+qeBXfROldA%26no_autoplay%3D1%26feature%3Dem-subs_digest-g%26title%3DLatest%=
+2Bvideos%2Bfrom%2BVechs%2Bfor%2BDec%2B9,%2B2015&amp;g=3D4Geqj7--wffcrjb7woN=
+H5NiEHb9gnrV8ijsr_thD11k4rHUEV90XjLtFQ18AJt1-F9qjVTtgW-1u270OOVIoy2K-PPzkrl=
+tFLOpZtyzNJF2ROMW52_AlMwdFuN_u7bHQYROYSQWcw7fDd7z3V1yl2tvXpKeqSwCEFmWXQYrHM=
+FGCIWg7xDMZkhqv6EVT7IefmTKD73tdBrQg34xeq1JJR2t4oXjSS6KHdBmYaubunMCEzHZfN_mV=
+OMWex0jrIMEh-vUOUhCdl3TQ_ZgGG68QeN7B5nu00z75tW5HGj5C5mWMYy8Ll_gNYFZONI7yXod=
+goA%3D%3D" style=3D"font-family:arial,Arial,sans-serif; font-size:12px; fon=
+t-weight:bold; color:#222222; line-height:15px; letter-spacing:0px; -webkit=
+-text-size-adjust:none; text-decoration:none;">
+Return to Minecraft 12 What Started Super Hostile?
+</a>
+<div class=3D"meta-data-font" style=3D"font-family:arial,Arial,sans-serif; =
+color:#999999; font-size:12px; letter-spacing:0px; line-height:20px; -webki=
+t-text-size-adjust:none;">
+4 hours ago
+=C2=A0=E2=80=A2=C2=A0
+1,657 views
+</div>
+</td>
+</tr>
+<tr>
+<td class=3D"content-container-width" width=3D"250" height=3D"100%" valign=
+=3D"bottom">
+<table width=3D"100%" height=3D"20" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+<tr>
+<td class=3D"avatar-size" width=3D"20" height=3D"20">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/user/Vechz?feature%3Dem-subs_digest-g&amp;g=3DRrE1ctLU5hUhmH28RAi61cldBmAU=
+3MJSfIj_ysgGOSHVfD8B7YKKw48RNx_N9lrqlzlzHOJIPtzwRZIVJT6B0qL9hR8zWrREVeKZ3t8=
+cj3fD2gBTmTA9qSQlFWdQcwhX0nc9fVE418YOFi8jPkJzxeg%3D">
+<img class=3D"avatar-size" src=3D"https://lh3.googleusercontent.com/-uqa8pd=
+R_2DE/AAAAAAAAAAI/AAAAAAAAAAA/74l9PTPDhUo/s50/photo.jpg" width=3D"20" heigh=
+t=3D"20" style=3D"display:block;" border=3D"0">
+</a>
+</td>
+<td class=3D"small-pad-width" width=3D"12"></td>
+<td valign=3D"center">
+<a class=3D"video-link-font-class" href=3D"http://www.youtube.com/attributi=
+on_link?a=3DXdutPVf7htU&amp;u=3D/user/Vechz?feature%3Dem-subs_digest-g&amp;=
+g=3DRrE1ctLU5hUhmH28RAi61cldBmAU3MJSfIj_ysgGOSHVfD8B7YKKw48RNx_N9lrqlzlzHOJ=
+IPtzwRZIVJT6B0qL9hR8zWrREVeKZ3t8cj3fD2gBTmTA9qSQlFWdQcwhX0nc9fVE418YOFi8jPk=
+Jzxeg%3D" style=3D"font-family:arial,Arial,sans-serif; font-size:12px; colo=
+r:#222222; line-height:15px; letter-spacing:0px; -webkit-text-size-adjust:n=
+one; text-decoration:none;">
+Vechs
+</a>
+</td>
+<td align=3D"right">
+<table class=3D"regular-button-height" bgcolor=3D"#ffffff">
+<tr>
+<td>
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/watch_videos?video_ids%3D9D_vUi1p6Lk%252CFqeBXfROldA%26no_autoplay%3D1%26f=
+eature%3Dem-subs_digest-g%26title%3DLatest%2Bvideos%2Bfrom%2BVechs%2Bfor%2B=
+Dec%2B9,%2B2015&amp;g=3D4Geqj7--wffcrjb7woNH5NiEHb9gnrV8ijsr_thD11k4rHUEV90=
+XjLtFQ18AJt1-F9qjVTtgW-1u270OOVIoy2K-PPzkrltFLOpZtyzNJF2ROMW52_AlMwdFuN_u7b=
+HQYROYSQWcw7fDd7z3V1yl2tvXpKeqSwCEFmWXQYrHMFGCIWg7xDMZkhqv6EVT7IefmTKD73tdB=
+rQg34xeq1JJR2t4oXjSS6KHdBmYaubunMCEzHZfN_mVOMWex0jrIMEh-vUOUhCdl3TQ_ZgGG68Q=
+eN7B5nu00z75tW5HGj5C5mWMYy8Ll_gNYFZONI7yXodgoA%3D%3D" target=3D"_blank" sty=
+le=3D"text-decoration:none;">
+<table class=3D"regular-button-height" height=3D"20" valign=3D"center" bgco=
+lor=3D"#fafafa" style=3D"border-style:solid; border-color:#cccccc; border-w=
+idth:1px; border-radius: 1px; box-shadow: 1px 1px #f2f2f2;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"regular-button-font" height=3D"100%" valign=3D"center" style=
+=3D"font-family:arial,Arial,sans-serif; color:#333333; line-height:15px; fo=
+nt-size:11px; font-weight:bold; text-align:center; text-decoration:none;" n=
+owrap>
+<span style=3D"vertical-align:middle;">=C2=A0=C2=A0+ 1 more=C2=A0=C2=A0</sp=
+an>
+</td>
+</tr>
+</tbody>
+</table>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"content-container-padding-height" height=3D"20" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-height" height=3D"20"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"large-section-padding-height" height=3D"30" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-section-padding-height" height=3D"30"></td>
+</tr>
+</table>
+<table class=3D"more-videos-size" width=3D"600" height=3D"54" bgcolor=3D"FF=
+FFFF" style=3D"box-shadow:1px 1px 2px rgba(0, 0, 0, 0.15)" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+<td class=3D"more-videos-text-width" width=3D"280" height=3D"100%" valign=
+=3D"center">
+<div class=3D"more-videos-font" style=3D"font-family:arial, Arial, sans-ser=
+if; font-size:13px; font-weight:bold; -webkit-text-size-adjust:none;" <b>Wa=
+nt more videos?</b> Visit YouTube for even more!
+</div>
+</td>
+<td class=3D"more-videos-button-width" width=3D"180" height=3D"100%" align=
+=3D"right" valign=3D"center">
+<a href=3D"http://www.youtube.com/attribution_link?a=3DXdutPVf7htU&amp;u=3D=
+/?feature%3Dem-subs_digest-g&amp;g=3D9KAvFFSIRM5OENV8_zvb6acnaxF6iyPccrEaur=
+uVTxGibM3VHeNE71gte9s8QQoqfE5ixNwmyturNJXDGcnuu5pPfZ0zGEu6sSoved7iPde-GNEDb=
+CQaQpmQDIj_0IQ4tOE0uh4JTQ%3D%3D" style=3D"text-decoration:none;">
+<table class=3D"more-videos-button-size" width=3D"180" height=3D"34" style=
+=3D"background-color:#3F76B7; -webkit-text-size-adjust:none; -moz-border-ra=
+dius: 3px; -webkit-border-radius: 3px; -khtml-border-radius: 3px; border-ra=
+dius: 3px;">
+<tr>
+<td class=3D"more-videos-font" align=3D"center" valign=3D"center" style=3D"=
+font-family:arial,Arial,sans-serif; font-size:13px; font-weight:bold; color=
+:#FFFFFF; letter-spacing:0px; text-decoration:none">
+Go to YouTube
+</td>
+</tr>
+</table>
+</a>
+</td>
+<td class=3D"content-container-padding-width" width=3D"20"></td>
+</tr>
+</table>
+
+<img class=3D"open_tracking_img" src=3D"http://www.youtube.com/attribution_=
+link?a=3DXdutPVf7htU&amp;u=3D/gen_204%3Fa%3Dem-subs_digest-g" width=3D"1" h=
+eight=3D"1" style=3D"display:none !important; visibility: hidden; width: 0;=
+ height: 0; opacity: 0; color: transparent;">
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr><td>
+<table class=3D"large-section-padding-height" height=3D"30" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-section-padding-height" height=3D"30"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td>
+<table class=3D"inner-container-width" width=3D"100%" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"footer-font" style=3D"color: #999999; font-size:13px; line-hei=
+ght:15px; font-family:arial, Arial, sans-serif; letter-spacing:0px; text-de=
+coration:none; -webkit-text-size-adjust:none;">
+=C2=A9 2015 YouTube, LLC 901 Cherry Ave, San Bruno, CA 94066
+</td>
+</tr>
+<tr><td>
+<table class=3D"footer-content-padding-height" height=3D"18" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"footer-content-padding-height" height=3D"18"></td>
+</tr>
+</table>
+</td></tr>
+<tr>
+<td class=3D"footer-font" style=3D"color: #999999; font-size:13px; line-hei=
+ght:15px; font-family:arial, Arial, sans-serif; letter-spacing:0px; -webkit=
+-text-size-adjust:none; word-wrap:break-word;">
+YouTube sends email summaries like these so you can keep up with your chann=
+el subscriptions.
+If you no longer want to receive these updates, you may edit your preferenc=
+es <a href=3D"http://www.youtube.com/attribution_link?noapp=3D1&amp;a=3DXdu=
+tPVf7htU&amp;u=3D/account_notifications?feature%3Dem-subs_digest-g&amp;g=3D=
+kr9f9yONT9b3S_mpGGpYH-YVB4-Fz-OYOFjKdiTSRTd1NNIg148AM1fj74EF-SLYTwLmI5T3b42=
+C1OhreXcGEiKccrq5wvXT5pZlTtaCu3omLRQmydDicF2xEeyvCj21pYaAOyuYy7yb_-VB-nk5Rq=
+eKNtcxAx41rADSjn8HnSqpbJBc" style=3D"color:#1B7FCC; text-decoration:none;">=
+here</a> or <a href=3D"http://www.youtube.com/attribution_link?noapp=3D1&am=
+p;a=3DXdutPVf7htU&amp;u=3D/email_unsubscribe?uid%3DMxgrVu0r6TRrCBerL7uf5A%2=
+6action_unsubscribe%3DPyXDM98t4qeizi_eC6jeiqGSkp18MTQ0OTY3NDY4NUAxNDQ5Njc0N=
+jg1%26feature%3Dem-subs_digest-g&amp;g=3DSkhq0SqzpeTAjAWVcdYMOOHxJdmRv0LbAC=
+5bCKOzVIKNgUM8QrpsMHu9hVQXpOQS45idX3d7S2HnJ8u3q4SivSne-dSItRmBmr-vL5Sb6-W6T=
+vG1SvajxdcdJAYDCzQ5BYW7NJr7allMOCKf7q1_sIDrUse4HYxgT_GYjSjvoFBClpUFEwOGHXq7=
+JlcR9QYU3iOBM6ayXTevR4X2Cfl31riKS-Ff-GrlX85aGl-FnoWibHROj_8srGL9Ky4RPXY4B23=
+gXJUA5G59H7mViCAV3Qj1DBx9H6EFr6lz10AflQsk_xh7cGJcCEl2Eny7PDuO" style=3D"col=
+or:#1B7FCC; text-decoration:none;">unsubscribe</a>.
+</td>
+</tr>
+<tr><td>
+<table class=3D"large-section-padding-height" height=3D"30" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">
+<tr>
+<td class=3D"large-section-padding-height" height=3D"30"></td>
+</tr>
+</table>
+</td></tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"outer-container-padding-width" width=3D"40"></td>
+</tr>
+</table>
+<img height=3D"1" width=3D"3" src=3D"https://www.google.com/appserve/mkt/im=
+g/o8GgIh4MQCt7sigEgYjmCQgeVd-_.gif"></body>
+</html>
+
+--001a113cee24c6477b052678b19a--

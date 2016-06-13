@@ -1,0 +1,12 @@
+set imap_user = "kuiperhaumea@gmail.com"                       
+set imap_pass = "VQDGzxgW9WRRj5t4u5b2Fr9gqmuEKrrsAw6Vx0gA"                                    
+set smtp_url = "smtp://kuiperhaumea@smtp.gmail.com:587/"       
+set smtp_pass = "VQDGzxgW9WRRj5t4u5b2Fr9gqmuEKrrsAw6Vx0gA"                                    
+set from = "kuiperhaumea@gmail.com"                            
+set realname = "John Markiewicz"                                  
+set folder = "imaps://imap.gmail.com:993"                     
+set spoolfile = "+INBOX"                                      
+set postponed = "+[Gmail]/Drafts"                             
+set header_cache = ~/.mutt/com.gmail.kuiperhaumea/cache/headers            
+set message_cachedir = ~/.mutt/com.gmail.kuiperhaumea/cache/bodies         
+set certificate_file = ~/.mutt/com.gmail.kuiperhaumea/certificates  

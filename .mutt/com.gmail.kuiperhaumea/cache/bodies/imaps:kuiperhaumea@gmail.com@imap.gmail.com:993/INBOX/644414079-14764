@@ -1,0 +1,61 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp3116061oia;
+        Wed, 4 Nov 2015 08:58:04 -0800 (PST)
+X-Received: by 10.13.201.68 with SMTP id l65mr2002206ywd.340.1446656284099;
+        Wed, 04 Nov 2015 08:58:04 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x236.google.com (mail-yk0-x236.google.com. [2607:f8b0:4002:c07::236])
+        by mx.google.com with ESMTPS id v190si731170ywa.83.2015.11.04.08.58.03
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 04 Nov 2015 08:58:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::236 as permitted sender) client-ip=2607:f8b0:4002:c07::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::236 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x236.google.com with SMTP id k133so78377680yke.2;
+        Wed, 04 Nov 2015 08:58:03 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:from:to:mime-version:content-type;
+        bh=kvv5lY/4mcZcsgvl8K65tYjVJRCtXi6QXkkeyI8pTEU=;
+        b=ft/cuM6vlCgGbbVJKxa5sMQxmuMFTT4xmZaM314mojVpRaz7RL1Y9oHqLIUE+t3RWE
+         OC0jMzN20mUH4ElnRX+uTT1rU528LF4ffAG82JeAb1ImmOPB7BN9cmOkN8t9EiJtUvi0
+         LxSzJWWCzJm2qv+zHmAvI/zcNxEhQ5OpHddXkPJGpY8GymA/tciWTtYXjflRm9zqc/LH
+         K1AFsQJRMnPPMCCaySrVK5EHMeZoTNzoRjVlutNuWIAY/a93UHQGzSjTSmJrpcVPkmZ5
+         gZSR/ggn2SPkXsyDrVYtJP6kC12CU76G5rZqrOVsaMq1G0hK6Ciz27W5xO/fmkcqY9HN
+         5jvQ==
+X-Received: by 10.31.8.201 with SMTP id 192mr2828715vki.67.1446656283233;
+        Wed, 04 Nov 2015 08:58:03 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from androidc1438642069 ([2607:fb90:2b08:fc1a:2aa6:9feb:3cfd:b016])
+        by smtp.gmail.com with ESMTPSA id a21sm1406043vke.10.2015.11.04.08.58.02
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 04 Nov 2015 08:58:02 -0800 (PST)
+Date: Wed, 04 Nov 2015 11:58:00 -0500
+Subject: Relativity versus quantum mechanics: the battle for the universe
+Message-ID: <aiadujlr03tauj5b934404ks.1446656280827@email.android.com>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>, Pete Markiewicz
+ <pete.markiewicz@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_349393499344330"
+
+----_com.android.email_349393499344330
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+UmVsYXRpdml0eSB2ZXJzdXMgcXVhbnR1bSBtZWNoYW5pY3M6IHRoZSBiYXR0bGUgZm9yIHRoZSB1
+bml2ZXJzZQoKaHR0cDovL2d1LmNvbS9wLzRkcHk0P0NNUD1TaGFyZV9BbmRyb2lkQXBwX0VtYWls
+CgpTaGFubm9uIE1hcmtpZXdpY3osIFBoRA==
+----_com.android.email_349393499344330
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PHAgZGlyPSJsdHIiPlJlbGF0aXZpdHkgdmVyc3VzIHF1YW50dW0gbWVjaGFuaWNzOiB0aGUgYmF0
+dGxlIGZvciB0aGUgdW5pdmVyc2U8L3A+CjxwIGRpcj0ibHRyIj48YSBocmVmPSJodHRwOi8vZ3Uu
+Y29tL3AvNGRweTQ/Q01QPVNoYXJlX0FuZHJvaWRBcHBfRW1haWwiPmh0dHA6Ly9ndS5jb20vcC80
+ZHB5ND9DTVA9U2hhcmVfQW5kcm9pZEFwcF9FbWFpbDwvYT48L3A+CjxwIGRpcj0ibHRyIj5TaGFu
+bm9uIE1hcmtpZXdpY3osIFBoRDwvcD4K
+----_com.android.email_349393499344330--
+

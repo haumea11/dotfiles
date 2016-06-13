@@ -1,0 +1,64 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:content-transfer-encoding;
+        bh=cQ/R/m1pQe4paES2KCdA0zjoGviuvYjz8S30qWi4t6I=;
+        b=kkOlTTkpJ/eqsar8O0o7lMYjby0rBrEvN0lQ2VLACQ5K+PdNUfiMTVJO1TxJZ6tQVz
+         ZFQO6VM0bWcoEjhEYl/kyO8fcUpLHzYK55qmex06B9wIXZcWy2FWILvQ/6cEeJqkS0vw
+         JxEBX4ATWvsnlfMjjlboaaJcdVVJQgojbHFIs1dGSZeVp6/A9trJYQpF5GMlylK0zyz0
+         B/1QJX9daT4Ops43FJq0iooNAShyKH1W6M065chNCNZJ66SxnhSgeQBmj0QLYeDJWyk5
+         8au4qV5fBS+zyYVCMptjDubn9cOu0UXImn5KQVVYB5Nv/p1DaW9IT6rKY4dSz3lPV4Il
+         SzlQ==
+X-Received: by 10.107.11.223 with SMTP id 92mr9147402iol.186.1441276293377;
+        Thu, 03 Sep 2015 03:31:33 -0700 (PDT)
+Message-ID: <55E8217E.9010706@gmail.com>
+Date: Thu, 03 Sep 2015 06:31:26 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: Re: A manner of testing
+References: <20150903015111.GA19528@heian>
+In-Reply-To: <20150903015111.GA19528@heian>
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP MESSAGE-----
+Charset: windows-1252
+Version: GnuPG v2
+
+hQIMAw911yn1vOIHAQ/9HyAY6HN7WNL4DS0CzQ2tgL9u4jiUYJJwaIM8X6c49etL
+sRAzPnp7UBiZDJL6sEZWYBMILspqGjVQcXW9cXbvDGv6GEQsvOmUBqISnd2PRVV0
+uPtYHx5AKtW0U2QJiS4uJ+PK1dinzzKf3dgUcmxIr6Zab40J14N7ECkQAr1yb6Kv
+0Lxu+kGlsnGZRVgNBQJ93pRM3+LIoArkM1zyRdgz81LeKisrtfpA9kXm3WO6vJjn
+O4mNMjL7CCFsnRRkQqBgalo08XCnlB3fzUJsjnvqTnawWhxBD8YqVg4wNqFKBoNs
+NI6CHyqFwJZhNZhZj1HeVdCwSVpzrLzD0nRG9LFY49dgrDqploVe55BdXdxq3ez5
+JzjXgbfH0Y5bPK7Ka4RKp7dA8q4twdFaqxYiNbMVUiJPmwKrlkdIgNAgkS0Q9q9B
+2vs3caSWV27IKhLIC8S9Pp1u345xkg2XtjAr6DSAYAsMS0gfJrkyOKbXFjnGShcl
+KujhWcSKh1aTf3FfZyRdvaOt4JkG6YXKXjTgB8L98A4jK5ctVEJ4T5YX2nIFcmuZ
+gr4OpBZuxn+NAMNoeUi7sxNfhp00Vdc4E8C+dU2EzxDLM0Ao7NDda4ewqy+ZKEoo
+yXxZEe4sQ57138A9ZeeTYY4uoIdGSXFz/mMU9uyelw/zdqcEhFMff2pWDNlzm0iF
+AgwDlAGICdFbbowBD/4/I9pzuSBlZMl7Yq245Yu7Jj3LzjT4uLYpN5IGVIiU7cje
+py79Bo/TZuzVX5hdZQQJMl0iq5GggHDwLUE1UMjO1dMNAl44UZMtmWX86Mg5Kq2n
+Jn6dFkHvHHrJJ9NG60ggHZFkG93iM/LFjkkFfyo80MZ5yEpe58TmryFGM3olbdM9
+Fh+foHtxFSY6sAS6vudsaIy6x7Bdq8IrEk9riny995kLMF2oxLeucwfp/xBaIhxl
+cHZX3VCGkunYXgzQ6vls7rIqumtbCylqKLKfMspzwBu+URXwnziAVPNGlxYPm7lt
+DP29Xxn2tjRJAxVrWVyH6TU+Vrv+vJ5z3pBfU7uqPIzET96ahrQQFBsxQ18LhjlA
+2YnIF3EusW9+2rq3oAJFr8Zjx+moN+cGVLS5pSm1i1pQOFVd5BBX0l3lUthpbKHD
+gi0eqZMeG6fdDwq6hq8xs4AGNT4uHIXa95ZNhmj7NUzFQqIMZHm/i+CGIjx7Ov92
+tqtb0vyMhNHl7ILggLknZljca70VB1BWcDJWL6y+bEz2B+Kys8Koljsjs6Jr0XUH
+1GCxOpo6e5WDG4ePHwB9htkHvYK0MIr6DLlWn0pe2+rk1Nf6+txtX2K6VP9IfqKg
+KGfE8gwdYbkJg5P/B3NK2MFdyeo4GbkF+fb+Mo+XJKRXIOSQF09X0l201bl7DdLA
+qAFVETQGDY3QasO7VsRsZv8DFxQf3KgqMf4ikr28Jk6eQi7EG8XGljGl+h1zsFKv
+GbCnzV5abJWTTxQljP4OLzGlGRj85asTX5RIT+QzG7TPM9+6Dj8orJDigCK0KlR2
+ocH8DCn44IcasjsMfK1TMoKIGcOe/8L+FJ5RXeigCn4mU7xg9nDsr2Q6pQiEhsZZ
+zcDJElylUF2UTb2rkV5uFw2S3WVSt5gE0I+AT/xWE94ODQcyFIwmbyS3ICUE1xC4
+rsfjATQnXRRxlNIlgJsvjSqH3ZeeX/vSvJNn935spkOXeGLCd6Bn8M+xHgLbwpbz
+3IGUteMGDMVzYmmy4nc4K5IDQgRyN1ub3Zrjic+hS+I8Wrr+JcSup5x4l1gfZWxe
+nepuvc7zcF1aj/g+lEhPkSeBgwxC3uNOXBDYG68mYgY5bUePGHMhYhSmH0HyiOr/
+sDFRwCDflRE6tnxSPDp0R6gN6snbWQPCSA==
+=dJe5
+-----END PGP MESSAGE-----

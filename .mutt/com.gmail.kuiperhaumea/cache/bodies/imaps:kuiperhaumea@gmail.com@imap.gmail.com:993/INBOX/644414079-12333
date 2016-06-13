@@ -1,0 +1,305 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp3026483oid;
+        Wed, 15 Jul 2015 08:31:31 -0700 (PDT)
+X-Received: by 10.180.13.106 with SMTP id g10mr1373120wic.8.1436974291348;
+        Wed, 15 Jul 2015 08:31:31 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22a.google.com (mail-wi0-x22a.google.com. [2a00:1450:400c:c05::22a])
+        by mx.google.com with ESMTPS id u7si177679wiw.120.2015.07.15.08.31.30
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 08:31:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) client-ip=2a00:1450:400c:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=temperror (no key for signature) header.i=@iwu.edu;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x22a.google.com with SMTP id a1so1250451wig.0
+        for <kuiperhaumea@gmail.com>; Wed, 15 Jul 2015 08:31:30 -0700 (PDT)
+X-Received: by 10.194.60.226 with SMTP id k2mr9122323wjr.10.1436974290549;
+        Wed, 15 Jul 2015 08:31:30 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2652727wmd;
+        Wed, 15 Jul 2015 08:31:29 -0700 (PDT)
+X-Received: by 10.107.132.7 with SMTP id g7mr5686378iod.9.1436974288830;
+        Wed, 15 Jul 2015 08:31:28 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o4.mx.technolutions.net (o4.mx.technolutions.net. [198.37.152.133])
+        by mx.google.com with ESMTPS id ip4si11292344igb.21.2015.07.15.08.31.27
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 08:31:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 198.37.152.133 as permitted sender) client-ip=198.37.152.133;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=iwu.edu; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=CDvYfDf0ZAgSeDWqUAiR7gLfoxY=; b=JTcReHVUY4aD0rjAike+xz3acF9ri
+	wr2fOw37hZEstr3DBmOILWt/LKDBNQjA7ZladmSeFhJSKxqmwuEPmswPB1suzQs4
+	wdtPG7N8rMleZKUFp2X/7oIRsug05PKQk2KOoKr5iq+amiLBErSFu9RAkzFkCOxK
+	JgFTH53QLJTWfA=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=CDvYfDf0ZAgSeDWqUAiR7gLfoxY=; b=HCv2u7nafPQrt8L6sZ/hgeDkAcvEw
+	FafscDRtrqkSRB6uNYUJosjEveunJbEU2WSe1NLTv12QedJ1tQcK0wi0uagY43k0
+	VCibQ3YbJDHYVAkqCkhZuODQYutsK5bf8IInzDE1UTFv54IlGctkHrUnNOEayB7U
+	Yn0c1JD6fbQECE=
+Received: by filter0530p1mdw1.sendgrid.net with SMTP id filter0530p1mdw1.29596.55A67CCA8
+        2015-07-15 15:31:22.155675551 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-012 (SG) with ESMTP id 14e9257751f.731f.2083c0
+	for <markiewicz.john@gmail.com>; Wed, 15 Jul 2015 15:31:22 +0000 (UTC)
+From: "Illinois Wesleyan University" <iwuadmit@iwu.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Still Time to Visit this Summer!
+Date: Wed, 15 Jul 2015 15:31:20 +0000
+Message-ID: <dec184b7-f3c0-4a2d-ac9a-bb59acb69b53@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_cad0bcc0-7d2b-48c3-a2ac-950a17cdedbb"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuE/O7CDYS8c/lZpCdx+CViX0g75tp1l2zYqhb
+ IsNIFJHFqjnWpRu3/+XQb3nprBKnv0+orI9JyYaftx3EkWgABA8otOAy5e+XiRkYoXV34OGAIg2ld+
+ fu4he9TqHfF7vKQM7MQWojJs6f4nm+CsqzxO
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegHnHWDEtNMdLV4gNSiDzI0mK3fmDez1ju+s/l+DHv3fGU5YaUA7l3EfGQ4
+ KFliT3KKzDyprbZOG+o4s/LTmA9zo+etaSkTKEwj03tOzk8SsikALSoyPcgUGa3yKw1fEeuYAz3CkF
+ 4rbzUyoLDjw1uVzc9I58+26CAddej60whdBjt9k2pJA/O6jzsBRdmY9PsRH+5Y4RRAKORcLhyyJZLQ
+ nZBsHsp6I+2+0DcPfiAqjW
+
+------=_0_cad0bcc0-7d2b-48c3-a2ac-950a17cdedbb
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi John!
+
+There is still plenty of time to register for one of our Summer Preview Day=
+s on July 17th or August 7th. This includes general information on Illinois=
+ Wesleyan, student life, financial aid, and a campus tour. To get more info=
+rmation on the Preview Day agenda or to register for a Preview Day, click h=
+ere for the July 17th program <https://admissions.iwu.edu/register/July2015=
+PD> or here for August 7th. <https://admissions.iwu.edu/register/August2015=
+PD>
+
+We are also open Monday through Friday for individual visits. An individual=
+ campus visit consists of meeting with an admission counselor to discuss yo=
+ur specific interests or financial aid questions as well as touring the cam=
+pus with a current IWU student. To sign up for your individual visit to Ill=
+inois Wesleyan, click here! <https://admissions.iwu.edu/campusvisit/>
+
+We would love to have you and your family as our guests on campus this summ=
+er to show you why Illinois Wesleyan is providing students with the college=
+ experience they truly want and deserve. We'll even treat you to lunch on c=
+ampus if your schedule allows. Sign up for your campus visit today! <http:/=
+/www.iwu.edu/admissions/visit/>
+
+Sincerely,
+
+Tony Bankston
+Dean of Admissions
+Illinois Wesleyan University
+Pursue Your Passions!
+
+
+ Viewbook <http://issuu.com/illinoiswesleyanuniversity/docs/viewbook?e=3D11=
+50921/9250038>            Academic Programs <https://www.iwu.edu/majors/>  =
+             Athletics <http://www.iwusports.com/>              Financial A=
+id <http://issuu.com/illinoiswesleyanuniversity/docs/iwu_financial_aid_2012=
+?e=3D1150921/1293162>                Campus Life <http://vimeo.com/64353798=
+>        See the Campus <https://www.iwu.edu/map/>
+
+
+This email was sent to markiewicz.john@gmail.com by Illinois Wesleyan Unive=
+rsity.
+Unsubscribe from Illinois Wesleyan University. <https://admissions.iwu.edu/=
+go?r=3Doptout&mid=3Ddec184b7-f3c0-4a2d-ac9a-bb59acb69b53>=
+
+------=_0_cad0bcc0-7d2b-48c3-a2ac-950a17cdedbb
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+@media only screen and (max-width: 480px) { table, img { width: 100% !impor=
+tant; height: auto !important; } }
+/**/
+</style>
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;"><table border=3D"1" cellpadding=3D"1" cellspacing=3D"1" style=3D"width=
+: 750px;"><tbody><tr><td><img alt=3D"" style=3D"width: 750px; height: 100px=
+;" height=3D"100" width=3D"750" src=3D"https://d2y48w7m6jzhpb.cloudfront.ne=
+t/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_PPOQOU6TR8UVU3Ml0R_6nL-L42lCIAORZSB=
+Jyzz8UUA5dx0u0jEH5jptcT_kcDSrOTx6XJY5SEGQRx6Mab9hHCd0vCOSF6yaVmBhnf9cCeg" /=
+><br /><br /><span style=3D"font-size:14px;">Hi John!<br /><br />
+There is still plenty of time to register for one of our Summer Preview Day=
+s on July 17th or August 7th. This includes general information on Illinois=
+ Wesleyan, student life, financial aid, and a campus tour. To get more info=
+rmation on the Preview Day agenda or to register for a Preview Day,&nbsp;<a=
+ href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1g6=
+PVyapaphaS8odAzdwMvy2te0xDTKtJ-2B5QWbE0bTv3hrddZVoZeWmFUpZDjnl-2BDg-3D-3D_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEv=
+qKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMV=
+Y9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAV=
+TPlIwAOb-2Bn-2BZOIQsNngFpQpkHA91OCaUBOmeFBl2RZa-2BcXPmY3NFQKTW9Do-2Bw90M7K7=
+dmTQ0DLudlIz1EwZAcSB3MgpfZCqNAAuzfbMAoskBOKOdAzVDx4B2TfG5mHzZBc3-2BTkXePu71=
+iBmUltCz8SCKkk0pHzHXSnucx8Huy0jQx8cp9IjWVEmRmqB4aJACpb-2Fexsg-3D-3D">click =
+here for the July 17th program</a> or <a href=3D"http://mx.technolutions.ne=
+t/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1g6PVyapaphaS8odAzdwMvzhTKcJIM18SR2iUY=
+HLw-2BKDRSeYP9zC0ehN4jBIrb2uAw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4=
+siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7=
+mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8z=
+v-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUd=
+R-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA93FGywt=
+uBhUzlWIjJLdr1CyRsGgCh8jrHu-2FgmEypgweH6y-2FbOAvF-2BDiOqMYOcpxNNx1dwOWVVt-2=
+Frp-2FutccSzoBGT1rQFgfcGrHoCrWvcG1YwJgloi9EGp5SkZAhNLRGnUHQCbnDKp2bvuHqWdVl=
+7sqt2gG0stYLP1Moie2LPqXSJg-3D-3D">here for August 7th.</a><br /><br />
+We are also open Monday through Friday for individual visits. An individual=
+ campus visit consists of meeting with an admission counselor to discuss yo=
+ur specific interests or financial aid questions as well as touring the cam=
+pus with a current IWU student. To sign up for your individual visit to Ill=
+inois Wesleyan,&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3D=
+7aqtGo87cYwSxRwFLjEf1g6PVyapaphaS8odAzdwMvwWrHclpY4H-2BlBksDqcFd21_fl-2FMBk=
+JMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ=
+-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN=
+-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2B=
+e9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAO=
+b-2Bn-2BZOIQsNngFpQpkHA90ru18AVqmW9J18XzT8bwE2eBJj1dy1H-2Bti3BH-2BAosb4MFy4=
+KitybI-2FN-2B7wuDncd8N18-2F55JTFzi6LVc-2B0bTGal2i706Ecy2I0fzy7sxzEv-2FuMdyG=
+XOpJJnjsgTjRDCKTQQE6FpKIN0nKGvP6hqutHuokZ0XenKZ5IiNNHuVYeFLA-3D-3D">click h=
+ere!</a><br /><br />
+We would love to have you and your family as our guests on campus this summ=
+er to show you why Illinois Wesleyan is providing students with the college=
+ experience they truly want and deserve. We&#8217;ll even treat you to lunc=
+h on campus if your schedule allows.&nbsp;<a href=3D"http://mx.technolution=
+s.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8aoWSLvJNCE4MQiZfBy9zePKcaBaMsn=
+oSjLOMqkSaiq_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zw=
+kFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxf=
+comThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcG=
+cq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3ORH95g9Ukio=
+VmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA92-2BE0cvFwTajWHaacxZzhytU3De9X=
+UCVz-2BE4NODFPsaT3IP9Sr2UunV-2FiZVIbY7lZKyaOQdRNZe-2FE2vUZ3TgAC8oPNWbSGSjOb=
+BKr13Gn0RdLzgXXMIE-2ByPqWQB45Uffs-2Bb5n8q9q0agCrpHI0xJ3DArx8dkh1vOlxd8zCG2E=
+pJkg-3D-3D">Sign up for your campus visit today!</a><br /><br />
+Sincerely,<br /><br />
+Tony Bankston<br />
+Dean of Admissions<br />
+Illinois Wesleyan University<br /><strong><span style=3D"color:#008000;"><i=
+>Pursue Your Passions!</i></span></strong></span><br /><br /><br /><span st=
+yle=3D"font-family: 'Times New Roman', Times, serif; font-size: 14px;">&nbs=
+p;</span><a href=3D"http://mx.technolutions.net/wf/click?upn=3D7XRuwXoQqPcE=
+OzC0c3rJR3QEmmYd5NqCoTdnF5D8NkBWODZ3Tin0SAUVie-2BOu2J1yUADHzRK-2BUVR66pnKm4=
+M4kDBSrJLAlGt5snKjMhIaSAKPwF2RUIBimb1hEBePVsv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B=
+1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpIC=
+cA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF=
+5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2Bl=
+xLyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpk=
+HA91NxMAOtj81J3k0-2Fq4nFEGnZFRiOk3LhgCBNsboJifivMAYCBhsghWRADNPy-2BHnF2nqTd=
+iMijvQY1ScLX0BCIN5Y71aQ6lcYKGUeMxw65HJckyjP2kNXCZubNnO3rvVT6NHqMeO9oteD9xTr=
+cQvRd3hcLVbMH3n45Q2FCTaQXiokA-3D-3D" style=3D"color: blue; font-family: 'Ti=
+mes New Roman', Times, serif; font-size: 13.63636302948px;">Viewbook</a><sp=
+an style=3D"font-family: 'Times New Roman', Times, serif; font-size: 14px;"=
+>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><a href=3D"http://mx=
+.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpRQgJRiWgP4gcEZmToc=
+n8NGiL-2B6nErI3gGpLry-2BiiCbQ_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMT=
+S3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2=
+F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHN=
+v8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2Fpng=
+ibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA90oCf1G1ygr8z8=
+RHKLDDHGoFebu9YRRTuUTh0DdjI43tbwfot8p84y0OWMk4-2FHWLWxQNuEu8E7KTC4K8JVlAeMg=
+f3lNwRN-2FN-2Fi-2ByY91bfuhI21y8-2FEslolHpe8d-2B8SBmKsJc7quyEmgzGxx8LFj9MwfH=
+bBBDVZgcPEJZsh5VhHmRQ-3D-3D" style=3D"color: blue; font-family: 'Times New =
+Roman', Times, serif; font-size: 13.63636302948px;">Academic Programs</a><s=
+pan style=3D"font-family: 'Times New Roman', Times, serif; font-size: 14px;=
+">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a href=3D"=
+http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2Bn-2Blw=
+DOljZwVoY4-2FVQfl14-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjs=
+WglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJ=
+yZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87=
+UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3O=
+RH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA92MuFhjOb7LLobj77qQRR=
+6n27e-2FhZvvB1-2F-2B-2Bb6mXGzRU1IC5jb0u1RBJLk9TvdAZlgYMopp9V8tOxCB7mEWHAV-2=
+BAzNgWmTBnqUCbyH7dCt3KtCGLoM6pYmyf-2FvkQ92FNYIa5bppS8tayOg-2B05qLrKWj2vVKFH=
+469n04n5PbCciiWA-3D-3D" style=3D"color: blue; font-family: 'Times New Roman=
+', Times, serif; font-size: 13.63636302948px;">Athletics</a><span style=3D"=
+font-family: 'Times New Roman', Times, serif; font-size: 14px;">&nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;</span><a href=3D"http://mx.tech=
+nolutions.net/wf/click?upn=3D7XRuwXoQqPcEOzC0c3rJR3QEmmYd5NqCoTdnF5D8NkBWOD=
+Z3Tin0SAUVie-2BOu2J1O9RnbyUa-2FNdp-2F-2BLKczvhyVWmcMg8tQSA9uBPuESIxpMIEFdg3=
+YU-2FWxM-2BxcEwL-2FmW_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87U=
+eMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3OR=
+H95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA92lO5C2E94-2FPVVBufdHA=
+Dq0qtZAdkOztTwJcnhHOlHEPC6k0FtTu1lPkF6QykHesKUX7Lrt-2BRLmgnUPGRwP9U3Kqq58dS=
+y2fwMnePWRRGVgOArvObRbhg3yUjo857PpvcXGIHgRIaoImRZbDDh4tOyYnO5geHrCvtYYuwbyG=
+S6S-2Fw-3D-3D" style=3D"color: blue; font-family: 'Times New Roman', Times,=
+ serif; font-size: 13.63636302948px;">Financial Aid</a><span style=3D"font-=
+family: 'Times New Roman', Times, serif; font-size: 14px;">&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><a href=3D"http://mx.te=
+chnolutions.net/wf/click?upn=3DMGbZaPsBucOa79qVv34V9qTJUe0Y-2BzSFMHqzRuGNol=
+g-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6=
+VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTa=
+YuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dF=
+n6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-=
+2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA93dP7NOUO9GhTHXs4Sge4tniEJBn9rUY2p1wQoU=
+4qZkcX6TYeMc3zPtS5XLdwaao24TNIiB81-2FFT3740xjf9BouFTl-2BVBKxCP0YtAS96t3dxWG=
+9BZvtoDdiTHCJU9hgvduE4fJafwZpWy-2Fmee-2B8Gdbuxa2eZqYuZpOzNqjoqUmt8Q-3D-3D" =
+style=3D"color: blue; font-family: 'Times New Roman', Times, serif; font-si=
+ze: 13.63636302948px;">Campus Life</a><span style=3D"font-family: 'Times Ne=
+w Roman', Times, serif; font-size: 14px;">&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;=
+</span><a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df=
+8U8NxLEwpb2Abk0-2B-2FF-2BLmmIFqat39jc-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT=
+9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB=
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7=
+mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2BlxLyY-=
+2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkHA93m=
+BtAEAKHy3qIQ-2FvcVhI-2FWa-2BiEixCmNyfrSIAejnPYvVItH1TVnYTR4-2BSx82kwvjLxjpU=
+Eaezf-2B9j0sby1ofUsK-2BZcrWSvnjtBaVMPppSsPRXFPtFiOiInw8ypqUq1aPUYdtI3vqeJnk=
+fDBsOhdMlPUXJqv3yNi-2BGpHiaDI92UZA-3D-3D" style=3D"color: blue; font-family=
+: 'Times New Roman', Times, serif; font-size: 13.63636302948px;">See the Ca=
+mpus</a></td></tr></tbody></table></div></font><br /><table align=3D"center=
+" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75;=
+ clear: both; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=
+=3D"650"><tr><td align=3D"center"><font color=3D"#333333" face=3D"Arial, He=
+lvetica, sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This email=
+ was sent to markiewicz.john@gmail.com by Illinois Wesleyan University.<br =
+/><a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjE=
+f1g6PVyapaphaS8odAzdwMvwmxDmVkFH8oEp7IgxsokZ2-2FL-2Bh5fC4vnyP6yf5VF0BBaIzry=
+ku40lxmDUIoAiGxh3x-2FHC8wqra3-2B-2Fissvc6Wfa_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5=
+MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNXY1nD-2Blx=
+LyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQsNngFpQpkH=
+A91BSgFQ-2FkTIenJOyq4Qweb6AetRj5Kf7FjtUcnf7jWAPmV0N67mo56K-2BBnw3W1W-2Frm6l=
+udpOF-2BcgMR5-2BuQlUbYNB6g8-2BXqLcnm6nTAJnH7za9bdvMKo-2F1xmxh44-2Fma5ZqC5br=
+-2FzGZJ8ASLdWeHv9SYWKlu8Xo1nF1MDB0P8fu91Zw-3D-3D">Unsubscribe</a> from Illi=
+nois Wesleyan University.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-=
+2F4gXxDF5MCR7mH8zv-2BtHNv8j5b87UeMMCbjwcGcq9T30dFn6NYMVY9dC-2Be9uogVb2xdzNX=
+Y1nD-2BlxLyY-2FUdR-2FpngibyUv3ORH95g9UkioVmjD-2B-2FiFAVTPlIwAOb-2Bn-2BZOIQs=
+NngFpQpkHA91A2DX3MXc7KX67gx3YN3-2FTB4VhVpjbaq2-2Fenkceahztgts7vmn4puJwQCrsH=
+O8Y48ERxguhVtL97WmFxf6YNeoV182gGrLbpjDpoWtMXC7uCSoyt4BpOieVlyBJI-2F5L5Q4HL5=
+DwPgREAJSeecqH-2F7tsk3IuMJJ6e9Q48ldiH4MloYo9SNVvKboaiXwrD5bjDY-3D" alt=3D""=
+ width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_cad0bcc0-7d2b-48c3-a2ac-950a17cdedbb--

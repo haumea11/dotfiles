@@ -1,0 +1,487 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp997393oig;
+        Sat, 1 Aug 2015 11:04:17 -0700 (PDT)
+X-Received: by 10.180.75.34 with SMTP id z2mr17875678wiv.89.1438452257020;
+        Sat, 01 Aug 2015 11:04:17 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x232.google.com (mail-wi0-x232.google.com. [2a00:1450:400c:c05::232])
+        by mx.google.com with ESMTPS id ga1si4351365wib.115.2015.08.01.11.04.16
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 01 Aug 2015 11:04:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) client-ip=2a00:1450:400c:c05::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x232.google.com with SMTP id ud3so66643064wib.0
+        for <kuiperhaumea@gmail.com>; Sat, 01 Aug 2015 11:04:16 -0700 (PDT)
+X-Received: by 10.194.109.36 with SMTP id hp4mr19524870wjb.4.1438452256285;
+        Sat, 01 Aug 2015 11:04:16 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.39.3 with SMTP id n3csp933037wmn;
+        Sat, 1 Aug 2015 11:04:15 -0700 (PDT)
+X-Received: by 10.180.188.137 with SMTP id ga9mr18536161wic.11.1438452255602;
+        Sat, 01 Aug 2015 11:04:15 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o8.mx.technolutions.net (o8.mx.technolutions.net. [198.37.152.137])
+        by mx.google.com with ESMTPS id bb10si4566366wib.69.2015.08.01.11.04.14
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 01 Aug 2015 11:04:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.152.137 as permitted sender) client-ip=198.37.152.137;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=1KAC70uHSX5KOBniLC/yZMGiyag=; b=kwbDburE3WJG2Z6lYePFgzHiagy25
+	AfO5sX82lawFWysyx97dVs/2oby9OgrxAv/njpFLJvJmDYRVSGS6Ejhc2i9QCA44
+	xpTBSbzhMTs8zGy2knxvG/A2PsgudEywWX6o28DazHfOIxOK2JhCs86cSOogg06U
+	ix34p7tnRN1dDE=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=1KAC70uHSX5KOBniLC/yZMGiyag=; b=WlvjVHHTcUFgYrxJfrYznqyn5YZZu
+	rfObGUlesqBZMU7c4gnrPtqacWzEUm+nk012lKnTuNeyRv6Xi4+qP+wGc36KYflj
+	fOEhh9GDFntCBw6oyDIIZqP8gQupDaCpLjoihVQP5FkNcrgSvJPiL4nIGG1v4wKg
+	1ZBhdwySedX46o=
+Received: by filter0801p1mdw1.sendgrid.net with SMTP id filter0801p1mdw1.17006.55BD0A1C13
+        2015-08-01 18:04:12.333633788 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id GF4ePhOOSH-7C1rYL7jfAA
+	for <markiewicz.john@gmail.com>; Sat, 01 Aug 2015 18:04:12 +0000 (UTC)
+From: "The University of Chicago" <collegeadmissions@uchicago.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Asugut 1: A Mmenoutos Dtae Tghuorouht Hstroiy
+Date: Sat, 01 Aug 2015 18:03:58 +0000
+Message-ID: <6a50f57b-df70-4787-b3ea-5b7321ee09aa@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_13a54bcd-b499-4be7-8e2f-4daca345fb51"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuHUvuiH3M4gEvlzycQZnqAw3GlkGPJvYKtd2I
+ f+WRicAeo5pNL5Zkl6VVIJtKnMNnDiPe86tGlFGxGxcK2kdb1M5aM8BCUZXtXP/Tfz2nW7rCvRhp7i
+ tCRAeW/LM3uT3h0oEF8PkDslxfJtfIdP/p7w
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegKoMruGxCXFGMWBXnfrfAW3wIYGDuffZZUNyWqlrq+T3yKkVAFkQuX4z31
+ 5rj8e5K8cfmUuAjvCT47W/C3PQ2EWbsz+YEH/5sqhgoKH9mDNTkovVm8Rka6iysfcR6wdrwRmCCLyZ
+ uI+JrOfJ5Ll0Ol2OeR5Mrh8+V5nqVBBwrK7KXb1y9b5LSKjBV9bEFJhkfBWZn1nFQS1En7Pc9T+Jke
+ Fz3fPGenRr0SO9yURRjBq2
+
+------=_0_13a54bcd-b499-4be7-8e2f-4daca345fb51
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,
+
+If you've seen the 2015-2016 UChicago Essay Prompts <https://collegeadmissi=
+ons.uchicago.edu/apply/essay-questions>, then you may already know: rerhces=
+eras say it's siltl plisbsoe to raed txet wtih olny the frist and lsat ltte=
+res in palce.
+
+Well, did you also know that one of our other 2015-2016 essay prompts has a=
+ secret connection to today?
+
+Prompt #3 asks you to mash up historical figures, and we offered a few exam=
+ples to get you started: Joan of Arkansas. Queen Elizabeth Cady Stanton. Ba=
+be Ruth Bader Ginsburg. But, it's no coincidence that we picked those examp=
+les. They're all bound together by a mystical date throughout history: Augu=
+st 1st.
+
+Let us explain:
+
+	 On August 1st, 1947, the Arkansas Catholic newspaper in Little Rock, Arka=
+nsas, ran an article <http://arc.stparchive.com/Archive/ARC/ARC08011947p07.=
+php> about plans to use Jesuit editor Rev. Dr. Paul Doncoeur as a consultan=
+t and advisor on the new film "Joan of Lorraine," starring Ingrid Bergman i=
+n the title role as Joan of Arc.
+
+	 The book Rightfully Ours: How Women Won the Vote, 21 Activities (For Kids=
+ series) <http://www.amazon.com/Rightfully-Ours-Women-Vote-Activities/dp/18=
+83052890>, published August 1st, 2012, details the efforts of Elizabeth Cad=
+y Stanton and other suffragettes in winning the right for women to vote. Th=
+is book was written by Kerrie Logan Hollihan, who got her start writing a b=
+iography of Queen Elizabeth I.
+
+	 This "Notorious RBG" (Ruth Bader Ginsburg) baseball tee <http://i3.cpcach=
+e.com/product/1320872116/the_notorious_rbg_baseball_jersey.jpg?height=3D350=
+&width=3D350> sure would have looked great on Babe Ruth as he took the fiel=
+d for the Yankees in the 1928 season. That year he signed a new contract fo=
+r a record-breaking salary of $80,000 per year, which was money well spent,=
+ as he already had 42 home runs by August 1st of that year.
+
+Okay, these are actually all coincidences. In fact, we had to do some prett=
+y creative Googling to come up with those. But, we're justifiably excited a=
+bout today, August 1st. It's a big date in the world of college admissions:=
+ the day the Common Application goes live <https://apply.commonapp.org/Logi=
+n?ma=3D350>, and you can begin applying to many universities nationwide, in=
+cluding UChicago. You can also use the Universal Application <http://univer=
+salcollegeapp.com/>, the other application accepted by UChicago. We treat e=
+ach application equally, so use whichever you prefer!
+
+Whenever you are ready, you can also visit getstarted.uchicago.edu <http://=
+www.getstarted.uchicago.edu/> to create your UChicago account and begin you=
+r UChicago Supplement. This year you have the option of submitting your Sup=
+plement through the Common Application website or directly through your UCh=
+icago account.
+
+Thank you for considering UChicago as your future college home. This fall, =
+we will be visiting communities and schools throughout the world <https://c=
+ollegeadmissions.uchicago.edu/visiting/chicagovisitsyou>, as well as hostin=
+g events <https://collegeadmissions.uchicago.edu/visiting> on campus. Where=
+ver it may be, we'd love to see you there! Please feel free to contact us <=
+http://collegeadmissions.uchicago.edu/contact> with any questions=E2=80=94w=
+e're happy to help you through the process.
+
+Sincerely,
+
+Andrew Green
+Senior Admissions Counselor
+
+
+The University of Chicago  |  Office of College Admissions <http://collegea=
+dmissions.uchicago.edu>
+1101 E. 58th Street * Chicago, IL 60637
+Telephone: 773.702.8650 * Fax: 773.702.4199
+=C2=A9 2015 University of Chicago
+
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by The University of Chica=
+go.
+Unsubscribe from The University of Chicago. <https://prospects.uchicago.edu=
+/go?r=3Doptout&mid=3D6a50f57b-df70-4787-b3ea-5b7321ee09aa>=
+
+------=_0_13a54bcd-b499-4be7-8e2f-4daca345fb51
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+A:link {
+        TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #800000;
+}
+A:visited {
+        TEXT-DECORATION: none; COLOR: #800000;
+}
+A:hover {
+        TEXT-DECORATION: underline; COLOR: #800000;
+}
+A:active {
+        TEXT-DECORATION: none; COLOR: #800000;
+}
+/**/
+</style><style type=3D"text/css">
+/**/
+@media only screen and (max-width: 480px) { table, img { width: 100% !impor=
+tant; height: auto !important; } }
+/**/
+</style>
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;"><table align=3D"center" bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td align=3D"center" bgc=
+olor=3D"#FFFFFF" width=3D"100%"><table align=3D"center" bgcolor=3D"#FFFFFF"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"605"><tbody><tr>=
+<td colspan=3D"2"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsA=
+Zd4rVvUxxvV3GpH450RDvTxfUDRUSbc8jxL92dFBPM6hmxXTV0Z3Jx010ulso_fl-2FMBkJMX7H=
+Xblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0K=
+g4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-=
+2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2=
+SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqb=
+d6l4U7qRsnPGeMea3aImxRffMQAcylMvbOPIQvT-2B75O4y5EQCTk9fLlmQZYbfbDCC84xxrwwk=
+tGVbOHl5gUlfYVhS0u5US5-2FYGTMggEHFhXsXUExtFliganqhO0m1Rp3gyhJ33jR82ov8HjzNj=
+ui2GQjkd3PMY9lREaD1rkvKF1JzvMPyoU4-2BaYfCdAXO5-2B-2B-2B-2F-2BnNcYGqLLI-3D" =
+style=3D"border: medium none;" target=3D"_blank"><img alt=3D"The University=
+ of Chicago | College Admissions" style=3D"color: #800000; font-size: 20px;=
+ border: 0px solid; width: 605px; height: 137px;" title=3D"The University o=
+f Chicago | College Admissions" height=3D"137" width=3D"605" src=3D"https:/=
+/d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51__K-hBf=
+NkEmCOSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjd99G5BCSBYhU8uRBvAwAV0_0dL88q=
+tc4oA" /></a></td></tr><tr><td colspan=3D"2"><p style=3D"font-family: Garam=
+ond; background-color: rgb(255, 255, 255);">Dear John,</p><p style=3D"font-=
+family: Garamond; background-color: rgb(255, 255, 255);">If you've seen the=
+ <a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd4rVvUxxvV3GpH45=
+0RDvTxfUDRUSbc8jxL92dFCcALMV1hnQOXEnkXlA2B1qZavp78Kob0qgvlO4andZwo56gVnvY8D=
+8G34yUI2QlE4-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC=
+2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHU=
+wxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9Ctheap=
+J0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK=
+-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPH7mA5-2Bg-2B85e4vTxzFXK-2FV2-2Bu69h=
+s48niZRNrQ8BuLXpNWZ22OVfJFxfuaJ4VhkBVkCzdD-2BE80PqhOnXW48torRj01EygkpvidQW0=
+46pWBUNcwWmwnU0M81lZx1ZKVks4soQRmc-2BxK-2Bv5zKNJdPQL-2BW-2F-2BijzDdGzGWBOgT=
+jt35yY3McluFkuoJw8D7kW3WSLOs-3D">2015-2016 UChicago Essay Prompts</a>, then=
+ you may already know: rerhceseras say it&#8217;s siltl plisbsoe to raed tx=
+et wtih olny the frist and lsat ltteres in palce.<br /><br />
+Well, did you also know that one of our other 2015-2016 essay prompts has a=
+ secret connection to today?<br /><br />
+Prompt #3 asks you to mash up historical figures, and we offered a few exam=
+ples to get you started: Joan of Arkansas. Queen Elizabeth Cady Stanton. Ba=
+be Ruth Bader Ginsburg. But, it&#8217;s no coincidence that we picked those=
+ examples. They&#8217;re all bound together by a mystical date throughout h=
+istory: August 1<sup>st</sup>.<br /><br />
+Let us explain:</p><ul><li style=3D"font-family: Garamond; background-color=
+: rgb(255, 255, 255);">On <strong>August 1<sup>st</sup></strong>, 1947, the=
+ <strong>Arkansas</strong> Catholic newspaper in Little Rock, Arkansas, <a =
+href=3D"http://mx.technolutions.net/wf/click?upn=3DvqM5dEBeAWAKJWEcUpFudpXK=
+WpyI1ibMBG6jzyNepN1pvCF6Nr0bsq1LjDxW1DqNqpwsnFqq6-2BSc-2FZOKHBcN-2BA-3D-3D_=
+fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9=
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnoh=
+tCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2F=
+f5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3Azpbmf=
+U3oI0GWgV6Lqbd6l4U7qRsnPGYcTIptkPNB1WallrfVnuY1tEkHNm9YoKq9UFBEo6mDDU26zp5r=
+5KU8XRLiYZ-2BHOJ0euKGF2ngeb6VG3csze5y1MiVFGyQmXs6PIJoKYcP2ba5bv28pGr33pOAhD=
+gnKxUeMfrYQ0JDSefnFRahKj3XavjYMyUNsItHPSj-2BAJmuZY3bLXOHtK-2BOdFZig3QYK1o-3=
+D"><strong>ran an article</strong></a> about plans to use Jesuit editor Rev=
+. Dr. Paul Doncoeur as a consultant and advisor on the new film &#8220;Joan=
+ of Lorraine,&#8221; starring Ingrid Bergman in the title role as <strong>J=
+oan of Arc</strong>.<br />
+&nbsp;</li><li style=3D"font-family: Garamond; background-color: rgb(255, 2=
+55, 255);">The book <a href=3D"http://mx.technolutions.net/wf/click?upn=3DF=
+gQ-2Fn6YekwlwAzpDulOpx8OSJx6-2BsZBV27kSEO35r7XiZNdTDYN5qvAyukkD2mt5mabqFP4y=
+lNVZy3JKpZ185L8zxg5YsBxtQmM3ozHPBXo-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9u=
+m4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdY=
+Q7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo=
+-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs=
+8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPGR9OS1b9A-2B=
+OV2EMUKc86h39wc7eWpai-2FvaYXOYUvOO60n5tlhBsGZYekqAlNsatFc0KEgfIdRQQq47DqtrI=
+B3XCrU4ZWYCzx-2Fw7JaeRSqh-2BfJeN6kv8clLVg7o24J3ox8rbGswMTOL72lod92dhDRtWzXo=
+vyF-2BebADUFF08uRT4qgjuQWcCCy1dGIkjFeuSYY-3D"><strong>Rightfully Ours: How =
+Women Won the Vote, 21 Activities (For Kids series)</strong></a>, published=
+ <strong>August 1<sup>st</sup></strong>, 2012, details the efforts of <stro=
+ng>Elizabeth Cady Stanton</strong> and other suffragettes in winning the ri=
+ght for women to vote. This book was written by Kerrie Logan Hollihan, who =
+got her start writing a biography of <strong>Queen Elizabeth I</strong>.<br=
+ />
+&nbsp;</li><li style=3D"font-family: Garamond; background-color: rgb(255, 2=
+55, 255);">This <a href=3D"http://mx.technolutions.net/wf/click?upn=3DZh2mq=
+4a7caz-2BzBl-2BKauqi4zzxsV8XilthjGLm7J2oNsJ6RXldCvIvdkgnOtXVVdX5KXFzadZAUcs=
+F8kcZXJr-2B2rCvIPXasihWs6-2FXlBXx17RUf-2BvbBu4Xr3ZYJRuObtCDoOSeJgx2BPiU8yu7=
+icZXA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwk=
+Fi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfc=
+omi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yF=
+KW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Fr=
+l35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPFT3EchDIoTWWOkA7iGQkTgr6KoLYAf3-2F9yE5-=
+2BuqvKkKtrbuI7Qu8EjPrRcTMNC0nIC6qipux-2F8DgtbdPgolCZZipu6xFF5GbTJmHLWbDNXxS=
+jjmanO9hT92bqf4aHcd5go7eihBRpjQVWdiVNrpC6R5cEcGO774vr5-2BixuofEdoRU-2BRYuru=
+jEVYvt-2B-2FTrCtpE-3D"><strong>&#8220;Notorious RBG&#8221; (Ruth Bader Gins=
+burg) baseball tee</strong></a> sure would have looked great on <strong>Bab=
+e Ruth</strong> as he took the field for the Yankees in the 1928 season. Th=
+at year he signed a new contract for a record-breaking salary of $80,000 pe=
+r year, which was money well spent, as he already had 42 home runs by <stro=
+ng>August 1<sup>st</sup></strong> of that year.</li></ul><p style=3D"font-f=
+amily: Garamond; background-color: rgb(255, 255, 255);">Okay, these are act=
+ually all coincidences. In fact, we had to do some pretty creative Googling=
+ to come up with those. But, we&#8217;re justifiably excited about today, A=
+ugust 1<sup>st</sup>. It&#8217;s a big date in the world of college admissi=
+ons: the day the <a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqt=
+Go87cYwSxRwFLjEf1t-2FpqZuEKBI9Jt2S439sKRe5NagczYq3ONT-2BPISVbIqF_fl-2FMBkJM=
+X7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2=
+B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQi=
+SL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3=
+FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6=
+Lqbd6l4U7qRsnPEzcpAcytF2A3dn5G5nQ1NfFhGoB6QSh7lUriYoK-2F8HemAfwAUpNgokDVEqR=
+6sl4hqeH-2FRr-2B1Q15XMLO43a-2FDad-2FIzOT2jtWE5wYsZSWVi26SxK8Tdcb6gZcETY-2B5=
+dMQHxFChM4AMDkmRMXabDMDLip5ckln4HhhZ34CVERM2UUfzOjeFU7ZqCuahxstvYkOHU-3D"><=
+strong>Common Application goes live</strong></a>, and you can begin applyin=
+g to many universities nationwide, including UChicago. You can also use the=
+&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DMu-2FnftrbyipyE=
+bKnen8dkqdXw0hiuPD02EdG1OMWG-2BVm7TYM2BhThu8D0C7hBftN_fl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwV=
+q3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6x=
+vZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qR=
+snPHohvHi7MVVXH44jFkUvma5vuLMg-2FGjQL3S8slJTOwNQseBFuOQW31p95YPI2MN58mSJP2X=
+DLPA4TdEoFRnCS-2FHpyjCtxjpmyXMjhG-2FmbRBIWhOnz3vFE8SGIe85rFU-2BqYB1gI5mip34=
+GBq-2BfsB82FqRiRDFKhdnHbuTx-2BVJRMsbCm1TN9GdvcSAhwvYRvVFp4-3D">Universal Ap=
+plication</a>, the other application accepted by UChicago. We treat each ap=
+plication equally, so use whichever you prefer!<br /><br />
+Whenever you are ready, you can also visit&nbsp;<a href=3D"http://mx.techno=
+lutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx3JbvHQ0NGCxHGYw0KdvkwiLJP=
+7SenRWX8sm2m1E4Q4j_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9Cth=
+eapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BE=
+ukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPFbfDS4j7YN023d8igI9rHNbJOk3EZFZ1=
+I8yPDivNqxu8yGfjbDt-2Bn5NEqasXvvqxejPwohgXVb-2BdfZwr7MUna6UWxt1fum2GiKUSrsK=
+RKsb6CpdoP-2BWBWPW6WJjakruBWpdzYXkHi1cRwdiOnV3j1guYT9LidGnyorFM8-2Bc9UW8GaR=
+KxFMl59TdOfrj7sb8Is-3D">getstarted.uchicago.edu</a> to create your UChicago=
+ account and begin your UChicago Supplement. This year you have the option =
+of submitting your Supplement through the Common Application website or dir=
+ectly through your UChicago account.</p><p style=3D"font-family: Garamond; =
+text-align: center; background-color: rgb(255, 255, 255);"><a href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3Dr-2BLuZz1cCHj9Nm06xwzKF1QMlBlK9T2PnmK=
+BUVQhB8Yyuodgv7-2B2pQ4Ba8sYRey6_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRH=
+UDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ=
+9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPHAn7mOApunt1jb2jyT3=
+uHj4jfq-2FZ5xkpSUo56M2u0RLu03A3cI4EC1gZDTARvnIY12U7Ju5SG7Pyif1-2Bv2K9-2B6ad=
+zAueb8fy-2F2q-2BlAXzicAULGTowRdkJbNMubb4o0ttWsaz5NBtQv-2B3RqqYl-2Bpzs0g8jip=
+UmGoegjfLPC4rOZN979hPBjDB-2By1QhmbuEW2Zc-3D"><img alt=3D"" style=3D"width: =
+330px; height: 79px;" height=3D"79" width=3D"330" src=3D"https://d2y48w7m6j=
+zhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51__K-hBfNkEmCOSrBkf=
+Y-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjd3NHxmJjWW9JvWn2RzFyB10nooqBfhOMbDFwpvP-=
+-HS_" /></a></p><p style=3D"font-family: Garamond; background-color: rgb(25=
+5, 255, 255);">Thank you for considering UChicago as your future college ho=
+me. This fall, we will be <a href=3D"http://mx.technolutions.net/wf/click?u=
+pn=3DRsAZd4rVvUxxvV3GpH450RDvTxfUDRUSbc8jxL92dFBthGqNCzZB9wjf6fGC-2Bs9E-2Fp=
+gq936XNZ-2FPqU13MN9ilVoOY85eHlmCRRdr-2BWA9YIA-3D_fl-2FMBkJMX7HXblz8UUSYqUr8=
+-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLF=
+pICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYh=
+hWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2=
+FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPFV=
+cO1ang9kY8f5oQjvbVuTSkP0h7TGpCPdPltg2ugzmLbhaV0t9sB505QdACRXcu-2BhREDCHd7aA=
+-2BF-2BDuQZhiCkQyCOyCZfRLe-2FanLSbYD4JRODUEWyQz0q9aP9b1Bi24m4MTPRG7vWrohu03=
+WA5WWVTvJGGEQhpeSkDu78DFc-2BEA6qVGjfUEKQSl3wl-2FeUPhk-3D">visiting communit=
+ies and schools throughout the world</a>, as well as&nbsp;<a href=3D"http:/=
+/mx.technolutions.net/wf/click?upn=3DRsAZd4rVvUxxvV3GpH450RDvTxfUDRUSbc8jxL=
+92dFBthGqNCzZB9wjf6fGC-2Bs9EB5bBS2bEXnUMmEnE89I11A-3D-3D_fl-2FMBkJMX7HXblz8=
+UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCF=
+XwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFM=
+NwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsn=
+G6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U=
+7qRsnPH-2FfAdIUonznZGu-2BDy9YYH391oGBNXzK6iHa-2BWKUpBGVTrF4eEUN9zyyUltTX8Mq=
+UwPPty-2FvfIS97HJUQtHmlDirqLKYHW7CvPbCO4tycD6EQYjVxO5QgkXLsrZORW405ntoqHGwQ=
+TxfRUq-2FDyEabYd-2BrCzTc-2Bt2LbXG7Gc3oVE-2FyulWG9QqcZeyUeoFqtJn8c-3D">hosti=
+ng events</a> on campus. Wherever it may be, we'd love to see you there! Pl=
+ease feel free to&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3De-2FpelLiFsw2WMcn2-2BgAK9GAvbEAAXQp9LQxr4xkU34Hx5m0DlQtSSdNp2IyoSL-2BE4i=
+UkrkFFToGjPjXiHbIPXg-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m=
+6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79=
+lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6k=
+xYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9Mn=
+UmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPE5hW-2FWaGdUt920-2BoliZS=
+po-2FcPT5CtkxZ38Ey3sZV5P8H4pOVghHYy8PH4iGsPG1JRRadOPg8Xtm-2Bmot0RND8us5LaAt=
+2od7mHYHhT-2B6-2Fb2ZgYSScDmQpRQaGf08aJFo4tvRVTv0T39kja3rsSFc8MTVDRMoBoYnXRC=
+7OZRKaevYONgVGiaKruXE9C-2FBrh7jsU-3D">contact us</a> with any questions&#82=
+12;we&#8217;re happy to help you through the process.<br /><br />
+Sincerely,<br /><img alt=3D"" style=3D"width: 160px; height: 49px;" height=
+=3D"49" width=3D"160" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-b=
+gWTcF616sU-i5vVrdHNwwKigz_j51__K-hBfNkEmCOSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRj=
+z1mshsjd19_pfHLlZmtwlQ_dwFPi8qtqJgrClvImZu_5mnSUx8U" /><br />
+Andrew Green<br />
+Senior Admissions Counselor</p></td></tr><tr><td colspan=3D"2"><img style=
+=3D"margin-top: 30px; width: 652px; height: 14px;" height=3D"14" width=3D"6=
+52" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdH=
+NwwKigz_j51__K-hBfNkEmCOSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjdxDQbmmMxRj=
+H78lsrRLgO16EpqghCdBwhr9m3WgvTyQw" /></td></tr><tr><td valign=3D"top" width=
+=3D"430"><p style=3D"font-size: 12px; font-family: helvetica,arial,sans-ser=
+if; line-height: 140%; color: #434343; margin-top: 0pt;"><a href=3D"http://=
+mx.technolutions.net/wf/click?upn=3De-2FpelLiFsw2WMcn2-2BgAK9GAvbEAAXQp9LQx=
+r4xkU34FDqJboqrpjgpA6zgLbYvdv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMT=
+S3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2=
+F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUD=
+c6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q=
+9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPH4UL4dR92gw5PbPlPCS8P=
+TXENa2qXup5REoICtiuJBO-2FeXCIHiuBWP-2B1fnYsb6Cn7BEO6m8atjjHGXL5Z3cG6JAEYYiv=
+VPJTYtVhdB-2BhioGsb-2BYNgw6E61jM5LgR-2BMBAkn0tIkdmiZz-2F3RPMa7GDvfUHE8UBz0f=
+SBBmQ9hB41r8MqkAuyknJoaxzEhzR3FRhI-3D" style=3D"color: #155f82; font-size: =
+12px; text-decoration: none; font-weight: bold;" target=3D"_blank">The Univ=
+ersity of Chicago&nbsp; |&nbsp; Office of College Admissions</a><br />
+1101 E. 58th Street &#8226; Chicago, IL 60637<br />
+Telephone: 773.702.8650 &#8226; Fax: 773.702.4199<br />
+&#169; 2015 University of Chicago</p></td><td align=3D"right" valign=3D"top=
+"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Df5b-2BVyBP11dM6hwwj=
+DU-2Fs9MNdvkAJJ90sZ6TISOGhRD1fvzZH4q4okkEAdCRING8_fl-2FMBkJMX7HXblz8UUSYqUr=
+8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrL=
+FpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SY=
+hhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-=
+2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPE=
+ynOJ3s21Zo-2BxTKXZlRETc0uvTONC3CqGPX4UTJoS6BmxFyK20XcDX09RcjHaL7xfBsxnVpCYQ=
+0i64-2BDrD1fJ8D-2FUx-2FKphoAU6td-2BqJSHVC10h5IcdTm39xRDJfIx2q5hWzK1yTJPzIwi=
+PoYq5rz2pVW70E-2BHs6JZFAn1-2F3dJwIWQBP2Bf5wk5nQ-2FwpRLMRyU-3D" style=3D"bor=
+der: medium none;" target=3D"_blank"><img alt=3D"Twitter " style=3D"border:=
+ medium none; font-size: 11px; color: #800000; width: 30px; height: 32px;" =
+title=3D"Twitter " height=3D"32" width=3D"30" src=3D"https://d2y48w7m6jzhpb=
+.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51__K-hBfNkEmCOSrBkfY-lA=
+HWA9L6pPcdA93jUQ4bA9aIRjz1mshsjd7TVaRLhEtA4PR17EBdDfV86lQ8lWnuDdQ" /></a><a=
+ href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx=
+yVx7bst9RECDWq4MslLaym2xQ8CFJsE3gS2A3nfpw7es0X-2FGU7TsloctODiAfhxovFIiElhCO=
+i13EWecNZsF0s-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdl=
+C2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mH=
+Uwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9Cthea=
+pJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEuk=
+K-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qRsnPFZbzm-2BoNiC-2BCa7bkuPVaPFDTsCHrga=
+tIyj7nzmTQEvlpP4H0KC8rgGBBKrOlpVCdJKkj4N2clL1LXSFUPzP6DApGypeDK0cywr10e8RZO=
+jruj4UWg-2BFcASkm-2FvYWFUo4cq8RS2dd38hg7qLr9CCF-2B05553pN1f8dAydWIaE0uu3Xxt=
+QMPkARTnbPSiK-2BFJfgg-3D" style=3D"border: medium none;" target=3D"_blank">=
+<img alt=3D"Facebook " style=3D"border: medium none; font-size: 11px; width=
+: 34px; height: 32px;" title=3D"Facebook " height=3D"32" width=3D"34" src=
+=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz=
+_j51__K-hBfNkEmCOSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjd05BH5mlBUFtkCOsfo=
+F-o-O0ny-6RDFokA" /></a><a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3DG28DnXl-2BWjbgDsclVqB5f8kBM90L8SfyfD5Ck9XAH38BGDtxQehR2qIxEtdUjfFo_fl-2F=
+MBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2=
+BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0E=
+vTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF=
+5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0=
+GWgV6Lqbd6l4U7qRsnPGxH1h7sPqVAslijUTQ7duftYlu8VEsFoeVLIWkeSH8Jpj-2FJ8X5AdUr=
+fStMsUtr1hnwN85lOunXmPrAGORjmhbjERWHJbprB3KcnL0oSGFMTHQrhp9zi-2Fe7TURrLbV7B=
+3-2FoLjVEVsKGtqdoGooXYPqtSlkKYiP2pz5X9cTpvs45NSzXu9OkamwIeMfR-2FoXK3Lc-3D" =
+style=3D"border: medium none;" target=3D"_blank"><img alt=3D"Tumblr " style=
+=3D"border: medium none; font-size: 11px; color: #800000; width: 35px; heig=
+ht: 32px;" title=3D"Tumblr " height=3D"32" width=3D"35" src=3D"https://d2y4=
+8w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51__K-hBfNkEmC=
+OSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjdwMt53xRWBB-gff0swbb6U_tND0t0d0npg=
+" /></a><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpxwlmM7POIteN5QK5zr0cCB-2FZt7F-2F7vLNvnztLr8UkCUy_fl-2FMBkJMX7HXblz=
+8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PC=
+FXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrF=
+MNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbs=
+nG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4=
+U7qRsnPFIyQivjmikoLWC2SkwzZ-2FJkC-2FV1HgpVsAjn7l2UF0BeuH4-2BjiWkyUV08os6M-2=
+FgtFCZA25QUdQceFwWOdh4-2B7ZW3wEIegxiKb2fCprzCyP1yFkU5m3H4ch5Tt-2B6Z5bqEBEng=
+ozwDzg8M-2FoeLsJHoDYQDy4eFm6CgbDK7Hsyn3-2BmA0hbthPLL-2BiL7HjLD1CNsn0-3D" st=
+yle=3D"border: medium none;" target=3D"_blank"><img alt=3D"You Tube " style=
+=3D"border: medium none; font-size: 11px; color: #800000; width: 36px; heig=
+ht: 32px;" title=3D"You Tube " height=3D"32" width=3D"36" src=3D"https://d2=
+y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51__K-hBfNkE=
+mCOSrBkfY-lAHWA9L6pPcdA93jUQ4bA9aIRjz1mshsjd6c4ylVdcl4IK6F2RQEIEF-aXdTT_Ng8=
+Tg" /></a></td></tr></tbody></table></td></tr></tbody></table><p>&nbsp;</p>=
+</div></font><br /><table align=3D"center" bgcolor=3D"#fafafa" class=3D"del=
+iver_unsubscribe" style=3D"opacity: 0.75; clear: both; margin: 25px auto;" =
+cellpadding=3D"5" cellspacing=3D"0" width=3D"650"><tr><td align=3D"center">=
+<font color=3D"#333333" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><s=
+pan style=3D"font-size: 11px;">This email was sent to markiewicz.john@gmail=
+.com by The University of Chicago.<br /><a href=3D"http://mx.technolutions.=
+net/wf/click?upn=3Dc6YuzeQrTj9zTbvz2jYue4O0nCakylOjn3m1PoLmOnw6EEvtIOdwKLC-=
+2FeadBqKBv32GH-2Fa7dphxj4Sml3OMfNweJ0GvGAYFypV7apiuZgxc9XQ-2FwqwlhxwF2Kqc72=
+GMG_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6V=
+TjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHY=
+EnohtCd0EvTXQiSL-2BrFMNwVq3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8X=
+I-2Ff5scF5Oup3FN2SBbsnG6xvZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3Az=
+pbmfU3oI0GWgV6Lqbd6l4U7qRsnPHbVOkkFkainFjV57xojaln79A3QazniwZJVhJY0qneZDL1H=
+vr3jI7UPcu0W8WwMQfpXFLWmndwyBkUyvYGIXPMmRBnBqiJimAHY6JW984wM87ZyPLhe4pXCflB=
+C1Z1YLR1uoKEnQriUxrykt-2FJMH05DDklZNMNAGQKYd6DHxc6-2BH8hsgSZAYzrIaOwUHenOTw=
+-3D">Unsubscribe</a> from The University of Chicago.</span></font></td></tr=
+></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomi-2BHYEnohtCd0EvTXQiSL-2BrFMNwV=
+q3SYhhWpstunYzo-2BiuRHUDc6kxYQs9CtheapJ0yFKW6anG8XI-2Ff5scF5Oup3FN2SBbsnG6x=
+vZf-2FRF8ymIVHs8P9a5fZ9Q9MnUmXr-2BEukK-2Frl35ws3AzpbmfU3oI0GWgV6Lqbd6l4U7qR=
+snPH-2BVvxRtAN2hW-2Fj8XZrvN0OSQCVAe84ORE0CILfIroOj9q6xnTrHcgsQvOVF9EjcrkAw1=
+15TJHLoGJRo7xjNpCQoCCSFo2cQpjjgD9iHVg6b8dZ63I69zaqUu-2BoKkSidj7xI9-2FBImVKg=
+x-2FB0Uxntrl9SDoMz6WDh-2Bahku2YZ5u0-2Bf1z5-2BgwX4aySkeHlbzkyDo-3D" alt=3D""=
+ width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_13a54bcd-b499-4be7-8e2f-4daca345fb51--

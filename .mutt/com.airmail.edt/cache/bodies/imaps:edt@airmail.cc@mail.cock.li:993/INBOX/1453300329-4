@@ -1,0 +1,145 @@
+Return-Path: <cock.li-news-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: cock.li-news@lists.cock.li
+Delivered-To: cock.li-news@lists.cock.li
+To: cock.li-news@lists.cock.li
+From: Vincent Canfield <vc@cock.li>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <56B22F5D.6030805@cock.li>
+Date: Wed, 3 Feb 2016 18:48:29 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+Subject: [Cock.li News] Cock.li Raided Again By Germans, New Site,
+	New Domains, Other News
+X-BeenThere: cock.li-news@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <cock.li-news.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/cock.li-news>, 
+ <mailto:cock.li-news-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/cock.li-news/>
+List-Post: <mailto:cock.li-news@lists.cock.li>
+List-Help: <mailto:cock.li-news-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/cock.li-news>, 
+ <mailto:cock.li-news-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============3989082592070110284=="
+Errors-To: cock.li-news-bounces@lists.cock.li
+Sender: "Cock.li-news" <cock.li-news-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============3989082592070110284==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="tG4KtiEPvLuWNIWrB5MwI6gOK9KrkHDp9"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--tG4KtiEPvLuWNIWrB5MwI6gOK9KrkHDp9
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Preface: I'm sorry to those that were previously unsubscribed from this
+list. I had to resubscribe all users as the mailing list database was
+lost in the second raid. Unsubscription instructions are at the bottom
+of this E-mail.
+
+Hi Cock.li,
+
+We have a lot to talk about, so I will try to be succinct.
+
+1. Cock.li's second hard drive has been stolen, uh I mean "confiscated"
+by the German government. This means that all the data is gone until I
+get the HDD back, but the service has been restored from a user database
+backup. This is why all of your E-mails went missing. This situation is
+ongoing and I am still trying to find out what happened and why. Any
+updates will be posted to my Twitter <https://twitter.com/gexcolo>
+
+Here are some news articles chronicling what happened:
+> http://arstechnica.com/tech-policy/2015/12/all-la-schools-shut-down-ove=
+r-message-sent-from-8chans-e-mail-host-cock-li/
+> http://arstechnica.com/tech-policy/2015/12/cock-li-e-mail-server-seized=
+-by-german-authorities-admin-announces/
+> http://arstechnica.com/tech-policy/2016/01/cock-li-server-seized-again-=
+by-german-prosecutor-service-moves-to-iceland/
+
+2. Cock.li has moved to a new host, Flokinet <https://flokinet.is/>. I
+purchased a used server from them and new hard drives and am now
+colocating in their Bucharest datacenter. Flokinet is a
+privacy-conscious host that has proven they will advocate for the
+privacy of their customers, and I've met with the CEO personally and
+discussed cock.li's situation with him.
+
+3. This new server was 880 EUR. The hard drives were 188 EUR. Server
+setup was 75 EUR. This has put a huge financial strain on cock.li and
+while the site received almost $1000 last month, it still leaves cock.li
+$250 in the hole as of this month. If you have any money to spare,
+please *please* donate so that cock.li will continue to be a waste of my
+time, not my money. Donate here: <https://cock.li/donate>. Reminder that
+cock.li operates not-for-profit, meaning no matter what I do not profit
+off of donations in any way.
+
+4. Registration is closed for all of cock.li's old domains until I get
+the HDD back or figure something else out. The good news is that cock.li
+has 6 new domains on which registration is open! They are: cock.lu,
+cock.email, aaathats3as.com, hitler.rocks, firemail.cc, and
+getbackinthe.kitchen. You can register them here:
+<https://cock.li/auth/register>. Speaking of...
+
+5. Cock.li's new site is live!!! I first started on this revision over a
+year ago, but I've been distracted from finishing it and pushing it
+live. Recent events have motivated me to finish the site and deploy it.
+At least something good came out of this!
+
+Thanks to everyone for your amazing support through all of this. With
+all of us, cock.li will never die. The phallic reich will reign for a
+thousand years.
+
+I'll leave you with this quote from /int/:
+> japan different from many,
+> but all mankind share one thing=20
+> love for dick. through dick,unity.
+
+Love,
+
+    Vincent Canfield
+         -cock-
+5CB4 9CDC EAC7 97FB F8BD
+C074 FD71 AD27 71A5 CC1B
+
+
+--tG4KtiEPvLuWNIWrB5MwI6gOK9KrkHDp9
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWsi9dAAoJEP1xrSdxpcwbvlwP/03Bql6opLUCeW5h/AKzVnLq
+f1R7VFNOkxcEK7tJtP17CHaE+rSG1hwdcg1De+taicRwSlciPKzMLTDbM0d1+koN
+04tB2piv2Ffl7P/tANXLz5FeU5kQsIpShGuawJpeLGYhklOcUpSJywtB+8/ZUXA0
+ozY2+3jqZJ+AhMf3ZWBEzR/H/pRw1iRUorzBmuy+/RmZVioqBh80oV9G2hpZVYR/
+3vMK7HSCjIfI11deN0YBctHk2cxPpA9ED2tfq7XWs9b7rj7CHm1IwOUMx/UWb4+X
+L06W3Rnem02EAFVpiu0JwGqtPZGkWt8/nDBZ0SbLMTDtQKqIxZRvB4sZ3dKzYOgF
+ESLKn71JiDJq/42MF3pzBM3lHsCHjYOIZ04jTAra+AW1pJN3fyLJj46Gn+8V25jr
+c7WNmOUgWJAkCMLTKt35VzRJsxZL1T/s46VXAg16vqZa14vXC5jAQ4Fl8Me9C4Hq
+z5AL+/ov5bRDIqK3+KjJ3kbZ1UJa9xPxP0TFiA4+00Va1SreWlX1VopfREkRU9MR
+BF4esqt5ZQvNN1vCHqainfe2Jhp1S6uptkv06o5tL7jOCEE6Y6PwI37QHizLXW7j
+ms1yplNlwo+CCD1y/o4J6U9Yqc0rNmsUC+UHafQ/Tlm41PzFhVagPg4p/YEBFUX8
+E0vcjXYDDBe8MRtg+bF+
+=rh59
+-----END PGP SIGNATURE-----
+
+--tG4KtiEPvLuWNIWrB5MwI6gOK9KrkHDp9--
+
+--===============3989082592070110284==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+OD09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1ECiAgICAgICAgQ29jay5s
+aSBuZXdzIG1haWxpbmcgbGlzdAogICAgICAgICBUbyB1bnN1YnNjcmliZSwgRS1tYWlsCiAgY29j
+ay5saS1uZXdzLXVuc3Vic2NyaWJlQGxpc3RzLmNvY2subGk=
+
+--===============3989082592070110284==--

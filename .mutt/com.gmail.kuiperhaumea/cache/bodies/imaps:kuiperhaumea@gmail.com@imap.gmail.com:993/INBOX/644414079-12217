@@ -1,0 +1,243 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1808659oid;
+        Mon, 6 Jul 2015 11:22:47 -0700 (PDT)
+X-Received: by 10.180.99.2 with SMTP id em2mr93161560wib.59.1436206967195;
+        Mon, 06 Jul 2015 11:22:47 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x234.google.com (mail-wi0-x234.google.com. [2a00:1450:400c:c05::234])
+        by mx.google.com with ESMTPS id d2si20588125wik.49.2015.07.06.11.22.46
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 06 Jul 2015 11:22:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) client-ip=2a00:1450:400c:c05::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@iad01.hobsonsmail.com
+Received: by mail-wi0-x234.google.com with SMTP id lp1so17611641wic.0
+        for <kuiperhaumea@gmail.com>; Mon, 06 Jul 2015 11:22:46 -0700 (PDT)
+X-Received: by 10.180.39.147 with SMTP id p19mr91606113wik.15.1436206966577;
+        Mon, 06 Jul 2015 11:22:46 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1568986wmd;
+        Mon, 6 Jul 2015 11:22:45 -0700 (PDT)
+X-Received: by 10.55.50.195 with SMTP id y186mr323903qky.55.1436206965112;
+        Mon, 06 Jul 2015 11:22:45 -0700 (PDT)
+Return-Path: <7350638.ou@iad01.hobsonsmail.com>
+Received: from mailer05.iad01.hobsonsmail.com (mailer05.iad01.hobsonsmail.com. [165.193.85.40])
+        by mx.google.com with ESMTP id f10si21758777qga.90.2015.07.06.11.22.44
+        for <markiewicz.john@gmail.com>;
+        Mon, 06 Jul 2015 11:22:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 7350638.ou@iad01.hobsonsmail.com designates 165.193.85.40 as permitted sender) client-ip=165.193.85.40;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key3; d=iad01.hobsonsmail.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:Message-ID;
+ bh=RY25BtnQMmY0Ay7Ph3GlInLJbUs=;
+ b=89hcJimqcQmD1lRsW46z4jqfQPQfaCQJ2Ju3gi6qPxXT3hO8hrBrioKkTFXD3/vIuDzlrjxTQXog
+   FKRpBe7nSEZTV2P03h4P2//7L83ZE51g1fOvPIuf1D0OQ+4syTTk6Y5gjErhRZscnaJB8mYVjFBA
+   lks/PNtkBBczcZDANN0=
+Received: from IAD1PA015 (10.56.152.68) by mailer05.iad01.hobsonsmail.com id hjb3na19gqcp for <markiewicz.john@gmail.com>; Mon, 6 Jul 2015 14:22:15 -0400 (envelope-from <7350638.ou@iad01.hobsonsmail.com>)
+From: "OU National Scholars Programs" <natlscholars@ou.edu> 
+To: "John Markiewicz" <markiewicz.john@gmail.com>
+Reply-To: 7350638.ou@iad01.hobsonsmail.com
+Date: Mon, 06 Jul 2015 14:22:15 -0400
+Subject: Hard work pays off at OU!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_53a8d8d13d5042b691014fbe8f8e953e"
+X-Mailer: aspNetEmail ver 3.5.2.0
+Message-ID: <IAD1PA015f5e4dae341c1435e9f2e92c26f3bcf1b@IAD1PA015>
+
+This is a multi-part email in Mime format.
+
+--_=aspNetEmail=_53a8d8d13d5042b691014fbe8f8e953e
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+http://www=2Eou=2Eedu/go2/home=2Ehtml=0D=0Ahttp://www=2Eou=2Eedu/content/=
+go2/connect/nationalmerit=2Ehtml=0D=0A=0D=0A=0D=0A** Hello, John,=0D=0A--=
+----------------------------------------------------------=0D=0A=0D=0AThe=
+ National Scholars Programs office at the University of Oklahoma wants to=
+ wish you well this summer, especially as your Advanced Placement Exam sc=
+ores are being posted=21 We want you to know that your hard work and dedi=
+cation are not only recognized, but will pay dividends at the University =
+of Oklahoma as you may get class credit for some, if not all, of your AP =
+scores=21 You can view the qualifying scores as well as the transferable =
+credit here (http://www=2Eou=2Eedu/content/admissions/credit_by_advanced/=
+advanced_placement=2Ehtml) =2E=0D=0A=0D=0AWe also want to remind you of t=
+he incredible scholarship (http://www=2Eou=2Eedu/content/go2/affordabilit=
+y/scholarships=2Ehtml)  opportunities available to you at the University =
+of Oklahoma=2E Currently, OU=E2=80=99s National Merit scholarship (http:/=
+/www=2Eou=2Eedu/content/go2/connect/nationalmerit/nmscholarship=2Ehtml)  =
+is valued at =24120,000 (http://www=2Eou=2Eedu/content/dam/recruitment/Do=
+wnloads/NMpackage_2015_NonRes_editable=2Epdf)  and is guaranteed to all N=
+ational Merit Finalists who name OU as their school of choice with the Na=
+tional Merit Scholarship Corporation by the April deadline=2E If you want=
+ to learn more about the National Merit competition (http://www=2Eou=2Eed=
+u/content/dam/recruitment/NSP/National=2520Merit=2520Timeline=25202014--J=
+R=2520Packets=2Epdf) , OU=E2=80=99s =24120,000 scholarship or other schol=
+arship opportunities, let us know here (http://www=2Eou=2Eedu/content/go2=
+/connect/nationalmerit/nmpacketrequest=2Ehtml) =2E=0D=0A=0D=0AIf you have=
+ any questions, want to learn more or are interested in a personalized OU=
+ campus visit (http://www=2Eou=2Eedu/content/go2/connect/nationalmerit/nm=
+visit=2Ehtml) , please let us know=21=0D=0A=0D=0ABoomer Sooner=21=0D=0ANa=
+tional Scholars Programs=0D=0A(405) 325-1290=0D=0Anationalmerit=2Eou=2Eed=
+u (http://www=2Eou=2Eedu/go2/connect/nationalmerit=2Ehtml)=0D=0A=0D=0A---=
+---------------------------------------------------------=0D=0AConnect wi=
+th us on http://www=2Etwitter=2Ecom/go2ouhttp://www=2Efacebook=2Ecom/uokl=
+ahomahttp://www=2Eyoutube=2Ecom/universityofoklahoma=0D=0A=0D=0A---------=
+---------------------------------------------------=0D=0A=0D=0AOU Recruit=
+ment Services =7C 550 Parrington Oval, L-1 =7C Norman, OK 73019 =7C go2=2E=
+ou=2Eedu (http://www=2Eou=2Eedu/go2/home=2Ehtml)=0D=0AThe University of O=
+klahoma is an Equal Opportunity Employer=2E (http://www=2Eouhsc=2Eedu/eoa=
+a/)=0D=0A=0D=0ATo opt-out from future e-mail communications, please http:=
+//ou=2Easkadmissions=2Enet/admin/Communications/OptOut=2Easpx?qs=3D=252bw=
+o5DLKCbgIRL458fCVLOlrQc2c9=252bIf80r=252btJILUKjmuCIQZuJlszw=253d=253d
+
+--_=aspNetEmail=_53a8d8d13d5042b691014fbe8f8e953e
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD><BODY><table style=3D=22background-color: rgb(255, 255=
+, 255);=22 align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 width=3D=22650=22>=0D=0A    <tbody>=0D=0A        <tr>=
+=0D=0A            <td colspan=3D=222=22 style=3D=22font-family: Helvetica=
+,Arial,sans-serif; color: rgb(159, 28, 52); font-size: 11px;=22 bgcolor=3D=
+=22=23ffffff=22 height=3D=2223=22>=0D=0A            <br>=0D=0A           =
+ </td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A            <td colspan=3D=
+=222=22 align=3D=22center=22><a href=3D=22http://ou=2Easkadmissions=2Enet=
+/admin/Communications/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkV1rdq=
+2B03Hit5p=252bWKnFy7UUTYqmenGvexPXIR1NDVjsNtjMLvBdkuB8=253d=22><img src=3D=
+=22https://static=2Easkadmissions=2Enet/ou/usermedia/2014=2520Email=2520I=
+mages/FutureSooners_EmailHeader_2014=2Ejpeg=22 height=3D=22104=22 width=3D=
+=22600=22></a></td>=0D=0A        </tr>=0D=0A        <tr>=0D=0A           =
+ <td colspan=3D=222=22 align=3D=22center=22><a href=3D=22http://ou=2Easka=
+dmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mm=
+l62OzgZiHkV7FWl=252fHbgbsaCUXu0lLYRHaKHNokh=252bAtFqoOYSFtFMVHxHF2U7QdcWM=
+=253d=22><img style=3D=22width: 598px; height: 137px; margin-top: 4px;=22=
+ src=3D=22https://static=2Easkadmissions=2Enet/ou/usermedia/SubHeaders/20=
+14/FutureSooners_NSPSubHeader_2014=2Ejpg=22></a></td>=0D=0A        </tr>=0D=
+=0A        <tr>=0D=0A            <td>=0D=0A            <table style=3D=22=
+border-collapse: collapse;=22 align=3D=22center=22 bgcolor=3D=22=23f5f5f5=
+=22 border=3D=220=22 width=3D=22600=22>=0D=0A                <tbody>=0D=0A=
+                    <tr>=0D=0A                        <td style=3D=22font=
+-family: Helvetica; font-size: 12px; color: rgb(85, 85, 85); padding: 18p=
+x; line-height: 1=2E2em;=22 bgcolor=3D=22=23f5f5f5=22 height=3D=22auto=22=
+ width=3D=22650=22>=0D=0A                        <h1 style=3D=22font-fami=
+ly: Helvetica; color: rgb(179, 8, 56); font-size: 18px; font-weight: bold=
+;=22>Hello, John,</h1>=0D=0A                        <p class=3D=22p1=22>T=
+he National Scholars Programs office at the University of Oklahoma wants =
+to wish you well this summer, especially as your Advanced Placement Exam =
+scores are being posted=21 We want you to know that your hard work and de=
+dication are not only recognized, but will pay dividends at the Universit=
+y of Oklahoma as you may get class credit for some, if not all, of your A=
+P scores=21 You can view the qualifying scores as well as the transferabl=
+e credit <a href=3D=22http://ou=2Easkadmissions=2Enet/admin/Communication=
+s/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkVwc3IlcGy7s2RbZTrkVbClSTf=
+HjjgaeD5GtX3GBogVZ6WIZQhhD6zG0=253d=22 style=3D=22color: rgb(0, 112, 192)=
+; font-size: 12px; line-height: 1=2E2em; font-family: Helvetica, Arial, s=
+ans-serif; text-decoration: none; font-weight: bold; background-color: rg=
+b(245, 245, 245);=22>here</a>=2E=26nbsp;</p>=0D=0A                       =
+ <p class=3D=22p1=22>We also want to remind you of the incredible <a href=
+=3D=22http://ou=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Eas=
+px?qs=3D=252fvEe4Aa1mml62OzgZiHkV=252bh3K0mfXAcmNk=252bM7RgY=252fY4KAtC8v=
+GFcoLRwRPboM2S3Vy2skjOOb74=253d=22 style=3D=22color: rgb(0, 112, 192); fo=
+nt-size: 12px; line-height: 1=2E2em; font-family: Helvetica, Arial, sans-=
+serif; text-decoration: none; font-weight: bold; background-color: rgb(24=
+5, 245, 245);=22>scholarship</a>=26nbsp;opportunities available to you at=
+ the University of Oklahoma=2E Currently, OU=E2=80=99s <a href=3D=22http:=
+//ou=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=25=
+2fvEe4Aa1mml62OzgZiHkV34Y4Tsj4ohSnQj1Pz25C=252bPo626EQpwFzeuqx9OhTro3Lvgg=
+KY=252fyH7k=253d=22 style=3D=22color: rgb(0, 112, 192); font-size: 12px; =
+line-height: 1=2E2em; font-family: Helvetica, Arial, sans-serif; text-dec=
+oration: none; font-weight: bold; background-color: rgb(245, 245, 245);=22=
+>National Merit scholarship</a>=26nbsp;is valued at <a href=3D=22http://o=
+u=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=252fv=
+Ee4Aa1mml62OzgZiHkVygBANxLecVtX9g=252fsIjLSV2Tv0IoRqWKycLrk1QXkXF569GgZa=25=
+2fE=252bpw=253d=22 style=3D=22color: rgb(0, 112, 192); font-size: 12px; l=
+ine-height: 1=2E2em; font-family: Helvetica, Arial, sans-serif; text-deco=
+ration: none; font-weight: bold; background-color: rgb(245, 245, 245);=22=
+>=24120,000</a>=26nbsp;and is guaranteed to all National Merit Finalists =
+who name OU as their school of choice with the National Merit Scholarship=
+ Corporation by the April deadline=2E If you want to learn more about the=
+ <a href=3D=22http://ou=2Easkadmissions=2Enet/admin/Communications/ClickT=
+hru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkVy3yFpdVFwFL4iZM6i8YiEp10YtaTbMwR=
+TsWWyI8RaoyjgATBAS=252fkAA=253d=22 style=3D=22color: rgb(0, 112, 192); fo=
+nt-size: 12px; line-height: 1=2E2em; font-family: Helvetica, Arial, sans-=
+serif; text-decoration: none; font-weight: bold; background-color: rgb(24=
+5, 245, 245);=22>National Merit competition</a>, OU=E2=80=99s =24120,000 =
+scholarship or other scholarship opportunities, let us know <a href=3D=22=
+http://ou=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=
+=252fvEe4Aa1mml62OzgZiHkV6rfP47IC4ZPY6A7WfYTMiFq14iNpvnPFq6vaqsEGNwPgXt2b=
+peGxA4=253d=22 style=3D=22color: rgb(0, 112, 192); font-size: 12px; line-=
+height: 1=2E2em; font-family: Helvetica, Arial, sans-serif; text-decorati=
+on: none; font-weight: bold; background-color: rgb(245, 245, 245);=22>her=
+e</a>=2E</p>=0D=0A                        <p class=3D=22p1=22>If you have=
+ any questions, want to learn more or are interested in a <a href=3D=22ht=
+tp://ou=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=
+=252fvEe4Aa1mml62OzgZiHkV1QvD2GLR8J6jueTC9v4Dz1iYyeRsxKC8dpMbytXV19uMS1mq=
+YkzjME=253d=22 style=3D=22color: rgb(0, 112, 192); font-size: 12px; line-=
+height: 1=2E2em; font-family: Helvetica, Arial, sans-serif; text-decorati=
+on: none; font-weight: bold; background-color: rgb(245, 245, 245);=22>per=
+sonalized OU campus visit</a>, please let us know=21</p>=0D=0A           =
+             <span style=3D=22line-height: 1=2E2em; font-family: Helvetic=
+a; font-size: 15px; color: rgb(179, 8, 56); font-weight: normal;=22>Boome=
+r Sooner=21</span><br>=0D=0A                        <span style=3D=22line=
+-height: 1=2E2em; font-size: 12px=22>National Scholars Programs<br>=0D=0A=
+                        (405) 325-1290</span><br>=0D=0A                  =
+      <a href=3D=22http://ou=2Easkadmissions=2Enet/admin/Communications/C=
+lickThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkV2WBnBZH67KImkeGDX3=252fA3QJ=
+M=252b3zt58c5FE=252fFD1HwflHqjQBvqN0YSY=253d=22 style=3D=22font-family: H=
+elvetica, Arial, sans-serif; font-size: 12px; text-decoration: none; colo=
+r: rgb(0, 112, 192); font-weight: bold; =22>nationalmerit=2Eou=2Eedu</a>=0D=
+=0A                        <br>=0D=0A                        <br>=0D=0A  =
+                      <hr>=0D=0A                        <span style=3D=22=
+line-height: 1=2E2em; font-family: Helvetica; font-size: 16px; color: rgb=
+(85, 85, 85); font-weight: bold;=22>Connect with us on <a target=3D=22_bl=
+ank=22 href=3D=22http://ou=2Easkadmissions=2Enet/admin/Communications/Cli=
+ckThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkVyzQ=252bmEC7WEiWucVlEIRjWJnUU=
+76eujHH6Vaei3UEXEASU9kbXHMO8M=253d=22><img style=3D=22vertical-align: mid=
+dle;=22 src=3D=22https://static=2Easkadmissions=2Enet/ou/usermedia/2014=25=
+20Email=2520Images/Twitter_crimson=2Epng=22 alt=3D=22twitter icon=22 heig=
+ht=3D=2228=22 hspace=3D=223=22 vspace=3D=2210=22 width=3D=2228=22></a><a =
+target=3D=22_blank=22 href=3D=22http://ou=2Easkadmissions=2Enet/admin/Com=
+munications/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiHkVyq=252byTHwF1F=
+ANuMV4yD=252bh8ynJwg6q3ma4L51Dj5MUagGipfA207BpQc=253d=22><img style=3D=22=
+vertical-align: middle;=22 src=3D=22https://static=2Easkadmissions=2Enet/=
+ou/usermedia/2014=2520Email=2520Images/Facebook_crimson2=2Epng=22 alt=3D=22=
+twitter icon=22 height=3D=2228=22 hspace=3D=223=22 vspace=3D=2210=22 widt=
+h=3D=2228=22></a><a target=3D=22_blank=22 href=3D=22http://ou=2Easkadmiss=
+ions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mml62Oz=
+gZiHkVx0UJtoHKyOhtX8ti0zw1nWUP5FOxmTcMBy=252fLx444oAk2pDp8eIAtDY=253d=22>=
+<img style=3D=22vertical-align: middle;=22 src=3D=22https://static=2Easka=
+dmissions=2Enet/ou/usermedia/2014=2520Email=2520Images/YouTube_crimson3=2E=
+png=22 alt=3D=22twitter icon=22 height=3D=2228=22 hspace=3D=223=22 vspace=
+=3D=2210=22 width=3D=2228=22></a></span><br>=0D=0A                       =
+ <hr>=0D=0A                        <p>=0D=0A                        </p>=0D=
+=0A                        <p style=3D=22line-height: 1=2E2em; font-size:=
+ 10px; text-align: center;=22>OU Recruitment Services =7C 550 Parrington =
+Oval, L-1 =7C Norman, OK 73019 =7C <a href=3D=22http://ou=2Easkadmissions=
+=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=252fvEe4Aa1mml62OzgZiH=
+kV1rdq2B03Hit5p=252bWKnFy7UUTYqmenGvexPXIR1NDVjsNtjMLvBdkuB8=253d=22 styl=
+e=3D=22text-decoration: none; color: rgb(0, 112, 192); font-weight:bold;=22=
+>go2=2Eou=2Eedu</a><br>=0D=0A                        <a href=3D=22http://=
+ou=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3D=252f=
+vEe4Aa1mml62OzgZiHkVxLldkdNL=252bzduQJw9NqZn9BJdlgEAJARHeuDYSsz1YscQEUKVU=
+JDPhU=253d=22 style=3D=22text-decoration: none; color: rgb(85, 85, 85);=22=
+>The University of  Oklahoma is an Equal Opportunity Employer=2E</a></p>=0D=
+=0A                        </td>=0D=0A                    </tr>=0D=0A    =
+            </tbody>=0D=0A            </table>=0D=0A            </td>=0D=0A=
+        </tr>=0D=0A    </tbody>=0D=0A</table>=0D=0A<BR><BR><TABLE width=3D=
+=22100=25=22>=0D=0A<TR><TD><IMG src=3Dhttp://ou=2Easkadmissions=2Enet/adm=
+in/Communications/WebBeacon=2Easpx?qs=3D=252fvEe4Aa1mmkDWs=252b4KbcBssziN=
+9KhnG0JPZMOK0D4FhxXVtkbE8EwwQ=253d=253d></TD></TR><TR><TD style=3D=22FONT=
+-SIZE: 10pt; FONT-FAMILY: Verdana=22 align=3D=22left=22>To opt-out from f=
+uture e-mail communications, please=26nbsp;<A HREF=3D=22http://ou=2Easkad=
+missions=2Enet/admin/Communications/OptOut=2Easpx?qs=3D=252bwo5DLKCbgIRL4=
+58fCVLOlrQc2c9=252bIf80r=252btJILUKjmuCIQZuJlszw=253d=253d=22>Unsubscribe=
+=2E</A></TD></TR>=0D=0A</TABLE></BODY></HTML>
+
+--_=aspNetEmail=_53a8d8d13d5042b691014fbe8f8e953e--
+

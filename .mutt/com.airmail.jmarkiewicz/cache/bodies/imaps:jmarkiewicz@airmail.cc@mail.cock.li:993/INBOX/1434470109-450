@@ -1,0 +1,135 @@
+Return-Path: <osu-ctf-bounces@lists.osu.edu>
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 67.231.149.77)
+	smtp.mailfrom=battelle.org; lists.osu.edu;
+	dkim=none (message not signed)
+	header.d=none;lists.osu.edu; dmarc=bestguesspass action=none
+	header.from=battelle.org;
+Received-SPF: Pass (protection.outlook.com: domain of battelle.org designates
+	67.231.149.77 as permitted sender)
+	receiver=protection.outlook.com; 
+	client-ip=67.231.149.77; helo=mx0a-0013ba01.pphosted.com;
+From: "Toterhi, John V" <TOTERHIJ@battelle.org>
+To: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Thread-Topic: RPISEC MBE Recap & Winter break update
+Thread-Index: AQHRLS+LdqewYmfCS0iwIk+/zph/Dw==
+Date: Wed, 2 Dec 2015 18:42:07 +0000
+Message-ID: <BA9E8CFA4826F54C825938B752C2F30B363DF5AD@WP-MBX2B.milky-way.battelle.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:, ,
+	definitions=2015-12-02_11:, , signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0
+	suspectscore=0
+	malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+	adjust=0 reason=mlx scancount=1 engine=8.0.1-1507310000
+	definitions=main-1512020305
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11OLC011;
+	1:jHLV/YRySJ5+V72TwIhGKjHhlRc8OUkksMFdCx1Ce/q2zraQELZwHXnXvlkWUQ3PCVHRQ9a8AyRwkK+R/Lfyutmnw6n4onOdGpIDUDi5Uou7SVcdYAwZNU4taUU4nlsGhn9uO+/TxX6RfBrDya5Te4pX0Ecue5hKVzpyVrfQXiVguNQZ75MRXnj3/qvTVjiadsB8rZBL+WFOz+04gnO+px2R4kYiSDIyJJjKK21TnOvsxo7dPPLi1gBc+eWZftl1kkAlvWcgvo7tiMsJZVnQhyaq1J5JKBoDodQYCzYfa+mF8Dv0QKtWybcqbMbikrsC3JS6EeNh5gt9RfOMecyOnMttKarv24nA/F82xkEUipGD0YBkZBM4Vt/WEfMQ0SQfwnxWrAjE9tuee9+02U2G/WrXUW+xhIAeobpoQFq4zL0gDRh+7NqETii7OtWpzk5l
+X-Forefront-Antispam-Report: CIP:67.231.149.77; CTRY:US; IPV:NLI; EFV:NLI;
+	SFV:NSPM;
+	SFS:(6009001)(2990300002)(438002)(52604005)(53754006)(189002)(199003)(33656002)(77096005)(11100500001)(450100001)(5004730100002)(50466002)(50986999)(2171001)(19580405001)(6116002)(5003600100002)(3846002)(55846006)(2900100001)(586003)(15975445007)(92566002)(86362001)(54356999)(229853001)(6806005)(23756003)(2920100001)(102836003)(19580395003)(47776003)(2930100002)(106466001)(5008740100001)(189998001)(107886002)(5001970100001)(110136002)(2351001)(2501003)(106116001)(7099028)(217873001);
+	DIR:INB; SFP:; SCL:1; SRVR:BY2FFO11HUB032;
+	H:mx0a-0013ba01.pphosted.com; FPR:; SPF:Pass;
+	PTR:mx0a-0013ba01.pphosted.com; MX:1; A:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB032;
+	2:QR3DcHfRgi+NEtzWibmVoOiRhErHn+0p1/uXrDq7uRUD6H3q4qWTcT8hqDK5aQOiD01T+AIU5Kslt/S+UVJwH6+nWrkxpG8oXzuqXh9TYLS85PXv83KDMzV4gSBI/yQy3OBnai8R3brMdPM2lWeRKw==;
+	3:AHXJm4Bz41ZxExNHel5GduW0ch3tyWPDYIY7eMDGMbzXHlk6tb5zOJ7Yq6Jq1EfRjbUfvko/ONidcDCqGZQbgp92Iz2tb52O9SGqh+QbDLJPI3i0ew6Np44ZzLGgF0E96lRt0Er7Z8wi+MvcxIg9f231fCaE66umFSySFPqcVAXTzmfNw9+B+EEGsRZh/xfcKbsV8z7d4HI/EQ4wWHvaB0XBgIMl0ErZ4RjMWLUdULWye7mc/QKn2KZND4bLda6WfuVopF9XaHklKMPyeep6CV6u2fKcNg2cCMe+sEe8RIXe5kIKqs4WUcVKYmn+YZqr;
+	25:89nHq5hMrshH8cDZ8tCT1TquG5IQ4DNLPvzD+iy8iSW+KqPH7CTYJW1ant/zQHIUx9pPXbBCWbjBCpFqIkWW9uixuoYUOoxqw7E6oz7VIxJUMiGicnRCiqewdbzAaV0ITlFK0EBFqco6RI+i3IBk/0dalFD8JcFLOtHfgRhONYM5ohdJUFCJZN6sto0FezqySLOF1R+Z0ZNz1gLqlxc9A7F5OXUY8E6zgkGIE1aY6eOv9fe10zIHC5XHMg40K8AJ
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0;
+	RULEID:(8251501001)(71701003)(71702001); SRVR:BY2FFO11HUB032; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB032;
+	20:7enjhrGFliSucy2XGvIlZMJ/v3/RE5aCniuoQDdBBomz+C0sWR7R2HEhs+TsGCDHNgrILx2HsNAqvHEPy0UsfVD2SGhl+n7jKt5iok2pwRIG0kFyyzDcChmcseQX/JHnTxu3QZqm5Zt92suGJDxYvb4ofaVgF/uE9o5/LzZC0rmaEK8tho3r7VzZhlCG+zvVo+6DLM8tKXB5wzwFVMjCH8uKtnm4th9ByJUcx9UDFm3XFGFzM6RqDVRabdrCB2KtOprZp8DqwflmNWbWkszYo2ECaLEDFyMlrZbjEZR1Z70iujlFj2ngb9BnOAXTsGVp/XrOSdDTpr4KA+obpzfbGRBt+DE695gBvhSh9nbLaioSTiA/w9t9r4Sz1zikSzSO3NIA5jm+FCxLoEhkRpDYOiL6P+VoP1fKZUzdWcktuaSeWi3+Y0C9fWBf8OP+a/suQj32dimQp6ylzluoCYFDXmTQZiNcXn79VYxQNanL9RJk+RgJYmBI9aTrw68an6A5;
+	4:u0WxvyBA5a8bfFWeY04C7Vb5degBbTItW2j0LpdfQommzXXfOrSWCr0LNrPxBTCCOs2ZjrmGj/OiiFKD4mW9UZozs5umBG9bKw4/bMJFFatcL43Pc31kchAoo4AKl6tXMmFW7So+1sVHg5B+Ia+HWrRmWpbpqJTGrQAbwTVv3zWQeoB5AkCoijUsVYbrS0UuX/3U9U5tjY572vzxrd3x90e5Hgwv8q9X07owOmhXWVqzyK8HjCTlgWj9wceErl3dR3i0ZsTN+oycJttKMYCgjjk4zNIHtA7Cn9WH1rWZKnglraZlQ7taWKEwlnE+mY3uAsj4BY3t6tX9/LY5DmufyZ4SwLd+rSEyDQ3E6P2Ix7I4Y/+6g3Lx+0RP2umYWwE8Ub2ZAMl6wXvG/vi96zO37A==
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(601004)(2401047)(8121501046)(520078)(10201501046)(3002001);
+	SRVR:BY2FFO11HUB032; BCL:0; PCL:0; RULEID:; SRVR:BY2FFO11HUB032;
+X-Microsoft-Exchange-Diagnostics: =?iso-8859-1?Q?1; BY2FFO11HUB032;
+	23:SfkZMgBChbMLjW7/saME3cFQ/khSDBZgkNDhnf?=
+	=?iso-8859-1?Q?1Rh9K/X5vQetk92MoW97uAtGeLcgThCCRqW3VaeSt86pMw18bsfrqJHJQS?=
+	=?iso-8859-1?Q?EMFhbVPqiZJ48hQ+YGgomVIyT2zQPrym/h/oi+qPuBhdfkM7DKa6G9fif9?=
+	=?iso-8859-1?Q?9zRnUphncMgEwaU9XGTE5gyVgzfl1o9SSpe1IQ5XTSrO9+lezU6zjgGTIT?=
+	=?iso-8859-1?Q?9ZzP5EVRftWdlO2cmvTWdLSyREjCXlEuTOPWb7TGh8XVNroXkFWyCa6G8n?=
+	=?iso-8859-1?Q?o5ec5623cnqsTmkpAzXYy1xSxSiHYheR5ay7lVSrfnMN29cpNCuIxaD8Vh?=
+	=?iso-8859-1?Q?JMmQHhUkRITYRcTGQ3YjgX734RG+HiJiatSOc3IEjTL4xfLhfZ+b+LaSv1?=
+	=?iso-8859-1?Q?exR0UgUT077T1qfeof1wlbTNyKhMgDaI/lxgdoTvnM5SpMxJR8qE4v3rhP?=
+	=?iso-8859-1?Q?eU4GoX34aEQ0sh/AIsbVoXwub5EjfHI0vb2bzwAvkcUzZtvoYJ0C31qLbJ?=
+	=?iso-8859-1?Q?o3J/hRGnU0B4OmhRsnZ49ZeLFd6CpbYtoRw5MVTkgBstcZtEoNuRFnrnS/?=
+	=?iso-8859-1?Q?eRUaS6KCQ6ziDQB2pQLF6Tgc3XNAIanyQzi1c1kKtnc27j5n5cjY5lQsMs?=
+	=?iso-8859-1?Q?41rYXUyKdHwAkPExqIr1//Q4L+JYGgglzcvq829Ck3hACCqOSI7WaOQw1j?=
+	=?iso-8859-1?Q?G5k20awbxcricdAWUrwReSHmgBp2UVGWiTNYOA+U/DXgyhZIBPT91H1CAf?=
+	=?iso-8859-1?Q?dc1NQ0FpF0txelEmvJpPRKDpLaXGsTZRNWBdpAm1B+tsrLsGRTpYn34Wk1?=
+	=?iso-8859-1?Q?rT8DaB4/7iJjlCaYn9GrqwrMeXYWEksfDvRnN1rxyUNCwsxsdM8xWv56kr?=
+	=?iso-8859-1?Q?F1FDGQiPcSvkSyqVrcARDfgHJL9J21NCt8Ql+PahlEQE/UT0V8UbdoNk9p?=
+	=?iso-8859-1?Q?5gn2/Fcaxl3o0j34uVQUFRU6Xk34jRahNjZ/f1WXuWtQIITAXjgBe4EluR?=
+	=?iso-8859-1?Q?t1gOEdxtneKJZPoOCft8CRwHW2WhI3uyWrx1Tuvr/WKM3Tv8PDKBeC4/Vn?=
+	=?iso-8859-1?Q?w+EcXBsZbS66XIAv6JtmdkxfEWPRIwwVzc3LYZcLYbJ4CNkeu+e2MnQ/V4?=
+	=?iso-8859-1?Q?F2Y181FqBJYlH3VXf3HawkBlzoAKue2lVfhyPZ1xSzL0o/ph2bz9RS9n1w?=
+	=?iso-8859-1?Q?bc+WZ0OIeRUW06Ek8v34ac84TjXB8cyyGTSI64eAWQuBMvP2IFX7AuM=3D?=
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB032;
+	5:VPSixLQyt6iFJxRqvUMJStCgCtU3WUijQcx+7DqtvAxtJDQV4tT1zBGpc50MSPXpQ4jz5k3cUIvqKI4b7yeWWgnysgWHO9ronbdM28I3D8a4Wv6URL0f7hNh7UX5g1nPtUuhd6obrEijCTe0sArDKg==;
+	24:TavvCan9vKpTLOLRtUZS88g0FzlUAisEW8CO++2Z2TE52KAv2q/mjkIp4DvS+OYMMI5Dc34T6kAyFyBWsNP7fNRudfzR1PbZJoVHJNq3jEA=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 02 Dec 2015 18:42:12.4651 (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2FFO11HUB032
+Subject: [Osu-ctf] RPISEC MBE Recap & Winter break update
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Errors-To: osu-ctf-bounces@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces@lists.osu.edu>
+
+Hello everyone,
+
+Last night we finished up the last lab we'll cover from RPISEC's Modern Binary Exploitation course. It was a long ride, but hopefully everyone learned something from it all!
+
+If you made it through the course material you are now well equipped to take on almost any modern binary exploitation challenge with enough effort. Thanks for sticking with it and working hard to learn the material.
+
+Please consider adding this experience and knowledge to your resumes as you head out looking for internships/careers. Too many computer/software/electrical engineers do not have this experience and it *will* set you apart from your peers.
+
+With all that said, OSU-CTF will take a short break until classes start back up in January. This will let us prepare material for the up coming semester, catch up on work, and enjoy the holidays. The current plan is to keep the meeting time and location the same for next semester. So we'll see you all again Tuesday January 12th, same place/time.
+
+If you have suggestions for future material, please email me of the mailing list and I'll pass it on. We are considering several topics to focus on including crypto challenges, more complex reverse engineering, forensics, etc.
+
+Here's your recap.
+
+Lab 07 - Heap Exploitation
+We shed some light on the mystery of the heap and learned about the evolution of dlmalloc to ptmalloc2 and glibc's memory allocator. We discussed how memory allocators manage heap segments, how multiple threads "arena" their heaps and how memory is dolled out to you through the memory allocator which acts as a middle man between you and the kernel. As we free memory, the memory alloctor will not necessarily release the memory. We learned about four types of heap vulnerabilities/techniques; heap overflows, use-after-free, heap spraying, and metadata corruption. We focused on use-after-free and showed how calling a stale pointer can be extremely dangerous in the right conditions.
+
+Have a great break and happy holidays everyone!
+
+OSU-CTF Site: https://u.osu.edu/osuctf/
+Hours: 7-9 PM every Tuesday (on break until Jan 12th)
+Location: Ohio State Main Campus, Dreese Labs 263
+Dropbox link: https://goo.gl/jT9Iij
+
+
+John Toterhi
+Cyber Computer Scientist
+Cyber Innovations - Mission Focused Tools
+Office: 614.424.3681 | Fax: 614.458.3681
+toterhij@battelle.org
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf

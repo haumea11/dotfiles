@@ -1,0 +1,77 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject:references
+         :in-reply-to:content-type:content-transfer-encoding;
+        bh=VoB6NzzoQ+b8hQSw0UIIillRD2PZhbqYFlA4mRj41nA=;
+        b=XCIDdmb+1Jaty3R0PqgOI6sxOYTZVLpAcRhm8LS1oLbRtoTy9Gx8p1vWb/7JNXQVYB
+         XlVY5Ojn9eak5XSJbRAe0RMI6FCeLVn66jvTjWrpI2AgMvguC+aXuNvLPgr8WvnLfbQj
+         qbQWqJhBu/nPpmHdHX/RVIfJEKYZS6zwvLyHxJZWYnevkJ/ek7wJsJFNjeoj9Hl4kt4Q
+         FPDJdAaEMGsB8Q6TC92j8sz52m1j9BYZD9Jbr2+TI38TXjvEIOHXoIaC0NtKYP+wN58J
+         YWeC+8aAi7mL05xLwvGEb+n9TJIiLLj1LBfCi2vExJeCjh4dPLCZviVzkXJVP4jy9MLC
+         qhKw==
+X-Received: by 10.50.83.65 with SMTP id o1mr19858859igy.50.1442448994745;
+        Wed, 16 Sep 2015 17:16:34 -0700 (PDT)
+Message-ID: <55FA0661.40704@gmail.com>
+Date: Wed, 16 Sep 2015 20:16:33 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: Fwd: Re: Gold Standard Rehearsal Time Tomorrow
+References: <CAGs8aKrmiXZa0=Q+OoL6K418=0vP_hqu63YmS9fqFN=31H-HhA@mail.gmail.com>
+In-Reply-To: <CAGs8aKrmiXZa0=Q+OoL6K418=0vP_hqu63YmS9fqFN=31H-HhA@mail.gmail.com>
+X-Forwarded-Message-Id: <CAGs8aKrmiXZa0=Q+OoL6K418=0vP_hqu63YmS9fqFN=31H-HhA@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP MESSAGE-----
+Charset: utf-8
+Version: GnuPG v2
+
+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
+=DTUT
+-----END PGP MESSAGE-----

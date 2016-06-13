@@ -1,0 +1,527 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp3175473oid;
+        Wed, 15 Jul 2015 13:02:26 -0700 (PDT)
+X-Received: by 10.180.189.40 with SMTP id gf8mr2283113wic.32.1436990545884;
+        Wed, 15 Jul 2015 13:02:25 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22d.google.com (mail-wg0-x22d.google.com. [2a00:1450:400c:c00::22d])
+        by mx.google.com with ESMTPS id lc5si9638526wjc.120.2015.07.15.13.02.24
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 13:02:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22d as permitted sender) client-ip=2a00:1450:400c:c00::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22d as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@recollect.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wg0-x22d.google.com with SMTP id l9so41561351wgk.1
+        for <kuiperhaumea@gmail.com>; Wed, 15 Jul 2015 13:02:24 -0700 (PDT)
+X-Received: by 10.194.109.36 with SMTP id hp4mr12257647wjb.4.1436990544190;
+        Wed, 15 Jul 2015 13:02:24 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2784000wmd;
+        Wed, 15 Jul 2015 13:02:22 -0700 (PDT)
+X-Received: by 10.107.11.166 with SMTP id 38mr8102034iol.8.1436990542268;
+        Wed, 15 Jul 2015 13:02:22 -0700 (PDT)
+Return-Path: <bounces+408241-54c5-markiewicz.john=gmail.com@remember.recollect.net>
+Received: from o1.remember.recollect.net (o1.remember.recollect.net. [50.31.33.203])
+        by mx.google.com with ESMTPS id r3si5084344ick.94.2015.07.15.13.02.21
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 13:02:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+408241-54c5-markiewicz.john=gmail.com@remember.recollect.net designates 50.31.33.203 as permitted sender) client-ip=50.31.33.203;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=recollect.net; 
+	h=from:reply-to:subject:to:cc:mime-version:content-type; 
+	s=smtpapi; bh=ZAAHBGc/9pgz5ao6ND65k3f8iNs=; b=TjUsuPd0+PWsH9dH5t
+	X0CGWZnozSkA7JUcwSaWZkBQJy14N4l4K96YG0jDK5z8WNfGmoE09HfH2Ukoubbb
+	cEga0sSpJGNbWWy7ffZk4LlNYhoBtJUPeBUCnQ6Z6qNmrZiOnLkNtRf3F1/t2ko6
+	48s2wJVhO5gfRFAME8E/KozB8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:subject:to:cc:mime-version:content-type:x-feedback-id; 
+	s=smtpapi; bh=ZAAHBGc/9pgz5ao6ND65k3f8iNs=; b=t0ZNEkEJQ+FfX5gPEZ
+	CzYfOCNNSXmsbL7jjL84CPODEF2LZSX4xk/BQYU7L7Os77U/b2A/0NMKYSCC9CRW
+	e7b4kC0psRcYDZLKfk2mLygJXl5KJFxCardfh9T4L6U4lL8TKPqGzsN8hMZwRKhv
+	KEUxFYvTnxfepIzZmXUcXGdkA=
+Received: by filter0468p1mdw1.sendgrid.net with SMTP id filter0468p1mdw1.30073.55A6BC3E2C
+        2015-07-15 20:02:17.276199956 +0000 UTC
+Received: from ismtpd-051.iad1.sendgrid.net ([UNAVAILABLE]. [10.42.2.119])
+	by 10.42.243.103:2500 (trex/5.2.14);
+	Wed, 15 Jul 2015 20:02:18 GMT
+Received: from pale.recollect.net (pale.recollect.net [162.243.65.148])
+	by ismtpd-051 (SG) with ESMTP id 14e934f7e63.703d.23f3d
+	for <markiewicz.john@gmail.com>; Wed, 15 Jul 2015 20:02:17 +0000 (UTC)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by pale.recollect.net (Postfix) with ESMTP id 5E14ACA19B6
+	for <markiewicz.john@gmail.com>; Wed, 15 Jul 2015 13:01:38 -0700 (PDT)
+From: "City of Columbus" <Columbus-waste@remember.recollect.net>
+Reply-To: "City of Columbus" <Columbus-waste@inbound.recollect.net>
+Subject: Collection day is tomorrow
+To: markiewicz.john@gmail.com
+cc: 
+Date: Wed, 15 Jul 2015 13:01:38 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="1436990498.8dC4a18.19852"
+Message-Id: <20150715200138.5E14ACA19B6@pale.recollect.net>
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuHoO0v/9auhxA6q45ar91No5/8TphCvB8PcVE
+ qfQUa0fmZBZ5Tt0qdSFf9Cz19+aKycU94UwQKwYkebG1I0Iu39bV6lrEKTj4bQ1Rgi9upiBtsuLikH
+ OZWnE5EJ++Y1vwstlZxT7xmTIiM7+l89h8bf
+X-Feedback-ID: 408241:EczI8PJttfcOXqA0Zpyh2xkJloVxaMJCm1IYUza0Xf0=:EczI8PJttfcOXqA0Zpyh2xkJloVxaMJCm1IYUza0Xf0=:SG
+
+--1436990498.8dC4a18.19852
+Date: Wed, 15 Jul 2015 13:01:38 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Collection Reminder
+
+Just a friendly reminder for 955 Mt Pleasant Ave, Columbus, Ohio, United States
+
+
+  The following will be picked up on July 16, 2015:
+  * Trash -    Trash must be bagged and tied before you place it in your container.
+   Place your container at your designated collection point before 6:00
+   a.m. Click here for more information [http://rco.io/5Y3G9]
+
+
+
+
+Questions regarding this reminder service can be directed to columbus-waste@inbound.recollect.net.  For general questions about City of Columbus information and services please contact the 311 Call Center by phone at (614) 645-3111 or email at 311@columbus.gov.
+
+-------
+
+Tell your friends about ReCollect: http://311.columbus.gov/AddrLookupnew.aspx#rc-page=tell-a-friend
+
+Unsubscribe from this service here: https://recollect.net/reminder/change/237/D6461ADC-AF4D-11E3-A4E1-54D28BE95184?locale=en-US
+
+
+ReCollect Copyright 2012, 2013, 2014, 2015 by ReCollect Systems Inc - https://recollect.net
+Terms of Service https://recollect.net/terms.en-US.html
+
+--1436990498.8dC4a18.19852
+Date: Wed, 15 Jul 2015 13:01:38 -0700
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+    <title>Collection Reminder</title>
+    <style type="text/css">
+            /* Client-specific Styles */
+            #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" button. */
+            body{width:100% !important;} /* Force Hotmail to display emails at full width */
+            body{-webkit-text-size-adjust:none;} /* Prevent Webkit platforms from changing default text sizes. */
+
+            /* Reset Styles */
+            body{margin:0; padding:0;}
+            img{border:none; font-size:14px; font-weight:bold; height:auto; line-height:100%; outline:none; text-decoration:none; text-transform:capitalize;}
+            #backgroundTable{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+            /* Template Styles */
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: COMMON PAGE ELEMENTS /\/\/\/\/\/\/\/\/\/\ */
+
+            body, #backgroundTable{
+                    /*@editable*/ background-color:#FAFAFA !important;
+            }
+
+            /**
+            * @tab Page
+            * @section email border
+            * @tip Set the border for your email.
+            */
+            #templateContainer{
+                    /*@editable*/ border: 1px solid #DDDDDD;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 1
+            * @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+            * @style heading 1
+            */
+            h1, .h1{
+                    /*@editable*/ color:#202020;
+                    display:block;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:34px;
+                    /*@editable*/ font-weight:bold;
+                    /*@editable*/ line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 2
+            * @tip Set the styling for all second-level headings in your emails.
+            * @style heading 2
+            */
+            h2, .h2{
+                    /*@editable*/ color:#202020;
+                    display:block;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:30px;
+                    /*@editable*/ font-weight:bold;
+                    /*@editable*/ line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 3
+            * @tip Set the styling for all third-level headings in your emails.
+            * @style heading 3
+            */
+            h3, .h3{
+                    /*@editable*/ color:#202020;
+                    display:block;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:26px;
+                    /*@editable*/ font-weight:bold;
+                    /*@editable*/ line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Page
+            * @section heading 4
+            * @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+            * @style heading 4
+            */
+            h4, .h4{
+                    /*@editable*/ color:#202020;
+                    display:block;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:22px;
+                    /*@editable*/ font-weight:bold;
+                    /*@editable*/ line-height:100%;
+                    margin-top:0;
+                    margin-right:0;
+                    margin-bottom:10px;
+                    margin-left:0;
+                    /*@editable*/ text-align:left;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: HEADER /\/\/\/\/\/\/\/\/\/\ */
+
+            /**
+            * @tab Header
+            * @section header style
+            * @tip Set the background color and border for your email's header area.
+            * @theme header
+            */
+            #templateHeader{
+                    /*@editable*/ border-bottom:0;
+            }
+
+            /**
+            * @tab Header
+            * @section header text
+            * @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+            */
+            .headerContent{
+                    /*@editable*/ color:#202020;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:34px;
+                    /*@editable*/ font-weight:bold;
+                    /*@editable*/ line-height:100%;
+                    /*@editable*/ text-align:left;
+                    /*@editable*/ vertical-align:middle;
+            }
+
+            /**
+            * @tab Header
+            * @section header link
+            * @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+            */
+            .headerContent a:link, .headerContent a:visited{
+                    /*@editable*/ color:#336699;
+                    /*@editable*/ font-weight:normal;
+                    /*@editable*/ text-decoration:underline;
+            }
+
+            #headerImage{
+                    height:auto;
+                    max-width:600px !important;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: MAIN BODY /\/\/\/\/\/\/\/\/\/\ */
+
+            /**
+            * @tab Body
+            * @section body style
+            * @tip Set the background color for your email's body area.
+            */
+            #templateContainer, .bodyContent{
+                    /*@editable*/ background-color:#FDFDFD;
+            }
+
+            /**
+            * @tab Body
+            * @section body text
+            * @tip Set the styling for your email's main content text. Choose a size and color that is easy to read.
+            * @theme main
+            */
+            .bodyContent div{
+                    /*@editable*/ color:#505050;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:14px;
+                    /*@editable*/ line-height:150%;
+                    /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Body
+            * @section body link
+            * @tip Set the styling for your email's main content links. Choose a color that helps them stand out from your text.
+            */
+            .bodyContent div a:link, .bodyContent div a:visited{
+                    /*@editable*/ color:#336699;
+                    /*@editable*/ font-weight:normal;
+                    /*@editable*/ text-decoration:underline;
+            }
+
+            .bodyContent img{
+                    display:inline;
+                    height:auto;
+            }
+
+            /* /\/\/\/\/\/\/\/\/\/\ STANDARD STYLING: FOOTER /\/\/\/\/\/\/\/\/\/\ */
+
+            /**
+            * @tab Footer
+            * @section footer style
+            * @tip Set the background color and top border for your email's footer area.
+            * @theme footer
+            */
+            #templateFooter{
+                    /*@editable*/ background-color:#FDFDFD;
+                    /*@editable*/ border-top:0;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer text
+            * @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+            * @theme footer
+            */
+            .footerContent div{
+                    /*@editable*/ color:#707070;
+                    /*@editable*/ font-family:Arial;
+                    /*@editable*/ font-size:12px;
+                    /*@editable*/ line-height:125%;
+                    /*@editable*/ text-align:left;
+            }
+
+            /**
+            * @tab Footer
+            * @section footer link
+            * @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+            */
+            .footerContent div a:link, .footerContent div a:visited{
+                    /*@editable*/ color:#336699;
+                    /*@editable*/ font-weight:normal;
+                    /*@editable*/ text-decoration:underline;
+            }
+
+            .footerContent img{
+                    display:inline;
+            }
+
+            /**
+            * @tab Footer
+            * @section social bar style
+            * @tip Set the background color and border for your email's footer social bar.
+            * @theme footer
+            */
+            #social{
+                    /*@editable*/ background-color:#FAFAFA;
+                    /*@editable*/ border:0;
+            }
+
+            /**
+            * @tab Footer
+            * @section social bar style
+            * @tip Set the background color and border for your email's footer social bar.
+            */
+            #social div{
+                    /*@editable*/ text-align:center;
+            }
+
+            /**
+            * @tab Footer
+            * @section utility bar style
+            * @tip Set the background color and border for your email's footer utility bar.
+            * @theme footer
+            */
+            #utility{
+                    /*@editable*/ background-color:#FDFDFD;
+                    /*@editable*/ border:0;
+            }
+
+            /**
+            * @tab Footer
+            * @section utility bar style
+            * @tip Set the background color and border for your email's footer utility bar.
+            */
+            #utility div{
+                    /*@editable*/ text-align:center;
+            }
+
+    </style>
+  </head>
+  <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+    <center>
+      <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable" style="margin:0;padding:0;background-color:#fafafa;min-height:100%!important;width:100%!important">
+        <tr>
+          <td align="center" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer">
+              <tr>
+                <td align="center" valign="top">
+                  <!-- // Begin Template Header \\ -->
+                  <table border="0" cellpadding="20" cellspacing="0" width="600" id="templateHeader" style="border-bottom: 3px solid #666">
+                    <tr>
+                     
+                      <td class="headerContent">
+                        <!-- // Begin Module: Standard Header Image \\ -->
+                        
+                        <img alt="City of Columbus" src="https://recollect.a.ssl.fastly.net/api/logos/3E7DB0EE-519B-11E3-ADBC-80D68BE95184.jpg" width="200" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowdesigner mc:allowtext />
+                        
+                        <!-- // End Module: Standard Header Image \\ -->
+                      </td>
+                      
+                        <td class="headerContent" valign="middle">
+                            <h3 style="color:#666">Collection Reminder</h3>
+                        </td>
+                      
+                     
+                    </tr>
+                  </table>
+                  <!-- // End Template Header \\ -->
+                </td>
+              </tr>
+              <tr>
+                <td align="center" valign="top">
+                  <!-- // Begin Template Body \\ -->
+                  <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody">
+                    <tr>
+                      <td valign="top" class="bodyContent">
+                        <!-- // Begin Module: Standard Content \\ -->
+                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                          <tr>
+                            <td valign="top">
+                              <div mc:edit="std_content00"> 
+
+
+
+  
+
+<p>Just a friendly reminder for <a href="http://311.columbus.gov/AddrLookupnew.aspx#rc-place=6C9C95AC-AF4D-11E3-AB09-94D38BE95184">955 Mt Pleasant Ave, Columbus, Ohio, United States</a></p>
+
+
+
+
+
+  <p>The following item(s) will be collected on July 16, 2015:</p>
+  <ul>
+  
+    
+      <li><strong>Trash</strong> - Trash must be bagged and tied before you place it in your container.  Place your container at your designated collection point before 6:00 a.m. <a target="_blank" href="http://rco.io/5Y3G9">Click here for more information</a></li> 
+    
+  
+  </ul>
+
+
+
+
+
+
+<p>Questions regarding this reminder service can be directed to <a href="mailto:columbus-waste@inbound.recollect.net">columbus-waste@inbound.recollect.net</a>.  For general questions about City of Columbus information and services please contact the 311 Call Center by phone at <a href="tel:1614-645-3111">(614) 645-3111</a> or email at <a href="mailto:311@columbus.gov">311@columbus.gov</a>. </p>
+
+ </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- // End Module: Standard Content \\ -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Body \\ -->
+                </td>
+              </tr>
+              
+              <tr>
+                <td align="center" valign="top">
+                  <!-- // Begin Template Footer \\ -->
+                  <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateFooter">
+                    <tr>
+                      <td valign="top" class="footerContent">
+                        <!-- // Begin Module: Standard Footer \\ -->
+                        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+                          <!-- ACTION LINE - for residents -->
+                          <tr>
+                            <td valign="middle" id="social">
+                              <div mc:edit="std_social" style="text-align:center">
+                                
+                                  <a href="https://recollect.net/reminder/change/237/D6461ADC-AF4D-11E3-A4E1-54D28BE95184?locale=en-US">Cancel or modify this reminder</a> |
+                                
+                                <a href="http://311.columbus.gov/AddrLookupnew.aspx#rc-page=feedback">Report an issue</a>
+                              </div>
+                            </td>
+                          </tr>
+                          
+                          <!-- SOCIAL LINE - twitter/fb/share OR custom -->
+                          <tr>
+                            <td valign="middle">
+                              <div mc:edit="std_social" style="text-align:center">
+                                
+                                  <a href="http://www.columbus.gov">City of Columbus</a> | <a href="https://recollect.net/tell-a-friend.en.html?area=columbus">Tell your friends!</a> | <a href="http://facebook.com/ColumbusPublicService">Facebook</a> | <a href="http://twitter.com/columbusdps">Twitter</a>
+                                
+                              </div>
+                            </td>
+                          </tr>
+                          
+                          <!-- COPYRIGHT LINE -->
+                          <tr>
+                            <td valign="middle">
+                              <div mc:edit="std_footer" style="text-align:center">
+                                <a href="https://recollect.net/about">ReCollect</a>  <a href="https://recollect.net/copyright.en-US.html">&copy;2015</a> <a href="https://recollect.net/" target="_blank">ReCollect Systems Inc</a> |
+                                <a href="https://recollect.net/terms.en-US.html">Terms of Service</a>
+                              </div>
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- // End Module: Standard Footer \\ -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Footer \\ -->
+                </td>
+              </tr>
+              
+            </table>
+            <br />
+          </td>
+        </tr>
+      </table>
+    </center>
+  </body>
+</html>
+
+--1436990498.8dC4a18.19852--

@@ -1,0 +1,187 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp1033328oig;
+        Thu, 6 Aug 2015 04:17:33 -0700 (PDT)
+X-Received: by 10.13.219.77 with SMTP id d74mr812157ywe.134.1438859852921;
+        Thu, 06 Aug 2015 04:17:32 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x22f.google.com (mail-yk0-x22f.google.com. [2607:f8b0:4002:c07::22f])
+        by mx.google.com with ESMTPS id d123si3696684ywb.112.2015.08.06.04.17.32
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 06 Aug 2015 04:17:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::22f as permitted sender) client-ip=2607:f8b0:4002:c07::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::22f as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x22f.google.com with SMTP id q64so54257125ykc.2
+        for <kuiperhaumea@gmail.com>; Thu, 06 Aug 2015 04:17:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=A4mV1kABQKuctt7st6XS2gDOBZIPYg3JMEx6OXIdU+s=;
+        b=cMWi6b98QBAyP2HfAAu71cWLBzKelI7ekqAaeoID8of6QqRpDTY0iLNXIEfQxwA9pi
+         Xw73SYo995vi+wulj3NWUfIIi5lkI09SmfOBV26rICi9Bj+9NJEHN6Mj9YyJYVrrgft5
+         mP9R8ZlaXXK1FoYM+YFtK38lqQOSWcto2N8HcCCjiyHGDfzI67PEgH6vBuv16lBb2yn7
+         xk2Y/7a65fTDJk7YROnFfoD7PqUdtZBkS+htUGsS+mbepwqM62eCrGkyjbvqlC+tR7zt
+         dVhc6xWHNmlCOIKxEfTCMp1vKO98tKRfpskNg4w7IS2hxVQWhVQsUmGDo7vSGUSaqTpO
+         W8Kw==
+MIME-Version: 1.0
+X-Received: by 10.13.243.65 with SMTP id c62mr859652ywf.114.1438859852295;
+ Thu, 06 Aug 2015 04:17:32 -0700 (PDT)
+Received: by 10.129.114.10 with HTTP; Thu, 6 Aug 2015 04:17:32 -0700 (PDT)
+Date: Thu, 6 Aug 2015 07:17:32 -0400
+Message-ID: <CANNyMF8RMnFDgQ686EnHxTqWrhem-oCz7T=z_Bi=tVFz086aVQ@mail.gmail.com>
+Subject: note this
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=94eb2c03632860b4b5051ca2aa06
+
+--94eb2c03632860b4b5051ca2aa06
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+all hope is not lost.  I ordered a spare battery and wall charger for you
+and they should come tomorrow.  Also, see below from the interwebs.
+Problem: Charging slowly or not charging
+
+A lot of Galaxy Note 3
+<http://www.digitaltrends.com/cell-phone-reviews/samsung-galaxy-note-3-revi=
+ew/>
+owners
+have run into problems charging the Note 3 up. They=E2=80=99ll plug it in a=
+nd
+the Note 3 will either fail to charge up at all, or it will charge very
+slowly. Some people have found that it charges intermittently while plugged
+in. There are a few obvious places to start:
+
+*Potential solutions*:
+
+   - The first thing to do is make sure that you are using the cable and
+   the charger that actually came in the box with your Note 3. Different
+   chargers and cables have different ratings that can impact charging spee=
+d.
+   - It could be a faulty charger. A lot of people have suggested that
+   Samsung shipped a faulty batch of chargers and/or cables, and that if yo=
+u
+   run into an issue then you can get a free replacement direct from Samsun=
+g.
+   Definitely worth a try. If that doesn=E2=80=99t work then buy a new one.=
+ Your best
+   bet is to go for an official Samsung charger.
+   - Use compressed air, or carefully brush out the charger port on the
+   Note 3 with a soft toothbrush. You may also consider cleaning the charge=
+r
+   connection on the cable and inspecting it for damage, the pins can bend =
+out
+   of shape sometimes.
+   - If the charging port on the Note 3 feels loose, or you think it=E2=80=
+=99s bent
+   out of shape then you may need to get it replaced. Official repairs will=
+ be
+   costly, but you can always buy the part and do it yourself =E2=80=94 che=
+aply if
+   you=E2=80=99re confident you know what you=E2=80=99re doing and the warr=
+anty has expired,
+   or you don=E2=80=99t mind voiding it. Some people found it started worki=
+ng again
+   simply by tightening the screws that hold the Note 3 together so try tha=
+t
+   first.
+
+
+
+Read more:
+http://www.digitaltrends.com/mobile/galaxy-note-3-problems/2/#ixzz3i241cWP5
+Follow us: @digitaltrends on Twitter
+<http://ec.tynt.com/b/rw?id=3Da4WNn6KVyr4yHaacwqm_6r&u=3Ddigitaltrends> |
+digitaltrendsftw
+on Facebook
+<http://ec.tynt.com/b/rf?id=3Da4WNn6KVyr4yHaacwqm_6r&u=3Ddigitaltrendsftw>
+
+--94eb2c03632860b4b5051ca2aa06
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><h3 id=3D"charging" style=3D"margin:0px;padding:0px;border=
+:0px;font-family:Helvetica,Arial,&#39;Lucida Grande&#39;,sans-serif;font-we=
+ight:inherit;font-stretch:inherit;line-height:14px;font-size:14px;vertical-=
+align:baseline;color:rgb(0,0,0)">all hope is not lost.=C2=A0 I ordered a sp=
+are battery and wall charger for you and they should come tomorrow.=C2=A0 A=
+lso, see below from the interwebs.</h3><h3 id=3D"charging" style=3D"margin:=
+0px;padding:0px;border:0px;font-family:Helvetica,Arial,&#39;Lucida Grande&#=
+39;,sans-serif;font-weight:inherit;font-stretch:inherit;line-height:14px;fo=
+nt-size:14px;vertical-align:baseline;color:rgb(0,0,0)"><br></h3><h3 id=3D"c=
+harging" style=3D"margin:0px;padding:0px;border:0px;font-family:Helvetica,A=
+rial,&#39;Lucida Grande&#39;,sans-serif;font-weight:inherit;font-stretch:in=
+herit;line-height:14px;font-size:14px;vertical-align:baseline;color:rgb(0,0=
+,0)">Problem: Charging slowly or not charging</h3><p style=3D"margin:0px;pa=
+dding:0px;border:0px;font-family:Helvetica,Arial,&#39;Lucida Grande&#39;,sa=
+ns-serif;font-stretch:inherit;line-height:14px;font-size:14px;vertical-alig=
+n:baseline;color:rgb(0,0,0)">A lot of Galaxy=C2=A0<a href=3D"http://www.dig=
+italtrends.com/cell-phone-reviews/samsung-galaxy-note-3-review/" target=3D"=
+" rel=3D"follow" class=3D"text-link" style=3D"margin:0px;padding:0px;border=
+:0px;font-family:inherit;font-style:inherit;font-variant:inherit;font-weigh=
+t:inherit;font-stretch:inherit;line-height:inherit;vertical-align:baseline;=
+text-decoration:none;color:inherit">Note 3</a>=C2=A0owners have run into pr=
+oblems charging the=C2=A0Note 3=C2=A0up. They=E2=80=99ll plug it in and the=
+=C2=A0Note 3=C2=A0will either fail to charge up at all, or it will charge v=
+ery slowly. Some people have found that it charges intermittently while plu=
+gged in. There are a few obvious places to start:</p><p style=3D"margin:0px=
+;padding:0px;border:0px;font-family:Helvetica,Arial,&#39;Lucida Grande&#39;=
+,sans-serif;font-stretch:inherit;line-height:14px;font-size:14px;vertical-a=
+lign:baseline;color:rgb(0,0,0)"><strong style=3D"margin:0px;padding:0px;bor=
+der:0px;font-family:inherit;font-style:inherit;font-variant:inherit;font-st=
+retch:inherit;line-height:inherit;vertical-align:baseline">Potential soluti=
+ons</strong>:</p><ul style=3D"margin:0px;padding:0px;border:0px;font-family=
+:Helvetica,Arial,&#39;Lucida Grande&#39;,sans-serif;font-stretch:inherit;li=
+ne-height:14px;font-size:14px;vertical-align:baseline;list-style:none;color=
+:rgb(0,0,0)"><li style=3D"margin:0px;padding:0px;border:0px;font-family:inh=
+erit;font-style:inherit;font-variant:inherit;font-weight:inherit;font-stret=
+ch:inherit;line-height:inherit;vertical-align:baseline">The first thing to =
+do is make sure that you are using the cable and the charger that actually =
+came in the box with your Note 3. Different chargers and cables have differ=
+ent ratings that can impact charging speed.</li><li style=3D"margin:0px;pad=
+ding:0px;border:0px;font-family:inherit;font-style:inherit;font-variant:inh=
+erit;font-weight:inherit;font-stretch:inherit;line-height:inherit;vertical-=
+align:baseline">It could be a faulty charger. A lot of people have suggeste=
+d that Samsung shipped a faulty batch of chargers and/or cables, and that i=
+f you run into an issue then you can get a free replacement direct from Sam=
+sung. Definitely worth a try. If that doesn=E2=80=99t work then buy a new o=
+ne. Your best bet is to go for an official Samsung charger.</li><li style=
+=3D"margin:0px;padding:0px;border:0px;font-family:inherit;font-style:inheri=
+t;font-variant:inherit;font-weight:inherit;font-stretch:inherit;line-height=
+:inherit;vertical-align:baseline">Use compressed air, or carefully brush ou=
+t the charger port on the Note 3 with a soft toothbrush. You may also consi=
+der cleaning the charger connection on the cable and inspecting it for dama=
+ge, the pins can bend out of shape sometimes.</li><li style=3D"margin:0px;p=
+adding:0px;border:0px;font-family:inherit;font-style:inherit;font-variant:i=
+nherit;font-weight:inherit;font-stretch:inherit;line-height:inherit;vertica=
+l-align:baseline">If the charging port on the Note 3 feels loose, or you th=
+ink it=E2=80=99s bent out of shape then you may need to get it replaced. Of=
+ficial repairs will be costly, but you can always buy the part and do it yo=
+urself =E2=80=94 cheaply if you=E2=80=99re confident you know what you=E2=
+=80=99re doing and the warranty has expired, or you don=E2=80=99t mind void=
+ing it. Some people found it started working again simply by tightening the=
+ screws that hold the Note 3 together so try that first.</li></ul><span sty=
+le=3D"margin:0px;padding:0px;border:0px;font-family:Helvetica,Arial,&#39;Lu=
+cida Grande&#39;,sans-serif;font-stretch:inherit;line-height:14px;font-size=
+:14px;vertical-align:baseline;color:rgb(0,0,0)"><br><br>Read more:=C2=A0<a =
+href=3D"http://www.digitaltrends.com/mobile/galaxy-note-3-problems/2/#ixzz3=
+i241cWP5" style=3D"margin:0px;padding:0px;border:0px;font-family:inherit;fo=
+nt-style:inherit;font-variant:inherit;font-weight:inherit;font-stretch:inhe=
+rit;line-height:inherit;vertical-align:baseline;text-decoration:none;color:=
+rgb(0,51,153)">http://www.digitaltrends.com/mobile/galaxy-note-3-problems/2=
+/#ixzz3i241cWP5</a>=C2=A0<br>Follow us:=C2=A0<a href=3D"http://ec.tynt.com/=
+b/rw?id=3Da4WNn6KVyr4yHaacwqm_6r&amp;u=3Ddigitaltrends" target=3D"_blank" s=
+tyle=3D"margin:0px;padding:0px;border:0px;font-family:inherit;font-style:in=
+herit;font-variant:inherit;font-weight:inherit;font-stretch:inherit;line-he=
+ight:inherit;vertical-align:baseline;text-decoration:none;color:inherit">@d=
+igitaltrends on Twitter</a>=C2=A0|=C2=A0<a href=3D"http://ec.tynt.com/b/rf?=
+id=3Da4WNn6KVyr4yHaacwqm_6r&amp;u=3Ddigitaltrendsftw" target=3D"_blank" sty=
+le=3D"margin:0px;padding:0px;border:0px;font-family:inherit;font-style:inhe=
+rit;font-variant:inherit;font-weight:inherit;font-stretch:inherit;line-heig=
+ht:inherit;vertical-align:baseline;text-decoration:none;color:inherit">digi=
+taltrendsftw on Facebook</a></span><br></div>
+
+--94eb2c03632860b4b5051ca2aa06--

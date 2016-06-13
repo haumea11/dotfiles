@@ -1,0 +1,116 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=openmailbox.org;
+ s=openmailbox; t=1455219258;
+ bh=NbphyNzyqGmehAU5ziD1iWtUVy0kGPpbnFjGsZ3INeM=;
+ h=Subject:To:References:From:Date:In-Reply-To:From;
+ b=kugDfZjYzeFi6BCUseEVkDqrEZxqCHvVTNROHnoi2c73qBLN7hE7LJktmtJi1hlet
+ EdY962nqf3qowDkiGgeZE+jkaBU0wgbALWGlvXm1sBc+msK0g3m+pXzCiXE2j/3aDQ
+ dCc2n17z+deAozJiCYi6bqVO7a+K+H7T6DlaCVr0=
+X-Spam-Checker-Version: SpamAssassin 3.4.0 (2014-02-07) on openmailbox-b1
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.0 required=5.0 tests=BAYES_00,DKIM_SIGNED,
+ DKIM_VALID,DKIM_VALID_AU,NO_RECEIVED,NO_RELAYS,URIBL_BLOCKED autolearn=no
+ autolearn_force=no version=3.4.0
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=openmailbox.org;
+ s=openmailbox; t=1455219248;
+ bh=NbphyNzyqGmehAU5ziD1iWtUVy0kGPpbnFjGsZ3INeM=;
+ h=Subject:To:References:From:Date:In-Reply-To:From;
+ b=tzsGijDbx9qBn7XJ3kZL8t+8wWq8UQq3xHE2Hk015YmpysIqVM3/piByB4eCKzyk2
+ Vy5K3t/SEvm/6vHxNUiTBk1Nde9CtKC54jOr6ehoLtN+ktcVFucXwMIP0CpgwIpnff
+ Bnq9XDPo9yqcFIcpqsRhymRwZ2cg0o48KeQtcwUQ=
+To: mailman@lists.cock.li
+References: <26E7B384-5BDB-4622-89A6-B97536D03DBD@national.shitposting.agency>
+ <20160211141642.4d31b9bf26cf370a73c46faa@horsefucker.org>
+From: asdf 1111 <asdf1111@openmailbox.org>
+Message-ID: <56BCE22B.3020403@openmailbox.org>
+Date: Thu, 11 Feb 2016 20:34:03 +0100
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <20160211141642.4d31b9bf26cf370a73c46faa@horsefucker.org>
+Subject: Re: [cock.li] XMPP
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============8280888877125871827=="
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============8280888877125871827==
+Content-Type: multipart/signed; micalg=pgp-sha1;
+ protocol="application/pgp-signature";
+ boundary="07TLagTAQQTGlkjfrLXnexo0c5GcN3Ve9"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--07TLagTAQQTGlkjfrLXnexo0c5GcN3Ve9
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+speak for yourself
+
+
+On 11.02.2016 20:16, Judge Billy wrote:
+> 'no'
+>
+> On Thu, 11 Feb 2016 14:13:02 -0500
+> Dudeman <76chanisthe@national.shitposting.agency> wrote:
+>
+>> Add me on xmpp at this address if you want.  we can send dick picks or=
+ something.
+>> ______________________________
+>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>
+
+--=20
+asdf1111@openmailbox.org
+contact https://asdf1111.neocities.org/
+
+
+
+--07TLagTAQQTGlkjfrLXnexo0c5GcN3Ve9
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (MingW32)
+
+iQIcBAEBAgAGBQJWvOIrAAoJEEaGgucjBFBBqFUP/2ENWwXdPuvNKsnT1Lovcoaz
+jiXWaQuhVvzmvULIcvreuTM7tupalT5lE/8M/R6/4sGOYMd4D4CxzrgvANvmGtbt
+ZiI42v8QpxDJDn5CyeSCn9HWELR17pAWE5WML8kkXf2XxQqOtoijxfH/CdS7KAXF
+7pbnSKZH6j48PeWf/W9GYbFDBTjFOMdxN2/wmIdRvFtzdwrVa3nGSUjepdUj3WD2
+dfuunz7kYbdUoKkXrRWsyVtcEuzrKGMEu5BZRuPEgkZVvHe5em/q+jph4VIinUea
+Z2GArkfFPMJIh4OsU5tZKRz6RJdoJ+lcnlpAs9sXh2cSyCA2GmM9cWr/wfB1hEhh
+FqAOdiCrr+CF8lxMOG2TRuqBjBWAU05Xn2ISTrqzWmKYsVL2FzZj8tUe9j0kgOu6
+GJpFBDmzljh+J2eE+XcbQxnfVbZW/XpUyQ4x9OgQadO5Eu/nURIeSAibUe7zaf4s
+W3rfurAsQesdoVXD0+htOv3AvAnXXwLHoVv0mjhafAYKgnnFMMQWHNxElBpUJZuA
+V3KxfBWf2YsdY81JZxBsaK4UMEzUmBAueS2V+Jk9SEzqJHkI3QGN762R2wf4+8B/
+dWV/oLtYsdn84ZIp+5GURZOlUa+tqE+Tx+5Tm2UbaZB8gmSLdmyJbmRmOzk5yNCz
+KiBxBKUVNf4g/wGpnswf
+=sOhZ
+-----END PGP SIGNATURE-----
+
+--07TLagTAQQTGlkjfrLXnexo0c5GcN3Ve9--
+
+--===============8280888877125871827==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCjg9PT1bY29jay5saSBtYWlsaW5nIGxpc3Rd
+PT09RA==
+
+--===============8280888877125871827==--

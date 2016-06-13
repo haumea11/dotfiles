@@ -1,0 +1,289 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp333562oig;
+        Fri, 24 Jul 2015 15:33:56 -0700 (PDT)
+X-Received: by 10.180.206.211 with SMTP id lq19mr1048864wic.81.1437777236285;
+        Fri, 24 Jul 2015 15:33:56 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x232.google.com (mail-wi0-x232.google.com. [2a00:1450:400c:c05::232])
+        by mx.google.com with ESMTPS id r9si424598wiy.121.2015.07.24.15.33.55
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 24 Jul 2015 15:33:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) client-ip=2a00:1450:400c:c05::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::232 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x232.google.com with SMTP id gb10so45028717wic.1
+        for <kuiperhaumea@gmail.com>; Fri, 24 Jul 2015 15:33:55 -0700 (PDT)
+X-Received: by 10.194.249.100 with SMTP id yt4mr33442134wjc.0.1437777235022;
+        Fri, 24 Jul 2015 15:33:55 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp201770wmd;
+        Fri, 24 Jul 2015 15:33:54 -0700 (PDT)
+X-Received: by 10.194.23.36 with SMTP id j4mr30890061wjf.105.1437777234202;
+        Fri, 24 Jul 2015 15:33:54 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o8.mx.technolutions.net (o8.mx.technolutions.net. [198.37.152.137])
+        by mx.google.com with ESMTPS id dd10si485606wib.30.2015.07.24.15.33.53
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 24 Jul 2015 15:33:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 198.37.152.137 as permitted sender) client-ip=198.37.152.137;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=91rbtFnJD9k7HxSoYqsviTTL8Zo=; b=OqUcVoluaImDaLX6jZnUz9TbX8baf
+	dELdnEOns/+MT+3Ge71VxsqM1TvUdiTo46NKWJTy0/Klj8X565ExMMt7pH7T3DWV
+	CRGeb3hSX1VUMicCVJOQtb1KQOeARF7JPHzXEP4edW1dlOtKef6y/SKp+AsZXqed
+	v3SZTnCoRuCL48=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=91rbtFnJD9k7HxSoYqsviTTL8Zo=; b=WZQvfy7jaVOzAWcRaQSAl2agbBuvX
+	qZa8sJCJiPMvgdQXPzfWuU7W17tAf3Uu703Ti3k1BQmuefhKw5IJSxCKNePBhbr/
+	nDnGVdG/3r401DnvV/oRLiiPkTSzEiqS7U2ktrcPO3wwi+1kjjITrwk0s1PhxYGM
+	MGpGmHs7BYxphI=
+Received: by filter0426p1mdw1.sendgrid.net with SMTP id filter0426p1mdw1.25302.55B2BD5034
+        2015-07-24 22:33:52.848666322 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id mfXepcEUQXaZ6oMMurRGBA
+	for <markiewicz.john@gmail.com>; Fri, 24 Jul 2015 22:33:52 +0000 (UTC)
+From: "Dean Jennifer Walker" <admissions@brandeis.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Take a journey around the world, John
+Date: Fri, 24 Jul 2015 22:05:49 +0000
+Message-ID: <96b7af61-6d8b-494a-acba-4495554c34c8@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_cb6a2c93-a711-4fe9-b1a7-22ecbe3adda0"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuFrK6splsAqXlztd+CQZfJnaR1QkMMvBWLixZ
+ FPX0Aipj4B4Tdh/FbcQs/PeqIsQtPX57g9KA8EWOW7DASHLBCXnfQL43wgHN1c95D32yudgHXUFbxS
+ Eh8r35j57v2sJoxnkCu9ge/Kxa7R7Od6nVaS
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegC6Ah+7kici0e1kRpvHUMNmPUpgpiLzaefN5VzXiRfACuofX2DOlOzVCzf
+ poxg2qfDQG0koGMcHlVoaaR8gftQdZceF5o67qaxA5XdurgG74ZnUI/qRM/P/w8ZRMqidOiF5g4EXl
+ k7gsx9U4rZVTYdeV0uIvX+fIHqqP3WZnz/wM1zScYiUdzTfj1R5L9H3niw1jqlojL6bxCvVBX0LMox
+ 2FHelB/LiZaDMPxPu9VI3V
+
+------=_0_cb6a2c93-a711-4fe9-b1a7-22ecbe3adda0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,
+
+You may be at home on summer vacation but that doesn't mean you can't take =
+a trip around the world.
+
+Check out a recent edition of the Brandeis Magazine <http://www.brandeis.ed=
+u/magazine/index.html> to read about extraordinary accomplishments of membe=
+rs of the Brandeis family =E2=80=94 people who are working to create powerf=
+ul, positive change around the world.
+
+Within these pages, you will meet a pediatrician <http://www.brandeis.edu/m=
+agazine/2015/spring/featured-stories/hashimi.html> who explores her parents=
+' homeland, Afghanistan, by writing best-selling novels that capture the co=
+mplex lives of the country's women and children. An environmental historian=
+ <http://www.brandeis.edu/magazine/2015/spring/featured-stories/wood.html> =
+who has constructed a slow-wood house in central Massachusetts from local t=
+imber and stone. A trio of curators <http://www.brandeis.edu/magazine/2015/=
+spring/featured-stories/curators.html> who are remaking the museum world. A=
+ co-founder and CEO <http://www.brandeis.edu/magazine/2015/spring/inquiry/d=
+yson.html> of a sustainable-oil startup who converts carbon waste into more=
+ affordable and efficient oils.
+
+Every issue of Brandeis Magazine delves into the captivating lives of our s=
+tudents, faculty and alums. As you read this one, remember that, at Brandei=
+s, you'll be encouraged to create your own compelling story. Just imagine t=
+he impact you might make =E2=80=94 as a pediatrician, perhaps, or an enviro=
+nmental historian, curator or co-founder and CEO of your own inspiring star=
+tup.
+
+Please come out to chat with us as we travel all over the country this fall=
+. Better yet, come to campus <http://www.brandeis.edu/admissions/visit/inde=
+x.html> to meet many dynamic Brandeisians =E2=80=94 and see them in action.=
+ We want you to discover what makes Brandeis such an amazing community.
+
+Sincerely,
+
+Jennifer J. Walker
+Dean of Admissions
+
+
+
+Office of Admissions | brandeis.edu/admissions <http://www.brandeis.edu/adm=
+issions>
+
+
+This email was sent to markiewicz.john@gmail.com by Dean Jennifer Walker.
+Unsubscribe from Brandeis University. <https://admissions.brandeis.edu/go?r=
+=3Doptout&mid=3D96b7af61-6d8b-494a-acba-4495554c34c8>=
+
+------=_0_cb6a2c93-a711-4fe9-b1a7-22ecbe3adda0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpor=
+t" /><style type=3D"text/css">
+/**/
+ #header img, #footer img {width:35%}
+
+ @media screen and (max-width:480px), screen and (max-device-width:480px) {
+
+  #header img {width:65%}
+ }
+/**/
+</style>
+</head>
+<body style=3D"padding:0; margin:0;"><style>@media only screen and (max-wid=
+th: 660px) { .deliver_unsubscribe { width: 100%; } }</style><font face=3D"T=
+imes New Roman, Times, serif" size=3D"3"><div style=3D"font-family: Times N=
+ew Roman, Times, serif; font-size: 12pt;"><div id=3D"wrapper"><div id=3D"he=
+ader" style=3D"background:#024274; border-bottom:20px solid #96Ae5B; paddin=
+g:5% 10%;"><img alt=3D"Brandeis University" width=3D"35%" src=3D"https://d2=
+y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616uVxA-7Vzr-inMzTiiZlDjzu_YL_Sw_0=
+R9pDO90Q4LGYgwZw2AVVRWbPJPXFagKdSIrHvYu_IfOjT2ru_9v-Goe0cInxinvJn2QulzZte8Z=
+yuWSbWtP3UPd_HwZU4QYpME" /></div><div id=3D"content" style=3D"padding: 0px;=
+ margin: 5% 10%; font-family: Arial; color: rgb(51, 51, 51); background: rg=
+b(255, 255, 255);"><p style=3D"font-size: 14px; line-height: 160%;">Dear Jo=
+hn,<br /><br />
+You may be at home on summer vacation but that doesn't mean you can't take =
+a trip around the world.<br /><br />
+Check out a recent edition of the <a href=3D"http://mx.technolutions.net/wf=
+/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2F2sXqKIwjjwpQ5XWzHrnYIhzZtfKZxs8HcP7B=
+DLDIR22qA269Xz-2BfqAubjc4Q9hIg-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4=
+siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7=
+mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEF=
+LXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5IwDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBA=
+cbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ3BwUDkIWC844M8c99fMBgBVe8hm4qRVoktLaF-2F=
+zEKH3RUxmIl3braoIOav7d73cUlC5u2PdrK51GXCa0kfFyRrdR3mS2L28koVchEtx3R5cJmyG7u=
+u6nUTMS8W-2BC6MTBzYGNSq5JfVfqr5cz-2FnAJJ0t0m6jaI-2F8Mv-2BloagjVAo9O-2Bl7x9j=
+R8reCGAIiqHGRbfF9pTf-2FFEw-2BFh8ncK-2B3wU-3D">Brandeis Magazine</a> to read=
+ about extraordinary accomplishments of members of the Brandeis family &#82=
+12; people who are working to create powerful, positive change around the w=
+orld.<br /><br />
+Within these pages, you will meet a <a href=3D"http://mx.technolutions.net/=
+wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2F2sXqKIwjjwpQ5XWzHrnYKFOIGMAtLmWj8N=
+uxQ4fnlPDManIm7DB1-2BQRlW4B23EC0YJfpimh5oouEtlaWwadKr9iwmZONetK9ThC09hp-2BV=
+k_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTj=
+G9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuq=
+mEvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5=
+IwDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ=
+3BwUDkIWC844M8c99fMBitgrzBOUak8dA9H5n6R8UCcSd3hB-2FdBB-2FSnZBEwNRfK8CPEgKng=
+hQ16k7hWmONM3KPGZZJgaHlaKrt1Oct685Rq7IfFWxZtPukOVgT7VuWNMHniuXS-2BcKHmUeVJV=
+8D4oHMUgpCSgIkZxcDN2J4z5zrtQp6tcCup6I94D-2BrREpinN36bDH7TGPZLt0pcQqcxnI-3D"=
+>pediatrician</a> who explores her parents&#8217; homeland, Afghanistan, by=
+ writing best-selling novels that capture the complex lives of the country&=
+#8217;s women and children. An <a href=3D"http://mx.technolutions.net/wf/cl=
+ick?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2F2sXqKIwjjwpQ5XWzHrnYKFOIGMAtLmWj8NuxQ4f=
+nlPDManIm7DB1-2BQRlW4B23ECyd412Aru9Zkp4UIdvOb9C0-3D_fl-2FMBkJMX7HXblz8UUSYq=
+Ur8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJK=
+rLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG-2B-2FjwDR=
+j6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5IwDv0gY4trqLricJIBJT-2Bl6=
+yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ3BwUDkIWC844M8c99fMBgqT36=
+B9TJU1L3L9fhQGn90FD-2Fypt2WWsTM1-2FTgRkqAPlDCWv07ULP8swNYoj2VfXw4BNkDgKtEeS=
+HvG-2BUABdgtCdI5Mz322p-2F-2Btz7x-2FlbqKYqNdLnZiwYqaJAz0SZ-2B2hPuNVKYRRtdlt2=
+qYTtlEaNIbuF7Vq2AXQ9SZRpxxmeozvovZrD9WWYXsIiLrkS6b-2F4-3D">environmental hi=
+storian</a> who has constructed a slow-wood house in central Massachusetts =
+from local timber and stone. A&nbsp;<a href=3D"http://mx.technolutions.net/=
+wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2F2sXqKIwjjwpQ5XWzHrnYKFOIGMAtLmWj8N=
+uxQ4fnlPDManIm7DB1-2BQRlW4B23EC7nSNr44gxaVDC1yK9w3-2BwH0VDlcJiMxy3-2BNH2mNh=
+rIN_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6V=
+TjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaY=
+uqmEvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aY=
+E5IwDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7x=
+gQ3BwUDkIWC844M8c99fMBg3kp6F1wLmimWLMftPyAyD16cLR4l1Lo2vhXSBe2gpcD0sW7Re9ar=
+qRJVw4cyHN-2FAesjdBWXGbbT6uGGlS0cy4INsB3kMv2xT2AuIP6vx82p1ulQIiTRxCn7ztgj8R=
+wwGdbTE92vxRKH3HIo8acJg89BuUyQnKwLXZ9IwWi7wjChynoyVccy7mhwNxqE-2BKI20-3D">t=
+rio of curators</a> who are remaking the museum world. A <a href=3D"http://=
+mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2F2sXqKIwjjwpQ5=
+XWzHrnYKFOIGMAtLmWj8NuxQ4fnlPmrif8G7GXUMAwUN9BWp3m4PmxncGuiQao24CHc2PyvM-3D=
+_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG=
+9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqm=
+EvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5I=
+wDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ3=
+BwUDkIWC844M8c99fMBhYEiZB4ZHAS85LK-2FV8otyp1O6LaI8KY897TgFkqJPZoOHO68boE-2B=
+bl99W60469VMOVfuLZX-2Bwqy-2B-2Bfg4-2FBnILGhvYUfHJhCoBK-2FiNXN-2BIZOnl4eSQaT=
+-2FtXnCg0YlYG9dqT5tHDjt-2Ba66STk-2BzmhFxCJyPzaA8EdEOQsNdRzwTDXtjNoK8hxvxM-2=
+FMR9MgZDu8Q-3D">co-founder and CEO</a> of a sustainable-oil startup who con=
+verts carbon waste into more affordable and efficient oils.<br /><br />
+Every issue of Brandeis Magazine delves into the captivating lives of our s=
+tudents, faculty and alums. As you read this one, remember that, at Brandei=
+s, you&#8217;ll be encouraged to create your own compelling story. Just ima=
+gine the impact you might make &#8212; as a pediatrician, perhaps, or an en=
+vironmental historian, curator or co-founder and CEO of your own inspiring =
+startup.<br /><br />
+Please come out to chat with us as we travel all over the country this fall=
+. Better yet, <a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn=
+6YekwlwAzpDulOpxybVz-2FyKvVy-2B-2FFEstIrrMdiktBA11sM5Ok5VYhl56pjUNfWXNtZ6Fq=
+Cgst-2Bfw8JekA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWg=
+lxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZ=
+c3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbx=
+nKLtnItHNUxwml1aYE5IwDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIl=
+IaWPsyvBMw04mIU7xgQ3BwUDkIWC844M8c99fMBgnd4ySflu90FeYou8UTLW7-2BVir0RSgu7aN=
+Dg4ZgqirWMxqZOCrGjpVWchBPD4rldoETJkT9J9VzgRHq5qvd7eyfiIZxSM6nYCOGe0hddkxm8s=
+N-2FeadeXHtnDeAui2c3nRknC7Mc8ViWJ544JumxU9VnH17tvHVlYej30vBsXe9FVoSNPHPbvTn=
+RSaj1HtmACs-3D">come to campus</a> to meet many dynamic Brandeisians &#8212=
+; and see them in action. We want you to discover what makes Brandeis such =
+an amazing community.<br /><br />
+Sincerely,<br /><br />
+Jennifer J. Walker<br />
+Dean of Admissions</p></div><div id=3D"footer" style=3D"background: #ffffff=
+; padding:0; margin:0 10%; font-family:Arial; font-size:11px; color:#333333=
+; line-height: 160%;"><img alt=3D"Brandeis" style=3D"padding-bottom: 5px; w=
+idth: 25%;" width=3D"25%" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/e=
+u/-bgWTcF616uVxA-7Vzr-inMzTiiZlDjzu_YL_Sw_0R9pDO90Q4LGYgwZw2AVVRWbPJPXFagKd=
+SIrHvYu_IfOjT2ru_9v-GoehUbFGVG82RC-pu69Jpa_Z1sgunLBh5r6eA7x8_5oiSsiDOZjj7pZ=
+ZQ" /><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Y=
+ekwlwAzpDulOpxybVz-2FyKvVy-2B-2FFEstIrrMdgIsaoPzu1mwRjlVaFsteIM_fl-2FMBkJMX=
+7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B=
+0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2F=
+MG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5IwDv0gY4trqLr=
+icJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ3BwUDkIWC844M=
+8c99fMBhRkmMNetpKaTU-2FZYXbzHiu1XvY3Mkpq3dlI8eiozKODAfyTic8dCQ2unOYYTkiCrDU=
+BRAY-2BJkPIl2mq9zRgour7clRLmnnvfpd8-2BbnlWi5gTV6yEYsFzZBaQFlNbE5SKGcWMT5Cct=
+RHG53fMOU2K73uLNoBRAeT8yGKtuP1tVvibSjB5FSbSTjpDGJ44e5lMM-3D" style=3D" font=
+-size:11px !important; line-height:120%; text-decoration:none; color:#00559=
+6; -webkit-text-size-adjust: none;">Office of Admissions | brandeis.edu/adm=
+issions</a></div></div></div></font><br /><table align=3D"center" bgcolor=
+=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75; clear: b=
+oth; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=3D"650">=
+<tr><td align=3D"center"><font color=3D"#333333" face=3D"Arial, Helvetica, =
+sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This email was sent=
+ to markiewicz.john@gmail.com by Dean Jennifer Walker.<br /><a href=3D"http=
+://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1qffqAb9ytBJxD98=
+CjkbO51gQN7O2q7OHMFa-2Bim4OScG8sMllWfqP0-2Fc0ME7FuFDLUrbmSBsdRrTXDdr9PD6cfT=
+3XCnY1AWWRyIrbG2bkyVq_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG-2B-2FjwDRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKb=
+xnKLtnItHNUxwml1aYE5IwDv0gY4trqLricJIBJT-2Bl6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oI=
+lIaWPsyvBMw04mIU7xgQ3BwUDkIWC844M8c99fMBjh6YpgWPxfXuTu9JYy4BjHNNVCZh4-2FVyB=
+ku1WYATUDLnhldxEkI7SFiPL-2BH21OG9IJvWIWFDZcewhllfSGkkBYMIYX605woyCG8D5liNfV=
+4G6mr2YstWIpQDFS4dfiuPnXAJOugofRhogODByPclnDN99kcAbSHJnakRWFw1vEfn8ojhspUpX=
+6L2GEUKHo-2BpU-3D">Unsubscribe</a> from Brandeis University.</span></font><=
+/td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG-2B-2Fjw=
+DRj6jQ9hkcaz6xKEFLXMzRuBLf4jTVKbxnKLtnItHNUxwml1aYE5IwDv0gY4trqLricJIBJT-2B=
+l6yGNHg2WE8Q1OHBAcbEvxqUyu8Ym0oIlIaWPsyvBMw04mIU7xgQ3BwUDkIWC844M8c99fMBgZ-=
+2FyXm6jOqacVVGxvlL5A7Ftlm-2BHi-2BQn2-2BgFDuzGmKMk4jN6lJIZ-2FEXkiKgyfaLvM041=
+c-2Bgu61F8kXNDwCtFY3i2phm6VvKIkT8LSAVArACEdFtzw8en-2BVM8AyDDMSawXGANZtif7iA=
+aF1-2F4ZHOi7grBj26owmotZYQPyZYdY6eNgRCMxJP0czm1a3bt4NF-2FQ-3D" alt=3D"" wid=
+th=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px=
+ !important;border-width:0 !important;margin-top:0 !important;margin-bottom=
+:0 !important;margin-right:0 !important;margin-left:0 !important;padding-to=
+p:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddi=
+ng-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_cb6a2c93-a711-4fe9-b1a7-22ecbe3adda0--

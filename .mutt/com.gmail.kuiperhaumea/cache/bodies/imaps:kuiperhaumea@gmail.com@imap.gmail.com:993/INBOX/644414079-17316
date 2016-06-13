@@ -1,0 +1,61 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp2590942oia;
+        Mon, 14 Mar 2016 05:50:37 -0700 (PDT)
+X-Received: by 10.31.16.38 with SMTP id g38mr24695516vki.105.1457959837912;
+        Mon, 14 Mar 2016 05:50:37 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-vk0-x229.google.com (mail-vk0-x229.google.com. [2607:f8b0:400c:c05::229])
+        by mx.google.com with ESMTPS id h190si14413163vka.78.2016.03.14.05.50.37
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Mar 2016 05:50:37 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:400c:c05::229 as permitted sender) client-ip=2607:f8b0:400c:c05::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:400c:c05::229 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-vk0-x229.google.com with SMTP id c3so198630054vkb.3
+        for <kuiperhaumea@gmail.com>; Mon, 14 Mar 2016 05:50:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=d1j5xLYZNzBCNij6gdMxSMCN03MY68UUmwOw1qQih/I=;
+        b=YHAe0p5Bjfdm5URUXMmu8py89WyHMsxP27ZXSa1AxeL2P2uy7ZtjMmrDBFwM+Hivrs
+         1NXCVDiVo3yotxZU1GT7ymRkb0a8NT7c0cEXKDwrVeuY160iX2gmjYN3Tn51HtSnzdfQ
+         dxRsKho45QD0VI3zUHwEgRmHAbwxWfS+hR+KwU0ZuXWRBd9RdudYo99dpMlGRtMzvs0X
+         FD7xbnUS1ApdV0Jc6OK1guTxzWRdttxfMDEM/RKTce5KrNtIb/5sjI6sn4wX9QXPjLMp
+         4wF/rFudQLqGysXgUHb0jesu2xzFPTtr6n+xpX8iAv+sdMPjw4X3mpxmhkQbJTnweHzO
+         sXCA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=d1j5xLYZNzBCNij6gdMxSMCN03MY68UUmwOw1qQih/I=;
+        b=mY1Ssuws1yTEtVnb6W4J96wxDd0D+UCqG7B+gn2fhsheezHgLbhX7q1LRtdl0KBNgr
+         0rYVJuLBwe1Rifsx75Dls8NIFjS9eCppwBvv+q+BobLFknSDMx9bMlp5rR+IIEU2vFZs
+         EcoLGcl7cJ8et8lbzz5hx3JVKdsytxdbGNQoqXvlCSMZNPpZ8p4pG118D3VbLTVV+7d7
+         V1YYBtkPcQakPzpEbnl4RmRDxXiArHt/Y6r3FYTFvrWEYWp9JuXJ4YTUKOtuLjfWCx07
+         OgOnga1HbapYL+qZl4MlFFKR+L87RrIYtgTfxYOhOJaWFDkxxmsdwA0qBlv7UA37gqgB
+         2Qcw==
+X-Gm-Message-State: AD7BkJLJyDdM26vgw7EMCkbfmu96qnSUtflaQNB96XYg0n5qZbVWVG6Rd/PiTrPG+/Tr7tD0k1VFdyYGDQk9vw==
+X-Received: by 10.31.49.23 with SMTP id x23mr25397760vkx.0.1457959837580; Mon,
+ 14 Mar 2016 05:50:37 -0700 (PDT)
+MIME-Version: 1.0
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Mon, 14 Mar 2016 12:50:28 +0000
+Message-ID: <CANNyMF9XLNZMMN=nvffBDm_ZdwFqcSjPpRX7u8sKmr4h6dv=Sw@mail.gmail.com>
+Subject: Request
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11437e363744f0052e01badc
+
+--001a11437e363744f0052e01badc
+Content-Type: text/plain; charset=UTF-8
+
+I will need a fax number,  fyi
+
+--001a11437e363744f0052e01badc
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+I will need a fax number, =C2=A0fyi
+
+--001a11437e363744f0052e01badc--

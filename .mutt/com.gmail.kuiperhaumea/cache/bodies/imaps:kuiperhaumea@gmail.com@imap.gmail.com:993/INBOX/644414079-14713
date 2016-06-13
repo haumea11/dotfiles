@@ -1,0 +1,238 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp1938931oia;
+        Mon, 2 Nov 2015 12:46:49 -0800 (PST)
+X-Received: by 10.194.23.228 with SMTP id p4mr28796242wjf.151.1446497207979;
+        Mon, 02 Nov 2015 12:46:47 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f175.google.com (mail-wi0-f175.google.com. [209.85.212.175])
+        by mx.google.com with ESMTPS id o70si24060004wmd.21.2015.11.02.12.46.47
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Nov 2015 12:46:47 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) client-ip=209.85.212.175;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=sfly.com
+Received: by mail-wi0-f175.google.com with SMTP id q8so58873304wik.1
+        for <kuiperhaumea@gmail.com>; Mon, 02 Nov 2015 12:46:47 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:from:sender:to
+         :reply-to:subject:date:mime-version:content-type
+         :content-transfer-encoding:message-id;
+        bh=ZcR/UjHpiyahJI1ExZ5o8yNMtX8sPFPla4yeXrcrc1w=;
+        b=DUSw44k8uRZVgx5BAllwatWrF/Gu7N1GFEzOE7NCTV99p968Z4Bqye/o9IvyP+mb/V
+         6U4t+fw/XjgH5ZCo+O2wNQ0C7zfAqGY9MkmXWwvzZNxoddvlqZ2SHKecGanwprFgLElV
+         Xv3LtIEmwtaduuFdIDMhYai0J6OSKnwtGwc9PpmB39IY5br4U+FASyZNamcEAGny/jnt
+         lM8O+fw9YmxdJIc3sp34XowzNM5ngNjLcRvxpt4zmQzbc1U+vIDoG+wDiEpZ8bw0Rr8S
+         +JOodN1vPj9+t5hWswnxC166SYE46WjG6lftqFcGHMfzl9A3R4EvIBnbWPBBZNrNN9N6
+         jZTg==
+X-Original-Authentication-Results: mx.google.com;       spf=pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) smtp.mailfrom=noreply@sfly.com;       dmarc=pass (p=NONE dis=NONE) header.from=sfly.com
+X-Received: by 10.194.189.49 with SMTP id gf17mr29487809wjc.158.1446497207746;
+        Mon, 02 Nov 2015 12:46:47 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.3 with SMTP id w3csp1476846wmw;
+        Mon, 2 Nov 2015 12:46:46 -0800 (PST)
+X-Received: by 10.66.255.3 with SMTP id am3mr29829418pad.120.1446497206869;
+        Mon, 02 Nov 2015 12:46:46 -0800 (PST)
+Return-Path: <noreply@sfly.com>
+Received: from shutterfly.com (mail11.shutterfly.com. [136.179.236.38])
+        by mx.google.com with ESMTP id ay9si37545371pbd.18.2015.11.02.12.46.46
+        for <markiewicz.john@gmail.com>;
+        Mon, 02 Nov 2015 12:46:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) client-ip=136.179.236.38;
+Received: from mail.sfly.com (unknown [172.18.128.134])
+	by shutterfly.com (Postfix) with ESMTP id 17DFF8005F1
+	for <markiewicz.john@gmail.com>; Mon,  2 Nov 2015 12:46:46 -0800 (PST)
+Received: from mail pickup service by mail.sfly.com with Microsoft SMTPSVC;
+	 Mon, 2 Nov 2015 12:45:28 -0800
+From: "Bishop Watterson Fall Drama" <noreply@sfly.com>
+Sender: <mail@sfly.com>
+To: "John M" <markiewicz.john@gmail.com>
+Reply-To: "ELIZABETH C K" <lizkoehler217@yahoo.com>
+Subject: "Costumes: Nolan, Jacob, John, Michael, M. Bea, Maya, Alex, Sam, Anna Rose, Schoolboys" is coming up
+Date: Mon, 02 Nov 2015 12:45:25 -0800
+X-Sfly-AttachmentSize: 0
+X-Mailer: Sfly
+X-Sfly-IsPartial: False
+X-Sfly-Kind: CalendarReminder
+X-Sfly-Site: bishopwattersonfalldrama
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <SHA19vcDfSDGAIXWb9D003234ed@mail.sfly.com>
+X-OriginalArrivalTime: 02 Nov 2015 20:45:28.0480 (UTC) FILETIME=[685C6200:01D115AF]
+
+<html>
+<head>
+</head>
+<body>
+<div class=3D"email-body" style=3D"font: 13px verdana,arial,geneva,sans=
+-serif; color: #666666; line-height: 140%;"><table style=3D"width: 100%=
+; border-bottom: 1px solid #181512; ">
+<tr valign=3D"bottom">
+<td style=3D"padding-bottom: 12px; white-space: nowrap;">
+<div style=3D"color: #DC4405; font-family: normal 20px arial.geneva,san=
+s-serif">
+Upcoming Event from &ldquo;Bishop Watterson Fall Drama&rdquo; Site
+</div>
+</td>
+<td align=3D"right" style=3D"padding-bottom: 4px; white-space: nowrap;"=
+>
+<img border=3D"0" width=3D"125" height=3D"42" src=3D"http://cdn.statics=
+fly.com/shr/images/email/sfly=5Flogo=5F125x42.png"  alt=3D"Shutterfly l=
+ogo" align=3D"bottom" />
+</td>
+</tr>
+</table>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+Hi John M,
+</div>
+
+ 
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+"<a href=3D"http://bishopwattersonfalldrama.shutterfly.com/22#%3aemid%3=
+dsite=5Fcalendarreminder%26cid%3dSHARE3SXXXX">Costumes&#58; Nolan, Jaco=
+b, John, Michael, M. Bea, Maya, Alex, Sam, Anna Rose, Schoolboys</a>" i=
+s coming up on Tuesday, November 03, 2015. 
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+Here are the event details:
+<table><tr><td valign=3D"top" align=3D"right"  style=3D"font: 13px verd=
+ana,arial,geneva,sans-serif; color: #666666; " ><b>Date/Time:</b> </td>=
+<td valign=3D"top" style=3D"font: 13px verdana,arial,geneva,sans-serif;=
+ color: #666666; ">Tuesday, November 03, 2015, 3:30 PM to 5:30 PM</td><=
+/tr><tr><td valign=3D"top" align=3D"right"  style=3D"font: 13px verdana=
+,arial,geneva,sans-serif; color: #666666; " ><b>Notes:</b> </td><td val=
+ign=3D"top" style=3D"font: 13px verdana,arial,geneva,sans-serif; color:=
+ #666666; ">Today, we will work on costumes for the cast members/charac=
+ters listed below. All others, kindly wait your turn=21<div>
+
+
+
+
+
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"215" s=
+tyle=3D"border-collapse:
+ collapse;width:161pt;">
+
+ <colgroup><col width=3D"68" style=3D"width:51pt;">
+ <col width=3D"147" style=3D"width:110pt;">
+ </col></col></colgroup><tbody><tr height=3D"21" style=3D"height:16.0pt=
+;">
+  <td height=3D"21" width=3D"68" style=3D"height:16.0pt;width:51pt;">No=
+lan</td>
+  <td width=3D"147" style=3D"width:110pt;">Fred</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Nolan</td>
+  <td>Young Scrooge</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Nolan&nbsp;</td>
+  <td>Boy Scrooge</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Jacob</td>
+  <td>Solicitor</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">John</td>
+  <td>Solicitor</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Michael</td>
+  <td>Fezziwig</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Michael</td>
+  <td>Undertaker</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">M Bea</td>
+  <td>Mrs Fezziwig</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Maya</td>
+  <td>Belle</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Maya</td>
+  <td>Mrs. Fred</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Alex</td>
+  <td>Fred&#39;s SisterInLaw</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">Sam</td>
+  <td>Mr. Topper</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;">AnnaR</td>
+  <td>Fan</td>
+ </tr>
+ <tr height=3D"21" style=3D"height:16.0pt;">
+  <td height=3D"21" style=3D"height:16.0pt;"></td>
+  <td>Schoolboys</td>
+ </tr>
+
+</tbody></table></div></td></tr></table>
+</div>
+
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+<a style=3D"border: 0; text-decoration:none;" link=3D"View site" href=3D=
+"http://bishopwattersonfalldrama.shutterfly.com/#%3aemid%3dsite=5Fcalen=
+darreminder%26cid%3dSHARE3SXXXX"><img src=3D"http://cdn.staticsfly.com/=
+shr/images/email/view-site.png" alt=3D"View site"   border=3D"0" /></a>=
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+From,<br />
+Bishop Watterson Fall Drama
+</div>
+
+<div style=3D"height: 25px; line-height: 25px;">&nbsp;</div>
+<div style=3D"font-size: 10px; line-height: 120%;">
+This message was sent to markiewicz.john@gmail.com because you are on t=
+he list of Bishop Watterson Fall Drama site members.  All times are for=
+ the time zone (GMT-05:00) Eastern Time.
+Because Shutterfly values your privacy, if you do not want to receive e=
+vent reminders from the Bishop Watterson Fall Drama site, you can quick=
+ly and easily change your reminder setting to <a href=3D"mailto:bishopw=
+attersonfalldrama-unsubscribereminder@sfly.com?subject=3DDisable%20remi=
+nders&body=3DDisable%20reminders">disabled</a>.
+If you feel you have received this email in error, please notify us: <a=
+ href=3D"http://site.shutterfly.com/commands/email/spam?m=3D[MailId]">R=
+eport Abuse</a>.
+</div><img alt=3D"" src=3D"https://os.shutterfly.com/b/ss/sflyemailprod=
+/1/H.15/111?pageName=3Deventreminder&v0=3DSHARE3SMAIL" width=3D"1" heig=
+ht=3D"1" border=3D"0" /></div>
+<style>
+=2Eemail-body p {margin: 5px 0;}
+</style></div>
+    </body>
+</html>
+

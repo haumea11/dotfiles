@@ -1,0 +1,57 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1878779oid;
+        Mon, 13 Jul 2015 18:22:55 -0700 (PDT)
+X-Received: by 10.70.40.133 with SMTP id x5mr75140043pdk.14.1436836974753;
+        Mon, 13 Jul 2015 18:22:54 -0700 (PDT)
+Return-Path: <ticket@reply.ticketmaster.com>
+Received: from phx2mta.ticketmaster.com (phx2mta.ticketmaster.com. [209.104.45.8])
+        by mx.google.com with ESMTP id we10si31067415pab.180.2015.07.13.18.22.54
+        for <kuiperhaumea@gmail.com>;
+        Mon, 13 Jul 2015 18:22:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ticket@reply.ticketmaster.com designates 209.104.45.8 as permitted sender) client-ip=209.104.45.8;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of ticket@reply.ticketmaster.com designates 209.104.45.8 as permitted sender) smtp.mail=ticket@reply.ticketmaster.com
+Received: from nta2.tmol.phx2.websys.tmcs (nsr-mapped2.sys.phx2.websys.tmcs [192.168.48.45])
+	by dns1.sys.phx2.websys.tmcs (Postfix) with ESMTP id 0B81310D386
+	for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 18:22:54 -0700 (PDT)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by nta2.tmol.phx2.websys.tmcs (Postfix) with ESMTP id 0314A10D2EF
+	for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 18:22:54 -0700 (PDT)
+Date: 13 Jul 2015 18:22:54 -0700
+Message-Id: <18799-14368369744219-102105273694264@reply.ticketmaster.com>
+Reply-to:  ticket@reply.ticketmaster.com
+From:  ticket@reply.ticketmaster.com
+To:  kuiperhaumea@gmail.com
+Subject: Your Ticketmaster.com Account Information
+MIME-Version: 1.0
+X-NTF-MIME: TEXT
+X-NTF-template_id: 
+X-NTF-cell_id: 90004_1
+X-NTF-unique_key: kuiperhaumea@gmail.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hello, John:
+
+Thanks for using your Ticketmaster account.
+
+This is a temporary password: C279030b9
+Use this temporary password to login and reset your password again.
+
+If you need further assistance, contact us at:
+http://www.ticketmaster.com/h/contact_us.html
+
+
+Make the most of your Ticketmaster Account! Find out about the latest event=
+s in your area with customized TicketAlerts. Sign up today.
+https://www.ticketmaster.com/member
+
+
+We hope you enjoy using your account!
+
+
+Thanks,
+The Ticketmaster Team
+

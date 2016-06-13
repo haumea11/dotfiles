@@ -1,0 +1,379 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp1601162oig;
+        Mon, 21 Sep 2015 06:12:40 -0700 (PDT)
+X-Received: by 10.194.114.104 with SMTP id jf8mr11658409wjb.155.1442841160689;
+        Mon, 21 Sep 2015 06:12:40 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x235.google.com (mail-wi0-x235.google.com. [2a00:1450:400c:c05::235])
+        by mx.google.com with ESMTPS id n8si16990887wiz.102.2015.09.21.06.12.40
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 21 Sep 2015 06:12:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) client-ip=2a00:1450:400c:c05::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@websystem2.com;
+       dkim=pass header.i=@mandrillapp.com
+Received: by mail-wi0-x235.google.com with SMTP id ge5so115080870wic.0
+        for <kuiperhaumea@gmail.com>; Mon, 21 Sep 2015 06:12:40 -0700 (PDT)
+X-Received: by 10.194.203.99 with SMTP id kp3mr22295201wjc.157.1442841160298;
+        Mon, 21 Sep 2015 06:12:40 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1609219wmw;
+        Mon, 21 Sep 2015 06:12:39 -0700 (PDT)
+X-Received: by 10.129.82.132 with SMTP id g126mr16661060ywb.15.1442841159246;
+        Mon, 21 Sep 2015 06:12:39 -0700 (PDT)
+Return-Path: <bounce-md_30064959.560001bb.v1-ccec04cd264b46448b663a3b256a99c6@mandrillapp.com>
+Received: from mail17.wdc04.mandrillapp.com (mail17.wdc04.mandrillapp.com. [205.201.139.17])
+        by mx.google.com with ESMTPS id r192si11454517ywg.179.2015.09.21.06.12.38
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 21 Sep 2015 06:12:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-md_30064959.560001bb.v1-ccec04cd264b46448b663a3b256a99c6@mandrillapp.com designates 205.201.139.17 as permitted sender) client-ip=205.201.139.17;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=websystem2.com;
+ h=From:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type; i=dr.horvath@websystem2.com;
+ bh=SpR6MP+QDdq/fQeyoiQy8NrXqkg=;
+ b=TkY1o5vtNPsdjg6h/8lioBFaF7A1X7G9MYyd2+dOOJcCERBJx8SKiSbIGvVTIQxr+NrFCpVtZ10u
+   hwRkKNUse0j1f/d7Yr+5N7wcUQ/pbvVAwrMX4Hmk4SYSyXlr1n4MoSMgXzaw8J12gTCZtVJdatdb
+   Dr+yKpnZgsqEIJ+eq8U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=websystem2.com;
+ b=oL+2MDeufSbZOwMVKt15K3zxb514Z8FluUkPvePiJJZ5AKahJ+UZyYgcR0hnpCceaM64Ve7Q2lVN
+   nzB8zmWBN8qM4+F//XQS6jn3ZwruPczAqjPvOuHhZbBJAR2SKfBp4EAvS03q8nbkxNXc4loKHbgu
+   O60XMvynbe44ZpGREO8=;
+Received: from pmta05.wdc01.mailchimp.com (127.0.0.1) by mail17.wdc04.mandrillapp.com id h0014e1jvjgk for <markiewicz.john@gmail.com>; Mon, 21 Sep 2015 13:10:19 +0000 (envelope-from <bounce-md_30064959.560001bb.v1-ccec04cd264b46448b663a3b256a99c6@mandrillapp.com>)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1442841019; h=From : 
+ Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=7QX4uqoLNo8B8th78ty7FOO0zOxVCEsEXP1WDjsRVsw=; 
+ b=J3VkX62G0Lt3PDw25nC8a60HvL0eaKrOJdElIb2x5Ynh7uwyI2JjTuClxuzeBHvHuh/2G2
+ pMcwi1fxGHRUVDOeBq1bcrqbsYDHdFeJITeTyN4g5IBOl/+/uHkY+bTTWMe3lP8+jdpcgWD+
+ xIt6ObmGE/M+OoROSti3paH/BRP0Y=
+From: "Horvath Vision Care, Inc." <dr.horvath@websystem2.com>
+Subject: It's Time For John's Eye Exam
+Return-Path: <bounce-md_30064959.560001bb.v1-ccec04cd264b46448b663a3b256a99c6@mandrillapp.com>
+Received: from [209.162.186.250] by mandrillapp.com id ccec04cd264b46448b663a3b256a99c6; Mon, 21 Sep 2015 13:10:19 +0000
+Reply-To: <info@horvathvisionsecure.com>
+To: <markiewicz.john@gmail.com>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30064959.ccec04cd264b46448b663a3b256a99c6
+X-Mandrill-User: md_30064959
+Message-Id: <30064959.20150921131019.560001bb14ba48.03193612@mail17.wdc04.mandrillapp.com>
+Date: Mon, 21 Sep 2015 13:10:19 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-z6N1rfG2VBcZC4FWyHRZHg"
+
+--_av-z6N1rfG2VBcZC4FWyHRZHg
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+       Recall                          Eye Exam:     It's time to schedule.
+                   Request Appointment
+Now!
+<http://mandrillapp.com/track/click/30064959/www.lenscrafters.com?p=eyJzIjoiUDFMTTllZ0hRQ3FYZ1U4Q0F4NzlJRUtSTTlnIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5sZW5zY3JhZnRlcnMuY29tXFxcL3dlYmFwcFxcXC93Y3NcXFwvc3RvcmVzXFxcL3NlcnZsZXRcXFwvU2NoZWR1bGVFeGFtVmlldz9jYXRhbG9nSWQ9MTE2NTEmIzM4O2xhbmdJZD0tMSYjMzg7c3RvcmVJZD0xMDg1MSYjMzg7a3J5cHRvPWhseG9OemZ6Y0xYcWxPMVNZem5YaXRjdXVIT1hlT2xlMXpDTUlHbzExQ3olMkI2V3RNMExqY0NkSHBvMU1ES3h1ViYjMzg7ZGRrZXk9aHR0cDpTY2hlZHVsZUV4YW1WaWV3XCIsXCJpZFwiOlwiY2NlYzA0Y2QyNjRiNDY0NDhiNjYzYTNiMjU2YTk5YzZcIixcInVybF9pZHNcIjpbXCJiN2U4OGMyOTYxNjA3ZDYyNjAzZGYwMTJlMjIyNTFhOTg0ZTFjNWJiXCJdfSJ9>
+                  *Dear John,
+* 
+ According to our records, you are now due for an eye examination.
+
+Even if you haven't noticed any change in your vision, it's important to
+realize that many eye disorders have no symptoms in the early stages.
+Regular eye examinations are your best insurance against vision loss. 
+
+Please click the Request Appointment button below and we will be happy to
+contact you with some convenient appointment dates and times. Thank you and
+we look forward to seeing you.
+<https://www.google.com/maps/dir//Horvath+Vision+Care,+Inc.,+Shops+On+Lane+Avenue,+1599+W+Lane+Ave,+Columbus,+OH+43221/@40.0082331,-83.0555045,18z/data=!4m13!1m4!3m3!1s0x88388e6e7734ae3f:0xf4361aceb4409b8d!2sHorvath+Vision+Care,+Inc.!3b1!4m7!1m0!1m5!1m1!1s0x88388e6e7734ae3f:0xf4361aceb4409b8d!2m2!1d-83.051905!2d40.007023?hl=en>
+              
+See you soon!
+     
+Horvath Vision Care
+
+Mark Horvath, O.D.
+Jamie Horvath, O.D.
+Wasim Sleiman, O.D.
+Lara Leach, O.D.
+Jonathan Culp, O.D.
+Rebecca Lugar, O.D.
+     
+1599 West Lane Avenue
+Columbus, OH 43221
+
+614-486-8354 <http://mandrillapp.com/track/click/30064959/www.facebook.com?p=eyJzIjoiSlUwd0l4clRuTXBuUjZkRVh0STNVOGJWckdFIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYWNlYm9vay5jb21cXFwvaG9ydmF0aHZpc2lvbmNhcmVcIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImU4ZDJlMmMzNjZmZjY0YTBmMGI0M2FlNmZjZWQ3OTM3ODQ0MDlhZDlcIl19In0>     
+       
+ 
+
+             Email us <mailto:info@horvathvisionsecure.com>    Refer a
+friend
+<http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoiRlpPWWJyeWtJVVJZc05PRDZ1TkhtUnpYcGw4IiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL3JlZmVyX2FfZnJpZW5kX2VudGVyX2luZm8uYXNwP1VJRD0zZmVlZGJjNy04YTUwLTQ2ZWMtYTM1ZC05YzI4NWIyZDEyNzcmUFVJRD1lNGVhNDVlMy1mOTlmLTQ1OGItYjUwNi1mMGYxOWU5N2Q2ZWJcIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImQyMDIwNzFjMGYxNGM4MDZkYmY4MGRlOGIxNTBjMjVlMWJjYjhjZjNcIl19In0>
+   Our website <http://mandrillapp.com/track/click/30064959/www.horvathvisioncare.com?p=eyJzIjoidmpTbG9rTnBNLWNTZm1zOXVoUDRMVTVoR3lrIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmhvcnZhdGh2aXNpb25jYXJlLmNvbVxcXC9cIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImUxOWJjZWRmOTczYzAzNDhhYzQ1Nzk4ZTBiZTlkNTdjY2UwOTZlMTFcIl19In0>             My
+preferences
+<http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoibTU2b2U3a2pkZzhuNDZWdGxXQTlHeUxWc0pnIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL1BhdGllbnRfU2lnbmF0dXJlRm9ySURfR0VULmFzcD9QVUlEPWU0ZWE0NWUzLWY5OWYtNDU4Yi1iNTA2LWYwZjE5ZTk3ZDZlYiZ1cmxUb0NvbnRpbnVlPVxcXC9kcmFkbWluXFxcL1BhdGllbnRfUHJlZmVyZW5jZXNfR0VULmFzcD9QVUlEPWU0ZWE0NWUzLWY5OWYtNDU4Yi1iNTA2LWYwZjE5ZTk3ZDZlYlwiLFwiaWRcIjpcImNjZWMwNGNkMjY0YjQ2NDQ4YjY2M2EzYjI1NmE5OWM2XCIsXCJ1cmxfaWRzXCI6W1wiZDIwMjA3MWMwZjE0YzgwNmRiZjgwZGU4YjE1MGMyNWUxYmNiOGNmM1wiXX0ifQ>
+   Review us
+<http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoiWi1OWHB3cVZRNmUyMDRCa0p1Yy1WRk1ZOXBzIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL1BhdGllbnRfU3VydmV5LmFzcD9VSUQ9ZTRlYTQ1ZTMtZjk5Zi00NThiLWI1MDYtZjBmMTllOTdkNmViXCIsXCJpZFwiOlwiY2NlYzA0Y2QyNjRiNDY0NDhiNjYzYTNiMjU2YTk5YzZcIixcInVybF9pZHNcIjpbXCJkMjAyMDcxYzBmMTRjODA2ZGJmODBkZThiMTUwYzI1ZTFiY2I4Y2YzXCJdfSJ9>
+   Remove me
+<http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoicXNsMU9JVmdLTm1lMWozcHVjb3c4T3d0Tk5vIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL09wdE91dF9BcmVfVV9TdXJlLmFzcD9VSUQ9ZTRlYTQ1ZTMtZjk5Zi00NThiLWI1MDYtZjBmMTllOTdkNmViXCIsXCJpZFwiOlwiY2NlYzA0Y2QyNjRiNDY0NDhiNjYzYTNiMjU2YTk5YzZcIixcInVybF9pZHNcIjpbXCJkMjAyMDcxYzBmMTRjODA2ZGJmODBkZThiMTUwYzI1ZTFiY2I4Y2YzXCJdfSJ9>
+--_av-z6N1rfG2VBcZC4FWyHRZHg
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ 
+<head>
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+  <meta name="ProgId" content="FrontPage.Editor.Document">
+  <title>Recall</title>
+  <style type="text/css">
+  
+  @media only screen and (max-width: 480px), screen and (max-device-width: 480px) {
+  body[yahoo] .hide {display: none!important;}
+  body[yahoo] .buttonwrapper {background-color: transparent!important;}
+  body[yahoo] .emailButton {display: block!important; width: 100% !important; max-width: 480px !important; margin-bottom: 5px; height: auto !important; padding: auto !important;}
+  body[yahoo] .emailButton a {padding: 15px 15px 13px!important;}
+  body[yahoo] .footerbutton {display: block!important; width: 100% !important; max-width: 480px !important; margin-bottom: 5px; height: auto !important; padding: 0 !important; }
+  body[yahoo] .unsubscribe {display: block!important; margin-top: 15px;  border-radius: 5px; text-decoration: none!important; font-weight: bold;}
+  body[yahoo] .col200 {max-width: 480px !important;}
+  body[yahoo] .fullwidth {max-width: 480px !important;}
+  body[yahoo] .fullwidthimage { width: 100% !important; max-width: 480px !important; height:auto !important;}
+
+  }
+  /*@media only screen and (min-device-width: 601px) {
+    .content {width: 600px !important;}
+    .col345 {width: 345px!important;}
+    .col200 {width: 200px!important;}
+    }*/
+  </style>
+</head>
+
+<body yahoo="" bgcolor="#f6f8f1" style="margin: 0;padding: 0;min-width: 100%!important;">
+<table width="100%" bgcolor="#f6f8f1" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td>
+    <!--[if (gte mso 9)|(IE)]>
+      <table width="600" align="center" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td>
+    <![endif]-->     
+    <table bgcolor="#ffffff" class="content" align="center" cellpadding="0" cellspacing="0" border="0" style="width: 100%;max-width: 600px;">
+      <!-- Header Row -->
+      <tr>
+        <td bgcolor="#008ed3" class="header" style="padding: 0px 20px 0px 0px;">
+          <table class="fullwidthimage" width="170" align="left" border="0" cellpadding="0" cellspacing="0">  
+            <tr>              
+			  <td height="149" style="padding: 0 20px 0 0;">
+				
+				<a target="_blank" href=""><img class="" width="200" height="149" src="https://www.websystem3.com/3images/recall-photo.jpg" border="0" alt="Practice Photo"></a>
+				
+			  </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+            <table width="345" align="left" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td>
+          <![endif]-->
+          <table class="col345" align="left" border="0" cellpadding="0" cellspacing="0" bgcolor="#008ed3" style="width: 100%; max-width: 345px;">  
+            <tr>
+              <td height="149">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td class="subhead" style="padding: 0 0 0 13px;font-size: 22px;color: #ffffff;font-family: sans-serif;">
+                      Eye Exam:
+                    </td>
+                  </tr> 
+                  <tr>
+                    <td class="h1" style="padding: 5px 0 0 10px;color: #ffffff;font-family: sans-serif;font-size: 30px;line-height: 34px;font-weight: normal;">
+                      It's time to schedule.
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- Buttons Row -->
+      <tr>
+        <td class="innerpadding borderbottom" style="padding: 30px 30px 30px 30px;border-bottom: 1px solid #f2eeed;">
+          <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <table align="center" class="fullwidth">
+                  <tr>                    
+					  <td width="15%"></td>
+                      <td align="center" class="emailButton" style="background-color: #69bd45;text-align: center;font-size: 18px;font-family: sans-serif;font-weight: normal;padding: 15px;-moz-border-radius: inherit;-webkit-border-radius: inherit;border-radius: 5px;">
+                      <a href="http://mandrillapp.com/track/click/30064959/www.lenscrafters.com?p=eyJzIjoiVUdmOUY2TVdHYjk2eEZ5b29lVTlsTG5PV05rIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5sZW5zY3JhZnRlcnMuY29tXFxcL3dlYmFwcFxcXC93Y3NcXFwvc3RvcmVzXFxcL3NlcnZsZXRcXFwvU2NoZWR1bGVFeGFtVmlldz9jYXRhbG9nSWQ9MTE2NTEmbGFuZ0lkPS0xJnN0b3JlSWQ9MTA4NTEma3J5cHRvPWhseG9OemZ6Y0xYcWxPMVNZem5YaXRjdXVIT1hlT2xlMXpDTUlHbzExQ3olMkI2V3RNMExqY0NkSHBvMU1ES3h1ViZkZGtleT1odHRwOlNjaGVkdWxlRXhhbVZpZXdcIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImI3ZTg4YzI5NjE2MDdkNjI2MDNkZjAxMmUyMjI1MWE5ODRlMWM1YmJcIl19In0" target="_blank" style="color: #ffffff;text-decoration: none;">Request Appointment<br>Now!</a>
+                    </td>  
+					
+                    <td width="15%"></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <!-- Bodycopy Row -->
+      <tr>
+        <td class="innerpadding borderbottom" style="padding: 30px 30px 30px 30px;border-bottom: 1px solid #f2eeed;">
+          <table width="295" align="left" border="0" cellpadding="0" cellspacing="0">  
+            <tr>
+              <td style="padding: 0 20px 20px 0;">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0" class="fullwidth">
+                  <tr>
+                    <td class="bodycopy" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                        <strong>Dear&nbsp;John,<br></strong>
+                         <br>
+                        According to our records, you are now due for an eye examination.<br /><br />Even if you haven't noticed any change in your vision, it's important to realize that many eye disorders have no symptoms in the early stages. Regular eye examinations are your best insurance against vision loss. <br /><br />Please click the Request Appointment button below and we will be happy to contact you with some convenient appointment dates and times. Thank you and we look forward to seeing you.
+					    
+                          <br>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="padding: 20px 10px 0 0;">
+                      <table class="" border="0" cellspacing="0" cellpadding="0" align="left">
+                        <tr>                          
+						  <td class="" width="33%" height="70">
+							<a href="https://www.google.com/maps/dir//Horvath+Vision+Care,+Inc.,+Shops+On+Lane+Avenue,+1599+W+Lane+Ave,+Columbus,+OH+43221/@40.0082331,-83.0555045,18z/data=!4m13!1m4!3m3!1s0x88388e6e7734ae3f:0xf4361aceb4409b8d!2sHorvath+Vision+Care,+Inc.!3b1!4m7!1m0!1m5!1m1!1s0x88388e6e7734ae3f:0xf4361aceb4409b8d!2m2!1d-83.051905!2d40.007023?hl=en" target="_blank"><img alt="Office Map" src="https://www.websystem3.com/images/Office1_Map_Icon.gif" style="border-width: 0px; margin-bottom: 4px; margin-left: 4px;" /></a>
+						  </td>	                          
+                          <td width="20%"></td>
+                            
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+            <table width="200" align="left" cellpadding="0" cellspacing="0" border="0">
+              <tr>
+                <td>
+          <![endif]-->
+          <table class="col200" align="left" border="0" cellpadding="0" cellspacing="0" style="width: 100%; max-width: 200px;" bgcolor="#f0f0f0">
+            <tr>
+              <td class="h2" align="center" style="color: #153643;font-family: sans-serif;padding: 0 0 15px 0;font-size: 24px;line-height: 28px;font-weight: bold;">
+                <br>See you soon!<br>
+              </td>
+            </tr>
+            <tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <br>Horvath Vision Care<br /><br />Mark Horvath, O.D.<br />Jamie Horvath, O.D.<br />Wasim Sleiman, O.D.<br />Lara  Leach, O.D.<br />Jonathan Culp, O.D.<br />Rebecca Lugar, O.D.<br>
+              </td>
+            </tr>
+			<tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <br>1599 West Lane Avenue<br />Columbus, OH 43221<br /><br />614-486-8354<br>
+              </td>
+            </tr> 
+			<tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <br><br>
+              </td>
+            </tr> 
+			<tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <br><br>
+              </td>
+            </tr>
+			<tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <!-- <img class="fix" src="images/article1.png" width="115" height="115" border="0" alt="" /> -->
+                <a target="_blank" href="http://mandrillapp.com/track/click/30064959/www.facebook.com?p=eyJzIjoiSlUwd0l4clRuTXBuUjZkRVh0STNVOGJWckdFIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5mYWNlYm9vay5jb21cXFwvaG9ydmF0aHZpc2lvbmNhcmVcIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImU4ZDJlMmMzNjZmZjY0YTBmMGI0M2FlNmZjZWQ3OTM3ODQ0MDlhZDlcIl19In0">
+                
+                <img border="0" src="https://www.websystem3.com/images/FacebookBug.jpg" style="height: auto;">
+                                
+                </a>
+              </td>
+            </tr>
+            <tr>
+              <td class="bodycopy" align="center" style="color: #153643;font-family: sans-serif;font-size: 16px;line-height: 22px;">
+                <br>
+                <a target="_blank" href="">                  
+                               
+                </a>
+              </td>
+            </tr>
+            <tr>              
+			  
+                 
+               <td class="" height="1" align="center" style="padding: 0 0 10px 0;">
+                <p><br>
+                    </p></td>
+                	
+              
+            </tr>  
+          </table>
+          <!--[if (gte mso 9)|(IE)]>
+                </td>
+              </tr>
+          </table>
+          <![endif]-->
+        </td>
+      </tr>
+      <!-- Footer Row -->
+      <tr>
+        <td class="footer" bgcolor="#008ed3" style="padding: 20px 30px 15px 30px;">
+          <table align="center" class="" border="0">
+            <tr>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="mailto:info@horvathvisionsecure.com" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">Email us</a>
+              </td>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoiRlpPWWJyeWtJVVJZc05PRDZ1TkhtUnpYcGw4IiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL3JlZmVyX2FfZnJpZW5kX2VudGVyX2luZm8uYXNwP1VJRD0zZmVlZGJjNy04YTUwLTQ2ZWMtYTM1ZC05YzI4NWIyZDEyNzcmUFVJRD1lNGVhNDVlMy1mOTlmLTQ1OGItYjUwNi1mMGYxOWU5N2Q2ZWJcIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImQyMDIwNzFjMGYxNGM4MDZkYmY4MGRlOGIxNTBjMjVlMWJjYjhjZjNcIl19In0" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">Refer a friend</a>
+              </td>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="http://mandrillapp.com/track/click/30064959/www.horvathvisioncare.com?p=eyJzIjoidmpTbG9rTnBNLWNTZm1zOXVoUDRMVTVoR3lrIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvd3d3LmhvcnZhdGh2aXNpb25jYXJlLmNvbVxcXC9cIixcImlkXCI6XCJjY2VjMDRjZDI2NGI0NjQ0OGI2NjNhM2IyNTZhOTljNlwiLFwidXJsX2lkc1wiOltcImUxOWJjZWRmOTczYzAzNDhhYzQ1Nzk4ZTBiZTlkNTdjY2UwOTZlMTFcIl19In0" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">Our website</a>
+              </td>
+              <td class="hide" width="15%"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td class="footer" bgcolor="#008ed3" style="padding: 20px 30px 15px 30px;">
+          <table align="center" class="" border="0">
+            <tr>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoibTU2b2U3a2pkZzhuNDZWdGxXQTlHeUxWc0pnIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL1BhdGllbnRfU2lnbmF0dXJlRm9ySURfR0VULmFzcD9QVUlEPWU0ZWE0NWUzLWY5OWYtNDU4Yi1iNTA2LWYwZjE5ZTk3ZDZlYiZ1cmxUb0NvbnRpbnVlPVxcXC9kcmFkbWluXFxcL1BhdGllbnRfUHJlZmVyZW5jZXNfR0VULmFzcD9QVUlEPWU0ZWE0NWUzLWY5OWYtNDU4Yi1iNTA2LWYwZjE5ZTk3ZDZlYlwiLFwiaWRcIjpcImNjZWMwNGNkMjY0YjQ2NDQ4YjY2M2EzYjI1NmE5OWM2XCIsXCJ1cmxfaWRzXCI6W1wiZDIwMjA3MWMwZjE0YzgwNmRiZjgwZGU4YjE1MGMyNWUxYmNiOGNmM1wiXX0ifQ" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">My preferences</a>
+              </td>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoiWi1OWHB3cVZRNmUyMDRCa0p1Yy1WRk1ZOXBzIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL1BhdGllbnRfU3VydmV5LmFzcD9VSUQ9ZTRlYTQ1ZTMtZjk5Zi00NThiLWI1MDYtZjBmMTllOTdkNmViXCIsXCJpZFwiOlwiY2NlYzA0Y2QyNjRiNDY0NDhiNjYzYTNiMjU2YTk5YzZcIixcInVybF9pZHNcIjpbXCJkMjAyMDcxYzBmMTRjODA2ZGJmODBkZThiMTUwYzI1ZTFiY2I4Y2YzXCJdfSJ9" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">Review us</a>
+              </td>
+              <td class="hide" width="5%"></td>
+              <td align="center" width="150" class="footercopy footerbutton" style="font-family: sans-serif;font-size: 14px;color: #ffffff;">
+                <a href="http://mandrillapp.com/track/click/30064959/www.websystem3.com?p=eyJzIjoicXNsMU9JVmdLTm1lMWozcHVjb3c4T3d0Tk5vIiwidiI6MSwicCI6IntcInVcIjozMDA2NDk1OSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy53ZWJzeXN0ZW0zLmNvbVxcXC9kcmFkbWluXFxcL09wdE91dF9BcmVfVV9TdXJlLmFzcD9VSUQ9ZTRlYTQ1ZTMtZjk5Zi00NThiLWI1MDYtZjBmMTllOTdkNmViXCIsXCJpZFwiOlwiY2NlYzA0Y2QyNjRiNDY0NDhiNjYzYTNiMjU2YTk5YzZcIixcInVybF9pZHNcIjpbXCJkMjAyMDcxYzBmMTRjODA2ZGJmODBkZThiMTUwYzI1ZTFiY2I4Y2YzXCJdfSJ9" target="_blank" class="unsubscribe" style="color: #ffffff;text-decoration: none;">Remove me</a>
+              </td>
+              <td class="hide" width="15%"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!--[if (gte mso 9)|(IE)]>
+          </td>
+        </tr>
+    </table>
+    <![endif]-->
+    </td>
+  </tr>
+</table>
+<img src="http://mandrillapp.com/track/open.php?u=30064959&id=ccec04cd264b46448b663a3b256a99c6" height="1" width="1"></body>
+</html>
+--_av-z6N1rfG2VBcZC4FWyHRZHg--
+

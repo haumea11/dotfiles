@@ -1,0 +1,167 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp1022946oig;
+        Sun, 30 Aug 2015 11:21:23 -0700 (PDT)
+X-Received: by 10.194.108.5 with SMTP id hg5mr24378581wjb.25.1440958882914;
+        Sun, 30 Aug 2015 11:21:22 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f175.google.com (mail-wi0-f175.google.com. [209.85.212.175])
+        by mx.google.com with ESMTPS id e4si16327583wiy.79.2015.08.30.11.21.22
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 30 Aug 2015 11:21:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) client-ip=209.85.212.175;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wi0-f175.google.com with SMTP id ne3so53895393wic.0
+        for <kuiperhaumea@gmail.com>; Sun, 30 Aug 2015 11:21:22 -0700 (PDT)
+X-Received: by 10.180.83.7 with SMTP id m7mr1987711wiy.60.1440958881948;
+        Sun, 30 Aug 2015 11:21:21 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.131 with SMTP id w125csp1063058wmw;
+        Sun, 30 Aug 2015 11:21:20 -0700 (PDT)
+X-Received: by 10.202.174.141 with SMTP id x135mr10895649oie.50.1440958880169;
+        Sun, 30 Aug 2015 11:21:20 -0700 (PDT)
+Return-Path: <cjoyce@cdeducation.org>
+Received: from mail-oi0-f54.google.com (mail-oi0-f54.google.com. [209.85.218.54])
+        by mx.google.com with ESMTPS id cn1si7372569obb.93.2015.08.30.11.21.19
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 30 Aug 2015 11:21:20 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.218.54 is neither permitted nor denied by best guess record for domain of cjoyce@cdeducation.org) client-ip=209.85.218.54;
+Received: by mail-oi0-f54.google.com with SMTP id i18so44206626oib.3
+        for <markiewicz.john@gmail.com>; Sun, 30 Aug 2015 11:21:19 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=ka3I81VqerOIxt4akmT80e/UJpRG8Y3vAAyo+uF2Oug=;
+        b=O90EJ6Xn+uJr0YqBOJ/CoCPii4e48nPC3PJ+WhZBZ4taW3jpbEWhzsGkxjVm0GjaaR
+         Yl2gbPxUsZvLQUyVeKHeDCH02r2ItYQxyNCCIj/jXokCtkFTnezHFJH+6fX8v7bJfPBH
+         51MwbQa/QuRo+2XPUZe3Db+T+nUHdkCssowBBEWjskm6JRlXM2LtBzfwgwlTrFeJdZ7S
+         sL3uGwNu84Aoa3aLZt9Xw68hPHR/FyRRr/8WpbRdqcj67uLP7ZBzGN1JlOPfK/79JbN5
+         i5beQCCR3mwYVL28SxoT5m39oN9W9XMmq+3tHNs8jCbfdsEEq6Bl8BdgeovoFwqP59rc
+         1URg==
+X-Gm-Message-State: ALoCoQlVwGi8UXgS18+EixUxVK972OqsNKGCYb0Sa9DFQmvK2UtB1MScBSCuvkeRoOzXXpATgbh5
+MIME-Version: 1.0
+X-Received: by 10.202.79.149 with SMTP id d143mr3402064oib.120.1440958879316;
+ Sun, 30 Aug 2015 11:21:19 -0700 (PDT)
+Received: by 10.60.160.10 with HTTP; Sun, 30 Aug 2015 11:21:19 -0700 (PDT)
+Date: Sun, 30 Aug 2015 14:21:19 -0400
+Message-ID: <CAGs8aKphThKJvk7MOhBudQL1DgJQmz=n2uy8enosBca33t1vBA@mail.gmail.com>
+Subject: Parent Volunteers for Uniform Fittings
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: Abby Demboski <dembo@columbus.rr.com>, Alex Bryant <barry.bryant@prodigy.net>, 
+	Alison Lang <aliswanco@gmail.com>, Alison Lang <mjlang4@gmail.com>, 
+	Anna Ehret <ehretanna05@aol.com>, Anna Ehret <jaehret1991@aol.com>, 
+	Carly Griffith <cgriffith333@gmail.com>, Carly Griffith <jprindler@columbus.rr.com>, 
+	Carly Stang <carly.stang1@gmail.com>, Carly Stang <stanger1@yahoo.com>, 
+	Carly Stang <tstang@fultoncommunications.com>, Chris Carter <ccarter51@gmail.com>, 
+	Chris Carter <mcloughlin.1@osu.edu>, David Skulich <jskulich@columbus.rr.com>, 
+	Dylan Murphy <elizabeth.murphy@johnsonelectric.com>, 
+	Dylan Murphy <murph255@columbus.rr.com>, Ellena Yohannes <nlijam@cscc.edu>, 
+	Ellena Yohannes <yyohannes@gmail.com>, Elliot Stevens <kmstevens@columbus.rr.com>, 
+	Emily Kring <dkring4@gmail.com>, Emily Kring <E.kring36@gmail.com>, 
+	Emily Kring <jkring@columbus.rr.com>, Emma Koehler <e.koehler00@gmail.com>, 
+	Emma Koehler <lizkoehler217@yahoo.com>, Evan Rasor <rasor451@sbcglobal.net>, 
+	Ginny Pajor <kathypajor@yahoo.com>, Ginny Pajor <ppajor@yahoo.com>, 
+	Hayley Hoying <mhoying@insight.rr.com>, John Markiewicz <markiewicz.john@gmail.com>, 
+	John Markiewicz <shannon.markiewicz@gmail.com>, Jullian Fountain <ellyn.fountain@gmail.com>, 
+	Jullian Fountain <fountainjillian@gmail.com>, Jullian Fountain <kurt.fountain@gmail.com>, 
+	Justin Weltin <jkjweltin@aol.com>, Justin Weltin <jweltin2@gmail.com>, 
+	"Kathryn O'Sullivan" <ironcad.3@gmail.com>, "Kathryn O'Sullivan" <mosulliv@cdeducation.org>, 
+	Lizz Turnbull <clairemedic@aol.com>, "Makaela O'Reilly" <1970sue@sbcglobal.net>, 
+	"Makaela O'Reilly" <bernie@secondchancecolumbus.com>, "Margaret O'Brien" <danobrien35@aol.com>, 
+	"Margaret O'Brien" <jloobrien@aol.com>, "Margaret O'Brien" <mobrien74@gmail.com>, 
+	Matthew Kent <cokent@cdeducation.org>, Matthew Kent <kevin.kent@osumc.edu>, 
+	Maya Steller <jpsteller@yahoo.com>, Maya Steller <mlsteller@yahoo.com>, 
+	Megan Milam <jmilam07@gmail.com>, Morgan Hull <chull@wowway.com>, 
+	Nina Buoni <tmbuoni@sbcglobal.net>, Nolan Kelly <kelly_6@att.net>, Nolan Kelly <mkelly@mecsrc.com>, 
+	Rachel Smith <rsmith46@columbus.rr.com>, Ryan Mar <2rtmar.ac@gmail.com>, 
+	Ryan Mar <cmar@cdeducation.org>, Ryan Mar <cwmar1@aol.com>, 
+	Sara Dowler <kathy.dowler@sbcglobal.net>, Sarah Bender <bendertm@yahoo.com>, 
+	Shannon Becker <becker.180@beckerplanet.com>, Shannon Becker <mbecker@beckerplanet.com>, 
+	Shannon Boyne <skittles101@columbus.rr.com>, Shannon Boyne <trsshome@columbus.rr.com>, 
+	Steven Gullo <prgcmg@gmail.com>, Steven Gullo <sgullo6599@gmail.com>, 
+	Tommy Anglim <ranglim@columbus.rr.com>, Tori Morell <jacquie_morell@yahoo.com>, 
+	Tori Morell <morell_john@yahoo.com>, Zach Uhazy <uhazy@sbcglobal.net>
+Content-Type: multipart/alternative; boundary=001a113d6680235f17051e8b62d8
+
+--001a113d6680235f17051e8b62d8
+Content-Type: text/plain; charset=UTF-8
+
+Hello Concert Choir Families,
+The first three days of school came with a lot of energy and excitement. I
+was very impressed with the sound that the Concert Choir was making in
+these first few days. I think it's going to be a great year for this group.
+
+Since we combined groups this year and added a large number of students to
+the Concert Choir, there are a lot of students who need fitted for new
+uniforms. I would like to get these fittings done as early as possible so
+that I can order any new pieces and there is time to complete alterations
+as needed before our first concert in October.
+
+Are there any parents who would be available to come and help fit students
+for uniforms on either Thursday or Friday this week (September 3rd and
+4th)? Class is from 11:52-12:41 on Thursday and from 11:32-12:21 on Friday.
+
+I will provide all the measurement information as well as sizes for
+students to try on.
+
+Please let me know if you're available to help on either day,
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a113d6680235f17051e8b62d8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Concert Choir Families,<div>The first three days of =
+school came with a lot of energy and excitement. I was very impressed with =
+the sound that the Concert Choir was making in these first few days. I thin=
+k it&#39;s going to be a great year for this group.=C2=A0</div><div><br></d=
+iv><div>Since we combined groups this year and added a large number of stud=
+ents to the Concert Choir, there are a lot of students who need fitted for =
+new uniforms. I would like to get these fittings done as early as possible =
+so that I can order any new pieces and there is time to complete alteration=
+s as needed before our first concert in October.</div><div><br></div><div>A=
+re there any parents who would be available to come and help fit students f=
+or uniforms on either Thursday or Friday this week (September 3rd and 4th)?=
+ Class is from 11:52-12:41 on Thursday and from 11:32-12:21 on Friday.</div=
+><div><br></div><div>I will provide all the measurement information as well=
+ as sizes for students to try on.=C2=A0</div><div><br></div><div>Please let=
+ me know if you&#39;re available to help on either day,=C2=A0</div><div><di=
+v><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div style=3D"margin=
+:0in 0in 0pt"><b><span style=3D"font-size:14pt"><font color=3D"#000000" fac=
+e=3D"Calibri">Christen Joyce</font></span></b></div><font color=3D"#000000"=
+ face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"=
+><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">=
+Choral Director</font></span></b></p><font color=3D"#000000" face=3D"Times =
+New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=
+=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3"><span><font col=
+or=3D"#830b2c">Bishop</font></span> <span><font color=3D"#830b2c">Watterson=
+</font></span> High School</font></span></b></p><font color=3D"#000000" fac=
+e=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><sp=
+an><font color=3D"#000000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%2861=
+4%29%20268-8671" value=3D"+16142688671" target=3D"_blank"><font color=3D"#1=
+155cc">(614) 268-8671</font></a> x 289</font></span></p><font color=3D"#000=
+000" face=3D"Times New Roman" size=3D"3"></font><div style=3D"margin:0in 0i=
+n 0pt"><span style=3D"color:rgb(131,11,44)"><a href=3D"http://www.bishopwat=
+terson.com/" target=3D"_blank"><span style=3D"color:rgb(131,11,44)"><font f=
+ace=3D"Calibri" size=3D"3">www.bishopwatterson.com</font></span></a></span>=
+</div><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)=
+"><img width=3D"420" height=3D"151" src=3D"https://docs.google.com/uc?expor=
+t=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviI=
+vWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div></div><=
+/div></div><div dir=3D"ltr"><div></div></div></span></div></div></div></div=
+></div>
+</div></div>
+
+--001a113d6680235f17051e8b62d8--

@@ -1,0 +1,295 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.104.33 with SMTP id d33csp2571176oic;
+        Tue, 10 May 2016 09:40:15 -0700 (PDT)
+X-Received: by 10.28.111.14 with SMTP id k14mr18617286wmc.32.1462898415052;
+        Tue, 10 May 2016 09:40:15 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x233.google.com (mail-wm0-x233.google.com. [2a00:1450:400c:c09::233])
+        by mx.google.com with ESMTPS id j13si3501294wmd.16.2016.05.10.09.40.14
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 10 May 2016 09:40:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::233 as permitted sender) client-ip=2a00:1450:400c:c09::233;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@berniesanders.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::233 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wm0-x233.google.com with SMTP id g17so31423359wme.1
+        for <kuiperhaumea@gmail.com>; Tue, 10 May 2016 09:40:14 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:to:from
+         :reply-to:subject:message-id:list-unsubscribe:mime-version;
+        bh=EmhXMMxyU658Q4Vev7RH20dg+D09DDO2SgaXaWet5Ow=;
+        b=D9gceQSUbEI/DVJQw3huL+UVJkdacV2wevGT7w9drY+JuHq1mrExghhSPww0GJAkdd
+         MV+C1Q2/As2zKg4KhBUBLfR+FKKAZgd9Ebb3RNezGhPQmA8E+KjRiaqZCQpcreANCHAp
+         RuF799nsLEutxhhfqkk0l0DxWsX/O9ENKT+p4zp8LzVgfeKHSfjFmVcM98TEWBYCYLKX
+         lHwKbkhi95EYzqqoMjUa5RGVDn5B+93mEnpljpR6pj6JV2aY6tw6IzIqdKxT2SSPjG0R
+         V/lW/hlChlSN7vW1yQKV+lI5hZ8dq881nJBtBEeKESfnxQHw9bU17bLHJGkb3qYq0dPB
+         FP3w==
+X-Gm-Message-State: AOPr4FXVsRfHUi1MEfqdikydw0jQpGQ8SESqkwaJO66vSHO9uPzzeyBg6PFcjQFAxZS6yMcIo5owsACIpdNt6tpFtc0KXRU=
+X-Received: by 10.194.82.41 with SMTP id f9mr4502181wjy.169.1462898414601;
+        Tue, 10 May 2016 09:40:14 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.65.215 with SMTP id o206csp2209249wma;
+        Tue, 10 May 2016 09:40:13 -0700 (PDT)
+X-Received: by 10.140.108.247 with SMTP id j110mr43071209qgf.54.1462898413541;
+        Tue, 10 May 2016 09:40:13 -0700 (PDT)
+Return-Path: <BwBEWwoBVwJsAFZRBV1WBVcACVZWVQdVVzBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwFVAE@bounce.bluestatedigital.com>
+Received: from mta-dock-front-5.bluestatedigital.com (mta-dock-front-5.bluestatedigital.com. [64.94.250.8])
+        by mx.google.com with ESMTPS id z65si2007082qka.102.2016.05.10.09.40.13
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 10 May 2016 09:40:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of BwBEWwoBVwJsAFZRBV1WBVcACVZWVQdVVzBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwFVAE@bounce.bluestatedigital.com designates 64.94.250.8 as permitted sender) client-ip=64.94.250.8;
+Received: from bounce.bluestatedigital.com (unknown [10.0.200.135])
+	by mta-dock-front-5.bluestatedigital.com (Postfix) with ESMTP id 3r44cR5gTSz14Xdn
+	for <markiewicz.john@gmail.com>; Tue, 10 May 2016 16:35:35 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=berniesanders.com;
+	s=berniesanderskey; t=1462898135;
+	bh=EmhXMMxyU658Q4Vev7RH20dg+D09DDO2SgaXaWet5Ow=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe;
+	b=ZF94qGkP6D6CmEczmVcOZPkGT6K95jT/mQQGin06AfMoeVlcuyHgSlsQkhADfudsr
+	 9FaeAWqPWNJJ35LAaDs3XHsTqpovi5JLIS+gXQUaVNNxHVVg5af1/zBaGYCX00d2HO
+	 DAGTNFNl6vMG+CmLkXSDAM5eDpGJUb2Jea1FJIeo=
+Received: from phpmailer 
+	by bounce.bluestatedigital.com with local (PHPMailer);
+	Tue, 10 May 2016 16:35:35 +0000
+Date: Tue, 10 May 2016 16:35:35 +0000
+To: John Markiewicz <markiewicz.john@gmail.com>
+From: "BernieSanders.com" <info@berniesanders.com>
+Reply-to: Info@BernieSanders.com
+Subject: Breaking news: Clinton TV ads back on
+Message-ID: <5413be74938e63285438df122eac05de@bounce.bluestatedigital.com>
+X-Mailer: PHPMailer [version 1.71-blue_mailer]
+X-maillist-id: 3fd48ed499dbbbf5
+X-rpcampaign: rp_1092752
+X-maillist-guid: BwBEWwoBVwJsAFZRBV1WBVcACVZWVQdVVzBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwFVAE
+List-Unsubscribe: <https://go.berniesanders.com/unsubscribe?email=markiewicz.john%40gmail.com>, <mailto:BwBEWwoBVwJsAFZRBV1WBVcACVZWVQdVVzBfAkRfXAESDFVPTQ4JXAtzV1hQDF9PAFZdOwwFVAE@bounce.bluestatedigital.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5413be74938e63285438df122eac05de"
+
+
+--b1_5413be74938e63285438df122eac05de
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+John -
+
+The corporate media have always treated this race as if it was over. The =
+political establishment hopes we'll all just fall in line. But if you're =
+looking for a sign that the Clinton campaign knows this primary is far =
+from finished, here it is:
+
+"Clinton back on the air with TV ads" - Politico, May 9, 2016
+
+The article concludes with this line, "Clinton's campaign is eager to stop =
+Sanders from gaining momentum with a string of victories through May." But =
+here's the truth: there is no stopping a set of ideas whose time has come, =
+no matter how many ads they run.
+
+West Virginia votes today. Oregon and Kentucky hold their primaries in one =
+week. It's been a pretty crazy election, and I know that if we continue to =
+stand together, anything is possible.
+
+Add another $5 contribution to our campaign today and we are going to do =
+very well in West Virginia, Oregon, and Kentucky. From there it's on to =
+California, New Jersey and the rest of the June 7th states, where there is =
+so much at stake.
+
+https://secure.actblue.com/contribute/page/every-last-vote
+
+Last week's victory in Indiana was a tremendous surprise to the corporate =
+media and political establishment. Hopefully we'll enjoy the same result =
+later tonight in West Virginia and in Oregon and Kentucky next week. =
+Bernie's working hard, the staff and volunteers are doing the same. The =
+rest is up to all of us.
+
+In solidarity,
+
+Jeff Weaver
+Campaign Manager
+Bernie 2016
+
+
+
+
+
+
+
+
+
+
+
+
+----
+Paid for by Bernie 2016
+(not the billionaires)
+
+PO Box 905 - Burlington VT 05402 United States - (855) 4-BERNIE
+
+This email was sent to markiewicz.john@gmail.com. Email is one of the most =
+important tools we have to reach supporters like you, but if you=E2=80=99d =
+like to, click here to unsubscribe: =
+https://go.berniesanders.com/page/unsubscribe/.  Stand against the =
+powerful special interests who are systematically buying our Congress and =
+have their sights set on the presidency by contributing to Bernie here: =
+https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=3Demail_=
+footer.
+
+
+--b1_5413be74938e63285438df122eac05de
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" =
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<?xml encoding=3D"UTF-8"??>
+<html><head><style>
+div{
+font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", =
+sans-serif;=20
+   font-weight: 400;
+font-size: 17px;
+line-height:1.4;
+color: #364350;
+}
+a{
+color: #147FD7;
+}
+.express-lane-links .link{
+  margin: 0;
+}
+.express-lane-links .link a{
+  font-family: sans-serif;
+  font-size: 18px;
+  background-color: #147FD7;
+  border-top: 1px solid #1e88e0;
+  border-bottom: 2px solid #0e72c4;
+  width: 290px;
+  margin: 12px auto;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  padding: 12px 5px;
+  font-weight:700;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.075em;
+}
+.express-lane-links .link a:hover{
+  background-color: #1e88e0;
+}
+.express-lane-links .link.other a{
+  font-size: 17px;
+}
+</style></head><body><h1 style=3D"text-align: center; padding: 25px 0; =
+border: 0; margin: 0;"><img width=3D"200" alt=3D"Bernie Sanders for =
+President" =
+src=3D"https://s.bsd.net/bernie16/main/page/-/logo-2x.png"></h1>
+<div style=3D"max-width: 600px; margin: 0 auto;"><p =
+style=3D"font-size:17px; line-height:140%;">
+	John -</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	The corporate media have always treated this race as if it was over. The =
+political establishment hopes we&rsquo;ll all just fall in line. But if =
+you&rsquo;re looking for a sign that the Clinton campaign knows this =
+primary is far from finished, here it is:</p>
+<p align=3D"center" style=3D"font-size:17px; line-height:140%;">
+	"Clinton back on the air with TV ads" - <em>Politico</em>, <a href=3D"#" =
+style=3D"text-decoration:none; color: #364350;">May 9, 2016</a></p>
+<p style=3D"font-size:17px; line-height:140%;">
+	The article concludes with this line, "Clinton&rsquo;s campaign is eager =
+to stop Sanders from gaining momentum with a string of victories through =
+May." But here&rsquo;s the truth: there is no stopping a set of ideas =
+whose time has come, no matter how many ads they run.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	West Virginia votes <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">today</a>. Oregon and Kentucky hold their primaries <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">in one =
+week</a>. It&rsquo;s been a pretty crazy election, and I know that if we =
+continue to stand together, anything is possible.</p>
+<p>
+	</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"https://secure.actblue.com/contribute/page/every-last-vote?ref=
+code=3Dem160510-s1-full" style=3D"text-decoration:underline;" =
+title=3D"https://secure.actblue.com/contribute/page/every-last-vote?refcod=
+e=3Dem160510-s1-full"><strong>Add another $5 contribution to our campaign =
+today and we are going to do very well in West Virginia, Oregon, and =
+Kentucky. From there it&rsquo;s on to California, New Jersey and the rest =
+of the June 7th states, where there is so much at stake.</strong></a></p>
+<p>
+	</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	<a href=3D"#" style=3D"text-decoration:none; color: #364350;">Last =
+week&rsquo;s</a> victory in Indiana was a tremendous surprise to the =
+corporate media and political establishment. Hopefully we&rsquo;ll enjoy =
+the same result later <a href=3D"#" style=3D"text-decoration:none; color: =
+#364350;">tonight</a> in West Virginia and in Oregon and Kentucky <a =
+href=3D"#" style=3D"text-decoration:none; color: #364350;">next week</a>. =
+Bernie&rsquo;s working hard, the staff and volunteers are doing the same. =
+The rest is up to all of us.</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	In solidarity,</p>
+<p style=3D"font-size:17px; line-height:140%;">
+	Jeff Weaver<br>
+	Campaign Manager<br>
+	Bernie 2016</p>
+<br><p align=3D"center">
+	<strong><a href=3D"https://secure.actblue.com/contribute/page/every-last-=
+vote?refcode=3Dem160510-s1-full" style=3D"font-family: sans-serif; =
+font-size: 18px; background-color: #E9514F; border-top: 1px solid #E9514F; =
+border-bottom: 2px solid #E9514F; width: 275px; margin: 12px auto; =
+border-radius: 4px; text-align: center; color: white; text-decoration: =
+none; padding: 12px 5px 11px; font-weight:700; display: block; =
+text-transform: uppercase; letter-spacing: 0.075em;" title=3D"https://secu=
+re.actblue.com/contribute/page/every-last-vote?refcode=3Dem160510-s1-full"=
+>Contribute</a></strong></p>
+<br><br><br><br><br><br><br><br><p>
+	&nbsp;</p>
+<p>
+	&nbsp;</p></div>
+<div class=3D"footer" style=3D"text-align: center; margin-top: 40px; =
+padding-top: 15px; border-top: 1px solid #aaa;">
+
+<p class=3D"disclaimer" style=3D"display: inline-block; border: 1px solid =
+#555; padding: 5px 10px; color: #444; margin-bottom: 5px;">Paid for by =
+Bernie 2016</p>
+<p style=3D"font-size: 11px; margin: 5px 0 0;"><img =
+src=3D"https://s.bsd.net/bernie16/main/page/-/website/billionaires.png" =
+width=3D"195" height=3D"28" alt=3D"(not the billionaires)"></p>
+
+<p style=3D"font-size: 9px; margin: 15px 0 15px; color: #444;">PO Box 905 =
+- Burlington VT 05402 United States - (855) 4-BERNIE</p>
+
+<p style=3D"font-size: 9px; color: #444;">This email was sent to =
+markiewicz.john@gmail.com. If you need to update or change your =
+information or email address, click here to <a href=3D"https://go.berniesa=
+nders.com/page/s/change-your-information?source=3Demail_footer" =
+title=3D"https://go.berniesanders.com/page/s/change-your-information?sourc=
+e=3Demail_footer">update your info</a>. Email is one of the most important =
+tools we have to reach supporters like you, but you can let us know if =
+you'd like to <a href=3D"https://go.berniesanders.com/page/s/fewer-emails?=
+source=3Demail_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D4320=
+1" title=3D"https://go.berniesanders.com/page/s/fewer-emails?source=3Demai=
+l_footer&amp;email=3Dmarkiewicz.john@gmail.com&amp;zip=3D43201">receive =
+fewer emails</a>. We'd hate to see you go, but if you need to do so, click =
+here to <a href=3D"https://go.berniesanders.com/page/unsubscribe/" =
+title=3D"https://go.berniesanders.com/page/unsubscribe/">unsubscribe</a>. =
+Stand against the powerful special interests who are systematically buying =
+our Congress and have their sights set on the presidency by <a =
+href=3D"https://secure.actblue.com/contribute/page/lets-go-bernie?refcode=
+=3Demail_footer" title=3D"https://secure.actblue.com/contribute/page/lets-=
+go-bernie?refcode=3Demail_footer">contributing to Bernie here</a>.</p>
+</div><img src=3D"https://go.berniesanders.com/page/o/24fb0125/43904886/43=
+2cf5c/620653a6/297966705/open.gif" width=3D"1" height=3D"1"></body></html>
+
+
+
+--b1_5413be74938e63285438df122eac05de--
+
+

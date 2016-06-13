@@ -1,0 +1,92 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1952910oig;
+        Thu, 19 Nov 2015 05:26:59 -0800 (PST)
+X-Received: by 10.28.170.19 with SMTP id t19mr9966097wme.65.1447939619512;
+        Thu, 19 Nov 2015 05:26:59 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-f50.google.com (mail-wm0-f50.google.com. [74.125.82.50])
+        by mx.google.com with ESMTPS id s202si8159635wmb.21.2015.11.19.05.26.59
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 05:26:59 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.50 as permitted sender) client-ip=74.125.82.50;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.50 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@github.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+Received: by mail-wm0-f50.google.com with SMTP id v187so388wmv.1
+        for <kuiperhaumea@gmail.com>; Thu, 19 Nov 2015 05:26:59 -0800 (PST)
+X-Received: by 10.28.142.205 with SMTP id q196mr16821306wmd.42.1447939619285;
+        Thu, 19 Nov 2015 05:26:59 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1901387wme;
+        Thu, 19 Nov 2015 05:26:58 -0800 (PST)
+X-Received: by 10.129.50.140 with SMTP id y134mr6429406ywy.270.1447939618586;
+        Thu, 19 Nov 2015 05:26:58 -0800 (PST)
+Return-Path: <noreply@github.com>
+Received: from github-smtp2a-ext-cp1-prd.iad.github.net (github-smtp2-ext7.iad.github.net. [192.30.252.198])
+        by mx.google.com with ESMTPS id f186si5863186ywa.135.2015.11.19.05.26.58
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 05:26:58 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@github.com designates 192.30.252.198 as permitted sender) client-ip=192.30.252.198;
+Date: Thu, 19 Nov 2015 05:26:58 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1447939618;
+	bh=WOc6jFfakaREtwmuCizZZ36gegaa0jdfCEjo7Fj62Tg=;
+	h=From:Reply-To:To:Subject:List-ID:List-Archive:List-Post:
+	 List-Unsubscribe:From;
+	b=ppdis4yS14tLIQJa/jg12A68zH7Qvdo3E+YVNvOezvDbj29FEAGhzMMzTXS4hE8HJ
+	 LSVoRDv+WKBiVJPMI0L6B17+39OSZzgDyZiFurI3suxfg7OMGrstTuA/uHgjbgzlcs
+	 Ab1XKvLK28RMdZRsRBLSDx91lEr4A4DCKpY3mNgo=
+From: chezstov <notifications@github.com>
+Reply-To: Airblader/i3 <reply+00a6914d9208d5bc4748d0d0e97a72eb1b38560c838d752592cf000000011265902292a169ce0705b08a@reply.github.com>
+To: Airblader/i3 <i3@noreply.github.com>
+Message-ID: <Airblader/i3/issues/64@github.com>
+Subject: [i3] Merging with i3 (#64)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_564dce2232d08_30353f860b97b2bc1061021";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: chezstov
+X-GitHub-Recipient: haumea11
+List-ID: Airblader/i3 <i3.Airblader.github.com>
+List-Archive: https://github.com/Airblader/i3
+List-Post: <mailto:reply+00a6914d9208d5bc4748d0d0e97a72eb1b38560c838d752592cf000000011265902292a169ce0705b08a@reply.github.com>
+List-Unsubscribe: <mailto:unsub+00a6914d9208d5bc4748d0d0e97a72eb1b38560c838d752592cf000000011265902292a169ce0705b08a@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AKaRTdDyoq-8DDblVUgjqUxQcRbeGduGks5pHcWigaJpZM4GliIX>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: markiewicz.john@gmail.com
+
+
+----==_mimepart_564dce2232d08_30353f860b97b2bc1061021
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+How about to merge all features (gaps, smart borders, i3bar height) to official i3?
+
+---
+Reply to this email directly or view it on GitHub:
+https://github.com/Airblader/i3/issues/64
+----==_mimepart_564dce2232d08_30353f860b97b2bc1061021
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>How about to merge all features (gaps, smart borders, i3bar height) to official i3?</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">&mdash;<br>Reply to this email directly or <a href="https://github.com/Airblader/i3/issues/64">view it on GitHub</a>.<img alt="" height="1" src="https://github.com/notifications/beacon/AKaRTTSSNrwJg5qgqQQ66cUb8-MhTcqBks5pHcWigaJpZM4GliIX.gif" width="1" /></p>
+<div itemscope itemtype="http://schema.org/EmailMessage">
+<div itemprop="action" itemscope itemtype="http://schema.org/ViewAction">
+  <link itemprop="url" href="https://github.com/Airblader/i3/issues/64"></link>
+  <meta itemprop="name" content="View Issue"></meta>
+</div>
+<meta itemprop="description" content="View this Issue on GitHub"></meta>
+</div>
+
+----==_mimepart_564dce2232d08_30353f860b97b2bc1061021--

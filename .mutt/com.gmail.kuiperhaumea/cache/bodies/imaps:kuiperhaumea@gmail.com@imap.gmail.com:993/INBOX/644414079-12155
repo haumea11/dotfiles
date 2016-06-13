@@ -1,0 +1,94 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp202154oid;
+        Wed, 1 Jul 2015 10:38:58 -0700 (PDT)
+X-Received: by 10.42.203.4 with SMTP id fg4mr5575871icb.52.1435772338391;
+        Wed, 01 Jul 2015 10:38:58 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f179.google.com (mail-wi0-f179.google.com. [209.85.212.179])
+        by mx.google.com with ESMTPS id b18si2838687igr.17.2015.07.01.10.38.58
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 01 Jul 2015 10:38:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.179 as permitted sender) client-ip=209.85.212.179;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.179 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@meetup.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-f179.google.com with SMTP id a1so131722169wig.0
+        for <kuiperhaumea@gmail.com>; Wed, 01 Jul 2015 10:38:57 -0700 (PDT)
+X-Received: by 10.180.75.78 with SMTP id a14mr9022676wiw.68.1435772337744;
+        Wed, 01 Jul 2015 10:38:57 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp34189wmd;
+        Wed, 1 Jul 2015 10:38:57 -0700 (PDT)
+X-Received: by 10.170.225.66 with SMTP id r63mr25244826ykf.23.1435772337030;
+        Wed, 01 Jul 2015 10:38:57 -0700 (PDT)
+Return-Path: <info@meetup.com>
+Received: from mail4.nyi.meetup.com (mail4.nyi.meetup.com. [64.90.170.34])
+        by mx.google.com with ESMTP id f65si1904507ywe.202.2015.07.01.10.38.56
+        for <markiewicz.john@gmail.com>;
+        Wed, 01 Jul 2015 10:38:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of info@meetup.com designates 64.90.170.34 as permitted sender) client-ip=64.90.170.34;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=meetup; d=meetup.com;
+ h=From:Sender:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Reply-To:List-Id:Message-ID:Date; i=COhPy-announce@meetup.com;
+ bh=M4meWKfwIjvEl1nQ78d9m2+d1d4=;
+ b=Fq/p3RHiYK8A9cTKe656nVcKs47XZqA14YQ1XZVwoHAbRkkXI/eo8K1vmhuRFShPR9QynoH2K3v0
+   J3px++HvOzJUbqx4zlB7tHMELpnbbxPtcGy/0OLs5K/qAFjif08virw1h+4Bz3VyGr9FbCgcJGLe
+   keHW/p68fc9bT86L1tM=
+Received: by mail4.nyi.meetup.com id higir215obon for <markiewicz.john@gmail.com>; Wed, 1 Jul 2015 13:38:55 -0400 (envelope-from <info@meetup.com>)
+Received: by pmta0.phi.meetup.com id higiqu15odg4 for <markiewicz.john@gmail.com>; Wed, 1 Jul 2015 13:38:55 -0400 (envelope-from <info@meetup.com>)
+From: Brian Costlow <brian.costlow@gmail.com>
+Sender: COhPy-announce@meetup.com
+To: COhPy-announce@meetup.com
+Subject: [COhPy] Meetup: PyOhio
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-MEETUP-TRACK: bc1
+Reply-To: brian.costlow@gmail.com
+Mailing-List: list COhPy-list@meetup.com; contact postmaster@meetup.com
+List-Id: <COhPy-list.meetup.com>
+Errors-To: info@meetup.com
+Precedence: list
+X-MEETUP-RECIP-ID: 184271242
+X-MEETUP-MESG-ID: 77301106
+Message-ID: <257609057.1435772334927.JavaMail.nobody@james1.pvt.meetup.com>
+Date: Wed, 1 Jul 2015 13:38:55 -0400
+
+<html><body><div style=3D"color:#333;font-family:Verdana,Arial,sans-serif;f=
+ont-size:12px;"><font face=3D"verdana,arial,sans-serif"><p>I've updated thi=
+s Meetup. For more details, see the full listing:</p>
+<p><br /> <a href=3D"http://www.meetup.com/Central-Ohio-Python-Users-Group/=
+events/223630698/">http://www.meetup.com/Central-Ohio-Python-Users-Group/ev=
+ents/223630698/</a></p>
+<p><strong>When</strong>: Saturday, August 1, 2015 8:00 AM</p>
+<p><strong>Where</strong>: The Ohio Union at the Ohio State University<br /=
+> 1739 N. High Street <br /> Columbus, OH 43201</p>
+<p>=C2=A0</p>
+<br /><br />
+<br />
+<br />
+--<br />
+This message was sent by Brian Costlow (brian.costlow@gmail.com) from <a hr=
+ef=3D"http://www.meetup.com/Central-Ohio-Python-Users-Group/">The Central O=
+hio Python Users Group</a>.<br />
+To learn more about Brian Costlow, visit his/her <a href=3D"http://www.meet=
+up.com/Central-Ohio-Python-Users-Group/members/2288379/">member profile</a>=
+<br />
+To report this message or block the sender, please <a href=3D"http://www.me=
+etup.com/Central-Ohio-Python-Users-Group/abuse/2288379/?table_name=3Dml&tab=
+le_id=3D77301106">click here</a><br>
+To unsubscribe from special announcements from your Organizer(s), <a href=
+=3D"http://www.meetup.com/Central-Ohio-Python-Users-Group/optout/?submit=3D=
+true&_ms_unsub=3Dtrue&email=3DorgBdcst">click here</a>
+<br /><br />
+<small style=3D"color:gray">
+=09=09<a href=3D"#" style=3D"color:#ccc;text-decoration:none;cursor:default=
+;">Meetup, POB 4668 #37895 NY NY USA 10163</a> | support@meetup.com
+</small>
+=09<img src=3D"http://www.meetup.com/z/img/bc1/MSMxODQyNzEyNDIjMjAxNS0wNy0w=
+MSAxMzozODo1NCMzNTM5YzllZC0wNjczLTQ0YTUtOTc2Yy04MDkwNGNiNjI4MTE%3D/blank.gi=
+f" width=3D"0" height=3D"0" border=3D"0" />
+</div></body></html>

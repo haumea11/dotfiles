@@ -1,0 +1,109 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.73.69 with SMTP id w66csp2471128oia;
+        Mon, 11 Jan 2016 17:15:25 -0800 (PST)
+X-Received: by 10.28.137.213 with SMTP id l204mr17540891wmd.100.1452561324947;
+        Mon, 11 Jan 2016 17:15:24 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22b.google.com (mail-wm0-x22b.google.com. [2a00:1450:400c:c09::22b])
+        by mx.google.com with ESMTPS id za9si93137036wjc.56.2016.01.11.17.15.24
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Jan 2016 17:15:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) client-ip=2a00:1450:400c:c09::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x22b.google.com with SMTP id f206so254705702wmf.0
+        for <kuiperhaumea@gmail.com>; Mon, 11 Jan 2016 17:15:24 -0800 (PST)
+X-Received: by 10.28.21.19 with SMTP id 19mr15691341wmv.43.1452561324731;
+        Mon, 11 Jan 2016 17:15:24 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewiczjohn@gmail.com
+Received: by 10.28.221.69 with SMTP id u66csp2264227wmg;
+        Mon, 11 Jan 2016 17:15:23 -0800 (PST)
+X-Received: by 10.50.142.73 with SMTP id ru9mr15290703igb.49.1452561323034;
+        Mon, 11 Jan 2016 17:15:23 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-io0-x22b.google.com (mail-io0-x22b.google.com. [2607:f8b0:4001:c06::22b])
+        by mx.google.com with ESMTPS id 197si2584291iof.186.2016.01.11.17.15.22
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Jan 2016 17:15:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4001:c06::22b as permitted sender) client-ip=2607:f8b0:4001:c06::22b;
+Received: by mail-io0-x22b.google.com with SMTP id g73so161218926ioe.3;
+        Mon, 11 Jan 2016 17:15:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=subject:to:references:from:message-id:date:user-agent:mime-version
+         :in-reply-to:content-type:content-transfer-encoding;
+        bh=xDVeoPFOi5ipbAW5WWie7ECVEUOtF2HpZ3BGNdzK+rg=;
+        b=Je9l/+2SG4IdqZctPP5v/9l8Par12NqTIKo/Xa333GLAF7PzyY3lS2IIPletALhKKp
+         lJrMC5WG5WzlG0ZNTAB4oeB+U2HR7MKCVTN5NHsmex8CCniQPGdTElo+TUKvaeYaeP7K
+         OE26QTKDU+Ilj2NhFcrsD2d6LxbyDL3lkPSox2B1H7QfUIHZ03vd6+ZxooUqOxETSp0+
+         SzUAR7Pqw+vN2KkrBwZ6TDl67mgrqR3HtDr+kZ1h044r4gwvpwwfAN/QiIWuVVTlsc6u
+         g1c4r0KeluzLt3S7JDcVXmaDcMxMC8tyhxSKZqSA6PDLMQI1NHI9ezcyUadrDl/uL+lH
+         gbKQ==
+X-Received: by 10.107.2.150 with SMTP id 144mr71418456ioc.55.1452561322712;
+        Mon, 11 Jan 2016 17:15:22 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from ?IPv6:2605:a000:1119:4089:3be1:be33:254c:9aa6? ([2605:a000:1119:4089:3be1:be33:254c:9aa6])
+        by smtp.googlemail.com with ESMTPSA id w191sm30402572iod.30.2016.01.11.17.15.21
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 11 Jan 2016 17:15:22 -0800 (PST)
+Subject: Re: R.p
+To: Karen Glynn <glynn.karen@gmail.com>,
+ John Markiewicz <markiewiczjohn@gmail.com>
+References: <CAAjNtfnx+cxHFcoQJ=6Tq-s=QW4nb+arc_pi0oEtpFR=NrO1MA@mail.gmail.com>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Message-ID: <569453A8.5020308@gmail.com>
+Date: Mon, 11 Jan 2016 20:15:20 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Icedove/38.5.0
+MIME-Version: 1.0
+In-Reply-To: <CAAjNtfnx+cxHFcoQJ=6Tq-s=QW4nb+arc_pi0oEtpFR=NrO1MA@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hi Karen,
+
+I have not done much with the raspberry pi.  I have a couple of them.  I
+am not sure what the versions mean, either.  I would recommend getting a
+kit that has all the parts you need (like the power cord, etc.)
+
+I would look at reviews on amazon and also google raspberry pi
+tutorials.  The tutorials usually have some pretty useful recommendations.
+
+Sorry I could not be of more use!
+
+On 01/11/2016 07:15 PM, Karen Glynn wrote:
+> Hi Shannon and John,
+> 
+> Which version of Raspberry Pi would you recommend for me? for Baz?
+> 
+> John, congrats on earning the lead in the play. I can't wait to see the
+> performance. You will be terrific!
+> 
+> All kinds of hugs, kisses, and love,
+> Karen, aka Gammer
+> 
+
+-- 
+Shannon Markiewicz, Ph.D.
+      __
+     (  \
+ __   \  '\
+(  "-_ \ .-'----._
+ '-_  "v"         "-
+    "Y'             ".
+     |                |
+     |        o     o |
+     |          .<>.  |
+      \         "Ll"  |
+       |             .'
+       |             |
+       (             /
+      /'\         . \
+      "--^--.__,\_)-'
+
+- by andy753421 (with two very minor edits by uriel)

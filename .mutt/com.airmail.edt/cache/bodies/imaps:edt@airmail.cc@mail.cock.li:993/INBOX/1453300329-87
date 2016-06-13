@@ -1,0 +1,60 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+To: mailman@lists.cock.li
+References: <56B7D74F.20600@cock.li> <56BA27AA.2060304@8chan.co>
+ <56BA5179.3040302@420blaze.it> <56BA7727.6050608@8chan.co>
+ <56BAA680.5010302@420blaze.it> <56BB4D15.6080508@8chan.co>
+From: Yokes! <paul@420blaze.it>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <56BB5C1D.6000309@420blaze.it>
+Date: Wed, 10 Feb 2016 15:49:49 +0000
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <56BB4D15.6080508@8chan.co>
+Subject: Re: [cock.li] TIL github blindly trusts the email in a commit
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+QmVzdCBleGFtcGxlIEkgY2FuIHRoaW5rIG9mIGlzIHNvbWVvbmUgd2hvIG9ubHkgaGFkIGRvY3Vt
+ZW50YXRpb24KY2hhbmdlcyBhbmQgUFJzIHRvIGluY2x1ZGUgQ29DcyBpbiBvdGhlciBwcm9qZWN0
+cyBhcHBlYXJpbmcgdG8gYXV0aG9yIGEKY29tbWl0IG9uIGMrPS4gdGhlbiBzaGUgZnJlYWtlZCBv
+dXQgYmVjYXVzZSBpdCBtYWRlIGhlciBsb29rIGJhZC4KCk9uIDEwLzAyLzE2IDE0OjQ1LCBDcmlz
+dGlhbiB3cm90ZToKPiBBbmQgaG93IGRvIHlvdSB0aGluayBwZW9wbGUgZ2V0IGZ1Y2tlZCB3aXRo
+IHRoaXM/ICBJJ20gZ2VudWluZWx5IGN1cmlvdXMuCj4gCj4gT24gMDIvMTAvMjAxNiAwMzo1NCBB
+TSwgWW9rZXMhIHdyb3RlOgo+PiBZZXMsIEkgZG8uCj4+Cj4+IE9uIDA5LzAyLzE2IDIzOjMyLCBD
+cmlzdGlhbiB3cm90ZToKPj4+IERvIHlvdSBrbm93IGhvdyBnaXQgd29ya3M/Cj4+Pgo+Pj4gT24g
+MDIvMDkvMjAxNiAwOTo1MiBQTSwgWW9rZXMhIHdyb3RlOgo+Pj4+IFNvLCBwZW9wbGUgd2hvIGNh
+cmUgYWJvdXQgdXNpbmcgdGhlaXIgZ2l0aHViIHByb2ZpbGUgaW4gYSBDViBjYW4gYmUKPj4+PiBm
+dWNrZWQgd2l0aC4KPj4+Pgo+Pj4+IE9yLCBtb3JlIG5vdGFibHksIHBlb3BsZSB3aG8gYXJlIHRl
+Y2huaWNhbGx5IGluZXB0IGFuZCBwdXNoaW5nIGZvciBjb2Rlcwo+Pj4+IG9mIGNvbmR1Y3QgaW4g
+U1cgcHJvamVjdHMgcHVyZWx5IHRvIGZ1Y2sgd2l0aCBwZW9wbGUuCj4+Pj4KPj4+PiBPbiAwOS8w
+Mi8xNiAxNzo1MywgQ3Jpc3RpYW4gd3JvdGU6Cj4+Pj4+IFNvIHdoYXQ/Cj4+Pj4+Cj4+Pj4+IE9u
+IDAyLzA4LzIwMTYgMTI6NDYgQU0sIGFsZXhza2Mgd3JvdGU6Cj4+Pj4+PiBodHRwczovL2dpdGh1
+Yi5jb20vamF5cGhlbHBzL2dpdC1ibGFtZS1zb21lb25lLWVsc2UvY29tbWl0L2U1Y2ZlNGJiMjE5
+MGEyYWU0MDZkNWYwYjhmNDljMzJhYzBmMDFjZDcKPj4+Pj4+Cj4+Pj4+Pgo+Pj4+Pj4KPj4+Pj4+
+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+Pj4+Pj4gOD09PVtjb2NrLmxpIG1haWxp
+bmcgbGlzdF09PT1ECj4+Pj4+Pgo+Pj4+Pgo+Pj4+Pgo+Pj4+Pgo+Pj4+PiBfX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX18KPj4+Pj4gOD09PVtjb2NrLmxpIG1haWxpbmcgbGlzdF09PT1ECj4+
+Pj4+Cj4+Pj4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4+Pj4gOD09PVtjb2NrLmxp
+IG1haWxpbmcgbGlzdF09PT1ECj4+Pj4KPj4+Cj4+Pgo+Pj4KPj4+IF9fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fXwo+Pj4gOD09PVtjb2NrLmxpIG1haWxpbmcgbGlzdF09PT1ECj4+Pgo+PiBf
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX18KPj4gOD09PVtjb2NrLmxpIG1haWxpbmcgbGlz
+dF09PT1ECj4+Cj4gCj4gCj4gCj4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCj4gOD09
+PVtjb2NrLmxpIG1haWxpbmcgbGlzdF09PT1ECj4gCl9fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fXwo4PT09W2NvY2subGkgbWFpbGluZyBsaXN0XT09PUQ=

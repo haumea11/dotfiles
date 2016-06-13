@@ -1,0 +1,616 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp932250oia;
+        Tue, 15 Mar 2016 18:28:43 -0700 (PDT)
+X-Received: by 10.129.46.87 with SMTP id u84mr504983ywu.129.1458091723090;
+        Tue, 15 Mar 2016 18:28:43 -0700 (PDT)
+Return-Path: <bounce-mc.us7_20613719.270641-kuiperhaumea=gmail.com@mail148.atl21.rsgsv.net>
+Received: from mail148.atl21.rsgsv.net (mail148.atl21.rsgsv.net. [205.201.133.148])
+        by mx.google.com with ESMTPS id y190si276537ywf.285.2016.03.15.18.28.43
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Mar 2016 18:28:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us7_20613719.270641-kuiperhaumea=gmail.com@mail148.atl21.rsgsv.net designates 205.201.133.148 as permitted sender) client-ip=205.201.133.148;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us7_20613719.270641-kuiperhaumea=gmail.com@mail148.atl21.rsgsv.net designates 205.201.133.148 as permitted sender) smtp.mailfrom=bounce-mc.us7_20613719.270641-kuiperhaumea=gmail.com@mail148.atl21.rsgsv.net;
+       dkim=pass header.i=@mail148.atl21.rsgsv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail148.atl21.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=contact=3Dhumblebundle.com@mail148.atl21.rsgsv.net;
+ bh=McpP9T13LWCW+Newmw71F1wAqI4=;
+ b=BWcrVnKDG91cSSPwkI6vy7j86wxdy/aEvE6A1obwVjwidonZ+mwnfxxYs0adiLB/U/74tB2NeoYS
+   7MMzzWpCtSskM7F/TdX1IrSxYzM24EJsirB8k1gr4Qeo5n74EsBWC0LAOIPQ4BXU6IDmmhMd95kj
+   MRwBcBkfEC4hJKymydA=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=McpP9T13LWCW+Newmw71F1wAqI4=;
+ b=O/FFfKebhZTK40h19YTxebX62RdyvSF3BUPAG5DcD8uFEJaZy6B3VOs1UjB8oVAVVQcMNLneNhAq
+   1gTgkHdHQnFb0HDeB9gthz4mZibL+QfOyBlLEesfraTxNI8Q7dYmeaIF7R+ViPhtHdpqg/CUtLKS
+   2h2ngYBfXC+w9BlGyy8=
+Received: from (127.0.0.1) by mail148.atl21.rsgsv.net id ht2rcm1lgi4t for <kuiperhaumea@gmail.com>; Wed, 16 Mar 2016 01:27:44 +0000 (envelope-from <bounce-mc.us7_20613719.270641-kuiperhaumea=gmail.com@mail148.atl21.rsgsv.net>)
+Subject: =?utf-8?Q?Pay=20what=20you=20want=20for=20CRYENGINE=20assets=21?=
+From: =?utf-8?Q?Humble=20Bundle?= <contact@humblebundle.com>
+Reply-To: =?utf-8?Q?Humble=20Bundle?= <contact@humblebundle.com>
+To: <kuiperhaumea@gmail.com>
+Date: Wed, 16 Mar 2016 01:27:44 +0000
+Message-ID: <a42731fd3353ff4c76f7f11bbfac1e3490d.20160316012658@mail148.atl21.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID8678f7e5d1fac1e3490d**
+X-Campaign: mailchimpa42731fd3353ff4c76f7f11bb.8678f7e5d1
+X-campaignid: mailchimpa42731fd3353ff4c76f7f11bb.8678f7e5d1
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=a42731fd3353ff4c76f7f11bb&id=8678f7e5d1&e=fac1e3490d
+X-MC-User: a42731fd3353ff4c76f7f11bb
+X-Feedback-ID: 20613719:20613719.270641:us7:mc
+List-ID: a42731fd3353ff4c76f7f11bbmc list <a42731fd3353ff4c76f7f11bb.146269.list-id.mcsv.net>
+X-Accounttype: pr
+List-Unsubscribe: <mailto:unsubscribe-mc.us7_a42731fd3353ff4c76f7f11bb.8678f7e5d1-fac1e3490d@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://humblebundle.us7.list-manage.com/unsubscribe?u=a42731fd3353ff4c76f7f11bb&id=990b1b6399&e=fac1e3490d&c=8678f7e5d1>
+Sender: "Humble Bundle" <contact=humblebundle.com@mail148.atl21.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_409145139"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_409145139
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Humble Bundle Humble Bundle Pay what you want and support a charity of you=
+r choice
+http://humblebundle.us7.list-manage1.com/track/click?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3D67909ef05f&e=3Dfac1e3490d
+CRYENGINE ME A RIVER.
+Really! With these assets=2C you can make a river on CRYENGINE. http://hum=
+blebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=
+=3D53b3077990&e=3Dfac1e3490d
+Over 20=2C000 royalty-free files
+to be used on CRYENGINE!
+
+http://humblebundle.us7.list-manage1.com/track/click?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3D12ab9c8804&e=3Dfac1e3490d
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3D7399344daf&e=3Dfac1e3490d
+View Bundle (http://humblebundle.us7.list-manage.com/track/click?u=3Da4273=
+1fd3353ff4c76f7f11bb&id=3Db108858825&e=3Dfac1e3490d)
+By purchasing this bundle you'll be supporting:
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3D5fb0684deb&e=3Dfac1e3490d
+Currently on sale in the Humble Store
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3Dc85733796a&e=3Dfac1e3490d
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3Da276ef58ff&e=3Dfac1e3490d
+http://humblebundle.us7.list-manage1.com/track/click?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3D58dd2702ef&e=3Dfac1e3490d
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3D8c86f808ce&e=3Dfac1e3490d
+http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3D691b66bb69&e=3Dfac1e3490d http://humblebundle.us7.list-=
+manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D7831716ce9&e=3D=
+fac1e3490d http://humblebundle.us7.list-manage1.com/track/click?u=3Da=
+42731fd3353ff4c76f7f11bb&id=3D1ec60b3cf9&e=3Dfac1e3490d http://humbl=
+ebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=
+=3D399328e6da&e=3Dfac1e3490d
+This email was sent to kuiperhaumea@gmail.com (mailto://kuiperhaumea@gmail.com)
+unsubscribe from this list (http://humblebundle.us7.list-manage.com/unsubs=
+cribe?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b1b6399&e=3Dfac1e3490d&c=3D8678f=
+7e5d1)  | update email preferences (http://humblebundle.us7.list-manage1.c=
+om/profile?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b1b6399&e=3Dfac1e3490d) vie=
+w in your browser (http://us7.campaign-archive1.com/?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3D8678f7e5d1&e=3Dfac1e3490d)
+=C2=A9 2016 Humble Bundle Inc. | 201 Post Street 11th Floor | San Francisc=
+o=2C CA | 94108
+You are receiving this email because you opted in at our website.
+--_----------=_MCPart_409145139
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- HUMBLE NEWSLETTER EMAIL -->
+<!--
+
+  Please note that this is not a MailGun e-mail template=2C but a MailChim=
+p e-mail template=2C
+  and is also stored on the MailChimp server. I am storing it here so that=
+ it also exists
+  in Source Control and is searchable.
+
+  A couple important things to note:
+  * These HTML comments will be removed by MailChimp before sending.
+  * All of the <style> will be inlined by MailChimp before sending.
+
+-->
+
+<html>
+
+  <head lang=3D"en">
+    <meta charset=3D"UTF-8">
+    <title>Pay what you want for CRYENGINE assets!</title>
+
+  <style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:none;
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09=09text-transform:capitalize;
+=09=09=09max-width:100%;
+=09=09}
+=09=09#background-table{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09=09font-family:'Helvetica Neue'=2CHelvetica=2CArial=2Csans-serif;
+=09=09=09background-color:#E4E7ED;
+=09=09}
+=09=09#main-table-container{
+=09=09=09width:574px;
+=09=09=09padding-top:24px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#main-table{
+=09=09=09width:536px;
+=09=09=09border-collapse:collapse;
+=09=09=09display:inline-block;
+=09=09=09text-align:left;
+=09=09}
+=09=09#header-wrapper{
+=09=09=09margin-bottom:24px;
+=09=09}
+=09=09#header-image-wrapper{
+=09=09=09padding:24px;
+=09=09=09padding-bottom:0;
+=09=09}
+=09=09img.fill{
+=09=09=09width:536px;
+=09=09}
+=09=09#hb-branding-text{
+=09=09=09font-size:18px;
+=09=09=09color:rgb(203=2C  39=2C  44);
+=09=09=09font-weight:bold;
+=09=09}
+=09=09#header-flavor-text{
+=09=09=09float:right;
+=09=09=09font-size:12px;
+=09=09=09padding-top:6px;
+=09=09=09color:#A1A7B2;
+=09=09}
+=09=09#body-flavor-text{
+=09=09=09display:block;
+=09=09=09line-height:24px;
+=09=09=09text-align:center;
+=09=09=09font-size:16px;
+=09=09=09padding-top:16px;
+=09=09=09padding-bottom:16px;
+=09=09=09color:#7B818C;
+=09=09}
+=09=09.box{
+=09=09=09width:536px;
+=09=09=09background:#FFFFFF;
+=09=09=09border-radius:6px;
+=09=09=09padding-bottom:24px;
+=09=09=09margin-bottom:8px;
+=09=09}
+=09=09.hb-email-button-wrapper{
+=09=09=09text-align:center;
+=09=09=09padding-bottom:8px;
+=09=09}
+=09=09.hb-email-button{
+=09=09=09display:inline-block;
+=09=09=09text-decoration:none;
+=09=09=09font-size:14px;
+=09=09=09text-align:center;
+=09=09=09color:#FFFFFF;
+=09=09=09background-color:rgb(173=2C 204=2C 82);
+=09=09=09border:solid 1px rgb(151=2C 177=2C  71);
+=09=09=09padding:8px 16px;
+=09=09=09border-radius:3px;
+=09=09=09text-shadow:0 1px 2px rgba(0=2C 0=2C 0=2C 0.2);
+=09=09}
+=09=09#hero-text{
+=09=09=09font-size:24px;
+=09=09=09color:#494F5C;
+=09=09=09padding-top:32px;
+=09=09=09padding-left:20px;
+=09=09=09padding-right:20px;
+=09=09=09padding-bottom:16px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#charity-row td{
+=09=09=09padding-bottom:32px;
+=09=09}
+=09=09#charity-text{
+=09=09=09font-size:16px;
+=09=09=09color:#7B818C;
+=09=09=09padding-top:24px;
+=09=09=09padding-left:54px;
+=09=09=09padding-right:54px;
+=09=09=09padding-bottom:24px;
+=09=09=09text-align:center;
+=09=09}
+=09=09#charity-image-wrapper{
+=09=09=09text-align:center;
+=09=09}
+=09=09#charity-image{
+=09=09=09padding-top:12px;
+=09=09}
+=09=09#footer-flavor-row td{
+=09=09=09padding-bottom:10px;
+=09=09}
+=09=09#footer-flavor-text{
+=09=09=09text-align:center;
+=09=09=09font-size:16px;
+=09=09=09color:#A1A7B2;
+=09=09=09padding-bottom:4px;
+=09=09}
+=09=09#bundle-link-image-wrapper{
+=09=09=09padding-left:24px;
+=09=09=09padding-right:24px;
+=09=09}
+=09=09#bundle-link-row .box{
+=09=09=09padding-top:10px;
+=09=09=09padding-bottom:10px;
+=09=09}
+=09=09#store-link-table-wrapper{
+=09=09=09width:100%;
+=09=09}
+=09=09#store-link-table{
+=09=09=09width:100%;
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09#store-link-table tr td{
+=09=09=09text-align:center;
+=09=09}
+=09=09#store-link-table tr td:not(:first-child):not(:last-child){
+=09=09=09padding-left:8px;
+=09=09=09padding-right:8px;
+=09=09}
+=09=09#social-link-row .box{
+=09=09=09padding-top:8px;
+=09=09=09padding-bottom:8px;
+=09=09}
+=09=09#social-link-table{
+=09=09=09width:100%;
+=09=09}
+=09=09#social-link-table tr td:not(:last-child){
+=09=09=09border-right:1px solid rgba(0=2C0=2C0=2C0.12);
+=09=09}
+=09=09.social-link-image-wrapper{
+=09=09=09text-align:center;
+=09=09}
+=09=09#footer{
+=09=09=09color:#A1A7B2;
+=09=09=09padding:10px;
+=09=09=09font-size:75%;
+=09=09=09text-align:center;
+=09=09=09font-family:'Helvetica Neue'=2CHelvetica=2CArial=2Csans-serif;
+=09=09}
+=09=09.clear{
+=09=09=09clear:both;
+=09=09}
+=09=09.footer-link{
+=09=09=09color:black;
+=09=09}
+=09=09.footer-link:visited{
+=09=09=09color:black;
+=09=09}
+</style></head>
+
+  <body style=3D"-webkit-text-size-adjust: none;margin: 0;padding: 0;width=
+: 100% !important;">
+
+    <table id=3D"background-table" style=3D"margin: 0;padding: 0;font-fami=
+ly: 'Helvetica Neue'=2CHelvetica=2CArial=2Csans-serif;background-color: #E=
+4E7ED;height: 100% !important;width: 100% !important;">
+      <tr>
+        <td id=3D"main-table-container" style=3D"width: 574px;padding-top:=
+ 24px;text-align: center;">
+          <table id=3D"main-table" style=3D"width: 536px;border-collapse:=
+ collapse;display: inline-block;text-align: left;">
+
+            <tr>
+              <td>
+                <div id=3D"header-wrapper" style=3D"margin-bottom: 24px;">
+                  <img src=3D"http://gallery.mailchimp.com/a42731fd3353ff4=
+c76f7f11bb/images/75261f83-6e63-4ffa-b555-2b2f9eaf2560.png" alt=3D"Humble=
+ Bundle" style=3D"border: none;font-size: 14px;font-weight: bold;height: a=
+uto;line-height: 100%;outline: none;text-decoration: none;text-transform:=
+ capitalize;max-width: 100%;">
+                  <span id=3D"hb-branding-text" style=3D"font-size: 18px;c=
+olor: rgb(203=2C  39=2C  44);font-weight: bold;">Humble Bundle</span>
+                  <span id=3D"header-flavor-text" style=3D"float: right;fo=
+nt-size: 12px;padding-top: 6px;color: #A1A7B2;">Pay what you want and supp=
+ort a charity of your choice</span>
+                  <div class=3D"clear" style=3D"clear: both;"></div>
+                </div>
+              </td>
+            </tr>
+
+            <tr>
+              <td>
+                <div class=3D"box" style=3D"width: 536px;background: #FFFF=
+FF;border-radius: 6px;padding-bottom: 24px;margin-bottom: 8px;">
+
+                  <div id=3D"header-image-wrapper" style=3D"padding: 24px;=
+padding-bottom: 0;">
+                    <a href=3D"http://humblebundle.us7.list-manage.com/tra=
+ck/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D1152034c1a&e=3Dfac1e3490d" ta=
+rget=3D"_blank"><img src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c=
+76f7f11bb/images/f1bb6cef-0900-4f8c-b65b-d40e9e419262.png" alt=3D"" border=
+=3D"0" style=3D"margin: 0;padding: 0;border: none;font-size: 14px;font-wei=
+ght: bold;height: auto;line-height: 100%;outline: none;text-decoration: no=
+ne;text-transform: capitalize;max-width: 100%;" id=3D"header-image"></a>
+                  </div>
+
+                  <span id=3D"body-flavor-text" style=3D"display: block;li=
+ne-height: 24px;text-align: center;font-size: 16px;padding-top: 16px;paddi=
+ng-bottom: 16px;color: #7B818C;">CRYENGINE ME A RIVER.<br>
+Really! With these assets=2C you can make a river on CRYENGINE.</span>
+
+                  <a href=3D"http://humblebundle.us7.list-manage.com/track=
+/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D9c331dd7fa&e=3Dfac1e3490d" targ=
+et=3D"_blank"><img src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76=
+f7f11bb/images/d565a9ef-ffa0-4c1a-93c6-6b3ae86d8ac1.png" alt=3D"" border=
+=3D"0" style=3D"margin: 0;padding: 0;border: none;font-size: 14px;font-wei=
+ght: bold;height: auto;line-height: 100%;outline: none;text-decoration: no=
+ne;text-transform: capitalize;max-width: 100%;width: 536px;" id=3D"body-im=
+age" class=3D"fill"></a>
+
+                  <div id=3D"hero-text" style=3D"font-size: 24px;color: #4=
+94F5C;padding-top: 32px;padding-left: 20px;padding-right: 20px;padding-bot=
+tom: 16px;text-align: center;">Over 20=2C000 royalty-free files<br>
+to be used on CRYENGINE!<br>
+<br>
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3De92e26aca5&e=3Dfac1e3490d" target=3D"_blank"><img=
+ align=3D"none" height=3D"21" src=3D"https://gallery.mailchimp.com/a42731f=
+d3353ff4c76f7f11bb/images/97a3daae-3240-4110-90de-c7f94ac97c74.png" style=
+=3D"width: 481px;height: 21px;margin: 0px;border: none;font-size: 14px;fon=
+t-weight: bold;line-height: 100%;outline: none;text-decoration: none;text-=
+transform: capitalize;max-width: 100%;" width=3D"481"></a><br>
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3Dfff417167e&e=3Dfac1e3490d" target=3D"_blank"><img=
+ align=3D"none" height=3D"58" src=3D"https://gallery.mailchimp.com/a42731f=
+d3353ff4c76f7f11bb/images/bef285c5-c57d-4d6f-a91f-78435cc02a9d.png" style=
+=3D"width: 480px;height: 58px;margin: 0px;border: none;font-size: 14px;fon=
+t-weight: bold;line-height: 100%;outline: none;text-decoration: none;text-=
+transform: capitalize;max-width: 100%;" width=3D"480"></a></div>
+
+                  <div class=3D"hb-email-button-wrapper" style=3D"text-ali=
+gn: center;padding-bottom: 8px;"><a class=3D"hb-email-button" href=3D"http=
+://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f1=
+1bb&id=3D1efc6d6992&e=3Dfac1e3490d" target=3D"_blank" style=3D"display: i=
+nline-block;text-decoration: none;font-size: 14px;text-align: center;color=
+: #FFFFFF;background-color: rgb(173=2C 204=2C 82);border: solid 1px rgb(15=
+1=2C 177=2C  71);padding: 8px 16px;border-radius: 3px;text-shadow: 0 1px 2=
+px rgba(0=2C 0=2C 0=2C 0.2);">View Bundle</a></div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id=3D"charity-row">
+              <td style=3D"padding-bottom: 32px;">
+                <div class=3D"box" style=3D"margin-bottom: 8px;width: 536p=
+x;background: #FFFFFF;border-radius: 6px;padding-bottom: 24px;">
+                  <div id=3D"charity-text" style=3D"font-size: 16px;color:=
+ #7B818C;padding-top: 24px;padding-left: 54px;padding-right: 54px;padding-=
+bottom: 24px;text-align: center;">
+                    By purchasing this bundle you'll be supporting:
+                  </div>
+                  <div id=3D"charity-image-wrapper" style=3D"text-align: c=
+enter;">
+                    <a href=3D"http://humblebundle.us7.list-manage.com/tra=
+ck/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D0e18ed8f6a&e=3Dfac1e3490d" ta=
+rget=3D"_blank"><img src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c=
+76f7f11bb/images/7229eda8-9b4f-44ce-8570-fc9d59109ee7.png" alt=3D"" border=
+=3D"0" style=3D"margin: 0;padding: 0;border: none;font-size: 14px;font-wei=
+ght: bold;height: auto;line-height: 100%;outline: none;text-decoration: no=
+ne;text-transform: capitalize;max-width: 100%;padding-top: 12px;" id=3D"ch=
+arity-image"></a>
+                  </div>
+               </div>
+              </td>
+            </tr>
+
+            <tr id=3D"footer-flavor-row">
+              <td style=3D"padding-bottom: 10px;">
+                <div id=3D"footer-flavor-text" style=3D"text-align: center=
+;font-size: 16px;color: #A1A7B2;padding-bottom: 4px;">Currently on sale in=
+ the Humble Store</div>
+                <div id=3D"store-link-table-wrapper" style=3D"width: 100%;=
+">
+                  <table id=3D"store-link-table" style=3D"width: 100%;bord=
+er-collapse: collapse;">
+                    <tr>
+                      <td style=3D"padding-bottom: 10px;text-align: center=
+;">
+                        <div class=3D"store-link-image-wrapper"><a href=3D=
+"http://humblebundle.us7.list-manage2.com/track/click?u=3Da42731fd3353ff4c=
+76f7f11bb&id=3D1268df256e&e=3Dfac1e3490d" target=3D"_blank"><img align=3D=
+"none" class=3D"store-link-image-left" height=3D"107" src=3D"https://galle=
+ry.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/f6d17442-9e30-4b14-bdc0-=
+84255ea629ff.jpg" style=3D"width: 171px;height: 107px;margin: 0px;border:=
+ none;font-size: 14px;font-weight: bold;line-height: 100%;outline: none;te=
+xt-decoration: none;text-transform: capitalize;max-width: 100%;" width=3D"=
+171"> </a></div>
+                      </td>
+                      <td style=3D"padding-bottom: 10px;text-align: center=
+;padding-left: 8px;padding-right: 8px;">
+                        <div class=3D"store-link-image-wrapper"><a href=3D=
+"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3Dfdf6eeab10&e=3Dfac1e3490d" target=3D"_blank"><img align=3D"=
+none" class=3D"store-link-image-center" height=3D"107" src=3D"https://gall=
+ery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/e8d46154-c79d-4209-8423=
+-8f044485e75c.jpg" style=3D"width: 171px;height: 107px;margin: 0px;border:=
+ none;font-size: 14px;font-weight: bold;line-height: 100%;outline: none;te=
+xt-decoration: none;text-transform: capitalize;max-width: 100%;" width=3D"=
+171"> </a></div>
+                      </td>
+                      <td style=3D"padding-bottom: 10px;text-align: center=
+;">
+                        <div class=3D"store-link-image-wrapper"><a href=3D=
+"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c7=
+6f7f11bb&id=3D8d7d32f61c&e=3Dfac1e3490d" target=3D"_blank"><img align=3D"=
+none" class=3D"store-link-image-right" height=3D"107" src=3D"https://galle=
+ry.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/73a3e70b-d0b8-4adb-942c-=
+9f739aeb21c8.jpg" style=3D"width: 171px;height: 107px;margin: 0px;border:=
+ none;font-size: 14px;font-weight: bold;line-height: 100%;outline: none;te=
+xt-decoration: none;text-transform: capitalize;max-width: 100%;" width=3D"=
+171"> </a></div>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </td>
+            </tr>
+
+            <tr id=3D"bundle-link-row">
+              <td>
+                <div class=3D"box" style=3D"width: 536px;background: #FFFF=
+FF;border-radius: 6px;padding-bottom: 10px;margin-bottom: 8px;padding-top:=
+ 10px;">
+                  <div id=3D"bundle-link-image-wrapper" style=3D"padding-l=
+eft: 24px;padding-right: 24px;"><a href=3D"http://humblebundle.us7.list-ma=
+nage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D4f7c1585dc&e=3D=
+fac1e3490d" target=3D"_blank"><img align=3D"none" class=3D"bundle-link-image=
+" height=3D"61" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f7f=
+11bb/images/ee67025f-b3dd-41d9-b442-a2bb6c86edc8.png" style=3D"width: 480p=
+x;height: 61px;margin: 0px;border: none;font-size: 14px;font-weight: bold;=
+line-height: 100%;outline: none;text-decoration: none;text-transform: capi=
+talize;max-width: 100%;" width=3D"480"> </a></div>
+                </div>
+              </td>
+            </tr>
+
+            <tr id=3D"social-link-row">
+              <td>
+                <div class=3D"box" style=3D"width: 536px;background: #FFFF=
+FF;border-radius: 6px;padding-bottom: 8px;margin-bottom: 8px;padding-top:=
+ 8px;">
+                  <table id=3D"social-link-table" style=3D"width: 100%;">
+                    <tr>
+                      <td class=3D"social-link-image-wrapper" style=3D"tex=
+t-align: center;border-right: 1px solid rgba(0=2C0=2C0=2C0.12);">
+                        <a href=3D"http://humblebundle.us7.list-manage.com=
+/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3Dd3a1a67ba7&e=3Dfac1e3490d=
+">
+                          <img class=3D"social-link-image" src=3D"https://=
+gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/6b844667-e1b0-47dd-=
+a86c-c88e999b9eb8.png" style=3D"border: none;font-size: 14px;font-weight:=
+ bold;height: auto;line-height: 100%;outline: none;text-decoration: none;t=
+ext-transform: capitalize;max-width: 100%;">
+                        </a>
+                      </td>
+                      <td class=3D"social-link-image-wrapper" style=3D"tex=
+t-align: center;border-right: 1px solid rgba(0=2C0=2C0=2C0.12);">
+                        <a href=3D"http://humblebundle.us7.list-manage1.co=
+m/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3Dd6728b099a&e=3D=
+fac1e3490d">
+                          <img class=3D"social-link-image" src=3D"https://=
+gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/6d7137b5-4370-403f-=
+b54a-0ff0a0510bb8.png" style=3D"border: none;font-size: 14px;font-weight:=
+ bold;height: auto;line-height: 100%;outline: none;text-decoration: none;t=
+ext-transform: capitalize;max-width: 100%;">
+                        </a>
+                      </td>
+                      <td class=3D"social-link-image-wrapper" style=3D"tex=
+t-align: center;border-right: 1px solid rgba(0=2C0=2C0=2C0.12);">
+                        <a href=3D"http://humblebundle.us7.list-manage.com=
+/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D2c6868fd31&e=3Dfac1e3490d=
+">
+                          <img class=3D"social-link-image" src=3D"https://=
+gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/308c3c6e-998c-4902-=
+bbef-4d5d22579bbc.png" style=3D"border: none;font-size: 14px;font-weight:=
+ bold;height: auto;line-height: 100%;outline: none;text-decoration: none;t=
+ext-transform: capitalize;max-width: 100%;">
+                        </a>
+                      </td>
+                      <td class=3D"social-link-image-wrapper" style=3D"tex=
+t-align: center;">
+                        <a href=3D"http://humblebundle.us7.list-manage.com=
+/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3Deb9be00733&e=3Dfac1e3490d=
+">
+                          <img class=3D"social-link-image" src=3D"https://=
+gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/a2a16bdb-b192-41f4-=
+88fd-58dd619ff62f.png" style=3D"border: none;font-size: 14px;font-weight:=
+ bold;height: auto;line-height: 100%;outline: none;text-decoration: none;t=
+ext-transform: capitalize;max-width: 100%;">
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+              </td>
+            </tr>
+
+            <tr id=3D"footer-row">
+              <table style=3D"width:100%;">
+                <tbody>
+                  <tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding-t=
+op:20px;padding-bottom:20px">
+                      <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">
+                        <tbody>
+                          <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"c=
+olor:#606060;font-family:Helvetica=2CArial=2Csans-serif;font-size:11px;lin=
+e-height:150%;padding-right:20px;padding-bottom:5px;padding-left:20px;text=
+-align:center">
+                              <br>
+                              This email was sent to <a class=3D"footer-li=
+nk" href=3D"http://humblebundle.us7.list-manage1.com/track/click?u=3Da4273=
+1fd3353ff4c76f7f11bb&id=3Dfc26b4c50f&e=3Dfac1e3490d" style=3D"color: blac=
+k;">kuiperhaumea@gmail.com</a>
+                              <br>
+                              <a class=3D"footer-link" href=3D"http://humb=
+lebundle.us7.list-manage.com/unsubscribe?u=3Da42731fd3353ff4c76f7f11bb&id=
+=3D990b1b6399&e=3Dfac1e3490d&c=3D8678f7e5d1" style=3D"color: black;">unsubsc=
+ribe from this list</a>&nbsp;|&nbsp;<a class=3D"footer-link" href=3D"http:=
+//humblebundle.us7.list-manage1.com/profile?u=3Da42731fd3353ff4c76f7f11bb&=
+id=3D990b1b6399&e=3Dfac1e3490d" style=3D"color: black;">update email prefere=
+nces</a> <a href=3D"http://us7.campaign-archive1.com/?u=3Da42731fd3353ff4c=
+76f7f11bb&id=3D8678f7e5d1&e=3Dfac1e3490d" target=3D"_blank" style=3D"color:#=
+404040;!important;">view in your browser</a>
+                              <br>
+                              <span>=C2=A9 2016 Humble Bundle Inc. | 201 P=
+ost Street 11th Floor | San Francisco=2C CA | 94108</span>
+                              <br>
+                              You are receiving this email because you opt=
+ed in at our website.
+                              <br>
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <img src=3D"http://humblebundle.us7.list-manage.com/track/open.php?u=3Da=
+42731fd3353ff4c76f7f11bb&id=3D8678f7e5d1&e=3Dfac1e3490d" height=3D"1" wid=
+th=3D"1"></body>
+
+</html>
+--_----------=_MCPart_409145139--

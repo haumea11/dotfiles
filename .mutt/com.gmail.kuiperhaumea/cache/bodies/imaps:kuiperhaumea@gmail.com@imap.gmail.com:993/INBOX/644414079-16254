@@ -1,0 +1,345 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.73.69 with SMTP id w66csp3543812oia;
+        Wed, 13 Jan 2016 08:46:46 -0800 (PST)
+X-Received: by 10.28.216.211 with SMTP id p202mr28014675wmg.84.1452703606502;
+        Wed, 13 Jan 2016 08:46:46 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x232.google.com (mail-wm0-x232.google.com. [2a00:1450:400c:c09::232])
+        by mx.google.com with ESMTPS id l7si959211wjq.40.2016.01.13.08.46.46
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 13 Jan 2016 08:46:46 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) client-ip=2a00:1450:400c:c09::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@kent-info.org
+Received: by mail-wm0-x232.google.com with SMTP id f206so363159968wmf.0
+        for <kuiperhaumea@gmail.com>; Wed, 13 Jan 2016 08:46:46 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:from:reply-to
+         :to:message-id:subject:mime-version:content-type
+         :content-transfer-encoding:list-unsubscribe;
+        bh=6/0vqnrv2fWCyiTOS2B26Eblc5l1WSRf34IFZxCpsww=;
+        b=GFutFJ/PPz6UYAZMuR74E+JNlXGAFtRw9CpcYovS+hg+Hy06ZDVWK/+Ei/TPYNChp9
+         jpzMyq6zmfoBrd6c78ai7Dp2/9PPzYdl2eLWCRKMzRQKzq0iywSSF/Tn5k78+Tk3n//9
+         u0SKU2TBjIskEUTYooQYzUzvOhCc5d7bf4XoaPZ8Aj7o+bLZRUTLTXKAvzdyA29ur0iD
+         kgMUleNUQUVEdY5ELmKcJU+9apDyJE48xLwpoZNQRk3QJhDTVLCblPq547X4V/XM0Yvm
+         RfVODYSasgaX+iLinwu4u68e4hIs5yw9TVmo9kXhMzKsAS5vSaNk0wxrLmybkgpQsblh
+         Pgig==
+X-Gm-Message-State: ALoCoQkWUF89nt/dLaBR5+rn9N9PEzO0+mnLGULv/ko82xmFoeLEIGpsQIbGlNCpJkFV+aM2Kn+InsZ989MXxVb/f9CVNWlk7uVov7pzgRyvnfD0ycPlcVE=
+X-Received: by 10.28.174.196 with SMTP id x187mr28184209wme.2.1452703606031;
+        Wed, 13 Jan 2016 08:46:46 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.221.69 with SMTP id u66csp3278059wmg;
+        Wed, 13 Jan 2016 08:46:45 -0800 (PST)
+X-Received: by 10.140.22.210 with SMTP id 76mr126045172qgn.70.1452703605119;
+        Wed, 13 Jan 2016 08:46:45 -0800 (PST)
+Return-Path: <KentStateUniversity@kent-info.org>
+Received: from mta925.app-info.net (mta925.app-info.net. [68.142.179.25])
+        by mx.google.com with ESMTP id 39si2086810qgo.127.2016.01.13.08.46.44
+        for <markiewicz.john@gmail.com>;
+        Wed, 13 Jan 2016 08:46:45 -0800 (PST)
+Received-SPF: pass (google.com: domain of KentStateUniversity@kent-info.org designates 68.142.179.25 as permitted sender) client-ip=68.142.179.25;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=kent-info.org; h=date:from
+	:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=7K6bPxJkQXMpZWgzaGbhrjWAMEs=; b=xZZalpNNEl
+	kg7em1wkVLxHhu/tsUaGpajU7qlYQjn3sQQOBGR8D2+LdM9KmOjRGyTUIxvX8DOf
+	FQTp+bCsn0xQ8lmy9UBsHKth38FIbaFjaBhJnu0XVmai+q6j8c3l2OgwrO9+ed7H
+	esI1v0Nyco5nlyKlYhKO/Hl+muKZ0OQLg=
+Received: from mta61.app-info.net by Postman122.app-info.net with Rome(1.0.38873) id <pd.2.pF2.jA17999.sJj.20774925.rA7.474.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Wed, 13 Jan 2016 11:13:31 -0500
+Date: Wed, 13 Jan 2016 11:13:31 -0500 (EST)
+From: Kent State University <KentStateUniversity@kent-info.org>
+Reply-To: Kent State University <KentStateUniversity@kent-info.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <512614287.29088735.1452701612533.JavaMail.nobody@clavin4122.royall.com>
+Subject: Only a few more days before your deadline!
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:KentStateUniversity@kent-info.org?subject=unsubscriberfc2369%2012Z0C7I7W4E9I2K5RAM~8%206014%20SNR>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=20
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head>
+=09
+=09<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-88=
+59-1" />
+=09<meta http-equiv=3D"Content-Language" content=3D"en-us" />
+
+
+
+
+
+<!-- ******************************************************
+***********************************************************
+
+
+=09EMAIL TEAM: Loading Instructions
+=09
+=09- Please add style=3D"color:#00aeef;" to each a-tag
+
+=09- I left in the Sincerely, Name and Stuff, since it will
+=09  most likely be the same for all emails.
+
+
+=09-iain eudailey
+=09 x1422 (call if you need to)
+
+
+**********************************************************
+****************************************************** -->
+
+
+
+
+
+
+
+
+=09<style>
+=09=09@media screen and (max-width:580px) {=09=09=09
+=09=09=09.percent {
+=09=09=09=09width: 80% !important;
+=09=09=09}
+=09=09=09img {
+=09=09=09=09width:200px;
+=09=09=09=09height:auto;
+=09=09=09}
+=09=09}
+=09=09p {
+=09=09=09margin:1em 0;
+=09=09}
+=09=09
+=09=09.preheader { display: none !important; mso-hide:all !important; }
+=09</style>
+
+
+
+<!-- ********************************
+
+=09You can replace the following=20
+=09"Kent State University" with the=20
+=09suject of the email, if you want.
+
+*********************************** -->
+=09<title>
+
+Kent State University
+
+=09</title>
+
+</head>
+<body style=3D"margin:0; padding:0; background:#f8f8f8;">
+<span class=3D"preheader" style=3D"display: none !important; font-size: 1px=
+; color: #eeeeee;">
+
+=09<!-- **************************************************************** --=
+>
+=09<!-- ********** PREHEADER COPY HERE *********************************** =
+-->
+=09<!-- INSTRUCTIONS: please put at least the first 140 characters of the e=
+mail copy here. -->
+
+Dear John, The deadline for your Kent State Connection Application is midni=
+ght, January 15.
+
+=09<!-- **************************************************************** --=
+>
+=09<!-- **************************************************************** --=
+>
+=09
+</span>
+
+
+
+<table style=3D"width:100%; margin:0; padding:0; background:#f8f8f8; font-f=
+amily:Helvetica, sans-serif;" cellspacing=3D"0" cellpadding=3D"0" align=3D"=
+center">
+=09<tr><td align=3D"center">
+=09=09<table style=3D"background:#041e41; width:100%;" bgcolor=3D"#041e41">
+=09=09=09<tr><td>
+=09=09=09=09<table class=3D"percent" style=3D"width:570px; text-align:left;=
+" align=3D"center">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09<img src=3D"http://www.kent-info.org/soeihs/et001/kent=
+-logo.png" alt=3D"Kent State University" style=3D"color:#FFF; font-size:1.3=
+em; font-family:'Arno Pro', Arno, Georgia, serif;" />
+=09=09=09=09=09=09=09<br /><br />
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09</tr></td>
+=09=09</table>
+=09=09<br />
+=09=09<table class=3D"percent" style=3D"width:570px;" align=3D"center">
+=09=09=09<tr>
+=09=09=09=09<td style=3D"font-family:Helvetica, sans-serif; font-weight:bol=
+d; color:#000010; font-size:12pt; line-height:20pt; text-align:left;">
+
+=09<!-- ********************************
+
+=09=09Salutation goes here
+
+=09*********************************** -->
+<p>Dear John,</p>=20
+
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09<td style=3D"font-family:Helvetica, sans-serif; color:#000010; =
+font-size:12pt; line-height:20pt; text-align:left;">
+
+
+
+
+
+=09<!-- ********************************
+
+=09=09Body copy goes here
+
+=09*********************************** -->
+<p>The deadline for <a href=3D"http://www.kent-info.org/turn/cai/aAm/spn/12=
+Z0C7I7W4E9I2K5RAM~8/lik/yTC0/cyp/wz/cmm/6014/esd/f2d7d9ff3fb6c76d72f792c929=
+ea5563eda31a35/" style=3D"color:#00aeef;" >your <strong>Kent State Connecti=
+on Application</strong></a> is <strong>midnight, January 15</strong><strong=
+>.</strong> <a href=3D"http://www.kent-info.org/turn/cai/aAm/spn/12Z0C7I7W4=
+E9I2K5RAM~8/lik/yTC6/cyp/wz/cmm/6014/esd/f2d7d9ff3fb6c76d72f792c929ea5563ed=
+a31a35/" style=3D"color:#00aeef;" >Apply right away</a> and take advantage =
+of your priority application status!</p>=20
+<p>Remember, <strong>January 15</strong> is also the final deadline for all=
+ scholarship consideration, so don't hesitate! <a href=3D"http://www.kent-i=
+nfo.org/turn/cai/aAm/spn/12Z0C7I7W4E9I2K5RAM~8/lik/yTCN/cyp/wz/cmm/6014/esd=
+/f2d7d9ff3fb6c76d72f792c929ea5563eda31a35/" style=3D"color:#00aeef;" >Finis=
+h applying right now.</a></p> =20
+<p>Your priority status means that you don't have to submit an essay or a r=
+ecommendation, and you will receive your admission decision in only four we=
+eks.</p>=20
+<p>I look forward to hearing from you, John.</p>=20
+
+=09=09=09=09=09=09
+
+
+
+=09=09=09=09=09<br />
+=09=09=09=09=09<p>
+
+
+
+
+=09<!-- ********************************
+
+=09=09"Sincerely," goes here.
+=09=09If it's in the copy in RMS.
+
+=09*********************************** -->
+Sincerely,
+
+=09<br />
+
+
+=09=09=09=09=09<img style=3D"margin-bottom:10px;" src=3D"http://www.kent-in=
+fo.org/soeihs/et001/kent-signature-nancy.png" /><br />=09=09
+
+
+
+
+=09<!-- ********************************
+
+=09=09Signer dropin
+
+=09*********************************** -->
+
+Nancy J. DellaVecchia<br /> Director of Admissions<br /> Kent State Univers=
+ity<br /> P.O. Box 5190<br /> Kent, OH 44242-0001
+
+
+=09=09=09=09=09</p>
+=09=09=09=09</td>
+=09=09=09</tr>
+
+
+
+
+=09<!-- ***** Please remove these tr and td tags if there is no PS ****** -=
+->
+=09=09=09<tr><td style=3D"font-family:Helvetica, sans-serif; color:#000010;=
+ font-size:12pt; line-height:20pt; text-align:left;">=20
+
+
+=09<!-- ********************************
+
+=09=09PS Copy
+
+=09*********************************** -->
+
+<p>P.S. Running short on time? <a href=3D"http://www.kent-info.org/turn/cai=
+/aAm/spn/12Z0C7I7W4E9I2K5RAM~8/lik/yTCG/cyp/wz/cmm/6014/esd/f2d7d9ff3fb6c76=
+d72f792c929ea5563eda31a35/" style=3D"color:#00aeef;" >Your <strong>Kent Sta=
+te Connection Application</strong></a> is only three pages and shouldn't ta=
+ke long to complete! <a href=3D"http://www.kent-info.org/turn/cai/aAm/spn/1=
+2Z0C7I7W4E9I2K5RAM~8/lik/yTCh/cyp/wz/cmm/6014/esd/f2d7d9ff3fb6c76d72f792c92=
+9ea5563eda31a35/" style=3D"color:#00aeef;" >Apply now.</a></p>=20
+
+
+
+=09<!-- ***** Please remove these tr and td tags if there is no PS ****** -=
+->
+=09=09=09</td></td>=20
+=09=09=09
+
+
+
+
+
+=09=09</table>
+=09=09<br /><br />
+=09=09<table style=3D"width:100%; border-top:1px solid #7f9ebe;">
+=09=09=09<tr><td>
+=09=09=09=09<br />
+=09=09=09=09<table class=3D"percent" style=3D"width:570px;" align=3D"center=
+">
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td style=3D"font-family:Helvetica, sans-serif; color:#53=
+6373; text-align:left;">
+
+
+
+
+
+
+=09<!-- ********************************
+
+=09=09OPT OUT copy goes here
+
+=09*********************************** -->
+
+<p style=3D"font-size: 0.8em;">I received your contact information from a n=
+ational student testing or research organization, or from a previous contac=
+t with you. If you'd rather not receive e-mail from Kent State, <a href=3D"=
+http://www.kent-info.org/turn/cai/aAm/spn/12Z0C7I7W4E9I2K5RAM~8/lik/yTCg/cy=
+p/wz/cmm/6014/esd/f2d7d9ff3fb6c76d72f792c929ea5563eda31a35/" style=3D"color=
+:#00aeef;" >let me know</a>.</p>
+
+
+
+
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</table>
+=09=09=09=09<br /><br/>
+=09=09=09</td></tr>
+=09=09</table>
+=09</td></tr>
+</table>
+<img src=3D"http://www.kent-info.org/rads/cai/aAm/spn/12Z0C7I7W4E9I2K5RAM~8=
+/cyp/wz/cmm/6014/sid/Elph0/rads.gif" alt=3D"Kent State University" />
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=q6b71rSHumSw1hjKcdTQtSMTkgA77fQpujTaAa961G4=;
+        b=iohkXspDWdiE+PMVJJrT2fMm2nr75B2MxZs+p7ZFEOp+UJKIkhxTbLDS89h/l0ZgPK
+         5u3mOV4WhjSHmjLjccqx8Z65ZDAtVWDuvXOpniaTU/fUs06CStedTQ8XcXRKE98J2WB2
+         O5BA41ebhJPhiRt+l8F8MwpTq6ShixA52ju6ve3gdA98ptztrwXbtlR6IFb6krUPL5RB
+         11+/66ewzesmGMBPIKBfZN06sLWYTvSmU4rh3Hr67t6YPXGudmbeYeREd352Ssxi9w9m
+         HaYozB75zrnhLAqSs7IbpYPN/pyipSqsumVNMVKU3gj6+l/BybqIvM5NPqeB1MZ4rWEn
+         tzIw==
+X-Received: by 10.107.136.38 with SMTP id k38mr46890329iod.145.1441926786877;
+        Thu, 10 Sep 2015 16:13:06 -0700 (PDT)
+Message-ID: <55F20E81.6090507@gmail.com>
+Date: Thu, 10 Sep 2015 19:13:05 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: Note!
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Please do not encrypt any messages to me - I will be checking messages
+on my phone upstairs.
+
+Thx!
+-- 
+Shannon Markiewicz, Ph.D.

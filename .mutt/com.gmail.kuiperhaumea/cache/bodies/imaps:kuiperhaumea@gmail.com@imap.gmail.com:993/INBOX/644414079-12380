@@ -1,0 +1,388 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp327201oid;
+        Sat, 18 Jul 2015 01:44:50 -0700 (PDT)
+X-Received: by 10.181.29.100 with SMTP id jv4mr3158529wid.4.1437209089849;
+        Sat, 18 Jul 2015 01:44:49 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x234.google.com (mail-wg0-x234.google.com. [2a00:1450:400c:c00::234])
+        by mx.google.com with ESMTPS id q14si20948274wju.110.2015.07.18.01.44.49
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 18 Jul 2015 01:44:49 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::234 as permitted sender) client-ip=2a00:1450:400c:c00::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::234 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@extsend.com
+Received: by mail-wg0-x234.google.com with SMTP id v7so23261525wga.2
+        for <kuiperhaumea@gmail.com>; Sat, 18 Jul 2015 01:44:49 -0700 (PDT)
+X-Received: by 10.194.2.228 with SMTP id 4mr35087473wjx.146.1437209089014;
+        Sat, 18 Jul 2015 01:44:49 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp240385wmd;
+        Sat, 18 Jul 2015 01:44:47 -0700 (PDT)
+X-Received: by 10.70.54.7 with SMTP id f7mr36833344pdp.75.1437209086815;
+        Sat, 18 Jul 2015 01:44:46 -0700 (PDT)
+Return-Path: <sender_48221_242_14831652@extsend.com>
+Received: from mail2.extsend.com (mail2.extsend.com. [216.27.20.141])
+        by mx.google.com with ESMTP id cy7si22799071pdb.189.2015.07.18.01.44.45
+        for <markiewicz.john@gmail.com>;
+        Sat, 18 Jul 2015 01:44:46 -0700 (PDT)
+Received-SPF: pass (google.com: domain of sender_48221_242_14831652@extsend.com designates 216.27.20.141 as permitted sender) client-ip=216.27.20.141;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=ec; d=extsend.com;
+ h=To:From:Reply-To:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:List-Help:List-Unsubscribe:List-Owner:Sender:Message-ID; i=admissions=3Dmwpai.edu@extsend.com;
+ bh=UML/1JOEY1ATM2WeUNu3cNWeDEs=;
+ b=nkRD3nvjx+uOVmT4MLmpgszyJw3HuZ0Pg1agIJdYzS4SG/3x03H1Rz+n0pG7eBddxUjFuiPMdAYq
+   KEXSBK+vQwRo/cMOHHa7943BUgQY9KV0mjUS+AKmLUTHr84Z/3vQDPrEy39AY3KvCiP7M4jmQw9i
+   56j5lxkmg27x+qhzarw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=ec; d=extsend.com;
+ b=22FC1Tc5YT3LQWEAfIQfj6y7ZM4VONsH7On1rXweYPiEKf6kPOYq1TGjFxXrbggBCYq9Qa24VU1W
+   3dJiIZcxHkwcdRNSjzzLFjrXBUxYj6yIE039pu0dpwlFc2RvvqONg7YUy6XzlhFHijTmbfS8pBe1
+   qEP46L1AXZcoyYuJKXk=;
+Return-Path: sender_48221_242_14831652@extsend.com
+To: JOHN MARKIEWICZ <markiewicz.john@gmail.com>
+From: "PrattMWP, Office of Admissions " <admissions@mwpai.edu>
+Reply-To: Ken Marchione
+ <sender_48221_242_277691@reply.emailcampaigns.net>
+Subject: A Message for JOHN from PrattMWP, Pratt's Upstate New York
+ Campus
+Date: Sat, 18 Jul 2015 08:06:38 +0000
+X-LibVersion: 3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-15045521455aa10014fbe05.23925136_=_"
+Content-Transfer-Encoding: 7bit
+List-Help: <http://clicks.gotoextinguisher.com/manage/about_list.php?g=242&c=48221&p=4aef6aabf29979c57b9469a99deb5e0b&utm_source=Fire%20Engine%20RED&utm_medium=email&utm_campaign=Information%20Session%20Invite&>
+List-Unsubscribe: <http://clicks.gotoextinguisher.com/r/?g=242&c=48221&p=4aef6aabf29979c57b9469a99deb5e0b&l=0&utm_source=Fire%20Engine%20RED&utm_medium=email&utm_campaign=Information%20Session%20Invite&>,<mailto:unsubscribe_48221_242_4aef6aabf29979c57b9469a99deb5e0b@extsend.com>
+List-Owner: <mailto:dliebeno@pratt.edu>
+X-EC-PID: 4aef6aabf29979c57b9469a99deb5e0b
+X-EC-SEND-ID: 14831652
+x-sendconfig: 6
+X-Mailer: Emailcampaigns
+ [VqBii454Hcp14knRy0zYQoj3qjKjAnKiWZ1CUgwfE85N80l9kuQJu7cH]
+Sender: "PrattMWP, Office of Admissions "
+ <admissions=mwpai.edu@extsend.com>
+Message-ID: <20150718084112.32438.1937827336.swift@vulcan>
+
+This is a message in multipart MIME format.  Your mail client should not
+be displaying this. Consider upgrading your mail client to view this
+message correctly.
+--_=_swift-15045521455aa10014fbe05.23925136_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+[PrattMWP_Logo_new_2013_color.jpg]
+
+   [Campus2.jpg]
+   Image of PrattMWP Campus
+
+   Dear JOHN,
+
+   I sincerely hope you are considering PrattMWP College of Art and
+   Design, Pratt Institute=E2=80=99s upstate New York extension campus in
+   Utica, as a prospective college choice based on your interest in
+   art, design or a similar field. If you haven't visited our
+   beautiful upstate New York campus, join us this summer for one of
+   our upcoming information sessions.  The next one is August 21 from
+   1-4, and it  includes a presentation about our majors (listed
+   below), portfolio and admissions requirements, campus tours, and an
+   optional portfolio review with an admissions counselor.  To
+   schedule,  email admissions@mwpai.edu, call 800.755.8920 or
+   [1]REGISTER ONLINE NOW.
+
+   PrattMWP is ranked among the top design schools in the United
+   States by Graphic Design USA, and Pratt Institute is ranked among
+   the top design schools by BusinessWeek and recently ranked number
+   one for fine arts and studio programs by USA Today.
+
+   [2]REQUEST A CATALOG NOW!
+
+   How Does a PrattMWP Education Work?
+   Pratt Institute offers you the option of starting your Pratt degree
+   at PrattMWP and then finishing your degree at Pratt's main campus
+   in Brooklyn. PrattMWP offers the first two years of Pratt's
+   renowned BFA programs in:
+
+   [3]Communications Design (graphic design, advertising art
+   direction, or illustration),
+   [4]Fine Arts (painting, drawing, ceramics, sculpture, jewelry,
+   printmaking),
+   [5]Art and Design Education (teacher prep/certification),
+   [6]Photography
+   Undecided Art and Design
+
+   After you complete the first two years at PrattMWP in Utica, you
+   may seamlessly and automatically relocate to Pratt=E2=80=99s main campus=
+ in
+   Brooklyn as  a junior to complete the last two years of your
+   degree; no application is required to relocate. Starting your
+   degree at PrattMWP provides you with the same prestigious education
+   you would receive at Pratt's main campus.
+
+   Although the vast majority of students relocate to Brooklyn to
+   finish their degree, you also have the option to apply as a
+   transfer student to any other art and design school after the first
+   two years.
+
+   Why do Students Choose PrattMWP?
+
+   1. Outstanding Rankings and Reputation:
+
+   Communications Design was ranked among the "Top 10 Graphic Design
+   and Fashion Design Programs" by [7]College Crunch
+   Fine Arts is ranked number one by USA Today.
+   PayScale ranks Pratt number one among the best art and design
+   schools with respect to the mid-career salary of its graduates
+   USA Today ranks Pratt number one for fine arts and studio programs
+   Pratt is ranked among the top design schools by BusinessWeek
+   Graphic Design USA ranks PrattMWP among the top design schools in
+   the United States
+
+   2. Automatic Relocation to Brooklyn in Year Three: the transition
+   to Brooklyn in year three is automatic and seamless as long as you
+   are in good academic standing.  You will complete your degree in
+   two years as long as you remain in the same major.  Upon
+   graduation, you are awarded your degree by Pratt Institute.
+
+   3. A Professional Faculty and An Intimate and Nurturing
+   Environment: PrattMWP's beautiful 11-acre campus is located in
+   Utica, New York, a small city near six million acres of protected
+   Adirondack wilderness.  PrattMWP is ideal for students looking for
+   a quieter, more intimate environment for the first two years where
+   they can focus on their work and learn from a faculty of
+   professional artists and designers.  The student to teacher ratio
+   is 10 to 1, ensuring individualized attention in every class.
+
+   Generous Merit-Based Scholarships and Significantly Lower Tuition:
+   all students are automatically considered for scholarships, which
+   range up to half tuition, with no separate application required.
+   Tuition is also substantially less than most top art and design
+   schools.
+
+   Applying: the non-binding freshman early action deadline is
+   November 1.  The regular decision deadline is January 5. [8] View
+   admissions requirements.
+
+   JOHN, I look forward to seeing you and hope you will
+   consider PrattMWP on your short list of prospective colleges.  Get
+   started now and [9]request information or [10]schedule a campus
+   visit.
+
+   Sincerely yours,
+
+
+   Ken Marchione
+   Dean of Art and Design
+   admissions@mwpai.edu
+   800.755.8920
+
+References
+
+   1. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D2fa46b691b05b93929d55ffd09c5ef0d&q=3D&t=3D2
+   2. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D4ae4ba5bda61a9801e88b97d84f540da&q=3D&t=3D2
+   3. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D2fec55fbecb06115147085a5fb098f8f&q=3D&t=3D2
+   4. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3Dd87e9a044ee68f64bac6fdfb6d113226&q=3D&t=3D2
+   5. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D289783c738a44c8b5659969d60fffaf3&q=3D&t=3D2
+   6. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D053ce965f66cba6f24d0f7da28f66357&q=3D&t=3D2
+   7. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3Df7dbc23ee00ae24bce79a48f32eb8a3e&q=3D&t=3D2
+   8. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D8361c2fcc0d0449775120ba8fce3d874&q=3D&t=3D2
+   9. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3Dc5947bb54e3c2b9af3830e169a83fec5&q=3D&t=3D2
+  10. http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6a=
+abf29979c57b9469a99deb5e0b&u=3D2fa46b691b05b93929d55ffd09c5ef0d&q=3D&t=3D2=
+=0AThis message sent by:=0A					PrattMWP Art Institute=0A					310 Genesee S=
+treet=0A					Utica, NY 13502=0A=0AGo to the following url to unsubscribe: h=
+ttp://clicks.gotoextinguisher.com/r/?g=3D242&c=3D48221&p=3D4aef6aabf29979c5=
+7b9469a99deb5e0b&l=3D0&utm_source=3DFire%20Engine%20RED&utm_medium=3Demail&=
+utm_campaign=3DInformation%20Session%20Invite&=0A=0AYou opted in to this li=
+st from: PSAT
+--_=_swift-15045521455aa10014fbe05.23925136_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">=0A<html>=0A=
+=0A<!-- If you are having trouble viewing this message, you can see it in y=
+our browser by following this link: http://clicks.gotoextinguisher.com/prev=
+iew/?c=3D48221&g=3D242&p=3D4aef6aabf29979c57b9469a99deb5e0b&utm_source=3DFi=
+re%20Engine%20RED&utm_medium=3Demail&utm_campaign=3DInformation%20Session%2=
+0Invite&-->=0A<head>=0A<meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml;charset=3Dutf-8">=0A<title>A Message for JOHN from PrattMWP, Pratt's Ups=
+tate NY Campus</title>=0A</head>=0A<body style=3D"font-family: Times New Ro=
+man;font-size: 12px;"><div style=3D"text-align: center; font-size: 11px; ma=
+rgin-bottom: 5px;">If you are having trouble viewing this message, <a href=
+=3D"http://clicks.gotoextinguisher.com/preview/?c=3D48221&g=3D242&p=3D4aef6=
+aabf29979c57b9469a99deb5e0b&utm_source=3DFire%20Engine%20RED&utm_medium=3De=
+mail&utm_campaign=3DInformation%20Session%20Invite&">see it in your browser=
+</a>.</div>
+<p><img height=3D"154" src=3D"http://images.gotoextinguisher.com/client_id_=
+48221/PrattMWP_Logo_new_2013_color.jpg" style=3D"display: block; margin-lef=
+t: auto; margin-right: auto;" width=3D"490"></p>
+<p style=3D"text-align: center;"><img height=3D"209" src=3D"http://images.g=
+otoextinguisher.com/client_id_48221/Campus2.jpg" width=3D"314"><br><em><spa=
+n style=3D"font-size: 10px;">Image of PrattMWP Campus</span></em></p>
+<p style=3D"text-align: center;"></p>
+<p style=3D"text-align: left;"><span style=3D"font-family: arial,helvetica,=
+sans-serif; font-size: 12px;">Dear JOHN,</span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">I sincerely hope you are considering PrattMWP College of Art and Design, =
+Pratt Institute&rsquo;s upstate New York extension campus in Utica, as a pr=
+ospective college choice based on your interest in art, design or a similar=
+ field. If you haven't visited our beautiful upstate New York campus, j</sp=
+an><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">oin us this summer for one of our upcoming information sessions.&nbsp; Th=
+e next one is August 21 from 1-4, and it&nbsp;<span style=3D"font-size: 12p=
+x; font-family: arial,helvetica,sans-serif;"><span style=3D"font-size: 12px=
+; font-family: arial,helvetica,sans-serif;"> includes a presentation about =
+our majors (listed below), portfolio and admissions requirements, campus to=
+urs, and an optional portfolio review with an admissions counselor.&nbsp; T=
+o schedule,&nbsp; email admissions@mwpai.edu, call 800.755.8920 or <a href=
+=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6aab=
+f29979c57b9469a99deb5e0b&u=3D43d3334cc3e526eaaba937b75f48daf1&q=3D&t=3D1" t=
+itle=3D"Visit Campus" target=3D"_blank"><span style=3D"background-color: #f=
+fff99;"><strong>REGISTER ONLINE NOW.</strong>&nbsp;</span> </a></span></spa=
+n><span style=3D"font-family: arial,helvetica,sans-serif;"><strong></strong=
+></span><br></span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">PrattMWP is ranked among the top design schools in the United States by <=
+em>Graphic Design USA</em>, and Pratt Institute is ranked among the top des=
+ign schools by <em>BusinessWeek</em> and recently ranked number one for fin=
+e arts and studio programs by <em>USA Today</em>. </span></p>
+<p><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=
+=3D4aef6aabf29979c57b9469a99deb5e0b&u=3D0b165c0b7e8823456a7657a7a36d7453&q=
+=3D&t=3D1" title=3D"Request Information" target=3D"_blank"><span style=3D"f=
+ont-size: 12px; font-family: arial,helvetica,sans-serif;">REQUEST A CATALOG=
+ NOW!</span></a></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+"><strong>How Does a PrattMWP Education Work?</strong><br>Pratt Institute o=
+ffers you the option of starting your Pratt degree at PrattMWP and then fin=
+ishing your degree at Pratt's </span><span style=3D"font-size: 12px; font-f=
+amily: arial,helvetica,sans-serif;">main campus in Brooklyn. </span><span s=
+tyle=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;">PrattMWP=
+ offers the first two years of Pratt's renowned BFA programs in:<br></span>=
+</p>
+<p style=3D"padding-left: 30px;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif; font-size: 12px;"><span style=3D"font-size: 12px; font-family=
+: arial,helvetica,sans-serif;"><a href=3D"http://clicks.gotoextinguisher.co=
+m/trkr/?c=3D48221&g=3D242&p=3D4aef6aabf29979c57b9469a99deb5e0b&u=3Df761ea1c=
+1692131f916ec9090678fe0f&q=3D&t=3D1" title=3D"Communications Design " targe=
+t=3D"_blank">Communications Design</a> (graphic design, advertising art dir=
+ection, or illustration), <br><a href=3D"http://clicks.gotoextinguisher.com=
+/trkr/?c=3D48221&g=3D242&p=3D4aef6aabf29979c57b9469a99deb5e0b&u=3Db957ea184=
+ccc127b95ab77a85b2357f9&q=3D&t=3D1" title=3D"Fine Arts" target=3D"_blank">F=
+ine Arts</a> (painting, drawing, ceramics, sculpture, jewelry, printmaking)=
+, <br><a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242=
+&p=3D4aef6aabf29979c57b9469a99deb5e0b&u=3D72ad8a7f9ad87aec3215873f54c75cb3&=
+q=3D&t=3D1" title=3D"Art and Design Education" target=3D"_blank">Art and De=
+sign Education</a> (teacher prep/certification),&nbsp; <br><a href=3D"http:=
+//clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6aabf29979c57=
+b9469a99deb5e0b&u=3D7dcb5ebc6e00913aa0d7b341a534796d&q=3D&t=3D1" title=3D"P=
+hotography" target=3D"_blank">Photography</a></span></span> <br><span style=
+=3D"font-family: arial,helvetica,sans-serif;">Undecided Art and Design</spa=
+n></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+"><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;"=
+><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;">=
+<span style=3D"font-family: arial,helvetica,sans-serif; font-size: 12px;">A=
+fter you complete the first two years at PrattMWP in Utica, you may seamles=
+sly and automatically relocate to Pratt&rsquo;s main campus in Brooklyn as&=
+nbsp; a junior to complete the last two years of your degree; no applicatio=
+n is required to relocate. Starting your degree at PrattMWP provides you wi=
+th the same prestigious education you would receive at Pratt's main campus.=
+&nbsp; </span></span></span></span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+"><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;"=
+><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;">=
+<span style=3D"font-family: arial,helvetica,sans-serif; font-size: 12px;">A=
+lthough the vast majority of students relocate to Brooklyn to finish their =
+degree, you also have the option to apply as a transfer student to any othe=
+r art and design school after the first two years.&nbsp; </span></span></sp=
+an></span></p>
+<p><span style=3D"font-family: arial,helvetica,sans-serif;"><strong>Why do =
+Students Choose PrattMWP?</strong></span></p>
+<p style=3D"padding-left: 30px;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif;"><strong>1. Outstanding Rankings and Reputation:</strong> </s=
+pan></p>
+<p style=3D"padding-left: 30px;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif;">Communications Design was ranked among the "Top 10 Graphic D=
+esign and Fashion Design Programs" by&nbsp;<a href=3D"http://clicks.gotoext=
+inguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6aabf29979c57b9469a99deb5e0b&=
+u=3D8d180f8e0ffa5f0f11dd58b425d59f02&q=3D&t=3D1" title=3D"College Crunch" t=
+arget=3D"_blank">College Crunch</a></span><br style=3D"font-family: arial,h=
+elvetica,sans-serif;"><span style=3D"font-family: arial,helvetica,sans-seri=
+f;">Fine Arts is ranked number one by USA Today. <br></span><span style=3D"=
+font-family: arial,helvetica,sans-serif;">PayScale ranks Pratt number one a=
+mong the best art and design schools with respect to the mid-career salary =
+of its graduates<br></span><span style=3D"font-family: arial,helvetica,sans=
+-serif;">USA Today ranks Pratt number one for fine arts and studio programs=
+<br></span><span style=3D"font-family: arial,helvetica,sans-serif;">Pratt i=
+s ranked among the top design schools by BusinessWeek<br></span><span style=
+=3D"font-family: arial,helvetica,sans-serif;">Graphic Design USA ranks Prat=
+tMWP among the top design schools in the United States</span></p>
+<p style=3D"padding-left: 30px;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif;"><strong>2. Automatic Relocation to Brooklyn in Year Three:</=
+strong> the transition to Brooklyn in year three is automatic and seamless =
+as long as you are in good academic standing.&nbsp; You will complete your =
+degree in two years as long as you remain in the same major.&nbsp; Upon gra=
+duation, you are awarded your degree by Pratt Institute. </span></p>
+<p style=3D"padding-left: 30px;"><span style=3D"font-family: arial,helvetic=
+a,sans-serif;"><strong>3. A Professional Faculty and An Intimate and Nurtur=
+ing Environment:</strong> PrattMWP's beautiful 11-acre campus is located in=
+ Utica, New York, a small city near six million acres of protected Adironda=
+ck wilderness.&nbsp; PrattMWP is ideal for students looking for a quieter, =
+more intimate environment for the first two years where they can focus on t=
+heir work and learn from a faculty of professional artists and designers.&n=
+bsp; The student to teacher ratio is 10 to 1, ensuring&nbsp;individualized =
+attention in every class.&nbsp; </span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+"><strong>Generous Merit-Based Scholarships and Significantly Lower Tuition=
+: </strong>all students are automatically considered for scholarships, whic=
+h range up to half tuition, with no separate application required. Tuition =
+is also substantially less than most top art and design schools.&nbsp; <br>=
+</span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+"><strong>Applying:</strong> the non-binding freshman early action deadline=
+ is November 1.&nbsp; The regular decision deadline is January 5.&nbsp;<a h=
+ref=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6=
+aabf29979c57b9469a99deb5e0b&u=3Dbf8da322dc841487eea092f772c386c8&q=3D&t=3D1=
+" title=3D"Requirements" target=3D"_blank"> View admissions requirements. <=
+/a></span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">JOHN, I look forward to seeing you and hope you will consider PrattMWP on=
+ your short list of prospective colleges.&nbsp; Get started now and <a href=
+=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4aef6aab=
+f29979c57b9469a99deb5e0b&u=3D30511d9d6ceb8b9dfba8d8cf2432390d&q=3D&t=3D1" t=
+itle=3D"Request Information" target=3D"_blank">request information</a> or <=
+a href=3D"http://clicks.gotoextinguisher.com/trkr/?c=3D48221&g=3D242&p=3D4a=
+ef6aabf29979c57b9469a99deb5e0b&u=3D3c32651e5cd38cae670349dca0f31a3d&q=3D&t=
+=3D1" title=3D"Visit Campus" target=3D"_blank">schedule a campus visit.</a>=
+</span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">Sincerely yours,</span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">&nbsp;</span></p>
+<p><span style=3D"font-size: 12px; font-family: arial,helvetica,sans-serif;=
+">Ken Marchione<br>Dean of Art and Design </span><br><span style=3D"font-si=
+ze: 12px; font-family: arial,helvetica,sans-serif;"> admissions@mwpai.edu<b=
+r>800.755.8920<br></span></p>
+<table id=3D"footer" align=3D"center" class=3D"ec-footer" style=3D"margin-t=
+op: 5px;"><tr><td style=3D"font-family: Arial, Helvetica, sans-serif; font-=
+size: 11px; color: #585858">This message sent to <b>MARKIEWICZ.JOHN@gmail.c=
+om</b> by <b>admissions@mwpai.edu</b>.<br><img src=3D"http://clicks.gotoext=
+inguisher.com/o/?c=3D48221&p=3D4aef6aabf29979c57b9469a99deb5e0b&t=3D1&g=3D2=
+42" alt=3D"" style=3D"position:absolute;" />PrattMWP Art Institute<br>310 G=
+enesee Street<br>Utica, NY 13502<br><br><b>You opted in to this list from:<=
+/b> PSAT<br><a href=3D"http://clicks.gotoextinguisher.com/r/?g=3D242&c=3D48=
+221&p=3D4aef6aabf29979c57b9469a99deb5e0b&l=3D0&utm_source=3DFire%20Engine%2=
+0RED&utm_medium=3Demail&utm_campaign=3DInformation%20Session%20Invite&" >Un=
+subscribe</a></td></tr></table></body>=0A</html>=0A
+--_=_swift-15045521455aa10014fbe05.23925136_=_--
+

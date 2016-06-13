@@ -1,0 +1,112 @@
+Return-Path: <bounce+abced8.947b4-jmarkiewicz=airmail.cc@mg.gitlab.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mg.gitlab.com; q=dns/txt;
+ s=mailo; t=1441655351; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: Subject: Message-ID: To: Reply-To: From: Date: Sender;
+ bh=J4oUwbPrdFzvps7nD6tG4tEmuWpyF7rdVgYR9RJs/w0=; b=bZNyDoWuZRsKIdVnJBsmt02znFOsjiBSNw4/+u2XU9fjQqV4yTOcgYQ7N2TRAgWiibrL9Qb3
+ Lc2WWKCIuReIt8eUaggmwMZSQmdVFwUbAy9kPdkjRSIsYMxDTiUOc40UraB7LcAqx3QZco4t
+ m/PSm+Tl6Gx+JCGzliuS78eRyqM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mg.gitlab.com; s=mailo;
+ q=dns; h=Sender: Date: From: Reply-To: To: Message-ID: Subject:
+ Mime-Version: Content-Type: Content-Transfer-Encoding;
+ b=BLP9swLaLzhEwf9f86Ahen6nl7UiGsy3jkXPPUPKIrJ93/dtSwpQnn/10NTccc+NzuylaE
+ dOD0mM7vAv861aWkyTcZKY7e56qXAWXa0YzhHPjiRwPHogbmHqvjuCnbZU7j/+oHNaXpCcGP
+ 97JXI2JaklfCqJ5Z1PCPmEfoqPq2Q=
+Sender: gitlab=gitlab.com@mg.gitlab.com
+X-Mailgun-Sid: WyJiMGNjZSIsICJqbWFya2lld2ljekBhaXJtYWlsLmNjIiwgIjk0N2I0Il0=
+Date: Mon, 07 Sep 2015 19:49:11 +0000
+From: GitLab <gitlab@gitlab.com>
+Reply-To: noreply@gitlab.com
+To: jmarkiewicz@airmail.cc
+Message-ID: <55edea375ff96_b535122b84c127493@worker26.cluster.gitlab.com.mail>
+Subject: SSH key was added to your account
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_55edea375f2dc_b535122b84c1273a3";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_55edea375f2dc_b535122b84c1273a3
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi John Markiewicz!
+
+A new public key was added to your account:
+
+Title: jmarkiewicz@airmail.cc
+
+If this key was added in error, you can remove it at https://gitlab.com/profile/keys
+
+----==_mimepart_55edea375f2dc_b535122b84c1273a3
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html lang='en'>
+<head>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+<title>
+GitLab
+</title>
+</meta>
+</head>
+<style>
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  p.details {
+    font-style:italic;
+    color:#777
+  }
+  .footer p {
+    font-size:small;
+    color:#777
+  }
+  pre.commit-message {
+    white-space: pre-wrap;
+  }
+  .file-stats a {
+    text-decoration: none;
+  }
+  .file-stats .new-file {
+    color: #090;
+  }
+  .file-stats .deleted-file {
+    color: #B00;
+  }
+</style>
+<body>
+<div class='content'>
+<p>
+Hi John Markiewicz!
+</p>
+<p>
+A new public key was added to your account:
+</p>
+<p>
+title:
+<code>jmarkiewicz@airmail.cc</code>
+</p>
+<p>
+If this key was added in error, you can remove it under
+<a href="https://gitlab.com/profile/keys">SSH Keys</a>
+</p>
+
+</div>
+<div class='footer' style='margin-top: 10px;'>
+<p>
+&mdash;
+<br>
+<a href="https://gitlab.com/u/jmarkiewicz">View it on GitLab</a>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"EmailMessage","action":{"@type":"ViewAction","name":["merge_requests","issues","commit"],"url":"https://gitlab.com/u/jmarkiewicz"}}</script>
+</p>
+</div>
+</body>
+</html>
+
+----==_mimepart_55edea375f2dc_b535122b84c1273a3--

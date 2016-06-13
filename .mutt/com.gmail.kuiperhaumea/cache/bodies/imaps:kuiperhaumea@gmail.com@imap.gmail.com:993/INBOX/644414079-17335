@@ -1,0 +1,94 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp532126oia;
+        Tue, 15 Mar 2016 03:44:49 -0700 (PDT)
+X-Received: by 10.194.24.39 with SMTP id r7mr27918592wjf.86.1458038689707;
+        Tue, 15 Mar 2016 03:44:49 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22e.google.com (mail-wm0-x22e.google.com. [2a00:1450:400c:c09::22e])
+        by mx.google.com with ESMTPS id k82si23628215wmg.17.2016.03.15.03.44.49
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Mar 2016 03:44:49 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) client-ip=2a00:1450:400c:c09::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x22e.google.com with SMTP id p65so135357727wmp.1
+        for <kuiperhaumea@gmail.com>; Tue, 15 Mar 2016 03:44:49 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:from
+         :content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=3WY0eVo/HJjllVidHZdzUaNmDb5OczMGh7FZDKVgMiA=;
+        b=j5ThsISxjcPYhbPhupTogvKtd1cDcM3e5/jvZzEcfjO0zRiatQr0dTcPmGx6GDaZD9
+         93dN2S063xafJeeke67UHoQuLCQVV5+d23svgGd+CfB7uCh1Zq4B/3NUO2zLN/IUR+zS
+         koAwuLQ79os/1lGBKFQdwSskqjwL5TTkQZCfrXyzgvCt9L/dEwxmbzOcRWYf87VIyk62
+         xSWIvliXSjMAxmi92p7LRWru1LzubVstESGQ7xs8+X1OFw1G/ABWJCJQ1Al7aem0MhMz
+         tBxe1n5AIv/j1d4P4Gr73Yq/vIlRTMz0oIXhcZL6Cm089yAtzVqa+pOMsAektlHNswjx
+         cZaQ==
+X-Gm-Message-State: AD7BkJKNNHX/oU/qUZtqm8PP8qIga5JCVuKY5d6Z6DNKlhTymsm2hNS4Rst6/JWf4mNqdLekZCXl82ShR5tLRbLnchEdvzA=
+X-Received: by 10.194.112.34 with SMTP id in2mr32045293wjb.160.1458038689054;
+        Tue, 15 Mar 2016 03:44:49 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp525852wmb;
+        Tue, 15 Mar 2016 03:44:48 -0700 (PDT)
+X-Received: by 10.55.74.75 with SMTP id x72mr2441596qka.100.1458038688176;
+        Tue, 15 Mar 2016 03:44:48 -0700 (PDT)
+Return-Path: <dominique.hadad07@gmail.com>
+Received: from mail-qg0-f47.google.com (mail-qg0-f47.google.com. [209.85.192.47])
+        by mx.google.com with ESMTPS id p37si23784872qgd.100.2016.03.15.03.44.47
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Mar 2016 03:44:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of dominique.hadad07@gmail.com designates 209.85.192.47 as permitted sender) client-ip=209.85.192.47;
+Received: by mail-qg0-f47.google.com with SMTP id w104so1572qge.1
+        for <markiewicz.john@gmail.com>; Tue, 15 Mar 2016 03:44:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=from:content-transfer-encoding:mime-version:subject:message-id:date
+         :references:in-reply-to:to;
+        bh=3WY0eVo/HJjllVidHZdzUaNmDb5OczMGh7FZDKVgMiA=;
+        b=AgQS3GJoTbveCbsfSZFK6xPP9UXxP+v9Y0utPED9HViKSNUx+45j3GHRqRZmPfHMEs
+         5Dv0bCTXgijrX55MqeEGRYiNPYEPAC7eLOz66SlrXk/26Dd/Fc/UYO9uR5lhjJ+zh93C
+         fF4j3NBRpV5sKEDZ30juRDMignNA3xKgoUGhbaJleybP0BOlyJqI1zZgL5J2+CR4Bjti
+         w+LZiavahrmWCvtGLfY3O1t+hU7BAKxrpxbDxYYyUxjy3atCb1LIKjEGyK0xWLNgEbCR
+         FWC4KnIC3caWDia/UIoe1/2vEnxHaDzHpxtC3HjGKgNO3+EAzFY5bJSmPKNhH4cnO+qx
+         LMxg==
+X-Received: by 10.140.167.133 with SMTP id n127mr37273646qhn.73.1458038687700;
+        Tue, 15 Mar 2016 03:44:47 -0700 (PDT)
+Return-Path: <dominique.hadad07@gmail.com>
+Received: from [192.168.0.6] (cpe-71-79-253-58.columbus.res.rr.com. [71.79.253.58])
+        by smtp.gmail.com with ESMTPSA id f76sm12370856qhe.14.2016.03.15.03.44.47
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 15 Mar 2016 03:44:47 -0700 (PDT)
+From: Dominique Hadad <dominique.hadad07@gmail.com>
+Content-Type: text/plain;
+	charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+Subject: Re: Handout PDF
+Message-Id: <45F79592-0D22-4157-B725-E697C3340412@gmail.com>
+Date: Tue, 15 Mar 2016 06:44:46 -0400
+References: <CAJsGx3KhLt5CVWp64TLdxiah7RVjO4XrExaZCf1HGN8B-WcJTg@mail.gmail.com>
+In-Reply-To: <CAJsGx3KhLt5CVWp64TLdxiah7RVjO4XrExaZCf1HGN8B-WcJTg@mail.gmail.com>
+To: John Markiewicz <markiewicz.john@gmail.com>
+X-Mailer: iPhone Mail (13D15)
+
+That looks great! I hope we're allowed to just say the answers are in the ba=
+ck of the book but otherwise everything looks great thanks so so much John!
+
+> On Mar 15, 2016, at 6:23 AM, John Markiewicz <markiewicz.john@gmail.com> w=
+rote:
+>=20
+> Please look over this, make sure I didn't screw something up (it was kind o=
+f late).
+>=20
+> The .tex file is attached just for my own benefit, it's unlikely to do you=
+ much good.
+> <handout.tex>
+> <handout.pdf>

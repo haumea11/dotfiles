@@ -1,0 +1,529 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.11.66 with SMTP id 63csp256911vkl;
+        Wed, 11 May 2016 08:07:04 -0700 (PDT)
+X-Received: by 10.28.236.88 with SMTP id k85mr627336wmh.53.1462979224274;
+        Wed, 11 May 2016 08:07:04 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x230.google.com (mail-wm0-x230.google.com. [2a00:1450:400c:c09::230])
+        by mx.google.com with ESMTPS id q18si9777926wmg.104.2016.05.11.08.07.04
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 11 May 2016 08:07:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::230 as permitted sender) client-ip=2a00:1450:400c:c09::230;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mail25.atl111.rsgsv.net;
+       dkim=pass header.i=@gmail.mcsv.net;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::230 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wm0-x230.google.com with SMTP id n129so218658829wmn.1
+        for <kuiperhaumea@gmail.com>; Wed, 11 May 2016 08:07:04 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:dkim-signature
+         :subject:from:reply-to:to:date:message-id:list-id:precedence
+         :list-unsubscribe:sender:mime-version;
+        bh=zjNc4l2VDcDHr0WMNaCmfRxJdieo6YsO+lCbdfvVQpc=;
+        b=TFk0LUbdXMaGQQ2ldfUWtND/1aNiXl7HT3O0TCGl+yTaaW0YUBBZgaUPBFk9dwkxWJ
+         W08LmPpBIQECiP1uiWdnFRdozF5lGRg0qQoI67GYV/VEbrZ4/sTC+DRo6HH0z1c6EGXu
+         Sk9e7IKqW+TWH7Z9rQEf4zjkPOm1/QOtjrHEWgCmpS40XPuQwfC9q09A0EclI/VbvTSm
+         OpWi0IVO9eQLmTJzOB/Qg0XhWapDQFbCR4/LQQx4nstJRlwD6Uw2tWAEruUXgRB56Jg1
+         qnbwrDPHzFjyi5pLCDTOC7d49ru15WO2JlFB809cAyld66KclBLNDsS4d7/zhJvlyMv6
+         A9LQ==
+X-Gm-Message-State: AOPr4FWjVYL5dtj/YQYPVI30fGlqFZY8+jKW1SSxSVYjAi3aLB63/lHlcXEHe4YatmVcS8DjSZ92dAfuEoGlJOvA/D7DjRM=
+X-Received: by 10.28.137.210 with SMTP id l201mr592302wmd.31.1462979223923;
+        Wed, 11 May 2016 08:07:03 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.65.215 with SMTP id o206csp283338wma;
+        Wed, 11 May 2016 08:07:03 -0700 (PDT)
+X-Received: by 10.129.39.151 with SMTP id n145mr1781803ywn.303.1462979223095;
+        Wed, 11 May 2016 08:07:03 -0700 (PDT)
+Return-Path: <bounce-mc.us2_5931134.1308213-markiewicz.john=gmail.com@mail25.atl111.rsgsv.net>
+Received: from mail25.atl111.rsgsv.net (mail25.atl111.rsgsv.net. [198.2.131.25])
+        by mx.google.com with ESMTPS id h125si2542074ybh.81.2016.05.11.08.07.02
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 11 May 2016 08:07:03 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_5931134.1308213-markiewicz.john=gmail.com@mail25.atl111.rsgsv.net designates 198.2.131.25 as permitted sender) client-ip=198.2.131.25;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail25.atl111.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=do-not-reply=3Djetpens.com@mail25.atl111.rsgsv.net;
+ bh=2HFMI4Wa1ZpqK8mVWVdswW9YKEU=;
+ b=xr2YCoQW35PcipcrttpMZGge6coC9Q8RHe6rsztV1e9/f+B/2O6Dj/ndsvKpwncjRXzgfiulSlJ1
+   ghC22c1MnQoH44Ph8sb3pKOP6g6/Qzl6MC8O5hck/HJhfrFAUuKbSwYVYJ/7Ksmi+4kiij8GyJMB
+   4cL5txjcKkGT67G1t1k=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=2HFMI4Wa1ZpqK8mVWVdswW9YKEU=;
+ b=pdz+eXAYAq3788a0QVn0qwdWrCgytue9KybYuE7F/1u1N7Dl2h3uRKFn7TV3u2li2V4zLrXKvMf8
+   tZZns6kN7ip1pMto0q3B5E8o6skQtI/zLIWH8UUzN4W8q+nvDbMdNXsQ+7WiKu1YQJzkuMzA/+3H
+   wO6B+pM+UHMCyG248OI=
+Received: from (127.0.0.1) by mail25.atl111.rsgsv.net id h6d59e1ohlgl for <markiewicz.john@gmail.com>; Wed, 11 May 2016 15:06:40 +0000 (envelope-from <bounce-mc.us2_5931134.1308213-markiewicz.john=gmail.com@mail25.atl111.rsgsv.net>)
+Subject: =?utf-8?Q?Free=20Mechanical=20Pencil=20Offer=20+=20Guide=20to=20Adult=20Coloring=20Supplies=2C=20New=20Pentel=20Orenz=20Metal=20Grip=20Pencils=2C=20Ziller=20Oblique=20Nib=20Holders=2C=20and=20More=21?=
+From: =?utf-8?Q?JetPens?= <do-not-reply@jetpens.com>
+Reply-To:  <us2-420bba4276-0818db16c8@conversation01.mailchimpapp.com>
+To: <markiewicz.john@gmail.com>
+Date: Wed, 11 May 2016 15:06:40 +0000
+Message-ID: <50874e856d63dbc9da48f17f6e52b73bd69.20160511150601@mail25.atl111.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID57b3e25b47e52b73bd69**
+X-Campaign: mailchimp50874e856d63dbc9da48f17f6.57b3e25b47
+X-campaignid: mailchimp50874e856d63dbc9da48f17f6.57b3e25b47
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=50874e856d63dbc9da48f17f6&id=57b3e25b47&e=e52b73bd69
+X-MC-User: 50874e856d63dbc9da48f17f6
+X-Feedback-ID: 5931134:5931134.1308213:us2:mc
+List-ID: 50874e856d63dbc9da48f17f6mc list <50874e856d63dbc9da48f17f6.661209.list-id.mcsv.net>
+Precedence: bulk
+X-Auto-Response-Suppress: OOF, AutoReply
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us2_50874e856d63dbc9da48f17f6.57b3e25b47-e52b73bd69@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://jetpens.us2.list-manage.com/unsubscribe?u=50874e856d63dbc9da48f17f6&id=e853d77ed9&e=e52b73bd69&c=57b3e25b47>
+Sender: "JetPens" <do-not-reply=jetpens.com@mail25.atl111.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1635131030"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1635131030
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+http://www.jetpens.com?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3=
+e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b4=
+7-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+Free Mechanical Pencil Offer + Guide to Adult Coloring Supplies=2C New Pen=
+tel Orenz Metal Grip Pencils=2C Ziller Oblique Nib Holders=2C and More!
+New Arrivals (http://www.jetpens.com/search?q=3Dproduct_date_added_dt:%222=
+016-05-10T12:03:00Z%22&f=3D&pn=3D1&sa=3DalphaNameSort&so=3D1&ip=3D48&utm_s=
+ource=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_me=
+dium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D5=
+7b3e25b47&mc_eid=3D[UNIQID])
+Pentel Orenz Metal Grip Mechanical Pencils (http://www.jetpens.com/Pentel-=
+Orenz-Mechanical-Pencils-Metal-Grip/ct/3591?utm_source=3DJetPens+Newslette=
+r&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0=
+_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQ=
+ID])
+The incredibly precise Pentel Orenz Metal Grip Mechanical Pencil (http://w=
+ww.jetpens.com/Pentel-Orenz-Mechanical-Pencils-Metal-Grip/ct/3591?utm_sour=
+ce=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_mediu=
+m=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3=
+e25b47&mc_eid=3D[UNIQID]) has a lightly knurled grip section and a lead-p=
+rotecting sleeve.
+SHOP NOW (http://www.jetpens.com/Pentel-Orenz-Mechanical-Pencils-Metal-Gri=
+p/ct/3591?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-201605=
+11_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-=
+295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Clairefontaine Coloring Books (http://www.jetpens.com/Clairefontaine-Color=
+ing-Books/ct/3585?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b4=
+7-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-=
+295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Get creative with the new Clairefontaine Coloring Books (http://www.jetpen=
+s.com/Clairefontaine-Coloring-Books/ct/3585?utm_source=3DJetPens+Newslette=
+r&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0=
+_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQ=
+ID]) =2C which feature detailed illustrations of birds=2C flowers=2C and p=
+lants.
+SHOP NOW (http://www.jetpens.com/Clairefontaine-Coloring-Books/ct/3585?utm=
+_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_=
+medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=
+=3D57b3e25b47&mc_eid=3D[UNIQID])
+Ziller Nib Holders (http://www.jetpens.com/Ziller-Nib-Holders/ct/3594?utm_=
+source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_m=
+edium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D=
+57b3e25b47&mc_eid=3D[UNIQID])
+Ziller Oblique Nib Holders (http://www.jetpens.com/Ziller-Nib-Holders/ct/3=
+594?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_ene=
+ws&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&m=
+c_cid=3D57b3e25b47&mc_eid=3D[UNIQID]) are fitted with hand-cut brass flan=
+ges that hold popular nibs like the Zebra G or Brause 66.
+SHOP NOW (http://www.jetpens.com/Ziller-Nib-Holders/ct/3594?utm_source=3DJ=
+etPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Dem=
+ail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47=
+&mc_eid=3D[UNIQID])
+Speedball Pointed Pen Nibs (http://www.jetpens.com/Speedball-Nibs/ct/3238?=
+sa=3Dproduct_date_added_dt&so=3D-1&ip=3D48&utm_source=3DJetPens+Newsletter=
+&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_=
+e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQI=
+D])
+Speedball Pen Point Nibs (http://www.jetpens.com/Speedball-Nibs/ct/3238?sa=
+=3Dproduct_date_added_dt&so=3D-1&ip=3D48&utm_source=3DJetPens+Newsletter&u=
+tm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e8=
+53d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]=
+) are well-loved by artists and calligraphers alike! Choose from firm draw=
+ing nibs or flexible calligraphy nibs.
+SHOP NOW (http://www.jetpens.com/Speedball-Nibs/ct/3238?sa=3Dproduct_date_=
+added_dt&so=3D-1&ip=3D48&utm_source=3DJetPens+Newsletter&utm_campaign=3D57=
+b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25=
+b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Guide to Adult Coloring Tools (http://www.jetpens.com/blog/guide-to-adult-=
+coloring-supplies/pt/874?utm_source=3DJetPens+Newsletter&utm_campaign=3D57=
+b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25=
+b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Grown-ups everywhere are picking up the fun hobby of coloring! While kids=
+ mainly use crayons=2C adults can treat themselves to more sophisticated t=
+ools. In our new Guide to Adult Coloring Supplies (http://www.jetpens.com/=
+blog/guide-to-adult-coloring-supplies/pt/874?utm_source=3DJetPens+Newslett=
+er&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D=
+0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNI=
+QID]) =2C we explore the vast possibilities=E2=80=94gel pens=2C markers=2C=
+ brushes=2C and even watercolors!
+Video: Pocket Brush Pens (http://www.jetpens.com/Pocket-Brush-Pen-Intro/vd=
+/37?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_ene=
+ws&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&m=
+c_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Brush pens are artist's best friend when it comes to inking=2C sketching=
+=2C and adding dynamic lines to your art. In this Pocket Brush Pens Video=
+ (http://www.jetpens.com/Pocket-Brush-Pen-Intro/vd/37?utm_source=3DJetPens=
++Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&ut=
+m_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_ei=
+d=3D[UNIQID]) =2C you'll learn all about a brush pen's tip type=2C firmne=
+ss=2C flexibility=2C and more.
+Special Offer: Free Mechanical Pencil with every $75.00 Spent (http://www.=
+jetpens.com/Offer?id=3D67af0d6aae189c41&utm_source=3DJetPens+Newsletter&ut=
+m_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e85=
+3d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Get a FREE 0.5 mm mechanical pencil for every $75.00 spent! Choose either=
+ the Zebra DelGuard or Uni Kuru Toga at checkout. Limited Quantities. Offe=
+r valid until 5/17/16 at Midnight Pacific Time. Click REDEEM NOW (http://w=
+ww.jetpens.com/Offer?id=3D67af0d6aae189c41&utm_source=3DJetPens+Newsletter=
+&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_=
+e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQI=
+D]) to activate this offer!
+Restocked: FineTec Artist Mica Watercolors (http://www.jetpens.com/Finetec=
+-Artist-Mica-Watercolors/ct/3569?utm_source=3DJetPens+Newsletter&utm_campa=
+ign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9=
+-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID])
+Finetec Artist Mica Watercolors (http://www.jetpens.com/Finetec-Artist-Mic=
+a-Watercolors/ct/3569?utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e=
+25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47=
+-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]) have been restock=
+ed! These luxurious watercolors will add metallic shimmer to your calligra=
+phy and craft projects. Choose from beautiful palette sets=2C or pick up s=
+elect single pans.
+Facebook 40k Celebration Giveaway (https://www.facebook.com/JetPens/photos=
+/a.219272757248.132340.44054262248/10154283445172249/?type=3D3&theater&utm=
+_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_=
+medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=
+=3D57b3e25b47&mc_eid=3D[UNIQID])
+We're almost at 40=2C000 likes on Facebook! To celebrate=2C we're holding=
+ a Facebook Fan Appreciation giveaway: FOUR lucky winners will receive an=
+ 18-color set of Marvy Le Pen Markers. Head over to our Facebook page to c=
+heck it out and enter (https://www.facebook.com/JetPens/photos/a.219272757=
+248.132340.44054262248/10154283445172249/?type=3D3&theater&utm_source=3DJe=
+tPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Dema=
+il&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&=
+mc_eid=3D[UNIQID]) !
+The luxurious Lamy Dark Lilac is coming soon to JetPens! This collection f=
+eatures limited edition Safari fountain pens with sleek black clips=2C plu=
+s matching deep purple ink.
+* http://www.jetpens.com/blog/feed?utm_source=3DJetPens+Newsletter&utm_cam=
+paign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77e=
+d9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* http://www.facebook.com/JetPens?utm_source=3DJetPens+Newsletter&utm_camp=
+aign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed=
+9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* http://twitter.com/JetPens?utm_source=3DJetPens+Newsletter&utm_campaign=
+=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57=
+b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* https://plus.google.com/+JetpensPage/posts?utm_source=3DJetPens+Newslett=
+er&utm_campaign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D=
+0_e853d77ed9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNI=
+QID]
+* http://www.pinterest.com/JetPens?utm_source=3DJetPens+Newsletter&utm_cam=
+paign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77e=
+d9-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* http://instagram.com/JetPens?utm_source=3DJetPens+Newsletter&utm_campaig=
+n=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-5=
+7b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* http://jetpens.tumblr.com/?utm_source=3DJetPens+Newsletter&utm_campaign=
+=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57=
+b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+* http://www.youtube.com/JetPens?utm_source=3DJetPens+Newsletter&utm_campa=
+ign=3D57b3e25b47-20160511_enews&utm_medium=3Demail&utm_term=3D0_e853d77ed9=
+-57b3e25b47-295325765&mc_cid=3D57b3e25b47&mc_eid=3D[UNIQID]
+
+Copyright =C2=A92016 PCOW=2C Inc.=2C All rights reserved.
+Our mailing address is:
+JetPens.com
+2050 Gateway Place Suite 100-184
+San Jose=2C CA 95110
+USA
+Click here (http://jetpens.us2.list-manage.com/unsubscribe?u=3D50874e856d6=
+3dbc9da48f17f6&id=3De853d77ed9&e=3De52b73bd69&c=3D57b3e25b47) to unsubscribe=
+ from this newsletter
+Click here (http://www.jetpens.com/newsletter/subscribe?source=3Dnewslette=
+r&utm_source=3DJetPens+Newsletter&utm_campaign=3D57b3e25b47-20160511_enews=
+&utm_medium=3Demail&utm_term=3D0_e853d77ed9-57b3e25b47-295325765&mc_=
+cid=3D57b3e25b47&mc_eid=3D[UNIQID]) to subscribe to this newsletter
+--_----------=_MCPart_1635131030
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<style type="text/css">
+a { color:#6F8507;}
+td.Newsletter_View_Element_Header { padding:10px 0px 0px 0px;}td.Newsletter_View_Element_Subject {background-color:white; text-align:center; padding:15px 17px;font-weight:bold;font-size:16px;}
+td.Newsletter_View_Element_Body_One { padding:0px; }
+td.Newsletter_View_Element_Body_One .description {font-size:13px;line-height:19px;padding-top:5px;}
+td.Newsletter_View_Element_Body_One td {width:100%;vertical-align:top;}
+
+.debug td.Newsletter_View_Element_Body_One img {border:1px solid red;width:100%;}
+
+td.Newsletter_View_Element_Body_One .wrapper { padding:0px 17px; background-color:white;}
+.debug td.Newsletter_View_Element_Body_One .wrapper { border-top:1px solid black;border-bottom:1px solid black;}
+
+td.Newsletter_View_Element_Spacer .spacer {padding:10px 0px;}
+.debug td.Newsletter_View_Element_Spacer .spacer {border:1px solid black;}
+
+td.Newsletter_View_Element_Spacer .wrapper { padding:0px 17px; background-color:white;}
+.debug td.Newsletter_View_Element_Spacer .wrapper { border-top:1px solid black;border-bottom:1px solid black;}
+
+td.Newsletter_View_Element_Body_Two { padding:0px; }
+td.Newsletter_View_Element_Body_Two .description {font-size:13px;line-height:19px;padding-top:5px;}
+td.Newsletter_View_Element_Body_Two td {width:100%;vertical-align:top;}
+
+td.Newsletter_View_Element_Body_Two td.one {width:50%;padding:0px 17px 0px 0px;}
+td.Newsletter_View_Element_Body_Two td.two {width:50%;padding:0px 0px 0px 17px;}
+
+.debug td.Newsletter_View_Element_Body_Two td img {border:1px solid green;}
+.debug td.Newsletter_View_Element_Body_Two td {border:1px solid red;}
+
+td.Newsletter_View_Element_Body_Two .wrapper { padding:0px 17px; background-color:white;}
+.debug td.Newsletter_View_Element_Body_Two .wrapper { border-top:1px solid black;border-bottom:1px solid black;}
+
+td.Newsletter_View_Element_Divider .divider-container {padding:15px 0px;}
+td.Newsletter_View_Element_Divider .divider { border-top:6px dotted #ffcf3d;border-bottom:0px;border-left:0px;border-right:0px;}
+
+td.Newsletter_View_Element_Divider .wrapper { padding:0px 17px; background-color:white;}
+.debug td.Newsletter_View_Element_Divider .wrapper { border-top:1px solid black;border-bottom:1px solid black;}
+
+td.Newsletter_View_Element_Footer { padding:10px 0px; }
+td.Newsletter_View_Element_Footer td { vertical-align:top; padding-top:5px;}
+td.Newsletter_View_Element_Footer .footer-bd {font-size:10px;}
+td.Newsletter_View_Element_Footer .footer-bd .copyright,
+td.Newsletter_View_Element_Footer .footer-bd .mailing-address
+ {color:#666;}
+td.Newsletter_View_Element_Footer ul.share {padding:0px;margin:0px;height:50px;}
+td.Newsletter_View_Element_Footer ul.share li {display:inline;padding:0px;margin:0px;}
+td.Newsletter_View_Element_Footer .sprite {
+  display:inline-block;
+  width:50px;
+  height:50px;
+  margin:0px 2px 0px 0px;
+  padding:0px;
+}
+</style>
+<table class="debugs" width="100%" border="0" cellspacing="0" cellpadding="0" style="padding:0;background-color:#DCDFCA;border-radius:8px;font-size:11px;font-family:Arial;" align="center">
+  <tr><td align="center">
+    <table width="600" cellspacing="0" cellpadding="0" border="0" align="center" style="background-color:none;">
+      <tr><td class="Newsletter_View_Element_Header" style="padding: 10px 0px 0px 0px;">
+<table width="600" cellspacing="0" cellpadding="10" border="0" style="background-color:#F8F8EE;">
+  <tr>
+    <td style="text-align:left;width:600px;padding:0px 0px 0px 0px;"><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=08ed8d72c4&e=e52b73bd69" style="color: #6F8507;"><img border="0" alt="JetPens.com" title="JetPens.com" src="http://static2.jetpens.com/images/a/000/062/62939.png?s=f5ca86b5a9790e39839db3b43796c1bd"></a></td>
+  </tr>
+</table></td></tr><tr><td class="Newsletter_View_Element_Subject" style="background-color: white;text-align: center;padding: 15px 17px;font-weight: bold;font-size: 16px;">Free Mechanical Pencil Offer + Guide to Adult Coloring Supplies, New Pentel Orenz Metal Grip Pencils, Ziller Oblique Nib Holders, and More!</td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=fe34c58d1d&e=e52b73bd69" alt="New Arrivals" title="New Arrivals" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88691.jpg?s=3035396078d7ef5a655bdb8fe5ca5567"></a></div>
+      
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Spacer"><div class="wrapper" style="padding: 0px 17px;background-color: white;"><div class="spacer" style="padding: 10px 0px;"></div></div></td></tr><tr><td class="Newsletter_View_Element_Body_Two" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="one" style="width: 50%;vertical-align: top;padding: 0px 17px 0px 0px;">
+      <a href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=1dfbfad755&e=e52b73bd69" alt="Pentel Orenz Metal Grip Mechanical Pencils" title="Pentel Orenz Metal Grip Mechanical Pencils" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88695.jpg?s=3e16c39aa6d20078d90b4d4d6d5e25b4"></a>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">The incredibly precise <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=12cd8423fc&e=e52b73bd69" style="color: #6F8507;">Pentel Orenz Metal Grip Mechanical Pencil</a> has a lightly knurled grip section and a lead-protecting sleeve.</div>
+      
+<table cellspacing="0" cellpadding="0" border="0" style="margin-top:5px;border-collapse:separate!important;border:1px solid #c06531;border-radius:4px;background-color:#e66f2d">
+  <tr>
+    <td valign="middle" align="center" style="font-family: Arial;font-weight: bold;font-size: 13px;padding: 7px;width: 100%;vertical-align: top;">
+      <a style="font-weight:bold;letter-spacing:normal;line-height:100%;text-align:center;text-decoration:none;color:#ffffff;word-wrap:break-word" title="SHOP NOW" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=f2da9adc4b&e=e52b73bd69">SHOP NOW</a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+    <td class="two" style="width: 50%;vertical-align: top;padding: 0px 0px 0px 17px;">
+      <a href="http://jetpens.us2.list-manage2.com/track/click?u=50874e856d63dbc9da48f17f6&id=4523146d0b&e=e52b73bd69" alt="Clairefontaine Coloring Books" title="Clairefontaine Coloring Books" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88694.jpg?s=87dad95ad4cf5b2f4d0400637199c822"></a>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">Get creative with the new <a href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=bf5509733a&e=e52b73bd69" style="color: #6F8507;">Clairefontaine Coloring Books</a>, which feature detailed illustrations of birds, flowers, and plants.</div>
+      
+<table cellspacing="0" cellpadding="0" border="0" style="margin-top:5px;border-collapse:separate!important;border:1px solid #c06531;border-radius:4px;background-color:#e66f2d">
+  <tr>
+    <td valign="middle" align="center" style="font-family: Arial;font-weight: bold;font-size: 13px;padding: 7px;width: 100%;vertical-align: top;">
+      <a style="font-weight:bold;letter-spacing:normal;line-height:100%;text-align:center;text-decoration:none;color:#ffffff;word-wrap:break-word" title="SHOP NOW" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=3231306b7c&e=e52b73bd69">SHOP NOW</a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Spacer"><div class="wrapper" style="padding: 0px 17px;background-color: white;"><div class="spacer" style="padding: 10px 0px;"></div></div></td></tr><tr><td class="Newsletter_View_Element_Body_Two" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="one" style="width: 50%;vertical-align: top;padding: 0px 17px 0px 0px;">
+      <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=3d690ebfdf&e=e52b73bd69" alt="Ziller Nib Holders" title="Ziller Nib Holders" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88697.jpg?s=69d00d258164ff5672a7193de216eeb1"></a>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;"><a href="http://jetpens.us2.list-manage2.com/track/click?u=50874e856d63dbc9da48f17f6&id=ecc10ebb9e&e=e52b73bd69" style="color: #6F8507;">Ziller Oblique Nib Holders</a> are fitted with hand-cut brass flanges that hold popular nibs like the Zebra G or Brause 66.</div>
+      
+<table cellspacing="0" cellpadding="0" border="0" style="margin-top:5px;border-collapse:separate!important;border:1px solid #c06531;border-radius:4px;background-color:#e66f2d">
+  <tr>
+    <td valign="middle" align="center" style="font-family: Arial;font-weight: bold;font-size: 13px;padding: 7px;width: 100%;vertical-align: top;">
+      <a style="font-weight:bold;letter-spacing:normal;line-height:100%;text-align:center;text-decoration:none;color:#ffffff;word-wrap:break-word" title="SHOP NOW" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=13288a5dfb&e=e52b73bd69">SHOP NOW</a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+    <td class="two" style="width: 50%;vertical-align: top;padding: 0px 0px 0px 17px;">
+      <a href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=74dce23abf&e=e52b73bd69" alt="Speedball Pointed Pen Nibs" title="Speedball Pointed Pen Nibs" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88696.jpg?s=0ba5bc47d61bd351cca9e5d376e92d17"></a>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;"><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=ca4d6ea35f&e=e52b73bd69" style="color: #6F8507;">Speedball Pen Point Nibs</a> are well-loved by artists and calligraphers alike! Choose from firm drawing nibs or flexible calligraphy nibs.</div>
+      
+<table cellspacing="0" cellpadding="0" border="0" style="margin-top:5px;border-collapse:separate!important;border:1px solid #c06531;border-radius:4px;background-color:#e66f2d">
+  <tr>
+    <td valign="middle" align="center" style="font-family: Arial;font-weight: bold;font-size: 13px;padding: 7px;width: 100%;vertical-align: top;">
+      <a style="font-weight:bold;letter-spacing:normal;line-height:100%;text-align:center;text-decoration:none;color:#ffffff;word-wrap:break-word" title="SHOP NOW" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=57809130fa&e=e52b73bd69">SHOP NOW</a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=a276b3cc24&e=e52b73bd69" alt="Guide to Adult Coloring Tools" title="Guide to Adult Coloring Tools" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88693.jpg?s=936a484402c9dbf9b0ec8e8bb0fb5eff"></a></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">Grown-ups everywhere are picking up the fun hobby of coloring! While kids mainly use crayons, adults can treat themselves to more sophisticated tools. In our new <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=d3e0e66d42&e=e52b73bd69" style="color: #6F8507;">Guide to Adult Coloring Supplies</a>, we explore the vast possibilities&mdash;gel pens, markers, brushes, and even watercolors!</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=ce78d7a672&e=e52b73bd69" alt="Video: Pocket Brush Pens" title="Video: Pocket Brush Pens" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/070/70102.png?s=d5bce9ec36c476da013735774f152cd2"></a></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">Brush pens are artist's best friend when it comes to inking, sketching, and adding dynamic lines to your art. In this <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=e18103e7f5&e=e52b73bd69" style="color: #6F8507;">Pocket Brush Pens Video</a>, you'll learn all about a brush pen's tip type, firmness, flexibility, and more.</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=e5bd6d95bc&e=e52b73bd69" alt="Special Offer: Free Mechanical Pencil with every $75.00 Spent" title="Special Offer: Free Mechanical Pencil with every $75.00 Spent" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88698.jpg?s=3541c550187517a8ea138152e20192e6"></a></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">Get a FREE 0.5 mm mechanical pencil for every $75.00 spent! Choose either the Zebra DelGuard or Uni Kuru Toga at checkout. Limited Quantities. Offer valid until 5/17/16 at Midnight Pacific Time. Click <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=796ba0af37&e=e52b73bd69" style="color: #6F8507;">REDEEM NOW</a> to activate this offer!</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=0f2ca86818&e=e52b73bd69" alt="Restocked: FineTec Artist Mica Watercolors" title="Restocked: FineTec Artist Mica Watercolors" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88783.jpg?s=53fd3d65c2bf53225929409f18c9f195"></a></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;"><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=fd68bb4ee3&e=e52b73bd69" style="color: #6F8507;">Finetec Artist Mica Watercolors</a> have been restocked! These luxurious watercolors will add metallic shimmer to your calligraphy and craft projects. Choose from beautiful palette sets, or pick up select single pans.</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=0dbc17a8e3&e=e52b73bd69" alt="Facebook 40k Celebration Giveaway" title="Facebook 40k Celebration Giveaway" style="color: #6F8507;"><img border="0" src="http://static2.jetpens.com/images/a/000/088/88731.jpg?s=01de2556dbb5f8a1e9f88f3ec54c3524"></a></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">We're almost at 40,000 likes on Facebook! To celebrate, we're holding a Facebook Fan Appreciation giveaway: FOUR lucky winners will receive an 18-color set of Marvy Le Pen Markers. Head over to our <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=af26a07d38&e=e52b73bd69" style="color: #6F8507;">Facebook page to check it out and enter</a>!</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Divider"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<div class="divider-container" style="padding: 15px 0px;">
+  <div class="divider" style="border-top: 6px dotted #ffcf3d;border-bottom: 0px;border-left: 0px;border-right: 0px;"></div>
+</div>
+</div></td></tr><tr><td class="Newsletter_View_Element_Body_One" style="padding: 0px;"><div class="wrapper" style="padding: 0px 17px;background-color: white;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 100%;vertical-align: top;">
+      <div><img border="0" src="http://static2.jetpens.com/images/a/000/088/88692.jpg?s=9ec67cf5fb7eb7e212af292a6b593839"></div>
+      <div class="description" style="font-size: 13px;line-height: 19px;padding-top: 5px;">The luxurious Lamy Dark Lilac is coming soon to JetPens! This collection features limited edition Safari fountain pens with sleek black clips, plus matching deep purple ink.</div>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" style="width: 100%;vertical-align: top;"></td>
+  </tr>
+</table>
+</div></td></tr><tr><td class="Newsletter_View_Element_Spacer"><div class="wrapper" style="padding: 0px 17px;background-color: white;"><div class="spacer" style="padding: 10px 0px;"></div></div></td></tr><tr><td class="Newsletter_View_Element_Footer" style="padding: 10px 0px;">
+<table width="600" cellspacing="0" cellpadding="0" border="0"><tr style="background-color:white">
+<td align="center" style="padding: 10px;vertical-align: top;padding-top: 5px;">
+  <table width="580" cellspacing="0" cellpadding="0" border="0">
+    <tr><td align="center" style="padding: 10px;background-color: #EEE;vertical-align: top;padding-top: 5px;">
+    
+<ul class="share" style="padding: 0px;margin: 0px;height: 50px;">
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Blog" class="sprite" target="_blank" href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=2d59729e74&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56298.png"></a></li>
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Facebook" class="sprite" target="_blank" href="http://jetpens.us2.list-manage2.com/track/click?u=50874e856d63dbc9da48f17f6&id=f50c0879d5&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56295.png"></a></li>    
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Twitter" class="sprite" target="_blank" href="http://jetpens.us2.list-manage2.com/track/click?u=50874e856d63dbc9da48f17f6&id=b0d982f5bd&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56301.png"></a></li> 
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Google+" class="sprite" target="_blank" href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=3f721e92d6&e=e52b73bd69" rel="publisher" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56296.png"></a></li>
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Pinterest" class="sprite" target="_blank" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=530e3ecf23&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56299.png"></a></li> 
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Instagram" class="sprite" target="_blank" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=1c25a2b98a&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56297.png"></a></li> 
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens Tumblr" class="sprite" target="_blank" href="http://jetpens.us2.list-manage1.com/track/click?u=50874e856d63dbc9da48f17f6&id=5a9fd555d2&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56300.png"></a></li> 
+  <li style="display: inline;padding: 0px;margin: 0px;"><a title="JetPens YouTube" class="sprite" target="_blank" href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=a05aa6af96&e=e52b73bd69" style="color: #6F8507;display: inline-block;width: 50px;height: 50px;margin: 0px 2px 0px 0px;padding: 0px;"><img src="http://static.jetpens.com/images/a/000/056/56302.png"></a></li>
+</ul>
+    </td></tr>
+  </table>
+
+  <table class="footer-bd" width="580" cellspacing="0" cellpadding="0" border="0" style="font-size: 10px;">
+    <tr>
+      <td align="left" style="vertical-align: top;padding-top: 5px;">
+        <div class="copyright" style="color: #666;"><i>Copyright &copy;2016 PCOW, Inc., All rights reserved.</i></div><br>
+        <div class="mailing-address" style="color: #666;"><b>Our mailing address is:</b></div>
+        <div><div class="vcard"><span class="org fn">JetPens.com</span><div class="adr"><div class="street-address">2050 Gateway Place Suite 100-184</div><span class="locality">San Jose</span>, <span class="region">CA</span>  <span class="postal-code">95110</span></div><br><a href="http://jetpens.us2.list-manage.com/vcard?u=50874e856d63dbc9da48f17f6&id=e853d77ed9" class="hcard-download">Add us to your address book</a></div></div>
+      </td>
+      <td align="right" style="vertical-align: top;padding-top: 5px;">
+        <div>Click <a href="http://jetpens.us2.list-manage.com/unsubscribe?u=50874e856d63dbc9da48f17f6&id=e853d77ed9&e=e52b73bd69&c=57b3e25b47" style="color: #6F8507;">here</a> to unsubscribe from this newsletter</div>
+        <div>Click <a href="http://jetpens.us2.list-manage.com/track/click?u=50874e856d63dbc9da48f17f6&id=751618a459&e=e52b73bd69" style="color: #6F8507;">here</a> to subscribe to this newsletter</div>
+      </td>
+    </tr>
+  </table>
+</td>
+</tr></table>
+</td></tr>
+    </table>
+  </td></tr>
+</table><img src="http://jetpens.us2.list-manage.com/track/open.php?u=50874e856d63dbc9da48f17f6&id=57b3e25b47&e=e52b73bd69" height="1" width="1">
+--_----------=_MCPart_1635131030--

@@ -1,0 +1,273 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp707539oid;
+        Sat, 4 Jul 2015 15:05:07 -0700 (PDT)
+X-Received: by 10.42.81.201 with SMTP id a9mr27577849icl.9.1436047507478;
+        Sat, 04 Jul 2015 15:05:07 -0700 (PDT)
+Return-Path: <2rtmar.ac@gmail.com>
+Received: from mail-ig0-x22e.google.com (mail-ig0-x22e.google.com. [2607:f8b0:4001:c05::22e])
+        by mx.google.com with ESMTPS id m132si12393992iom.45.2015.07.04.15.05.07
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 04 Jul 2015 15:05:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22e as permitted sender) client-ip=2607:f8b0:4001:c05::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22e as permitted sender) smtp.mail=2rtmar.ac@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ig0-x22e.google.com with SMTP id lr2so93981525igb.0
+        for <kuiperhaumea@gmail.com>; Sat, 04 Jul 2015 15:05:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=ODi3MDdthdBvqpow1jb3qHErWyNuUkQa4UNwbp/Selg=;
+        b=ZSxkDRd39sg96Tq28ONiLGjmQmtODTrwZAZs2vp6Ut9qYTuQMoCMmmN9/ggqRfmWNn
+         khOXaL5XkmCyOxy+YYwlS80mK0OEtKQEvd7D6Ut3GmMrUG+uv3wCfWS5Q7tX5j4sqC5b
+         qWVANYYDbd0R6EYtB+U21aBkzlu2rJIFU2+xli/yIT2vMhheXSY9oH+tlNkOWvLSatUX
+         vkK34TOVDQo5i1eHf/O/yYWae7Dgc0BWnT6W5KrvB0WOy4IsdrDu/Q/uhKbgnBKcJ5N8
+         EGuO4UPiyzWjbiQMxmYB0B1ylHff3GeEayN9Eny2Lv5B5xyrvpr5jMixBkz8t9F1zZQb
+         ZX6A==
+MIME-Version: 1.0
+X-Received: by 10.43.5.73 with SMTP id of9mr27223292icb.92.1436047507118; Sat,
+ 04 Jul 2015 15:05:07 -0700 (PDT)
+Received: by 10.36.156.195 with HTTP; Sat, 4 Jul 2015 15:05:07 -0700 (PDT)
+In-Reply-To: <559858A8.2020701@gmail.com>
+References: <CAJsGx3KHJxn+9DAHcCRNpX9_5AEVqtJV=nPKavTw9-SyLYb8Cw@mail.gmail.com>
+	<CAGBwmT10SB_Lc=Nq=EiHRcXurew4HPX5ASEaP+o8R14Q7U72+Q@mail.gmail.com>
+	<55983054.3040406@gmail.com>
+	<CAGBwmT2QM4P1H1xVSb2=iRS8O9z79SYb03D1MbSrSTHK1iNT0Q@mail.gmail.com>
+	<55983B3C.4080407@gmail.com>
+	<CAGBwmT0Q7NPP1ACYRgxQ89cHzCYcyLc_dQboDgyuvKoiR-Ku+A@mail.gmail.com>
+	<559858A8.2020701@gmail.com>
+Date: Sat, 4 Jul 2015 18:05:07 -0400
+Message-ID: <CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com>
+Subject: Re: Soon-to-be ftp server
+From: Ryan Mar <2rtmar.ac@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec50824988ae254051a13dd6f
+
+--bcaec50824988ae254051a13dd6f
+Content-Type: text/plain; charset=UTF-8
+
+Haha true, good thing that I don't have much to hide at this point,
+especially considering I'm using the gmail app on an iPhone right bow
+
+On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com> wrote:
+
+>  Thunderbird is pretty good stuff.  It integrates with pgp using a plugin
+> called enigmail, which makes working with encryption almost reasonably
+> easy.  Not perfectly usable for everyone, but not bad.
+>
+> For example, I could sign and encrypt this (though the encryption wouldn't
+> make sense until you had a key) and nobody would be able to read it without
+> my private key (residing only on physical drives I own) or your private key
+> (hypothetically residing only on physical drives you own.)  It's pretty
+> cool stuff when you consider how unsecured e-mail is in general.
+>
+> On 07/04/2015 04:21 PM, Ryan Mar wrote:
+>
+> I had thunderbird when I was using Ubuntu, but I never signed in because I
+> don't know my email passwords by heart
+>
+> On Saturday, July 4, 2015, John Markiewicz <
+> <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>
+> kuiperhaumea@gmail.com
+> <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wrote:
+>
+>>  Yeah, Arch linux on the Raspberry Pi.  No 1tb microsd cards yet, but I'm
+>> on the lookout for one.  *There is no kill like overkill.*
+>>
+>> My method of transferring things is brute-force and requires a way to
+>> connect to both drives at once.  Micro Center might give you a more simple
+>> means of doing things, and they may even help you in doing it.
+>>
+>> Have you considered thunderbird as your mail client?  It makes working
+>> with pgp/gpg easier.  Also it works on linux, which is a perk if you ever
+>> make the switch or have to do work on a linux box.
+>>
+>> [side note: I can also be reached at jmarkiewicz@airmail.cc
+>> <javascript:_e(%7B%7D,'cvml','jmarkiewicz@airmail.cc');>]
+>>
+>> On 07/04/2015 03:34 PM, Ryan Mar wrote:
+>>
+>> Sounds good thanks! I've read about pgp before, I'm actually messing
+>> around with low-level encryption algorithms and stuff for fun .
+>>
+>>  I also haven't figured out exactly how to transfer my system to a new
+>> hard drive yet, might just end up asking somebody at microcenter.
+>>
+>>  Also, I assume you're running arch on the Pi? And did you manage to
+>> find a terabyte sd card for it yet?
+>>
+>>
+>>
+>> On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com
+>> <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wrote:
+>>
+>>> My plan is to just hook it up to my dock for drives (has a 3tb WD green
+>>> for lots of low-reliability storage) and then just try and get it
+>>> accessible via ssh from outside my router.  If I can figure out that
+>>> part (which is the hardest part) then I should be good and I'll make
+>>> sure to tell you how I did it.
+>>>
+>>> As an aside, pgp is pretty cool.  Check it out if you ever have free
+>>> time.  Makes it possible to send somethign over e-mail and have it be
+>>> secure.
+>>>
+>>> On 07/04/2015 12:59 PM, Ryan Mar wrote:
+>>> > Hey this is awesome. Let me know how you go about making it a file
+>>> > server--I wanted to do this earlier this year but I had trouble finding
+>>> > a reasonable way of doing it.
+>>> >
+>>> > On Friday, July 3, 2015, John Markiewicz <markiewicz.john@gmail.com
+>>> <javascript:_e(%7B%7D,'cvml','markiewicz.john@gmail.com');>
+>>> > <mailto:markiewicz.john@gmail.com>> wrote:
+>>> >
+>>> > Thought I'd show it off
+>>> >
+>>> >
+>>> > Sorry for the mess in the background, just got back from a trip and
+>>> > my desk is unclean.
+>>> >
+>>>
+>>
+>>
+>
+
+--bcaec50824988ae254051a13dd6f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Haha true, good thing that I don&#39;t have much to hide at this point, esp=
+ecially considering I&#39;m using the gmail app on an iPhone right bow<span=
+></span><br><br>On Saturday, July 4, 2015, John Markiewicz &lt;<a href=3D"m=
+ailto:kuiperhaumea@gmail.com">kuiperhaumea@gmail.com</a>&gt; wrote:<br><blo=
+ckquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #c=
+cc solid;padding-left:1ex">
+ =20
+   =20
+ =20
+  <div text=3D"#000000" bgcolor=3D"#FFFFFF">
+    Thunderbird is pretty good stuff.=C2=A0 It integrates with pgp using a
+    plugin called enigmail, which makes working with encryption almost
+    reasonably easy.=C2=A0 Not perfectly usable for everyone, but not bad.<=
+br>
+    <br>
+    For example, I could sign and encrypt this (though the encryption
+    wouldn&#39;t make sense until you had a key) and nobody would be able t=
+o
+    read it without my private key (residing only on physical drives I
+    own) or your private key (hypothetically residing only on physical
+    drives you own.)=C2=A0 It&#39;s pretty cool stuff when you consider how
+    unsecured e-mail is in general.<br>
+    <br>
+    <div>On 07/04/2015 04:21 PM, Ryan Mar wrote:<br>
+    </div>
+    <blockquote type=3D"cite">I had thunderbird when I was using Ubuntu, bu=
+t I never
+      signed in because I don&#39;t know my email passwords by heart<span><=
+/span><br>
+      <br>
+      On Saturday, July 4, 2015, John Markiewicz &lt;<a href=3D"javascript:=
+_e(%7B%7D,&#39;cvml&#39;,&#39;kuiperhaumea@gmail.com&#39;);" target=3D"_bla=
+nk"></a><a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;kuiperhaumea@gm=
+ail.com&#39;);" target=3D"_blank">kuiperhaumea@gmail.com</a>&gt;
+      wrote:<br>
+      <blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-l=
+eft:1px #ccc solid;padding-left:1ex">
+        <div text=3D"#000000" bgcolor=3D"#FFFFFF"> Yeah, Arch linux on the
+          Raspberry Pi.=C2=A0 No 1tb microsd cards yet, but I&#39;m on the
+          lookout for one.=C2=A0 <i>There is no kill like overkill.</i><br>
+          <br>
+          My method of transferring things is brute-force and requires a
+          way to connect to both drives at once.=C2=A0 Micro Center might
+          give you a more simple means of doing things, and they may
+          even help you in doing it.<br>
+          <br>
+          Have you considered thunderbird as your mail client?=C2=A0 It mak=
+es
+          working with pgp/gpg easier.=C2=A0 Also it works on linux, which =
+is
+          a perk if you ever make the switch or have to do work on a
+          linux box.<br>
+          <br>
+          [side note: I can also be reached at <a></a><a href=3D"javascript=
+:_e(%7B%7D,&#39;cvml&#39;,&#39;jmarkiewicz@airmail.cc&#39;);" target=3D"_bl=
+ank">jmarkiewicz@airmail.cc</a>]<br>
+          <br>
+          <div>On 07/04/2015 03:34 PM, Ryan Mar wrote:<br>
+          </div>
+          <blockquote type=3D"cite">Sounds good thanks! I&#39;ve read about
+            pgp before, I&#39;m actually messing around with low-level
+            encryption algorithms and=C2=A0stuff for fun .=C2=A0
+            <div><br>
+            </div>
+            <div>I also haven&#39;t figured out exactly how to transfer my
+              system to a new hard drive yet, might just end up asking
+              somebody at microcenter.=C2=A0</div>
+            <div><br>
+            </div>
+            <div>Also, I assume you&#39;re running arch on the Pi? And did
+              you manage to find a terabyte sd card for it yet?</div>
+            <div><br>
+            </div>
+            <div><span></span><br>
+              <div><br>
+                On Saturday, July 4, 2015, John Markiewicz &lt;<a></a><a hr=
+ef=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;kuiperhaumea@gmail.com&#39;)=
+;" target=3D"_blank">kuiperhaumea@gmail.com</a>&gt; wrote:<br>
+                <blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex">My
+                  plan is to just hook it up to my dock for drives (has
+                  a 3tb WD green<br>
+                  for lots of low-reliability storage) and then just try
+                  and get it<br>
+                  accessible via ssh from outside my router.=C2=A0 If I can
+                  figure out that<br>
+                  part (which is the hardest part) then I should be good
+                  and I&#39;ll make<br>
+                  sure to tell you how I did it.<br>
+                  <br>
+                  As an aside, pgp is pretty cool.=C2=A0 Check it out if yo=
+u
+                  ever have free<br>
+                  time.=C2=A0 Makes it possible to send somethign over e-ma=
+il
+                  and have it be<br>
+                  secure.<br>
+                  <br>
+                  On 07/04/2015 12:59 PM, Ryan Mar wrote:<br>
+                  &gt; Hey this is awesome. Let me know how you go about
+                  making it a file<br>
+                  &gt; server--I wanted to do this earlier this year but
+                  I had trouble finding<br>
+                  &gt; a reasonable way of doing it.<br>
+                  &gt;<br>
+                  &gt; On Friday, July 3, 2015, John Markiewicz &lt;<a></a>=
+<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;markiewicz.john@gmail.c=
+om&#39;);" target=3D"_blank">markiewicz.john@gmail.com</a><br>
+                  &gt; &lt;mailto:<a>markiewicz.john@gmail.com</a>&gt;&gt;
+
+                  wrote:<br>
+                  &gt;<br>
+                  &gt; Thought I&#39;d show it off<br>
+                  &gt;<br>
+                  &gt;<br>
+                  &gt; Sorry for the mess in the background, just got
+                  back from a trip and<br>
+                  &gt; my desk is unclean.<br>
+                  &gt;<br>
+                </blockquote>
+              </div>
+            </div>
+          </blockquote>
+          <br>
+        </div>
+      </blockquote>
+    </blockquote>
+    <br>
+  </div>
+
+</blockquote>
+
+--bcaec50824988ae254051a13dd6f--

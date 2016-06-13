@@ -1,0 +1,178 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp1783056oig;
+        Mon, 27 Jul 2015 09:40:06 -0700 (PDT)
+X-Received: by 10.180.12.148 with SMTP id y20mr23957946wib.80.1438015205970;
+        Mon, 27 Jul 2015 09:40:05 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f171.google.com (mail-wi0-f171.google.com. [209.85.212.171])
+        by mx.google.com with ESMTPS id gw8si2005945wib.22.2015.07.27.09.40.05
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 27 Jul 2015 09:40:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.171 as permitted sender) client-ip=209.85.212.171;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.171 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Received: by mail-wi0-f171.google.com with SMTP id xm9so123176869wib.1
+        for <kuiperhaumea@gmail.com>; Mon, 27 Jul 2015 09:40:05 -0700 (PDT)
+X-Received: by 10.194.249.100 with SMTP id yt4mr60525699wjc.0.1438015205244;
+        Mon, 27 Jul 2015 09:40:05 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1374867wmd;
+        Mon, 27 Jul 2015 09:40:04 -0700 (PDT)
+X-Received: by 10.60.39.136 with SMTP id p8mr28586484oek.45.1438015204063;
+        Mon, 27 Jul 2015 09:40:04 -0700 (PDT)
+Return-Path: <cjoyce@cdeducation.org>
+Received: from mail-ob0-f169.google.com (mail-ob0-f169.google.com. [209.85.214.169])
+        by mx.google.com with ESMTPS id e74si13989449oib.102.2015.07.27.09.40.03
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 27 Jul 2015 09:40:04 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.214.169 is neither permitted nor denied by best guess record for domain of cjoyce@cdeducation.org) client-ip=209.85.214.169;
+Received: by mail-ob0-f169.google.com with SMTP id eg2so63496790obd.0
+        for <markiewicz.john@gmail.com>; Mon, 27 Jul 2015 09:40:03 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=op6eYtGaLFXgcmMXJM2ylA0HwByIL4HqZjTBdvgjcbI=;
+        b=fC/pjZm3n2vtGurNVEvnifT5pOkJPy+MxQNA37fXt8tXQrb88opYbTGK+YAV3gFxJC
+         NOkUKZF1j7bjFc59tciwbzIx0aB2mG0HuXQScVeIfirlC1Y5D2ZrOxw8omKMCZ1kJ4W6
+         a9cx+9VjXJSVCOrJq0N4V/lie5eEQcqxvTs8iWepa46XE+e5e0Di5Lo2M3zaa66vxR45
+         9zQ3Y1doAtnTDm99mYTRDY+l9XCD36/y/nJWZIafxp7/zwTikmn1J9QpTgWEgEihZJWE
+         Oy8fUs/tXKSkDIK6LOFsmVr0tgXggjAGNdwHIqQAnElnEbGhD3ae5mj63v4d14MZRk/1
+         3Wcg==
+X-Gm-Message-State: ALoCoQmn8JLJs3EgomNkjh5C7W8CH5ZDipKCuZudqHm9BjPJXtE00U7ypb64fubj2fyU0M12IcC1
+MIME-Version: 1.0
+X-Received: by 10.60.35.42 with SMTP id e10mr28360595oej.26.1438015203247;
+ Mon, 27 Jul 2015 09:40:03 -0700 (PDT)
+Received: by 10.60.160.10 with HTTP; Mon, 27 Jul 2015 09:40:03 -0700 (PDT)
+Date: Mon, 27 Jul 2015 12:40:03 -0400
+Message-ID: <CAGs8aKrSfep3VETTK1+CNRhmP8LWfeXfyvicpHvjvGBOtssTzQ@mail.gmail.com>
+Subject: Choir Retreat RSVP Reminder
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: Allyson Grabsoky <bgrabosky@yahoo.com>, Allyson Grabsoky <dgrabs13@yahoo.com>, 
+	Amanda Springer <mspringer84@earthlink.net>, Anna Obergefell <missyo@fcchurch.com>, 
+	Annie Lucia <fivebuckeyes@yahoo.com>, Annie Lucia <looch12000@yahoo.com>, 
+	Danny Callaghan <krncallaghan@aol.com>, Emma Forshey <neal.forshey@gmail.com>, 
+	Emma Forshey <rene.forshey@att.net>, Kara Rutkowski <nbr2u@aol.com>, 
+	Lena Bruening <ldbruening@wowway.com>, Lilly Binion-Ferrel <tara@nursehrs.com>, 
+	Liza Goedde <jagoedde@yahoo.com>, Liza Goedde <murray-goedde.1@osu.edu>, 
+	Mara Ohlin <johlin@nvrinc.com>, Mara Ohlin <mohlin64@hotmail.com>, 
+	Marjorie Sayers <shmo96columbus@yahoo.co.uk>, Mary Swart <ctswart@hotmail.com>, 
+	Megan Niper <eniper@columbus.rr.com>, Megan Niper <kniper@coaaa.org>, 
+	Shannon Lynch <webjill@gmail.com>, Shannon Lynch <weblynch@gmail.com>, 
+	Shelly Bender <bendertm@yahoo.com>, Abby Demboski <dembo@columbus.rr.com>, 
+	Alex Bryant <barry.bryant@prodigy.net>, Alison Lang <aliswanco@gmail.com>, 
+	Alison Lang <mjlang4@gmail.com>, Anna Ehret <ehretanna05@aol.com>, 
+	Anna Ehret <jaehret1991@aol.com>, Carly Griffith <cgriffith333@gmail.com>, 
+	Carly Griffith <jprindler@columbus.rr.com>, Carly Stang <carly.stang1@gmail.com>, 
+	Carly Stang <stanger1@yahoo.com>, Carly Stang <tstang@fultoncommunications.com>, 
+	Caroline Golonka <deniseg0328@yahoo.com>, Chris Carter <mcloughlin.1@osu.edu>, 
+	David Skulich <jskulich@columbus.rr.com>, 
+	Dylan Murphy <elizabeth.murphy@johnsonelectric.com>, 
+	Dylan Murphy <murph255@columbus.rr.com>, Elizabeth Reiser <rrieser513@yahoo.com>, 
+	Ellena Yohannes <nlijam@cscc.edu>, Ellena Yohannes <yyohannes@gmail.com>, 
+	Elliot Stevens <kmstevens@columbus.rr.com>, Emily Kring <dkring4@gmail.com>, 
+	Emily Kring <E.kring36@gmail.com>, Emily Kring <jkring@columbus.rr.com>, 
+	Emma Koehler <e.koehler00@gmail.com>, Emma Koehler <lizkoehler217@yahoo.com>, 
+	Evan Rasor <rasor451@sbcglobal.net>, Ginny Pajor <kathypajor@yahoo.com>, 
+	Ginny Pajor <ppajor@yahoo.com>, Hayley Hoying <mhoying@insight.rr.com>, 
+	Jacob Erney <trerney@yahoo.com>, John Markiewicz <markiewicz.john@gmail.com>, 
+	John Markiewicz <shannon.markiewicz@gmail.com>, Jullian Fountain <ellyn.fountain@gmail.com>, 
+	Jullian Fountain <fountainjillian@gmail.com>, Jullian Fountain <kurt.fountain@gmail.com>, 
+	Justin Weltin <jkjweltin@aol.com>, Justin Weltin <jweltin2@gmail.com>, 
+	"Kathryn O'Sullivan" <ironcad.3@gmail.com>, "Kathryn O'Sullivan" <mosulliv@cdeducation.org>, 
+	Lauren Putz <beth@khptel.com>, Lizz Turnbull <clairemedic@aol.com>, 
+	"Makaela O'Reilly" <1970sue@sbcglobal.net>, "Makaela O'Reilly" <bernie@secondchancecolumbus.com>, 
+	"Margaret O'Brien" <danobrien35@aol.com>, "Margaret O'Brien" <jloobrien@aol.com>, 
+	Matthew Kent <cokent@cdeducation.org>, Matthew Kent <kevin.kent@osumc.edu>, 
+	Maya Steller <jpsteller@yahoo.com>, Maya Steller <mlsteller@yahoo.com>, 
+	Megan Milam <jmilam07@gmail.com>, Michael Carmody <jmcarmody1025@aol.com>, 
+	Morgan Hull <chull@wowway.com>, Nina Buoni <tmbuoni@sbcglobal.net>, Nolan Kelly <kelly_6@att.net>, 
+	Nolan Kelly <mkelly@mecsrc.com>, Rachel Smith <rsmith46@columbus.rr.com>, 
+	Ryan Mar <2rtmar.ac@gmail.com>, Ryan Mar <cmar@cdeducation.org>, Ryan Mar <cwmar1@aol.com>, 
+	Sara Dowler <kathy.dowler@sbcglobal.net>, Shannon Becker <becker.180@beckerplanet.com>, 
+	Shannon Becker <mbecker@beckerplanet.com>, Shannon Boyne <skittles101@columbus.rr.com>, 
+	Shannon Boyne <trsshome@columbus.rr.com>, Steven Gullo <prgcmg@gmail.com>, 
+	Steven Gullo <sgullo6599@gmail.com>, Tommy Anglim <ranglim@columbus.rr.com>, 
+	Tori Morell <jacquie_morell@yahoo.com>, Tori Morell <morell_john@yahoo.com>, 
+	Zach Uhazy <uhazy@sbcglobal.net>
+Content-Type: multipart/alternative; boundary=089e013d04ee5f2709051bde0108
+
+--089e013d04ee5f2709051bde0108
+Content-Type: text/plain; charset=UTF-8
+
+Hello Again Choir Families!
+
+Thanks to those of you who have already RSVP'd to the choir retreat.
+If you have not already responded on the Google Doc, please do so by
+clicking this link: http://goo.gl/forms/lx2rSzwmyt
+I really need a headcount for our activities for the day.
+
+I know that many families are on vacation this week or have other camps
+which is completely understandable. However, if I do not have at least 15
+attendees by Wednesday, I am going to have to cancel the event.
+
+Parents,
+I do not have many of your students' email addresses yet, so please don't
+assume that they also received this message. Please pass along the
+information. I will let you know on Wednesday if the event is going to stay
+on.
+
+Thanks for understanding and for RSVPing! http://goo.gl/forms/lx2rSzwmyt
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--089e013d04ee5f2709051bde0108
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Again Choir Families!<div><br></div><div>Thanks to t=
+hose of you who have already RSVP&#39;d to the choir retreat.</div><div>If =
+you have not already responded on the Google Doc, please do so by clicking =
+this link:=C2=A0<a href=3D"http://goo.gl/forms/lx2rSzwmyt">http://goo.gl/fo=
+rms/lx2rSzwmyt</a></div><div>I really need a headcount for our activities f=
+or the day.=C2=A0</div><div><br></div><div>I know that many families are on=
+ vacation this week or have other camps which is completely understandable.=
+ However, if I do not have at least 15 attendees by Wednesday, I am going t=
+o have to cancel the event.=C2=A0</div><div><br></div><div>Parents,</div><d=
+iv>I do not have many of your students&#39; email addresses yet, so please =
+don&#39;t assume that they also received this message. Please pass along th=
+e information. I will let you know on Wednesday if the event is going to st=
+ay on.=C2=A0</div><div><br></div><div>Thanks for understanding and for RSVP=
+ing!=C2=A0<a href=3D"http://goo.gl/forms/lx2rSzwmyt">http://goo.gl/forms/lx=
+2rSzwmyt</a></div><div><div><div class=3D"gmail_signature"><div dir=3D"ltr"=
+><div><div style=3D"margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><=
+font color=3D"#000000" face=3D"Calibri">Christen Joyce</font></span></b></d=
+iv><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p st=
+yle=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font fa=
+ce=3D"Calibri" size=3D"3">Choral Director</font></span></b></p><font color=
+=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:=
+0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri"=
+ size=3D"3"><span><font color=3D"#830b2c">Bishop</font></span> <span><font =
+color=3D"#830b2c">Watterson</font></span> High School</font></span></b></p>=
+<font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=
+=3D"margin:0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calibri" size=
+=3D"3"><a href=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" target=
+=3D"_blank"><font color=3D"#1155cc">(614) 268-8671</font></a> x 289</font><=
+/span></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></fon=
+t><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a=
+ href=3D"http://www.bishopwatterson.com/" target=3D"_blank"><span style=3D"=
+color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwatterson=
+.com</font></span></a></span></div><div style=3D"margin:0in 0in 0pt"><span =
+style=3D"color:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=3D"htt=
+ps://docs.google.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHI=
+zY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div =
+dir=3D"ltr"><div><div></div></div></div><div dir=3D"ltr"><div></div></div><=
+/span></div></div></div></div></div>
+</div></div>
+
+--089e013d04ee5f2709051bde0108--

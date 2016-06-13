@@ -1,0 +1,385 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.181.19 with SMTP id e19csp1246657vkf;
+        Tue, 24 May 2016 13:27:37 -0700 (PDT)
+X-Received: by 10.28.221.136 with SMTP id u130mr615824wmg.44.1464121657684;
+        Tue, 24 May 2016 13:27:37 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x229.google.com (mail-wm0-x229.google.com. [2a00:1450:400c:c09::229])
+        by mx.google.com with ESMTPS id q8si6218985wja.208.2016.05.24.13.27.37
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 24 May 2016 13:27:37 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) client-ip=2a00:1450:400c:c09::229;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@wallick.onmicrosoft.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Authentication-Results: wallick.com; dkim=none (message not signed)
+ header.d=none;wallick.com; dmarc=none action=none header.from=wallick.com;
+Received: by mail-wm0-x229.google.com with SMTP id a136so92165272wme.0
+        for <kuiperhaumea@gmail.com>; Tue, 24 May 2016 13:27:37 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:from:to:cc:subject
+         :thread-topic:thread-index:date:message-id:references:in-reply-to
+         :accept-language:content-language:spamdiagnosticoutput
+         :spamdiagnosticmetadata:mime-version;
+        bh=K6T7rjZS9j7Rj+B0QYlWL1SC5fKgj6W6V6crv+mQlfs=;
+        b=Lbe8zVNuCq2tRciukubtRFz9tcUVnnOamxLvq4nvkEs2NGcgVRv9icz7VSDg2qNKRq
+         twNcCXEGRhkkf20Ait0RG3EtcpfKONgRKDSN9K74nlEA4MLcOPMB8oJb0lpc+qVExr8K
+         cnD5X94jyExh3OudVQlmQUQurXyAV9dZ936QldXgOumI0VD88QhLL8cPbaNHN90nFsKl
+         3SGWqsrOkZDFkKaHEZOLBB3Y5W4dVDNAadsh1w6q106/D9jdl55en2vKLCS5U5TqbBkG
+         XHbadoBWUJrE1lNNwb/nFZOjfBVEdTqEi++hgUKDaDtH36/+IxjhHwKyoocHKQKyVCQP
+         hZ1w==
+X-Gm-Message-State: ALyK8tI7iVM3JC6VgYTk9n+mAonimXShGlVRWMqEsElHLnlQb6JXGjceHaCHidIaium8Kkp8qqJK4VXnw+Mkqi8I4gZ5kwk=
+X-Received: by 10.28.7.69 with SMTP id 66mr597289wmh.87.1464121657038;
+        Tue, 24 May 2016 13:27:37 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.35.75 with SMTP id j72csp902050wmj;
+        Tue, 24 May 2016 13:27:35 -0700 (PDT)
+X-Received: by 10.66.218.161 with SMTP id ph1mr49476pac.127.1464121655217;
+        Tue, 24 May 2016 13:27:35 -0700 (PDT)
+Return-Path: <jpeoples@wallick.com>
+Received: from na01-bn1-obe.outbound.protection.outlook.com (mail-bn1bon0116.outbound.protection.outlook.com. [157.56.111.116])
+        by mx.google.com with ESMTPS id w13si6870292pas.206.2016.05.24.13.27.34
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 24 May 2016 13:27:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of jpeoples@wallick.com designates 157.56.111.116 as permitted sender) client-ip=157.56.111.116;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=wallick.onmicrosoft.com; s=selector1-wallick-com;
+ h=From:To:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=K6T7rjZS9j7Rj+B0QYlWL1SC5fKgj6W6V6crv+mQlfs=;
+ b=CJ2Rs466p4RCk6zx2iQ57C07o4dRfi/qNl2fredSIk6RnDEq4By7V6743zUS9Ia7RkYbvdxSqRakEZG6oxVh3YL+gkzThEXmGJxJ/XHkHh4X2GRPTEQdMDle6CslU2z/rgG3JH2OrCz1Q3eSae+DJz+5EjHIO28fMjUqBazEm1I=
+Received: from DM2PR0201MB0768.namprd02.prod.outlook.com (10.160.95.139) by
+ SN1PR02MB1392.namprd02.prod.outlook.com (10.162.0.20) with Microsoft SMTP
+ Server (TLS) id 15.1.492.11; Tue, 24 May 2016 20:27:33 +0000
+Received: from DM2PR0201MB0768.namprd02.prod.outlook.com ([10.160.95.139]) by
+ DM2PR0201MB0768.namprd02.prod.outlook.com ([10.160.95.139]) with mapi id
+ 15.01.0492.020; Tue, 24 May 2016 20:27:33 +0000
+From: Joyce Peoples <jpeoples@wallick.com>
+To: Paul Koehler <pkoehler@wallick.com>, "markiewicz.john@gmail.com"
+	<markiewicz.john@gmail.com>
+CC: Brandon Carter <bcarter@wallick.com>, Samantha Banks <sbanks@wallick.com>
+Subject: RE: Resume and Interview
+Thread-Topic: Resume and Interview
+Thread-Index: AdG1znu9ocPNB3HjTECQMUctwFmNSAAKt3ng
+Date: Tue, 24 May 2016 20:27:33 +0000
+Message-ID: <DM2PR0201MB0768AAC897A5473D9872247ED84F0@DM2PR0201MB0768.namprd02.prod.outlook.com>
+References: <SN1PR02MB1392C6837094C3FCBBBE560DC04F0@SN1PR02MB1392.namprd02.prod.outlook.com>
+In-Reply-To: <SN1PR02MB1392C6837094C3FCBBBE560DC04F0@SN1PR02MB1392.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [67.154.190.196]
+x-ms-office365-filtering-correlation-id: d830b94b-c902-4c10-7e22-08d38411d645
+x-microsoft-exchange-diagnostics: 1;SN1PR02MB1392;5:iKVPQzqEMdBl1gJpz/mQhstEUSDuhi+lhXi4yN4Zwil2+lnqSgPpPQLy7QEFe+/9w+SR2ft9OEgr4qlnAuSaPVwd5VzEippmjNO8cqNiTE8AiDqDWOMhbZVRCkGEOaTukAATP2N9sHDfkFSh+ZjV1w==;24:yeta+f13lHRtBQaN+VIJaCKD12pV7rZqEJWIJdZmSCWbzoCUXlcOZINSG6SvXbHpne1zJS7k8bkgj6n1hKyqx5RwYDNt0zywFeBYPmO6Ejk=;7:rH6Ly4I649J1+olQ42eErIk0QG3E8ztdXkw+qb4YbmCXF8XimqsJqPKuS53TFjIZheBypfXc6YHulnMJCjmYfDr42larF9gBJsigkB/dOjujBU/v6bN4Rq3NQHrKjrHvL9eN0ar08/b8A4XvPZJkhxAcVJDgTi//gOcqEOYMDeUWunTpqod6bXPfybrhEhtA
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:SN1PR02MB1392;
+x-microsoft-antispam-prvs: <SN1PR02MB1392B2CCAF027C7A953ECCB9D84F0@SN1PR02MB1392.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(6040130)(601004)(2401047)(8121501046)(5005006)(3002001)(10201501046)(6041072)(6043046);SRVR:SN1PR02MB1392;BCL:0;PCL:0;RULEID:;SRVR:SN1PR02MB1392;
+x-forefront-prvs: 09525C61DB
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(48184003)(377454003)(51414003)(10400500002)(86362001)(5001770100001)(92566002)(107886002)(19618635001)(87936001)(5004730100002)(3480700004)(18206015028)(50986999)(19613025002)(19580395003)(450100001)(19580405001)(8936002)(122556002)(2950100001)(77096005)(790700001)(99936001)(3846002)(15975445007)(6116002)(8676002)(586003)(102836003)(9686002)(2906002)(2501003)(76176999)(54356999)(2900100001)(5880100001)(189998001)(4326007)(81166006)(19625215002)(554214002)(17760045003)(19300405004)(11100500001)(3280700002)(99286002)(3660700001)(5008740100001)(76576001)(33656002)(16236675004)(5003600100002)(66066001)(74316001)(4001430100002)(5002640100001)(1220700001)(19617315012)(19627595001)(3900700001)(7099028);DIR:OUT;SFP:1102;SCL:1;SRVR:SN1PR02MB1392;H:DM2PR0201MB0768.namprd02.prod.outlook.com;FPR:;SPF:None;MLV:sfv;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/related;
+	boundary="_004_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: wallick.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 24 May 2016 20:27:33.1529
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d00ddfb2-6316-4e9f-8f8e-7614414da49a
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1PR02MB1392
+
+--_004_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_
+Content-Type: multipart/alternative;
+	boundary="_000_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_"
+
+--_000_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi John:
+
+Congratulations on your graduation!!  I am going to forward your resume to =
+Samantha Banks.  She also works in Human Resources here at Wallick.  Samant=
+ha will be contacting you soon to arrange a time for you to come in and mee=
+t with us.  We are targeting the early afternoon on Monday June 6th.  If th=
+is date doesn't work for you for any reason please just let me know.  Prior=
+ to June 6th, Samantha will forward you an interview itinerary so that you =
+will know in advance everyone you will be meeting with here.
+Congratulations again, I look forward to meeting you and please let me know=
+ if you have any questions.
+
+Thanks,
+Joyce Peoples
+
+From: Paul Koehler
+Sent: Tuesday, May 24, 2016 11:17 AM
+To: markiewicz.john@gmail.com; Joyce Peoples <jpeoples@wallick.com>
+Subject: Resume and Interview
+
+Hi John,
+Thanks for contacting me and sending me your resume.  I am looking forward =
+to talking with you about this position.  I would like to introduce you to =
+Joyce Peoples, Director of Human Resources for Wallick.  Joyce is copied th=
+is message.  As part of this process, we would like you to interview with s=
+omeone from our Human Resources Team and with Brandon Carter, the hiring ma=
+nager.  Joyce and I are meeting today to discuss schedules.  We will send y=
+ou some times.  I understand you have a lot going on, so we will make sure =
+we find something that works with both our schedules.  Thanks.
+
+Congrats on your graduation, by the way!
+
+Paul
+
+Paul Koehler | Chief Information Officer
+614-552-5664 | 6880 Tussing Road, Reynoldsburg, OH 43068
+
+[http://tad.wallickcos.com/wcsigbackend.gif]<http://www.wallickcos.com/>
+
+
+
+Confidentiality Notice
+This Email transmission is intended for the use of the individual(s) to whi=
+ch it is addressed. It may contain information that is privileged. This inf=
+ormation is confidential and exempt from disclosure under applicable law.
+If the reader of the message is not the intended recipient or the employee =
+or agent responsible for delivering the message to the recipient, you are h=
+ereby notified that any dissemination, distribution or copying of the commu=
+nication is strictly prohibited and may be a violation of Federal or State =
+Law. If you have received this communication in error, please notify the se=
+nder immediately and permanently delete the message.
+
+--_000_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Hi John:<o:p></o:p></s=
+pan></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Congratulations on you=
+r graduation!!&nbsp; I am going to forward your resume to Samantha Banks.&n=
+bsp; She also works in Human Resources here at Wallick.&nbsp; Samantha will=
+ be contacting you soon to arrange a time for you to
+ come in and meet with us.&nbsp; We are targeting the early afternoon on Mo=
+nday June 6<sup>th</sup>.&nbsp; If this date doesn&#8217;t work for you for=
+ any reason please just let me know.&nbsp; Prior to June 6<sup>th</sup>, Sa=
+mantha will forward you an interview itinerary so that
+ you will know in advance everyone you will be meeting with here.<o:p></o:p=
+></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Congratulations again,=
+ I look forward to meeting you and please let me know if you have any quest=
+ions.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Thanks,<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D">Joyce Peoples<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span style=3D"color:#1F497D"><o:p>&nbsp;</o:p></spa=
+n></p>
+<div>
+<div style=3D"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in =
+0in 0in">
+<p class=3D"MsoNormal"><b>From:</b> Paul Koehler <br>
+<b>Sent:</b> Tuesday, May 24, 2016 11:17 AM<br>
+<b>To:</b> markiewicz.john@gmail.com; Joyce Peoples &lt;jpeoples@wallick.co=
+m&gt;<br>
+<b>Subject:</b> Resume and Interview<o:p></o:p></p>
+</div>
+</div>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Hi John,<o:p></o:p></p>
+<p class=3D"MsoNormal">Thanks for contacting me and sending me your resume.=
+&nbsp; I am looking forward to talking with you about this position.&nbsp; =
+I would like to introduce you to Joyce Peoples, Director of Human Resources=
+ for Wallick.&nbsp; Joyce is copied this message.&nbsp;
+ As part of this process, we would like you to interview with someone from =
+our Human Resources Team and with Brandon Carter, the hiring manager.&nbsp;=
+ Joyce and I are meeting today to discuss schedules.&nbsp; We will send you=
+ some times.&nbsp; I understand you have a lot
+ going on, so we will make sure we find something that works with both our =
+schedules.&nbsp; Thanks.<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Congrats on your graduation, by the way!<o:p></o:p><=
+/p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal">Paul <o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<table class=3D"MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"800" style=3D"width:480.0pt">
+<tbody>
+<tr>
+<td width=3D"493" style=3D"width:295.5pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:3.75pt"><b><span style=3D"fon=
+t-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;color:black">Paul Koe=
+hler |
+</span></b><span style=3D"font-size:9.0pt;font-family:&quot;Arial&quot;,san=
+s-serif;color:#C5C19D">Chief Information Officer</span><span style=3D"font-=
+size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;color:#1F497D"><o=
+:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:9.0pt">614-552-5664 | 6880 =
+Tussing Road, Reynoldsburg, OH 43068</span><o:p></o:p></p>
+</td>
+<td width=3D"304" style=3D"width:182.25pt;border:none;border-left:solid #C4=
+BC96 2.25pt;padding:0in 0in 0in 0in">
+<p class=3D"MsoNormal" align=3D"right" style=3D"text-align:right"><a href=
+=3D"http://www.wallickcos.com/"><span style=3D"color:blue;text-decoration:n=
+one"><img border=3D"0" width=3D"243" height=3D"35" id=3D"Picture_x0020_1" s=
+rc=3D"cid:image001.gif@01D1B5D8.70058B70" alt=3D"http://tad.wallickcos.com/=
+wcsigbackend.gif"></span></a><span style=3D"color:#1F497D"><o:p></o:p></spa=
+n></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+Confidentiality Notice<br>
+This Email transmission is intended for the use of the individual(s) to whi=
+ch it is addressed. It may contain information that is privileged. This inf=
+ormation is confidential and exempt from disclosure under applicable law.<b=
+r>
+If the reader of the message is not the intended recipient or the employee =
+or agent responsible for delivering the message to the recipient, you are h=
+ereby notified that any dissemination, distribution or copying of the commu=
+nication is strictly prohibited
+ and may be a violation of Federal or State Law. If you have received this =
+communication in error, please notify the sender immediately and permanentl=
+y delete the message.
+</body>
+</html>
+
+--_000_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_--
+
+--_004_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_
+Content-Type: image/gif; name="image001.gif"
+Content-Description: image001.gif
+Content-Disposition: inline; filename="image001.gif"; size=3040;
+	creation-date="Tue, 24 May 2016 20:27:32 GMT";
+	modification-date="Tue, 24 May 2016 20:27:32 GMT"
+Content-ID: <image001.gif@01D1B5D8.70058B70>
+Content-Transfer-Encoding: base64
+
+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
+h/70qE+96lfP+ta7/vWuCQgAOw==
+
+--_004_DM2PR0201MB0768AAC897A5473D9872247ED84F0DM2PR0201MB0768_--

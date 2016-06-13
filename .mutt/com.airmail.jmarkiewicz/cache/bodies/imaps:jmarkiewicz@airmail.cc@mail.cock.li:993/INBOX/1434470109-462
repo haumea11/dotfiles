@@ -1,0 +1,113 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=TgBlAt7p7DnITChMZbvExP5avrES+6cAerN1KYKIKPg=;
+        b=hIz3NceLOJYg8yyGzzG1XAqYuTehr+lKMKXwiugjuFxVqPlV1oM5IGNh2fL/dAumyu
+         HXJ3iARLKVpeHDu4mII0G0xqdNV/LbVRIkPdio0xMZ06A1AwHhY6CUUEtexBDPUPoQ/b
+         /LwRVDO0vxxl+7oUtO+/fzl3U3ewpxoo7iAziyLUywNPb68iMXPgpnD0uLsAt7JgdkKI
+         949ZGqFNK9bb1XXCCqOPtkJxjjltbMm1e4KSdjlblvrCG+q9dYZEzEcEO4lmzm58ETex
+         FqSizX3siNV8i3E2Cs/ksGtkbD/n6MXrv8SRjqVJr+DkqZJWHchO3tX46+7GTROmVEz5
+         Drwg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=TgBlAt7p7DnITChMZbvExP5avrES+6cAerN1KYKIKPg=;
+        b=b0oP5HUeQaVE8pzSp/hVqIqlra6EiPRYicx/1WSnRHwHk+PGtmzZGxUh5jdRukzYnY
+         xAaUo+33mwOT1O3FH3mvusHrm9EVX72Ytf9KTSBh1Aph4rrUvD78S4b8rhq1KzO7izlE
+         I/5moJ7AVajoAzOQM6THR5KYPh+nXNPHV8M/gDZ5Wd673QwESJ9/Xl+rRXr1wPWQnoZh
+         /Fjf6tEhXjLFHrDQ3tUmZaSjIBWb32fYc8iTSGPJ5+qOdaxkTiEeu4+WYN42HbOIvsWN
+         eELrD6jICwCUxCAdgaBF50R71W+7AfGQmOfypqheYxuGGsxZCgbQ8N8WsZTo3+Eyz08T
+         3BxA==
+X-Gm-Message-State: ALoCoQmewAkmSOQJ1h15/7zfQTrgD2wj0hvvb5MCrzArLUQ5X8CvzhwptEPBIVS7KQ5RwTYXrxB945537vlPqQ8D3aj2rRNzUp9UU2bSwzt9b2uctfZV4qI=
+MIME-Version: 1.0
+X-Received: by 10.31.141.65 with SMTP id p62mr2903086vkd.93.1449578199986;
+ Tue, 08 Dec 2015 04:36:39 -0800 (PST)
+Date: Tue, 8 Dec 2015 07:36:39 -0500
+Message-ID: <CAGs8aKo65eNi+9zdYJ3eveD4UBsqeEyzUQAsuBij7Nyb+7MLDA@mail.gmail.com>
+Subject: Reminders for Tomrrow
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a1142635aaf55ed052662399c
+
+--001a1142635aaf55ed052662399c
+Content-Type: text/plain; charset=UTF-8
+
+Hello Choir Families,
+The big concert is almost upon us!
+
+This is a reminder that all students need to stay after school tomorrow for
+a dress rehearsal of the concert. This is our only opportunity to run
+through the concert with the pianist in the performance space. *Attendance
+is mandatory.*
+The rehearsal will last until 5pm. Handbell students will be released at
+4pm since they do not have any songs to rehearse with the pianist.
+
+After the rehearsal, we are holding a spirit night at Raising Cane's
+Chicken Fingers on Olentangy River Rd. from 5-9pm. I have attached the
+flyer that you must present with your order and your student will receive a
+hard copy in class today. This is good for drive-thru or dining room
+orders. We'll receive 20% of your order total.
+
+Call times for the concert on Thursday are 6:15pm for Concert and Mixed
+Choir. and 6:30pm for Handbell, Men's, and Women's Choruses. The concert
+begins at 7pm in the Old Gym.
+
+Thanks,
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a1142635aaf55ed052662399c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Choir Families,<div>The big concert is almost upon u=
+s!=C2=A0</div><div><br></div><div>This is a reminder that all students need=
+ to stay after school tomorrow for a dress rehearsal of the concert. This i=
+s our only opportunity to run through the concert with the pianist in the p=
+erformance space. <u>Attendance is mandatory.</u></div><div>The rehearsal w=
+ill last until 5pm. Handbell students will be released at 4pm since they do=
+ not have any songs to rehearse with the pianist.=C2=A0</div><div><br></div=
+><div>After the rehearsal, we are holding a spirit night at Raising Cane&#3=
+9;s Chicken Fingers on Olentangy River Rd. from 5-9pm. I have attached the =
+flyer that you must present with your order and your student will receive a=
+ hard copy in class today. This is good for drive-thru or dining room order=
+s. We&#39;ll receive 20% of your order total.</div><div><br></div><div>Call=
+ times for the concert on Thursday are 6:15pm for Concert and Mixed Choir. =
+and 6:30pm for Handbell, Men&#39;s, and Women&#39;s Choruses. The concert b=
+egins at 7pm in the Old Gym.=C2=A0</div><div><br></div><div>Thanks,</div><d=
+iv><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div style=3D"=
+margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><font color=3D"#00000=
+0" face=3D"Calibri">Christen Joyce</font></span></b></div><font color=3D"#0=
+00000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0i=
+n 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=
+=3D"3">Choral Director</font></span></b></p><font color=3D"#000000" face=3D=
+"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><spa=
+n style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3"><span><f=
+ont color=3D"#830b2c">Bishop</font></span> <span><font color=3D"#830b2c">Wa=
+tterson</font></span> High School</font></span></b></p><font color=3D"#0000=
+00" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0=
+pt"><span><font color=3D"#000000" face=3D"Calibri" size=3D"3"><a href=3D"te=
+l:%28614%29%20268-8671" value=3D"+16142688671" target=3D"_blank"><font colo=
+r=3D"#1155cc">(614) 268-8671</font></a> x 289</font></span></p><font color=
+=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><div style=3D"margi=
+n:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a href=3D"http://www.b=
+ishopwatterson.com/" target=3D"_blank"><span style=3D"color:rgb(131,11,44)"=
+><font face=3D"Calibri" size=3D"3">www.bishopwatterson.com</font></span></a=
+></span></div><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(13=
+1,11,44)"><img width=3D"420" height=3D"151" src=3D"https://docs.google.com/=
+uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4=
+tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div=
+></div></div></div><div dir=3D"ltr"><div></div></div></span></div></div></d=
+iv></div></div>
+</div></div>
+
+--001a1142635aaf55ed052662399c--

@@ -1,0 +1,106 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp2057911oig;
+        Tue, 15 Sep 2015 17:55:19 -0700 (PDT)
+X-Received: by 10.195.11.101 with SMTP id eh5mr45949588wjd.59.1442364919739;
+        Tue, 15 Sep 2015 17:55:19 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22c.google.com (mail-wi0-x22c.google.com. [2a00:1450:400c:c05::22c])
+        by mx.google.com with ESMTPS id t5si1284998wia.121.2015.09.15.17.55.19
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Sep 2015 17:55:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) client-ip=2a00:1450:400c:c05::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x22c.google.com with SMTP id lk2so43530247wic.1
+        for <kuiperhaumea@gmail.com>; Tue, 15 Sep 2015 17:55:19 -0700 (PDT)
+X-Received: by 10.180.207.242 with SMTP id lz18mr12458175wic.66.1442364919473;
+        Tue, 15 Sep 2015 17:55:19 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1975024wmw;
+        Tue, 15 Sep 2015 17:55:17 -0700 (PDT)
+X-Received: by 10.66.175.7 with SMTP id bw7mr54915125pac.155.1442364917811;
+        Tue, 15 Sep 2015 17:55:17 -0700 (PDT)
+Return-Path: <mnblaesing@gmail.com>
+Received: from mail-pa0-x22e.google.com (mail-pa0-x22e.google.com. [2607:f8b0:400e:c03::22e])
+        by mx.google.com with ESMTPS id iw9si35997437pac.220.2015.09.15.17.55.17
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 15 Sep 2015 17:55:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mnblaesing@gmail.com designates 2607:f8b0:400e:c03::22e as permitted sender) client-ip=2607:f8b0:400e:c03::22e;
+Received: by mail-pa0-x22e.google.com with SMTP id hk3so191233291pad.3
+        for <markiewicz.john@gmail.com>; Tue, 15 Sep 2015 17:55:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=+wVgZgpw2+BXaB+hhK3QT/vqHVXMjGP0Y7tJBgVv/fY=;
+        b=o6LBy2qI/9zOTl2bpOUHjp8xMxhndC7T7xuRMbLNE7C43VNfk4etO6ezp4sT1WL5cF
+         7VQqiU23Hto/r03L1osp9RVQ39OC1p1uW91Z9itkBY2HnxRyTsrXvPuRiYEQUlOCuP56
+         f28z/cJ2oSfV4oQL9w247wmY2y5u+CNE2IMpPLLK4brPaNIKK3bXZUh/D0eDqtlCript
+         /z7HHTbERvQ35Gt5foGYyhooskGvivxp0sITYRmQBpk5VLuG76GcHHvPrxuCK6xf+l9o
+         8qhDD7KQDTGN6CjjNtHCOuW9uEEvBahWLORxc78J1DhNN62d8qtI8ArVco8ZW+Vk6Dow
+         uevg==
+MIME-Version: 1.0
+X-Received: by 10.68.193.163 with SMTP id hp3mr53219637pbc.136.1442364917000;
+ Tue, 15 Sep 2015 17:55:17 -0700 (PDT)
+Received: by 10.66.161.200 with HTTP; Tue, 15 Sep 2015 17:55:16 -0700 (PDT)
+In-Reply-To: <CAJsGx3K8MKNPerWHGHUnA2E7j_0NA-50bUadCn92hwWUmxyBtA@mail.gmail.com>
+References: <CAJsGx3K8MKNPerWHGHUnA2E7j_0NA-50bUadCn92hwWUmxyBtA@mail.gmail.com>
+Date: Tue, 15 Sep 2015 20:55:16 -0400
+Message-ID: <CACETKjkY+0sAE-_UnjC+kOvpzBzpOcjWxdMghTCtnKbOB=vUuA@mail.gmail.com>
+Subject: Re: Study Guides
+From: Miranda Blaesing <mnblaesing@gmail.com>
+To: John Markiewicz <markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=047d7b15a61983c07d051fd2c09c
+
+--047d7b15a61983c07d051fd2c09c
+Content-Type: text/plain; charset=UTF-8
+
+https://drive.google.com/folderview?id=0Bykur8szoczpbExtNGJfYmtLcE0&usp=sharing
+
+here you go
+
+
+On Tue, Sep 15, 2015 at 8:37 PM, John Markiewicz <markiewicz.john@gmail.com>
+wrote:
+
+> Hey Miranda-
+>
+> Saw your post on twitter, can't DM you this e-mail since you're not
+> following me (I haven't had a twitter I regularly use for very long and I'm
+> still not very active on there.)  Just wanted to say if you're fine sending
+> me the link to the study guide drive I would really appreciate it, and am
+> likely to contribute any guides I make.  I think it's a pretty good idea.
+>
+> Best Wishes,
+> John
+>
+
+--047d7b15a61983c07d051fd2c09c
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><a href=3D"https://drive.google.com/folderview?id=3D0Bykur=
+8szoczpbExtNGJfYmtLcE0&amp;usp=3Dsharing">https://drive.google.com/foldervi=
+ew?id=3D0Bykur8szoczpbExtNGJfYmtLcE0&amp;usp=3Dsharing</a><br><div><br></di=
+v><div>here you go</div><div><br></div></div><div class=3D"gmail_extra"><br=
+><div class=3D"gmail_quote">On Tue, Sep 15, 2015 at 8:37 PM, John Markiewic=
+z <span dir=3D"ltr">&lt;<a href=3D"mailto:markiewicz.john@gmail.com" target=
+=3D"_blank">markiewicz.john@gmail.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex"><div dir=3D"ltr"><div><div><div>Hey Miranda-<br><br></di=
+v>Saw your post on twitter, can&#39;t DM you this e-mail since you&#39;re n=
+ot following me (I haven&#39;t had a twitter I regularly use for very long =
+and I&#39;m still not very active on there.)=C2=A0 Just wanted to say if yo=
+u&#39;re fine sending me the link to the study guide drive I would really a=
+ppreciate it, and am likely to contribute any guides I make.=C2=A0 I think =
+it&#39;s a pretty good idea.<br><br></div>Best Wishes,<br></div>John<br></d=
+iv>
+</blockquote></div><br></div>
+
+--047d7b15a61983c07d051fd2c09c--

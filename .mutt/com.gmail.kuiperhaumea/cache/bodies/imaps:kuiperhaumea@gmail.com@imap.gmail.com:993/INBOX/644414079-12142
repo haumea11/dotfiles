@@ -1,0 +1,143 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp177307oia;
+        Tue, 30 Jun 2015 13:09:07 -0700 (PDT)
+X-Received: by 10.107.132.16 with SMTP id g16mr32290721iod.25.1435694947716;
+        Tue, 30 Jun 2015 13:09:07 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-ie0-x22e.google.com (mail-ie0-x22e.google.com. [2607:f8b0:4001:c03::22e])
+        by mx.google.com with ESMTPS id pq8si41300644icb.20.2015.06.30.13.09.07
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 30 Jun 2015 13:09:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4001:c03::22e as permitted sender) client-ip=2607:f8b0:4001:c03::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4001:c03::22e as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ie0-x22e.google.com with SMTP id vh10so19437385iec.3
+        for <kuiperhaumea@gmail.com>; Tue, 30 Jun 2015 13:09:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type;
+        bh=4h+M/NGqq1+BE3xl4Ug6XeAxORBgRu0BUha97Ev8BcE=;
+        b=g0NcwI6IY7kSj8NJDeQ3NgGwfw9LMBPUWtrk3ORrm+0wzmsjC9fQuOJjsLNCvb6y7C
+         ybQGTHSxU71NPMYIW401ZHvifjWVK1NvFgu1yTvEyTAfxne+1cPg5nsjxKZbByHDT/Kr
+         6npi6ttgGK4li/U8Ongwr30t9nnh5+ZTMJ+j59ntH+DM9JmXrjyUjSyVcxRjLylRRTiY
+         4B7rcEB0xyZntOtRnAhZIrM8aqa7GG0DjqZNFRqLUN+ApdDef7kRZkUHJTISaXSfb6Hn
+         Ha++N7bbMDaUChqPNeHzdfyRpDoGxT8eSjzcySbTcGF1BW+uFWWracRfi0kwKVfkK2tU
+         mYBw==
+X-Received: by 10.42.203.4 with SMTP id fg4mr26944529icb.52.1435694947267;
+        Tue, 30 Jun 2015 13:09:07 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from ?IPv6:2605:a000:1119:4043:8db4:92b7:86cc:4a10? ([2605:a000:1119:4043:8db4:92b7:86cc:4a10])
+        by mx.google.com with ESMTPSA id f15sm30781512iof.36.2015.06.30.13.09.05
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 30 Jun 2015 13:09:06 -0700 (PDT)
+Message-ID: <5592F761.8030502@gmail.com>
+Date: Tue, 30 Jun 2015 16:09:05 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Subject: the big quote
+Content-Type: multipart/alternative;
+ boundary="------------020606080601060603090706"
+
+This is a multi-part message in MIME format.
+--------------020606080601060603090706
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+*Where did the Plan 9 name come from?*
+
+The name was taken from the infamous sci-fi horror movie by Ed
+Wood, Plan 9 From Outer Space <http://www.imdb.com/title/tt0052077>.
+Some people call it the worst movie ever made. Other people say it's so
+bad it's good. The Ed Wood movie
+<http://www.imdb.com/title/tt0109707> by Tim Burton, on the other hand
+is a great movie and gives a great historic account of Ed Wood's low
+budget movie making. Here's the actual Plan 9 quote:
+
+/RULER:/ "What plan will you follow now?"
+
+/EROS:/ "Plan 9. It's been absolutely impossible to work through these
+Earth creatures. Their soul is too controlled."
+
+/RULER:/ "Plan 9... Ah yes. Plan 9 deals with the resurrection of the
+dead. Long-distance electrodes shot into the pinion pituitary glands of
+recent dead."
+
+
+--------------020606080601060603090706
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <p style="color: rgb(51, 51, 51); font-family: Tahoma, 'Trebuchet
+      MS', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+      13px; font-style: normal; font-variant: normal; font-weight:
+      normal; letter-spacing: normal; line-height: 16.25px; orphans:
+      auto; text-align: left; text-indent: 0px; text-transform: none;
+      white-space: normal; widows: 1; word-spacing: 0px;
+      -webkit-text-stroke-width: 0px; background-color: rgb(252, 252,
+      252);"><b>Where did the Plan 9 name come from?</b></p>
+    <p style="color: rgb(51, 51, 51); font-family: Tahoma, 'Trebuchet
+      MS', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+      13px; font-style: normal; font-variant: normal; font-weight:
+      normal; letter-spacing: normal; line-height: 16.25px; orphans:
+      auto; text-align: left; text-indent: 0px; text-transform: none;
+      white-space: normal; widows: 1; word-spacing: 0px;
+      -webkit-text-stroke-width: 0px; background-color: rgb(252, 252,
+      252);">The name was taken from the infamous sci-fi horror movie by
+      Ed Wood,<span class="Apple-converted-space"> </span><a
+        href="http://www.imdb.com/title/tt0052077" style="color: rgb(0,
+        85, 0); text-decoration: underline;">Plan 9 From Outer Space</a>.
+      Some people call it the worst movie ever made. Other people say
+      it's so bad it's good. The<span class="Apple-converted-space"> </span><a
+        href="http://www.imdb.com/title/tt0109707" style="color: rgb(0,
+        85, 0); text-decoration: underline;">Ed Wood movie</a><span
+        class="Apple-converted-space"> </span>by Tim Burton, on the
+      other hand is a great movie and gives a great historic account of
+      Ed Wood's low budget movie making. Here's the actual Plan 9 quote:</p>
+    <p style="color: rgb(51, 51, 51); font-family: Tahoma, 'Trebuchet
+      MS', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+      13px; font-style: normal; font-variant: normal; font-weight:
+      normal; letter-spacing: normal; line-height: 16.25px; orphans:
+      auto; text-align: left; text-indent: 0px; text-transform: none;
+      white-space: normal; widows: 1; word-spacing: 0px;
+      -webkit-text-stroke-width: 0px; background-color: rgb(252, 252,
+      252);"><i>RULER:</i><span class="Apple-converted-space"> </span>"What
+      plan will you follow now?"</p>
+    <p style="color: rgb(51, 51, 51); font-family: Tahoma, 'Trebuchet
+      MS', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+      13px; font-style: normal; font-variant: normal; font-weight:
+      normal; letter-spacing: normal; line-height: 16.25px; orphans:
+      auto; text-align: left; text-indent: 0px; text-transform: none;
+      white-space: normal; widows: 1; word-spacing: 0px;
+      -webkit-text-stroke-width: 0px; background-color: rgb(252, 252,
+      252);"><i>EROS:</i><span class="Apple-converted-space"> </span>"Plan
+      9. It's been absolutely impossible to work through these Earth
+      creatures. Their soul is too controlled."</p>
+    <p style="color: rgb(51, 51, 51); font-family: Tahoma, 'Trebuchet
+      MS', 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:
+      13px; font-style: normal; font-variant: normal; font-weight:
+      normal; letter-spacing: normal; line-height: 16.25px; orphans:
+      auto; text-align: left; text-indent: 0px; text-transform: none;
+      white-space: normal; widows: 1; word-spacing: 0px;
+      -webkit-text-stroke-width: 0px; background-color: rgb(252, 252,
+      252);"><i>RULER:</i><span class="Apple-converted-space"> </span>"Plan
+      9... Ah yes. Plan 9 deals with the resurrection of the dead.
+      Long-distance electrodes shot into the pinion pituitary glands of
+      recent dead."</p>
+  </body>
+</html>
+
+--------------020606080601060603090706--

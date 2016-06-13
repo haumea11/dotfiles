@@ -1,0 +1,973 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp1867045oia;
+        Mon, 29 Jun 2015 11:03:19 -0700 (PDT)
+X-Received: by 10.180.187.167 with SMTP id ft7mr24334609wic.26.1435600998198;
+        Mon, 29 Jun 2015 11:03:18 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x229.google.com (mail-wi0-x229.google.com. [2a00:1450:400c:c05::229])
+        by mx.google.com with ESMTPS id ey16si74539074wjc.79.2015.06.29.11.03.17
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 11:03:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::229 as permitted sender) client-ip=2a00:1450:400c:c05::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::229 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail72.atl161.mcsv.net
+Received: by mail-wi0-x229.google.com with SMTP id dq8so77757162wib.1
+        for <kuiperhaumea@gmail.com>; Mon, 29 Jun 2015 11:03:17 -0700 (PDT)
+X-Received: by 10.194.109.36 with SMTP id hp4mr32478602wjb.4.1435600997122;
+        Mon, 29 Jun 2015 11:03:17 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1658892wmd;
+        Mon, 29 Jun 2015 11:03:15 -0700 (PDT)
+X-Received: by 10.13.240.67 with SMTP id z64mr20234637ywe.69.1435600995306;
+        Mon, 29 Jun 2015 11:03:15 -0700 (PDT)
+Return-Path: <bounce-mc.us4_7627121.253189-markiewicz.john=gmail.com@mail72.atl161.mcsv.net>
+Received: from mail72.atl161.mcsv.net (mail72.atl161.mcsv.net. [198.2.138.72])
+        by mx.google.com with ESMTP id i187si6836608ykc.47.2015.06.29.11.03.14
+        for <markiewicz.john@gmail.com>;
+        Mon, 29 Jun 2015 11:03:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us4_7627121.253189-markiewicz.john=gmail.com@mail72.atl161.mcsv.net designates 198.2.138.72 as permitted sender) client-ip=198.2.138.72;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail72.atl161.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=support=3Dbarronstestprep.com@mail72.atl161.mcsv.net;
+ bh=cSGauoAyIq+94ybY1AjXhQK7XQg=;
+ b=2LVxTQLNhRmY8zeew+KUld777aIoiWsG3RQ+2QgWMf3qlx+adZKKBExGG2O1HHPTIhJ7NUdm4t1s
+   s8yM6Jk+/3PV47OtdmDSGm9w5CY/z5Qv+H8lOCt1NL0H8a5pzollq2s8OA2CRwtClsihGbWLTPW3
+   xF81xtygU2296KXsRo4=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=cSGauoAyIq+94ybY1AjXhQK7XQg=;
+ b=kSgI3vlTBndbqQACA62L9Hwc1DnDtOgcWkwGO6y+Lq+UYdO1ynnK8WaOWq0CCjPDfC+rPGK3zNh0
+   jNYxmQudcg/BSIkiphjg5wujIzrAkjoQn65yfiWqg3C1Fxh9ivikqBEVOZRvk3kPZKeczKPk2Yie
+   7N7jlkGfOT6uXCDRfcs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail72.atl161.mcsv.net;
+ b=XDH85dJhURnOH7X3p189R7WaHN8/ynxURCVrGnSK6vXFdhLDasCl141rkfgh8D2eOow46KxgUPWP
+   1L0yJ0aStgglFIBkbPmP4GeRfyY0vlFdIM65wU5xdBrNndakcX8BrFniF6ctZ0Wuoht5q4BQKpZE
+   QhkD8OOgADFZL/+PX58=;
+Received: from (127.0.0.1) by mail72.atl161.mcsv.net id hi64661sb4g3 for <markiewicz.john@gmail.com>; Mon, 29 Jun 2015 18:02:33 +0000 (envelope-from <bounce-mc.us4_7627121.253189-markiewicz.john=gmail.com@mail72.atl161.mcsv.net>)
+Subject: =?utf-8?Q?Barron=27s=20SAT=20Newsletter=20=2806=2F29=2F2015=29?=
+From: =?utf-8?Q?Barron=27s=20SAT?= <support@barronstestprep.com>
+Reply-To: =?utf-8?Q?Barron=27s=20SAT?= <support@barronstestprep.com>
+To: =?utf-8?Q?John?= <markiewicz.john@gmail.com>
+Date: Mon, 29 Jun 2015 18:02:33 +0000
+Message-ID: <3f518cbed4e814f447fca058723f07770b6.20150629180211@mail72.atl161.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDd633442bca23f07770b6**
+X-Campaign: mailchimp3f518cbed4e814f447fca0587.d633442bca
+X-campaignid: mailchimp3f518cbed4e814f447fca0587.d633442bca
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=3f518cbed4e814f447fca0587&id=d633442bca&e=23f07770b6
+X-MC-User: 3f518cbed4e814f447fca0587
+X-Feedback-ID: 7627121:7627121.253189:us4:mc
+List-ID: 3f518cbed4e814f447fca0587mc list <3f518cbed4e814f447fca0587.59069.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-3f518cbed4e814f447fca0587-d633442bca-23f07770b6@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://barronstestprep.us4.list-manage.com/unsubscribe?u=3f518cbed4e814f447fca0587&id=b3584fc668&e=23f07770b6&c=d633442bca>
+Sender: "Barron's SAT" <support=barronstestprep.com@mail72.atl161.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1516136890"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1516136890
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Barron's GRE Newsletter.
+------------------------------------------------------------
+Is this email not displaying correctly?
+View it in your browser (http://us4.campaign-archive1.com/?u=3D3f518cbed4e=
+814f447fca0587&id=3Dd633442bca&e=3D23f07770b6) .
+(http://barronstestprep.com/blog/gmat?mc_cid=3Dd633442bca&mc_eid=3D[UNIQI=
+D])
+
+
+** Barron's  Test Prep Blog - Online Education and Test Prep =C2=BB SAT
+------------------------------------------------------------
+Contents:
+* SAT Reading Stamina
+* New SAT Tests Available
+
+
+
+
+** SAT Reading Stamina
+------------------------------------------------------------
+
+
+** Jun 26=2C 2015 03:18 pm | Bryce
+------------------------------------------------------------
+
+
+I just posted a blog about the release of new SAT practice tests that you=
+ can find here (http://barronstestprep.com/blog/new-sat-tests-available/?m=
+c_cid=3Dd633442bca&mc_eid=3D[UNIQID]) . As I started to work through the=
+ tests=2C I expected to be struck by one of the many changes that the test=
+ has undergone=2C but the first thing I noticed was on the very first page=
+:
+
+Reading Test
+
+65 Minutes=2C 52 Questions
+
+While several components of the reading section have been excised=2C rathe=
+r than three shorter sections the test now contains one massive reading qu=
+estion. The version I looked at spanned 15 pages. This is going to be a se=
+rious test of stamina.
+
+Allow me to sound like an old man for a minute. When I heard about this ch=
+ange from my wife=2C my response was =E2=80=9CGood. That=E2=80=99s what co=
+llege is. You have to sit down and focus intently for an hour=2C and then=
+ you have to do it again.=E2=80=9D Back in my day we had attention spans l=
+onger than 140 characters. We communicated in full sentences=2C not text m=
+essages. (Okay=2C I=E2=80=99ve probably pushed the old man bit too far now=
+=2E For the sake of accuracy=2C we did have text messaging when I was in col=
+lege=2C but it cost $0.10 per text so we didn=E2=80=99t use it that much.)
+
+But seriously=2C I really do think this reading section is going to be a m=
+assive test of attention spans. In an era where two paragraph-long posts n=
+eed a TL;DR summary at the bottom (Too Long; Didn=E2=80=99t Read) we aren=
+=E2=80=99t used to having our focus tested like the SAT is doing.
+
+There is=2C however=2C a solution. Sit down and read. Make it a habit to s=
+et a timer for 65 minutes (or more)=2C turn off and put out of reach your=
+ phone=2C TV=2C radio or anything else that might distract and just read.=
+ The silence can be jarring at times in our world of multi-tasking (or mor=
+e accurately multi-distracting) but if you make this a habit you=E2=80=99r=
+e not only going to improve your focus and chances on the SAT=2C you=E2=80=
+=99re probably going to find that it=E2=80=99s your most productive time o=
+f the day. Make good habits and build your reading stamina because the new=
+ SAT is coming.
+
+TL;DR- You better make the time to read because the SAT reading section is=
+ a long longer than this blog post
+Read More (http://barronstestprep.com/blog/sat-reading-stamina/?mc_cid=3Dd=
+633442bca&mc_eid=3D[UNIQID])
+http://twitter.com/share?url=3Dhttp%3A%2F%2Fbarronstestprep.com%2Fblog%2Fs=
+at-reading-stamina%2F&text=3DSAT+Reading+Stamina&count=3Dnone&mc_cid=3Dd63=
+3442bca&mc_eid=3D[UNIQID] http://us4.campaign-archive1.com/?u=3D3f518cbed=
+4e814f447fca0587&id=3Dd633442bca&fblike=3Dfblike-16049567&e=3D[UNIQID]&so=
+cialproxy=3Dhttp%3A%2F%2Fus4.campaign-archive1.com%2Fsocial-proxy%2Ffacebo=
+ok-like%3Fu%3D3f518cbed4e814f447fca0587%26id%3Dd633442bca%26url%3Dhttp%253=
+A%252F%252Fbarronstestprep.com%252Fblog%252Fsat-reading-stamina%252F%26tit=
+le%3DSAT%2520Reading%2520Stamina&mc_cid=3Dd633442bca&mc_eid=3D[UNIQID]
+
+
+
+** New SAT Tests Available
+------------------------------------------------------------
+
+
+** Jun 26=2C 2015 03:17 pm | Bryce
+------------------------------------------------------------
+
+
+The College Board recently released four full-length sample tests for the=
+ new SAT that will be debuting Spring 2016. You can access the tests here=
+ (https://collegereadiness.collegeboard.org/sat-suite-assessments/practice=
+/practice-tests?mc_cid=3Dd633442bca&mc_eid=3D[UNIQID]) . If you=E2=80=99r=
+e currently a senior in high school=2C don=E2=80=99t worry this new versio=
+n of the test won=E2=80=99t apply to you=2C but if you=E2=80=99re a sophom=
+ore or junior you should definitely take a look.
+
+One nice resource that the College Board has provided is that there are ex=
+planations for the answers in these tests. Beyond learning what you needed=
+ to know in order to get the question correct=2C these explanations can of=
+ten offer insight into how the test maker would like you to think about th=
+e problems=2C and what skills the test wants to make sure you have. I woul=
+d budget just as much time to review the test as you do to take it. It can=
+ be extremely helpful to read the explanations both for the problems you g=
+ot wrong AND for the problems you got correct. When you review a problem t=
+hat you got correct you often come across a more efficient way to attack s=
+imilar problems in the future. Alternately=2C a proposed solution may simp=
+ly offer a different way to look at things that you hadn=E2=80=99t thought=
+ about before that you can add to your toolkit. Finally=2C reviewing the a=
+nswer for a problem you got correct may serve to validate that you approac=
+hed the problem exactly the right way. That
+it certainly worth the time it takes to review as it solidifies good habit=
+s!
+
+When you go into these practice tests I=E2=80=99d encourage you to keep an=
+ open mind. I=E2=80=99m sure you=E2=80=99ve heard quite a few things about=
+ what this new SAT will be. Some are probably true=2C some are certainly e=
+xaggerated=2C and some are just wrong. Just like you=E2=80=99re better off=
+ forming your opinions on a new person based on facts and personal experie=
+nce=2C you=E2=80=99re better off getting familiar with this new SAT before=
+ you judge her.
+
+Feel free to give your feedback. Now that you=E2=80=99ve seen what it will=
+ look like=2C what do you think of the new SAT?
+Read More (http://barronstestprep.com/blog/new-sat-tests-available/?mc_cid=
+=3Dd633442bca&mc_eid=3D[UNIQID])
+http://twitter.com/share?url=3Dhttp%3A%2F%2Fbarronstestprep.com%2Fblog%2Fn=
+ew-sat-tests-available%2F&text=3DNew+SAT+Tests+Available&count=3Dnone&mc_c=
+id=3Dd633442bca&mc_eid=3D[UNIQID] http://us4.campaign-archive1.com/?u=3D3=
+f518cbed4e814f447fca0587&id=3Dd633442bca&fblike=3Dfblike-efe778ff&e=3D[UN=
+IQID]&socialproxy=3Dhttp%3A%2F%2Fus4.campaign-archive2.com%2Fsocial-proxy%=
+2Ffacebook-like%3Fu%3D3f518cbed4e814f447fca0587%26id%3Dd633442bca%26url%3D=
+http%253A%252F%252Fbarronstestprep.com%252Fblog%252Fnew-sat-tests-availabl=
+e%252F%26title%3DNew%2520SAT%2520Tests%2520Available&mc_cid=3Dd633442bca&m=
+c_eid=3D[UNIQID]
+
+
+
+** More to read:
+------------------------------------------------------------
+** Parabolas (http://barronstestprep.com/blog/parabolas/?mc_cid=3Dd633442b=
+ca&mc_eid=3D[UNIQID])
+** Graduation Attitude (http://barronstestprep.com/blog/graduation-attitud=
+e/?mc_cid=3Dd633442bca&mc_eid=3D[UNIQID]
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Copyright =C2=A9 2015 Barron's Educational Series=2C All rights reserved.
+ You are receiving this email because you opted in at our Website: http://=
+www.barronstestprep.com
+
+Our mailing address is:
+Barron's Educational Series
+250 Wireless Blvd.
+Hauppauge=2C NY 11788
+USA
+
+|
+
+** unsubscribe from this list (http://barronstestprep.us4.list-manage.com/=
+unsubscribe?u=3D3f518cbed4e814f447fca0587&id=3Db3584fc668&e=3D23f07770b6&c=
+=3Dd633442bca)
+** update subscription preferences (http://barronstestprep.us4.list-manage=
+2.com/profile?u=3D3f518cbed4e814f447fca0587&id=3Db3584fc668&e=3D23f07770b6)
+--_----------=_MCPart_1516136890
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <title>Barron's SAT Newsletter (06/29/2015)</title>
+=09=09
+=09<style type=3D"text/css">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:none;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09margin:0;
+=09=09=09outline:none;
+=09=09=09padding:0;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09h1=2C.h1{
+=09=09=09color:#303030;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2=2C.h2{
+=09=09=09color:#26ABE2;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3=2C.h3{
+=09=09=09color:#303030;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4=2C.h4{
+=09=09=09color:#ACACAC;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-top:0;
+=09=09=09margin-right:0;
+=09=09=09margin-bottom:10px;
+=09=09=09margin-left:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-bottom:1px solid #D9D9D9;
+=09=09}
+=09=09.preheaderContent{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent a:link=2C.preheaderContent a:visited=2C.preheaderC=
+ontent a .yshortcuts {
+=09=09=09color:#202020;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#F5F5F5;
+=09=09=09border-top:1px solid #FFFFFF;
+=09=09=09border-bottom:1px solid #D9D9D9;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#303030;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:left;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited=2C.headerContent a=
+ .yshortcuts {
+=09=09=09color:#26ABE2;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#F5F5F5;
+=09=09=09border-top:1px solid #FFFFFF;
+=09=09=09border-bottom:1px solid #CACACA;
+=09=09}
+=09=09.bodyContent{
+=09=09=09color:#303030;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:13px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent a:link=2C.bodyContent a:visited=2C.bodyContent a .yshor=
+tcuts {
+=09=09=09color:#26ABE2;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rssButton{
+=09=09=09-moz-border-radius:5px;
+=09=09=09-webkitborder-radius:5px;
+=09=09=09background-color:#26ABE2;
+=09=09=09border-radius:5px;
+=09=09}
+=09=09.rssButton=2C.rssButton a:link=2C.rssButton a:visited{
+=09=09=09color:#FFFFFF;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09height:auto !important;
+=09=09=09max-width:558px !important;
+=09=09}
+=09=09body=2C#backgroundTable{
+=09=09=09background-color:#E4E4E4;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:1px solid #FFFFFF;
+=09=09}
+=09=09.footerContent{
+=09=09=09color:#505050;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent a:link=2C.footerContent a:visited=2C.footerContent a=
+ .yshortcuts {
+=09=09=09color:#505050;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:190px;
+=09=09}
+</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"-webkit-text-size-adjust: none;margin: 0;padd=
+ing: 0;background-color: #E4E4E4;width: 100% !important;">
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" id=3D"backgroundTable" style=3D"margin: 0;padding=
+: 0;background-color: #E4E4E4;height: 100% !important;width: 100% !importa=
+nt;">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top">
+                        <!-- // Begin Template Preheader \\ -->
+                        <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" width=3D"100%" id=3D"templatePreheader" style=3D"background-color:=
+ #FFFFFF;border-bottom: 1px solid #D9D9D9;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top">
+
+                                =09<!-- // Begin Module: Standard Preheade=
+r \ -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600">
+                                    =09<tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContent" style=3D"padding-right: 20px;color: #202020;font-family: He=
+lvetica;font-size: 10px;line-height: 100%;text-align: left;">Barron&#39;s=
+ SAT Newsletter.</td>
+                                            <!--
+ -->
+=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top" width=3D"200" class=3D=
+"preheaderContent" style=3D"color: #202020;font-family: Helvetica;font-siz=
+e: 10px;line-height: 100%;text-align: left;">
+                                                Is this email not displayi=
+ng correctly?<br><a href=3D"http://us4.campaign-archive1.com/?u=3D3f518cbe=
+d4e814f447fca0587&id=3Dd633442bca&e=3D23f07770b6" target=3D"_blank" style=3D=
+"color: #202020;font-weight: normal;text-decoration: underline;">View it i=
+n your browser</a>.
+                                            </td>
+=09=09=09=09=09=09=09=09=09=09=09<!--
+ -->
+                                        </tr>
+                                    </table>
+                                =09<!-- // End Module: Standard Preheader=
+ \ -->
+
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Preheader \\ -->
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" id=3D"templateContainer">
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top" id=3D"t=
+emplateHeader" style=3D"padding-top: 40px;padding-bottom: 40px;background-=
+color: #F5F5F5;border-top: 1px solid #FFFFFF;border-bottom: 1px solid #D9D=
+9D9;">
+                                    <!-- // Begin Template Header \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600">
+                                        <tr>
+                                            <td class=3D"headerContent" st=
+yle=3D"color: #303030;font-family: Helvetica;font-size: 20px;font-weight:=
+ bold;line-height: 100%;padding: 0;text-align: left;vertical-align: middle=
+;">
+                                            =09<a href=3D"http://barronste=
+stprep.us4.list-manage1.com/track/click?u=3D3f518cbed4e814f447fca0587&id=
+=3D1bce3bfff6&e=3D23f07770b6" style=3D"color: #26ABE2;font-weight: normal=
+;text-decoration: underline;"><img src=3D"http://gallery.mailchimp.com/3f5=
+18cbed4e814f447fca0587/images/satnewsletter.png" alt=3D"" border=3D"0" sty=
+le=3D"border: px none;border-color: ;border-style: none;border-width: px;h=
+eight: 115px;width: 600px;margin: 0;padding: 0;max-width: 600px;line-heigh=
+t: 100%;outline: none;text-decoration: none;" width=3D"600" height=3D"115"=
+ id=3D"headerImage campaign-icon"></a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Header \\ -->
+                                </td>
+                            </tr>
+                        =09<tr>
+                            =09<td align=3D"center" valign=3D"top">
+                                    <!-- // Begin Template Body \\ -->
+                                =09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"background-co=
+lor: #F5F5F5;border-top: 1px solid #FFFFFF;border-bottom: 1px solid #CACAC=
+A;">
+                                    =09<tr>
+                                            <td align=3D"center" valign=3D=
+"top" style=3D"padding-top:40px; padding-bottom:40px;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600">
+                                                =09<tr>
+                                                    =09<td valign=3D"top"=
+ class=3D"bodyContent" style=3D"padding-bottom: 20px;color: #303030;font-f=
+amily: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                        =09<div>
+                                                                <h1 style=
+=3D"color: #303030;display: block;font-family: Helvetica;font-size: 30px;f=
+ont-weight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bo=
+ttom: 10px;margin-left: 0;text-align: left;">Barron's  Test Prep Blog - On=
+line Education and Test Prep =C2=BB SAT</h1>
+                                                            =09<strong>Con=
+tents:</strong>
+                                                                <br>
+                                                        =09=09<ul id=3D"mc=
+toc"><li><a href=3D"#mctoc1">SAT Reading Stamina</a></li><li><a href=3D"#m=
+ctoc2">New SAT Tests Available</a></li></ul>
+                                                            </div>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign=3D"top"=
+>
+                                                            <span class=3D=
+"bodyContent" style=3D"color: #303030;font-family: Helvetica;font-size: 13=
+px;line-height: 150%;text-align: left;"></span>
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                            =09<tr mc:repe=
+atable=3D"repeat_1" mc:repeatindex=3D"0" mc:hideable=3D"hideable_repeat_1_=
+1" mchideable=3D"hideable_repeat_1_1">
+                                                                =09<td>
+                                                                    =09<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                       =
+ =09<tr>
+                                                                         =
+       <td class=3D"bodyContent" style=3D"padding-top: 10px;color: #303030=
+;font-family: Helvetica;font-size: 13px;line-height: 150%;text-align: left=
+;">
+                                                                         =
+           <a name=3D"mctoc1" style=3D"color: #26ABE2;font-weight: normal;=
+text-decoration: underline;"></a><a name=3D"mctoc1" style=3D"color: #26ABE=
+2;font-weight: normal;text-decoration: underline;"></a><a name=3D"mctoc1"=
+ style=3D"color: #26ABE2;font-weight: normal;text-decoration: underline;">=
+</a><h2 class=3D"mc-toc-title" style=3D"color: #26ABE2;display: block;font=
+-family: Helvetica;font-size: 20px;font-weight: bold;line-height: 100%;mar=
+gin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align:=
+ left;">SAT Reading Stamina</h2>
+                                                                         =
+           <h4 style=3D"color: #ACACAC;display: block;font-family: Helveti=
+ca;font-size: 14px;font-weight: bold;line-height: 100%;margin-top: 0;margi=
+n-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Jun 26=2C=
+ 2015 03:18 pm | Bryce</h4>
+
+                                                                         =
+           <br>
+                                                                         =
+           <br>
+                                                                         =
+           <p>I just posted a blog about the release of new SAT practice t=
+ests that you can find <a href=3D"http://barronstestprep.us4.list-manage1.=
+com/track/click?u=3D3f518cbed4e814f447fca0587&id=3D315839a3a0&e=3D=
+23f07770b6" style=3D"color: #26ABE2;font-weight: normal;text-decoration: underlin=
+e;">here</a>. As I started to work through the tests=2C I expected to be s=
+truck by one of the many changes that the test has undergone=2C but the fi=
+rst thing I noticed was on the very first page:</p>
+<p>Reading Test</p>
+<p>65 Minutes=2C 52 Questions</p>
+<p>While several components of the reading section have been excised=2C ra=
+ther than three shorter sections the test now contains one massive reading=
+ question. The version I looked at spanned 15 pages. This is going to be a=
+ serious test of stamina.</p>
+<p>Allow me to sound like an old man for a minute. When I heard about this=
+ change from my wife=2C my response was &#8220;Good. That&#8217;s what col=
+lege is. You have to sit down and focus intently for an hour=2C and then y=
+ou have to do it again.&#8221; Back in my day we had attention spans longe=
+r than 140 characters. We communicated in full sentences=2C not text messa=
+ges. (Okay=2C I&#8217;ve probably pushed the old man bit too far now. For=
+ the sake of accuracy=2C we did have text messaging when I was in college=
+=2C but it cost $0.10 per text so we didn&#8217;t use it that much.)</p>
+<p>But seriously=2C I really do think this reading section is going to be=
+ a massive test of attention spans. In an era where two paragraph-long pos=
+ts need a TL;DR summary at the bottom (Too Long; Didn&#8217;t Read) we are=
+n&#8217;t used to having our focus tested like the SAT is doing.</p>
+<p>There is=2C however=2C a solution. Sit down and read. Make it a habit t=
+o set a timer for 65 minutes (or more)=2C turn off and put out of reach yo=
+ur phone=2C TV=2C radio or anything else that might distract and just read=
+=2E The silence can be jarring at times in our world of multi-tasking (or mo=
+re accurately multi-distracting) but if you make this a habit you&#8217;re=
+ not only going to improve your focus and chances on the SAT=2C you&#8217;=
+re probably going to find that it&#8217;s your most productive time of the=
+ day. Make good habits and build your reading stamina because the new SAT=
+ is coming.</p>
+<p>TL;DR- You better make the time to read because the SAT reading section=
+ is a long longer than this blog post</p>
+
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                         =
+   <tr>
+                                                                         =
+   =09<td align=3D"left" valign=3D"top" style=3D"padding-bottom:10px;">
+                                                                         =
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border-bottom:1px solid #D9D9D9;">
+                                                                         =
+               <tr>
+                                                                         =
+                   <td align=3D"left" valign=3D"top" style=3D"padding-top:=
+20px; padding-bottom:20px;">
+                                                                         =
+                       <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" class=3D"rssButton" style=3D"-moz-border-radius: 5px;-webkitborder-=
+radius: 5px;background-color: #26ABE2;border-radius: 5px;color: #FFFFFF;fo=
+nt-family: Helvetica;font-size: 12px;font-weight: bold;line-height: 100%;t=
+ext-decoration: none;">
+                                                                         =
+                           <tr>
+                                                                         =
+                               <td align=3D"center" valign=3D"middle">
+                                                                         =
+                                   <a href=3D"http://barronstestprep.us4.l=
+ist-manage.com/track/click?u=3D3f518cbed4e814f447fca0587&id=3Df21c47faf4&e=
+=3D23f07770b6" target=3D"_blank" style=3D"color: #FFFFFF;font-family: Hel=
+vetica;font-size: 12px;font-weight: bold;line-height: 100%;text-decoration=
+: none;">Read More</a>
+                                                                         =
+                               </td>
+                                                                         =
+                           </tr>
+                                                                         =
+                       </table>
+                                                                         =
+                   </td>
+                                                                         =
+                   <td valign=3D"middle" width=3D"60" class=3D"bodyContent=
+" style=3D"padding-top: 20px;padding-bottom: 20px;color: #303030;font-fami=
+ly: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                                         =
+                       <a href=3D"http://barronstestprep.us4.list-manage.c=
+om/track/click?u=3D3f518cbed4e814f447fca0587&id=3D4ae4eff3de&e=3D=
+23f07770b6" target=3D"_blank" style=3D"color: #26ABE2;font-weight: normal;text-dec=
+oration: underline;"><img src=3D"http://cdn-images.mailchimp.com/social_co=
+nnect_tweet.png" border=3D"0" width=3D"55" height=3D"20" style=3D"display:=
+ inline;border: none;height: auto !important;line-height: 100%;margin: 0;o=
+utline: none;padding: 0;text-decoration: none;max-width: 558px !important;=
+" alt=3D"share on Twitter"></a>
+                                                                         =
+                   </td>
+                                                                         =
+                   <td valign=3D"middle" width=3D"60" class=3D"bodyContent=
+" style=3D"padding-top: 20px;padding-bottom: 20px;color: #303030;font-fami=
+ly: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                                         =
+                       <a href=3D"http://barronstestprep.us4.list-manage.c=
+om/track/click?u=3D3f518cbed4e814f447fca0587&id=3Dd367197972&e=3D=
+23f07770b6" title=3D"Like SAT Reading Stamina on Facebook" rel=3D"socialproxy" id=
+=3D"fblike-16049567" style=3D"color: #26ABE2;font-weight: normal;text-deco=
+ration: underline;"><img src=3D"http://cdn-images.mailchimp.com/fb/like.gi=
+f" border=3D"0" alt=3D"Like SAT Reading Stamina on Facebook" height=3D"20"=
+ width=3D"48" style=3D"display: inline;border: none;height: auto !importan=
+t;line-height: 100%;margin: 0;outline: none;padding: 0;text-decoration: no=
+ne;max-width: 558px !important;"></a>
+                                                                         =
+                   </td>
+                                                                         =
+               </tr>
+                                                                         =
+           </table>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                =09</td>
+                                                                </tr>
+                                                            </table>
+                                                            <span class=3D=
+"bodyContent" style=3D"color: #303030;font-family: Helvetica;font-size: 13=
+px;line-height: 150%;text-align: left;"></span>
+                                                            <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                            =09<tr mc:repe=
+atable=3D"repeat_1" mc:repeatindex=3D"0" mc:hideable=3D"hideable_repeat_1_=
+1" mchideable=3D"hideable_repeat_1_1">
+                                                                =09<td>
+                                                                    =09<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                                                                       =
+ =09<tr>
+                                                                         =
+       <td class=3D"bodyContent" style=3D"padding-top: 10px;color: #303030=
+;font-family: Helvetica;font-size: 13px;line-height: 150%;text-align: left=
+;">
+                                                                         =
+           <a name=3D"mctoc1" style=3D"color: #26ABE2;font-weight: normal;=
+text-decoration: underline;"></a><a name=3D"mctoc2" style=3D"color: #26ABE=
+2;font-weight: normal;text-decoration: underline;"></a><a name=3D"mctoc2"=
+ style=3D"color: #26ABE2;font-weight: normal;text-decoration: underline;">=
+</a><h2 class=3D"mc-toc-title" style=3D"color: #26ABE2;display: block;font=
+-family: Helvetica;font-size: 20px;font-weight: bold;line-height: 100%;mar=
+gin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align:=
+ left;">New SAT Tests Available</h2>
+                                                                         =
+           <h4 style=3D"color: #ACACAC;display: block;font-family: Helveti=
+ca;font-size: 14px;font-weight: bold;line-height: 100%;margin-top: 0;margi=
+n-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Jun 26=2C=
+ 2015 03:17 pm | Bryce</h4>
+
+                                                                         =
+           <br>
+                                                                         =
+           <br>
+                                                                         =
+           <p>The College Board recently released four full-length sample=
+ tests for the new SAT that will be debuting Spring 2016. You can access t=
+he tests=C2=A0<a title=3D"SAT Practice Tests" href=3D"http://barronstestpr=
+ep.us4.list-manage.com/track/click?u=3D3f518cbed4e814f447fca0587&id=3D97b4=
+52a20e&e=3D23f07770b6" style=3D"color: #26ABE2;font-weight: normal;text-d=
+ecoration: underline;">here</a>. If you&#8217;re currently a senior in hig=
+h school=2C don&#8217;t worry this new version of the test won&#8217;t app=
+ly to you=2C but if you&#8217;re a sophomore or junior you should definite=
+ly take a look.</p>
+<p>One nice resource that the College Board has provided is that there are=
+ explanations for the answers in these tests. Beyond learning what you nee=
+ded to know in order to get the question correct=2C these explanations can=
+ often offer insight into how the test maker would like you to think about=
+ the problems=2C and what skills the test wants to make sure you have. I w=
+ould budget just as much time to review the test as you do to take it. It=
+ can be extremely helpful to read the explanations both for the problems y=
+ou got wrong AND for the problems you got correct. When you review a probl=
+em that you got correct you often come across a more efficient way to atta=
+ck similar problems in the future. Alternately=2C a proposed solution may=
+ simply offer a different way to look at things that you hadn&#8217;t thou=
+ght about before that you can add to your toolkit. Finally=2C reviewing th=
+e answer for a problem you got correct may serve to validate that you appr=
+oached the problem exactly the right way. That it certainly worth the time=
+ it takes to review as it solidifies good habits!</p>
+<p>When you go into these practice tests I&#8217;d encourage you to keep a=
+n open mind. I&#8217;m sure you&#8217;ve heard quite a few things about wh=
+at this new SAT will be. Some are probably true=2C some are certainly exag=
+gerated=2C and some are just wrong. Just like you&#8217;re better off form=
+ing your opinions on a new person based on facts and personal experience=
+=2C you&#8217;re better off getting familiar with this new SAT before you=
+ judge her.</p>
+<p>Feel free to give your feedback. Now that you&#8217;ve seen what it wil=
+l look like=2C what do you think of the new SAT?</p>
+<p>&nbsp;</p>
+
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                         =
+   <tr>
+                                                                         =
+   =09<td align=3D"left" valign=3D"top" style=3D"padding-bottom:10px;">
+                                                                         =
+           <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" style=3D"border-bottom:1px solid #D9D9D9;">
+                                                                         =
+               <tr>
+                                                                         =
+                   <td align=3D"left" valign=3D"top" style=3D"padding-top:=
+20px; padding-bottom:20px;">
+                                                                         =
+                       <table border=3D"0" cellpadding=3D"10" cellspacing=
+=3D"0" class=3D"rssButton" style=3D"-moz-border-radius: 5px;-webkitborder-=
+radius: 5px;background-color: #26ABE2;border-radius: 5px;color: #FFFFFF;fo=
+nt-family: Helvetica;font-size: 12px;font-weight: bold;line-height: 100%;t=
+ext-decoration: none;">
+                                                                         =
+                           <tr>
+                                                                         =
+                               <td align=3D"center" valign=3D"middle">
+                                                                         =
+                                   <a href=3D"http://barronstestprep.us4.l=
+ist-manage.com/track/click?u=3D3f518cbed4e814f447fca0587&id=3D8eadea87d0&e=
+=3D23f07770b6" target=3D"_blank" style=3D"color: #FFFFFF;font-family: Hel=
+vetica;font-size: 12px;font-weight: bold;line-height: 100%;text-decoration=
+: none;">Read More</a>
+                                                                         =
+                               </td>
+                                                                         =
+                           </tr>
+                                                                         =
+                       </table>
+                                                                         =
+                   </td>
+                                                                         =
+                   <td valign=3D"middle" width=3D"60" class=3D"bodyContent=
+" style=3D"padding-top: 20px;padding-bottom: 20px;color: #303030;font-fami=
+ly: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                                         =
+                       <a href=3D"http://barronstestprep.us4.list-manage.c=
+om/track/click?u=3D3f518cbed4e814f447fca0587&id=3Dfc976ca265&e=3D=
+23f07770b6" target=3D"_blank" style=3D"color: #26ABE2;font-weight: normal;text-dec=
+oration: underline;"><img src=3D"http://cdn-images.mailchimp.com/social_co=
+nnect_tweet.png" border=3D"0" width=3D"55" height=3D"20" style=3D"display:=
+ inline;border: none;height: auto !important;line-height: 100%;margin: 0;o=
+utline: none;padding: 0;text-decoration: none;max-width: 558px !important;=
+" alt=3D"share on Twitter"></a>
+                                                                         =
+                   </td>
+                                                                         =
+                   <td valign=3D"middle" width=3D"60" class=3D"bodyContent=
+" style=3D"padding-top: 20px;padding-bottom: 20px;color: #303030;font-fami=
+ly: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                                         =
+                       <a href=3D"http://barronstestprep.us4.list-manage.c=
+om/track/click?u=3D3f518cbed4e814f447fca0587&id=3D69c4612824&e=3D=
+23f07770b6" title=3D"Like New SAT Tests Available on Facebook" rel=3D"socialproxy"=
+ id=3D"fblike-efe778ff" style=3D"color: #26ABE2;font-weight: normal;text-d=
+ecoration: underline;"><img src=3D"http://cdn-images.mailchimp.com/fb/like=
+=2Egif" border=3D"0" alt=3D"Like New SAT Tests Available on Facebook" height=
+=3D"20" width=3D"48" style=3D"display: inline;border: none;height: auto !i=
+mportant;line-height: 100%;margin: 0;outline: none;padding: 0;text-decorat=
+ion: none;max-width: 558px !important;"></a>
+                                                                         =
+                   </td>
+                                                                         =
+               </tr>
+                                                                         =
+           </table>
+                                                                         =
+       </td>
+                                                                         =
+   </tr>
+                                                                        </=
+table>
+                                                                =09</td>
+                                                                </tr>
+                                                            </table>
+                                                            <span class=3D=
+"bodyContent" style=3D"color: #303030;font-family: Helvetica;font-size: 13=
+px;line-height: 150%;text-align: left;"></span>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+                                                    </tr>
+                                                    <tr>
+                                                    =09<td valign=3D"top"=
+ class=3D"bodyContent" style=3D"padding-top: 20px;color: #303030;font-fami=
+ly: Helvetica;font-size: 13px;line-height: 150%;text-align: left;">
+                                                            <h4 style=3D"c=
+olor: #ACACAC;display: block;font-family: Helvetica;font-size: 14px;font-w=
+eight: bold;line-height: 100%;margin-top: 0;margin-right: 0;margin-bottom:=
+ 10px;margin-left: 0;text-align: left;">More to read:</h4>
+                                                            <a rel=3D"nofo=
+llow" target=3D"_blank" href=3D"http://barronstestprep.us4.list-manage.com=
+/track/click?u=3D3f518cbed4e814f447fca0587&id=3D21f78045eb&e=3D23f07770b6=
+" class=3D"rss-recent" style=3D"color: #26ABE2;font-weight: normal;text-de=
+coration: underline;">Parabolas</a><br><a rel=3D"nofollow" target=3D"_blan=
+k" href=3D"http://barronstestprep.us4.list-manage.com/track/click?u=3D3f51=
+8cbed4e814f447fca0587&id=3D2eebcebd4c&e=3D23f07770b6" class=3D"rss-recent=
+" style=3D"color: #26ABE2;font-weight: normal;text-decoration: underline;"=
+>Graduation Attitude</a>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                                <!-- // End Module: RSS Co=
+ntent \\ -->
+
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // End Template Body \\ -->
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"templateFoot=
+er" style=3D"padding-top: 40px;padding-bottom: 40px;border-top: 1px solid=
+ #FFFFFF;">
+                        <!-- // Begin Template Footer \\ -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600">
+                            <tr>
+                                <td valign=3D"top" class=3D"footerContent"=
+ style=3D"color: #505050;font-family: Helvetica;font-size: 11px;line-heigh=
+t: 125%;text-align: left;">
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">
+                                        <tr>
+                                            <td valign=3D"top" style=3D"pa=
+dding-right:20px;">
+                                                <em>Copyright &copy; 2015=
+ Barron's Educational Series=2C All rights reserved.</em>
+                                                <br>
+ You are receiving this email because you opted in at our Website: http://=
+www.barronstestprep.com
+                                                <br>
+                                                <br>
+                                                <strong>Our mailing addres=
+s is:</strong>
+                                                <br>
+                                                <div class=3D"vcard"><span=
+ class=3D"org fn">Barron's Educational Series</span><div class=3D"adr"><di=
+v class=3D"street-address">250 Wireless Blvd.</div><span class=3D"locality=
+">Hauppauge</span>=2C <span class=3D"region">NY</span>  <span class=3D"pos=
+tal-code">11788</span></div><br><a href=3D"http://barronstestprep.us4.list=
+-manage.com/vcard?u=3D3f518cbed4e814f447fca0587&id=3Db3584fc668" class=3D"=
+hcard-download">Add us to your address book</a></div>
+                                            </td>
+                                            <td valign=3D"top" width=3D"20=
+0" id=3D"monkeyRewards">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan=3D"2" valign=3D"mi=
+ddle" style=3D"padding-top:20px;">
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://barronstestprep.us4.=
+list-manage.com/unsubscribe?u=3D3f518cbed4e814f447fca0587&id=3Db3584fc668&=
+e=3D23f07770b6&c=3Dd633442bca" style=3D"color: #505050;font-weight: normal;t=
+ext-decoration: underline;">unsubscribe from this list</a> | <a href=3D"ht=
+tp://barronstestprep.us4.list-manage2.com/profile?u=3D3f518cbed4e814f447fc=
+a0587&id=3Db3584fc668&e=3D23f07770b6" style=3D"color: #505050;font-weight: n=
+ormal;text-decoration: underline;">update subscription preferences</a>&nbs=
+p;
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // End Template Footer \\ -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://barronstestprep.us4.list-manage.com/track/open.php?=
+u=3D3f518cbed4e814f447fca0587&id=3Dd633442bca&e=3D23f07770b6" height=3D"1=
+" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1516136890--

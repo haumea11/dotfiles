@@ -1,0 +1,302 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp3175974oid;
+        Wed, 15 Jul 2015 13:03:27 -0700 (PDT)
+X-Received: by 10.66.248.232 with SMTP id yp8mr11294401pac.43.1436990607204;
+        Wed, 15 Jul 2015 13:03:27 -0700 (PDT)
+Return-Path: <bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com>
+Received: from mkt15-in.verticalresponse.com (mkt15-in.verticalresponse.com. [63.251.246.26])
+        by mx.google.com with ESMTP id sl1si9168951pbc.99.2015.07.15.13.03.26
+        for <kuiperhaumea@gmail.com>;
+        Wed, 15 Jul 2015 13:03:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com designates 63.251.246.26 as permitted sender) client-ip=63.251.246.26;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com designates 63.251.246.26 as permitted sender) smtp.mail=bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com;
+       dkim=pass header.i=@vresp.com
+Return-Path: <bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=vresp.com; s=dkim; c=simple/simple;
+	q=dns/txt; i=@vresp.com; t=1436990606;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=XH3A/YaZvjQZ1H8w/+GM2yKi7tY=;
+	b=Uv+AESlAPGKgAovPk8CuDVqTAYSoFXcEa733cKSwmZA8RJWBMhoVKYr03pjWo48r
+	lJwfxKj2FZ6faaQt58xOYNVFjUaZf9q29ZCFnde60xOLbkcvsjUGmJJBsjuX5jyA
+	xBvgVrXB/jjSnZyYkRZra+JHT83dZTkQ7Jl8MUGGu44=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=mkt; d=vresp.com;
+	h=Received:From:Reply-To:To:Subject:Date:Message-ID:List-Unsubscribe:MIME-Version:X-Company_ID:X-vrfbldomain:X-vrpod:X-CTS-Enabled:X-Campaign:X-vrrpmm:X-Feedback-ID:Content-Type;
+	b=CYL6Hlb4V/PdjEAgcRixq41RmjMEfa+IF0fHw77+23YHxYLwK+g/C4YS+qcq4Anp
+	cknUt44k2UDJ84eNLscE6GRKN86RiAi7KCXZUHjyLeoW5EXE3M7kq1mikBu5WZeb
+	yK9hDLpBjmN2IQGqarnucD0o4H7MLicJyUyh7T/Q3lo=
+Received: from [10.4.33.150] ([10.4.33.150:54136] helo=vm-mailer12.sf.verticalresponse.com)
+	by tahoe (envelope-from <bounces-d4381d3fee-d70ab5b7b8@b.cts.vresp.com>)
+	(ecelerity 3.1.6.41536 r(41536)) with ESMTP
+	id 5A/DD-07271-E8CB6A55; Wed, 15 Jul 2015 13:03:26 -0700
+From: "KOG Games" <KOG_Games@mail.vresp.com>
+Reply-To: "KOG Games" <reply-d4381d3fee-d70ab5b7b8-7f21@u.cts.vresp.com>
+To: kuiperhaumea@gmail.com
+Subject: =?UTF-8?Q?Choose=20Luciel=E2=80=99s=201st=20Job=20today!?=
+Date: Wed, 15 Jul 2015 20:03:26 +0000
+Message-ID: <d4381d3fee-kuiperhaumea=gmail.com@mail.vresp.com>
+List-Unsubscribe: <mailto:reply-d4381d3fee-d70ab5b7b8-7f21@u.cts.vresp.com?subject=unsubscribe>
+MIME-Version: 1.0
+X-Company_ID: 1083874
+X-vrfbldomain: fbl.p0.verticalresponse.com
+X-vrpod: p0
+X-CTS-Enabled: d4381d3fee-d70ab5b7b8
+X-Campaign: d4381d3fee
+X-vrrpmm: 1083874-d4381d3fee
+X-Feedback-ID: d4381d3fee:1083874:vr1
+Content-Type: multipart/alternative;
+    boundary="__________MIMEboundary__________";
+    charset="UTF-8"
+
+This is a multi-part message in MIME format.
+
+--__________MIMEboundary__________
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Luciel's 1st Job Change
+[embed video:
+http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/a74bef976c/v=3D9smhe=
+Gm7i4w]
+
+Choose between Chiliarch and Royal Guard.
+Reach Lv. 15 with Luciel to start!
+
+[Button: Learn More]
+Link:
+http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/4dfa97c058
+
+
+
+[EVENTS]
+Play Bingo!
+Elsword in Wonderland costume pieces are now up for grabs. Shop and
+play!
+
+[Button: Get Details]
+Link:
+http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/aabc7da0d3
+
+
+[ICE BURNER]
+Thanatos=20
+The Death Instinct Mask and Wings are in. Complete the set from
+standard Ice Burners!
+
+[Button: Take A Look]
+Link:
+http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/f0e91900c1
+
+
+
+[EXCLUSIVE]
+Nasod Battle Suit
+Collect the outfits from Lu=E2=80=99s and Ciel=E2=80=99s Ice Burners!
+
+[Button: Dress Up]
+Link:
+http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/0b4dcf9f24
+
+______________________________________________________________________
+Click to view this email in a browser
+http://hosted.verticalresponse.com/1815389/d4381d3fee/592665623/d70ab5b7b8/
+
+If you no longer wish to receive these emails, please reply to this
+message with "Unsubscribe" in the subject line or simply click on the
+following link:=20
+
+http://cts.vresp.com/u?d4381d3fee/d70ab5b7b8/mlpftw
+
+______________________________________________________________________
+This message was sent by KOG Games
+
+
+KOG Games
+13700 Alton Parkway, Ste 154-140
+Irvine, California 92618
+US
+
+
+
+
+--__________MIMEboundary__________
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+ =20
+ =20
+  <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<meta content=3D"text/html;charset=3DUTF-8" http-equiv=3D"content-type" />
+	<title>Choose Luciel=E2=80=99s 1st Job today!</title>
+</head>
+<body bgcolor=3D"#FFFFFF" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" topmargin=3D"0">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"907" id=
+=3D"Table_01" width=3D"560">
+	<tbody>
+		<tr>
+			<td colspan=3D"7"><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee=
+/d70ab5b7b8/975bb914db"><img align=3D"none" alt=3D"Luciel-07-15-2015_01" bo=
+rder=3D"0" height=3D"72" hspace=3D"0" src=3D"http://img-ak.verticalresponse=
+.com/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015=
+_01.jpg" style=3D"display: block; width: 560px; height: 72px;" title=3D"Luc=
+iel-07-15-2015_01" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td colspan=3D"7"><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee=
+/d70ab5b7b8/419ba027ee"><img align=3D"none" alt=3D"Luciel-07-15-2015_02" bo=
+rder=3D"0" height=3D"356" hspace=3D"0" src=3D"http://img-ak.verticalrespons=
+e=2Ecom/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2=
+015_02.jpg" style=3D"display: block; width: 560px; height: 356px;" title=3D=
+"Luciel-07-15-2015_02" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td colspan=3D"7"><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee=
+/d70ab5b7b8/1031420dab"><img align=3D"none" alt=3D"Luciel-07-15-2015_03" bo=
+rder=3D"0" height=3D"150" hspace=3D"0" src=3D"http://img-ak.verticalrespons=
+e=2Ecom/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2=
+015_03.jpg" style=3D"display: block; width: 560px; height: 150px;" title=3D=
+"Luciel-07-15-2015_03" vspace=3D"0" width=3D"560" /></a></td>
+		</tr>
+		<tr>
+			<td colspan=3D"7"><img align=3D"none" alt=3D"Luciel-07-15-2015_04" borde=
+r=3D"0" height=3D"142" hspace=3D"0" src=3D"http://img-ak.verticalresponse.c=
+om/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_0=
+4=2Ejpg" style=3D"display: block; width: 560px; height: 142px;" title=3D"Lu=
+ciel-07-15-2015_04" vspace=3D"0" width=3D"560" /></td>
+		</tr>
+		<tr>
+			<td rowspan=3D"2"><img align=3D"none" alt=3D"Luciel-07-15-2015_05" borde=
+r=3D"0" height=3D"187" hspace=3D"0" src=3D"http://img-ak.verticalresponse.c=
+om/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_0=
+5=2Ejpg" style=3D"display: block; width: 17px; height: 187px;" title=3D"Luc=
+iel-07-15-2015_05" vspace=3D"0" width=3D"17" /></td>
+			<td align=3D"center" bgcolor=3D"#d5d5d5" height=3D"118" valign=3D"top" w=
+idth=3D"161"><br />
+			<span style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px;"=
+><span style=3D"font-size:13px;"><strong>Play Bingo!</strong></span><br />
+			<br />
+			Elsword in Wonderland costume pieces are now up for grabs. Shop and play=
+!</span></td>
+			<td rowspan=3D"2"><img align=3D"none" alt=3D"Luciel-07-15-2015_07" borde=
+r=3D"0" height=3D"187" hspace=3D"0" src=3D"http://img-ak.verticalresponse.c=
+om/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_0=
+7=2Ejpg" style=3D"display: block; width: 19px; height: 187px;" title=3D"Luc=
+iel-07-15-2015_07" vspace=3D"0" width=3D"19" /></td>
+			<td align=3D"center" bgcolor=3D"#d5d5d5" height=3D"118" valign=3D"top" w=
+idth=3D"162"><br />
+			<span style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px;"=
+><span style=3D"font-size:13px;"><strong>Thanatos</strong></span><br />
+			<br />
+			The Death Instinct Mask and Wings are in. Complete the set from standard=
+ Ice Burners!</span></td>
+			<td rowspan=3D"2"><img align=3D"none" alt=3D"Luciel-07-15-2015_09" borde=
+r=3D"0" height=3D"187" hspace=3D"0" src=3D"http://img-ak.verticalresponse.c=
+om/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_0=
+9=2Ejpg" style=3D"display: block; width: 19px; height: 187px;" title=3D"Luc=
+iel-07-15-2015_09" vspace=3D"0" width=3D"19" /></td>
+			<td align=3D"center" bgcolor=3D"#d5d5d5" height=3D"118" valign=3D"top" w=
+idth=3D"163"><br />
+			<span style=3D"font-family:Verdana, Geneva, sans-serif; font-size:10px;"=
+><span style=3D"font-size:13px;"><strong>Nasod Battle Suit</strong></span><=
+br />
+			<br />
+			Collect the outfits from Lu&rsquo;s and Ciel&rsquo;s Ice Burners!</span>=
+</td>
+			<td rowspan=3D"2"><img align=3D"none" alt=3D"Luciel-07-15-2015_11" borde=
+r=3D"0" height=3D"187" hspace=3D"0" src=3D"http://img-ak.verticalresponse.c=
+om/media/8/2/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_1=
+1=2Ejpg" style=3D"display: block; width: 19px; height: 187px;" title=3D"Luc=
+iel-07-15-2015_11" vspace=3D"0" width=3D"19" /></td>
+		</tr>
+		<tr>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/fb=
+5370a125"><img align=3D"none" alt=3D"Luciel-07-15-2015_12" border=3D"0" hei=
+ght=3D"69" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/media/8/2=
+/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_12.jpg" style=
+=3D"display: block; width: 161px; height: 69px;" title=3D"Luciel-07-15-2015=
+_12" vspace=3D"0" width=3D"161" /></a></td>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/ae=
+266e10e5"><img align=3D"none" alt=3D"Luciel-07-15-2015_13" border=3D"0" hei=
+ght=3D"69" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/media/8/2=
+/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_13.jpg" style=
+=3D"display: block; width: 162px; height: 69px;" title=3D"Luciel-07-15-2015=
+_13" vspace=3D"0" width=3D"162" /></a></td>
+			<td><a href=3D"http://cts.vresp.com/c/?KOGGames/d4381d3fee/d70ab5b7b8/29=
+8d6214dd"><img align=3D"none" alt=3D"Luciel-07-15-2015_14" border=3D"0" hei=
+ght=3D"69" hspace=3D"0" src=3D"http://img-ak.verticalresponse.com/media/8/2=
+/b/82b32804bd/d4381d3fee/a9344b998b/library/Luciel-07-15-2015_14.jpg" style=
+=3D"display: block; width: 163px; height: 69px;" title=3D"Luciel-07-15-2015=
+_14" vspace=3D"0" width=3D"163" /></a></td>
+		</tr>
+	</tbody>
+</table>
+=20
+
+
+</p>
+<br>
+<br style=3D"clear: both;">
+
+<hr>
+<table border=3D"0" cellspacing=3D"0" width=3D"100%" cellpadding=3D"5">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+       =20
+           <a href=3D"http://hosted.verticalresponse.com/1815389/d4381d3fee=
+/592665623/d70ab5b7b8/">Click to view this email in a browser</a>
+           <br/><br/>
+        =20
+       If you no longer wish to receive these emails, please reply to this =
+message with "Unsubscribe" in the subject line or simply click on the follo=
+wing link:=20
+=20
+<a href=3D"http://cts.vresp.com/u?d4381d3fee/d70ab5b7b8/mlpftw">Unsubscribe=
+</a>
+
+
+</font>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table border=3D"0" cellpadding=3D"5" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td>
+      <font face=3D"arial,verdana" size=3D"1">
+                  KOG Games<br/>
+        13700 Alton Parkway, Ste 154-140<br/>
+                Irvine, California 92618<br/>
+                  US<br/>
+       =20
+       <p>
+         =20
+
+        </p>
+      </font>
+    </td>
+    <td align=3D"right">
+     =20
+    </td>
+  </tr>
+</table>
+
+  <img alt=3D"" src=3D"http://cts.vresp.com/o.gif?d4381d3fee/d70ab5b7b8/mlp=
+ftw"/>
+
+
+</body>
+</html>
+
+
+
+--__________MIMEboundary__________--
+

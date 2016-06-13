@@ -1,0 +1,83 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp225054oig;
+        Thu, 27 Aug 2015 13:05:14 -0700 (PDT)
+X-Received: by 10.194.122.132 with SMTP id ls4mr6588231wjb.130.1440705914030;
+        Thu, 27 Aug 2015 13:05:14 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22d.google.com (mail-wi0-x22d.google.com. [2a00:1450:400c:c05::22d])
+        by mx.google.com with ESMTPS id i2si5671450wjx.103.2015.08.27.13.05.13
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 27 Aug 2015 13:05:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) client-ip=2a00:1450:400c:c05::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x22d.google.com with SMTP id gk12so1143wic.1
+        for <kuiperhaumea@gmail.com>; Thu, 27 Aug 2015 13:05:13 -0700 (PDT)
+X-Received: by 10.180.83.137 with SMTP id q9mr391272wiy.68.1440705913432;
+        Thu, 27 Aug 2015 13:05:13 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.225.9 with SMTP id y9csp95425wmg;
+        Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+X-Received: by 10.112.64.7 with SMTP id k7mr1818141lbs.31.1440705911609;
+        Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+Return-Path: <thehobbit169@gmail.com>
+Received: from mail-lb0-x229.google.com (mail-lb0-x229.google.com. [2a00:1450:4010:c04::229])
+        by mx.google.com with ESMTPS id le2si1111965lbc.154.2015.08.27.13.05.11
+        for <Markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of thehobbit169@gmail.com designates 2a00:1450:4010:c04::229 as permitted sender) client-ip=2a00:1450:4010:c04::229;
+Received: by mail-lb0-x229.google.com with SMTP id bn3so5411414lbc.2
+        for <Markiewicz.john@gmail.com>; Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=Vg1MAZQ4jMezv/CfiR6w45t+z2NAyqx+fEM6C54tfaA=;
+        b=AwA2/KVz/g7ZQupAdgOakLsgeuwOjZqDo8CFrZr0THMa/LGqG8pzxRXUlZJKBuoOC/
+         EWyEfgr3AhaYDk8iW5POih/TA8lFppckeukgJ5rUa9w/IwDpqt4LGd6jaD3hKnFXSfoY
+         c8wfCQvcjg+kytIaNdcSoQd9ZJOe5D1jSN0BDPD7iWTtNJNpmzF2XX8+6DNQsbonQxJh
+         4s1w10ny37thBt4ePfC4aq4EMkQi47LCtPA0YXTcJn0ngeKMC/LHcZqyUVHxIHI73jq9
+         6m0hMgV/jigq5fToBvCYykW3jipRLH+Vvrhes/ox7J6zCJGxu4ZrUdrbYWz5m5vMjXXJ
+         ezdA==
+MIME-Version: 1.0
+X-Received: by 10.152.120.7 with SMTP id ky7mr3481705lab.12.1440705911289;
+ Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+Received: by 10.112.235.232 with HTTP; Thu, 27 Aug 2015 13:05:11 -0700 (PDT)
+Date: Thu, 27 Aug 2015 16:05:11 -0400
+Message-ID: <CAJxAr67nU1Tt2Lop7iGVtO7c0AL0p2fJfxxq7fJV4rZewuBh1A@mail.gmail.com>
+Subject: 
+From: Samwise Parkinson <thehobbit169@gmail.com>
+To: Lukador Bernstyle <Markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=089e0117690d117c31051e507ca5
+
+--089e0117690d117c31051e507ca5
+Content-Type: text/plain; charset=UTF-8
+
+Ok so its 10 am to 12 pm with a break halfway through. There's all you can
+eat free pizza afterwards as well. The location is 1934 N. 4th Street, and
+my dad and I can give you a ride if you want just so its easier for you.
+The whole thing costs two dollars, which I'd be more than happy to pay if
+you don't want to. I think I mentioned this before but the topic is listed
+as "Can we trust the Bible?" and it says it will focus mostly on the
+reports of Jesus, especially the report of his return from the dead. Hope
+you can come!
+
+--089e0117690d117c31051e507ca5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Ok so its 10 am to 12 pm with a break halfway through. The=
+re&#39;s all you can eat free pizza afterwards as well. The location is 193=
+4 N. 4th Street, and my dad and I can give you a ride if you want just so i=
+ts easier for you. The whole thing costs two dollars, which I&#39;d be more=
+ than happy to pay if you don&#39;t want to. I think I mentioned this befor=
+e but the topic is listed as &quot;Can we trust the Bible?&quot; and it say=
+s it will focus mostly on the reports of Jesus, especially the report of hi=
+s return from the dead. Hope you can come!</div>
+
+--089e0117690d117c31051e507ca5--

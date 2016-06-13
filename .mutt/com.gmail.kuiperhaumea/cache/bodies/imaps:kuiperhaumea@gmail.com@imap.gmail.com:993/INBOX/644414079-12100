@@ -1,0 +1,175 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp812696oia;
+        Sat, 27 Jun 2015 14:25:36 -0700 (PDT)
+X-Received: by 10.180.75.78 with SMTP id a14mr8664009wiw.43.1435440335776;
+        Sat, 27 Jun 2015 14:25:35 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22c.google.com (mail-wi0-x22c.google.com. [2a00:1450:400c:c05::22c])
+        by mx.google.com with ESMTPS id p10si65225564wjf.65.2015.06.27.14.25.34
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 27 Jun 2015 14:25:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) client-ip=2a00:1450:400c:c05::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22c as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x22c.google.com with SMTP id nd19so41240716wic.1
+        for <kuiperhaumea@gmail.com>; Sat, 27 Jun 2015 14:25:34 -0700 (PDT)
+X-Received: by 10.194.109.36 with SMTP id hp4mr15613299wjb.4.1435440334860;
+        Sat, 27 Jun 2015 14:25:34 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp722312wmd;
+        Sat, 27 Jun 2015 14:25:33 -0700 (PDT)
+X-Received: by 10.43.40.130 with SMTP id tq2mr11021976icb.46.1435440333247;
+        Sat, 27 Jun 2015 14:25:33 -0700 (PDT)
+Return-Path: <2rtmar.ac@gmail.com>
+Received: from mail-ig0-x22d.google.com (mail-ig0-x22d.google.com. [2607:f8b0:4001:c05::22d])
+        by mx.google.com with ESMTPS id lq5si2722547igb.63.2015.06.27.14.25.32
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 27 Jun 2015 14:25:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 2rtmar.ac@gmail.com designates 2607:f8b0:4001:c05::22d as permitted sender) client-ip=2607:f8b0:4001:c05::22d;
+Received: by mail-ig0-x22d.google.com with SMTP id v9so20516599igr.1
+        for <markiewicz.john@gmail.com>; Sat, 27 Jun 2015 14:25:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=HTOySwq9GB4N43S2yWSz6HmuCnibiZ/Rj0QjgzlfAg0=;
+        b=L6GzYQrX+5cV0yJEnlFlJoEleJW8uvw3M2vdGNcLCSu2qAG0b35sbmQN9WADVPa6bX
+         nKKsdMWGQGlT2ihB/nMtMGGP6slTCHkG1uJrsIT/3yllQa23BlUCiygsphKbQFPkblUy
+         x2pwVuZBoMj91dRCKFA8GKPvVhSs36Z+0AVljjEgxkU7RBfCtJbwn3Vb0icjp85Wd9vr
+         0QtRGJj5Ah2Qk/aEi2O21X7jJ/dxGLZCYuEklepliwxCSON2xCbr1xr+QWO/RCHXB4Ym
+         sYFaOZ850VQoQ5vcQ4ZEFshn6ZXfpBaHAxbeA0r53DRqKV3kuksC663bhNeppyqPyACx
+         3sNA==
+MIME-Version: 1.0
+X-Received: by 10.42.177.198 with SMTP id bj6mr11151069icb.0.1435440332161;
+ Sat, 27 Jun 2015 14:25:32 -0700 (PDT)
+Received: by 10.36.156.195 with HTTP; Sat, 27 Jun 2015 14:25:31 -0700 (PDT)
+In-Reply-To: <CAJsGx3JP2M9okAiw9E6sOuW0f9yamOK5mcm=dDb0VHvP9ULHRg@mail.gmail.com>
+References: <CAGBwmT1Rrajg1im5bw=KK9SDChBntq0rBYFAcCy8Uvn406afQg@mail.gmail.com>
+	<CAJsGx3JP2M9okAiw9E6sOuW0f9yamOK5mcm=dDb0VHvP9ULHRg@mail.gmail.com>
+Date: Sat, 27 Jun 2015 17:25:31 -0400
+Message-ID: <CAGBwmT1bACuLP9x2x_Z_tWomLiA0Yym=erxoFuF6Xmzn5j-P2g@mail.gmail.com>
+Subject: Re: Main laptop
+From: Ryan Mar <2rtmar.ac@gmail.com>
+To: John Markiewicz <markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=90e6ba6e823e184a3c0519867fb5
+
+--90e6ba6e823e184a3c0519867fb5
+Content-Type: text/plain; charset=UTF-8
+
+All right sounds great, I'm gonna go some more research. Thanks!
+
+On Saturday, June 27, 2015, John Markiewicz <markiewicz.john@gmail.com>
+wrote:
+
+> Hey Ryan
+>
+> I don't know the method of transferring from drive to drive via windows,
+> but I do have a solution in case you can't get that method working.
+>
+> My method of dealing with this is a bit brute force, and may not actually
+> be the simplest. It will be easiest using a dock to hold one of the drives.
+>
+> Connect one drive and boot into the (linux) livecd of your choosing. I
+> like arch, because that's the one I usually have handy, but anything where
+> you can open a terminal will do. Use the command "lsblk" and determine
+> which drive is your main one and which is the ssd (earlier letters in the
+> alphabet should be the drive inside the machine) and then use the command:
+>
+> dd if=/dev/sdx of=/sdy
+>
+> Making sure to replace sdx with the drive that already has windows (input
+> file) and sdy with the new ssd (output file). This will take a while, and
+> it's pretty important you're sure you typed it correctly. This is just
+> cloning the whole disk.
+>
+> If you have a big enough external drive, you can dd from the windows drive
+> to that, swap drives, and dd from the external to the ssd. This will take
+> longer, but has the benefit of also being a solid backup.
+>
+> You could also, if you have a desktop, connect both drives there via
+> internal sata cables and do the same thing.
+>
+> Hope that sort of made sense, if it didn't feel free to ask questions
+> because it's pretty important this not destroy your install. Worst case,
+> though, you have to reinstall windows 8 using the code that came with your
+> computer. You wouldn't (to my knowledge) have to pay for it again as long
+> as that code is still somewhere on the machine
+>
+> On Sat, Jun 27, 2015, 15:58 Ryan Mar <2rtmar.ac@gmail.com
+> <javascript:_e(%7B%7D,'cvml','2rtmar.ac@gmail.com');>> wrote:
+>
+>> Hey john,
+>>
+>> I want to install a new solid state drive in my primary laptop. I've
+>> heard there is a way to transfer the current system from one hard drive to
+>> another, using windows. Do you know how this works?
+>>
+>> Basically I want to keep windows 8 for a little while and install 10
+>> later. But I don't want to purchase windows again. Hence why I want to
+>> transfer the system.
+>>
+>> Thanks man
+>>
+>> -Ryan Mar
+>>
+>
+
+--90e6ba6e823e184a3c0519867fb5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+All right sounds great, I&#39;m gonna go some more research. Thanks!<span><=
+/span><br><br>On Saturday, June 27, 2015, John Markiewicz &lt;<a href=3D"ma=
+ilto:markiewicz.john@gmail.com">markiewicz.john@gmail.com</a>&gt; wrote:<br=
+><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1=
+px #ccc solid;padding-left:1ex"><p dir=3D"ltr">Hey Ryan</p>
+<p dir=3D"ltr">I don&#39;t know the method of transferring from drive to dr=
+ive via windows, but I do have a solution in case you can&#39;t get that me=
+thod working.</p>
+<p dir=3D"ltr">My method of dealing with this is a bit brute force, and may=
+ not actually be the simplest. It will be easiest using a dock to hold one =
+of the drives. </p>
+<p dir=3D"ltr">Connect one drive and boot into the (linux) livecd of your c=
+hoosing. I like arch, because that&#39;s the one I usually have handy, but =
+anything where you can open a terminal will do. Use the command &quot;lsblk=
+&quot; and determine which drive is your main one and which is the ssd (ear=
+lier letters in the alphabet should be the drive inside the machine) and th=
+en use the command:</p>
+<p dir=3D"ltr">dd if=3D/dev/sdx of=3D/sdy</p>
+<p dir=3D"ltr">Making sure to replace sdx with the drive that already has w=
+indows (input file) and sdy with the new ssd (output file). This will take =
+a while, and it&#39;s pretty important you&#39;re sure you typed it correct=
+ly. This is just cloning the whole disk.</p>
+<p dir=3D"ltr">If you have a big enough external drive, you can dd from the=
+ windows drive to that, swap drives, and dd from the external to the ssd. T=
+his will take longer, but has the benefit of also being a solid backup.</p>
+<p dir=3D"ltr">You could also, if you have a desktop, connect both drives t=
+here via internal sata cables and do the same thing.</p>
+<p dir=3D"ltr">Hope that sort of made sense, if it didn&#39;t feel free to =
+ask questions because it&#39;s pretty important this not destroy your insta=
+ll. Worst case, though, you have to reinstall windows 8 using the code that=
+ came with your computer. You wouldn&#39;t (to my knowledge) have to pay fo=
+r it again as long as that code is still somewhere on the machine</p>
+
+<br><div class=3D"gmail_quote"><div dir=3D"ltr">On Sat, Jun 27, 2015, 15:58=
+=C2=A0Ryan Mar &lt;<a href=3D"javascript:_e(%7B%7D,&#39;cvml&#39;,&#39;2rtm=
+ar.ac@gmail.com&#39;);" target=3D"_blank">2rtmar.ac@gmail.com</a>&gt; wrote=
+:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bor=
+der-left:1px #ccc solid;padding-left:1ex">Hey john,<div><br></div><div>I wa=
+nt to install a new solid state drive in my primary laptop. I&#39;ve heard =
+there is a way to transfer the current system from one hard drive to anothe=
+r, using windows. Do you know how this works?</div><div><br></div><div>Basi=
+cally I=C2=A0want to keep windows 8 for a little while and install 10 later=
+. But I don&#39;t want to purchase windows again. Hence why I want to trans=
+fer the system.</div><div><br></div><div>Thanks man</div><div><br></div><di=
+v>-Ryan Mar<span></span></div>
+</blockquote></div>
+</blockquote>
+
+--90e6ba6e823e184a3c0519867fb5--

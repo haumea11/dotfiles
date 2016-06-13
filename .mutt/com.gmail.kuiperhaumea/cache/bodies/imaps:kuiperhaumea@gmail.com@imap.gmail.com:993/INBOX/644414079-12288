@@ -1,0 +1,249 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp705895oid;
+        Sat, 11 Jul 2015 15:28:34 -0700 (PDT)
+X-Received: by 10.194.184.140 with SMTP id eu12mr52227741wjc.78.1436653713731;
+        Sat, 11 Jul 2015 15:28:33 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x235.google.com (mail-wi0-x235.google.com. [2a00:1450:400c:c05::235])
+        by mx.google.com with ESMTPS id dz9si5549769wib.111.2015.07.11.15.28.32
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 11 Jul 2015 15:28:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) client-ip=2a00:1450:400c:c05::235;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::235 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@plus.google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=plus.google.com
+Received: by mail-wi0-x235.google.com with SMTP id mz13so35585540wic.0
+        for <kuiperhaumea@gmail.com>; Sat, 11 Jul 2015 15:28:32 -0700 (PDT)
+X-Received: by 10.194.87.4 with SMTP id t4mr57063960wjz.84.1436653712871;
+        Sat, 11 Jul 2015 15:28:32 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp570956wmd;
+        Sat, 11 Jul 2015 15:28:31 -0700 (PDT)
+X-Received: by 10.70.96.36 with SMTP id dp4mr55758347pdb.65.1436653711249;
+        Sat, 11 Jul 2015 15:28:31 -0700 (PDT)
+Return-Path: <noreply-eed4728@plus.google.com>
+Received: from mail-pa0-x248.google.com (mail-pa0-x248.google.com. [2607:f8b0:400e:c03::248])
+        by mx.google.com with ESMTPS id qp5si18558637pab.241.2015.07.11.15.28.30
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 11 Jul 2015 15:28:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply-eed4728@plus.google.com designates 2607:f8b0:400e:c03::248 as permitted sender) client-ip=2607:f8b0:400e:c03::248;
+Received: by mail-pa0-x248.google.com with SMTP id gq4so544115621pac.1
+        for <markiewicz.john@gmail.com>; Sat, 11 Jul 2015 15:28:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=plus.google.com; s=20120806;
+        h=mime-version:reply-to:list-unsubscribe:precedence:date:message-id
+         :subject:from:to:content-type;
+        bh=M0gAoEVy2gn2Gfpt+7fB06e3t3zpK6uCa/Sl+L4plxo=;
+        b=AgKg+MKxGwCvLx+HB1RBcitQwVxsxlkMoZX4c71kIB/ssVPD9Ffbre2E4N83WR18nh
+         Ik/ccn1ajtfbr0+U8+PK+nkNyUNU9ND1q15W0SNpnMIUV9Gn+tNOv8RBX5ODAlTRLnes
+         rONH6NdhlLAcX9dPBMKGeipLC+/5ClXCeJpfUB0Z79MZtxDDL2nInZ+qek68bKgX9AYS
+         II0p1XPjBesGB+h+CoWm0Yvv1G/2JmSv9iHH6jFUW2Lp/j2UM8NT8LMl8h2ghl9wfp9p
+         slFCuwQU6FTs+yhetZx1xwoetfRzhXqVtsIER9A6sR23MWJBD1QO/E4S+P1kY5c/1nK1
+         MGmA==
+MIME-Version: 1.0
+X-Received: by 10.66.65.75 with SMTP id v11mr35266220pas.7.1436653710359; Sat,
+ 11 Jul 2015 15:28:30 -0700 (PDT)
+X-Notifications: XEAAAABixOxUpiLny4tnS13H0KDk
+X-Notification-ID: u:021b23f4e3000000
+X-Notification-Category: ENGAGE
+X-Notification-Type: ENGAGE_FRIEND_SUGGESTIONS
+X-All-Senders-In-Circles: 1
+Reply-To: "Google+" <noreply-eed4728@plus.google.com>
+X-UB: 37
+List-Unsubscribe: <https://plus.google.com/_/notifications/emlink?emr=03275593588690742825&emid=COCjxpCQ1MYCFQQiHgodDt0HLA&path=%2Fsettings%2Funsubscribe%3Fueat%3DAJ7SsMmgv8osn_uxO1n94WKoqvYDvUFn51Mky_KqN8nwi0QnqVh_UY7eh_d6-SIrks09y0tx_P6Q3534T-myakUSlRtfenc3gve7_4dXGczLuxa6jyIMZykOkU96AmlrfLbk68qVKm1ZsoLDDY37rDgDx9Tu8lH2yL8x8Kws1isSKFCrKMEq7cGzWQqOGJ8VNjJzRITdtEAd&dt=1436653710319&ub=37>
+Precedence: bulk
+Date: Sat, 11 Jul 2015 15:28:30 -0700 (PDT)
+Message-ID: <RwAevA3Rj0jgncsRghG3vg@notifications.google.com>
+Subject: John, do you know Karen Glynn, Basile Vial or Elizabeth Markiewicz?
+From: "Google+" <noreply-eed4728@plus.google.com>
+To: markiewicz.john@gmail.com
+Content-Type: multipart/alternative; boundary=001a11362ef0123bec051aa102a4
+
+--001a11362ef0123bec051aa102a4
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+People you may know on Google+
+
+Karen Glynn
+3 people in common
+Add them:  
+https://plus.google.com/_/notifications/emlink?emr=03275593588690742825&emid=COCjxpCQ1MYCFQQiHgodDt0HLA&path=%2F112687113933364459829&dt=1436653710319&ub=37
+
+Basile Vial
+3 people in common
+Add them:  
+https://plus.google.com/_/notifications/emlink?emr=03275593588690742825&emid=COCjxpCQ1MYCFQQiHgodDt0HLA&path=%2F117002769648382507672&dt=1436653710319&ub=37
+
+Elizabeth Markiewicz
+3 people in common
+Add them:  
+https://plus.google.com/_/notifications/emlink?emr=03275593588690742825&emid=COCjxpCQ1MYCFQQiHgodDt0HLA&path=%2F106444086678028304730&dt=1436653710319&ub=37
+
+This notification was sent to markiewicz.john@gmail.com. Don't want  
+occasional updates about Google+ activity and friend suggestions? Change  
+what email Google+ sends you here:  
+https://plus.google.com/_/notifications/emlink?emr=03275593588690742825&emid=COCjxpCQ1MYCFQQiHgodDt0HLA&path=%2Fsettings%2Fplus%3Fpromo%3Dre&dt=1436653710319&ub=37
+
+
+--001a11362ef0123bec051aa102a4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html dir=3D"ltr"><body style=3D"display:block;font-family:Arial;max-width:=
+600px;"><!-- X-Notifications: 1:021b23f4e3000000 --><div style=3D"padding:1=
+0px 0;"><table style=3D"width:100%" cellpadding=3D"0" cellspacing=3D"0"><tr=
+><td><a href=3D"https://plus.google.com/_/notifications/emlink?emr=3D032755=
+93588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2Fstream&dt=3D1436=
+653710319&ub=3D37"><img src=3D"https://ssl.gstatic.com/s2/oz/images/notific=
+ations/logo/googleplus-greyscale-100x30-ccedb0dca792635de7635ab648f3336b.pn=
+g" style=3D"border:0" /></a></td><td style=3D"text-align:right"><a href=3D"=
+https://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&e=
+mid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2Fcircles%2Ffind&dt=3D143665371031=
+9&ub=3D37" style=3D"background-color:#d44b38;border-radius:3px;color:#fff;d=
+isplay:inline-block;font-family: Arial;font-size:13px;height:30px;line-heig=
+ht:30px;min-width:54px;padding:1px 20px;text-align:center;text-decoration:n=
+one;white-space:nowrap;">See more suggestions</a></td></tr></table></div><d=
+iv style=3D"background-color:#4285f4;color:white;font:20px arial, normal;pa=
+dding:23px 20px">People you may know on Google+</div><div style=3D"backgrou=
+nd-color: #f5f5f5;margin-bottom: 15px;padding: 20px 30px 20px 30px"><div st=
+yle=3D"max-width:520px;"><div style=3D"background-color:white;border:1px so=
+lid #dadada;border-bottom-width:2px;border-top:none;-moz-border-radius:3px;=
+-webkit-border-radius:3px;"><div style=3D"padding:6px 0;width:100%"><table =
+style=3D"max-width:450px;margin:0 auto" cellpadding=3D"0" cellspacing=3D"0"=
+><tr><td style=3D"border-bottom:1px solid #F1F1F1;height:80px;padding:14px;=
+text-align:right;vertical-align:top;"><a href=3D"https://plus.google.com/_/=
+notifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgod=
+Dt0HLA&path=3D%2F112687113933364459829&dt=3D1436653710319&ub=3D37"><img wid=
+th=3D"80" height=3D"80" style=3D"border:0;" src=3D"https://lh3.googleuserco=
+ntent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/s75/photo.jpg" /=
+></a></td><td style=3D"border-bottom:1px solid #F1F1F1;padding:14px 12px;ve=
+rtical-align:top;"><div style=3D"display:inline-block;max-width:200px;min-w=
+idth:200px;padding-right:12px;vertical-align:middle;"><div style=3D"margin-=
+top:5px;overflow:hidden;text-overflow:ellipsis;"><a href=3D"https://plus.go=
+ogle.com/_/notifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1=
+MYCFQQiHgodDt0HLA&path=3D%2F112687113933364459829&dt=3D1436653710319&ub=3D3=
+7" style=3D"color: #262626;font: 16px arial, normal;text-decoration: none;"=
+>Karen Glynn</a></div><div style=3D"color:#727272;font:12px arial, normal;m=
+argin:7px 0 5px;overflow:hidden;text-overflow: ellipsis;">3 people in commo=
+n</div><div><div style=3D"display:inline-block;margin:0 1px;"><a href=3D"ht=
+tps://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&emi=
+d=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F107616918990209015460&dt=3D1436653=
+710319&ub=3D37"><img width=3D"28" height=3D"28" style=3D"border:0;" src=3D"=
+https://lh6.googleusercontent.com/-iPzJTw_CZL4/AAAAAAAAAAI/AAAAAAAAAAA/NYa2=
+kHyOTXw/s75-c-k-a-no/photo.jpg" /></a></div><div style=3D"display:inline-bl=
+ock;margin:0 1px;"><a href=3D"https://plus.google.com/_/notifications/emlin=
+k?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F11=
+0367197105652112400&dt=3D1436653710319&ub=3D37"><img width=3D"28" height=3D=
+"28" style=3D"border:0;" src=3D"https://lh3.googleusercontent.com/-HcvJRrYT=
+cHM/AAAAAAAAAAI/AAAAAAAAAMc/nF9U4yh8Q0Q/s75-c-k-a-no/photo.jpg" /></a></div=
+><div style=3D"display:inline-block;margin:0 1px;"><a href=3D"https://plus.=
+google.com/_/notifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpC=
+Q1MYCFQQiHgodDt0HLA&path=3D%2F111409774956104383086&dt=3D1436653710319&ub=
+=3D37"><img width=3D"28" height=3D"28" style=3D"border:0;" src=3D"https://l=
+h4.googleusercontent.com/-0sU1-wNqyNQ/AAAAAAAAAAI/AAAAAAAAAG4/w2oY4zXhrVc/s=
+75-c-k-a-no/photo.jpg" /></a></div></div></div><div style=3D"display:inline=
+-block;padding-top: 14px;vertical-align: middle;"><a href=3D"https://plus.g=
+oogle.com/_/notifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ=
+1MYCFQQiHgodDt0HLA&path=3D%2Fcircles%2Ffind&dt=3D1436653710319&ub=3D37" sty=
+le=3D"background-color:#f5f5f5;border:solid 1px #dfdfdf;border-radius:3px;-=
+moz-border-radius: 3px;-webkit-border-radius: 3px;color:#444;display:inline=
+-block;font-family:Arial;font-size:13px;font-weight:bold;height:34px;line-h=
+eight:34px;min-width:54px;padding:0 20px;text-align:center;text-decoration:=
+none;white-space:nowrap;"rel=3D"acb112687113933364459829">Add</a></div></td=
+></tr><tr><td style=3D"border-bottom:1px solid #F1F1F1;height:80px;padding:=
+14px;text-align:right;vertical-align:top;"><a href=3D"https://plus.google.c=
+om/_/notifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQ=
+iHgodDt0HLA&path=3D%2F117002769648382507672&dt=3D1436653710319&ub=3D37"><im=
+g width=3D"80" height=3D"80" style=3D"border:0;" src=3D"https://lh6.googleu=
+sercontent.com/-2gUtR9NrRVU/AAAAAAAAAAI/AAAAAAAAAMQ/8_nIMSbKvNs/s75-c-k-a-n=
+o/photo.jpg" /></a></td><td style=3D"border-bottom:1px solid #F1F1F1;paddin=
+g:14px 12px;vertical-align:top;"><div style=3D"display:inline-block;max-wid=
+th:200px;min-width:200px;padding-right:12px;vertical-align:middle;"><div st=
+yle=3D"margin-top:5px;overflow:hidden;text-overflow:ellipsis;"><a href=3D"h=
+ttps://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&em=
+id=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F117002769648382507672&dt=3D143665=
+3710319&ub=3D37" style=3D"color: #262626;font: 16px arial, normal;text-deco=
+ration: none;">Basile Vial</a></div><div style=3D"color:#727272;font:12px a=
+rial, normal;margin:7px 0 5px;overflow:hidden;text-overflow: ellipsis;">3 p=
+eople in common</div><div><div style=3D"display:inline-block;margin:0 1px;"=
+><a href=3D"https://plus.google.com/_/notifications/emlink?emr=3D0327559358=
+8690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F10761691899020901546=
+0&dt=3D1436653710319&ub=3D37"><img width=3D"28" height=3D"28" style=3D"bord=
+er:0;" src=3D"https://lh6.googleusercontent.com/-iPzJTw_CZL4/AAAAAAAAAAI/AA=
+AAAAAAAAA/NYa2kHyOTXw/s75-c-k-a-no/photo.jpg" /></a></div><div style=3D"dis=
+play:inline-block;margin:0 1px;"><a href=3D"https://plus.google.com/_/notif=
+ications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HL=
+A&path=3D%2F110367197105652112400&dt=3D1436653710319&ub=3D37"><img width=3D=
+"28" height=3D"28" style=3D"border:0;" src=3D"https://lh3.googleusercontent=
+.com/-HcvJRrYTcHM/AAAAAAAAAAI/AAAAAAAAAMc/nF9U4yh8Q0Q/s75-c-k-a-no/photo.jp=
+g" /></a></div><div style=3D"display:inline-block;margin:0 1px;"><a href=3D=
+"https://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&=
+emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F111409774956104383086&dt=3D1436=
+653710319&ub=3D37"><img width=3D"28" height=3D"28" style=3D"border:0;" src=
+=3D"https://lh4.googleusercontent.com/-0sU1-wNqyNQ/AAAAAAAAAAI/AAAAAAAAAG4/=
+w2oY4zXhrVc/s75-c-k-a-no/photo.jpg" /></a></div></div></div><div style=3D"d=
+isplay:inline-block;padding-top: 14px;vertical-align: middle;"><a href=3D"h=
+ttps://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&em=
+id=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2Fcircles%2Ffind&dt=3D1436653710319=
+&ub=3D37" style=3D"background-color:#f5f5f5;border:solid 1px #dfdfdf;border=
+-radius:3px;-moz-border-radius: 3px;-webkit-border-radius: 3px;color:#444;d=
+isplay:inline-block;font-family:Arial;font-size:13px;font-weight:bold;heigh=
+t:34px;line-height:34px;min-width:54px;padding:0 20px;text-align:center;tex=
+t-decoration:none;white-space:nowrap;"rel=3D"acb117002769648382507672">Add<=
+/a></div></td></tr><tr><td style=3D"height:80px;padding:14px;text-align:rig=
+ht;vertical-align:top;"><a href=3D"https://plus.google.com/_/notifications/=
+emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D=
+%2F106444086678028304730&dt=3D1436653710319&ub=3D37"><img width=3D"80" heig=
+ht=3D"80" style=3D"border:0;" src=3D"https://lh5.googleusercontent.com/-547=
+tD4pZOEQ/AAAAAAAAAAI/AAAAAAAAABE/dl2PuQSLxPY/s75-c-k-a-no/photo.jpg" /></a>=
+</td><td style=3D"padding:14px 12px;vertical-align:top;"><div style=3D"disp=
+lay:inline-block;max-width:200px;min-width:200px;padding-right:12px;vertica=
+l-align:middle;"><div style=3D"margin-top:5px;overflow:hidden;text-overflow=
+:ellipsis;"><a href=3D"https://plus.google.com/_/notifications/emlink?emr=
+=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F1064440=
+86678028304730&dt=3D1436653710319&ub=3D37" style=3D"color: #262626;font: 16=
+px arial, normal;text-decoration: none;">Elizabeth Markiewicz</a></div><div=
+ style=3D"color:#727272;font:12px arial, normal;margin:7px 0 5px;overflow:h=
+idden;text-overflow: ellipsis;">3 people in common</div><div><div style=3D"=
+display:inline-block;margin:0 1px;"><a href=3D"https://plus.google.com/_/no=
+tifications/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt=
+0HLA&path=3D%2F107616918990209015460&dt=3D1436653710319&ub=3D37"><img width=
+=3D"28" height=3D"28" style=3D"border:0;" src=3D"https://lh6.googleusercont=
+ent.com/-iPzJTw_CZL4/AAAAAAAAAAI/AAAAAAAAAAA/NYa2kHyOTXw/s75-c-k-a-no/photo=
+.jpg" /></a></div><div style=3D"display:inline-block;margin:0 1px;"><a href=
+=3D"https://plus.google.com/_/notifications/emlink?emr=3D032755935886907428=
+25&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2F110367197105652112400&dt=3D1=
+436653710319&ub=3D37"><img width=3D"28" height=3D"28" style=3D"border:0;" s=
+rc=3D"https://lh3.googleusercontent.com/-HcvJRrYTcHM/AAAAAAAAAAI/AAAAAAAAAM=
+c/nF9U4yh8Q0Q/s75-c-k-a-no/photo.jpg" /></a></div><div style=3D"display:inl=
+ine-block;margin:0 1px;"><a href=3D"https://plus.google.com/_/notifications=
+/emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=
+=3D%2F111409774956104383086&dt=3D1436653710319&ub=3D37"><img width=3D"28" h=
+eight=3D"28" style=3D"border:0;" src=3D"https://lh4.googleusercontent.com/-=
+0sU1-wNqyNQ/AAAAAAAAAAI/AAAAAAAAAG4/w2oY4zXhrVc/s75-c-k-a-no/photo.jpg" /><=
+/a></div></div></div><div style=3D"display:inline-block;padding-top: 14px;v=
+ertical-align: middle;"><a href=3D"https://plus.google.com/_/notifications/=
+emlink?emr=3D03275593588690742825&emid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D=
+%2Fcircles%2Ffind&dt=3D1436653710319&ub=3D37" style=3D"background-color:#f5=
+f5f5;border:solid 1px #dfdfdf;border-radius:3px;-moz-border-radius: 3px;-we=
+bkit-border-radius: 3px;color:#444;display:inline-block;font-family:Arial;f=
+ont-size:13px;font-weight:bold;height:34px;line-height:34px;min-width:54px;=
+padding:0 20px;text-align:center;text-decoration:none;white-space:nowrap;"r=
+el=3D"acb106444086678028304730">Add</a></div></td></tr></table></div></div>=
+</div></div><div style=3D"font-size: 10px;color: gray;margin-bottom: 10px">=
+<div>This notification was sent to markiewicz.john@gmail.com. Don't want oc=
+casional updates about Google+ activity and friend suggestions? <a href=3D"=
+https://plus.google.com/_/notifications/emlink?emr=3D03275593588690742825&e=
+mid=3DCOCjxpCQ1MYCFQQiHgodDt0HLA&path=3D%2Fsettings%2Funsubscribe%3Fueat%3D=
+AJ7SsMmgv8osn_uxO1n94WKoqvYDvUFn51Mky_KqN8nwi0QnqVh_UY7eh_d6-SIrks09y0tx_P6=
+Q3534T-myakUSlRtfenc3gve7_4dXGczLuxa6jyIMZykOkU96AmlrfLbk68qVKm1ZsoLDDY37rD=
+gDx9Tu8lH2yL8x8Kws1isSKFCrKMEq7cGzWQqOGJ8VNjJzRITdtEAd&dt=3D1436653710319&u=
+b=3D37" style=3D"color:#3366CC;text-decoration:none">Unsubscribe</a> from t=
+hese emails.</div><div>Google Inc., 1600 Amphitheatre Pkwy, Mountain View, =
+CA 94043 USA</div></div></body></html>
+--001a11362ef0123bec051aa102a4--

@@ -1,0 +1,461 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2424468oid;
+        Tue, 14 Jul 2015 13:00:37 -0700 (PDT)
+X-Received: by 10.180.218.227 with SMTP id pj3mr8650572wic.59.1436904036623;
+        Tue, 14 Jul 2015 13:00:36 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22a.google.com (mail-wi0-x22a.google.com. [2a00:1450:400c:c05::22a])
+        by mx.google.com with ESMTPS id ed5si3676934wib.67.2015.07.14.13.00.36
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 13:00:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) client-ip=2a00:1450:400c:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail176.atl61.mcsv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+Received: by mail-wi0-x22a.google.com with SMTP id jy10so103262481wid.1
+        for <kuiperhaumea@gmail.com>; Tue, 14 Jul 2015 13:00:36 -0700 (PDT)
+X-Received: by 10.194.249.100 with SMTP id yt4mr772527wjc.0.1436904033888;
+        Tue, 14 Jul 2015 13:00:33 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2161117wmd;
+        Tue, 14 Jul 2015 13:00:32 -0700 (PDT)
+X-Received: by 10.129.96.87 with SMTP id u84mr421422ywb.35.1436904032199;
+        Tue, 14 Jul 2015 13:00:32 -0700 (PDT)
+Return-Path: <bounce-mc.us3_24525171.326433-markiewicz.john=gmail.com@mail176.atl61.mcsv.net>
+Received: from mail176.atl61.mcsv.net (mail176.atl61.mcsv.net. [205.201.135.176])
+        by mx.google.com with ESMTP id c4si1444629ywd.196.2015.07.14.13.00.31
+        for <markiewicz.john@gmail.com>;
+        Tue, 14 Jul 2015 13:00:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us3_24525171.326433-markiewicz.john=gmail.com@mail176.atl61.mcsv.net designates 205.201.135.176 as permitted sender) client-ip=205.201.135.176;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail176.atl61.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=information=3Dscholarships.com@mail176.atl61.mcsv.net;
+ bh=F+jZtT68QTgATqFQ5mkmGqzuxd0=;
+ b=dOX4zk8+46+wPoDypoCXy+YIgwvAmqOMulUbeSzFvky7GDJOBQ1Ee/GZFxP1bAnv+g+R79aGJwsR
+   tdMCDQGHa1JU/UP6FRJqAxxulWtjPU6zbYF5mKQ6nXcSO/N6Ng9fWE0+XLw3g+QoEpqTgIrgu23k
+   sVqS0uEcYPJMpvMn890=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=F+jZtT68QTgATqFQ5mkmGqzuxd0=;
+ b=gdDn0Vqy8WAG4HY7ioHSTmMEisDUJhpDVQyAXa76zf6H6xirUibRxTr5HU75SyN3F21dhmHoogsj
+   4FyeLqacaFk6ubZpp9fuLpRX/vzxgl32+4SmnWwTRLICipZtx5njiyeXg9KUTN9qlsircjdFxQ5t
+   8TBERkjoh3bBEpwI9yI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail176.atl61.mcsv.net;
+ b=HV3goXodRsbx8LgrPzi1HRWYkyYqQHsg3UpKBOcGDCcIa1r/hGrSCiMPAwroNwqx5hg9Pxqcu+LB
+   eEdPpqgNJfeMU604HkO/JviAe/kERJaBs8y0FclPSVoCA08Gllth8p9WquROjGenu2nLrlu2dYNX
+   txoW1gzs4PnXPZ7+ei8=;
+Received: from (127.0.0.1) by mail176.atl61.mcsv.net id hkll60174ac7 for <markiewicz.john@gmail.com>; Tue, 14 Jul 2015 19:37:09 +0000 (envelope-from <bounce-mc.us3_24525171.326433-markiewicz.john=gmail.com@mail176.atl61.mcsv.net>)
+Subject: =?utf-8?Q?=E2=80=9CSexting=E2=80=9D=20Education=20Curriculum=20Implemented=20in=20LA=20Schools?=
+From: =?utf-8?Q?Scholarships.com?= <information@scholarships.com>
+Reply-To: =?utf-8?Q?Scholarships.com?= <information@scholarships.com>
+To: =?utf-8?Q?John?= <markiewicz.john@gmail.com>
+Date: Tue, 14 Jul 2015 19:37:09 +0000
+Message-ID: <2d11cced74837911f177adbe533883dba41.20150714193628@mail176.atl61.mcsv.net>
+X-Mailer: MailChimp Mailer - **CID12a6cb686c33883dba41**
+X-Campaign: mailchimp2d11cced74837911f177adbe5.12a6cb686c
+X-campaignid: mailchimp2d11cced74837911f177adbe5.12a6cb686c
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=2d11cced74837911f177adbe5&id=12a6cb686c&e=33883dba41
+X-MC-User: 2d11cced74837911f177adbe5
+X-Feedback-ID: 24525171:24525171.326433:us3:mc
+List-ID: 2d11cced74837911f177adbe5mc list <2d11cced74837911f177adbe5.274969.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-2d11cced74837911f177adbe5-12a6cb686c-33883dba41@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://scholarships.us3.list-manage.com/unsubscribe?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41&c=12a6cb686c>
+Sender: "Scholarships.com" <information=scholarships.com@mail176.atl61.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_541953097"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_541953097
+Content-Type: text/plain; charset="us-ascii"
+
+You are receiving this email as part of the services provided to registered users of Scholarships.com.
+Whitelist (https://www.scholarships.com/help/whitelisting-scholarships-com-email/) Unsubscribe (http://scholarships.us3.list-manage.com/unsubscribe?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41&c=12a6cb686c)
+
+https://www.scholarships.com
+
+
+** "Sexting" Education Curriculum Implemented in LA Schools
+------------------------------------------------------------
+
+Dear John,
+
+Scholarships.com helps you find scholarships, grants and other financial aid, matches you with colleges and more. Read on...
+Get Our Mobile App!
+
+https://itunes.apple.com/us/app/scholarships.com/id691353931?mt=8 https://play.google.com/store/apps/details?id=com.scholarships&hl=en
+
+"Sexting" Education Curriculum Implemented in LA Schools (https://www.scholarships.com/Blog/just-for-fun/%E2%80%9Csexting%E2%80%9D-education-curriculum-implemented-in-la-schools/3801/)
+For the first time this fall, high school students in the Los Angeles, California area will be participating in a new addition to the curriculum, "Sext" Education. Each school in the district will receive lesson plans, supplemented by videos and handouts for the students...
+Read more (https://www.scholarships.com/Blog/just-for-fun/%E2%80%9Csexting%E2%80%9D-education-curriculum-implemented-in-la-schools/3801/)
+
+Obama Modern Day Robin Hood? (https://www.scholarships.com/Blog/financial-aid/obama-modern-day-robin-hood-steal-from-the-hardworking-give-to-the-poor/3798/)
+Under the Obama administration, the motto "work hard, play harder" is continually being redefined to "work hard, pay harder". According to The Wall Street Journal, a new plan is being finalized that will allow millions of low-income Americans to slash their monthly student-debt bills...
+Read more (https://www.scholarships.com/Blog/financial-aid/obama-modern-day-robin-hood-steal-from-the-hardworking-give-to-the-poor/3798/)
+
+Find Private Student Loans (https://www.scholarships.com/scc.aspx?pid=915) - Offers from Sallie Mae, PNC, Citizens Bank and More!
+Compare Now (https://www.scholarships.com/scc.aspx?pid=915)
+
+Check-Out These Great Opportunities, Too!
+Compare Student Loans (https://www.scholarships.com/scc.aspx?pid=1062) - Find the Best Option to Pay for Your College Education!
+Find Private Student Loans (https://www.scholarships.com/scc.aspx?pid=915) - Offers from Sallie Mae, PNC, Citizens Bank and More!
+Apply for ScholarshipPoints' $10,000 Scholarship (https://www.scholarships.com/scc.aspx?pid=670) - New winner every month!
+Apply For Niche's $2,000 "No Essay" College Scholarship (https://www.scholarships.com/scc.aspx?pid=959) - It's quick and easy!
+Degrees for Nursing (https://www.scholarships.com/scc.aspx?pid=1047) - You May Qualify for Federal Pell Grants and Federal Student Loans
+Apply for Chegg's $1,000 Monthly Scholarship (https://www.scholarships.com/scc.aspx?pid=750) - New winner every month!
+Go Back to School in 2015 (https://www.scholarships.com/scc.aspx?pid=1048) - You May Qualify for Pell Grants and Federal Student Loans
+Get a Degree in Addiction Counseling (https://www.scholarships.com/scc.aspx?pid=1049) - You May Qualify for up to $5,730 in Pell Grants
+Return to School (https://www.scholarships.com/scc.aspx?pid=1050) - Take 3 Minutes to Find Out if You Qualify for Federal Grants!
+
+Want access to our free scholarship search, college search, financial aid and other great info on the go? Get our FREE app for iPhone/iPad (https://itunes.apple.com/us/app/scholarships.com/id691353931?mt=8) or for Android devices (https://play.google.com/store/apps/details?id=com.scholarships&hl=en) . Also, like us on Facebook (http://www.facebook.com/pages/Highland-Park-IL/Scholarshipscom/18974855928) and follow us on Twitter (http://twitter.com/scholarshipscom) to get the latest info on scholarships, tips and more!
+
+We hope you found this information useful and wish you the best of luck in all your educational endeavors.
+
+Sincerely,
+
+The Scholarships.com Team
+
+Your Personal Profile
+
+College/University: Ohio State University-Main Campus
+
+School Year: High School Junior (H.S. Class of 2016)
+
+Academic Major: 
+
+GPA: 3.950
+
+Is this information correct? To find more scholarships, college & career opportunities, click here to update now (https://www.scholarships.com/quickprofileupdate.aspx?ea=markiewicz.john@gmail.com&uid=MTM0Nzc0MjU=-0X34z6olfSo=) .
+https://www.scholarships.com
+
+This email was sent to markiewicz.john@gmail.com
+
+Unsubscribe from this list (http://scholarships.us3.list-manage.com/unsubscribe?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41&c=12a6cb686c)     Update subscription preferences (http://scholarships.us3.list-manage.com/profile?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41)
+
+Scholarships.com . 430 Park Avenue . Highland Park, Illinois 60035 . USA
+--_----------=_MCPart_541953097
+Content-Type: text/html; charset="us-ascii"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Scholarships.com</title>
+</head>
+<body style="padding: 0px; margin: 0px; background: #E0E8F6;">
+    <div style="text-align: center; width: 100%; padding: 10px;">
+        <!-- ================================== UNIVERSAL HEADER ========================================== -->
+        <table width="600" border="0" cellpadding="0" cellspacing="0" style="text-align: left;
+            margin: auto;">
+            <tr>
+                <td style="font-family: Segoe UI, Arial, Sans-Serif; text-align: center; padding: 0px;
+                    padding-top: 5px; font-size: 12px;">
+                    You are receiving this email as part of the services provided to registered users
+                    of Scholarships.com.
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+                    <table cellpadding="0" cellspacing="0" width="600" style="text-align: center; margin: auto;
+                        width: 600px;">
+                        <tr>
+                            <td style="font-family: Segoe UI, Arial, Sans-Serif; text-align: right; padding: 0px;
+                                padding-top: 10px; font-size: 12px; padding-right: 10px; width: 300px;">
+                                <a href="http://scholarships.us3.list-manage2.com/track/click?u=2d11cced74837911f177adbe5&id=4e29f078ce&e=33883dba41" style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 12px;
+                                    white-space: nowrap;">Whitelist</a>
+                            </td>
+                            <td style="font-family: Segoe UI, Arial, Sans-Serif; text-align: left; padding: 0px;
+                                padding-top: 10px; font-size: 12px; width: 18px; width: 300px;">
+                                <a href="http://scholarships.us3.list-manage.com/unsubscribe?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41&c=12a6cb686c" style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 12px;">Unsubscribe</a>
+                            </td>
+                        </tr>
+                        <tr style="padding: 0px; margin: 0px;">
+                            <td colspan="2" style="font-family: Segoe UI, Arial, Sans-Serif; text-align: center;
+                                padding: 0px; padding-top: 5px; font-size: 10px;">
+                                &nbsp;
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+        <!-- ================================== BEGIN EMAIL BODY ========================================= -->
+        <table width="600" border="0" cellpadding="0" cellspacing="0" style="text-align: left;
+            padding: 0px; width: 600px; background-color: #fff; margin: auto;">
+            <tr style="background-color: #fff;">
+                <td colspan="3" height="100" style="background-color: #fff; height: 100px;">
+                    <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=8b0416fee1&e=33883dba41" style="border: none;">
+                        <img src="https://www.scholarships.com/img/emailtopdefault.png" alt="Scholarships.com - You Find Money. Colleges Find You." style="border: none;">
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="width: 20px; background-color: #fff;"></td>
+                <td style="font-family: Segoe UI, Arial, Sans-Serif; text-align: center; width: 560px;
+                    font-size: 13px; background-color: #fff; color: #333; font-weight: normal; padding: 0px;
+                    padding-top: 20px; border-top: 1px solid #E0E8F6; padding-bottom: 20px; text-align: left;">
+
+
+                    <table cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td colspan="2" style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px; padding: 0px; text-align: left;">
+                                <h1 style="font-family: Segoe UI, Arial, Sans-Serif; text-align: left; padding: 0px; font-size: 18px; font-weight: 700; margin-bottom: 15px; color: #144895; height: 25px; margin-left: 0px; margin-right: 0px; margin-top: 0px;">
+                                    "Sexting" Education Curriculum Implemented in LA Schools
+                                </h1>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px; padding: 0px; text-align: left; width: 260px;">
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; font-weight: normal; font-size: 13px; width: 265px; margin: 0px; padding: 0px; padding-top: 10px;">
+                                    Dear John,
+                                    <br>
+                                    <br>
+                                    Scholarships.com helps you find scholarships, grants and other financial aid, matches you with colleges and more. Read on...
+                                    <img src="https://www.scholarships.com/img/265.png">
+                                </p>
+                            </td>
+                            <td style="width: 285px; font-family: Segoe UI, Arial, Sans-Serif; text-align: left; margin: 0px; padding: 0px; font-size: 14px; font-weight: 700; color: #144895; vertical-align: top; padding-top: 15px;">
+                                Get Our Mobile App!
+                                <br>
+                                <br><a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=64b542ce33&e=33883dba41"><img src="https://www.scholarships.com/img/apple140.png" alt="Available on the Apple Store" style="border: none; width: 140px; display: inline;"></a>
+                                <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=83e937dfdd&e=33883dba41"><img src="https://www.scholarships.com/img/google140.png" alt="Android App on Google Play" style="border: none; width: 140px; display: inline;"></a>
+                                <img src="https://www.scholarships.com/img/285.png" alt="">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; font-weight: normal; font-size: 13px;">
+                                    <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=ed9aeb32fe&e=33883dba41" style="font-weight: bold; font-size: 13px;">"Sexting" Education Curriculum Implemented in LA Schools</a>
+                                    <br>For the first time this fall, high school students in the Los Angeles, California area will be participating in a new addition to the curriculum, "Sext" Education. Each school in the district will receive lesson plans, supplemented by videos and handouts for the students...
+
+                                    <br>
+                                    <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=b2ec45169d&e=33883dba41" style="font-weight: normal; ">Read more</a>
+                                </p>
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; font-weight: normal; font-size: 13px;">
+                                    <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=7d40b5c5ac&e=33883dba41" style="font-weight: bold; font-size: 13px;">Obama Modern Day Robin Hood?</a>
+                                    <br>Under the Obama administration, the motto "work hard, play harder" is continually being redefined to "work hard, pay harder". According to The Wall Street Journal, a new plan is being finalized that will allow millions of low-income Americans to slash their monthly student-debt bills...
+                                    <br>
+                                    <a href="http://scholarships.us3.list-manage2.com/track/click?u=2d11cced74837911f177adbe5&id=f23e3e9758&e=33883dba41" style="font-weight: normal; ">Read more</a>
+                                </p>
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; font-weight: normal; font-size: 13px;">
+                                    <a href="http://scholarships.us3.list-manage2.com/track/click?u=2d11cced74837911f177adbe5&id=facc091012&e=33883dba41" style="font-weight: bold; font-size: 13px;">Find Private Student Loans</a> - Offers from Sallie Mae, PNC, Citizens Bank and More!
+                                    <br>
+                                    <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=a05e2d69a0&e=33883dba41" style="font-weight: normal; ">Compare Now</a>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; text-align: left; margin: 0px;
+                        padding: 0px; font-size: 13px; font-weight: 700; margin-bottom: 15px; color: #144895;">
+                                    Check-Out These Great Opportunities, Too!
+                                </p>
+                            </td>
+                        </tr>
+
+                        <tr>
+
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=6444f78638&e=33883dba41">Compare Student Loans</a> - Find the Best Option to Pay for Your College Education!
+                            </td>
+                        </tr>
+
+
+
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=cbb2f20751&e=33883dba41">Find Private Student Loans</a> - Offers from Sallie Mae, PNC, Citizens Bank and More!
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=5bd4f47277&e=33883dba41">Apply for ScholarshipPoints' $10,000 Scholarship</a> - New winner every month!
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=e4d2ba9ed8&e=33883dba41">Apply For Niche's $2,000 "No Essay" College Scholarship</a> - It's quick and easy!
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=5a4a4043d9&e=33883dba41">Degrees for Nursing</a> - You May Qualify for Federal Pell Grants and Federal Student Loans
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=f171a14c25&e=33883dba41">Apply for Chegg's $1,000 Monthly Scholarship</a> - New winner every month!
+                            </td>
+                        </tr>
+
+
+
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=a8b362d6b6&e=33883dba41">Go Back to School in 2015</a> - You May Qualify for Pell Grants and Federal Student Loans
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=623bc07c3e&e=33883dba41">Get a Degree in Addiction Counseling</a> - You May Qualify for up to $5,730 in Pell Grants
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=e8bc8dc6e4&e=33883dba41">Return to School</a> - Take 3 Minutes to Find Out if You Qualify for Federal Grants!
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td colspan="2">&nbsp;</td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="padding-bottom: 5px; font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px;">
+                                <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px; padding: 0px;">
+                                    Want access to our free scholarship search, college search, financial aid and other
+                                    great info on the go? Get our <strong>FREE</strong> app <a href="http://scholarships.us3.list-manage2.com/track/click?u=2d11cced74837911f177adbe5&id=db447840f4&e=33883dba41">
+                                        for iPhone/iPad
+                                    </a> or <a href="http://scholarships.us3.list-manage2.com/track/click?u=2d11cced74837911f177adbe5&id=af1248dd44&e=33883dba41">
+                                        for Android devices
+                                    </a>. Also, like us on <a href="http://scholarships.us3.list-manage.com/track/click?u=2d11cced74837911f177adbe5&id=d8428887cf&e=33883dba41" target="_blank">Facebook</a> and follow us on <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=2a16051b03&e=33883dba41" target="_blank">Twitter</a> to get the latest info on scholarships,
+                                    tips and more!
+                                    <br>
+                                    <br>
+                                    We hope you found this information useful and wish you the best of luck in all your
+                                    educational endeavors.
+                                    <br>
+                                    <br>
+                                    Sincerely,
+                                    <br>
+                                    <br>
+                                    The Scholarships.com Team
+                                </p>
+                            </td>
+
+                        </tr>
+
+                    </table>
+                </td>
+                <td style="width: 20px; background-color: #fff;"></td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <table cellpadding="4" cellspacing="0" style="text-align: left; margin: 10px 0px 0px 0px;
+                        background: #E9E9E9; width: 100%;">
+                        <tr>
+                            <td>
+                                <img src="https://www.scholarships.com/img/PerProfile.png" style="margin: 10px;" alt="">
+                            </td>
+                            <td>
+                                <table style="text-align: left;">
+                                    <tr>
+                                        <td>
+                                            <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px;
+                                                padding: 0px; color: #004190; text-align: left; font-weight: bold;">
+                                                Your Personal Profile
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px;
+                                                padding: 0px; font-family: Segoe UI, Arial,Helvetica,sans-serif; font-size: 13px;
+                                                line-height: 18px; color: #000; text-align: left;">
+                                                <strong>College/University:</strong>&nbsp;Ohio State University-Main Campus
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px;
+                                                padding: 0px; font-family: Segoe UI, Arial,Helvetica,sans-serif; font-size: 13px;
+                                                line-height: 18px; color: #000; text-align: left;">
+                                                <strong>School Year:</strong>&nbsp;High School Junior (H.S. Class of 2016)
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px;
+                                                padding: 0px; font-family: Segoe UI, Arial,Helvetica,sans-serif; font-size: 13px;
+                                                line-height: 18px; color: #000; text-align: left;">
+                                                <strong>Academic Major:</strong>&nbsp;
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="font-family: Segoe UI, Arial, Sans-Serif; font-size: 13px; margin: 0px;
+                                                padding: 0px; font-family: Segoe UI, Arial,Helvetica,sans-serif; font-size: 13px;
+                                                line-height: 18px; color: #000; text-align: left;">
+                                                <strong>GPA:</strong>&nbsp;3.950
+                                            </p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <p style="margin: 0px; padding: 0px; font-family: Segoe UI, Arial,Helvetica,sans-serif;
+                                                font-size: 13px; color: #000; font-style: normal;">
+                                                Is this information correct? To find more scholarships, college & career opportunities,
+                                                <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=2e11965194&e=33883dba41">
+                                                    click here to update now
+                                                </a>.
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3" style="background-color: #E0E8F6;">
+                    <a href="http://scholarships.us3.list-manage1.com/track/click?u=2d11cced74837911f177adbe5&id=fca15cd360&e=33883dba41" style="border: none;">
+                        <img src="https://www.scholarships.com/img/emailbottomdefault.png" alt="Scholarships.com helps you Find Money for College!" style="border: none;">
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <center>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" id="canspamBarWrapper">
+            <tr>
+                <td align="center" valign="top" style="padding-top: 0px; padding-bottom: 20px;">
+                    <table border="0" cellpadding="0" cellspacing="0" width="600" style="width: 600px;" id="canspamBar">
+                        <tr>
+                            <td align="center" valign="top" style="color: #606060; padding-bottom: 5px; padding-left: 20px;
+                                text-align: center;">
+                                <p style="font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 12px;">
+                                    This email was sent to <a href="markiewicz.john@gmail.com" target="_blank" style="color: #404040 !important;">
+                                        markiewicz.john@gmail.com
+                                    </a>
+                                </p>
+                                <p style="font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 12px; white-space: nowrap; width: 600px; text-align: center;">
+                                    <a href="http://scholarships.us3.list-manage.com/unsubscribe?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41&c=12a6cb686c">Unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://scholarships.us3.list-manage.com/profile?u=2d11cced74837911f177adbe5&id=a3f329d67f&e=33883dba41">Update subscription
+                                        preferences
+                                    </a>
+                                </p>
+                                <p style="font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 12px; white-space: nowrap; width: 600px; text-align: center;">
+                                    Scholarships.com &middot; 430 Park Avenue &middot; Highland Park, Illinois 60035 &middot; USA
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+<img src="http://scholarships.us3.list-manage.com/track/open.php?u=2d11cced74837911f177adbe5&id=12a6cb686c&e=33883dba41" height="1" width="1"></body>
+</html>
+--_----------=_MCPart_541953097--

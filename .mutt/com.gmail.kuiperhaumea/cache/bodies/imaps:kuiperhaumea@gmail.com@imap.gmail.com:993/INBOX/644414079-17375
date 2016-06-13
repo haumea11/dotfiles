@@ -1,0 +1,181 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.65.70 with SMTP id o67csp252533oia;
+        Wed, 16 Mar 2016 22:08:28 -0700 (PDT)
+X-Received: by 10.28.146.209 with SMTP id u200mr7646497wmd.59.1458191307999;
+        Wed, 16 Mar 2016 22:08:27 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22e.google.com (mail-wm0-x22e.google.com. [2a00:1450:400c:c09::22e])
+        by mx.google.com with ESMTPS id y185si23633957wmg.9.2016.03.16.22.08.26
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 16 Mar 2016 22:08:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) client-ip=2a00:1450:400c:c09::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@sjc01.hobsonsmail.com
+Received: by mail-wm0-x22e.google.com with SMTP id p65so96173118wmp.0
+        for <kuiperhaumea@gmail.com>; Wed, 16 Mar 2016 22:08:26 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:domainkey-signature
+         :from:to:reply-to:date:subject:mime-version:message-id;
+        bh=/WMVK8Pm86I27UEPT08Ds6xDqQaSNWsiv9pe8irjmag=;
+        b=gpkN0CGlOvZTsoNcFgN57s7eeDTOcPZyHhiJvs6sI6LyN+ymBSgoKF6K0ja08alV8l
+         gQGRU1vcwOoZ+2TaebpFBbz4lrpzCjB4YsnTalS58WvxxAuFJQkTrTxDaeJ3tQ69i7e9
+         T/AJRaW7tJT0RJRwOVLCt7HT2S79O09+uFNCysq+Sd9siFlPKT2gThbWU4ROUWgxQ4Y6
+         9w8JASAChY6zEAPbE5HRrccu5pNdUCfrhs81zGrPAv68lSqfzK1AdZ6zVZnyhXpVFUfp
+         BHDL4GNWvJVCGc2fi1qO2Gelw1GRDStoUCPyXNGYmBsltwLmiuVt7xW1L8Tp1QDnDusT
+         MGAw==
+X-Gm-Message-State: AD7BkJIt9gzmh6z5YukP3ATtXMhtZeo/Q3UPPSUgfdqVWw0q+ZG5U3SPeYdvhPoPlVsz3T+9mg6KTuOXa05jjbAFnd6BNbk=
+X-Received: by 10.28.131.141 with SMTP id f135mr33114457wmd.33.1458191306472;
+        Wed, 16 Mar 2016 22:08:26 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.98.139 with SMTP id w133csp187502wmb;
+        Wed, 16 Mar 2016 22:08:25 -0700 (PDT)
+X-Received: by 10.129.154.147 with SMTP id r141mr3353614ywg.273.1458191305598;
+        Wed, 16 Mar 2016 22:08:25 -0700 (PDT)
+Return-Path: <78130972.arizonaug@sjc01.hobsonsmail.com>
+Received: from mailer02.sjc01.hobsonsmail.com (mailer02.sjc01.hobsonsmail.com. [165.193.255.16])
+        by mx.google.com with ESMTP id l141si684058ybl.248.2016.03.16.22.08.25
+        for <markiewicz.john@gmail.com>;
+        Wed, 16 Mar 2016 22:08:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 78130972.arizonaug@sjc01.hobsonsmail.com designates 165.193.255.16 as permitted sender) client-ip=165.193.255.16;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key3; d=sjc01.hobsonsmail.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:Message-ID;
+ bh=IbCdug2lBx7nrmqcs7PP9hxK6Ec=;
+ b=Eq1tHEhzVvSWcD59qw5IQK/F9HmkoKRkkhv9em6XRG8X81h6S66anJ5qzgZBXVcfn5RLmi65LRKK
+   v+3v9mGITTy/Eb0Fjtc4Cy/HlFCHeHO6lqqubz4/hxmUt042+SPHV7Hq+40137yUaXYCoAUI74SO
+   Q0tkTHDGyYQnjYxO/DY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key3; d=arizona.edu;
+ b=WjeUNqyKp+HRAfsUr2EoPIuflX4c+OxMEPspjvJF4z2llnNZxSsD4bpHOrdjNdctqEyjWGPF1jGD
+   5JcvWUdjTkov4cygTBYD62+tWYiWRvecSoGGvopkG3xN+gDPGjnubO7DkawfqshcNW45WP6bF5UN
+   aWDDRePWNhyjAIMDG2s=;
+Received: from sjc1pa004 (10.24.133.168) by mailer02.sjc01.hobsonsmail.com id ht8tpi19gt4j for <markiewicz.john@gmail.com>; Wed, 16 Mar 2016 22:03:27 -0700 (envelope-from <78130972.arizonaug@sjc01.hobsonsmail.com>)
+From: "The University of Arizona" <admissions@arizona.edu> 
+To: "John Markiewicz" <markiewicz.john@gmail.com>
+Reply-To: 78130972.arizonaug@sjc01.hobsonsmail.com
+Date: Thu, 17 Mar 2016 01:04:15 -0400
+Subject: =?utf-8?B?4piFIEhhcHB5IEJpcnRoZGF5ISDimIUgZnJvbSBUaGUgVW5pdmVyc2l0eSBv?=
+	=?utf-8?B?ZiBBcml6b25h?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_7ffde512708f4050bfc1752311a37896"
+X-Mailer: aspNetEmail ver 3.5.2.0
+Message-ID: <SJC1PA0047ab337274bb745d3af70320979a75386@sjc1pa004>
+
+This is a multi-part email in Mime format.
+
+--_=aspNetEmail=_7ffde512708f4050bfc1752311a37896
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+John=0D=0AMay this birthday be the beginning of a year filled with happy =
+memories and wonderful moments=2E=0D=0A=0D=0AAll the best to you on this =
+special day=21=0D=0A=0D=0ASincerely,=0D=0A=0D=0AThe University of Arizona=
+=0D=0AOffice of Admissions=0D=0AP=2EO=2E Box 210073=0D=0ATucson, AZ 85721=
+-0073=0D=0APhone: (520) 621-3237=0D=0A=0D=0AIf you no longer wish to rece=
+ive emails from The University of Arizona, http://arizonaug=2Easkadmissio=
+ns=2Enet/admin/Communications/OptOut=2Easpx?qs=3D2z=252fD7JjX=252fg5=252f=
+uw2TXv4WW6RDMcU8TgzZgOnQLDqGn4tLtU6YvuL67w=253d=253d
+
+--_=aspNetEmail=_7ffde512708f4050bfc1752311a37896
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD><BODY><=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E=
+0 Transitional//EN=22 =22http://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-trans=
+itional=2Edtd=22>=0D=0A<html>=0D=0A    <head>=0D=0A        <style>=0D=0A =
+           img =7B display:block; border:none; =7D=0D=0A        </style>=0D=
+=0A    </head>=0D=0A    <body style=3D=22font-family: Helvetica,Arial,san=
+s-serif;=22>=0D=0A        <table style=3D=22margin: 0px auto; background-=
+color: rgb(255, 255, 255);=22 border=3D=220=22 cellpadding=3D=220=22 cell=
+spacing=3D=220=22>=0D=0A            <tbody>=0D=0A                <tr>=0D=0A=
+                    <td colspan=3D=226=22 valign=3D=22top=22>=0D=0A      =
+              <img src=3D=22https://static=2Easkadmissions=2Enet/arizonau=
+g/usermedia/Yield=2520Headers/Wilma=2520Birthday=2Ejpg=22 alt=3D=22=22 st=
+yle=3D=22=22>=0D=0A                    </td>=0D=0A                </tr>=0D=
+=0A                <tr>=0D=0A                    <td colspan=3D=226=22>=0D=
+=0A                    <table style=3D=22background-color: rgb(255, 255, =
+255);=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 wid=
+th=3D=22640=22>=0D=0A                        <tbody>=0D=0A               =
+             <tr>=0D=0A                                <td colspan=3D=223=
+=22 height=3D=2230=22 valign=3D=22top=22>=0D=0A                          =
+      =26nbsp;=0D=0A                                </td>=0D=0A          =
+                  </tr>=0D=0A                            <tr>=0D=0A      =
+                          <td valign=3D=22top=22 width=3D=2290=22>=26nbsp=
+;</td>=0D=0A                                <td valign=3D=22top=22>=0D=0A=
+                                <div style=3D=22margin-left: 20px; paddin=
+g: 0px; font-size: 12px;=22>=0D=0A                                <font s=
+tyle=3D=22font-size: 16px;=22><br>=0D=0A                                <=
+strong><font style=3D=22font-size: 16px;=22>John,</font></strong></font><=
+/div>=0D=0A                                <div style=3D=22margin-left: 2=
+0px; padding: 0px; font-size: 12px;=22><font style=3D=22font-size: 16px;=22=
+><br>=0D=0A                                </font></div>=0D=0A           =
+                     <div style=3D=22margin-left: 20px; padding: 0px; fon=
+t-size: 12px;=22><font style=3D=22font-size: 16px;=22>May this birthday b=
+e the beginning of a year filled with happy memories and wonderful moment=
+s=2E<br>=0D=0A                                <br>=0D=0A                 =
+               All the best to you on this special day=21</font></div>=0D=
+=0A                                <div style=3D=22margin-left: 20px; pad=
+ding: 0px; font-size: 12px;=22><font style=3D=22font-size: 16px;=22><br>=0D=
+=0A                                Sincerely,</font></div>=0D=0A         =
+                       <div style=3D=22margin-left: 20px; padding: 0px; f=
+ont-size: 12px;=22><font style=3D=22font-size: 16px;=22><br>=0D=0A       =
+                         The University of Arizona<br>=0D=0A             =
+                   Office of Admissions<br>=0D=0A                        =
+        P=2EO=2E Box 210073<br>=0D=0A                                Tucs=
+on, AZ 85721-0073<br>=0D=0A                                Phone: (520) 6=
+21-3237</font></div>=0D=0A                                <div style=3D=22=
+margin-left: 20px; padding: 0px; font-size: 12px;=22></div>=0D=0A        =
+                        <div style=3D=22margin-left: 20px; padding: 0px; =
+font-size: 12px;=22></div>=0D=0A                                </td>=0D=0A=
+                                <td valign=3D=22top=22 width=3D=2290=22>=26=
+nbsp;</td>=0D=0A                            </tr>=0D=0A                  =
+      </tbody>=0D=0A                    </table>=0D=0A                   =
+ </td>=0D=0A                </tr>=0D=0A                <tr>=0D=0A        =
+            <td style=3D=22text-align: right;=22 valign=3D=22top=22 width=
+=3D=22650=22>=0D=0A                    <a><img src=3D=22https://static=2E=
+askadmissions=2Enet/arizonaug/usermedia/CWL/CWL-RBfooter=2Epng=22 style=3D=
+=22=22 usemap=3D=22=23rade_img_map_1381875170831=22 border=3D=220=22></a>=
+</td>=0D=0A                </tr>=0D=0A            </tbody>=0D=0A        <=
+/table>=0D=0A        <br>=0D=0A        <map id=3D=22rade_img_map_13818751=
+70831=22 name=3D=22rade_img_map_1381875170831=22>=0D=0A        <area shap=
+e=3D=22RECT=22 coords=3D=22264,2,314,50=22 href=3D=22http://arizonaug=2Ea=
+skadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3DbF=252fe0CZ=
+=252fjjX7MLnK7Wed1S6jl2E9fOqlsbNqIiv=252b=252feJY6rmH4uZDQmlomoy6=252bdU4=
+U2S34JgEGew=253d=22 alt=3D=22Facebook=22 title=3D=22Like Us On Facebook=22=
+>=0D=0A        <area shape=3D=22RECT=22 coords=3D=22345,2,387,48=22 href=3D=
+=22http://arizonaug=2Easkadmissions=2Enet/admin/Communications/ClickThru=2E=
+aspx?qs=3DbF=252fe0CZ=252fjjX7MLnK7Wed1S6jl2E9fOqlWpqCMIjJPN7U0EMqBt5guiW=
+=252bUUf6nfLd76DEAjJO2ac=253d=22 alt=3D=22Twitter=22 title=3D=22Follow Us=
+ on Twitter=22>=0D=0A        <area shape=3D=22RECT=22 coords=3D=22418,3,4=
+69,46=22 href=3D=22http://arizonaug=2Easkadmissions=2Enet/admin/Communica=
+tions/ClickThru=2Easpx?qs=3DbF=252fe0CZ=252fjjX7MLnK7Wed1S6jl2E9fOqlZMOUz=
+7MAvPHlevA=252fhUHfmyAtWEY5NCgpHR7aAeBKrJg=253d=22 alt=3D=22Instagram=22 =
+title=3D=22Follow Us on Instagram=22>=0D=0A        <area shape=3D=22RECT=22=
+ coords=3D=22495,1,541,49=22 href=3D=22http://arizonaug=2Easkadmissions=2E=
+net/admin/Communications/ClickThru=2Easpx?qs=3DbF=252fe0CZ=252fjjX7MLnK7W=
+ed1S6jl2E9fOqlmsAhbhqnl5ZH77VmXfiW=252fcTn2jjuk3bsiBGlpY4DXIw=253d=22 alt=
+=3D=22YouTube=22 title=3D=22Subscribe on YouTube=22>=0D=0A        <area s=
+hape=3D=22RECT=22 coords=3D=22570,1,612,50=22 href=3D=22http://arizonaug=2E=
+askadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3DbF=252fe0C=
+Z=252fjjX7MLnK7Wed1S6jl2E9fOqlUJoV4P23QoNHLrAnvo51CwCtFGn4v0r7JDAXcmrdbDg=
+=253d=22 alt=3D=22Future Students=22 title=3D=22Future Students=22></map>=
+=0D=0A    </body>=0D=0A</html>=0D=0A<BR><BR><TABLE width=3D=22100=25=22>=0D=
+=0A<TR><TD><IMG src=3Dhttp://arizonaug=2Easkadmissions=2Enet/admin/Commun=
+ications/WebBeacon=2Easpx?qs=3DbF=252fe0CZ=252fjjXfP55U9x80VG6Bfpkf6u2sWP=
+=252bLCJJ3xjXS7GdZUNlRKA=253d=253d></TD></TR><TR><TD style=3D=22FONT-SIZE=
+: 10pt; FONT-FAMILY: Verdana=22 align=3D=22left=22>If you no longer wish =
+to receive emails from The University of Arizona,=26nbsp;<A HREF=3D=22htt=
+p://arizonaug=2Easkadmissions=2Enet/admin/Communications/OptOut=2Easpx?qs=
+=3D2z=252fD7JjX=252fg5=252fuw2TXv4WW6RDMcU8TgzZgOnQLDqGn4tLtU6YvuL67w=253=
+d=253d=22>click here=2E</A></TD></TR><TR><TD>=26nbsp;</TD></TR><TR><TD st=
+yle=3D=22FONT-SIZE: 8pt; FONT-FAMILY: Verdana=22 align=3D=22center=22>The=
+ University of Arizona</TD></TR>=0D=0A</TABLE></BODY></HTML>
+
+--_=aspNetEmail=_7ffde512708f4050bfc1752311a37896--
+

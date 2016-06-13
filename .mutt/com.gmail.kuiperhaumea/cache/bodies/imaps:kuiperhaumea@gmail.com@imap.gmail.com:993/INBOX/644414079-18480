@@ -1,0 +1,225 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.181.19 with SMTP id e19csp354648vkf;
+        Fri, 3 Jun 2016 08:55:29 -0700 (PDT)
+X-Received: by 10.194.92.113 with SMTP id cl17mr4203886wjb.176.1464969329639;
+        Fri, 03 Jun 2016 08:55:29 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22e.google.com (mail-wm0-x22e.google.com. [2a00:1450:400c:c09::22e])
+        by mx.google.com with ESMTPS id a131si37439wmc.4.2016.06.03.08.55.29
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jun 2016 08:55:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) client-ip=2a00:1450:400c:c09::22e;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@wallick.onmicrosoft.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22e as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com
+Authentication-Results: wallick.com; dkim=none (message not signed)
+ header.d=none;wallick.com; dmarc=none action=none header.from=wallick.com;
+Received: by mail-wm0-x22e.google.com with SMTP id s131so10375730wme.0
+        for <kuiperhaumea@gmail.com>; Fri, 03 Jun 2016 08:55:29 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:from:to:cc:subject
+         :thread-topic:thread-index:date:message-id:accept-language
+         :content-language:spamdiagnosticoutput:spamdiagnosticmetadata
+         :mime-version;
+        bh=YLHawc2ioVi16SMwx9uvTHYTHjotnXuycu3aRSfJp3s=;
+        b=RHeI2MI9ZQO1WnQVwMaK10WkS/loZ/YAjq+puHpPg7YXz6QBWmkR1IBDcxxQWMgL/i
+         ms318PznHHgJPob/0mAhBO1gaPVwmYLloJtOxm59x6p/3In6VkXWk4rX3XGO1tRG+cqH
+         RRkMkURUv1e1bXzQY9Lg8nO1jWbX+wKIbf5/5DiMFQr+vbOlJUNpjc/NgcDavzVnix8C
+         DL9yFB/omnZzSxkIcBT+psGTc/liGt97/oq/RM1nDn1o2rRRqnU4EJOcasJudjLyaCMg
+         VzjjXoiz+q5obZiRsUnkBUPKLuPvz7aCKyXDpsS1KjmXxa3ueE5xWcEiKqUYCpXbBsqO
+         lpyA==
+X-Gm-Message-State: ALyK8tIPpYUPdHZxF5EP8wdDf0EPQE0d/nxO/MCS5InLIyVvaIqnmBPWbt1e4ZsZoyhIku1zKAgHdwwxbAopgdb8L85DDM4=
+X-Received: by 10.28.210.75 with SMTP id j72mr188340wmg.31.1464969329074;
+        Fri, 03 Jun 2016 08:55:29 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.35.75 with SMTP id j72csp363191wmj;
+        Fri, 3 Jun 2016 08:55:28 -0700 (PDT)
+X-Received: by 10.157.41.33 with SMTP id d30mr2337667otb.179.1464969328299;
+        Fri, 03 Jun 2016 08:55:28 -0700 (PDT)
+Return-Path: <mjohnson@wallick.com>
+Received: from na01-by2-obe.outbound.protection.outlook.com (mail-by2on0127.outbound.protection.outlook.com. [207.46.100.127])
+        by mx.google.com with ESMTPS id 65si3165591otq.36.2016.06.03.08.55.27
+        for <markiewicz.john@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 03 Jun 2016 08:55:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mjohnson@wallick.com designates 207.46.100.127 as permitted sender) client-ip=207.46.100.127;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=wallick.onmicrosoft.com; s=selector1-wallick-com;
+ h=From:To:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=YLHawc2ioVi16SMwx9uvTHYTHjotnXuycu3aRSfJp3s=;
+ b=V4OSr6rKOAU55K1M+XZoX1f8/s2Blq+F/gFVTZzszWK8DISjnh14xpAZds9jjWWRY2VpM0tGbzhUuvO8Xy2Dtr5YSAkq4xhWGc/DxaCDoI25IeNAFhLrf9CU3PxSwOA1U5cDq8TD8nX7H49duTIAUjdRtppfA82rCq9uRg9CKl0=
+Received: from SN1PR02MB2173.namprd02.prod.outlook.com (10.166.68.23) by
+ BN1PR0201MB0755.namprd02.prod.outlook.com (10.160.170.12) with Microsoft SMTP
+ Server (TLS) id 15.1.501.7; Fri, 3 Jun 2016 15:55:26 +0000
+Received: from SN1PR02MB2173.namprd02.prod.outlook.com ([10.166.68.23]) by
+ SN1PR02MB2173.namprd02.prod.outlook.com ([10.166.68.23]) with mapi id
+ 15.01.0506.013; Fri, 3 Jun 2016 15:55:25 +0000
+From: Muezjuana Johnson <mjohnson@wallick.com>
+To: "markiewicz.john@gmail.com" <markiewicz.john@gmail.com>
+CC: Joyce Peoples <jpeoples@wallick.com>
+Subject: Schedule conflict
+Thread-Topic: Schedule conflict
+Thread-Index: AQHRva+yntS6t5ZCTkGMWVvEB1Jmmg==
+Date: Fri, 3 Jun 2016 15:55:25 +0000
+Message-ID: <SN1PR02MB2173020A15644203A8B9FCD6DE590@SN1PR02MB2173.namprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-originating-ip: [25.169.34.4]
+x-ms-office365-filtering-correlation-id: f480ab39-c5ac-46d6-9b59-08d38bc77a3f
+x-microsoft-exchange-diagnostics: 1;BN1PR0201MB0755;5:JbJv8+XJUfZQYi4KIuI8y5VNrRpCVC+YErIMAFZ1gDL4O8EYnaoFFCkhcm+DoA28imzC3hkWCwgeLpUwajHysm8PAdnys6sZeMg3u54rWKc5NpyHgCX5sXYIQJDgVcEP0dj6Np2f8u9eBXGxlX+bgg==;24:jvk/R0SXS7gC7Tj5b8P9MJGgqseB7RgEPhiLJ+v+keKS3FJtwy74Wn3lilbGn9zMTuCIWna5iTcS0LfYZNoQZp3E0uyhbDmMeJPkmrv6GF8=;7:UCbAC3SBB5JAuaDGuS2KFo9mVH89KSw5vgVNg/QQgUaPMHxg84LLLCqNiLljV5blvq4kCgK+7xob25NoS3RfYvJcfDDiaEQbOuHO44mCOYKeMwCa3jJZTkHUg8gmkaYaaPfL/S7mbC8Jczx6VubJkTL2bNE2FJkOHYzg35zDD9w2aLaEIeCIqT4S0p5iiCgGs2kmvQ+k1xU8ehpdOWpd7Ga/kAg19VnijEogy0Npfgw=
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:BN1PR0201MB0755;
+x-microsoft-antispam-prvs: <BN1PR0201MB07558A041E4D1CB460F55AB5DE590@BN1PR0201MB0755.namprd02.prod.outlook.com>
+x-exchange-antispam-report-test: UriScan:(2412526120270);
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(6040130)(601004)(2401047)(8121501046)(5005006)(10201501046)(3002001)(6041072)(6043046);SRVR:BN1PR0201MB0755;BCL:0;PCL:0;RULEID:;SRVR:BN1PR0201MB0755;
+x-forefront-prvs: 0962D394D2
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(52044002)(2900100001)(16601075003)(861006)(5002640100001)(66066001)(74316001)(189998001)(107886002)(86362001)(110136002)(4001430100002)(3280700002)(3480700004)(221733001)(9686002)(5003600100002)(2501003)(5004730100002)(19625215002)(8936002)(33656002)(16236675004)(92566002)(3846002)(586003)(18206015028)(87936001)(8676002)(54356999)(50986999)(229853001)(106116001)(2351001)(5008740100001)(81166006)(19617315012)(19627405001)(3660700001)(19580395003)(102836003)(19618635001)(6116002)(5640700001)(77096005)(450100001)(15975445007)(10400500002)(2906002)(99286002)(76576001)(122556002)(4326007)(7099028);DIR:OUT;SFP:1102;SCL:1;SRVR:BN1PR0201MB0755;H:SN1PR02MB2173.namprd02.prod.outlook.com;FPR:;SPF:None;MLV:ovrnspm;PTR:InfoNoRecords;LANG:en;
+spamdiagnosticoutput: 1:23
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SN1PR02MB2173020A15644203A8B9FCD6DE590SN1PR02MB2173namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: wallick.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Jun 2016 15:55:25.3707
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d00ddfb2-6316-4e9f-8f8e-7614414da49a
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1PR0201MB0755
+
+--_000_SN1PR02MB2173020A15644203A8B9FCD6DE590SN1PR02MB2173namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning to you,
+
+
+Due to an unforeseen circumstance unfortunately your June 6th interview wil=
+l have to be rescheduled for the middle of next week.  We apologize for any=
+ inconvenient this may cause you.
+
+I will contact you next week to coordinate a new interview time.  Please fe=
+el free to contact Joyce Peoples with any questions or concerns.
+
+
+Best regards,
+
+
+Muezjuana Johnson | Receptionist
+
+614-552-5600[X] | 6880 Tussing Road, Reynoldsburg, OH 43068
+
+
+[http://tad.wallickcos.com/wcsigbackend.gif]<http://www.Wallickcos.com>
+
+
+Confidentiality Notice
+This Email transmission is intended for the use of the individual(s) to whi=
+ch it is addressed. It may contain information that is privileged. This inf=
+ormation is confidential and exempt from disclosure under applicable law.
+If the reader of the message is not the intended recipient or the employee =
+or agent responsible for delivering the message to the recipient, you are h=
+ereby notified that any dissemination, distribution or copying of the commu=
+nication is strictly prohibited and may be a violation of Federal or State =
+Law. If you have received this communication in error, please notify the se=
+nder immediately and permanently delete the message.
+
+--_000_SN1PR02MB2173020A15644203A8B9FCD6DE590SN1PR02MB2173namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"color: rgb(0, 0, 0); font-family:=
+ Calibri,Arial,Helvetica,sans-serif; font-size: 12pt; background-color: rgb=
+(255, 255, 255);">
+<p>Good morning to you,</p>
+<p><br>
+</p>
+<p>Due to an unforeseen circumstance unfortunately your June 6th interview =
+will have to be rescheduled for the middle of next week.&nbsp; We apologize=
+ for any inconvenient this may cause you.&nbsp;
+</p>
+<p>I will contact you next week to coordinate a new interview time.&nbsp; P=
+lease feel free to contact Joyce Peoples with any questions or concerns.</p=
+>
+<p><br>
+</p>
+<p>Best regards,<br>
+</p>
+<p><br>
+</p>
+<div id=3D"Signature">
+<table width=3D"640" style=3D"margin-top: 20px;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tbody>
+<tr height=3D"40">
+</tr>
+<tr>
+<td width=3D"394">
+<p class=3D"msonormal1" style=3D"margin-bottom: 5px;"><b><span style=3D"col=
+or: black; font-family: Arial,sans-serif; font-size: 9pt;">Muezjuana Johnso=
+n |
+</span></b><span style=3D"color: rgb(197, 193, 157); font-family: Arial,san=
+s-serif; font-size: 9pt;">Receptionist</span></p>
+<p class=3D"msonormal11"><span style=3D"font-size: 9pt;"><span class=3D"bae=
+c5a81-e4d6-4674-97f3-e9220f0136c1" style=3D"white-space: nowrap;">614-552-5=
+600<a title=3D"Call: 614-552-5600" style=3D"margin: 0px; border: currentCol=
+or; border-image: none; left: 0px; top: 0px; width: 16px; height: 16px; rig=
+ht: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float: none=
+; display: inline; white-space: nowrap; position: static !important;" href=
+=3D"#"><img title=3D"Call: 614-552-5600" style=3D"margin: 0px; border: curr=
+entColor; border-image: none; left: 0px; top: 0px; width: 16px; height: 16p=
+x; right: 0px; bottom: 0px; overflow: hidden; vertical-align: middle; float=
+: none; display: inline; white-space: nowrap; position: static !important;"=
+ unselectable=3D"on" src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA=
+BAAAAAQCAYAAAAf8/9hAAABcklEQVR4XpXTPUvDUBTH4aR2c2hBQXGpTiIORhBcBOvgYKf0Awi&=
+#43;4Ggr1MVPIIrYdnEpShddHIyLi6AVXVxsRRDRwbi4KNgu4lCIv8i/i6QRDzycy&#43;09555=
+LqOl5nhEUptPoJe1iDHU8oYlrlDw79m4QEbSLPexzsIc8hDRm8YBjLpj4q8EgxQdab&#43;MNd4=
+ghhQ2adIc1&#43;ORAFEnWWfTDRp7GDfImlsIavKALLuqoqMGUCs4wHtagiQ5uc8kDyCOBKlP1k=
+78QNTOZnMXCQRxWsbjl6iuskV41SQG2Gj9rikvcR1WcgKFDBa1LOEUK56hqv8BUFV3SGWkVS9JQ=
+6Dsv4wQ1DKMPORUvkm78BhdQMI1CTa5I0yrcwSFqFD&#43;SZ7DQesIkCG5S/JpkHYERQRmuNsr=
+Z7Grc&#43;Ef8/Bcoslkfae8Wc7CUHZ&#43;&#43;TuAEBj86pHntjaDKXllPy6PW/gkKFaThwp=
+/K87N8hDcQTTKKFTioSxqB8Q2BNX5JtAljwgAAAABJRU5ErkJggg=3D=3D"></a></span>
+ | 6880 Tussing Road, Reynoldsburg, OH 43068</span></p>
+</td>
+<td width=3D"243" style=3D"border-left-color: rgb(196, 188, 150); border-le=
+ft-width: 3px; border-left-style: solid;">
+<p align=3D"right"><a id=3D"LPNoLP" href=3D"http://www.Wallickcos.com" alt=
+=3D"Wallick Communities"><img width=3D"243" height=3D"35" alt=3D"" border=
+=3D"0" unselectable=3D"on" src=3D"http://tad.wallickcos.com/wcsigbackend.gi=
+f"></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+</div>
+</div>
+Confidentiality Notice<br>
+This Email transmission is intended for the use of the individual(s) to whi=
+ch it is addressed. It may contain information that is privileged. This inf=
+ormation is confidential and exempt from disclosure under applicable law.<b=
+r>
+If the reader of the message is not the intended recipient or the employee =
+or agent responsible for delivering the message to the recipient, you are h=
+ereby notified that any dissemination, distribution or copying of the commu=
+nication is strictly prohibited
+ and may be a violation of Federal or State Law. If you have received this =
+communication in error, please notify the sender immediately and permanentl=
+y delete the message.
+</body>
+</html>
+
+--_000_SN1PR02MB2173020A15644203A8B9FCD6DE590SN1PR02MB2173namp_--

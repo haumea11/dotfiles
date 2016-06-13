@@ -1,0 +1,176 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1647025oig;
+        Wed, 18 Nov 2015 16:35:37 -0800 (PST)
+X-Received: by 10.194.3.39 with SMTP id 7mr5078824wjz.20.1447893336969;
+        Wed, 18 Nov 2015 16:35:36 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22f.google.com (mail-wm0-x22f.google.com. [2a00:1450:400c:c09::22f])
+        by mx.google.com with ESMTPS id y186si5153805wmy.112.2015.11.18.16.35.36
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 18 Nov 2015 16:35:36 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) client-ip=2a00:1450:400c:c09::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x22f.google.com with SMTP id w144so78266716wmw.0
+        for <kuiperhaumea@gmail.com>; Wed, 18 Nov 2015 16:35:36 -0800 (PST)
+X-Received: by 10.194.89.226 with SMTP id br2mr3623167wjb.22.1447893336727;
+        Wed, 18 Nov 2015 16:35:36 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1615010wme;
+        Wed, 18 Nov 2015 16:35:35 -0800 (PST)
+X-Received: by 10.50.65.101 with SMTP id w5mr11062086igs.3.1447893334967;
+        Wed, 18 Nov 2015 16:35:34 -0800 (PST)
+Return-Path: <thehobbit169@gmail.com>
+Received: from mail-io0-x232.google.com (mail-io0-x232.google.com. [2607:f8b0:4001:c06::232])
+        by mx.google.com with ESMTPS id 17si40558317igl.87.2015.11.18.16.35.34
+        for <Markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 18 Nov 2015 16:35:34 -0800 (PST)
+Received-SPF: pass (google.com: domain of thehobbit169@gmail.com designates 2607:f8b0:4001:c06::232 as permitted sender) client-ip=2607:f8b0:4001:c06::232;
+Received: by mail-io0-x232.google.com with SMTP id 74so72509753ioc.2
+        for <Markiewicz.john@gmail.com>; Wed, 18 Nov 2015 16:35:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=RNGoInfhV8t1FO9nHknpd3FsWsRggzeui/JT65/H51A=;
+        b=f/IXpLwm5K26bxhkeq2Ki/rOGMcoyC/37fGv2uacCTcWRdNu4Cr/QVSGbJ3mFtGre7
+         mCFmsw5JlRcvfP7AmzMZylCJFOPnZUeeZ99KV31Cm2sc+51I5lSAQF2StqQkfavy02sl
+         QI0G48lfKW/KwWv6amBxDuEZmKCsPN2ycyw5iihnYXtcV3RS3UuV0uarc9Ms0KVs9Be0
+         oHRfqVPrDgR4nnQHz0TWJ52DYplJfrRWdWLl0yfXQARR9ksB0uLbXOzFF1lwVPXRNUg8
+         c9tE/14wqoGcQwEr4NL6X07V7SGDNp1xwcWH7/Vpnt7CvJA5WMPutDU8NQFbyuoahiWg
+         ivig==
+MIME-Version: 1.0
+X-Received: by 10.107.7.24 with SMTP id 24mr6396324ioh.48.1447893332021; Wed,
+ 18 Nov 2015 16:35:32 -0800 (PST)
+Received: by 10.79.102.199 with HTTP; Wed, 18 Nov 2015 16:35:31 -0800 (PST)
+Date: Wed, 18 Nov 2015 19:35:31 -0500
+Message-ID: <CAJxAr65FxO4uXPw88MT8k+dc2q+4+D8Tb7asaE2_8yMeMn1ktQ@mail.gmail.com>
+Subject: 
+From: Samwise Parkinson <thehobbit169@gmail.com>
+To: Lukador Bernstyle <Markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113f8b82ba55de0524d9efb0
+
+--001a113f8b82ba55de0524d9efb0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+ A poem by TS Elliot in reaction to The Heart of Darkness
+
+Hollow Men
+
+We are the hollow men
+We are the stuffed men
+Leaning together
+Headpiece filled with straw. Alas!
+Our dried voices, when
+We whisper together
+Are quiet and meaningless
+As wind in dry grass
+Or rats' feet over broken glass
+In our dry cellar
+
+Shape without form <http://www.shmoop.com/hollow-men/poem-text.html#>,
+shade without colour,
+Paralysed force, gesture without motion;
+
+Those who have crossed
+With direct eyes, to death's other Kingdom
+Remember us=E2=80=94if at all=E2=80=94not as lost
+Violent souls, but only
+As the hollow men
+The stuffed men.
+
+--001a113f8b82ba55de0524d9efb0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><span style=3D"font-family:Roboto,sans-serif;font-siz=
+e:16px;line-height:22.8571px;background-color:rgb(250,248,245)">=C2=A0A poe=
+m by TS Elliot in reaction to The Heart of Darkness</span></div><div><span =
+style=3D"font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px=
+;background-color:rgb(250,248,245)">=C2=A0</span></div><div><font face=3D"R=
+oboto, sans-serif"><span style=3D"font-size:16px;line-height:22.8571px;back=
+ground-color:rgb(250,248,245)">Hollow Men</span></font></div><div><font fac=
+e=3D"Roboto, sans-serif"><span style=3D"font-size:16px;line-height:22.8571p=
+x;background-color:rgb(250,248,245)"><br></span></font></div><span style=3D=
+"font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;backgro=
+und-color:rgb(250,248,245)">We are the hollow men</span><br style=3D"font-f=
+amily:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-col=
+or:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-size=
+:16px;line-height:22.8571px;background-color:rgb(250,248,245)">We are the s=
+tuffed men</span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;=
+line-height:22.8571px;background-color:rgb(250,248,245)"><span style=3D"fon=
+t-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-=
+color:rgb(250,248,245)">Leaning together</span><br style=3D"font-family:Rob=
+oto,sans-serif;font-size:16px;line-height:22.8571px;background-color:rgb(25=
+0,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-size:16px;lin=
+e-height:22.8571px;background-color:rgb(250,248,245)">Headpiece filled with=
+ straw. Alas!</span><br style=3D"font-family:Roboto,sans-serif;font-size:16=
+px;line-height:22.8571px;background-color:rgb(250,248,245)"><span style=3D"=
+font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;backgrou=
+nd-color:rgb(250,248,245)">Our dried voices, when</span><br style=3D"font-f=
+amily:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-col=
+or:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-size=
+:16px;line-height:22.8571px;background-color:rgb(250,248,245)">We whisper t=
+ogether</span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;lin=
+e-height:22.8571px;background-color:rgb(250,248,245)"><span style=3D"font-f=
+amily:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-col=
+or:rgb(250,248,245)">Are quiet and meaningless</span><br style=3D"font-fami=
+ly:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-color:=
+rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-size:16=
+px;line-height:22.8571px;background-color:rgb(250,248,245)">As wind in dry =
+grass</span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;line-=
+height:22.8571px;background-color:rgb(250,248,245)"><span style=3D"font-fam=
+ily:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-color=
+:rgb(250,248,245)">Or rats&#39; feet over broken glass</span><br style=3D"f=
+ont-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;backgroun=
+d-color:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font=
+-size:16px;line-height:22.8571px;background-color:rgb(250,248,245)">In our =
+dry cellar</span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;=
+line-height:22.8571px;background-color:rgb(250,248,245)"><br style=3D"font-=
+family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-co=
+lor:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-siz=
+e:16px;line-height:22.8571px;background-color:rgb(250,248,245)">Shape witho=
+ut=C2=A0</span><a id=3D"PXLINK_2_0_1" class=3D"" href=3D"http://www.shmoop.=
+com/hollow-men/poem-text.html#" style=3D"color:rgb(28,125,255)!important;bo=
+rder-width:0px 0px 1px!important;border-bottom-color:rgb(28,125,255)!import=
+ant;border-bottom-style:solid!important;padding-bottom:1px!important;displa=
+y:inline!important;background-image:initial;background-color:transparent!im=
+portant;background-repeat:initial">form</a><span style=3D"font-family:Robot=
+o,sans-serif;font-size:16px;line-height:22.8571px;background-color:rgb(250,=
+248,245)">, shade without colour,</span><br style=3D"font-family:Roboto,san=
+s-serif;font-size:16px;line-height:22.8571px;background-color:rgb(250,248,2=
+45)"><span style=3D"font-family:Roboto,sans-serif;font-size:16px;line-heigh=
+t:22.8571px;background-color:rgb(250,248,245)">Paralysed force, gesture wit=
+hout motion;</span><br style=3D"font-family:Roboto,sans-serif;font-size:16p=
+x;line-height:22.8571px;background-color:rgb(250,248,245)"><br style=3D"fon=
+t-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;background-=
+color:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font-s=
+ize:16px;line-height:22.8571px;background-color:rgb(250,248,245)">Those who=
+ have crossed</span><br style=3D"font-family:Roboto,sans-serif;font-size:16=
+px;line-height:22.8571px;background-color:rgb(250,248,245)"><span style=3D"=
+font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;backgrou=
+nd-color:rgb(250,248,245)">With direct eyes, to death&#39;s other Kingdom</=
+span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;line-height:=
+22.8571px;background-color:rgb(250,248,245)"><span style=3D"font-family:Rob=
+oto,sans-serif;font-size:16px;line-height:22.8571px;background-color:rgb(25=
+0,248,245)">Remember us=E2=80=94if at all=E2=80=94not as lost</span><br sty=
+le=3D"font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;ba=
+ckground-color:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-ser=
+if;font-size:16px;line-height:22.8571px;background-color:rgb(250,248,245)">=
+Violent souls, but only</span><br style=3D"font-family:Roboto,sans-serif;fo=
+nt-size:16px;line-height:22.8571px;background-color:rgb(250,248,245)"><span=
+ style=3D"font-family:Roboto,sans-serif;font-size:16px;line-height:22.8571p=
+x;background-color:rgb(250,248,245)">As the hollow men</span><br style=3D"f=
+ont-family:Roboto,sans-serif;font-size:16px;line-height:22.8571px;backgroun=
+d-color:rgb(250,248,245)"><span style=3D"font-family:Roboto,sans-serif;font=
+-size:16px;line-height:22.8571px;background-color:rgb(250,248,245)">The stu=
+ffed men.</span><br style=3D"font-family:Roboto,sans-serif;font-size:16px;l=
+ine-height:22.8571px;background-color:rgb(250,248,245)"></div>
+
+--001a113f8b82ba55de0524d9efb0--

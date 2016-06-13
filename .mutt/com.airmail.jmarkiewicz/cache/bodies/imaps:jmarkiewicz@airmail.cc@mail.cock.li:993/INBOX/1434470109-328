@@ -1,0 +1,92 @@
+Return-Path: <cjoyce@cdeducation.org>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation_org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=w4aJi9HiMEac7V72pZvSxy6Fs2lG2La1nBQTy9a2PMI=;
+        b=IYLMXRyEVkrTgdEarxhonF5JetPi4gq+cT/jP3vIS8BtPDlOvj1IVrTpAhp+7QVbXt
+         UshlpaPkbk+VBfe5EuMU1xkJtJ+DbJsFtSdgDVx3ru4wBSJltZerEc4+l1FqYie7PakJ
+         wCiccqp0KjmatDK1+2+CxFYGP3M0W5Cy6Jpr0Avl4GvcJBrwOyVC5dftqN0tzV+/N/sE
+         oeNHenxmMqm4GpAOiTVXY52kJS+TGw20ABUXbb8bmIhHGQeYSaIQPjcirtA8mnfp2ZPx
+         y37COmWg5FZG9d+GyYeiiVZne6ZXzFoVtMjBkTO8P3KipUJmSXnjLqjYPZKsLTrpzRSg
+         sWpw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=w4aJi9HiMEac7V72pZvSxy6Fs2lG2La1nBQTy9a2PMI=;
+        b=g45iGYBHD4noOX3Hq0ygNi3/8X3DGcFpHoSV+QDauxePPyOvyL91W3bahvt3Q8os6A
+         BwQdA5Ld/JwseqJd+UJqbG1Do/gKLTKEXro0rCR7j0Yi4F05YayxGZuj/Dpu7T5H/p/I
+         HQJE94W4d5ixJPP4eYePM/yBoWgjunSwuamkMV5JFIV6N8Y99Z05GGNlZwEzsl29ErOC
+         ay2tdfQlz3DPTQicIbZIT8eQjG/K3RfMu5kON5YD7vX6rJO+jmMzD8M1Xnb/pm6tzLtx
+         YkpNrZ2TejinKaelWnC7jTZQOODxkRuyKc/icsyucepnvX6Knc0St1GgyynN0u+yOYYh
+         Qy6Q==
+X-Gm-Message-State: ALoCoQlpepop175/H9tUwYgbqMgwT9j3QOBI4cF5HFNTBiaYAnXK7rOmBrz7TE3m3OUZMJWMWUI7
+MIME-Version: 1.0
+X-Received: by 10.31.180.1 with SMTP id d1mr30341279vkf.131.1445967686408;
+ Tue, 27 Oct 2015 10:41:26 -0700 (PDT)
+Date: Tue, 27 Oct 2015 13:41:26 -0400
+Message-ID: <CAGs8aKof1+=CKJHK_7hzzeh9Ap5C+OpAe7Ed1RPbxm6Y36mDRQ@mail.gmail.com>
+Subject: Saturday Performance Canceled
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a11438b924e30d705231996d4
+
+--001a11438b924e30d705231996d4
+Content-Type: text/plain; charset=UTF-8
+
+Hello Concert Choir,
+I received word this morning that the Concert Choir will not be performing
+at the Eagle Auction because of space constrictions. Only the Mixed Choir
+and Gold Standard will be performing. This frees up a bit of your time this
+weekend.
+
+We still have rehearsal tomorrow night and a performance on Sunday.
+
+Thanks!
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a11438b924e30d705231996d4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Concert Choir,<div>I received word this morning that=
+ the Concert Choir will not be performing at the Eagle Auction because of s=
+pace constrictions. Only the Mixed Choir and Gold Standard will be performi=
+ng. This frees up a bit of your time this weekend.=C2=A0</div><div><br></di=
+v><div>We still have rehearsal tomorrow night and a performance on Sunday.<=
+/div><div><br></div><div>Thanks!<br clear=3D"all"><div><div class=3D"gmail_=
+signature"><div dir=3D"ltr"><div><div style=3D"margin:0in 0in 0pt"><b><span=
+ style=3D"font-size:14pt"><font color=3D"#000000" face=3D"Calibri">Christen=
+ Joyce</font></span></b></div><font color=3D"#000000" face=3D"Times New Rom=
+an" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"col=
+or:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">Choral Director</font>=
+</span></b></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3">=
+</font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,4=
+4)"><font face=3D"Calibri" size=3D"3"><span><font color=3D"#830b2c">Bishop<=
+/font></span> <span><font color=3D"#830b2c">Watterson</font></span> High Sc=
+hool</font></span></b></p><font color=3D"#000000" face=3D"Times New Roman" =
+size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><span><font color=3D"#000=
+000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%28614%29%20268-8671" value=
+=3D"+16142688671" target=3D"_blank"><font color=3D"#1155cc">(614) 268-8671<=
+/font></a> x 289</font></span></p><font color=3D"#000000" face=3D"Times New=
+ Roman" size=3D"3"></font><div style=3D"margin:0in 0in 0pt"><span style=3D"=
+color:rgb(131,11,44)"><a href=3D"http://www.bishopwatterson.com/" target=3D=
+"_blank"><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=
+=3D"3">www.bishopwatterson.com</font></span></a></span></div><div style=3D"=
+margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><img width=3D"420"=
+ height=3D"151" src=3D"https://docs.google.com/uc?export=3Ddownload&amp;id=
+=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2=
+ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div></div></div></div><div dir=
+=3D"ltr"><div></div></div></span></div></div></div></div></div>
+</div></div>
+
+--001a11438b924e30d705231996d4--

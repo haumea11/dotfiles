@@ -1,0 +1,245 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.88 with SMTP id b85csp908610oig;
+        Thu, 15 Oct 2015 16:06:23 -0700 (PDT)
+X-Received: by 10.112.210.129 with SMTP id mu1mr6392004lbc.68.1444950383673;
+        Thu, 15 Oct 2015 16:06:23 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-lf0-x233.google.com (mail-lf0-x233.google.com. [2a00:1450:4010:c07::233])
+        by mx.google.com with ESMTPS id yo3si670050lbb.92.2015.10.15.16.06.23
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 15 Oct 2015 16:06:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:4010:c07::233 as permitted sender) client-ip=2a00:1450:4010:c07::233;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:4010:c07::233 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-lf0-x233.google.com with SMTP id h64so17395708lfe.3
+        for <kuiperhaumea@gmail.com>; Thu, 15 Oct 2015 16:06:23 -0700 (PDT)
+X-Received: by 10.194.191.161 with SMTP id gz1mr6791039wjc.0.1444950383367;
+        Thu, 15 Oct 2015 16:06:23 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.78 with SMTP id w75csp891655wmw;
+        Thu, 15 Oct 2015 16:06:22 -0700 (PDT)
+X-Received: by 10.50.73.98 with SMTP id k2mr1824950igv.96.1444950382412;
+        Thu, 15 Oct 2015 16:06:22 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o8.mx.technolutions.net (o8.mx.technolutions.net. [198.37.152.137])
+        by mx.google.com with ESMTPS id cr8si1180539igb.1.2015.10.15.16.06.21
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 15 Oct 2015 16:06:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.152.137 as permitted sender) client-ip=198.37.152.137;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=s1; 
+	bh=d/LaQ+g0R+2f85ASh80igWqVov4=; b=XxWE5nInIZTS42I9jvEBN45RuC0n4
+	+BRpbT8UjAsSTmyrlFi3uf9eXYFDijYRB8LXExhoau7qC9lSHSnFVvAb2uva0FFx
+	bJVTBQqKnwnCIISDHMwKlaVqZyQqmHahyzkwaOtbw0CWCw3aryOgEyrLoIt1HtZA
+	Y8M3Kws4y3SASM=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=d/LaQ+g0R+2f85ASh80igWqVov4=; b=O7hXt0EWVi5BpFOBx3Y4QSU3Lxm5l
+	GkpBzZPzACK5hW2wQ/QnluTl689oz2rZ1MHte7GwR2SzgASe8jDpyW07q0GMOkTV
+	7nfbm293zhHkurGMvmWn34mucZdKUWDB6XvRxOmmgwmcFsJ0zee0eQtnOzpiPygz
+	nKbkkT7zUz7aOg=
+Received: by filter0429p1mdw1.sendgrid.net with SMTP id filter0429p1mdw1.22246.5620316D16
+        2015-10-15 23:06:21.143492423 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id CfJm6Qt2QTqRDGmW2_TIfw
+	for <markiewicz.john@gmail.com>; Thu, 15 Oct 2015 23:06:21.026 +0000 (UTC)
+Reply-To: "Caltech" <ugadmissions@caltech.edu>
+From: "Caltech" <ugadmissions@caltech.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Testing requirements for Caltech
+Date: Thu, 15 Oct 2015 23:06:08 +0000
+Message-ID: <1bb68c3a-6719-4101-933a-92ce0e87a974@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_a4a3b865-2745-4de5-906c-320630c5fc82"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuFMc5ASJn74/T7pK8MOPx74bATOIUEukRvJS9
+ lpR1c+wp6OUExQKfCWyylOn8WtukDV2ys1oAtiAu+Lu/XwBb27yzyWO5MK0pn65ItT3bArKa3VwLNh
+ oeyaS87qMHV82cMVv0143sYt8tzoYwGe3EUf
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegFgPbzzukeyytlIcIGkYirdZ1gOP2KsYxfVjYsc6LTnrzk160a5zrh8Vy+
+ siOIdmzE5ddHM3jF1hp89bWLXEnOsAIeqPGM9cvbsqgWWrUzcPyy5UtRdXTswV3gORu+LIDhn9p9xv
+ +9cRKxxHIbE45ePsT1uPCLm1sX71JyfGrv8z0H/Y7lJhc2mt7/WUUeLE3UqZ2BZRYK5KcsEwRSack+
+ nPB6wRiWgJYX40L3lCS6Jp
+
+------=_0_a4a3b865-2745-4de5-906c-320630c5fc82
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Remember that all exams must be completed by the application deadlinesJohn,
+
+As you prepare your freshman admission application to Caltech, I would like=
+ to remind you about the testing requirements for a complete application <h=
+ttp://www.admissions.caltech.edu/content/how-apply-first-year-applicant>:
+
+	 SAT with writing or ACT with writing; and
+	 SAT Subject Test in Mathematics Level 2; and
+	 1 SAT Science Subject Test: Biology (Ecological), Biology (Molecular), Ch=
+emistry, or Physics
+
+All required tests must be completed prior to November 1 for Early Action o=
+r January 3 for Regular Decision <http://www.admissions.caltech.edu/content=
+/deadlines-and-forms-first-year-applicants>. Exams taken after our applicat=
+ion deadlines will not be considered.
+
+For Regular Decision applicants, the last eligible test dates for SAT <http=
+s://sat.collegeboard.org/register/sat-us-dates> and SAT Subject Test <https=
+://sat.collegeboard.org/register/sat-subject-test-dates> exams are November=
+ 7 and December 5. Note: Only late registration is available for the Novemb=
+er 7 test date. The last eligible test date for the ACT exam is December 12=
+ <http://www.actstudent.org/regist/dates.html>. Additionally, international=
+ applicants must also submit TOEFL scores <https://www.ets.org/bin/getprogr=
+am.cgi?test=3Dtoefl>.
+
+If you have any questions about our application process, I encourage you to=
+ review our website <http://www.admissions.caltech.edu/content/admissions-p=
+rocess-first-year-applicants>, check out our FAQs <http://www.admissions.ca=
+ltech.edu/content/faq-first-year-applicants>, or email ugadmissions@caltech=
+.edu <mailto:ugadmissions@caltech.edu>. We look forward to reviewing your a=
+pplication soon!
+
+Sincerely,
+
+
+Jarrid J. Whitney
+Executive Director of Admissions and Financial Aid
+Caltech
+
+
+
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by Caltech.
+Unsubscribe from Caltech. <https://apply.caltech.edu/go?r=3Doptout&mid=3D1b=
+b68c3a-6719-4101-933a-92ce0e87a974>=
+
+------=_0_a4a3b865-2745-4de5-906c-320630c5fc82
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+@media only screen and (max-width: 480px) { table, img { width: 100% !impor=
+tant; height: auto !important; } }
+.preheader { display:none !important; visibility:hidden; opacity:0; color:t=
+ransparent; height:0; width:0; }
+/**/
+</style>
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;"><span class=3D"preheader" style=3D"display: none !important; visibilit=
+y: hidden; opacity: 0; color: transparent; height: 0; width: 0;">Remember t=
+hat all exams must be completed by the application deadlines</span><table a=
+lign=3D"center" border=3D"1" cellpadding=3D"10" cellspacing=3D"0" height=3D=
+"56" width=3D"500"><tbody><tr><td><p style=3D"text-align: center;"><img alt=
+=3D"" style=3D"width: 215px; height: 51px;" height=3D"51" width=3D"215" src=
+=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu?-bgWTcF616sU-i5vVrdHNwwKigz=
+_j51_jw5g2-ENKHp1u7XfG99l8ww71kSDfq0IfibdDKQNIYV6qz5t4xIn7MlW2NS0fRiDh8KWA_=
+ksiym7IaXtlrLWz07XyM6C6RvRd5kGATYHVr9U1zBsOsUp-w" /></p><hr /><p><span styl=
+e=3D"font-size:15px;"><span style=3D"font-family: arial,helvetica,sans-seri=
+f;">John,</span></span></p><p><span style=3D"font-size:15px;"><span style=
+=3D"font-family: arial,helvetica,sans-serif;">As you prepare your freshman =
+admission application to Caltech, I would like to remind you about the <a h=
+ref=3D"http://mx.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8=
+y1FubQ/h0/aRlaq5etK8j91steTTcEQO0TB6dVD95uICJElqUwbNWzlFUXODjUNIqf-2BheSPwf=
+B2tqN-2BxGBWovY0HCyAxiZ-2FWu7xTV7vBJDGT45FtoXgto-3D" target=3D"_blank">test=
+ing requirements for a complete application</a>:</span></span></p><ul><li><=
+span style=3D"font-size:15px;"><span style=3D"font-family: arial,helvetica,=
+sans-serif;">SAT with writing <strong><u>or</u></strong> ACT with writing; =
+<strong><u>and</u></strong></span></span></li><li><span style=3D"font-size:=
+15px;"><span style=3D"font-family: arial,helvetica,sans-serif;">SAT Subject=
+ Test in Mathematics Level 2; <strong><u>and</u></strong></span></span></li=
+><li><span style=3D"font-size:15px;"><span style=3D"font-family: arial,helv=
+etica,sans-serif;">1 SAT Science Subject Test: Biology (Ecological), Biolog=
+y (Molecular), Chemistry, <u>or</u> Physics</span></span></li></ul><p><span=
+ style=3D"font-size:15px;"><span style=3D"font-family: arial,helvetica,sans=
+-serif;">All required tests must be completed prior to <a href=3D"http://mx=
+.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h1/aRlaq5=
+etK8j91steTTcEQO0TB6dVD95uICJElqUwbNWN7OUleivLaOY5mdwqxVEoerDieaOcCZrR6qOID=
+wXjClhA-2FeSD7Zelkz-2FWjYVF7zdabqUsY2itFZ0JrReKU0Yi" target=3D"_blank">Nove=
+mber 1 for Early Action or January 3 for Regular Decision</a>. <strong>Exam=
+s taken after our application deadlines will not be considered.</strong></s=
+pan></span></p><p><span style=3D"font-size:15px;"><span style=3D"font-famil=
+y: arial,helvetica,sans-serif;">For Regular Decision applicants, the last e=
+ligible <a href=3D"http://mx.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQ=
+vt6gQpCZScA8y1FubQ/h2/1ZL59ZRxotZUW6as8J7MaRTfmLFMz1pYRu648u8R1nSNqWPRhnUVN=
+fs8iApTVLT5fz7G39FfzTtO1A-2FeXlfB2g-3D-3D" target=3D"_blank">test dates for=
+ <strong>SAT</strong></a> and <a href=3D"http://mx.technolutions.net/mpss/c=
+/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h3/1ZL59ZRxotZUW6as8J7MaRTfmLFMz1p=
+YRu648u8R1nRxwT-2FOxkfQRpnca118x5apDjctTJnb-2BG-2BNIZcnGqMJuA-3D-3D" target=
+=3D"_blank"><strong>SAT Subject Test</strong></a> exams are November 7 and =
+December 5. <em>Note: Only late registration is available for the November =
+7 test date</em>. The last eligible test date for the <a href=3D"http://mx.=
+technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h4/-2FKllM=
+ZW5Nk7MNrnbiHj7TPFV2wQ-2F9nA8TDyzI-2BCyXQlfpYOeavW4-2FOcN4a-2BpYh2A" target=
+=3D"_blank"><strong>ACT exam</strong> is December 12</a>. Additionally, int=
+ernational applicants must also submit <a href=3D"http://mx.technolutions.n=
+et/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h5/TBu4tvNJ2CqiOlGRouGace=
+R8mfJC9DIZ-2B-2BM3KMs1qL-2FmbH5V8ptq6WqCcI0v6aX-2B7lbsvDQPwsZJTVqsdLquDA-3D=
+-3D" target=3D"_blank">TOEFL scores</a>.</span></span></p><p><span style=3D=
+"font-size:15px;"><span style=3D"font-family: arial,helvetica,sans-serif;">=
+If you have any questions about our application process, I encourage you to=
+ <a href=3D"http://mx.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpC=
+ZScA8y1FubQ/h6/aRlaq5etK8j91steTTcEQO0TB6dVD95uICJElqUwbNXcFWuwKX5rhBOi0pDQ=
+sqMW6v3KbHc1gIck-2B0j6n0ZnL8JzNGuVgO-2Bmx8eg7J4GDI7ZxrXkFCsIbiTLmXfZa7r5" t=
+arget=3D"_blank">review our website</a>, check out our <a href=3D"http://mx=
+.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h7/aRlaq5=
+etK8j91steTTcEQO0TB6dVD95uICJElqUwbNUoeJRZkRozH4kAIr-2FNhqUSsWQyI5lc8PMS-2F=
+vXU-2F7wyMpOkQn696NBecLnLcRdOd-2FY-3D">FAQs</a>, or email <a href=3D"mailto=
+:ugadmissions@caltech.edu" target=3D"_blank">ugadmissions@caltech.edu</a>. =
+We look forward to reviewing your application soon!</span></span></p><table=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"500"><tbody><tr><td width=3D"=
+434"><p style=3D"font-size:15px;"><span style=3D"font-family: arial,helveti=
+ca,sans-serif;">Sincerely,</span></p><p style=3D"font-size:15px;"><span sty=
+le=3D"font-family: arial,helvetica,sans-serif;"><img alt=3D"Jarrid Whitney"=
+ style=3D"width: 150px;" width=3D"150" src=3D"https://d2y48w7m6jzhpb.cloudf=
+ront.net/fw/eu?-bgWTcF616sU-i5vVrdHNwwKigz_j51_jw5g2-ENKHp1u7XfG99l8ww71kSD=
+fq0IfibdDKQNIYU2BSC2TIbgWwL16tmLyLLvl8NsPT-Q_7cXRhq-Wg7pSJ7c37fX85NcVpLx0qv=
+ZRS4" /><br />
+Jarrid J. Whitney<br />
+Executive Director of Admissions and Financial Aid<br />
+Caltech</span><br />
+&nbsp;</p></td><td width=3D"17">&nbsp;</td><td valign=3D"top" width=3D"47">=
+&nbsp;</td></tr></tbody></table><hr /><img id=3D"_x0000_i1029" name=3D"_x00=
+00_i1029" style=3D"border: 0px solid currentColor;" width=3D"500" src=3D"ht=
+tps://d2y48w7m6jzhpb.cloudfront.net/fw/eu?-bgWTcF616sU-i5vVrdHNwwKigz_j51_j=
+w5g2-ENKHp1u7XfG99l8ww71kSDfq0IfibdDKQNIYUaAvI3KqEMjux01jkoQB1Puf2jyV4lIJFi=
+xWkqZGQFaw" /></td></tr></tbody></table></div></font><br /><table align=3D"=
+center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity:=
+ 0.75; clear: both; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0"=
+ width=3D"650"><tr><td align=3D"center"><font color=3D"#333333" face=3D"Ari=
+al, Helvetica, sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This=
+ email was sent to markiewicz.john@gmail.com by Caltech.<br /><a href=3D"ht=
+tp://mx.technolutions.net/mpss/c/3gA/YUYIAA/t.1ra/41tQvt6gQpCZScA8y1FubQ/h8=
+/-2FVswPFoeJpXB0RNpGByTGN1r0Sql-2F55xmydQQyBz8cLJoyJA7tnNaYrhtjRnvn-2FQFnZL=
+o5KlDmIYN6eUrVzVImssNU0uf33enHxol5-2BTShk-3D">Unsubscribe</a> from Caltech.=
+</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/mpss/o/3gA/YUYIAA/t.1ra/41tQvt6gQpC=
+ZScA8y1FubQ/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_a4a3b865-2745-4de5-906c-320630c5fc82--

@@ -1,0 +1,237 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp2306092oia;
+        Tue, 3 Nov 2015 04:10:24 -0800 (PST)
+X-Received: by 10.28.146.139 with SMTP id u133mr19514780wmd.29.1446552624463;
+        Tue, 03 Nov 2015 04:10:24 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x232.google.com (mail-wm0-x232.google.com. [2a00:1450:400c:c09::232])
+        by mx.google.com with ESMTPS id xt8si31685537wjb.197.2015.11.03.04.10.24
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Nov 2015 04:10:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) client-ip=2a00:1450:400c:c09::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::232 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wm0-x232.google.com with SMTP id l128so77951293wml.0
+        for <kuiperhaumea@gmail.com>; Tue, 03 Nov 2015 04:10:24 -0800 (PST)
+X-Received: by 10.28.132.69 with SMTP id g66mr18126112wmd.69.1446552624058;
+        Tue, 03 Nov 2015 04:10:24 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.3 with SMTP id w3csp1780211wmw;
+        Tue, 3 Nov 2015 04:10:23 -0800 (PST)
+X-Received: by 10.182.85.165 with SMTP id i5mr18818957obz.69.1446552623131;
+        Tue, 03 Nov 2015 04:10:23 -0800 (PST)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o3.mx.technolutions.net (o3.mx.technolutions.net. [167.89.25.12])
+        by mx.google.com with ESMTPS id f189si14252962oib.121.2015.11.03.04.10.22
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Nov 2015 04:10:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 167.89.25.12 as permitted sender) client-ip=167.89.25.12;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=s1; 
+	bh=I4llK0Ev9Fx3dzTjG5vBkPu9hy0=; b=ky6/ACzi1Y5XQAE97SdUNk6LFtkdJ
+	zs8YpZW3ypYmVk1dbLy8jEiHjdcrbCCWxUIleCaNiSL+Kzk0IOzU/TpZuZwPJF15
+	eg66jlsPz5oKzACnaSmarKX63NIbDJ3RXEmH/LMJW2kzWplE0PuOIhenJ60XwbtR
+	Wy9aU/wzjbRF3I=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=reply-to:from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=I4llK0Ev9Fx3dzTjG5vBkPu9hy0=; b=QvUblOtbndCd3eq74qhO2T25dd7BH
+	A1UTCrGDrUglm7i2RtKgdhOWXDrC8vtH95aEC8c/q84QzbU7z0hCK/hnMsTSnP3y
+	weKSJAAlF9EZy575XZqgbZshCgB9oXnccuCPBBlIkKCTmzEebaDGftbaSHN0H28M
+	1oCmXamVn0Hhgk=
+Received: by filter0571p1mdw1.sendgrid.net with SMTP id filter0571p1mdw1.22471.5638A41F46
+        2015-11-03 12:10:07.58108674 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with ESMTP id J3e0CZ61QMG9wvUwgagYiw
+	for <markiewicz.john@gmail.com>; Tue, 03 Nov 2015 12:10:07.575 +0000 (UTC)
+Reply-To: <admission@fandm.edu>
+From: "Franklin & Marshall College" <admission@fandm.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Why Wait?
+Date: Tue, 03 Nov 2015 12:10:03 +0000
+Message-ID: <37fbd388-6847-4a16-9daf-f24cf58ed0d7@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_0016a3dc-ceb2-431f-a71c-e2d9439474be"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuEl8jDdtJTOXH4V0QHvvMQlgVsecjffGqOBgX
+ +v6a2WBFI0NlJKqxauP0+YmaqExaUBlXX3+qVeX4jwoPFsIze6wptGdpVktDqz1NrX2QSEvNd6de9A
+ YCddUEy/o++DnjjQIwcu4wWkYm1KjQZDhy8r
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegBfQxxLLjvAOxtfBnsKkVMNH3vlil5YGJQNHUg3+dFSqHhDYOoNUEKz59a
+ +f/CduhhwGx22VufVPY7pSlTJMXXawxf36+eRYjQwaZVvQaEmnC2yuoY0XUpFqeby4MIShoHxld323
+ FvRSJ0Qc+N1bi07RPd3AgrUGbyjBv9f75LUepQpFO95w4dQOXQ1wFx615PBGUEZwkeGcmOVJxpa+gp
+ ZEmnVCRRau7f2aG7hdIThB
+
+------=_0_0016a3dc-ceb2-431f-a71c-e2d9439474be
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,
+
+Franklin & Marshall values students who choose us first. We know they are o=
+ften some of the most engaged, enthusiastic contributors to campus life.
+
+Our Early Decision deadlines are:
+
+EARLY DECISION I: NOVEMBER 15, 2015
+EARLY DECISION II: JANUARY 15, 2016
+
+Applying to F&M <http://www.fandm.edu/apply> through Early Decision is a gr=
+eat opportunity if you have:
+
+- Completed a thorough college search
+- Discussed the future with your parents and guidance counselors
+- Researched the financial aid process
+- Decided that Franklin & Marshall is clearly your first choice
+
+Not interested in applying Early Decision? Our Regular Decision deadline is=
+ JANUARY 15, 2016.
+
+
+
+
+
+
+Take advantage of the Early Decision program at Franklin & Marshall. Questi=
+ons? Call or email us at:
+
+1-877-678-9111 or ADMISSION@FANDM.EDU <mailto:ADMISSION@FANDM.EDU>
+
+...
+
+
+
+
+=C2=A9 Franklin & Marshall College
+
+
+This email was sent to markiewicz.john@gmail.com by Franklin & Marshall Col=
+lege.
+Unsubscribe from Franklin & Marshall College. <https://apply.fandm.edu/go?r=
+=3Doptout&mid=3D37fbd388-6847-4a16-9daf-f24cf58ed0d7>=
+
+------=_0_0016a3dc-ceb2-431f-a71c-e2d9439474be
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;!--
+
+body {background-color: #e3e1e5}
+a:link {color: #008cf2; font-weight: bold; font-family: 'Helvetica Neue', A=
+rial, Helvetica, Verdana, sans-serif;TEXT-DECORATION: none;}
+a:visited {color: #00f;}
+a:hover {TEXT-DECORATION: underline;}
+
+--&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;
+/**/
+</style>
+</head>
+<body style=3D"background: none repeat scroll 0% 0% #e3e1e5;"><style>@media=
+ only screen and (max-width: 660px) { .deliver_unsubscribe { width: 100%; }=
+ }</style><font face=3D"Times New Roman, Times, serif" size=3D"3"><div styl=
+e=3D"font-family: Times New Roman, Times, serif; font-size: 12pt;"><table w=
+idth=3D"100%"><tbody><tr><td align=3D"center" style=3D"background-color: #e=
+3e1e5;"><div align=3D"center"><table bgcolor=3D"#E3E1E5" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"780"><tbody><tr><td><img alt=3D"" s=
+tyle=3D"width: 780px; height: 276px;" height=3D"276" width=3D"780" src=3D"h=
+ttps://fw.cdn.technolutions.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_uFm8c=
+FoiugIo9HBVrEx4U1m9UgDsVJyRrfq-aau3l2PbBwLksrUuO3nL4DDIYezcymT_TGz4fgNcKHMF=
+P3FZhr7Ynpfgw3Wo/ydC--ajwMwBCtnxuYWvg2z8M0lGEy4Yk" /></td></tr><tr><td><tab=
+le bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"780"><tbody><tr><td bgcolor=3D"#FFFFFF" valign=3D"top" width=3D"530">=
+<table border=3D"0" cellpadding=3D"40" cellspacing=3D"0" width=3D"530"><tbo=
+dy><tr><td align=3D"left" valign=3D"top" width=3D"450"><p style=3D"font-siz=
+e: 16px; line-height: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin=
+-left: 0pt; font-family: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-seri=
+f; color: #00315e; font-weight: normal;">Dear John,</p><p style=3D"font-siz=
+e: 16px; line-height: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin=
+-left: 0pt; font-family: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-seri=
+f; color: #00315e; font-weight: normal;">Franklin &amp; Marshall values stu=
+dents who choose us first. We know they are often some of the most engaged,=
+ enthusiastic contributors to campus life.</p><p style=3D"font-size: 16px; =
+line-height: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin-left: 0p=
+t; font-family: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-serif; color:=
+ #00315e; font-weight: normal;">Our Early Decision deadlines are:</p><p sty=
+le=3D"font-size: 16px; line-height: 22px; margin-right: 0pt; margin-bottom:=
+ 1.5em; margin-left: 0pt; font-family: 'Helvetica Neue',Arial,Helvetica,Ver=
+dana,sans-serif; color: #00315e; font-weight: normal;">EARLY DECISION I: NO=
+VEMBER 15, 2015<br />
+EARLY DECISION II: JANUARY 15, 2016</p><p style=3D"font-size: 16px; line-he=
+ight: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin-left: 0pt; font=
+-family: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-serif; color: #00315=
+e; font-weight: normal;"><a href=3D"http://mx.technolutions.net/mpss/c/2wA/=
+YUYIAA/t.1rt/PGxTJxv1TLKd9uF9HUsXuQ/h0/s321gWu61WUGPE2vm1En2PwbyEOEc8A68665=
+xSWhE9Q-3D">Applying to F&amp;M</a> through Early Decision is a great oppor=
+tunity if you have:</p><p style=3D"font-size: 16px; line-height: 22px; marg=
+in-right: 0pt; margin-bottom: 1.5em; font-family: 'Helvetica Neue', Arial, =
+Helvetica, Verdana, sans-serif; color: rgb(0, 49, 94); font-weight: normal;=
+">- Completed a thorough college search<br /><span style=3D"color: rgb(0, 4=
+9, 94); font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, sans-seri=
+f; font-size: 16px; line-height: 22px; background-color: rgb(255, 255, 255)=
+;">- Discussed the future with your parents and guidance counselors<br />
+- Researched the financial aid process<br />
+- Decided that Franklin &amp; Marshall is clearly your first choice</span><=
+/p><p style=3D"font-size: 16px; line-height: 22px; margin-right: 0pt; margi=
+n-bottom: 1.5em; font-family: 'Helvetica Neue', Arial, Helvetica, Verdana, =
+sans-serif; color: rgb(0, 49, 94); font-weight: normal;"><em><span style=3D=
+"color: rgb(0, 49, 94); font-family: 'Helvetica Neue', Arial, Helvetica, Ve=
+rdana, sans-serif; font-size: 16px; line-height: 22px; background-color: rg=
+b(255, 255, 255);">Not interested in applying Early Decision? <strong>Our R=
+egular Decision deadline is JANUARY 15, 2016.</strong></span></em></p></td>=
+</tr><tr><td align=3D"left" valign=3D"top" width=3D"450">&nbsp;</td></tr></=
+tbody></table></td><td align=3D"left" valign=3D"top" width=3D"250"><p>&nbsp=
+;</p><table align=3D"center" border=3D"0" cellpadding=3D"10" cellspacing=3D=
+"0" width=3D"220"><tbody><tr><td align=3D"left" bgcolor=3D"#B6D9EA" valign=
+=3D"top" width=3D"200"><p style=3D"font-size: 16px; line-height: 22px; marg=
+in-right: 0pt; margin-bottom: 1.5em; margin-left: 0pt; font-family: 'Helvet=
+ica Neue',Arial,Helvetica,Verdana,sans-serif; color: #00315e; font-weight: =
+normal;">Take advantage of the Early Decision program at Franklin &amp; Mar=
+shall. Questions? Call or email us at:</p><p style=3D"font-size: 16px; line=
+-height: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin-left: 0pt; f=
+ont-family: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-serif; color: #00=
+315e; font-weight: normal;">1-877-678-9111 or <a href=3D"mailto:ADMISSION@F=
+ANDM.EDU">ADMISSION@FANDM.EDU</a></p><p style=3D"font-size: 16px; line-heig=
+ht: 22px; margin-right: 0pt; margin-bottom: 1.5em; margin-left: 0pt; font-f=
+amily: 'Helvetica Neue',Arial,Helvetica,Verdana,sans-serif; color: #00315e;=
+ font-weight: normal;text-align:center;">...</p></td></tr></tbody></table><=
+/td></tr></tbody></table></td></tr><tr><td valign=3D"top"><table align=3D"c=
+enter" bgcolor=3D"#002748" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%"><tbody><tr><td align=3D"center" style=3D"font-family: 'Helvetica Neue',A=
+rial,Helvetica,Verdana,sans-serif; font-size: 12px; line-height: 16px; colo=
+r: #ffffff; padding-top: 10px; padding-bottom: 10px;">&#169; Franklin &amp;=
+ Marshall College</td></tr></tbody></table></td></tr></tbody></table></div>=
+</td></tr></tbody></table></div></font><br /><table align=3D"center" bgcolo=
+r=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75; clear: =
+both; margin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=3D"650"=
+><tr><td align=3D"center"><font color=3D"#333333" face=3D"Arial, Helvetica,=
+ sans-serif" size=3D"1"><span style=3D"font-size: 11px;">This email was sen=
+t to markiewicz.john@gmail.com by Franklin &amp; Marshall College.<br /><a =
+href=3D"http://mx.technolutions.net/mpss/c/2wA/YUYIAA/t.1rt/PGxTJxv1TLKd9uF=
+9HUsXuQ/h1/LbFC3aHxZuNsXO7CGNx7tnW-2BMTyZR-2BMV5bwUhrDKgCSlpaQ7vXsUdXVzIdFh=
+O13Xcw-2FzgvJbTjRFO8kAXvRz6RDEYwBh6a4goN1Fm6mi6KU-3D">Unsubscribe</a> from =
+Franklin &amp; Marshall College.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/mpss/o/2wA/YUYIAA/t.1rt/PGxTJxv1TLK=
+d9uF9HUsXuQ/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_0016a3dc-ceb2-431f-a71c-e2d9439474be--

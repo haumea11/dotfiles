@@ -1,0 +1,332 @@
+Return-Path: <do-not-reply@wikispaces.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=wikispaces.com; h=
+	mime-version:content-type:date:from:to:subject:message-id; s=
+	selector1; bh=VCvW4rNOSK7fw+MheTiB13iQDzg=; b=KGKJzhmiNYckGvP5d1
+	PGFCyBecOUSSz5Eycj9U9kPrxCEHYA6ZEiE2q1arX7d1izFYj4zgDhX5+0lcYYSG
+	9cViVmG6l0cvAhbtpwQM9Dr66MMeYKX+uEPyY/qzFy7LvnmKgtTcsm3ZXCbXI7TR
+	KLliVydAVYdWYcGmF7T+CfhJc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=wikispaces.com; h=
+	mime-version:content-type:date:from:to:subject:message-id; q=
+	dns; s=selector1; b=p33NpdaQbc2swJtsi2MB2304BrGxe8hoKTjy9H4oERXp
+	Io6Z1bpvkXdXdIeHWHBjiE2sg5lo8au16qKupd/pWDT7twJ7dSQ6CMyppYc3faq+
+	cHtp+RRP5RMJrJ3yy61tSwyJ4EeP5gug7W7Lo6T6/9hIBMoh4lB3PPpTLjpvhOQ=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_47451775b733c61e062959e7f5e7bb97"
+Date: Fri, 04 Sep 2015 18:32:22 +0000
+From: "Wikispaces" <do-not-reply@wikispaces.com>
+X-Wikispaces-Template: invite
+To: jmarkiewicz@airmail.cc
+Subject: You have been invited to the CalculusBC2015-2016 wiki
+Message-Id: <20150904183222.222C82500267@w20.wikispaces.com>
+
+--=_47451775b733c61e062959e7f5e7bb97
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+
+
+** CalculusBC2015-2016 Membership **
+
+** You've been Added **
+
+dmarchi19 has added you to the "CalculusBC2015-2016" wiki.
+To join the wiki, please visit:
+https://www.wikispaces.com/t/c/OKeHwjfH2IBL4BTCFzXPy
+
+
+Below is a message from dmarchi19:
+
+Invitation to join the AP Calculus BC wiki page
+
+** Getting Started Tips **
+Watch our tours to learn the basics of working in Wikispaces:
+http://www.wikispaces.com/content/wiki-tour
+
+** Need assistance? **
+Contact us at help@wikispaces.com
+
+Thanks,
+The Wikispaces Team
+help@wikispaces.com
+
+--=_47451775b733c61e062959e7f5e7bb97
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=utf-8
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;charset=3Dutf-8" />
+<style type=3D"text/css" media=3D"screen">
+  /* common
+  --------------------------------------------------*/
+
+  body {
+    margin: 0px;
+    padding: 0px;
+    color: #333;
+    background: #fff;
+  }
+  #BodyImposter {
+    color: #333;
+    background: #fff;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+  }
+  #BodyImposter li,
+  #BodyImposter p,
+  #BodyImposter th,
+  #BodyImposter td {
+    font-size: 12px;
+    line-height: 1.5em;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: left;
+  }
+  #BodyImposter p,
+  #BodyImposter ol,
+  #BodyImposter ul {
+    margin: 0em 0em 1em 0em;
+  }
+  #BodyImposter img {
+    border: 0px;
+  }
+  #Primary img {
+    float: right;
+    margin: 5px 0px 15px 15px;
+    border: 1px solid #666;
+    padding: 6px;
+  }
+  #BodyImposter small {
+    font-size: 10px;
+    line-height: 1.3em;
+  }
+  #BodyImposter ol {
+    padding-left: 1em;
+  }
+  #Primary ul {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  #Secondary ul {
+    padding: 0px;
+  }
+  #BodyImposter ol li {
+    margin: 0px;
+    padding: 0px;
+  }
+  #BodyImposter ul li {
+    padding: 0px 0px 0px 8px;
+    margin: 0px;
+    list-style: disc;
+  }
+
+  /* links
+  --------------------------------------------------*/
+
+  #BodyImposter a {
+    color: #24c;
+    background: #fff;
+    text-decoration: underline;
+  }
+  #Masthead a:link,
+  #Masthead a:visited,
+  #Primary a:link,
+  #Primary a:visited,
+  #Secondary a:link,
+  #Secondary a:visited {
+    color: #24c;
+    background: #fff;
+  }
+  #Helpful a:link,
+  #Helpful a:visited,
+  #Legal a:link,
+  #Legal a:visited {
+    color: #999;
+    background: transparent;
+  }
+  #BodyImposter a:active {
+    text-decoration: none;
+  }
+
+  /* heads
+  --------------------------------------------------*/
+
+  #BodyImposter h1,
+  #BodyImposter h2,
+  #BodyImposter h3 {
+    color: #060;
+    background: #fff;
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bold;
+    line-height: normal;
+    margin: 0em 0em 0.5em 0em;
+    padding: 0px;
+    text-align: left;
+  }
+  #BodyImposter h1.special,
+  #BodyImposter h2.special,
+  #BodyImposter h3.special {
+    color: #d62;
+  }
+  #Masthead h1 {
+    font-size: 24px;
+    color: #000;
+    background: #fff;
+    margin: 0px;
+  }
+  #Primary h2 {
+    font-size: 22px;
+  }
+  #Primary h3 {
+    font-size: 18px;
+  }
+  #Secondary h3 {
+    font-size: 16px;
+  }
+
+  /* boxes
+  --------------------------------------------------*/
+
+  #Box {
+    color: #333;
+    background: #fff;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0px auto;
+  }
+  #Content td#Primary {
+    padding-left: 10px;
+  }
+  #Content td#Secondary {
+    padding-right: 10px;
+  }
+  #Helpful,
+  #Legal {
+    color: #999;
+    margin: 0px auto;
+  }
+  #Helpful p,
+  #Legal p {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+  }
+  #Masthead {
+    color: #000;
+    background: #fff;
+  }
+  #Masthead h1,
+  #Masthead p {
+    text-align: left;
+  }
+  #Masthead p {
+    font-size: 14px;
+    margin: 0px;
+  }
+  #Masthead {
+    width: 100%;
+    text-align: center;
+  }
+  .insert {
+    background-color: #AFA;
+    color: #080;
+    text-decoration: inherit;
+  }
+  .delete {
+    background-color: #F88;
+    color: #800;
+    text-decoration: inherit;
+  }
+</style>
+</head>
+
+<body>
+<div id=3D"BodyImposter" style=3D"color: #333; background-color: #fff;">
+
+  <table id=3D"Helpful" cellspacing=3D"0" cellpadding=3D"15" width=3D"610">
+    <tr>
+      <td style=3D"font-family: Helvetica, Arial, sans-serif; color: #999;"=
+>
+        <p></p>
+      </td>
+    </tr>
+  </table>
+
+  <table id=3D"Box" cellspacing=3D"0" cellpadding=3D"15" width=3D"580" styl=
+e=3D"color: #333; background-color: #fff;">
+    <tr>
+      <td>
+
+        <table id=3D"Masthead" cellspacing=3D"0" cellpadding=3D"10" width=
+=3D"560">
+          <tr>
+            <td style=3D"color: #000; background: #fff; font-family: Verdan=
+a, Geneva, sans-serif;">
+              <h1>CalculusBC2015-2016 Membership
+</h1>
+                          </td>
+          </tr>
+        </table>
+
+        <table id=3D"Content" cellspacing=3D"0" cellpadding=3D"20" width=3D=
+"580" style=3D"color: #333; background-color: #fff;">
+          <tr valign=3D"top">
+                        <td id=3D"Primary" width=3D"350" style=3D"font-fami=
+ly: Helvetica, Arial, sans-serif;">
+              <h1>You've been Added</h1>
+<p>dmarchi19 has added you to the "CalculusBC2015-2016" wiki.</p>
+<p>To join the wiki, please visit: <a href=3D"https://www.wikispaces.com/t/=
+c/6aNJoIenSvc8TVTFUI29vd">https://www.wikispaces.com/t/c/6aNJoIenSvc8TVTFUI=
+29vd</a></p>
+
+
+
+<p>Below is a message from dmarchi19:</p>
+<p>Invitation to join the AP Calculus BC wiki page</p>
+
+<p>Thanks,<br/>
+The Wikispaces Team<br/>
+<a href=3D"mailto:help@wikispaces.com">help@wikispaces.com</a></p>
+
+            </td>
+            <td id=3D"Secondary" width=3D"210" style=3D"font-family: Helvet=
+ica, Arial, sans-serif;">
+              <h2>Getting Started Tips</h2>
+<p><a href=3D"http://www.wikispaces.com/content/wiki-tour">Watch our tours<=
+/a> to learn the basics of working in Wikispaces.</p>
+<h2>Need assistance?</h2>
+<p>Contact us at <a href=3D"mailto:help@wikispaces.com">help@wikispaces.com=
+</a></p>
+
+            </td>
+                      </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+    <table id=3D"Legal" cellspacing=3D"0" cellpadding=3D"15" width=3D"610">
+    <tr>
+      <td style=3D"font-family: Helvetica, Arial, sans-serif; color: #999;"=
+>
+        <p>Sent by <a href=3D"http://wikispaces.com/">Wikispaces.com</a> - =
+165 10th St. Suite 50, San Francisco CA 94103</p>
+      </td>
+    </tr>
+  </table>
+ =20
+</div>
+</body>
+</html>
+<!-- email/invite.mail -->
+--=_47451775b733c61e062959e7f5e7bb97--

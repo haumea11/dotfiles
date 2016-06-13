@@ -1,0 +1,158 @@
+Return-Path: <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: osu.edu; dkim=none (message not signed)
+	header.d=none;osu.edu; dmarc=none action=none
+	header.from=buckeyemail.osu.edu;
+Date: Fri, 4 Mar 2016 17:37:24 -0500
+From: <haffner.25@buckeyemail.osu.edu>
+To: "Romig, Steve" <romig.1@osu.edu>
+Message-ID: <20160304223724.GD1642@cbus.kd8zev.net>
+References: <3FC6125A-8BBD-4645-B55D-D34966221143@osu.edu>
+MIME-Version: 1.0
+In-Reply-To: <3FC6125A-8BBD-4645-B55D-D34966221143@osu.edu>
+User-Agent: Mutt/1.5.21 (2010-09-15)
+X-ClientProxiedBy: BY2PR01CA0002.prod.exchangelabs.com (25.163.25.12) To
+	CY1PR0101MB1116.prod.exchangelabs.com (25.161.163.155)
+X-MS-Office365-Filtering-Correlation-Id: 8ec3c6b2-bc68-4c69-2c8e-08d3447dba6f
+X-Microsoft-Exchange-Diagnostics: 1; CY1PR0101MB1116;
+	2:dg3YJoqbrbXYs7I3LDFwqqE0xEFbVuM4oCINp8SIPes9RFxHVam3QqItfi/9Tp7Gcsh8rEhx4OFqnIkDpu/hc6aPENzVXo1427Xe7WozfYXSc4IcxKKKVFQfqBz9aZM3rFdoAxteTH0Q5G48vAO6CSsq3LV4X4mejIksEqhNNw3xYJDJJ9i7AeLHt6gk5+A3;
+	3:1J4BKizkAD5zd5c9/T33YLxjw66ynVrC759t9nIFcVuKoVBVWBnno/5rsPigFRcYkFkJS6SLQk8vE4nB+AQmnBrP5P9aNrEX7xYUlfNwkF6LiAOAcDMhHUBtJ56/mxEN;
+	25:F/ftvX/VZMQykc/QVT0R1oZrDWG1e5WetpNlevV+luWC5LTi8ynNN9r/+sslv5e+2p8b9TrTrch+YXLr1vZKyrM0ARh+qk4PnquUEE62fb9jfmV7gTDCrTpkziuWqROQplF8npKIGQjHhLvh3WLRkqeEAmdlcCKQW3hAqltUPw0d5K31DD6IqqLvfFMzRkOZCHDBzmypL6j94cuFqs8fCW5j4tSeX9IKBY//GhbTFDx+vWhJsjLqhxKNLoE4bAcaglCNVspbZFwOWHx2JXBt1WkmTPutOJaqe/fcpBhmioPEa1qj3PYuMpOqrRk09Ek+IjF7Tc3+aeZQwOL/YVHwUw==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:CY1PR0101MB1116;
+X-Microsoft-Exchange-Diagnostics: 1; CY1PR0101MB1116;
+	20:3vP7Udb+DIvTj9ea8XNnVPW52qTDnPtyJ1+L2+VQktBDWOcn1cuC5VwdcgWhQ+rIOjjpLUgX3ihy9vXmH+JV5ZBbNv3k4P8fk6o5BZJDhW/8jkPF39ATQkcWvrjl+N+rNHfcapC55YgwKSKPJ3c7FPcZsoYIgdfuax8y4nZxTCKfKOWwgH5+s3zVLTKUAUMNPG1SF0ECzf4a40WjXqOxQWA/7A5CrdEEpaiNjI7b/A6I85L2p7A34yt80+3I2B/VGLgGKx2zOAUwP1FOxwqCgAXvfaqkEkP2K1DhfDcSNV9HFy+Gm2RYMbikc8+k5C6XwbpaiDaeAi3163kVR4Ob4FS7KglmfgQ9n2Qd/bbJm1ltx7Tuk7rZxMbIFPmGTzyFB0me2lM1dyjyEP17++i2/c7+zQx5Jj3t2QF4QBgk6DJQ+UFeoyN37B45eMqM0HtIghKk669N9T1wMX5zoqH3sNkT/mliDTAFV/+ZS6aEUnfY99YGegiMCUDoS6vwRDBO;
+	4:7CwO0d8QF5BEq2h/I1fICN3llm0nNLXG030lXRrotDG11C4TjxfCoicgHyZdKGPJFWYdqnYfmFfgLNJpMG75JQDdxx3N4aHS+gUOzXOIC5IDdGDKxnmnNd8vn0pILbccsiSc8uFUomOnm2iIDrPVlb21RncyoPRHVnsy1e+dhHerBJE/AKc2N1eQJryC4LxheVjUxoG1/TMvXBIA1HHTrY8FtD6KaHr16E+46EL7STu9F+zb+AKw1nBQr9GNF71GgHkL6uDyhcfuXH4Cx/X0amUFm7gKSdtKxckiGftgUiagk0iIPaVi2rDckbER8WmNiEGEM1VgZmAmA3XbHW6KjA==
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(2401047)(8121501046)(3002001)(10201501046);
+	SRVR:CY1PR0101MB1116; BCL:0; PCL:0; RULEID:;
+	SRVR:CY1PR0101MB1116; 
+X-Forefront-Antispam-Report: SFV:SKI; SFS:; DIR:INB; SFP:; SCL:-1;
+	SRVR:CY1PR0101MB1116; H:localhost; FPR:; SPF:None; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; CY1PR0101MB1116;
+	23:EG4frEXzWAG0izJzRRPp1uO7R0d5TObE1Wzr5JoYf3vzISf7fJDwUI4xbobSy/ZxikCzp7PydzSJJatJ+yH7UmFcucid7LotMLr7hHVSiWVI/gOihJj8t1kNNm4dm43md3diCkkXkmsxSH4/XQ6beytn89c/C0ljmI9/i52oukarXtHCxyCmLZK+dg/4R64S;
+	5:M2zcyk6ZnsqZ2f0+mriUUbmhaeJRHwJxmDddugabK6qJdXaO9jtJ1UAo3Lan1JVJI1AA+BKXf0zq9NvdhrFgFUr/KbBaBCfpuN3+N4YRe5yKoISUvOkORTea7sDtXDYRwJJd26Xrh7TYzYHIzAhWaA==;
+	24:PGKNxTGPXuAFG1PGBUdG5EjtciIq4MerzxnzdeNJZjNiOHdPNL7dxNooLWqJ0YByPF5OtgWgkdRy6Fg+FtKfmPpSXYUzSs/vXBBOCBlbgWY=;
+	20:GVehoiZ2ckcVybgGbHJzu8qZ0rW5vWOvYm0UKsUK0dz04E9iqnL14fcycWPW9H+IBIuv5I7riO2ZV7BMXAPZ4cU4N4O4nug941foBWJikyz0l9wM0Kb2N7WdaajTUW9SaiusaRgGFxK62HRvoNN1/4896F15EHv6SfAlor943yY=
+SpamDiagnosticOutput: 1:0
+X-OriginatorOrg: buckeyemail.osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Mar 2016 22:38:37.6008 (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CY1PR0101MB1116
+Cc: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Subject: Re: [Osu-ctf] Boston Key Party coming soon!
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============4472657913744765274=="
+Errors-To: osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+
+--===============4472657913744765274==
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="C+ts3FVlLX8+P6JN"
+Content-Disposition: inline
+
+--C+ts3FVlLX8+P6JN
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Is anyone going to be on IRC during the BKP? I don't think I'll be able to =
+make
+it to the library this evening but it be cool to see what people are
+working on :)
+
+Good luck everyone I'll see you all tomorrow!
+
+--=20
+Stephen Haffner
+ The Ohio State University | Computer Science and Engineering
+ www.haffner.me
+ (513) 969-6754
+ haffner.25@osu.edu
+
+ Confused by the "signature.asc" attachment? Visit https://www.haffner.me/s=
+ig.html
+On Thu, Mar 03, 2016 at 05:04:16PM +0000, Romig, Steve wrote:
+> Hi - the Boston Key Party CTF is this weekend (Friday 5 PM through Sunday=
+ 5 PM).  You=E2=80=99re all welcome to participate - this is a fun =E2=80=
+=9Cjeopardy style=E2=80=9D capture the flag contest where challenges are gr=
+ouped in categories and you get more points for more solving harder problem=
+s.  If you=E2=80=99ve never worked on a CTF I encourage you to come check i=
+t out - they=E2=80=99re a lot of fun and its a great way to learn more abou=
+t computer security.
+>=20
+> We=E2=80=99ll have a number of people working on this during the weekend.=
+  I=E2=80=99ve got Thompson Library room 204 reserved for the duration of t=
+he CTF (during library hours, anyway) and you=E2=80=99re welcome to join us=
+ there for maximum fun, food and cooperation but you are welcome to work fr=
+om home also.  You can work as much or as little as you want!
+>=20
+> I=E2=80=99ve registered team #bb0000#666666 with their site.  Looks like =
+they=E2=80=99re doing things a little differently this year, but they=E2=80=
+=99ve sent an API key (9402c0030a9960c88ecdb38272423cf9) which they say is =
+needed both for getting challenges as well as for submitting flags/keys fou=
+nd for points.  I don=E2=80=99t know anything more than that.
+>=20
+> I=E2=80=99ve created a google drive folder for sharing info - see https:/=
+/drive.google.com/folderview?id=3D0BxcDkm9JxgL2aU5QWXlaTGZJYnc&usp=3Dsharing
+>=20
+> I=E2=80=99ll have pizza there Friday night and we=E2=80=99ll probably hav=
+e food Saturday night as well.  If you=E2=80=99re planning on being there e=
+ither night send me a note so we can get enough food and drinks.
+>=20
+> For what its worth, I=E2=80=99m planning on being there Friday night (5-1=
+0), Saturday mid-afternoon to close (3-10), and all day Sunday (11-5). =20
+>=20
+> =E2=80=94 Steve
+>=20
+> _______________________________________________
+> Osu-ctf mailing list
+> Osu-ctf@lists.osu.edu
+> https://lists.osu.edu/mailman/listinfo/osu-ctf
+
+--C+ts3FVlLX8+P6JN
+Content-Type: application/pgp-signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBAgAGBQJW2g4kAAoJEEMntGsXulp2cwkP/2E2l084qZOt+OuXMxEtczyM
+Vx/2tXV7UOmgi04sFRe/eH87pwPE2WzKU39GGBVr3z41ZGGxp8OoO9beDsBijS+H
+Kyp98XMh6M2vQDqnaHcCMXDuWOn/ihJ+dNSNdR271y0gHbys0Q6T430NUIZeJjeT
+G58bCrZYo09aD1vWuOu9IczjJLCYpMmDI12jaFZp7jHeIg9e918UOBiAinHODQLp
+bqk+ry3VOZrixO21ZRIOUmS7snMJdCst2mbBZD6FoHHGWE/eyF8oVOjooLqNayhg
+8UyC+SB3soHofmlHx3DRABS+tu492CVXLwkhjn4pp0WTiZxXS3mCONF778XIeZtL
+zN6MnzfaXXRNWxO6lsTnwU31GDCf9LyXbh4B+5zEIALznWvSWPxHTyVpSzRiANdY
+DVULY9Z+md8pqFwY9Dx4A7iNzTx6Q2420soZHgP+kYhlIcGR2iSZztSKovBsHXVt
+piKyjf4sT64RJjAV14rAIrl9LiyL8hB2HOqYr+Zdd//1DndSlm4/iFpHmJhZIzP3
+L6r+ZSd1SulMBQA0mfhIir0MT50vdS1ANe7n4fQxTmIS3xY9Z3QAzNv2xOTEO+9j
+XcLB/VlOVVuiqS5T8BNIwhkbT/rlP3YS4xJrbfthd9olZh9rFKu4MqjHOkzl/fUO
+wwXfoakreZVDfYQYACXf
+=xZ0s
+-----END PGP SIGNATURE-----
+
+--C+ts3FVlLX8+P6JN--
+
+--===============4472657913744765274==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+
+--===============4472657913744765274==--

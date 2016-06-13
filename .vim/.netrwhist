@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/edt/.mutt'
+let g:netrw_dirhist_2='/etc/systemd/user'
+let g:netrw_dirhist_3='/etc/systemd/system/multi-user.target.wants'
+let g:netrw_dirhist_4='/home/edt/.vimperator'
+let g:netrw_dirhist_5='/home/edt/.mutt'

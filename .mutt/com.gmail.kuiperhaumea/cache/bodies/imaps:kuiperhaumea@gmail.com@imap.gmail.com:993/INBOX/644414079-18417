@@ -1,0 +1,113 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.181.19 with SMTP id e19csp1949647vkf;
+        Tue, 31 May 2016 07:16:07 -0700 (PDT)
+X-Received: by 10.194.234.71 with SMTP id uc7mr36730534wjc.80.1464704167748;
+        Tue, 31 May 2016 07:16:07 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x229.google.com (mail-wm0-x229.google.com. [2a00:1450:400c:c09::229])
+        by mx.google.com with ESMTPS id t10si17319814wme.94.2016.05.31.07.16.07
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 31 May 2016 07:16:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) client-ip=2a00:1450:400c:c09::229;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::229 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x229.google.com with SMTP id n129so80929651wmn.1
+        for <kuiperhaumea@gmail.com>; Tue, 31 May 2016 07:16:07 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:date:subject
+         :message-id:importance:from:to:mime-version;
+        bh=YwMWZRjlAUhGokiJLVZ/FvSifkzdvGLeDB/troSPCv0=;
+        b=SDD2t098dhrZuAOCZV4XMideEyaTAw4W+BNkPhQUVIXPqENKO5voAU4P/6nTRxvXfW
+         IO+3c0AeZczCQjaXBP1AMicku8F5cUPbdrNmvlwySNk43xf7iKQ2C4Lcj9M4FrLQQ3MI
+         C5+UP/MW2WdR78iwNoYISjIVPFw/0HXrnBMSZabfvggq7UwL9mbO8wje8UjkflBoyPU/
+         tDp+6c8Vg43/HgXxLlhEKo8VuNo+TxNqDW1iD/+pzLJNf28fm6u5NJMrZqtZXiO0oezI
+         77ZkTGkC/1QO/7foSDkepTam3Hs5d3q0xLxnLTHnVYQ2yXAkW78gElPSgo7tjvXokSvd
+         BaFQ==
+X-Gm-Message-State: ALyK8tIO80W9W7qWFoZJGZK7qDP0KotHqsIkrBi6bqp+IJ2+4o1pfT0SGuLPIZnapytcl4SWbCZXWI1B6YvM8/3frGLsa3Y=
+X-Received: by 10.28.156.135 with SMTP id f129mr17417613wme.36.1464704166492;
+        Tue, 31 May 2016 07:16:06 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewiczjohn@gmail.com
+Received: by 10.28.35.75 with SMTP id j72csp2031174wmj;
+        Tue, 31 May 2016 07:16:04 -0700 (PDT)
+X-Received: by 10.55.174.68 with SMTP id x65mr32526347qke.184.1464704164609;
+        Tue, 31 May 2016 07:16:04 -0700 (PDT)
+Return-Path: <pete.markiewicz@gmail.com>
+Received: from mail-qg0-x232.google.com (mail-qg0-x232.google.com. [2607:f8b0:400d:c04::232])
+        by mx.google.com with ESMTPS id v19si20918299qgd.26.2016.05.31.07.16.04
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 31 May 2016 07:16:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of pete.markiewicz@gmail.com designates 2607:f8b0:400d:c04::232 as permitted sender) client-ip=2607:f8b0:400d:c04::232;
+Received: by mail-qg0-x232.google.com with SMTP id p34so16759649qgp.1;
+        Tue, 31 May 2016 07:16:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:importance:from:to:mime-version;
+        bh=YwMWZRjlAUhGokiJLVZ/FvSifkzdvGLeDB/troSPCv0=;
+        b=WY0keNbDY3rslRsRVB2lUbOhRu8FwukjehooFMh5ouX297k1aggQvU7hcTF8QFVoF8
+         RhCJYBXw2fCIAzu1e3+hIqPwf3wO/+113a/vBZ9NVnhG1zCoheNjEIdBVVP0eNl35us4
+         87LciwYRth+PSYfvZyVwaOXzB6G8yQDbBRngY4ySHShyJDE/i++du0K+t0ciKAg9Zn3u
+         SwkXOvZvyKNIvEN01KNk+wHLCl3cdJJ7wgbqK3DGUavvLg+yqxQdrqG+MAJDZbUodqrq
+         Vanf4/AKrYvHmNz6KtuWxKaq1zfvMEE7wVnywI8/Jxem0AQCQ/DcbxRApOOxHwiIbXVM
+         +eIA==
+X-Received: by 10.140.158.75 with SMTP id e72mr32235866qhe.81.1464704164184;
+        Tue, 31 May 2016 07:16:04 -0700 (PDT)
+Return-Path: <pete.markiewicz@gmail.com>
+Received: from ?IPv6:2607:fb90:60e4:5d7a:84ba:f872:9869:7c7d? ([2607:fb90:60e4:5d7a:84ba:f872:9869:7c7d])
+        by smtp.gmail.com with ESMTPSA id c68sm8290945qgc.12.2016.05.31.07.15.59
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 31 May 2016 07:16:03 -0700 (PDT)
+Date: Tue, 31 May 2016 10:15:52 -0400
+Subject: RE: Help
+Message-ID: <rofgeaar67ry9q4i3nsnv3te.1464704152794@email.android.com>
+Importance: normal
+From: "pete.markiewicz" <pete.markiewicz@gmail.com>
+To: Karen Glynn <glynn.karen@gmail.com>, Shannon Markiewicz
+ <shannon.markiewicz@gmail.com>, John Markiewicz <markiewiczjohn@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_3946477281992330"
+
+----_com.android.email_3946477281992330
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+Tm8gaW50ZXJuZXQgY29ubmVjdGlvbj8KCgpTZW50IGZyb20gbXkgVC1Nb2JpbGUgNEcgTFRFIERl
+dmljZQoKPGRpdj4tLS0tLS0tLSBPcmlnaW5hbCBtZXNzYWdlIC0tLS0tLS0tPC9kaXY+PGRpdj5G
+cm9tOiBLYXJlbiBHbHlubiA8Z2x5bm4ua2FyZW5AZ21haWwuY29tPiA8L2Rpdj48ZGl2PkRhdGU6
+MDUvMzEvMjAxNiAgOTo1MiBBTSAgKEdNVC0wNTowMCkgPC9kaXY+PGRpdj5UbzogUGV0ZSBNYXJr
+aWV3aWN6IDxwZXRlLm1hcmtpZXdpY3pAZ21haWwuY29tPiwgU2hhbm5vbiBNYXJraWV3aWN6IDxz
+aGFubm9uLm1hcmtpZXdpY3pAZ21haWwuY29tPiwgSm9obiBNYXJraWV3aWN6IDxtYXJraWV3aWN6
+am9obkBnbWFpbC5jb20+IDwvZGl2PjxkaXY+Q2M6ICA8L2Rpdj48ZGl2PlN1YmplY3Q6IEhlbHAg
+PC9kaXY+PGRpdj4KPC9kaXY+SGkgQWxsLApJbnRlcmVzdGluZz8gUHJvYmxlbS4gSSBjYW5ub3Qg
+dHlwZSBpbiBhbnkgc2VhcmNoIHdpbmRvdyBpbiBteSBicm93c2VyLiBDYW4ndCBmaWd1cmUgb3V0
+IHdoYXQncyBoYXBwZW5pbmcuIEFueSBzdWdnZXN0aW9ucyB0byBoZWxwIHlvdXIgYWdpbmcgcGFy
+ZW50L2dyYW5kcGFyZW50LjotKQ==
+
+----_com.android.email_3946477281992330
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj5ObyBpbnRlcm5ldCBjb25u
+ZWN0aW9uPzwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGRpdiBzdHls
+ZT0iZm9udC1zaXplOjlweDtjb2xvcjojNTc1NzU3Ij5TZW50IGZyb20gbXkgVC1Nb2JpbGUgNEcg
+TFRFIERldmljZTwvZGl2PjwvZGl2Pjxicj48YnI+PGRpdj4tLS0tLS0tLSBPcmlnaW5hbCBtZXNz
+YWdlIC0tLS0tLS0tPC9kaXY+PGRpdj5Gcm9tOiBLYXJlbiBHbHlubiAmbHQ7Z2x5bm4ua2FyZW5A
+Z21haWwuY29tJmd0OyA8L2Rpdj48ZGl2PkRhdGU6MDUvMzEvMjAxNiAgOTo1MiBBTSAgKEdNVC0w
+NTowMCkgPC9kaXY+PGRpdj5UbzogUGV0ZSBNYXJraWV3aWN6ICZsdDtwZXRlLm1hcmtpZXdpY3pA
+Z21haWwuY29tJmd0OywgU2hhbm5vbiBNYXJraWV3aWN6ICZsdDtzaGFubm9uLm1hcmtpZXdpY3pA
+Z21haWwuY29tJmd0OywgSm9obiBNYXJraWV3aWN6ICZsdDttYXJraWV3aWN6am9obkBnbWFpbC5j
+b20mZ3Q7IDwvZGl2PjxkaXY+Q2M6ICA8L2Rpdj48ZGl2PlN1YmplY3Q6IEhlbHAgPC9kaXY+PGRp
+dj48YnI+PC9kaXY+PHAgZGlyPSJsdHIiPkhpIEFsbCw8YnI+CkludGVyZXN0aW5nPyBQcm9ibGVt
+LiBJIGNhbm5vdCB0eXBlIGluIGFueSBzZWFyY2ggd2luZG93IGluIG15IGJyb3dzZXIuIENhbid0
+IGZpZ3VyZSBvdXQgd2hhdCdzIGhhcHBlbmluZy4gQW55IHN1Z2dlc3Rpb25zIHRvIGhlbHAgeW91
+ciBhZ2luZyBwYXJlbnQvZ3JhbmRwYXJlbnQuOi0pPC9wPgo8L2JvZHk+
+
+----_com.android.email_3946477281992330--
+
+

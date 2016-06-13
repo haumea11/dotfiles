@@ -1,0 +1,347 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp354966oid;
+        Sat, 18 Jul 2015 03:05:25 -0700 (PDT)
+X-Received: by 10.180.37.229 with SMTP id b5mr3673801wik.16.1437213924827;
+        Sat, 18 Jul 2015 03:05:24 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x229.google.com (mail-wg0-x229.google.com. [2a00:1450:400c:c00::229])
+        by mx.google.com with ESMTPS id mn10si22331990wjc.72.2015.07.18.03.05.24
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 18 Jul 2015 03:05:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::229 as permitted sender) client-ip=2a00:1450:400c:c00::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::229 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=fail header.i=@email-od.com
+Received: by mail-wg0-x229.google.com with SMTP id n9so93526157wgm.0
+        for <kuiperhaumea@gmail.com>; Sat, 18 Jul 2015 03:05:24 -0700 (PDT)
+X-Received: by 10.194.94.101 with SMTP id db5mr36958226wjb.91.1437213923913;
+        Sat, 18 Jul 2015 03:05:23 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp263458wmd;
+        Sat, 18 Jul 2015 03:05:23 -0700 (PDT)
+X-Received: by 10.140.94.100 with SMTP id f91mr31715194qge.101.1437213922654;
+        Sat, 18 Jul 2015 03:05:22 -0700 (PDT)
+Return-Path: <2c42.1c.9-1-1286-66-1002-372+402-17280-514.1286-66-1002.markiewicz.john=gmail.com@mxsg1.email-od.com>
+Received: from s1-b077.socketlabs.email-od.com (s1-b077.socketlabs.email-od.com. [142.0.176.119])
+        by mx.google.com with ESMTPS id 21si17152432qgp.63.2015.07.18.03.05.21
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sat, 18 Jul 2015 03:05:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 2c42.1c.9-1-1286-66-1002-372+402-17280-514.1286-66-1002.markiewicz.john=gmail.com@mxsg1.email-od.com designates 142.0.176.119 as permitted sender) client-ip=142.0.176.119;
+Message-ID: <55aa24e2.95178c0a.4831d.ffff9d80SMTPIN_ADDED_BROKEN@mx.google.com>
+X-Google-Original-Message-ID: <9.1.1286.66.1002.372,402.17280.514.JavaMail@waybetter3.lwcdirect.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=email-od.com;i=@email-od.com;s=dkim;
+	c=relaxed/relaxed; q=dns/txt; t=1437213910; x=1439805910;
+	h=feedback-id:date:from:reply-to:to:message-id:subject:mime-version:content-type;
+	bh=k15G2stdsz6OEnU6PBcaZC2d2Mg=;
+	b=rqrU3b3yU/apte62DJpwV8F0Gm8LdIWGx+xe42+rz0LaPKwx8eI6E8KpcGvwjHaaKCSH0F7B85SRk1e7eJOJlSbGyszGW0jAKo9Swfx+WNqegjicKCuIt5LO2xHje6qr4oh/kL2QUpbSY0QPyUJmjKdhGhih3/a3AJpC7lrYO1k=
+X-Thread-Info: MmM0Mi4xZS4yMDIwMDAwMDAzNDU1ZDIuOS0xLTEyODYtNjYtMTAwMi0zNzIrNDAyLTE3MjgwLTUxNC4xMjg2LTY2LTEwMDIubWFya2lld2ljei5qb2huPWdtYWlsLmNvbQ==
+Feedback-ID: 11330:11330.1286-66-1002:socketlabs
+Received: from r1.us-east.aws.in.socketlabs.com ([54.86.145.87]) by mxsg1.email-od.com
+	with ESMTP; Sat, 18 Jul 2015 06:05:07 -0400
+Received: from wolf.mindfireis.com ([67.192.232.233]) by r1.us-east.aws.in.socketlabs.com
+	with ESMTP; Sat, 18 Jul 2015 06:05:18 -0400
+Return-Path: admin@waybetter3.lwcdirect.com
+Date: Sat, 18 Jul 2015 03:05:19 -0700 (PDT)
+From: Ohio Wesleyan University <admissions@owu.edu>
+Reply-To: admissions@owu.edu
+To: John Markiewicz <markiewicz.john@gmail.com>
+Subject: Dig in to BBQ
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_37195_6548216.1437213919223"
+X-Mailer: Recommend-It Mailer V2.03c02
+MF-VerifyCode: <!-- email id:1286_66_1002_372,402_17280_514 : email id -->
+
+------=_Part_37195_6548216.1437213919223
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_37194_5428752.1437213919222"
+
+------=_Part_37194_5428752.1437213919222
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+John,
+
+If you are looking for a fun way to experience one of America=E2=80=99s top=
+ 100 liberal arts institutions, then join us for our Summer BBQ visit on Ju=
+ly 31. RSVP here: http://gettoknowowu.com/front/tracking.jsp?clientID=3D128=
+6&campaignID=3D66&userID=3D17280&linkID=3D6A31D4BE1F7655C9&emailID=3D1002&s=
+endID=3D372,402&triggerID=3D
+
+Hear from students, tour campus, participate in some fun local events that =
+evening, and see how OWU has been feeding hungry minds for over 150 years a=
+nd feast on some delicious BBQ.
+
+Learn more and register today: http://gettoknowowu.com/front/tracking.jsp?c=
+lientID=3D1286&campaignID=3D66&userID=3D17280&linkID=3D6A31D4BE1F7655C9&ema=
+ilID=3D1002&sendID=3D372,402&triggerID=3D
+
+We hope to see you on campus soon!
+
+
+Best,=20
+
+Susan Dileno
+Ohio Wesleyan University
+
+
+P.S. If we miss you at the BBQ, there are plenty of other opportunities to =
+visit campus. Learn more here: http://gettoknowowu.com/front/tracking.jsp?c=
+lientID=3D1286&campaignID=3D66&userID=3D17280&linkID=3D92F0E95858E9E607&ema=
+ilID=3D1002&sendID=3D372,402&triggerID=3D
+
+Ohio Wesleyan University 61 S. Sandusky St. Delaware, Ohio 43015; Phone: (8=
+00) 922-8953
+
+To unsubscribe from future communications, visit http://gettoknowowu.com/fr=
+ont/tracking.jsp?clientID=3D1286&campaignID=3D66&userID=3D17280&linkID=3D18=
+87C38E3599D37B&emailID=3D1002&sendID=3D372,402&triggerID=3D
+------=_Part_37194_5428752.1437213919222
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!-- saved from url=3D(0022)http://internet.e-mail -->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> title </TITLE>
+<META NAME=3D"Generator" CONTENT=3D"EditPlus">
+<META NAME=3D"Author" CONTENT=3D"MindFire Interet Solutions">
+<META NAME=3D"Description" CONTENT=3D"TCC HTML Email">
+<LINK REL=3D"stylesheet" TYPE=3D"text/css" HREF=3D"http://waybetter3.lwcdir=
+ect.com/LWC_01286/css/1286_66.css">
+</HEAD>
+<BODY BGCOLOR=3D"white">
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type"><m=
+eta name=3D"viewport" content=3D"width=3D320, target-densitydpi=3Ddevice-dp=
+i"><style type=3D"text/css">@media Unknown {TABLE[class=3Dw0] { WIDTH: 0px =
+!important}TD[class=3Dw0] { WIDTH: 0px !important}TABLE[class=3Dw10] { WIDT=
+H: 10px !important}TD[class=3Dw10] { WIDTH: 10px !important}IMG[class=3Dw10=
+] { WIDTH: 10px !important}TABLE[class=3Dw15] { WIDTH: 15px !important}TD[c=
+lass=3Dw15] { WIDTH: 15px !important}IMG[class=3Dw15] { WIDTH: 15px !import=
+ant}TABLE[class=3Dw30] { WIDTH: 50px !important}TD[class=3Dw30] { WIDTH: 50=
+px !important}IMG[class=3Dw30] { WIDTH: 50px !important}TABLE[class=3Dw60] =
+{ WIDTH: 50px !important}TD[class=3Dw60] { WIDTH: 50px !important}IMG[class=
+=3Dw60] { WIDTH: 50px !important}TABLE[class=3Dw125] { WIDTH: 80px !importa=
+nt}TD[class=3Dw125] { WIDTH: 80px !important}IMG[class=3Dw125] { WIDTH: 80p=
+x !important}TABLE[class=3Dw130] { WIDTH: 90px !important}TD[class=3Dw130] =
+{ WIDTH: 90px !important}IMG[class=3Dw130] { WIDTH: 90px !important}TABLE[c=
+lass=3Dw140] { WIDTH: 140px !important}TD[class=3Dw140] { WIDTH: 140px !imp=
+ortant}IMG[class=3Dw140] { WIDTH: 140px !important}TABLE[class=3Dw160] { WI=
+DTH: 180px !important}TD[class=3Dw160] { WIDTH: 180px !important}IMG[class=
+=3Dw160] { WIDTH: 180px !important}TABLE[class=3Dw170] { WIDTH: 100px !impo=
+rtant}TD[class=3Dw170] { WIDTH: 100px !important}IMG[class=3Dw170] { WIDTH:=
+ 100px !important}TABLE[class=3Dw180] { WIDTH: 100px !important}TD[class=3D=
+w180] { WIDTH: 100px !important}IMG[class=3Dw180] { WIDTH: 100px !important=
+}TABLE[class=3Dw195] { WIDTH: 100px !important}TD[class=3Dw195] { WIDTH: 10=
+0px !important}IMG[class=3Dw195] { WIDTH: 100px !important}TABLE[class=3Dw2=
+20] { WIDTH: 120px !important}TD[class=3Dw220] { WIDTH: 120px !important}IM=
+G[class=3Dw220] { WIDTH: 120px !important}TABLE[class=3Dw240] { WIDTH: 180p=
+x !important}TD[class=3Dw240] { WIDTH: 180px !important}IMG[class=3Dw240] {=
+ WIDTH: 180px !important}TABLE[class=3Dw255] { WIDTH: 185px !important}TD[c=
+lass=3Dw255] { WIDTH: 185px !important}IMG[class=3Dw255] { WIDTH: 185px !im=
+portant}TABLE[class=3Dw275] { WIDTH: 195px !important}TD[class=3Dw275] { WI=
+DTH: 195px !important}IMG[class=3Dw275] { WIDTH: 195px !important}TABLE[cla=
+ss=3Dw280] { WIDTH: 135px !important}TD[class=3Dw280] { WIDTH: 135px !impor=
+tant}IMG[class=3Dw280] { WIDTH: 135px !important}TABLE[class=3Dw300] { WIDT=
+H: 220px !important}TD[class=3Dw300] { WIDTH: 220px !important}IMG[class=3D=
+w300] { WIDTH: 220px !important}TABLE[class=3Dw325] { WIDTH: 165px !importa=
+nt}TD[class=3Dw325] { WIDTH: 165px !important}IMG[class=3Dw325] { WIDTH: 16=
+5px !important}TABLE[class=3Dw360] { WIDTH: 240px !important}TD[class=3Dw36=
+0] { WIDTH: 240px !important}IMG[class=3Dw360] { WIDTH: 240px !important}TA=
+BLE[class=3Dw410] { WIDTH: 380px !important}TD[class=3Dw410] { WIDTH: 380px=
+ !important}IMG[class=3Dw410] { WIDTH: 380px !important}TABLE[class=3Dw470]=
+ { WIDTH: 400px !important}TD[class=3Dw470] { WIDTH: 400px !important}IMG[c=
+lass=3Dw470] { WIDTH: 400px !important}TABLE[class=3Dw580] { WIDTH: 490px !=
+important}TD[class=3Dw580] { WIDTH: 490px !important}IMG[class=3Dw580] { WI=
+DTH: 490px !important}TABLE[class=3Dw640] { WIDTH: 520px !important}TD[clas=
+s=3Dw640] { WIDTH: 520px !important}IMG[class=3Dw640] { WIDTH: 520px !impor=
+tant}TABLE[class*=3Dhide] { DISPLAY: none !important}TD[class*=3Dhide] { DI=
+SPLAY: none !important}IMG[class*=3Dhide] { DISPLAY: none !important}P[clas=
+s*=3Dhide] { DISPLAY: none !important}SPAN[class*=3Dhide] { DISPLAY: none !=
+important}TABLE[class=3Dh0] { HEIGHT: 0px !important}TD[class=3Dh0] { HEIGH=
+T: 0px !important}P[class=3Dfooter-content-left] { TEXT-ALIGN: center !impo=
+rtant}#headline P { FONT-SIZE: 30px !important}.article-content { -MS-TEXT-=
+SIZE-ADJUST: 140% !important; -webkit-text-size-adjust: 140%}#left-sidebar =
+{ -MS-TEXT-SIZE-ADJUST: 140% !important; -webkit-text-size-adjust: 140%}.he=
+ader-content { -MS-TEXT-SIZE-ADJUST: 80% !important; -webkit-text-size-adju=
+st: 80%}.footer-content-left { -MS-TEXT-SIZE-ADJUST: 80% !important; -webki=
+t-text-size-adjust: 80%}IMG { HEIGHT: auto; LINE-HEIGHT: 100%}}#outlook A {=
+ PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0=
+px}BODY { WIDTH: 100% !important}.ReadMsgBody { WIDTH: 100%}.ExternalClass =
+{ WIDTH: 100%; DISPLAY: block !important}BODY { PADDING-BOTTOM: 0px; PADDIN=
+G-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-=
+COLOR: #ffffff}IMG { TEXT-DECORATION: none; OUTLINE-WIDTH: medium; OUTLINE-=
+STYLE: none; DISPLAY: block; OUTLINE-COLOR: invert}BR { LINE-HEIGHT: 100%}S=
+TRONG BR { LINE-HEIGHT: 100%}B BR { LINE-HEIGHT: 100%}EM BR { LINE-HEIGHT: =
+100%}I BR { LINE-HEIGHT: 100%}H1 { LINE-HEIGHT: 100% !important; -webkit-fo=
+nt-smoothing: antialiased}H2 { LINE-HEIGHT: 100% !important; -webkit-font-s=
+moothing: antialiased}H3 { LINE-HEIGHT: 100% !important; -webkit-font-smoot=
+hing: antialiased}H4 { LINE-HEIGHT: 100% !important; -webkit-font-smoothing=
+: antialiased}H5 { LINE-HEIGHT: 100% !important; -webkit-font-smoothing: an=
+tialiased}H6 { LINE-HEIGHT: 100% !important; -webkit-font-smoothing: antial=
+iased}H1 A { COLOR: blue !important}H2 A { COLOR: blue !important}H3 A { CO=
+LOR: blue !important}H4 A { COLOR: blue !important}H5 A { COLOR: blue !impo=
+rtant}H6 A { COLOR: blue !important}H1 A:active { COLOR: red !important}H2 =
+A:active { COLOR: red !important}H3 A:active { COLOR: red !important}H4 A:a=
+ctive { COLOR: red !important}H5 A:active { COLOR: red !important}H6 A:acti=
+ve { COLOR: red !important}H1 A:visited { COLOR: purple !important}H2 A:vis=
+ited { COLOR: purple !important}H3 A:visited { COLOR: purple !important}H4 =
+A:visited { COLOR: purple !important}H5 A:visited { COLOR: purple !importan=
+t}H6 A:visited { COLOR: purple !important}TABLE TD { BORDER-COLLAPSE: colla=
+pse}TABLE TR { BORDER-COLLAPSE: collapse}.yshortcuts { TEXT-DECORATION: non=
+e !important; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTT=
+OM: medium none; COLOR: black}.yshortcuts A { TEXT-DECORATION: none !import=
+ant; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: mediu=
+m none; COLOR: black}.yshortcuts A:link { TEXT-DECORATION: none !important;=
+ BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: medium no=
+ne; COLOR: black}.yshortcuts A:visited { TEXT-DECORATION: none !important; =
+BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: medium non=
+e; COLOR: black}.yshortcuts A:hover { TEXT-DECORATION: none !important; BAC=
+KGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: medium none; =
+COLOR: black}.yshortcuts A SPAN { TEXT-DECORATION: none !important; BACKGRO=
+UND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM: medium none; COLO=
+R: black}CODE { WHITE-SPACE: normal; WORD-BREAK: break-all}#background-tabl=
+e { BACKGROUND-COLOR: #ffffff}#top-bar { COLOR: #e7cba3; BACKGROUND-COLOR: =
+#ffffff; -webkit-font-smoothing: antialiased; border-radius: 6px 6px 0px 0p=
+x; -moz-border-radius: 6px 6px 0px 0px; -webkit-border-radius: 6px 6px 0px =
+0px}#top-bar A { TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #e7cba3}#=
+footer { -webkit-font-smoothing: antialiased; border-radius: 0px 0px 6px 6p=
+x; -moz-border-radius: 0px 0px 6px 6px; -webkit-border-radius: 0px 0px 6px =
+6px}BODY { FONT-FAMILY: arial, helvetica}TD { FONT-FAMILY: arial, helvetica=
+}.header-content { -MS-TEXT-SIZE-ADJUST: none; -webkit-text-size-adjust: no=
+ne}.footer-content-left { -MS-TEXT-SIZE-ADJUST: none; -webkit-text-size-adj=
+ust: none}.footer-content-right { -MS-TEXT-SIZE-ADJUST: none; -webkit-text-=
+size-adjust: none}.header-content { FONT-SIZE: 12px; COLOR: #e7cba3}.header=
+-content A { TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #e7cba3}#head=
+line P { MARGIN-BOTTOM: 30px; FONT-SIZE: 36px; FONT-FAMILY: arial, helvetic=
+a; COLOR: #444444; TEXT-ALIGN: center; MARGIN-TOP: 0px}#headline P A { TEXT=
+-DECORATION: none; COLOR: }.article-title { MARGIN-BOTTOM: 18px; FONT-SIZE:=
+ 18px; FONT-FAMILY: arial, helvetica; FONT-WEIGHT: bold; COLOR: #444444; MA=
+RGIN-TOP: 0px; LINE-HEIGHT: 24px}.article-title A { TEXT-DECORATION: none; =
+COLOR: #444444}.with-meta { MARGIN-BOTTOM: 0px}.article-meta { FONT-SIZE: 1=
+6px; FONT-WEIGHT: bold; COLOR: #ccc; MARGIN-TOP: 0px; LINE-HEIGHT: 20px}.ar=
+ticle-content { MARGIN-BOTTOM: 10px; FONT-SIZE: 14px; FONT-FAMILY: arial, h=
+elvetica; COLOR: #444444; MARGIN-TOP: 0px; LINE-HEIGHT: 18px}.article-conte=
+nt A { TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #00f}.article-conte=
+nt IMG { MAX-WIDTH: 100%}.article-content OL { MARGIN-BOTTOM: 18px; PADDING=
+-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 19px; MARGI=
+N-TOP: 0px; PADDING-RIGHT: 0px}.article-content UL { MARGIN-BOTTOM: 18px; P=
+ADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN-LEFT: 19px;=
+ MARGIN-TOP: 0px; PADDING-RIGHT: 0px}.article-content LI { FONT-SIZE: 16px;=
+ COLOR: #444444; LINE-HEIGHT: 20px}.article-content LI A { TEXT-DECORATION:=
+ underline; COLOR: #00f}.article-content P { MARGIN-BOTTOM: 10px}.footer-co=
+ntent-left { MARGIN-BOTTOM: 5px; FONT-SIZE: 11px; COLOR: #444444; MARGIN-TO=
+P: 0px; LINE-HEIGHT: 12px}.footer-content-left A { TEXT-DECORATION: none; F=
+ONT-WEIGHT: bold; COLOR: #00f}.footer-content-right { MARGIN-BOTTOM: 5px; F=
+ONT-SIZE: 11px; COLOR: #444444; MARGIN-TOP: 0px; LINE-HEIGHT: 12px}.footer-=
+content-right A { TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #00f}#fo=
+oter { COLOR: #00f; BACKGROUND-COLOR: #ffffff}#footer A { TEXT-DECORATION: =
+none; FONT-WEIGHT: bold; COLOR: #00f}#permission-reminder { WHITE-SPACE: no=
+rmal}#street-address { WHITE-SPACE: normal; COLOR: #444444}</style><!-- [if=
+ gte mso 9]><style _tmplitem=3D"193" >.article-content ol, .article-content=
+ ul { margin: 0 0 0 24px; padding: 0; list-style-position: inside;}</style>=
+<![endif] --><table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" align=3D"left" id=3D"background-table" style=3D"table-layout: fixe=
+d;">  <tbody>    <tr><td bgcolor=3D"#ffffff" align=3D"left"><table width=3D=
+"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"w640" style=
+=3D"margin: 0px 10px;"><tbody><tr><td width=3D"640" height=3D"20" class=3D"=
+w640"></td>            </tr>            <tr><td width=3D"600" bgcolor=3D"#f=
+ffff0" align=3D"center" id=3D"header" class=3D"w640"><div align=3D"center" =
+style=3D"text-align: center;"><img width=3D"600" border=3D"0" align=3D"top"=
+ id=3D"customHeaderImage" class=3D"w640" style=3D"display: inline;" src=3D"=
+https://waybetter3.lwcdirect.com//LWC_01286/uploadImages/owu_header.png" ed=
+itable=3D"true" label=3D"Ohio Wesleyan University"></img>                </=
+div></td>            </tr>            <tr><td width=3D"640" height=3D"10" b=
+gcolor=3D"#ffffff" class=3D"w640"></td>            </tr>            <tr id=
+=3D"simple-content-row"><td width=3D"640" bgcolor=3D"#ffffff" class=3D"w640=
+"><table width=3D"640" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ali=
+gn=3D"left" class=3D"w640"><tbody><tr><td width=3D"30" class=3D"w30"></td><=
+td width=3D"580" class=3D"w580"><repeater><layout label=3D"Text only"><tabl=
+e width=3D"580" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"w=
+580"><tbody><tr><td width=3D"580" class=3D"w580"><div align=3D"left" class=
+=3D"article-content"><multiline label=3D"Description"><br>Hi John,         =
+                               <br>                                        =
+<br>If you are looking for a fun way to experience one of America&#8217;s t=
+op 100 liberal arts institutions, then join us for our <a href=3D"http://ge=
+ttoknowowu.com/front/tracking.jsp?clientID=3D1286&campaignID=3D66&userID=3D=
+17280&linkID=3D6A31D4BE1F7655C9&emailID=3D1002&sendID=3D372,402&triggerID=
+=3D" target=3D"_blank"><b>Summer BBQ visit on July 31</b></a>.             =
+                           <br>                                        <br>=
+Hear from students, tour campus, participate in some fun local events that =
+evening, and see how OWU has been feeding hungry minds for over 150 years a=
+nd feast on some delicious BBQ.                                        <br>=
+                                        <br><a href=3D"http://gettoknowowu.=
+com/front/tracking.jsp?clientID=3D1286&campaignID=3D66&userID=3D17280&linkI=
+D=3D6A31D4BE1F7655C9&emailID=3D1002&sendID=3D372,402&triggerID=3D" target=
+=3D"_blank"><b>Learn more and register today</b></a>.                      =
+                  <br>                                        <br>We hope t=
+o see you on campus soon!                                        <br>      =
+                                  <br>                                     =
+   <br>Best,                                        <br>                   =
+                     <br>Susan Dileno                                      =
+  <br>Undergraduate Admission                                        <br>Oh=
+io Wesleyan University                                        <br>    <br> =
+   <br>P.S. If we miss you at the BBQ, there are plenty of other opportunit=
+ies to visit campus. <a href=3D"http://gettoknowowu.com/front/tracking.jsp?=
+clientID=3D1286&campaignID=3D66&userID=3D17280&linkID=3D92F0E95858E9E607&em=
+ailID=3D1002&sendID=3D372,402&triggerID=3D" target=3D"_blank"><b>Learn more=
+ here!</b></a>!                                        <p>&nbsp;           =
+                             </p>                                      </mu=
+ltiline>                                    </div></td>                    =
+            </tr>                                <tr><td width=3D"580" heig=
+ht=3D"10" class=3D"w580"></td>                                </tr>        =
+                      </tbody>                            </table>         =
+                 </layout>                        </repeater></td><td width=
+=3D"30" class=3D"w30"></td>                    </tr>                  </tbo=
+dy>                </table></td>            </tr>            <tr><td width=
+=3D"640" height=3D"15" bgcolor=3D"#ffffff" class=3D"w640"></td>            =
+</tr>            <tr><td width=3D"640" class=3D"w640"><table width=3D"640" =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff" id=3D"=
+footer" class=3D"w640"><tbody><tr><td width=3D"30" class=3D"w30"></td><td w=
+idth=3D"360" height=3D"30" class=3D"w580 h0"></td><td width=3D"60" class=3D=
+"w0"></td><td width=3D"160" class=3D"w0"></td><td width=3D"30" class=3D"w30=
+"></td>                    </tr>                    <tr><td width=3D"30" cl=
+ass=3D"w30"></td><td width=3D"560" valign=3D"top" class=3D"w580"><span clas=
+s=3D"none"><p align=3D"center" id=3D"street-address" class=3D"footer-conten=
+t-right"><span>To unsubscribe, <a href=3D"http://gettoknowowu.com/front/tra=
+cking.jsp?clientID=3D1286&campaignID=3D66&userID=3D17280&linkID=3D1887C38E3=
+599D37B&emailID=3D1002&sendID=3D372,402&triggerID=3D">click here</a></span>=
+                          </p>                          <p align=3D"center"=
+ id=3D"permission-reminder" class=3D"footer-content-left"><span>Ohio Wesley=
+an University 61 S. Sandusky St. Delaware, Ohio 43015; Phone: (800) 922-895=
+3 </span>                          </p></span></td><td width=3D"30" class=
+=3D"w30"></td>                    </tr>                    <tr><td width=3D=
+"30" class=3D"w30"></td><td width=3D"360" height=3D"15" class=3D"w580 h0"><=
+/td><td width=3D"60" class=3D"w0"></td><td width=3D"160" class=3D"w0"></td>=
+<td width=3D"30" class=3D"w30"></td>                    </tr>              =
+    </tbody>                </table></td>            </tr>            <tr><=
+td width=3D"640" height=3D"60" class=3D"w640"></td>            </tr>       =
+   </tbody>        </table></td>    </tr>  </tbody></table>
+<TABLE width=3D"600">=09=09=09=09=09
+=09<TR>
+=09=09<TD ALIGN=3DCENTER>
+=09=09=09<FONT CLASS=3D"copyright">
+=09=09=09=09
+=09=09=09<BR>
+                        <A HREF=3D""></A></FONT>
+
+=09=09</TD>
+=09</TR>
+
+
+</TABLE>
+</BODY>
+</HTML>
+<BR>
+<IMG src=3D"http://waybetter3.lwcdirect.com/admin/readMessage.jsp?userID=3D=
+17280&emailID=3D1002&listID=3D372,402&clientID=3D1286&campaignID=3D66&sched=
+uleID=3D514" width=3D"0" height=3D"0">
+------=_Part_37194_5428752.1437213919222--
+
+------=_Part_37195_6548216.1437213919223--
+

@@ -1,0 +1,207 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp1116445oig;
+        Sun, 16 Aug 2015 16:02:57 -0700 (PDT)
+X-Received: by 10.50.88.41 with SMTP id bd9mr14396387igb.4.1439766177673;
+        Sun, 16 Aug 2015 16:02:57 -0700 (PDT)
+Return-Path: <3oRbRVREKDMYz03q1xA+rqqp1309As00sxq.o0yw6u1q3tm6yqmsymux.o0y@feedburner.bounces.google.com>
+Received: from mail-io0-x245.google.com (mail-io0-x245.google.com. [2607:f8b0:4001:c06::245])
+        by mx.google.com with ESMTPS id oo7si686182igb.18.2015.08.16.16.02.57
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 16 Aug 2015 16:02:57 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3oRbRVREKDMYz03q1xA+rqqp1309As00sxq.o0yw6u1q3tm6yqmsymux.o0y@feedburner.bounces.google.com designates 2607:f8b0:4001:c06::245 as permitted sender) client-ip=2607:f8b0:4001:c06::245;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3oRbRVREKDMYz03q1xA+rqqp1309As00sxq.o0yw6u1q3tm6yqmsymux.o0y@feedburner.bounces.google.com designates 2607:f8b0:4001:c06::245 as permitted sender) smtp.mailfrom=3oRbRVREKDMYz03q1xA+rqqp1309As00sxq.o0yw6u1q3tm6yqmsymux.o0y@feedburner.bounces.google.com;
+       dkim=pass header.i=@google.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=google.com
+Received: by mail-io0-x245.google.com with SMTP id e124so67483912iof.2
+        for <kuiperhaumea@gmail.com>; Sun, 16 Aug 2015 16:02:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:sender:precedence:message-id:date:subject
+         :from:to:content-type;
+        bh=5ar69xCXlRNvkYmgsvwZtcWFTEIkf6MEXqsdDNTtBc4=;
+        b=ArXb/aVcf5H6GfS2a9AmYzfdfh/8p66NCWf2QrWwarRJDykuEvm0+Kob4PTKIDtDCr
+         jl7JQy/bt6NjbDnCiZC29DQ3aGTeqw4VG+N4nzzslMYaZstp7ypfC1qJ5F8+ZxebpO+v
+         7PQBrI3NaHTP8rof/nUrOpmPZ5ipg+BmOceqoLLnjZRMpa7Xda0e4oHX4jSq34MZ5kVG
+         s4vVgzfDBfAFsH7lRegneMmfexDwEusBCiWaV/sjM5Sg7pV7PtyNKOg4PSPYMcEwqlgj
+         MLPH8LJzsUZIn4fd7xlY0vvQGunfe5hykMSTlzIVfFSIKt4eDHgRjaIokfgAy++toqHk
+         +69g==
+MIME-Version: 1.0
+X-Received: by 10.182.33.3 with SMTP id n3mt6776840obi.7.1439766177330; Sun,
+ 16 Aug 2015 16:02:57 -0700 (PDT)
+Reply-To: Sandra and Woo <novil@gmx.de>
+Sender: noreply+feedproxy@google.com
+Precedence: bulk
+Message-ID: <001a11c1f6328f3cc1051d75af59@google.com>
+Date: Sun, 16 Aug 2015 23:02:57 +0000
+Subject: Sandra and Woo: [0710] BASIC Food Stuff
+From: Sandra and Woo <noreply+feedproxy@google.com>
+To: kuiperhaumea@gmail.com
+Content-Type: multipart/alternative; boundary=001a11c1f6329112ae051d75afc9
+
+--001a11c1f6329112ae051d75afc9
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+U2FuZHJhIGFuZCBXb28NCg0KLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8v
+Ly8vLw0KWzA3MTBdIEJBU0lDIEZvb2QgU3R1ZmYNCg0KUG9zdGVkOiAxNiBBdWcgMjAxNSAwMzow
+MCBQTSBQRFQNCmh0dHA6Ly9mZWVkcHJveHkuZ29vZ2xlLmNvbS9+ci9zYW5kcmFhbmR3b28vfjMv
+X1VyY3psclNrOUkvP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciZ1dG1fbWVkaXVtPWVtYWlsDQoNCg0K
+QXMgYSBwcm9ncmFtbWVyIEkgY2FuIG9ubHkgc2F5Og0KDQpUaGlzIGlzIE5PVCBhIGNsaWNow6kh
+DQoNCg0KUmljaGFyZDogRGlubmVy4oCZcyByZWFkeSENCg0KDQpTYW5kcmE6IFBpenphIGFnYWlu
+PyENClJpY2hhcmQ6IOKAnEFnYWlu4oCdPz8gQnV0IHdl4oCZdmUgb25seSBoYWQgcGl6emEgdHdp
+Y2UgdGhpcyB3ZWVrDQoNCg0KUmljaGFyZDogRG9u4oCZdCB5b3Ugd2FudCBhIGNva2U/DQpTYW5k
+cmE6IE9oIEdvZCwgbm8hDQoNCg0KU2FuZHJhOiBIYXZpbmcgYSBwcm9ncmFtbWVyIGZvciBhIGZh
+dGhlciByZWFsbHkgaGFzIGl0cyBkb3duc2lkZXMuDQoNCg0KDQoNCg0KDQotLQ0KWW91IGFyZSBz
+dWJzY3JpYmVkIHRvIGVtYWlsIHVwZGF0ZXMgZnJvbSAiU2FuZHJhIGFuZCBXb28uIg0KVG8gc3Rv
+cCByZWNlaXZpbmcgdGhlc2UgZW1haWxzLCB5b3UgbWF5IHVuc3Vic2NyaWJlIG5vdzogIA0KaHR0
+cHM6Ly9mZWVkYnVybmVyLmdvb2dsZS5jb20vZmIvYS9tYWlsdW5zdWJzY3JpYmU/az15QkNnOEdj
+a3lQWDhNTi00S1FMMG5CMlVPcTgNCg0KRW1haWwgZGVsaXZlcnkgcG93ZXJlZCBieSBHb29nbGUu
+DQpHb29nbGUgSW5jLiwgMTYwMCBBbXBoaXRoZWF0cmUgUGFya3dheSwgTW91bnRhaW4gVmlldywg
+Q0EgOTQwNDMsIFVuaXRlZCAgDQpTdGF0ZXMNCg0K
+--001a11c1f6329112ae051d75afc9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>Sandra and Woo</title>
+</head>
+<body>
+<style type=3D"text/css">
+
+                        h1 a:hover {background-color:#888;color:#fff ! impo=
+rtant;}
+
+                        div#emailbody table#itemcontentlist tr td div ul {
+                                        list-style-type:square;
+                                        padding-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div block=
+quote {
+                                padding-left:6px;
+                                border-left: 6px solid #dadada;
+                                margin-left:1em;
+                        }
+       =20
+                        div#emailbody table#itemcontentlist tr td div li {
+                                margin-bottom:1em;
+                                margin-left:1em;
+                        }
+
+
+                        table#itemcontentlist tr td a:link, table#itemconte=
+ntlist tr td a:visited, table#itemcontentlist tr td a:active, ul#summarylis=
+t li a {
+                                color:#000099;
+                                font-weight:bold;
+                                text-decoration:none;
+                        }      =20
+
+                        img {border:none;}
+
+
+                </style>
+<div xmlns=3D"http://www.w3.org/1999/xhtml" id=3D"emailbody" style=3D"margi=
+n:0 2em;font-family:Georgia,Helvetica,Arial,Sans-Serif;line-height:140%;fon=
+t-size:13px;color:#000000;">
+<table style=3D"border:0;padding:0;margin:0;width:100%">
+<tr>
+<td style=3D"vertical-align:top" width=3D"99%">
+<h1 style=3D"margin:0;padding-bottom:6px;">
+<a style=3D"color:#888;font-size:22px;font-family:Arial, Helvetica, sans-se=
+rif;font-weight:normal;text-decoration:none;" href=3D"http://www.sandraandw=
+oo.com" title=3D"(http://www.sandraandwoo.com)">Sandra and Woo: [0710] BASI=
+C Food Stuff</a>
+</h1>
+</td>
+<td width=3D"1%" />
+</tr>
+</table>
+<hr style=3D"border:1px solid #ccc;padding:0;margin:0" />
+<table id=3D"itemcontentlist">
+<tr xmlns=3D"">
+<td style=3D"margin-bottom:0;line-height:1.4em;">
+<p style=3D"margin:1em 0 3px 0;">
+<a name=3D"1" style=3D"font-family:Arial, Helvetica, sans-serif;font-size:1=
+8px;" href=3D"http://feedproxy.google.com/~r/sandraandwoo/~3/_UrczlrSk9I/?u=
+tm_source=3Dfeedburner&utm_medium=3Demail">[0710] BASIC Food Stuff</a>
+</p>
+<p style=3D"font-size:13px;color:#555;margin:9px 0 3px 0;font-family:Georgi=
+a,Helvetica,Arial,Sans-Serif;line-height:140%;font-size:13px;">
+<span>Posted:</span> 16 Aug 2015 03:00 PM PDT</p>
+<div style=3D"margin:0;font-family:Georgia,Helvetica,Arial,Sans-Serif;line-=
+height:140%;font-size:13px;color:#000000;"><p>As a programmer I can only sa=
+y:</p>
+<p>This is NOT a clich=C3=A9!</p>
+<blockquote class=3D"transcript">
+<ul>
+<li><strong>Richard:</strong> Dinner=E2=80=99s ready!</li>
+</ul>
+<ul>
+<li><strong>Sandra:</strong> Pizza again?!</li>
+<li><strong>Richard:</strong> =E2=80=9CAgain=E2=80=9D?? But we=E2=80=99ve o=
+nly had pizza twice this week&#8230;</li>
+</ul>
+<ul>
+<li><strong>Richard:</strong> Don=E2=80=99t you want a coke?</li>
+<li><strong>Sandra:</strong> Oh God, no!</li>
+</ul>
+<ul>
+<li><strong>Sandra:</strong> Having a programmer for a father really has it=
+s downsides.</li>
+</ul>
+</blockquote>
+<div class=3D"feedflare">
+<a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3D_UrczlrSk9I:hHr=
+-0lJ7y2A:yIl2AUoC8zA"><img src=3D"http://feeds.feedburner.com/~ff/sandraand=
+woo?d=3DyIl2AUoC8zA" border=3D"0"></img></a> <a href=3D"http://feeds.feedbu=
+rner.com/~ff/sandraandwoo?a=3D_UrczlrSk9I:hHr-0lJ7y2A:D7DqB2pKExk"><img src=
+=3D"http://feeds.feedburner.com/~ff/sandraandwoo?i=3D_UrczlrSk9I:hHr-0lJ7y2=
+A:D7DqB2pKExk" border=3D"0"></img></a> <a href=3D"http://feeds.feedburner.c=
+om/~ff/sandraandwoo?a=3D_UrczlrSk9I:hHr-0lJ7y2A:qj6IDK7rITs"><img src=3D"ht=
+tp://feeds.feedburner.com/~ff/sandraandwoo?d=3Dqj6IDK7rITs" border=3D"0"></=
+img></a> <a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3D_Urczl=
+rSk9I:hHr-0lJ7y2A:gIN9vFwOqvQ"><img src=3D"http://feeds.feedburner.com/~ff/=
+sandraandwoo?i=3D_UrczlrSk9I:hHr-0lJ7y2A:gIN9vFwOqvQ" border=3D"0"></img></=
+a> <a href=3D"http://feeds.feedburner.com/~ff/sandraandwoo?a=3D_UrczlrSk9I:=
+hHr-0lJ7y2A:I9og5sOYxJI"><img src=3D"http://feeds.feedburner.com/~ff/sandra=
+andwoo?d=3DI9og5sOYxJI" border=3D"0"></img></a> <a href=3D"http://feeds.fee=
+dburner.com/~ff/sandraandwoo?a=3D_UrczlrSk9I:hHr-0lJ7y2A:cGdyc7Q-1BI"><img =
+src=3D"http://feeds.feedburner.com/~ff/sandraandwoo?d=3DcGdyc7Q-1BI" border=
+=3D"0"></img></a>
+</div><img src=3D"http://feeds.feedburner.com/~r/sandraandwoo/~4/_UrczlrSk9=
+I?utm_source=3Dfeedburner&utm_medium=3Demail" height=3D"1" width=3D"1" alt=
+=3D""/></div>
+</td>
+</tr>
+</table>
+<table style=3D"border-top:1px solid #999;padding-top:4px;margin-top:1.5em;=
+width:100%" id=3D"footer">
+<tr>
+<td style=3D"text-align:left;font-family:Helvetica,Arial,Sans-Serif;font-si=
+ze:11px;margin:0 6px 1.2em 0;color:#333;">You are subscribed to email updat=
+es from <a href=3D"http://www.sandraandwoo.com">Sandra and Woo</a>
+<br />To stop receiving these emails, you may <a href=3D"https://feedburner=
+.google.com/fb/a/mailunsubscribe?k=3DyBCg8GckyPX8MN-4KQL0nB2UOq8">unsubscri=
+be now</a>.</td>
+<td style=3D"font-family:Helvetica,Arial,Sans-Serif;font-size:11px;margin:0=
+ 6px 1.2em 0;color:#333;text-align:right;vertical-align:top">Email delivery=
+ powered by Google</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"text-align:left;font-family:Helvetica,Arial,Sans=
+-Serif;font-size:11px;margin:0 6px 1.2em 0;color:#333;">Google Inc., 1600 A=
+mphitheatre Parkway, Mountain View, CA 94043, United States</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
+
+--001a11c1f6329112ae051d75afc9--

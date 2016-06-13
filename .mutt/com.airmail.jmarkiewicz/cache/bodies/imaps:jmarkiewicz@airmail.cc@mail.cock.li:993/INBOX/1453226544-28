@@ -1,0 +1,117 @@
+Return-Path: <cjoyce@cdeducation.org>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=kTQZMfeJH7Sy9my/sf6CaqJXMEoPtasSjYDDwNor45c=;
+        b=MDkGJvDL3Z+y9+xqdBo9Wbr8RkNOFhLmK+Q1L+/qSaWjX9w5jr/WG7ep1MI9OEhWnF
+         +imNzvNAZRvstMsJuUhQCGOIyEP36i/AckdjNCVkKuJyr2J9aJtU9RwZZaL13EuLv7nf
+         Jyrizo4scGCpa6a22iY0wOLkfxos3hhJdfjXaO65i0ZbDplHmeu3oE+RPta4nuNqVov7
+         2xLhp8/tQkPCgagP9hrNoScYjoSQKiOQK4EhEMCwIKRmrwd/8G1dld6DDd9h8+djJNYj
+         dAG0qqXDCDW5AkpnF8+0C0B2/ho/mTC7F+8aUJxa/oWDw/JuEWbFu2r8dVRRNu5hk1Tg
+         IFlA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=kTQZMfeJH7Sy9my/sf6CaqJXMEoPtasSjYDDwNor45c=;
+        b=c++1VF/3/7YCcd+qQ7p+hNKuk+tGof5BBH7TtEFid4qS08GaJLKIQzWSVi/M2RVKNa
+         bH9MIIcYWmgYLUCnW6mNVrLC5EZD0HuBkQJ5yLDFTXtlpNwyN0JqXwXbFaG9V4kQjVPa
+         fxz7qdngxqCnB9c/ORjg4WwrgokHSlxLXpXAp2JvfhgJHel1K8uRZpj/ldyxvX2LqVvI
+         KWVvKL+h0vYnU9VU0h+6hUeOBQvGaK8/WqJyx48gpLh1QnKiRyMyZ/XanbCbzGz70XMe
+         xMGYvVq1vT3Lv3Zqv2zogCD1KxGMzwpgeTZqRdNlUwiI643M7xfRbCqZDMjBcQneh+mC
+         g/Hg==
+X-Gm-Message-State: AG10YOQ+n6tZo1J/XY9HVXj9jNMUvt/9eKFgR+Une52mGjZ92FwZJ1duOF/cPUsLTKOPfTf/oxvyiaADDfJ5CIFY
+MIME-Version: 1.0
+X-Received: by 10.31.151.11 with SMTP id z11mr11740004vkd.131.1453749714524;
+ Mon, 25 Jan 2016 11:21:54 -0800 (PST)
+Date: Mon, 25 Jan 2016 14:21:54 -0500
+Message-ID: <CAGs8aKqb163rDdOiq-u6s=o2kCwFTJHame9FnAK0=AbkDMbQ6A@mail.gmail.com>
+Subject: Solo and Ensemble Rehearsal
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: Anna Ehret <aehret2016@gmail.com>, Lizz Turnbull <clairemedic@aol.com>, 
+	Ginny Pajor <ppajor@yahoo.com>, John Markiewicz <jmarkiewicz@airmail.cc>, 
+	Jacob Erney <trerney@yahoo.com>
+Content-Type: multipart/alternative; boundary=001a1140f86a53c189052a2d7b7b
+
+--001a1140f86a53c189052a2d7b7b
+Content-Type: text/plain; charset=UTF-8
+
+Hello Solo and Ensemble-ers,
+
+I have been working with Stephanie Miller who will be playing piano for you
+to set up rehearsal times.
+Since you will all most likely be staying for musical practice anyways, we
+will rehearse next Wednesday (Feb. 3rd) after school in my room. I will
+make sure that Liz knows where you are so that you can run through.
+We will then rehearse the following week since its the week before
+competition, again on a Wednesday (Feb 10th).
+
+I encourage you to bring a recording device even if it's just your computer
+or laptop to record her playing your accompaniment so that you have
+something to practice with at home.
+
+Ladies, I have copies of your songs to give her. Gentlemen, I have not
+received photocopies of your music so that she can begin to practice.
+Please give that to me ASAP so that she does not have to rush to learn the
+music.
+Also, please be reminded that she is charging a very reasonable fee of
+$35.00 total for these two rehearsals and the performance.
+
+Thanks,
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a1140f86a53c189052a2d7b7b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Solo and Ensemble-ers,<div><br><div>I have been work=
+ing with Stephanie Miller who will be playing piano for you to set up rehea=
+rsal times.=C2=A0</div><div>Since you will all most likely be staying for m=
+usical practice anyways, we will rehearse next Wednesday (Feb. 3rd) after s=
+chool in my room. I will make sure that Liz knows where you are so that you=
+ can run through.<br></div><div>We will then rehearse the following week si=
+nce its the week before competition, again on a Wednesday (Feb 10th).=C2=A0=
+</div><div><br></div><div>I encourage you to bring a recording device even =
+if it&#39;s just your computer or laptop to record her playing your accompa=
+niment so that you have something to practice with at home. =C2=A0<br></div=
+><div><br></div><div>Ladies, I have copies of your songs to give her. Gentl=
+emen, I have not received photocopies of your music so that she can begin t=
+o practice. Please give that to me ASAP so that she does not have to rush t=
+o learn the music.=C2=A0</div><div>Also, please be reminded that she is cha=
+rging a very reasonable fee of $35.00 total for these two rehearsals and th=
+e performance.</div><div><br></div><div>Thanks,</div><div><div><div class=
+=3D"gmail_signature"><div dir=3D"ltr"><div><div style=3D"margin:0in 0in 0pt=
+"><b><span style=3D"font-size:14pt"><font color=3D"#000000" face=3D"Calibri=
+">Christen Joyce</font></span></b></div><font color=3D"#000000" face=3D"Tim=
+es New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span st=
+yle=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">Choral Direc=
+tor</font></span></b></p><font color=3D"#000000" face=3D"Times New Roman" s=
+ize=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rg=
+b(131,11,44)"><font face=3D"Calibri" size=3D"3"><span><font color=3D"#830b2=
+c">Bishop</font></span> <span><font color=3D"#830b2c">Watterson</font></spa=
+n> High School</font></span></b></p><font color=3D"#000000" face=3D"Times N=
+ew Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><span><font col=
+or=3D"#000000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%28614%29%20268-8=
+671" value=3D"+16142688671" target=3D"_blank"><font color=3D"#1155cc">(614)=
+ 268-8671</font></a> x 289</font></span></p><font color=3D"#000000" face=3D=
+"Times New Roman" size=3D"3"></font><div style=3D"margin:0in 0in 0pt"><span=
+ style=3D"color:rgb(131,11,44)"><a href=3D"http://www.bishopwatterson.com/"=
+ target=3D"_blank"><span style=3D"color:rgb(131,11,44)"><font face=3D"Calib=
+ri" size=3D"3">www.bishopwatterson.com</font></span></a></span></div><div s=
+tyle=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><img width=
+=3D"420" height=3D"151" src=3D"https://docs.google.com/uc?export=3Ddownload=
+&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8=
+rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div></div></div></div><=
+div dir=3D"ltr"><div></div></div></span></div></div></div></div></div>
+</div></div></div>
+
+--001a1140f86a53c189052a2d7b7b--

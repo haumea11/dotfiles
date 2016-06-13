@@ -1,0 +1,93 @@
+Return-Path: <bounce-md_30225327.55c84483.v1-83ffe78bb923481b89c3eca25953f3aa@mandrillapp.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=soylent.com;
+ h=From:Subject:To:Message-Id:Date:MIME-Version:Content-Type; i=info@soylent.com;
+ bh=Q3hSWdjK3cVnT+hL65GOwNYyZT4=;
+ b=f5TlI0Pzlt7j2onSxhigU2kjJ92nrZpXy5+rcLBN6NMnMc3zRHnAzdO982A+te9brGZ4Oowbp/Bc
+   +7T8ynsJYsCyUbIYWmNZ0zOaVdRyfiS9aGVPou3ZOY4cF3hDDNHEDtGqXgeu68TvnMO/bNsMbRXH
+   NlrfkCnousGPpOlZiig=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=soylent.com;
+ b=e83TOKx4PXFbwwKdUzMCWVrkuYmUt556c5ki+8rt6s3V/EfAVD74idxwHfxGYwl7uHLDa65lXbk/
+   UG5Fr1xkl6l4sJBkudHc1XqpOMS623PU622rqGEZx7ZYykb3IwiHbldVWYA35ctB28CpEDQ9Jmds
+   A483qiDbkUftuBJ+aWY=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1439188099; h=From : 
+ Subject : To : Message-Id : Date : MIME-Version : Content-Type : From : 
+ Subject : Date : X-Mandrill-User : List-Unsubscribe; 
+ bh=IfwlnJuWrxX9Hr39mvf+TOeK100ANeEBpyq7QFhvTIU=; 
+ b=bx5IlNG7dMI9WunxG54qF4iAFTaCU8emamQlEryCwPXmwRTAroe2mgQNjDPjYLMEKgMqAR
+ WsHct5y51DEW1Fvgk8QNwUmpp1KAsVyVUjYlLlvKuS2vbaHwPW9HE2pgO/8kb70HO2EvGcIN
+ /HMo6bBeHatA4vWAqH/UZAdfSOWug=
+From: <info@soylent.com>
+Subject: Your Soylent subscription is confirmed!
+To: <jmarkiewicz@airmail.cc>
+Message-Id: <903105100.74785.1439188098865.JavaMail.tomcat@ip-10-69-49-250>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30225327.83ffe78bb923481b89c3eca25953f3aa
+X-Mandrill-User: md_30225327
+Date: Mon, 10 Aug 2015 06:28:19 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-TbTkWzeORIX7NokR8X-sFA"
+
+--_av-TbTkWzeORIX7NokR8X-sFA
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Dear John,
+
+Thank you for subscribing to our service.
+
+Your subscription details are:
+
+Plan  : Soylent - 7 Bags / Month
+
+Please keep this email for your records. If you have any questions, please contact us.
+
+Thanks again for your purchase.
+
+Use the link below to login to your customer portal account and manage your subscription(s):
+https://www.soylent.com/account
+
+Thank You.
+
+
+--_av-TbTkWzeORIX7NokR8X-sFA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<p><img style=3D"
+  margin: 50px auto;
+" src=3D"https://s3.amazonaws.com/soylent-files/soylent_logo_black_outline.=
+png" alt=3D"" width=3D"150" height=3D"71" /></p>
+<p><img src=3D"https://s3.amazonaws.com/soylent-files/black_pixel.jpg" alt=
+=3D"" width=3D"100%" height=3D"1" /></p>
+<p>=C2=A0</p>
+<p>Thank you for subscribing to Soylent!</p>
+<p></p>
+<p>Your subscription details are:</p>
+<p>Plan : <strong>Soylent - 7 Bags / Month</strong></p>
+<p></p>
+<p></p>
+<p><strong>Shipping estimate:=C2=A0</strong>Most orders ship within 48 hour=
+s. Soylent 2.0 pre-orders=C2=A0begin shipping on Oct 15th.</p>
+<p>Please keep this email for your records. If you have any questions, plea=
+se contact us.</p>
+<p>Thanks again for your purchase.<br /></p>
+<p></p>
+<p>Use the link below to login to your customer portal account and manage y=
+our subscription(s):</p>
+<p><strong> <a href=3D"http://mandrillapp.com/track/click/30225327/www.soyl=
+ent.com?p=3DeyJzIjoidG1RNUhLM25XTlZLVXFOSXpUNDdTemhscHY0IiwidiI6MSwicCI6Int=
+cInVcIjozMDIyNTMyNyxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5zb3lsZW=
+50LmNvbVxcXC9hY2NvdW50XCIsXCJpZFwiOlwiODNmZmU3OGJiOTIzNDgxYjg5YzNlY2EyNTk1M=
+2YzYWFcIixcInVybF9pZHNcIjpbXCIxYjVkN2NlNzdmYWZiMDRkZDc3YTBhYjdjYjg1NzBmODJi=
+NDZjZjEwXCJdfSJ9">https://www.soylent.com/account</a></strong></p>
+<p>Thanks again!</p>
+<p>--The Soylent Team</p>
+<p>=C2=A0</p>
+<img src=3D"http://mandrillapp.com/track/open.php?u=3D30225327&id=3D83ffe78=
+bb923481b89c3eca25953f3aa" height=3D"1" width=3D"1">
+
+--_av-TbTkWzeORIX7NokR8X-sFA--
+

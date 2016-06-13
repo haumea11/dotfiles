@@ -1,0 +1,1584 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1294890oid;
+        Fri, 3 Jul 2015 05:39:29 -0700 (PDT)
+X-Received: by 10.194.246.105 with SMTP id xv9mr68776768wjc.135.1435927168818;
+        Fri, 03 Jul 2015 05:39:28 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22f.google.com (mail-wi0-x22f.google.com. [2a00:1450:400c:c05::22f])
+        by mx.google.com with ESMTPS id vn9si14130295wjc.113.2015.07.03.05.39.28
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 03 Jul 2015 05:39:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22f as permitted sender) client-ip=2a00:1450:400c:c05::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22f as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@email.microcentermedia.com
+Received: by mail-wi0-x22f.google.com with SMTP id a1so176148719wig.0
+        for <kuiperhaumea@gmail.com>; Fri, 03 Jul 2015 05:39:28 -0700 (PDT)
+X-Received: by 10.181.11.229 with SMTP id el5mr26435431wid.40.1435927168115;
+        Fri, 03 Jul 2015 05:39:28 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1148251wmd;
+        Fri, 3 Jul 2015 05:39:26 -0700 (PDT)
+X-Received: by 10.13.204.69 with SMTP id o66mr5113ywd.22.1435927166283;
+        Fri, 03 Jul 2015 05:39:26 -0700 (PDT)
+Return-Path: <197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com>
+Received: from dmx1.bfi0.com (dmailer93146198.dmx1.bfi0.com. [93.191.146.198])
+        by mx.google.com with ESMTP id i8si6167300ykd.110.2015.07.03.05.39.25
+        for <markiewicz.john@gmail.com>;
+        Fri, 03 Jul 2015 05:39:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com designates 93.191.146.198 as permitted sender) client-ip=93.191.146.198;
+Return-Path: <197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=email.microcentermedia.com; s=ei; c=simple/simple;
+	q=dns/txt; i=@email.microcentermedia.com; t=1435926982;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=lKXyh+Cz79Jz+dAqmmkNGrCsk7I=;
+	b=oj7oGlNQLc8naF5rPC2TiwAOVNZnNG4X/fICO5/LQtqck3IxdKeWyaFv1jB9Fmxw
+	uIAuR78abppSVqcRWMmdmOvImJxJre8dy+CAocQ0xs7BDwN+DZhNax8PW7cZl0G5
+	GH4ktR77yMwAeey906gKXrstmMcZd95N2/Zx6e/nD44=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ei; d=email.microcentermedia.com;
+	h=List-Unsubscribe:Received:Reply-To:Bounces_to:Message-ID:X-SS:X-BFI:Date:From:Subject:To:MIME-Version:Content-Type;
+	b=clF77kUATdPAcfLBMAc0vog1DlMn2bZDfwKVpDMhMDWgL1FH23qhLLuaGkTu4k05
+	PW+0/zt+GaIQK72j8eu7K+RTDV/N8pHZUOsUjcfjgbcvIk7oVhrH3qtm+8PyA93t
+	3a41iKbtniW6HQV9HLac3JI1d9kbNtkUfEtqayFPVbg=
+List-Unsubscribe: <mailto:197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com?subject=unsubscribe>
+Received: from [10.150.20.113] ([10.150.20.113:42019] helo=dlspvhcimailer13)
+	by dmx1.bfi0.com (envelope-from <197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id AC/FF-28897-6C186955; Fri, 03 Jul 2015 08:36:22 -0400
+Reply-To: =?iso-8859-1?B?ImVOZXdzIg==?= <197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com>
+Bounces_to: Bounce.197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa@email.microcentermedia.com
+Message-ID: <197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa.1624.2535.dlspvhcimailer13.DumpShot.1@email.microcentermedia.com>
+X-SS: 1-2-4800012-178443368
+X-BFI: 197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa
+Date: Fri, 03 Jul 2015 08:32:13 EDT
+From: =?iso-8859-1?B?TWljcm8gQ2VudGVy?= <eNews@email.microcentermedia.com>
+Subject:  =?iso-8859-1?B?NHRoIG9mIEp1bHkgV2Vla2VuZCBEZWFscyEgLSAxVEIgSGFyZCBEcml2ZSAkMzkuOTkuLi41MDBHQiBTU0QgJDE2OS45OQ==?=
+To: markiewicz.john@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="ABCD-197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa-EFGH"
+
+--ABCD-197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa-EFGH
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+eNews Update DEALS: Computer Parts
+Micro Center: computers & electronics
+
+=3D> =3D> View this email online:
+http://email.microcentermedia.com/1b9aad987layfousuashfygiaaaaaa23ie5vavi=
+wunayaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExODAxOTg3OTQ2AXppcF9jb2RlAQFT=
+VE9SRQExNDEBRVFVSUZBWF9DQU1QQUlHTl9JRAFFMjkzNgFFUVVJRkFYX0FDVElWSVRZX0lEA=
+UUyOTM2MDAwMQFfV0FWRV9JRF8BMTc4NDQzMzY4AV9QTElTVF9JRF8BOTczMDI3NQFnX2luZG=
+V4AQFlbWFpbF9hZGRyAW1hcmtpZXdpY3ouam9obkBnbWFpbC5jb20BX1NDSERfVE1fATIwMTU=
+wNzAzMDkzMTAwAXByb2ZpbGVfa2V5AW1hcmtpZXdpY3ouam9obkBnbWFpbC5jb20%3D&UfH6R=
+CsT4pOFZcnk3YaXSw
+
+
+PRICES GOOD JULY 03 - JULY 05, 2015
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+=3D>=3D> Computer Parts DEALS!
+  =
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *  =
+ =
+
+
+=3D> SEE ALL DEALS!
+http://email.microcentermedia.com/147e7833alayfousuashfygqaaaaaa23ie5vavi=
+wunayaaaaa
+
+|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|=
+
+
+ APPLY NOW! Make it Yours - The Micro Center Credit Card:
+ - For qualifying purchases of $240 or more, no interest if paid in full =
+
+   within 6 months. Interest will be charged to your account from the =
+
+   purchase date if the purchase balance is not paid in full within the =
+
+   promotional period.*
+  =
+
+ =3D> *DETAILS/APPLY NOW
+http://email.microcentermedia.com/1a4f3b76elayfousuashfygyaaaaaa23ie5vavi=
+wunayaaaaa =
+
+
+
+|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|=
+
+
+ =3D> Connect with Us!
+
+   Facebook
+http://email.microcentermedia.com/1b6869ed3layfousuashfyhaaaaaaa23ie5vavi=
+wunayaaaaa
+
+   Twitter
+http://email.microcentermedia.com/15592aa87layfousuashfyhiaaaaaa23ie5vavi=
+wunayaaaaa
+
+   You Tube
+http://email.microcentermedia.com/1abdff03alayfousuashfyhqaaaaaa23ie5vavi=
+wunayaaaaa
+
+|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|=
+
+
+ =3D> Micro Center Insider Account
+    REVIEWS, EXCLUSIVE DEALS, WISH LISTS & MORE
+    Create your account now and get Insider treatment
+	=
+
+http://email.microcentermedia.com/148cbc46elayfousuashfyhyaaaaaa23ie5vavi=
+wunayaaaaa	=
+
+
+|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|_+_|=
+
+
+
+------------------------------
+Shop Online 24/7 =3D>
+http://email.microcentermedia.com/180740e20layfousuashfyiaaaaaaa23ie5vavi=
+wunayaaaaa
+------------------------------
+
+------------------------------
+Online Catalog =3D>
+------------------------------ =
+
+Shop Online 24/7 with our Online Catalog
+http://email.microcentermedia.com/163603a74layfousuashfyiiaaaaaa23ie5vavi=
+wunayaaaaa
+
+------------------------------
+In-store Pickup =3D>
+------------------------------
+Convienient and time-saving! Order online for store pickup.
+ =
+
+=3D> In-store Pickup
+http://email.microcentermedia.com/19d2d60c9layfousuashfyiqaaaaaa23ie5vavi=
+wunayaaaaa
+
+------------------------------
+In-Store Clinics =3D>
+------------------------------
+ - Free
+ - Available at all stores
+ - Hosted by our own Tech Support Staff
+ =
+
+=3D> Sign up for advance notice of upcoming clinics
+http://email.microcentermedia.com/17e39549dlayfousuashfyiyaaaaaa23ie5vavi=
+wunayaaaaa
+
+------------------------------
+Micro Center Tech Support Online =3D>
+------------------------------
+ - Answers to questions
+ - Knowledgeable staff
+ - Online resources
+ =
+
+=3D> Micro Center Tech Support Online
+http://email.microcentermedia.com/1db63bf35layfousuashfyjaaaaaaa23ie5vavi=
+wunayaaaaa
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+eNews Update Computer Parts Edition has been sent to you by: =
+
+Micro Center: computers & electronics
+Email Communications Department / 4119 Leap Road / Hilliard, Ohio 43026
+
+(c) Micro Electronics, Inc.
+
+Please do not reply to this email.
+
+=3D> Unsubscribe / Modify - Use this link to modify your email preference=
+s.
+http://email.microcentermedia.com/138778b61layfousuashfyjiaaaaaa23ie5vavi=
+wunayaaaaa/C?V=3DbF9pbmRleAEBcHJvZmlsZV9pZAExODAxOTg3OTQ2AXppcF9jb2RlAQFT=
+VE9SRQExNDEBRVFVSUZBWF9DQU1QQUlHTl9JRAFFMjkzNgFFUVVJRkFYX0FDVElWSVRZX0lEA=
+UUyOTM2MDAwMQFfV0FWRV9JRF8BMTc4NDQzMzY4AV9QTElTVF9JRF8BOTczMDI3NQFnX2luZG=
+V4AQFlbWFpbF9hZGRyAW1hcmtpZXdpY3ouam9obkBnbWFpbC5jb20BX1NDSERfVE1fATIwMTU=
+wNzAzMDkzMTAwAXByb2ZpbGVfa2V5AW1hcmtpZXdpY3ouam9obkBnbWFpbC5jb20%3D&UfH6R=
+CsT4pOFZcnk3YaXSw
+
+=3D> Privacy Policy
+http://email.microcentermedia.com/1c63ad1dclayfousuashfyjqaaaaaa23ie5vavi=
+wunayaaaaa
+
+=3D> Copyright
+http://email.microcentermedia.com/1252ee588layfousuashfyjyaaaaaa23ie5vavi=
+wunayaaaaa
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Pricing and availability of advertised products may vary at each Micro Ce=
+nter
+retail store, and may vary from each Micro Center retail store to Micro C=
+enter Online.
+
+=3D> Terms and Conditions of Advertised Specials:
+http://email.microcentermedia.com/1ed912fc6layfousuashfykaaaaaaa23ie5vavi=
+wunayaaaaa
+
+=3D> Directions to & store hours for your local Micro Center store:
+http://email.microcentermedia.com/10e851b92layfousuashfykiaaaaaa23ie5vavi=
+wunayaaaaa
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Thank you for shopping at Micro Center. We appreciate your business!
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+Please Note: Micro Center and Micro Center Online are not responsible
+for typographical errors. Any typographical errors within this email and
+associated coupons are subject to correction.
+Offers valid only while supplies last.
+
+
+
+--ABCD-197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa-EFGH
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+<title>Micro Center eNews Update: SPECIAL EDITION</title>
+<style type=3D"text/css">
+body {
+	background:#ffffff;
+	margin-top:12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	}
+=2Econtent_table	{
+	max-width: 640px;
+	}	=
+
+a.nav:hover {
+	font-size: 11px; =
+
+	color: #a0b8e4;
+	text-decoration: none:
+	}
+a.nav:active {
+	font-size: 11px;
+	color: #3a5e99;
+	text-decoration: none;
+	}
+a.nav:link {
+	font-size: 11px;
+	color: #3a5e99;
+	text-decoration: none;
+	}
+a.nav:visited { =
+
+	font-size: 11px;
+	color: #8621bb; =
+
+	text-decoration: none;
+	}
+td.introduction {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+	font-weight: normal;
+	margin-top: 8px;
+	padding-bottom: 12px;
+	}
+td.introduction a{
+	text-decoration: none;
+	}		=
+
+td.category {
+	font-family: Arial, Helvetica, sans-serif; =
+
+	font-size: 20px;
+	color: white;
+	font-weight: normal;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 12px;
+	background-image:url(http://dimages.bfi0.com/images/4800012/12388570/Cor=
+ei3.jpg);
+	background-repeat:no-repeat;
+	}
+td.product_image img{
+	width:100%;
+	height:auto;
+	}			=
+
+=2Ehero_table {
+	width: 640px;
+	}
+	=
+
+@media only screen and (max-device-width: 480px) {
+	    table[class=3D"content_table"] {
+	          width: 480px !important;
+			 -webkit-text-size-adjust:none !important; =
+
+	     }
+		table[class=3D"hero_table"], {
+	          width: 480px !important;
+	     }
+		table[class=3D"product_table"], {
+	          width: 480px !important;
+	     }
+		 table[class=3D"category_links"], {
+	          width: 300px !important;
+			  font-size:13px!important;
+	     }
+		table[class=3D"hide"], img[class=3D"hide"], td[class=3D"hide"] {
+	          display: none !important;
+	     }		=
+
+	     img[id=3D"masthead"] {
+	          width: 150px !important;
+	          height: 99px !important;
+	     }
+		 img[id=3D"hero_image"] {
+	          width: 480px !important;
+			  height: 300px !important;
+	     }
+		h4[class=3D"introduction"] {
+			font-size: 16px !important;
+		}
+		td[class=3Dproduct_image] img {
+        height:auto !important;
+        max-width:100% !important;
+		width: auto\9 !important;
+		=
+
+   		}
+		td[class=3Dproduct_spec]  {
+		display: none !important;
+		=
+
+   		}
+		.appleLINKS a  {
+		color: #000000;
+		text-decoration: none;		=
+
+   		}
+</style>
+</head>
+<body bgcolor=3D"#ffffff" text=3D"#000000" link=3D"#3a5e99" vlink=3D"#862=
+1bb" alink=3D"#3a5e99" style=3D"-webkit-font-smoothing: antialiased; -web=
+kit-text-size-adjust: none;">
+<table width=3D"640" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" bgcolor=3D"#ffffff">
+<tr>
+  <td align=3D"left" valign=3D"top">
+    <table width=3D"640" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"content_table">
+    <tr>
+    <td colspan=3D"2" align=3D"right" valign=3D"top" class=3D"introductio=
+n"><a href=3D"http://email.microcentermedia.com/18949800dlayfousiashhxwia=
+aaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"font:19px Arial, Hel=
+vetica, sans-serif; text-decoration:none; color: #850005">Shop All Comput=
+er Parts</a> <font color=3D"#850005">&raquo;</font></td>
+  </tr>
+    <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top" class=3D"hide" styl=
+e=3D"border-bottom: 1px solid #a0b8e4; padding-bottom: 8px; font:11px Ver=
+dana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcenterm=
+edia.com/17704dab0layfousiashhxwqaaaaaa23ie5vaviwunayaaaaa/C?V=3DbF9pbmRl=
+eAEBcHJvZmlsZV9pZAExODAxOTg3OTQ2AXppcF9jb2RlAQFTVE9SRQExNDEBRVFVSUZBWF9DQ=
+U1QQUlHTl9JRAFFMjkzNgFFUVVJRkFYX0FDVElWSVRZX0lEAUUyOTM2MDAwMQFfV0FWRV9JRF=
+8BMTc4NDQzMzY4AV9QTElTVF9JRF8BOTczMDI3NQFnX2luZGV4AQFlbWFpbF9hZGRyAW1hcmt=
+pZXdpY3ouam9obkBnbWFpbC5jb20BX1NDSERfVE1fATIwMTUwNzAzMDkzMTAwAXByb2ZpbGVf=
+a2V5AW1hcmtpZXdpY3ouam9obkBnbWFpbC5jb20%3D&UfH6RCsT4pOFZcnk3YaXSw" style=3D=
+"text-decoration:none;" class=3D"nav">&#8226; VIEW ONLINE</a>&nbsp;&nbsp;=
+<a href=3D"http://email.microcentermedia.com/19410eee4layfousiashhxwyaaaa=
+aa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-decoration:none;" =
+class=3D"nav">&#8226; STORE LOCATIONS</a>&nbsp;&nbsp;<a href=3D"http://em=
+ail.microcentermedia.com/18665c759layfousiashhxxaaaaaaa23ie5vaviwunayaaaa=
+a" target=3D"_blank" style=3D"text-decoration:none;" class=3D"nav">&#8226=
+; IN-STORE PICKUP</a>&nbsp;&nbsp;<a href=3D"http://email.microcentermedia=
+=2Ecom/16571f30dlayfousiashhxxiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blan=
+k" style=3D"text-decoration:none;" class=3D"nav" >&#8226; ONLINE CATALOG<=
+/a></td>
+    </tr>
+    <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top" style=3D"border-bot=
+tom: 1px solid #a0b8e4;">
+      <table width=3D"100%" cellspacing=3D"1" cellpadding=3D"2">
+        <tr>
+         <td width=3D"20%" align=3D"left" valign=3D"middle"><a href=3D"ht=
+tp://email.microcentermedia.com/19b3ca9b0layfousiashhxxqaaaaaa23ie5vaviwu=
+nayaaaaa" target=3D"_blank">
+         <img src=3D"http://dimages.bfi0.com/images/4800012/12388570/CPma=
+sthead.jpg" alt=3D"eNews Update Computer Parts" width=3D"200" height=3D"1=
+32" border=3D"0" /></a></td>
+          <td align=3D"left" valign=3D"middle">
+          <table width=3D"400" cellspacing=3D"2" cellpadding=3D"4">
+              <tr>
+                <td width=3D"33%" align=3D"left" valign=3D"middle" style=3D=
+"font:11px Verdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/178289de4lay=
+fousiashhxxyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">PC SYSTEMS</a></td>
+                <td width=3D"33%" align=3D"left" valign=3D"middle" style=3D=
+"font:11px Verdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/1b09757aalay=
+fousiashhxyaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">TABLETS</a></td>
+                <td width=3D"33%" align=3D"left" valign=3D"middle" style=3D=
+"font:11px Verdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/1538363felay=
+fousiashhxyiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">NETWORKING</a></td>
+              </tr>
+              <tr>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/1adce3943lay=
+fousiashhxyqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">OPEN BOX</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/14eda0d17lay=
+fousiashhxyyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">APPLE</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/1eb80e6bflay=
+fousiashhxzaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">ACCESSORIES</a></td>
+              </tr>
+              <tr>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/10894d2eblay=
+fousiashhxziaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">PHOTOGRAPHY</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/1f6d98856lay=
+fousiashhxzqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">COMPUTER PARTS</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;">
+                <a href=3D"http://email.microcentermedia.com/115cdbc02lay=
+fousiashhxzyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" style=3D"text-de=
+coration:none;" class=3D"nav">REFURBS</a></td>
+              </tr>
+              <tr>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/156ab652clayfousiashhx2aaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">SOFTWARE</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/1b5bf5178layfousiashhx2iaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">ELECTRONICS</a></td>=
+
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/14bf20bc5layfousiashhx2qaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">CLOSEOUTS</a></td>
+              </tr>
+               <tr>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/1a8e63f91layfousiashhx2yaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">GAMING</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/16059f5dflayfousiashhx3aaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">BATTERIES</a></td>
+                <td align=3D"left" valign=3D"middle" style=3D"font:11px V=
+erdana, Arial, Helvetica, sans-serif;"><a href=3D"http://email.microcente=
+rmedia.com/1834dc18blayfousiashhx3iaaaaaa23ie5vaviwunayaaaaa" target=3D"_=
+blank" style=3D"text-decoration:none;" class=3D"nav">DIY / HOBBY</a></td>=
+
+              </tr>
+              <tr>
+                <td height=3D"21" colspan=3D"3" align=3D"right" valign=3D=
+"middle" style=3D"font:11px Verdana, Arial, Helvetica, sans-serif; color:=
+#aa0c17;">PRICES GOOD JULY 03 - JULY 05, 2015</td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+</tr>
+  =
+
+
+     <!-- JERSEY_OPEN_BANNER-->
+     =
+
+     =
+
+
+             <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr>
+   <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><a href=3D"http://e=
+mail.microcentermedia.com/17d009b36layfousiashhx3qaaaaaa23ie5vaviwunayaaa=
+aa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/=
+12328842/4thofJuly_CP_Deals3.jpg" alt=3D"4th of July Computer Parts DEALS=
+" width=3D"640" height=3D"223" border=3D"0" class=3D"hero_image"/></a></t=
+d>
+    </tr> =
+
+             <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr>
+   <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><a href=3D"http://e=
+mail.microcentermedia.com/19e14af62layfousiashhx3yaaaaaa23ie5vaviwunayaaa=
+aa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/=
+12328842/FXingEMAIL2.jpg" alt=3D"FX Bundle Mayhem!" width=3D"640" height=3D=
+"120" border=3D"0" class=3D"hero_image"/></a></td>
+    </tr> =
+
+
+       <tr>
+          <td colspan=3D"2" align=3D"left" valign=3D"top">
+          <img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spa=
+cer.gif" alt=3D"" width=3D"300" height=3D"4" /></td>
+        </tr>
+                       <tr>
+           <td colspan=3D"4" align=3D"right" valign=3D"top" style=3D"back=
+ground-color: #000000; font: 19px Arial, Helvetica, sans-serif; padding-t=
+op: 6px; padding-bottom: 6px;">
+             <a href=3D"http://email.microcentermedia.com/1e0840706layfou=
+siashhx4aaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+           <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; =
+color: #FFFFFF;">SAVE on Select AMD&reg; Motherboard Bundles&nbsp;&raquo;=
+</span></a></td>
+	</tr>
+    =
+
+    <!-- Processor Banner Tustin-->
+	=
+
+   <!-- Processor Banner Main-->
+   <tr>
+          <td colspan=3D"2" align=3D"left" valign=3D"top">
+          <img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spa=
+cer.gif" alt=3D"" width=3D"300" height=3D"8" /></td>
+        </tr>
+  <tr>
+       <td colspan=3D"3">
+       <table width=3D"640" border=3D"0" cellspacing=3D"1" cellpadding=3D=
+"2" style=3D"border: 2px solid #dde3d7;">
+         <tr>
+           <td width=3D"33%" align=3D"center" valign=3D"top" >
+           <img src=3D"http://c783319.r19.cf2.rackcdn.com/logos_643.png" =
+alt=3D"Intel&reg;" width=3D"46" height=3D"32" class=3D"hide" /><br />
+             <a href=3D"http://email.microcentermedia.com/161b55213layfou=
+siashfjdiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+             <img src=3D"http://c773974.r74.cf2.rackcdn.com/435187_333328=
+_01_front_thumbnail.jpg?1428002761557" alt=3D"Intel&reg; Pentium&reg; G32=
+58 3.2GHz LGA1150 Boxed Processor" width=3D"150" class=3D"product_image" =
+border=3D"0"/></a></td>
+           <td width=3D"33%" align=3D"center" valign=3D"top" >
+           <img src=3D"http://c783319.r19.cf2.rackcdn.com/logos_643.png" =
+alt=3D"Intel&reg;" width=3D"46" height=3D"32" class=3D"hide" /><br />
+             <a href=3D"http://email.microcentermedia.com/19ff808aelayfou=
+siashfjdqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"> =
+
+             <img src=3D"http://c773974.r74.cf2.rackcdn.com/434177_302356=
+_01_front_thumbnail.jpg" alt=3D"Intel&reg; Core&trade; i5-4690K 3.5GHz LG=
+A 1150 Boxed Processor" width=3D"150" border=3D"0" class=3D"product_image=
+"/></a></td>
+           <td width=3D"33%" align=3D"center" valign=3D"top" >
+           <img src=3D"http://c783319.r19.cf2.rackcdn.com/logos_76.png" a=
+lt=3D"AMD&reg;" width=3D"100" height=3D"32" class=3D"hide" /><br />
+             <a href=3D"http://email.microcentermedia.com/17cec3cfalayfou=
+siashfjdyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"> =
+
+             <img src=3D"http://c773974.r74.cf2.rackcdn.com/427565_045005=
+_01_front_thumbnail.jpg?1432829300362" alt=3D"AMD&reg; A10 7870K 3.9GHz 1=
+2 Core FM2+ Black Edition Processor" width=3D"150" border=3D"0" vspace=3D=
+"0" class=3D"product_image"/></a></td>
+           </tr>
+         <tr>
+           <td width=3D"33%" align=3D"center" valign=3D"top">
+             <span style=3D"font:13px Verdana, Arial, Helvetica, sans-ser=
+if; color:#666666;">
+               <a href=3D"http://email.microcentermedia.com/1b453f6b4layf=
+ousiashfjeaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">Intel&reg; Pentiu=
+m&reg; G3258 3.2GHz LGA1150 Boxed Processor</a></span><br />
+             <span style=3D"font:bolder 19px Arial, Helvetica, sans-serif=
+; color:#aa0c17;"><strong>$49.99</strong></span><br />
+             <span style=3D"font:10px Verdana, sans-serif; color:#666666;=
+">LIMIT ONE / IN-STORE ONLY / REG. $76.99; 333328</span></td>
+           <td width=3D"33%" align=3D"center" valign=3D"top"><span style=3D=
+"font:13px Verdana, Arial, Helvetica, sans-serif; color:#666666;"> <a hre=
+f=3D"http://email.microcentermedia.com/15747c2e0layfousiashfjeiaaaaaa23ie=
+5vaviwunayaaaaa" target=3D"_blank">Intel&reg; Core&trade; i5-4690K 3.5GHz=
+ LGA 1150 Boxed Processor</a></span><br />
+             <span style=3D"font:bolder 19px Arial, Helvetica, sans-serif=
+; color:#aa0c17;"><strong>$199.99</strong></span><br />
+             <span style=3D"font:10px Verdana, sans-serif; color:#666666;=
+">LIMIT ONE / IN-STORE ONLY / REG. $259.99; 302356</span></td>
+           <td width=3D"33%" align=3D"center" valign=3D"top"><span style=3D=
+"font:13px Verdana, Arial, Helvetica, sans-serif; color:#666666;"> <a hre=
+f=3D"http://email.microcentermedia.com/1a90a985dlayfousiashfjeqaaaaaa23ie=
+5vaviwunayaaaaa" target=3D"_blank">AMD&reg; A10 7870K 3.9GHz 12 Core FM2+=
+ Black Edition Processor</a></span><br />
+             <span style=3D"font:bolder 19px Arial, Helvetica, sans-serif=
+; color:#aa0c17;"><strong>$129.99</strong></span><br />
+             <span style=3D"font:10px Verdana, sans-serif; color:#666666;=
+">LIMIT ONE / IN-STORE ONLY / 727404</span></td>
+           </tr>
+         <tr>
+           <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"back=
+ground-color: #085AB5; font: 19px Arial, Helvetica, sans-serif; padding-t=
+op: 6px; padding-bottom: 6px;">
+             <a href=3D"http://email.microcentermedia.com/14a1eac09layfou=
+siashfjeyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+           <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; =
+color: #FFFFFF;">SHOP ALL Intel&reg; Processors&nbsp;&raquo;</span></a></=
+td>
+           <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"back=
+ground-color: #085AB5; font: 19px Arial, Helvetica, sans-serif; padding-t=
+op: 6px; padding-bottom: 6px;">
+             <a href=3D"http://email.microcentermedia.com/1ef4447a1layfou=
+siashfjfaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+           <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; =
+color: #FFFFFF;">SHOP ALL AMD&reg; Processors&nbsp;&raquo;</span></a></td=
+>
+  </tr>
+       </table></td>
+</tr>
+       <tr>
+          <td colspan=3D"2" align=3D"left" valign=3D"top">
+          <img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spa=
+cer.gif" alt=3D"" width=3D"300" height=3D"4" /></td>
+        </tr>
+          <tr>
+            <td colspan=3D"2" align=3D"left" valign=3D"top">
+            <a href=3D"http://email.microcentermedia.com/10c5073f5layfous=
+iashfjfiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://d=
+images.bfi0.com/images/4800012/12405562/CYBORGintelEMAIL_reg.gif" alt=3D"=
+Intel&reg; Core&#8482; i7 Processors Extreme Edition" width=3D"640" heigh=
+t=3D"120" border=3D"0" class=3D"hero_image"/></a></td>
+        </tr> =
+
+  <tr>
+             <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"=
+http://dimages.bfi0.com/images/4800012/12388570/spacer.gif" alt=3D"" widt=
+h=3D"300" height=3D"4" /></td>
+        </tr>   =
+
+    =
+
+    =
+
+         =
+
+        =
+
+        =
+
+        =
+
+              <tr>
+            <td colspan=3D"2" align=3D"left" valign=3D"top">
+            <a href=3D"http://email.microcentermedia.com/103903352layfous=
+iashhx4iaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+            <img src=3D"http://dimages.bfi0.com/images/4800012/12328842/N=
+UC3.jpg" alt=3D"5th Gen Intel&reg; NUC NUC5i7RYH for only $499.99" width=3D=
+"640" height=3D"120" border=3D"0" class=3D"hero_image"/></a></td>
+        </tr> =
+
+	 <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top">
+      <img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spacer.=
+gif" alt=3D"" width=3D"300" height=3D"4" /></td>
+    </tr> =
+
+ =
+
+ =
+
+   =
+
+
+    <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100=
+%" cellspacing=3D"1" cellpadding=3D"2" style=3D"border-top: 4px solid #85=
+0005; margin-top: 4px;">
+        <tr>
+          <td colspan=3D"3" align=3D"center" valign=3D"middle" style=3D"f=
+ont:20px Arial, Helvetica, sans-serif; color: black; background-color: #e=
+cecec;">Motherboards - Check out these special bundle deals - Up to $40 O=
+ff any compatible motherboards with the purchase of a select 4th Generati=
+on Intel&reg; Core&#8482; Processor</td>
+          </tr>
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"middle"><a href=3D=
+"http://email.microcentermedia.com/1fddd69eflayfousiashhx4qaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images=
+/4800012/12328842/257840_new_layout.jpg" alt=3D"Gigabyte GA-Z97X-SLI LGA =
+1150 ATX Intel&reg; Motherboard" width=3D"200" height=3D"204" border=3D"0=
+" class=3D"product_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"middle"><a href=3D=
+"http://email.microcentermedia.com/11ec95dbblayfousiashhx4yaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images=
+/4800012/12328842/646034_new_layout.jpg" alt=3D"MSI A68HM-E33 FM2+ mATX A=
+MD&reg; Motherboard" width=3D"200" height=3D"204" border=3D"0" class=3D"p=
+roduct_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"middle"><a href=3D=
+"http://email.microcentermedia.com/1d67697f5layfousiashhx5aaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images=
+/4800012/12328842/558668_new_layout.jpg" alt=3D"ASUS Z97-AR LGA 1150 Inte=
+l&reg; ATX Motherboard" width=3D"200" height=3D"204" border=3D"0" class=3D=
+"product_image" /></a></td>
+          </tr>
+        <tr>
+          <td width=3D"33%" align=3D"left" valign=3D"top" style=3D"font:1=
+4px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid #ecec=
+ec;"><a href=3D"http://email.microcentermedia.com/13562a3a1layfousiashhx5=
+iaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">Gigabyte GA-Z97X-SLI LGA 11=
+50 ATX Intel&reg; Motherboard</a></td>
+          <td width=3D"33%" align=3D"left" valign=3D"top" style=3D"font:1=
+4px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid #ecec=
+ec;"><a href=3D"http://email.microcentermedia.com/1cb2ff91clayfousiashhx5=
+qaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">MSI A68HM-E33 FM2+ mATX AMD=
+&reg; Motherboard</a></td>
+          <td width=3D"33%" align=3D"left" valign=3D"top" style=3D"font:1=
+4px Verdana, Arial, Helvetica, sans-serif; border-bottom: 1px solid #ecec=
+ec;"><a href=3D"http://email.microcentermedia.com/1283bcd48layfousiashhx5=
+yaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">ASUS Z97-AR LGA 1150 Intel&=
+reg; ATX Motherboard</a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:11px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;">Super RAI=
+D, Class 4, OC Genie 4 and Click BIOS 4, Supports DDR3-3000, M.2 port Soc=
+ket 3 M Key (x1), 2-Way CrossFireX
+2-Way SLI</td>
+          <td align=3D"left" valign=3D"top" style=3D"font:11px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;">Supports =
+DDR3 2133 O.C., 32GB max memory, Gigabit LAN, 7.1 Channel ALC 887 audio</=
+td>
+          <td align=3D"left" valign=3D"top" style=3D"font:11px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;">Supports =
+DDR3 3300 O.C., 32GB max memory, M.2 port Socket 3 M Key (x1), 4-way SLI,=
+ 4-way CrossfireX</td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"border-bottom: 1px s=
+olid #ececec;"><span style=3D"font:bolder 19px Arial, Helvetica, sans-ser=
+if; color:#aa0c17;">$89.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>Price after instant savings and $30 bundle savings when purchased with a=
+ select 4th Gen Intel&reg; Core&#8482;  processor / $119.99 SOLD SEPARATE=
+LY after instant savings / 257840</span></td>
+          <td align=3D"left" valign=3D"top" style=3D"border-bottom: 1px s=
+olid #ececec;"><span style=3D"font:bolder 19px Arial, Helvetica, sans-ser=
+if; color:#aa0c17;">$9.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>Price after instant savings and $40 bundle savings when purchased with a=
+ select AMD&reg; processor / $49.99 SOLD SEPARATELY after instant savings=
+ / 646034</span></td>
+          <td align=3D"left" valign=3D"top" style=3D"border-bottom: 1px s=
+olid #ececec;"><span style=3D"font:bolder 19px Arial, Helvetica, sans-ser=
+if; color:#aa0c17;">$114.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>Price after instant savings and $30 bundle savings when purchased with a=
+ select 4th Gen  Intel&reg; Core&#8482;  processor / $144.99 SOLD SEPARAT=
+ELY after instant savings  / 558668</span></td>
+          </tr>
+        </table></td>
+    </tr>
+
+             <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr> =
+
+        <tr>
+      <td colspan=3D"4" align=3D"left" valign=3D"top"><a href=3D"http://e=
+mail.microcentermedia.com/18d6126e0layfousiashhx6aaaaaaa23ie5vaviwunayaaa=
+aa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/=
+12328842/AMDDirtEmailBanner640.jpg" alt=3D"Dirt Rally - Adrenaline is you=
+r friend with AMD" width=3D"640" height=3D"120" border=3D"0"/></a></td>
+    </tr>
+                 <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr>  =
+
+    <tr>
+		<td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100%" c=
+ellspacing=3D"1" cellpadding=3D"2">
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_1520.png" alt=3D"Corsair" width=3D=
+"110" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/16e7512b4layfous=
+iashhx6iaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/428798_085266_01_front_thumbnail.jpg?143584363=
+6996" alt=3D"Corsair Carbide Series Spec-02 Mid-Tower ATX Gaming Computer=
+ Case" width=3D"170" border=3D"0" class=3D"product_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_443.png" alt=3D"EVGA" width=3D"1=
+10" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/190384809layfous=
+iashhx6qaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/427100_029678_01_front_thumbnail.jpg?143558147=
+0683" alt=3D"EVGA 500 Watt 80+ 500 Watt ATX Power Supply" width=3D"175"  =
+class=3D"product_image" border=3D"0" /></a></td>
+            <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D=
+"http://dimages.bfi0.com/images/4800012/12405562/logo_qnap.gif" alt=3D"QN=
+AP" width=3D"100" height=3D"21" vspace=3D"2"  /><br/>
+            <a href=3D"http://email.microcentermedia.com/1732c7c5dlayfous=
+iashhx6yaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/442381_556803_01_front_thumbnail.jpg?143584372=
+6773" alt=3D"QNAP TS-231 Turbo Network Attached Storage" width=3D"175" bo=
+rder=3D"0" vspace=3D"2" class=3D"product_image" /></a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1bb93b613layfousiashhx7aaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Corsair Carbide Series Spec-02 Mid-Tower A=
+TX Gaming Computer Case</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/158878247layfousiashhx7iaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">EVGA 500 Watt 80+ 500 Watt ATX Power Suppl=
+y</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1a6cad8falayfousiashhx7qaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">QNAP TS-231 Turbo Network Attached Storage=
+</a></td>
+           </tr>       =
+
+        <tr>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$44.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>IN-STORE ONLY / REG. $59.99; 085266</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$47.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+> REG. $54.99; 029678</span></td>
+            <td align=3D"left" valign=3D"top"><span style=3D"font:bolder =
+20px Arial, Helvetica, sans-serif; color:#aa0c17;">$139.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>REG. $189.99; 556803</span></td>
+          </tr>
+                           <tr>
+          <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/145deecaelayfous=
+iashhx7yaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL Cases&nbsp;&raquo;</spa=
+n></a></td>
+          <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/1213b84f7layfous=
+iashhyaaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL PSU&nbsp;&raquo;</span>=
+</a></td>
+          <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/1c22fb0a3layfous=
+iashhyaiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL =
+
+NAS&nbsp;&raquo;</span></a></td>
+        </tr>
+        </table></td>
+    </tr>
+        <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100=
+%" cellspacing=3D"1" cellpadding=3D"2" >
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_114.png" alt=3D"ASUS" width=3D"1=
+00" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/13c62ea1elayfous=
+iashhyaqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/443760_576454_01_front_thumbnail.jpg?143558209=
+9195" alt=3D"ASUS GeForce GTX 960 Overclocked 2GB GDDR5 Video Card" width=
+=3D"185" class=3D"product_image" border=3D"0" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_114.png" alt=3D"ASUS" width=3D"1=
+00" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/1df76de4alayfous=
+iashhyayaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/383929_252072_01_angle_thumbnail.jpg?143558218=
+1987" alt=3D"ASUS Radeon HD 6450 Low Profile 1GB DDR3 PCIe 2.1 x16 Video =
+Card" width=3D"175" vspace=3D"35"  border=3D"0" class=3D"product_image" /=
+></a></td>
+            <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D=
+"http://c783319.r19.cf2.rackcdn.com/logos_1520.png" alt=3D"Corsair" width=
+=3D"110" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/17a2c35e2layfous=
+iashhybaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/444436_606111_01_front_thumbnail.jpg?143412325=
+6844" alt=3D"Corsair Hydro Series H100i GTX Extreme Performance Liquid CP=
+U Cooler" width=3D"175" class=3D"product_image" border=3D"0" /></a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1993801b6layfousiashhybiaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">ASUS GeForce GTX 960 Overclocked 2GB GDDR5=
+ Video Card</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/167755b0blayfousiashhybqaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">ASUS Radeon HD 6450 Low Profile 1GB DDR3 P=
+CIe 2.1 x16 Video Card</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/184616f5flayfousiashhybyaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Corsair Hydro Series H100i GTX Extreme Per=
+formance Liquid CPU Cooler</a></td>
+           </tr>       =
+
+        <tr>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$209.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>REG. $239.99; 576454</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$39.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>IN-STORE ONLY / REG. $44.99; 252072</span></td>
+            <td align=3D"left" valign=3D"top"><span style=3D"font:bolder =
+20px Arial, Helvetica, sans-serif; color:#aa0c17;">$114.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>Price after $10 mfr. mail-in rebate / REG. $129.99; 606111</span></td>
+          </tr>
+        <tr>
+          <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/14cdea511layfous=
+iashhycaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL Video Cards&nbsp;&raquo=
+;</span></a></td>
+          <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/1afca9145layfous=
+iashhyciaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL Cooling&nbsp;&raquo;</s=
+pan></a></td>
+        </tr>
+        </table></td>
+    </tr>
+             <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr> =
+
+        <tr>
+      <td colspan=3D"4" align=3D"left" valign=3D"top"><a href=3D"http://e=
+mail.microcentermedia.com/15187cbf8layfousiashhycqaaaaaa23ie5vaviwunayaaa=
+aa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/=
+12328842/EKWB_banner.jpg" alt=3D"ekwb Cooling Solutions - Shop Now" width=
+=3D"640" height=3D"150" border=3D"0" /></a></td>
+    </tr>
+                 <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><img src=3D"http://=
+dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"" width=3D"30=
+0" height=3D"10" /></td>
+    </tr> =
+
+    =
+
+       <tr>
+		<td align=3D"left" valign=3D"top"><table width=3D"100%" cellspacing=3D"=
+1" cellpadding=3D"2">
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_1154.png" alt=3D"Seagate" width=3D=
+"100" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/1b293ffaclayfous=
+iashhycyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/334293_646901_01_front_thumbnail.jpg?143316790=
+8135" alt=3D"Seagate Barracuda 7,200RPM SATA III 6Gb/s 3.5&quot; Internal=
+ Hard Drives" width=3D"175" border=3D"0" class=3D"product_image" /></a></=
+td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_1154.png" alt=3D"Seagate" width=3D=
+"100" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/1cc0357c8layfous=
+iashhydaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/446098_648014_01_front_thumbnail.jpg?143525995=
+5738" alt=3D"Seagate Expansion SuperSpeed USB 3.0 Portable Hard Drives" w=
+idth=3D"165" border=3D"0" class=3D"product_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_2646.png" alt=3D"Western Digital=
+" width=3D"50" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/12f17639clayfous=
+iashhydiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/415198_622456_01_front_thumbnail.jpg?143584607=
+9133" alt=3D"WD Desktop Mainstream 1TB 7,200 RPM SATA III 6.0Gb/s 3.5&quo=
+t; Internal Hard Drive" width=3D"165" border=3D"0" class=3D"product_image=
+" /></a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1d15a3921layfousiashhydqaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Seagate Barracuda 7,200RPM SATA III 6Gb/s =
+3.5&quot; Internal Hard Drives</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1324e0d75layfousiashhydyaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Seagate Expansion SuperSpeed USB 3.0  Port=
+able Hard Drives</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1faf1c73blayfousiashhyeaaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">WD Desktop Mainstream 1TB 7,200 RPM SATA I=
+II 6.0Gb/s 3.5&quot; Internal Hard Drive </a></td>
+          </tr>       =
+
+        <tr>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">2TB $69.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT 1 / IN-STORE ONLY / REG. $99.99; 248674</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">1TB $49.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT 1 / IN-STORE ONLY / REG. $64.99; 648014, 981878</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$39.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT 1 / IN-STORE ONLY / 622456</span></td>
+          </tr>
+                  <tr>
+                    <td align=3D"left" valign=3D"top"><span style=3D"font=
+:bolder 20px Arial, Helvetica, sans-serif; color:#aa0c17;">3TB $84.99</sp=
+an><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT 1 / IN-STORE ONLY / REG. $124.99; 846212</span></td>
+                    <td align=3D"left" valign=3D"top"><span style=3D"font=
+:bolder 20px Arial, Helvetica, sans-serif; color:#aa0c17;">4TB $109.99</s=
+pan><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT ONE / IN-STORE ONLY / REG. $139.99; 648097</span></td>
+            <td align=3D"left" valign=3D"top"></td>
+                  </tr>
+                        <tr>
+                           <td align=3D"left" valign=3D"top"></td>
+                            <td align=3D"left" valign=3D"top"></td>
+                            <td align=3D"left" valign=3D"top"></td>
+                                    </tr>
+                                     <tr>
+                                       <td colspan=3D"1" align=3D"right" =
+valign=3D"top" style=3D"background-color: #000000; padding: 5px; font: 19=
+px Arial, Helvetica, sans-serif;">
+                                         <a href=3D"http://email.microcen=
+termedia.com/119e5f36flayfousiashhyeiaaaaaa23ie5vaviwunayaaaaa" target=3D=
+"_blank">
+                                       <span style=3D"font:bolder 16px Ar=
+ial, Helvetica, sans-serif; color: #FFF; text-decoration: underline;">SHO=
+P ALL Internal HDs&nbsp;&raquo;</span></a></td>
+                                       <td colspan=3D"1" align=3D"right" =
+valign=3D"top" style=3D"background-color: #000000; padding: 5px; font: 19=
+px Arial, Helvetica, sans-serif;">
+                                         <a href=3D"http://email.microcen=
+termedia.com/1e7a8a9d2layfousiashhyeqaaaaaa23ie5vaviwunayaaaaa" target=3D=
+"_blank">
+                                       <span style=3D"font:bolder 16px Ar=
+ial, Helvetica, sans-serif; color: #FFF; text-decoration: underline;">SHO=
+P ALL Ext HDs&nbsp;&raquo;</span></a></td>
+            <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"bac=
+kground-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-s=
+erif;">
+                                         <a href=3D"http://email.microcen=
+termedia.com/104bc9d86layfousiashhyeyaaaaaa23ie5vaviwunayaaaaa" target=3D=
+"_blank">
+                                       <span style=3D"font:bolder 16px Ar=
+ial, Helvetica, sans-serif; color: #FFF; text-decoration: underline;">SHO=
+P ALL Internal HDs&nbsp;&raquo;</span></a></td>
+              </tr>
+        </table></td>
+    </tr>    =
+
+        <tr>
+          <td colspan=3D"2" align=3D"left" valign=3D"top" class=3D"hide">=
+<img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spacer.gif" a=
+lt=3D"" width=3D"300" height=3D"8" /></td>
+      </tr>
+        <tr>
+      <td colspan=3D"4" align=3D"left" valign=3D"top"><a href=3D"http://e=
+mail.microcentermedia.com/1a1e6762elayfousiashhyfaaaaaaa23ie5vaviwunayaaa=
+aa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/=
+12328842/Seagate_blowout_banner.jpg" alt=3D"Seagate Internal Hard Drives =
+- HARD DRIVE BLOWOUT!" width=3D"640" height=3D"145" border=3D"0"/></a></t=
+d>
+    </tr>   =
+
+<tr>
+          <td colspan=3D"2" align=3D"left" valign=3D"top" class=3D"hide">=
+<img src=3D"http://dimages.bfi0.com/images/4800012/12388570/spacer.gif" a=
+lt=3D"" width=3D"300" height=3D"8" /></td>
+      </tr> =
+
+
+
+       <tr>
+		<td align=3D"left" valign=3D"top"><table width=3D"100%" cellspacing=3D"=
+1" cellpadding=3D"2">
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_443.png" alt=3D"EVGA" width=3D"1=
+00" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/142f2427alayfous=
+iashhyfiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/444419_597039_01_front_thumbnail.jpg?143525973=
+0478" alt=3D"EVGA 16GB DDR3-1600 (PC3-12800) CL 9 Desktop Memory Kit (Two=
+ 8GB Memory Modules)" width=3D"165" border=3D"0" class=3D"product_image" =
+/></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_443.png" alt=3D"EVGA" width=3D"1=
+00" height=3D"32" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/1bcbf18c7layfous=
+iashhyfqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/444402_596932_01_front_thumbnail.jpg?143316688=
+3202" alt=3D"EVGA 16GB DDR3-1600 (PC3-12800) CL 9 Desktop Memory Kit (Two=
+ Memory Modules)" width=3D"175" border=3D"0" class=3D"product_image" /></=
+a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_1134.png" alt=3D"Samsung" width=3D=
+"90"  vspace=3D"2" class=3D"hide"/><br/>
+            <a href=3D"http://email.microcentermedia.com/15fab2c93layfous=
+iashhyfyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/442388_553933_01_front_thumbnail.jpg?143463577=
+9136" alt=3D"Samsung 850 EVO-Series 500GB SATA III 6Gb/s 2.5&quot; Intern=
+al SSD Single Unit" width=3D"165" border=3D"0" class=3D"product_image" vs=
+pace=3D"0"/></a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/19714e6ddlayfousiashhygaaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">EVGA 16GB DDR3-2400 (PC3-19200) CL 11 Desk=
+top Memory Kit (Two 8GB Memory Modules)</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/17400d289layfousiashhygiaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">EVGA 16GB DDR3-1600 (PC3-12800) CL 9 Deskt=
+op Memory Kit (Two Memory Modules)</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/18a4d8834layfousiashhygqaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Samsung 850 EVO-Series 500GB SATA III 6Gb/=
+s 2.5&quot; Internal SSD Single Unit </a></td>
+          </tr>       =
+
+        <tr>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$99.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>LIMIT 2 / IN-STORE ONLY / 597039</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">16GB $94.99</span><br />=
+
+                      <span style=3D"font:10px Verdana, sans-serif; color=
+:#666666;">IN-STORE ONLY / REG. $109.99; 596973</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 18=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">EMAIL FOR PRICE</span><b=
+r />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>IN-STORE ONLY / REG. $199.99; 553792</span></td>
+          </tr>
+                  <tr>
+                    <td align=3D"left" valign=3D"top"></td>
+                    <td align=3D"left" valign=3D"top"></td>
+                  </tr>
+                                    <tr>
+                                      <td align=3D"left" valign=3D"top"><=
+/td>
+                                      <td align=3D"left" valign=3D"top"><=
+/td>
+          <td align=3D"left" valign=3D"top"></td>
+                                    </tr>
+                                                                         =
+ <tr>
+                                       =
+
+                                       <td colspan=3D"2" align=3D"right" =
+valign=3D"top" style=3D"background-color: #000000; padding: 5px; font: 19=
+px Arial, Helvetica, sans-serif;">
+                                         <a href=3D"http://email.microcen=
+termedia.com/16959bc60layfousiashhygyaaaaaa23ie5vaviwunayaaaaa" target=3D=
+"_blank">
+                                       <span style=3D"font:bolder 16px Ar=
+ial, Helvetica, sans-serif; color: #FFF; text-decoration: underline;">SHO=
+P ALL NEW EVGA Memory&nbsp;&raquo;</span></a></td>
+            <td colspan=3D"1" align=3D"right" valign=3D"top" style=3D"bac=
+kground-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-s=
+erif;">
+                                         <a href=3D"http://email.microcen=
+termedia.com/17b2c95ddlayfousiashhyhaaaaaaa23ie5vaviwunayaaaaa" target=3D=
+"_blank">
+                                       <span style=3D"font:bolder 16px Ar=
+ial, Helvetica, sans-serif; color: #FFF; text-decoration: underline;">SHO=
+P ALL SSDs&nbsp;&raquo;</span></a></td>
+              </tr>
+        </table></td>
+    </tr>  =
+
+    =
+
+    =
+
+    =
+
+                =
+
+             <tr>
+                   <td colspan=3D"2" align=3D"left" valign=3D"top"><img s=
+rc=3D"http://dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"=
+" width=3D"300" height=3D"10" /></td>
+        </tr>
+    <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100=
+%" cellspacing=3D"1" cellpadding=3D"2">
+        <tr>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_854.png" alt=3D"Microsoft" width=
+=3D"88" height=3D"28" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/19838a189layfous=
+iashhyhiaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/0431194_166645.jpg" alt=3D"Microsoft Windows&r=
+eg; 7 Home Premium SP1 64-bit English - OEM" width=3D"175" border=3D"0" v=
+space=3D"2" class=3D"product_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_854.png" alt=3D"Microsoft" width=
+=3D"88" height=3D"28" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/16675fb34layfous=
+iashhyhqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/0422489_819565.jpg" alt=3D"Microsoft Windows&r=
+eg; 8.1 64-bit English - 1 Pack OEM" width=3D"160" border=3D"0" vspace=3D=
+"2" class=3D"product_image" /></a></td>
+          <td width=3D"33%" align=3D"center" valign=3D"top" ><img src=3D"=
+http://c783319.r19.cf2.rackcdn.com/logos_2447.png" alt=3D"HP" width=3D"35=
+" vspace=3D"2" class=3D"hide" /><br/>
+            <a href=3D"http://email.microcentermedia.com/18561cf60layfous=
+iashhyhyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank"><img src=3D"http://c=
+773974.r74.cf2.rackcdn.com/447680_688259_01_front_thumbnail.jpg?143586231=
+0595" alt=3D"HP Deskjet 2542 Wireless All-in-One Printer" width=3D"160" b=
+order=3D"0" vspace=3D"2" class=3D"product_image" /></a></td>
+          </tr>
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/14dde052elayfousiashhyiaaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Microsoft Windows&reg; 7 Home Premium SP1 =
+64-bit English - OEM</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/1aeca317alayfousiashhyiiaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Microsoft Windows&reg; 8.1 64-bit English =
+- 1 Pack OEM</a></td>
+          <td align=3D"left" valign=3D"top" style=3D"font:14px Verdana, A=
+rial, Helvetica, sans-serif; border-bottom: 1px solid #ececec;"><a href=3D=
+"http://email.microcentermedia.com/150876bc7layfousiashhyiqaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">HP Deskjet 2542 Wireless All-in-One Printe=
+r</a></td>
+          </tr>       =
+
+        <tr>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$99.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>IN-STORE ONLY / REG. $109.99; 166645</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$99.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>REG. $109.99; 819565</span></td>
+          <td align=3D"left" valign=3D"top"><span style=3D"font:bolder 20=
+px Arial, Helvetica, sans-serif; color:#aa0c17;">$19.99</span><br />
+            <span style=3D"font:10px Verdana, sans-serif; color:#666666;"=
+>IN-STORE ONLY / 688259</span></td>
+          </tr>
+                                     <tr>
+          <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"backg=
+round-color: #000000; padding: 5px; font: 19px Arial, Helvetica, sans-ser=
+if;">
+            <a href=3D"http://email.microcentermedia.com/1b3935f93layfous=
+iashhyiyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">
+          <span style=3D"font:bolder 16px Arial, Helvetica, sans-serif; c=
+olor: #FFF; text-decoration: underline;">SHOP ALL Operating Systems Softw=
+are&nbsp;&raquo;</span></a></td>
+          <td align=3D"right" valign=3D"top" style=3D"background-color: #=
+000000; padding: 5px; font: 19px Arial, Helvetica, sans-serif;"><a href=3D=
+"http://email.microcentermedia.com/116c9b43blayfousiashhyjaaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank"> <span style=3D"font:bolder 16px Arial, He=
+lvetica, sans-serif; color: #FFF; text-decoration: underline;">SHOP ALL P=
+rinters&nbsp;&raquo;</span></a></td>
+              </tr>
+        </table></td>
+    </tr>
+                 <tr>
+                   <td colspan=3D"2" align=3D"left" valign=3D"top"><img s=
+rc=3D"http://dimages.bfi0.com/images/4800012/12382525/spacer.gif" alt=3D"=
+" width=3D"300" height=3D"10" /></td>
+        </tr>
+ =
+
+      <tr>
+        <td colspan=3D"2" align=3D"left" valign=3D"top"><a href=3D"http:/=
+/email.microcentermedia.com/1f5dd806flayfousiashhyjiaaaaaa23ie5vaviwunaya=
+aaaa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/480001=
+2/12405562/motherboard_banner.jpg" alt=3D"Gigabyte Z97x-UD5H" width=3D"64=
+0" height=3D"200" border=3D"0" /></a><a href=3D"http://email.microcenterm=
+edia.com/10b90dad2layfousiashhyjqaaaaaa23ie5vaviwunayaaaaa" target=3D"_bl=
+ank"></a></td>
+    </tr> =
+
+   <tr>
+        <td align=3D"left" valign=3D"top">
+        <img src=3D"http://dimages.bfi0.com/images/4800012/12384544/space=
+r.gif" alt=3D"" width=3D"320" height=3D"8" /></td>
+      </tr> =
+
+ <tr>
+      <td colspan=3D"2" align=3D"right" valign=3D"top" style=3D"padding-t=
+op: 12px; padding-bottom: 19px;">
+<!-- start BUTTON table -->
+          <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D=
+"margin-top: 20px;">
+          <tr>
+          <td align=3D"left"><a href=3D"http://email.microcentermedia.com=
+/1e884ee86layfousiashhyjyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank" sty=
+le=3D"font-size: 1.25em; font-family: Arial, Helvetica, sans-serif; font-=
+weight: normal; color: white; text-decoration: none; background-color:#00=
+0000; border-top: 12px solid #000000; border-bottom:12px solid #000000; b=
+order-left: 25px solid #000000; border-right: 36px solid #000000; display=
+: inline-block;">SHOP ALL COMPUTER PARTS &raquo;</a></td></tr></table>   =
+                                            =
+
+                                                          =
+
+                    <!-- end BUTTON table -->
+</td>
+  </tr>    =
+
+   <tr>
+    <td colspan=3D"2" align=3D"left" valign=3D"top"><font face=3D"Verdana=
+, Arial, Helvetica, sans-serif" size=3D"1">PRICES GOOD JULY 03 - JULY 05,=
+ 2015</font></td>
+  </tr>
+<tr>
+        <td colspan=3D"3" align=3D"left" valign=3D"top"><img src=3D"http:=
+//dimages.bfi0.com/images/4800012/12382540/spacer.gif" alt=3D"" width=3D"=
+640" height=3D"8" /></td>
+      </tr>
+   <tr>
+    <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100%"=
+ cellspacing=3D"1" cellpadding=3D"2" class=3D"hide" style=3D"padding-top:=
+ 12px;">
+      <tr>
+        <td width=3D"20%" align=3D"left" valign=3D"top"><table width=3D"1=
+00%" cellspacing=3D"1" cellpadding=3D"1" style=3D"border: 1px solid #cccc=
+cc;">
+          <tr>
+            <td align=3D"center" valign=3D"middle"><a href=3D"http://emai=
+l.microcentermedia.com/1203b24c8layfousiashhykaaaaaaa23ie5vaviwunayaaaaa"=
+ target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/123=
+88570/logo_facebook.gif" alt=3D"FaceBook" width=3D"41" height=3D"24" bord=
+er=3D"0" /></a></td>
+            <td align=3D"center" valign=3D"middle"><a href=3D"http://emai=
+l.microcentermedia.com/1c32f109clayfousiashhykiaaaaaa23ie5vaviwunayaaaaa"=
+ target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/123=
+88570/logo_twitter.gif" alt=3D"Twitter" width=3D"41" height=3D"24" border=
+=3D"0" /></a></td>
+            <td align=3D"center" valign=3D"middle"><a href=3D"http://emai=
+l.microcentermedia.com/13d624a21layfousiashhykqaaaaaa23ie5vaviwunayaaaaa"=
+ target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012/123=
+88570/logo_youtube.gif" alt=3D"YouTube" width=3D"60" height=3D"24" border=
+=3D"0" /></a></td>
+          </tr>
+        </table></td>
+        <td width=3D"80%" align=3D"left" valign=3D"top" style=3D"font:14p=
+x Arial, Helvetica, sans-serif; color: black; padding-left: 13px;" ><a hr=
+ef=3D"http://email.microcentermedia.com/1de767e75layfousiashhykyaaaaaa23i=
+e5vaviwunayaaaaa" target=3D"_blank">Create a Micro Center Insider Account=
+ Now</a> and get Insider Treatment!</td>
+      </tr>
+    </table></td>
+  </tr>
+     <tr>
+    <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100%"=
+ cellspacing=3D"4" cellpadding=3D"4" class=3D"hide" style=3D"padding-top:=
+ 8px;">
+      <tr>
+        <td width=3D"50%" align=3D"left" valign=3D"top" ><div style=3D"fo=
+nt:12px Arial, Helvetica, sans-serif; color: white; background-color: bla=
+ck; padding: 4px; border-right: 12px solid yellow;"><a href=3D"http://ema=
+il.microcentermedia.com/1a0e6d611layfousiashhylaaaaaaa23ie5vaviwunayaaaaa=
+" target=3D"_blank" style=3D"font:12px Arial, Helvetica, sans-serif; colo=
+r: white; text-decoration: none;">In-store Service &amp; Repair<br />
+          Fast and reliable. Certified techs. Satisfaction guaranteed.</a=
+></div></td>
+        <td width=3D"50%" align=3D"left" valign=3D"top"><div style=3D"fon=
+t:12px Arial, Helvetica, sans-serif; color: black; border: 4px double #00=
+ccff; padding: 4px;"><a href=3D"http://email.microcentermedia.com/143f2e2=
+45layfousiashhyliaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">Tech Suppor=
+t Online</a><br />
+          Chat. Forum. Self-help. Email. Deep resources and Great Minds.<=
+/div></td>
+      </tr>
+      <tr>
+        <td align=3D"left" valign=3D"top" style=3D"font:12px Arial, Helve=
+tica, sans-serif; color: black;"><a href=3D"http://email.microcentermedia=
+=2Ecom/1bdbfb8f8layfousiashhylqaaaaaa23ie5vaviwunayaaaaa" target=3D"_blan=
+k">Battery Finder</a><br />
+          High-quality, low-price batteries</td>
+        <td align=3D"left" valign=3D"top" style=3D"font:12px Arial, Helve=
+tica, sans-serif; color: black;"><a href=3D"http://email.microcentermedia=
+=2Ecom/15eab8caclayfousiashhylyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blan=
+k">In-store Clinics</a>:<br />
+          Free. Featuring today's hottest topics</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"100%"=
+ border=3D"0" class=3D"hide" style=3D"-moz-border-radius: 5px; -webkit-bo=
+rder-radius: 5px; border: 1px solid #aead9a; padding: 2px; background-col=
+or: #e2e1d2;">
+      <tr>
+        <td width=3D"70" align=3D"left" valign=3D"top"><a href=3D"http://=
+email.microcentermedia.com/1961446e2layfousiashhymaaaaaaa23ie5vaviwunayaa=
+aaa" target=3D"_blank"><img src=3D"http://dimages.bfi0.com/images/4800012=
+/12388570/creditcard40.gif" alt=3D"The Micro Center Credit Card" width=3D=
+"53" height=3D"40" border=3D"0" style=3D"padding-left: 8px;"/></a></td>
+         <td align=3D"left" style=3D"background-color: #e2e1d2; font:12px=
+ Arial, Helvetica, sans-serif; color:black;">For qualifying purchases of =
+$240 or more, no interest if paid in full within 6 months. Interest will =
+be charged to your account from the purchase date if the purchase balance=
+ is not paid in full within the promotional period.*&nbsp;&nbsp;<a href=3D=
+"http://email.microcentermedia.com/1750072b6layfousiashhymiaaaaaa23ie5vav=
+iwunayaaaaa" target=3D"_blank">Click for Details</a> &raquo;</td>
+      </tr>
+    </table></td>
+  </tr>
+    <tr>
+      <td colspan=3D"2" align=3D"left" valign=3D"top"><table width=3D"640=
+" border=3D"0" align=3D"center" cellpadding=3D"2" cellspacing=3D"0" style=
+=3D"border-top: 1px solid #a0b8e4; margin-top: 4px;">
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:10px Verdana, A=
+rial, Helvetica, sans-serif; color: #666666;">&raquo; PLEASE DO NOT RESPO=
+ND TO THIS EMAIL<br />
+            &nbsp;&nbsp; <a href=3D"http://email.microcentermedia.com/18b=
+4d280blayfousiashhymqaaaaaa23ie5vaviwunayaaaaa/C?V=3DbF9pbmRleAEBcHJvZmls=
+ZV9pZAExODAxOTg3OTQ2AXppcF9jb2RlAQFTVE9SRQExNDEBRVFVSUZBWF9DQU1QQUlHTl9JR=
+AFFMjkzNgFFUVVJRkFYX0FDVElWSVRZX0lEAUUyOTM2MDAwMQFfV0FWRV9JRF8BMTc4NDQzMz=
+Y4AV9QTElTVF9JRF8BOTczMDI3NQFnX2luZGV4AQFlbWFpbF9hZGRyAW1hcmtpZXdpY3ouam9=
+obkBnbWFpbC5jb20BX1NDSERfVE1fATIwMTUwNzAzMDkzMTAwAXByb2ZpbGVfa2V5AW1hcmtp=
+ZXdpY3ouam9obkBnbWFpbC5jb20%3D&UfH6RCsT4pOFZcnk3YaXSw" target=3D"_blank">=
+Unsubscribe/Modify</a> | <a href=3D"http://email.microcentermedia.com/168=
+591c5flayfousiashhymyaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">Privacy=
+ Policy</a> | <a href=3D"http://email.microcentermedia.com/1cd03f7f7layfo=
+usiashhynaaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">Terms and Conditio=
+ns of Advertised Specials</a></td>
+        </tr>
+          <tr>
+          <td align=3D"left" valign=3D"top" class=3D"hide"><img src=3D"ht=
+tp://dimages.bfi0.com/images/4800012/12388570/spacer.gif" alt=3D"" width=3D=
+"300" height=3D"4" /></td>
+      </tr> =
+
+        <tr>
+          <td align=3D"left" valign=3D"top" style=3D"font:10px Verdana, A=
+rial, Helvetica, sans-serif; color: #666666;"><strong>eNews Update</stron=
+g> has been sent to you by Micro Center: computers &amp; electronics<br /=
+>
+              <span class=3D"appleLINKS">Email Communications Department =
+| 4119 Leap Road | Hilliard, Ohio 43026</span><br />
+            If opting out by postal mail, please include your email addre=
+ss.<br />
+            <a href=3D"http://email.microcentermedia.com/12e17c3a3layfous=
+iashhyniaaaaaa23ie5vaviwunayaaaaa" target=3D"_blank">&copy; Micro Electro=
+nics, Inc.</a><br />
+             <br />
+          Please Note: Micro Center and Micro Center Online are not respo=
+nsible for typographical errors. Any typographical errors within this ema=
+il and associated coupons are subject to correction. Offers valid only wh=
+ile supplies last.</td>
+      </tr>
+      <tr>
+          <td align=3D"left" valign=3D"top" class=3D"hide" style=3D"font:=
+10px Verdana, Arial, Helvetica, sans-serif; color: #666666;">*The MicroCe=
+nter credit card is issued by Wells Fargo Financial National Bank. Specia=
+l terms apply to qualifying purchases charged with approved credit. Regul=
+ar monthly payments are required during the promotional (special terms) p=
+eriod. Interest will be charged to your account from the purchase date at=
+ the APR for Purchases if the purchase balance is not paid in full within=
+ the promotional period. For newly opened accounts, the APR for Purchases=
+ is 27.99%. This APR may vary with the market based on the U.S. Prime Rat=
+e and is given as of <span class=3D"appleLINKS">4/1/2015.</span> If you a=
+re charged interest in any billing cycle, the minimum interest charge wil=
+l be $1.00. Offer expires <span class=3D"appleLINKS">7/31/2015.</span></t=
+d>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</td>
+</tr>
+</table>
+<style>@media print{ #_t { background-image: url('https://7gibst1w.emltrk=
+=2Ecom/7gibst1w?p&d=3Dmarkiewicz.john@gmail.com&t=3DE2936|E29360001');}} =
+div.OutlookMessageHeader {background-image:url('https://7gibst1w.emltrk.c=
+om/7gibst1w?f&d=3Dmarkiewicz.john@gmail.com&t=3DE2936|E29360001')} table.=
+moz-email-headers-table {background-image:url('https://7gibst1w.emltrk.co=
+m/7gibst1w?f&d=3Dmarkiewicz.john@gmail.com&t=3DE2936|E29360001')} blockqu=
+ote #_t {background-image:url('https://7gibst1w.emltrk.com/7gibst1w?f&d=3D=
+markiewicz.john@gmail.com&t=3DE2936|E29360001')} #MailContainerBody #_t {=
+background-image:url('https://7gibst1w.emltrk.com/7gibst1w?f&d=3Dmarkiewi=
+cz.john@gmail.com&t=3DE2936|E29360001')}</style><div id=3Dmarkiewicz.john=
+@gmail.com&t=3DE2936|E29360001"_t"></div>
+<img src=3D"https://7gibst1w.emltrk.com/7gibst1w?d=3Dmarkiewicz.john@gmai=
+l.com&t=3DE2936|E29360001" width=3D"1" height=3D"1" border=3D"0" />
+<IMG SRC=3D"http://email.microcentermedia.com/1bf12d5c7layfor2iacu2dgaaaa=
+aaa23ie5vaviwunayaaaaa"></body>
+</html>
+
+--ABCD-197730902layfovciacu2dgaaaaaaa23ie5vaviwunayaaaaa-EFGH--

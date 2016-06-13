@@ -1,0 +1,96 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=Y/FEpHqJYuInC2vMZAyOjguB0cVHvKeTN06i8B7jHmk=;
+        b=iZ1hu3keXeTEGkePmcXWgHY45KENd4rkIMtnQqDFhCqDovBgWQqSLex9fh6S/xpeov
+         yfH9nD95dvGc5OMJAFkqaEplCSpaoAUt6kXxaZP/E87eLgAIlFFuIJumKHk8dD0u0thO
+         DJ2KX+ciENeDn94Jc6iuDAqCZpX1I793eIo61CbGoyC2zPDCowIc5K5JkLt/D2li957u
+         B+ZVFLYyj8DHQCA8wbBgPK8PTaoWHy1m/32Or17dNAVZYYM7+MY1rR9ZRkloqV6NnnPX
+         rmI21waqBrNaTA64SeWgKCYB5pz1O+VbX2yztQe9K7EVv8StCjaVKH4KKXV/E2hXHd6W
+         omrA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=Y/FEpHqJYuInC2vMZAyOjguB0cVHvKeTN06i8B7jHmk=;
+        b=F8vkhpawrRTpi/Vf1fXkhsNPOYh1/iqiVdUE+7tpfMIR/+/ZJOWi2NhgyHoRsmoPr+
+         CqM9d85deGKzbLxTqAAtZNX5U7wicmWL/HMSsgIBFJDKQcx5/kHla5NbcU3ezi+b1ywv
+         tNCXOqZVXGNldUKgy/SsSdZN0Ge7HRTFYBBeZUt4zqt/Emr/c080OTSA0Zs0HQiCSN6+
+         CBKD27ZX/4c07983iM3I9e5NeZAno+KTEynFlS30QMXSyalwiu/0rkP84sEWnNmxDhxo
+         M1ISqK410U3RbE1oRKwtaTuYYFYaAjmLy7u5oAwxpR0gFr/O2Qjci6KtaMZM8BPM23C9
+         TRXw==
+X-Gm-Message-State: ALoCoQmpI7yJ4Uf6CYOkHWDvAb3ukD8ZMWEz0VHY0elCztL2HG8qyBnj1O4QKCRsLO+hpUs5pQUh
+MIME-Version: 1.0
+X-Received: by 10.31.171.131 with SMTP id u125mr18283862vke.155.1448281348653;
+ Mon, 23 Nov 2015 04:22:28 -0800 (PST)
+Date: Mon, 23 Nov 2015 07:22:28 -0500
+Message-ID: <CAGs8aKpsaNOfdv2NZhgtjfmHyY1QxCRDyr==QqXA2LPQi4ORHg@mail.gmail.com>
+Subject: Poinsettia Reminders
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a114391345269f80525344792
+
+--001a114391345269f80525344792
+Content-Type: text/plain; charset=UTF-8
+
+Hello All!
+As the excitement for Thanksgiving break grows, I wanted to send out an
+early reminder that Poinsettia pick-up is this coming Sunday, Nov. 29th.
+Please plan to pick up your orders between 4-6 in the Choir Room.
+If you will be out of town, please make other arrangements to pick up the
+plants.
+
+Parents who are volunteering to help sort the plants, please arrive at
+Watterson at 2pm. This is a change from my original email.
+
+Thanks! I'll remind everyone again closer to the pick-up date.
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a114391345269f80525344792
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello All!<div>As the excitement for Thanksgiving break gr=
+ows, I wanted to send out an early reminder that Poinsettia pick-up is this=
+ coming Sunday, Nov. 29th.</div><div>Please plan to pick up your orders bet=
+ween 4-6 in the Choir Room.=C2=A0</div><div>If you will be out of town, ple=
+ase make other arrangements to pick up the plants.</div><div><br></div><div=
+>Parents who are volunteering to help sort the plants, please arrive at Wat=
+terson at 2pm. This is a change from my original email.=C2=A0</div><div><br=
+></div><div>Thanks! I&#39;ll remind everyone again closer to the pick-up da=
+te.</div><div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><di=
+v style=3D"margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><font colo=
+r=3D"#000000" face=3D"Calibri">Christen Joyce</font></span></b></div><font =
+color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"ma=
+rgin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Cal=
+ibri" size=3D"3">Choral Director</font></span></b></p><font color=3D"#00000=
+0" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0p=
+t"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3=
+"><span><font color=3D"#830b2c">Bishop</font></span> <span><font color=3D"#=
+830b2c">Watterson</font></span> High School</font></span></b></p><font colo=
+r=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin=
+:0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calibri" size=3D"3"><a =
+href=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" target=3D"_blank">=
+<font color=3D"#1155cc">(614) 268-8671</font></a> x 289</font></span></p><f=
+ont color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><div style=
+=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a href=3D"htt=
+p://www.bishopwatterson.com/" target=3D"_blank"><span style=3D"color:rgb(13=
+1,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwatterson.com</font><=
+/span></a></span></div><div style=3D"margin:0in 0in 0pt"><span style=3D"col=
+or:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=3D"https://docs.go=
+ogle.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;rev=
+id=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr">=
+<div><div></div></div></div><div dir=3D"ltr"><div></div></div></span></div>=
+</div></div></div></div>
+</div></div>
+
+--001a114391345269f80525344792--

@@ -1,0 +1,100 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1487936oid;
+        Fri, 10 Jul 2015 05:45:22 -0700 (PDT)
+X-Received: by 10.180.77.115 with SMTP id r19mr6112545wiw.9.1436532322052;
+        Fri, 10 Jul 2015 05:45:22 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x234.google.com (mail-wi0-x234.google.com. [2a00:1450:400c:c05::234])
+        by mx.google.com with ESMTPS id ho2si14792473wjb.162.2015.07.10.05.45.21
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 10 Jul 2015 05:45:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) client-ip=2a00:1450:400c:c05::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@washandlee.org
+Received: by mail-wi0-x234.google.com with SMTP id mz13so10822540wic.0
+        for <kuiperhaumea@gmail.com>; Fri, 10 Jul 2015 05:45:21 -0700 (PDT)
+X-Received: by 10.180.198.52 with SMTP id iz20mr5899073wic.77.1436532321237;
+        Fri, 10 Jul 2015 05:45:21 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1244753wmd;
+        Fri, 10 Jul 2015 05:45:20 -0700 (PDT)
+X-Received: by 10.55.17.133 with SMTP id 5mr7435417qkr.2.1436532320208;
+        Fri, 10 Jul 2015 05:45:20 -0700 (PDT)
+Return-Path: <WashandLeeUniversity@washandlee.org>
+Received: from mta931.app-info.net (mta931.app-info.net. [68.142.179.31])
+        by mx.google.com with ESMTP id n78si10614706qgd.64.2015.07.10.05.45.19
+        for <markiewicz.john@gmail.com>;
+        Fri, 10 Jul 2015 05:45:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of WashandLeeUniversity@washandlee.org designates 68.142.179.31 as permitted sender) client-ip=68.142.179.31;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=washandlee.org; h=date
+	:from:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=6GRgrKfezvLJSCAxYwUgWtqHiWc=; b=N3XjC6mPXc
+	whzt/B63EeFuySfy48K/HftfVVc6tJGO1Cu/H6fgLVCZj38eAlt0X0SfqBm06+dt
+	AAAKJEl2vgwU8OgOsvcDotOet0jAMsoMoZKPo0kMKuq3pIw0BcVddzNMAu8km74D
+	Y9XCRN/D/CdggBJ/ygh886/UokvaKKs4Q=
+Received: from mta61.app-info.net by localhost.app-info.net with Rome(1.0.38450) id <pd.2.pF2.jA17534.sJj.21424422.rA7.1388.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Fri, 10 Jul 2015 08:16:57 -0400
+Date: Fri, 10 Jul 2015 08:16:57 -0400 (EDT)
+From: Washington and Lee University <WashandLeeUniversity@washandlee.org>
+Reply-To: Washington and Lee University <WashandLeeUniversity@washandlee.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <1178030847.2071902.1436530617775.JavaMail.nobody@clavin4121.royall.com>
+Subject: More about Washington and Lee University
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <https://www.washandlee.org/eosm/esuppress.asp?pin=12Z1C4I2W4E4I2K2RAM~8&c=211&e=markiewicz.john@gmail.com&ln=SNR&action=unsubscriberfc2369>, <mailto:WashandLeeUniversity@washandlee.org?subject=unsubscriberfc2369%2012Z1C4I2W4E4I2K2RAM~8%20211%20SNR>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>More about Washington and Lee University</title>
+</head>
+<body>
+<p>Dear John,</p>=20
+<p>This fall, it will be time to begin your college applications. Before th=
+at time comes, I encourage you to get to know the Washington and Lee Univer=
+sity community better.</p>=20
+<p><a href=3D"https://www.washandlee.org/turn/cai/aZF/spn/12Z1C4I2W4E4I2K2R=
+AM~8/lik/y0pd/cyp/Ut/cmm/211/esd/d6b8f0907bbcec2235cca79b9b05c45ccf064b20/"=
+>Visit us online</a> and you will soon discover that W&amp;L:</p>=20
+<ul>=20
+ <li>Boasts an innovative, four-week Spring Term and a renowned Honor Syste=
+m.</li>=20
+ <li>Offers a rich history and <a href=3D"https://www.washandlee.org/turn/c=
+ai/aZF/spn/12Z1C4I2W4E4I2K2RAM~8/lik/y0pD/cyp/Ut/cmm/211/esd/d6b8f0907bbcec=
+2235cca79b9b05c45ccf064b20/">stimulating academic environment</a> on a beau=
+tiful campus.</li>=20
+ <li>Recognizes leadership and potential through our prestigious <a href=3D=
+"https://www.washandlee.org/turn/cai/aZF/spn/12Z1C4I2W4E4I2K2RAM~8/lik/y0p1=
+/cyp/Ut/cmm/211/esd/d6b8f0907bbcec2235cca79b9b05c45ccf064b20/">Johnson Scho=
+larship Program</a> (in addition to a variety of other scholarships).</li>=
+=20
+</ul>=20
+<p>If you would like the opportunity to see our campus firsthand this summe=
+r, you can <a href=3D"https://www.washandlee.org/turn/cai/aZF/spn/12Z1C4I2W=
+4E4I2K2RAM~8/lik/y0pm/cyp/Ut/cmm/211/esd/d6b8f0907bbcec2235cca79b9b05c45ccf=
+064b20/">schedule a visit here</a>.</p>=20
+<p>Thank you for your continued interest in W&amp;L, John. We look forward =
+to reviewing your application in your senior year.</p>=20
+<p>Sally Stone Richmond<br />Vice President for Admissions and Financial Ai=
+d<br /> Washington and Lee University</p>=20
+<p style=3D"font-size: 0.8em;">We received your email address from a nation=
+al student testing or research organization, or from a previous contact wit=
+h you. <a href=3D"https://www.washandlee.org/turn/cai/aZF/spn/12Z1C4I2W4E4I=
+2K2RAM~8/lik/y0pX/cyp/Ut/cmm/211/esd/d6b8f0907bbcec2235cca79b9b05c45ccf064b=
+20/">Let us know</a> if you'd rather not receive email from Washington and =
+Lee. If you have received this message in error, or if you have questions a=
+bout Washington and Lee or your application, contact the W&amp;L Office of =
+Admissions at (540) 458-8710.</p>=20
+<p style=3D"font-size: 0.8em;">Washington and Lee University, Gilliam House=
+, 204 West Washington Street, Lexington, VA 24450-2116</p>
+</body>
+</html>

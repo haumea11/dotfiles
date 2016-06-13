@@ -1,0 +1,111 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1978939oig;
+        Thu, 19 Nov 2015 06:14:20 -0800 (PST)
+X-Received: by 10.28.55.200 with SMTP id e191mr16835532wma.75.1447942460257;
+        Thu, 19 Nov 2015 06:14:20 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22b.google.com (mail-wm0-x22b.google.com. [2a00:1450:400c:c09::22b])
+        by mx.google.com with ESMTPS id u12si10659941wjr.94.2015.11.19.06.14.20
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 06:14:20 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) client-ip=2a00:1450:400c:c09::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22b as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@github.com;
+       dkim=pass header.i=@sendgrid.info;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+Received: by mail-wm0-x22b.google.com with SMTP id w144so111902136wmw.0
+        for <kuiperhaumea@gmail.com>; Thu, 19 Nov 2015 06:14:20 -0800 (PST)
+X-Received: by 10.194.187.179 with SMTP id ft19mr8641781wjc.176.1447942459058;
+        Thu, 19 Nov 2015 06:14:19 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1927134wme;
+        Thu, 19 Nov 2015 06:14:18 -0800 (PST)
+X-Received: by 10.50.70.40 with SMTP id j8mr8478811igu.70.1447942458339;
+        Thu, 19 Nov 2015 06:14:18 -0800 (PST)
+Return-Path: <bounces+848413-ebc9-markiewicz.john=gmail.com@sgmail.github.com>
+Received: from o3.sgmail.github.com (o3.sgmail.github.com. [192.254.112.98])
+        by mx.google.com with ESMTPS id i103si12271802iod.8.2015.11.19.06.14.17
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 06:14:18 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of bounces+848413-ebc9-markiewicz.john=gmail.com@sgmail.github.com designates 192.254.112.98 as permitted sender) client-ip=192.254.112.98;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=github.com; 
+	h=from:reply-to:to:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe; 
+	s=s20150108; bh=YOXkR1hRkFQck36R7TdvdP+6KRQ=; b=UXBgz2nCs1KHyZtZ
+	vBCfJ2lJ68KT6XvbQ8u8ExuuGyOMnJtQnT3PWIj7dxRBEjTJadEiTU1aDBVKxrp7
+	ijH1nYeMYeZ4yPGqqUcYfpwRxo8DdbnhYgH+qI2H6eQ+yzoSRss83GDurU0VE9Tx
+	82/hZcVQMv5AEYnAxWE6wLzghNw=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=YOXkR1hRkFQck36R7TdvdP+6KRQ=; b=xhPpzeo5wgsHNLqTpv
+	5kOgXwOnzz+FrUgUBMjJEfHccFhmaMF54m5ReeD6XI1BpX1uGI9AofgrnJs6NQ0Z
+	c0TynIRKjpLLYoPcR7LGcAIbWNxMZUKXudHxNxvtclSFoF821JVpILSdJj/cwfEQ
+	zVxtIvtrtVHWQv6aeVvva3+cc=
+Received: by filter0644p1mdw1.sendgrid.net with SMTP id filter0644p1mdw1.29500.564DD9374E
+        2015-11-19 14:14:15.506086084 +0000 UTC
+Received: from github-smtp2a-ext-cp1-prd.iad.github.net (github-smtp2a-ext-cp1-prd.iad.github.net [192.30.253.16])
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id wqtoj2wLTp2j_AG6QHTd1Q
+	for <markiewicz.john@gmail.com>; Thu, 19 Nov 2015 14:14:15.596 +0000 (UTC)
+Date: Thu, 19 Nov 2015 06:14:15 -0800
+From: =?UTF-8?B?SW5nbyBCw7xyaw==?= <notifications@github.com>
+Reply-To: Airblader/i3 <reply+00a6914d7524237074fe8705dc8a9ed2c17c793a7fb8fe0592cf0000000112659b3792a169ce0705b08a@reply.github.com>
+To: Airblader/i3 <i3@noreply.github.com>
+Message-ID: <Airblader/i3/issues/64/158069232@github.com>
+In-Reply-To: <Airblader/i3/issues/64@github.com>
+References: <Airblader/i3/issues/64@github.com>
+Subject: Re: [i3] Merging with i3 (#64)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_564dd9376b6bf_29a63fa9e534929c941254";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: Airblader
+X-GitHub-Recipient: haumea11
+List-ID: Airblader/i3 <i3.Airblader.github.com>
+List-Archive: https://github.com/Airblader/i3
+List-Post: <mailto:reply+00a6914d7524237074fe8705dc8a9ed2c17c793a7fb8fe0592cf0000000112659b3792a169ce0705b08a@reply.github.com>
+List-Unsubscribe: <mailto:unsub+00a6914d7524237074fe8705dc8a9ed2c17c793a7fb8fe0592cf0000000112659b3792a169ce0705b08a@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AKaRTTaXTO2-d9GQOF4XfhnXdI2_l1dGks5pHdC3gaJpZM4GliIX>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: markiewicz.john@gmail.com
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGVVsYepeNilbtlTouptZWYxfHshk1W0Uv7l/
+ 16VXtmJQRDHKBem1YToOeRis1/eWPs/xhn4pEKI4sCRMEpcelmVd4pCJKg8A/9cW/26pBNu6i8E58C
+ IJVyLCOCy7sz95XeIh+wQXOMJjaP4/+1T3nL
+X-Feedback-ID: 848413:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:SG
+
+----==_mimepart_564dd9376b6bf_29a63fa9e534929c941254
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+I'm generally happy about pull requests, but I don't really have any plany for features in i3-gaps. Most features I develop end up in i3 itself and find their way into i3-gaps through merging back.
+
+If there's specific features you want, open tickets for them so they can be discussed.
+
+---
+Reply to this email directly or view it on GitHub:
+https://github.com/Airblader/i3/issues/64#issuecomment-158069232
+----==_mimepart_564dd9376b6bf_29a63fa9e534929c941254
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>I'm generally happy about pull requests, but I don't really have any plany for features in i3-gaps. Most features I develop end up in i3 itself and find their way into i3-gaps through merging back.</p>
+
+<p>If there's specific features you want, open tickets for them so they can be discussed.</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">&mdash;<br>Reply to this email directly or <a href="https://github.com/Airblader/i3/issues/64#issuecomment-158069232">view it on GitHub</a>.<img alt="" height="1" src="https://github.com/notifications/beacon/AKaRTXF6_CfrjrR8bHnrsauac_hEmAtBks5pHdC3gaJpZM4GliIX.gif" width="1" /></p>
+<div itemscope itemtype="http://schema.org/EmailMessage">
+<div itemprop="action" itemscope itemtype="http://schema.org/ViewAction">
+  <link itemprop="url" href="https://github.com/Airblader/i3/issues/64#issuecomment-158069232"></link>
+  <meta itemprop="name" content="View Issue"></meta>
+</div>
+<meta itemprop="description" content="View this Issue on GitHub"></meta>
+</div>
+
+----==_mimepart_564dd9376b6bf_29a63fa9e534929c941254--

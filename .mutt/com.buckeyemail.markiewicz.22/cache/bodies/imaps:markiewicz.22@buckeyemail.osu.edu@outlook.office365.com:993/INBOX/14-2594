@@ -1,0 +1,567 @@
+Received: from BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.485.9 via Mailbox Transport; Wed, 11 May 2016 01:49:25 +0000
+Received: from BY2PR01CA0039.prod.exchangelabs.com (10.255.242.29) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.485.9; Wed, 11 May 2016 01:49:23 +0000
+Received: from BY2FFO11FD017.protection.gbl (2a01:111:f400:7c0c::192) by
+ BY2PR01CA0039.outlook.office365.com (2a01:111:e400:2c76::29) with Microsoft
+ SMTP Server (TLS) id 15.1.492.11 via Frontend Transport; Wed, 11 May 2016
+ 01:49:23 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.222)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.222 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.222; helo=cio-tnc-pf08.osuad.osu.edu;
+Received: from cio-tnc-pf08.osuad.osu.edu (164.107.81.222) by
+ BY2FFO11FD017.mail.protection.outlook.com (10.1.14.105) with Microsoft SMTP
+ Server (TLS) id 15.1.492.8 via Frontend Transport; Wed, 11 May 2016 01:49:22
+ +0000
+Received: from CIO-TNC-HT06.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf08.osuad.osu.edu (Postfix) with ESMTPS id BD4462E0058
+	for <markiewicz.22@buckeyemail.osu.edu>; Tue, 10 May 2016 21:49:21 -0400 (EDT)
+Received: from cssqlprd02.it.ohio-state.edu (140.254.168.4) by
+ smtp.service.osu.edu (164.107.81.254) with Microsoft SMTP Server id
+ 14.3.248.2; Tue, 10 May 2016 21:49:21 -0400
+From: <orientation@osu.edu>
+Reply-To: <orientation@osu.edu>
+To: <markiewicz.22@osu.edu>
+Message-ID: <1926874846.338.1462931361309.JavaMail.psoft@cssqlprd02.it.ohio-state.edu>
+Subject: Orientation Registration Confirmation
+Content-Type: multipart/mixed;
+	boundary="----=_Part_336_10196160.1462931361298"
+Date: Tue, 10 May 2016 21:49:21 -0400
+X-CFilter-Loop: Reflected
+Return-Path: orientation@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: 9180b610-c780-406f-847b-08d3793e79e9
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.107.81.222;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(3190300001)(252514010)(189002)(35754003)(199003)(54356999)(81686999)(53806999)(50986999)(87936001)(15975445007)(86816001)(11100500001)(16796002)(85226003)(345774005)(3450700001)(3480700004)(18206015028)(86362001)(450100001)(75432002)(110136002)(189998001)(5003600100002)(107886002)(8936002)(1096003)(90282001)(2171001)(2876002)(86152002)(19580395003)(19580405001)(93346002)(43066003)(1220700001)(6806005)(106466001)(512874002)(229853001)(2351001)(109096001)(89122001)(586003)(9686002)(2476003)(19617315012)(5008740100001)(19627595001)(4610100001)(84326002)(16601075003)(17760045003)(88552002)(7059030)(562774006);DIR:INB;SFP:;SCL:1;SRVR:BY2PR01MB396;H:cio-tnc-pf08.osuad.osu.edu;FPR:;SPF:Pass;MLV:sfv;MX:1;A:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BY2FFO11FD017;1:GeLpYV747nKQ3mpSdJQsf6Sq6/QVJdgM1k87xupBW2OjsmIKeBzBjrbcb/ITlhD8qMw70FXabVvGy+wMje92b5DrPSG9NbarhJht/OWXnYirVuUPoVWK1UO+6yIz808YpBUWZSFx2pNoB3tKJDjD27eVadVyA5u8vjI7Kzf7umrfKc87H1bIvMFgKfn5MngaLqwqIMfx00DeSEd9oHM0oNumkEh1ZEz8Jvxr1CWjO0prNPAdGRahJm3W1vFJa+qfpQJRq+rXUyIlE7CO/pSsO/cKoT5kAX08VLd2UC4DeSQc1QBKxnKo4KhZ+L1d7hVB6eb4IPBooXnOWtdO4iTdk3UwEcnd/95HYtzfWDPeqA5bRrXQcxgbywsz5+YQ63A3jX9ZniG3sRkB2hQg4K6Lj/9NIGVRexQHiQHIwsR1Hb0v3QR7leMbNj74P48DbtugcAfBagT5nDFe8URfgeAl7a5dhpThsHmrQqUPQiN0slEjS8j8T01P6vYk0h0ssRa3w3c+Ot5qgMm+szymyRXUjLEh/vXV8zNfSRdOAVOA2dbp4W3SqSYyfQYf8yrr6+ay3rZCrpue5k5rRBWgLPLzBkICsVeA2tsd71ejCOrdQAEB+LzWLBAfDtJwBT86eV1x
+X-MS-Office365-Filtering-Correlation-Id: 9180b610-c780-406f-847b-08d3793e79e9
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB396;2:97J2TT1/ZrN3+sz5I2/LZpdieIWw3GrA0YWeBy1Cjtvr9p0TixeAPrvIHio8+vfK/AuRbtQNZxkhv/miqf2CoRpOZPcugoYLetA5YHqCJJ+ySqidiDHU5C/YRB0NVRTJNLcaVkDI6AKMXtZD65I8FupMrGCMR/fomWTY4WptOgWbxH1DjYJdPDK0okc2kc8o;3:EQ8gmxbBPksE1fQC4gxdm0pXnHeCXCLcKykMbvIUHIuVdh1a4Ns0qNwaR7LQvp0fN0IM+twOETf3N0Wip8kYq59eAOaTuc3C5KgtGHG6rwEumzB4JBOHV9wd1uWH/f8Zctcg7LbNbg8Fda+Fh2moJSN6s+TbPhO0+gc7Q6ERneCECKIuGAxP+jhx0uQPoh+PNTRxqd/A61rLBSVPKIMjaslB0o2DnkeTOMLix42YfPIH2OQXBX+I12Vm0E9j072AIj8vVOryNpPgtTDnrZ/CtA==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:BY2PR01MB396;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB396;25:0n1IVYBNEGxI407yPgkHr1hshDKc+DrU1Kz73yZn7ExCLbH6mdN42usW17LgblTwRkXq1nfOx7LiFj7m2sUmmQZMVo9tFFYPyyHJiZ8IVzBS/UqzkhfhGyJm4/VZc94EuBuFE5NiiKWbs+us90qrYMvUyHI0ogczBE7Va5lIMDTE/Dgz2rAjqLIba9UHK0RjQgBCA9cR0GbdI8RHXFt4uX1slAJU53QiDCMaBGJrf2J5Ac408ggCTnUHO57HAxQ5TJKdS9hVXLE6Uh1N4kWG5b/0ChMJf2t+xGMK8TBVov0Es6jIj+arF5W7eWaRTEoIcd2Zr+29Pnkhhf3iutzhxF3ptrgTtc61w6Z238c1TSBqK+xb/wFbcEt74u8JK801p+xyX+JzdmOG0FFEDINWCxOnhNZKPxdPVlfRtSVNLCcNXp8+ubrsNd35NzTJZIOtaF/glddh71xgSiv82YAK+SoDmRje/pD0b49T+/CcyqzfPXknbsb7/L/ljOmjEoKr
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB396;20:NqvEFvNs4/iQkdMXNbEQDO55j6G90+sGI6U1PVA9+iBE858Kg8ujPk47p94Yz1+V2u15drUbO14gcypja2P9BFPsNGpykkmS01ebB/Y/3gwIq5hjAL+x8a8aj/f2HIZA+1OaalInLt7J3eotGJtp4VZ7Lc2UGFkhqURQ3NgG7imb5z5pIUvKuIKHboZT8CoCWoKqeIKA4qSGATP7dsRLEZiXQqI4wTt/fhr2oghdcLkN+pUC6J5UAZfi4W8StOlg52NJwWAf/D2qeftiSErh9Y26+bM5Z/qUBCC5hBakLhDnWL347h4jnIVHnW5wgFKuvNa/nip3kH9/WoPqFWNXO3XEs33PVFytQ1JFbCn0M7qmIkucij2MdfJL6nFjk827qhjXVyFm221QQhNgiN++2jMRPtRij+RuJ2KlbP8gTQ7e/zqR8ONLPyqerE8m5jmbBDOFTuf4DWcABtOqAGOjGpY1DMaMmt96K3J5sy4ZedGOpPB54+8+DI0nyRv9d3bG
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(9101521124)(2401047)(8121501046)(13018025)(13017025)(13015025)(13023025)(13024025)(10201501046)(3002001);SRVR:BY2PR01MB396;BCL:0;PCL:0;RULEID:;SRVR:BY2PR01MB396;
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB396;4:Gjidh97b4/NBjec3i2LvsRR5N2XLgx6LKTObe34z4zqRdy7kcq8mfQz/nh3mdmnjO6D/bXsBVWbOGIp/iP4eZCYFhvcT36foTexApqEvH23S7Og9RCZDucJS92r6IOiyNrNNXh9yPFIZOaKXJk8KV0JAmp4wIKyILcSBNetje/OaQOrkSNx58SrMD0dj1QywzR6DutOuTtoDRXzyiitUDHTeh478ZBFXRxq23pnqrK4VjTNBWOZ51axhuIxmijLWX7Ow+LGiMPnEP/6g70CMmg80kd27ij9BAGLzm49O4PLeIHcsrV1day80AoGBdCQkdcMO3DrblkDdyL3jLlHlUGpbLOtMeVkTmz/Guibrh15Vtj8HsEVmpuC14+6INkcwgSUnb8KN7TUMegu2CXMKYif7bUbxAYUXfYADeQioyPtlGIrJ+XUvSCTgMrgG4TkafrZ5a792fxx/0m0/+03zxEc76oUCAxf/mjcp6M7E72A0oMKqas8FJSASP2xU7wvD
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BY2PR01MB396;23:jBM4fP9hCpexoKwU+QfuqVgULIagdKMw67fAFKSpdm?=
+ =?us-ascii?Q?h3LFnX/RqfPTTcL9gLg9aJzawF4DniPQzlehIlSFB71KU+gaqRamqvRhb5pq?=
+ =?us-ascii?Q?4L8THjSmsu2iwvbirNCz76ROAYIFgsT+F6Vsa9QgNZtEAmBxyuo25IyJZOBQ?=
+ =?us-ascii?Q?NYcTvdv7LTvYO3MudX1rZW13y1/33mwrQwkRHvk8W6maO3sZAmECOkTyn70x?=
+ =?us-ascii?Q?zWFfjQS8B4rQHgc5blKiVMwZuMzR4v6BZoNiWtRpGEa651DXwgr1XZPu1N1c?=
+ =?us-ascii?Q?iAKDG2/7Yhe7QYAC+fvrYVOofZlIwYh83I247ULyDcSfQJJwD9XaRUkFOYgC?=
+ =?us-ascii?Q?UygMDhzNsibWGoSydRRQOI63k7OqQ9o7LLj+4Wq1vOB64uAKVZnyez4u/+e6?=
+ =?us-ascii?Q?wO0CfRL7nrumSeYbKTg1toxMrLMM7DUQey3u9f7nBndkf5+SDhFZpgMJFh3f?=
+ =?us-ascii?Q?jMyb294x7I+oS6MRp3R3Op1rXhVxOYcey7VkL96G2Dp4aYOFOCWVb4Dgw1Vo?=
+ =?us-ascii?Q?NgwSzhuBKxO3o5NbNoykUq1SJchoY4+V5htb5NoreGAKFdcA4cvje1+cG8mJ?=
+ =?us-ascii?Q?B/NqAM8Xxm1OIR0kRRRpV8h3ngA179d0u+1XccBlgcsnsn/8BuQA3Bv1DAiW?=
+ =?us-ascii?Q?cx3dpKwvsji86vMcetMbPdBM269cfyS10Z34Rd5lwqQXFr6xebnvcdYBiSe0?=
+ =?us-ascii?Q?IRnYKfDgJ1KwKlOwuT3qXqQlgxHBKO/StO7UdxSHl5tidmQqYyNulfWvXcHm?=
+ =?us-ascii?Q?J4ZLegG/30cXPsgXjDGSoB1+0+Ud3YE34qJqBwTHiNLpuE66eZem445rApPS?=
+ =?us-ascii?Q?pQBuW633G4FFtkpS2vX+nh5hEpMR7/Q1QfvEWLC1mf3CTiDFz1P55gGn/QZu?=
+ =?us-ascii?Q?F/ZJGwuXKYPOga6gYAWWCmRH32nvXdf2mgZ7M57AMiIwRW/Lc56ULTvUcf8R?=
+ =?us-ascii?Q?tDQwM71wE+ZT3bUrjy7/6rCZJRh7Jf2bnmnbqyc/gXEBiOyBpx4No3CjDj1e?=
+ =?us-ascii?Q?LUIYnli7eb+bFVN53w/9xlOyQxAcaxX9W1sYHPHyG9aYKKo7nXZowOVdLiHD?=
+ =?us-ascii?Q?rUxF4slJcPelBSewQZoEuwR9dcrNBETYMbVXB4Eywq8M/crAFshdUq5y3ozr?=
+ =?us-ascii?Q?1EUpEDJkWPAR28puAXHrdtTePQbZuhXzO5lUHweYEzQEqxFE4Ycpetv3Iuxc?=
+ =?us-ascii?Q?Brwmo8AL8DkFQybFhXwUss03u7KjUWYH5qO59DpElr4tAUGNI71H6Ef/gdH7?=
+ =?us-ascii?Q?G13UeTOMTcwEGTKqBoavVV2nRtZj3TN/E1EJKCNHAkvBpYDLvt/rV6muPUxN?=
+ =?us-ascii?Q?8E1S8UodCt9SGSTYlSgtwiyKfogG2sczO55cvPeAcgaVjqPanvZy9C/J1pA6?=
+ =?us-ascii?Q?sPtK4goBhCzXZco9lyb1uXjw/SdToJL0cfRSb1pcZ0++0M1hnoruC1oTB8iQ?=
+ =?us-ascii?Q?artviewPtDbEzbAN1mm0fcOutuzJM49K+c8L3XNWLcKrcU1btfasaCGTDRvz?=
+ =?us-ascii?Q?kcPj/eqqfIZX1zsbUypge4idWuDeE6xak=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BY2PR01MB396;5:HtjbBU5Xp9p5JH6DbLjQixeAefJeIQFtxini7w5gENaMLOW5Glz3GfTx+ydv3LBxf/+QjmgbyRpHthMQOU4Zk2bETn5BxEndlT26FAP6yDDqQzp+HRVVENvdayRsIGwrIYRCGchuWIgCv89zyha+Kg==;24:cTmxtnrDQub4THTiU7NE1K8Dl7eg4J8/3FhDy6mgx1SCVIydha1Mnrf23ZYGNGcKP/GVCeqBsaEoh0/sAeY12ahzj+sf1IMav1/di9ImH6c=;7:rSzCUYInQ8sGdi+lkWXFHxyYTKMF3kDfSaznyI7dCQ/lNvN+w6NKGRDDBSWFUccw9nh0r2JCxPjynjGUhcjqLXuNrZ5LkRwVpy3+yDyK49Z/9jyBM1Wv66PD/KvhFtHicTJSM8YoVXiPR7+oFFB1mc7Y5WYVRynj7mO+xPuGwYnE1bsqJr748ic4IjXLGg2K;20:Y0iHhi81bLtnbJmIh9Uy8g/vUzezLd2LKPPSetVxPxOrPrb6WZyaHj+LUr3XhnERP6c08G3UsfPVWa5LWTHEYCmDD6jEM3oiGcFLQlJOOSkSZ6Qv4NFjuzeJe4zY7H83z7biYC9mvwN3k8uWhaVlHFYD0lJeYxDVWKsskIpHdck=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 11 May 2016 01:49:22.7936
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.222];Helo=[cio-tnc-pf08.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2PR01MB396
+X-MS-Exchange-Organization-AuthSource: BY2FFO11FD017.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.3487633
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9:Uba1tfD2/MPnvEmzxlNuFORv0rCAzE63+9wKcom15InpHWBh4lv0CoJYvqtDb+345t1sKS0qZKwHNVu7yDXmlo5eTV01hDUWe1XabHVKKrZLkkPQAwSFedXXPsWZ4vznjhgQJpGVay39XHMAfttYBu8aSCGHvEpy/RhDPaJAiiw=
+MIME-Version: 1.0
+
+------=_Part_336_10196160.1462931361298
+Content-Type: multipart/related;
+	boundary="----=_Part_337_1715653007.1462931361298"
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9:Uba1tfD2/MPnvEmzxlNuFORv0rCAzE63+9wKcom15InpHWBh4lv0CoJYvqtDb+345t1sKS0qZKwHNVu7yDXmlo5eTV01hDUWe1XabHVKKrZLkkPQAwSFedXXPsWZ4vznjhgQJpGVay39XHMAfttYBu8aSCGHvEpy/RhDPaJAiiw=
+
+------=_Part_337_1715653007.1462931361298
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9:Uba1tfD2/MPnvEmzxlNuFORv0rCAzE63+9wKcom15InpHWBh4lv0CoJYvqtDb+345t1sKS0qZKwHNVu7yDXmlo5eTV01hDUWe1XabHVKKrZLkkPQAwSFedXXPsWZ4vznjhgQJpGVay39XHMAfttYBu8aSCGHvEpy/RhDPaJAiiw=
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DT=
+D XHTML 1.0 Strict//EN"    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.d=
+td"><html xmlns=3D"http://www.w3.org/1999/xhtml"><!-- Generated by Oracle B=
+I Publisher 11.1.1.7.140225 --><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>RTF Template</title></head><body><div style=3D"text-align: -moz-center=
+;" start=3D"center"><table style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;=
+table-layout:fixed;margin-right: auto;margin-left: auto;width: 545.399pt;bo=
+rder-collapse: collapse;"><col width=3D"72.12%"><col width=3D"27.879%"><tr =
+style=3D"height: 9.373pt;"><td valign=3D"top" colspan=3D"2" style=3D"word-w=
+rap:break-word;border-bottom-width: 0.25pt;border-bottom-color: #d9d9d9;bor=
+der-bottom-style: solid;width:100.0%;background-color: #ffffff;"><p style=
+=3D"text-align: right;line-height: 9.248pt;margin-top: 0.0pt;margin-bottom:=
+ 0.0pt;"><a href=3D"http://buckeyelink.osu.edu"><span style=3D"font-family:=
+ 'Arial';font-size: 8.0pt;color: #bb0000;text-decoration: underline;">bucke=
+yelink.osu.edu</span></a><span style=3D"font-family: 'Arial';font-size: 8.0=
+pt;color: #000000;">&nbsp;&nbsp;&nbsp;&nbsp; </span><a href=3D"http://osu.e=
+du"><span style=3D"font-family: 'Arial';font-size: 8.0pt;color: #bb0000;tex=
+t-decoration: underline;">osu.edu</span></a></p></td></tr><tr style=3D"heig=
+ht: 81.575pt;"><td valign=3D"middle" colspan=3D"2" style=3D"word-wrap:break=
+-word;border-top-width: 0.25pt;border-top-color: #d9d9d9;border-top-style: =
+solid;border-bottom-width: 4.5pt;border-bottom-color: #c00000;border-bottom=
+-style: solid;border-left-width: 0.25pt;border-left-color: #d9d9d9;border-l=
+eft-style: solid;border-right-width: 0.25pt;border-right-color: #d9d9d9;bor=
+der-right-style: solid;width:100.0%;background-color: #727272;"><p style=3D=
+"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 0.125pt;margin-right: =
+0.125pt;"><img src=3D"cid:xdoimgs4Pba2PH3X5756278599614999125png" style=3D"=
+width:324.077pt;height:79.2pt;" alt=3D"An Image"><br></p></td></tr><tr styl=
+e=3D"height: 12.25pt;"><td valign=3D"top" colspan=3D"2" style=3D"word-wrap:=
+break-word;border-top-width: 4.5pt;border-top-color: #c00000;border-top-sty=
+le: solid;border-left-width: 0.25pt;border-left-color: #d9d9d9;border-left-=
+style: solid;border-right-width: 0.25pt;border-right-color: #d9d9d9;border-=
+right-style: solid;width:100.0%;background-color: #ffffff;"><p style=3D"tex=
+t-align: center;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 0.125pt=
+;margin-right: 0.125pt;"><br></p></td></tr><tr style=3D"height: 425.208pt;"=
+><td valign=3D"top" style=3D"word-wrap:break-word;border-left-width: 0.25pt=
+;border-left-color: #d9d9d9;border-left-style: solid;border-right-width: 0.=
+5pt;border-right-color: #000000;border-right-style: solid;width:72.12%;back=
+ground-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;=
+margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #c00000;"><b>Thank you fo=
+r registering for Orientation!</b></span><span style=3D"font-family: 'Arial=
+';font-size: 10.0pt;color: #000000;"> </span></p><p style=3D"margin-top: 0.=
+0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><br></p=
+><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;ma=
+rgin-left: 14.4pt;margin-right: 16.2pt;"><span style=3D"font-family: 'Arial=
+';font-size: 10.0pt;color: #000000;">Your registration details and addition=
+al instructions to help you prepare are below.</span></p><p style=3D"margin=
+-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"=
+><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: =
+0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><span style=3D"font-family=
+: 'Arial';font-size: 10.0pt;color: #000000;"><b>John Markiewicz</b></span><=
+/p><table style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixe=
+d;margin-left: 14.4pt;margin-right: auto;width: 345.35pt;border-collapse: c=
+ollapse;"><col width=3D"40.06%"><col width=3D"59.939%"><tr style=3D"height:=
+ 11.56pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:40.06%;ba=
+ckground-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0p=
+t;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 21.35pt;"><span sty=
+le=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">OSUID:</span>=
+</p></td><td valign=3D"top" style=3D"word-wrap:break-word;width:59.939%;bac=
+kground-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt=
+;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 21.35pt;"><span st=
+yle=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">500128705</s=
+pan></p></td></tr><tr style=3D"height: 11.56pt;"><td valign=3D"top" style=
+=3D"word-wrap:break-word;width:40.06%;background-color: #ffffff;"><p style=
+=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.4pt;margin-right: 21.35pt;"><span style=3D"font-family: 'Arial';font-si=
+ze: 10.0pt;color: #000000;">OSU Internet Username:</span></p></td><td valig=
+n=3D"top" style=3D"word-wrap:break-word;width:59.939%;background-color: #ff=
+ffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.=
+0pt;margin-left: 5.399pt;margin-right: 21.35pt;"><span style=3D"font-family=
+: 'Arial';font-size: 10.0pt;color: #000000;">markiewicz.22</span></p></td><=
+/tr><tr style=3D"height: 10.0pt;"><td valign=3D"top" style=3D"word-wrap:bre=
+ak-word;width:40.06%;background-color: #ffffff;"><p style=3D"margin-top: 0.=
+0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><br></p=
+></td><td valign=3D"top" style=3D"word-wrap:break-word;width:59.939%;backgr=
+ound-color: #ffffff;"><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;ma=
+rgin-left: 5.399pt;margin-right: 5.399pt;"><br></p></td></tr><tr style=3D"h=
+eight: 11.56pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:40.=
+06%;background-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top=
+: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 21.35pt;"><sp=
+an style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Orienta=
+tion Advising Group: </span></p></td><td valign=3D"top" style=3D"word-wrap:=
+break-word;width:59.939%;background-color: #ffffff;"><p style=3D"line-heigh=
+t: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;marg=
+in-right: 21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;c=
+olor: #000000;">MUS Music</span></p></td></tr></table><p style=3D"margin-to=
+p: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><b=
+r></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0=
+pt;margin-left: 14.4pt;margin-right: 16.2pt;"><span style=3D"font-family: '=
+Arial';font-size: 10.0pt;color: #000000;"><b>Placement Testing Requirements=
+</b></span></p><ul style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;"><li><p=
+ style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;"><sp=
+an style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Foreign=
+ Language Test Required</span></p></li></ul><ul style=3D"margin-top: 0.0pt;=
+margin-bottom: 0.0pt;"><li><p style=3D"line-height: 11.56pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;"><span style=3D"font-family: 'Arial';font-size: 10=
+.0pt;color: #000000;">Math D Test Required</span></p></li></ul><p style=3D"=
+margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16=
+.2pt;"><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bo=
+ttom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><span style=3D"font-=
+family: 'Arial';font-size: 10.0pt;color: #000000;"><b>Orientation Program S=
+chedule</b></span></p><table style=3D"margin-top: 0.0pt;margin-bottom: 0.0p=
+t;table-layout:fixed;margin-left: 14.4pt;margin-right: auto;width: 345.35pt=
+;border-collapse: collapse;"><col width=3D"40.06%"><col width=3D"59.939%"><=
+tr style=3D"height: 23.12pt;"><td valign=3D"top" style=3D"word-wrap:break-w=
+ord;width:40.06%;background-color: #ffffff;"><p style=3D"line-height: 11.56=
+pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: =
+21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000=
+000;">Program Date(s):</span></p></td><td valign=3D"top" style=3D"word-wrap=
+:break-word;width:59.939%;background-color: #ffffff;"><p style=3D"line-heig=
+ht: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;mar=
+gin-right: 21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;=
+color: #000000;">Thursday, June 23, 2016</span></p><p style=3D"line-height:=
+ 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin=
+-right: 21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;col=
+or: #000000;">Friday, June 24, 2016</span></p></td></tr><tr style=3D"height=
+: 10.0pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:40.06%;ba=
+ckground-color: #ffffff;"><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0p=
+t;margin-left: 5.4pt;margin-right: 5.399pt;"><br></p></td><td valign=3D"top=
+" style=3D"word-wrap:break-word;width:59.939%;background-color: #ffffff;"><=
+p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;marg=
+in-right: 5.399pt;"><br></p></td></tr><tr style=3D"height: 11.56pt;"><td va=
+lign=3D"top" style=3D"word-wrap:break-word;width:40.06%;background-color: #=
+ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: =
+0.0pt;margin-left: 5.4pt;margin-right: 21.35pt;"><span style=3D"font-family=
+: 'Arial';font-size: 10.0pt;color: #000000;">Arrival Time:</span></p></td><=
+td valign=3D"top" style=3D"word-wrap:break-word;width:59.939%;background-co=
+lor: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bo=
+ttom: 0.0pt;margin-left: 5.399pt;margin-right: 21.35pt;"><span style=3D"fon=
+t-family: 'Arial';font-size: 10.0pt;color: #000000;">08:15AM</span></p></td=
+></tr><tr style=3D"height: 10.0pt;"><td valign=3D"top" style=3D"word-wrap:b=
+reak-word;width:40.06%;background-color: #ffffff;"><p style=3D"margin-top: =
+0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><br><=
+/p></td><td valign=3D"top" style=3D"word-wrap:break-word;width:59.939%;back=
+ground-color: #ffffff;"><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;=
+margin-left: 5.399pt;margin-right: 5.399pt;"><br></p></td></tr><tr style=3D=
+"height: 46.24pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:4=
+0.06%;background-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-t=
+op: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 21.35pt;"><=
+span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Arriv=
+al Location:</span></p></td><td valign=3D"top" style=3D"word-wrap:break-wor=
+d;width:59.939%;background-color: #ffffff;"><p style=3D"line-height: 11.56p=
+t;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right:=
+ 21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #00=
+0000;">Morrill Tower, 3rd Floor Lobby</span></p><p style=3D"line-height: 11=
+.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-ri=
+ght: 21.35pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color:=
+ #000000;"> </span><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 21.35pt;"><span =
+style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">1900 Canno=
+n Drive</span></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin=
+-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 21.35pt;"><span style=3D"=
+font-family: 'Arial';font-size: 10.0pt;color: #000000;">Columbus OH 43210-1=
+279 </span></p></td></tr></table><p style=3D"margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><br></p><table style=3D=
+"margin-top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixed;margin-left: 14.=
+4pt;margin-right: auto;width: 345.35pt;border-collapse: collapse;"><col wid=
+th=3D"40.06%"><col width=3D"59.939%"><tr style=3D"height: 11.56pt;"><td val=
+ign=3D"top" style=3D"word-wrap:break-word;width:40.06%;background-color: #f=
+fffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0=
+.0pt;margin-left: 5.4pt;margin-right: 21.35pt;"><span style=3D"font-family:=
+ 'Arial';font-size: 10.0pt;color: #000000;"><b>Guest Information:</b></span=
+></p></td><td valign=3D"top" style=3D"word-wrap:break-word;width:59.939%;ba=
+ckground-color: #ffffff;"><table style=3D"margin-top: 0.0pt;margin-bottom: =
+0.0pt;table-layout:fixed;margin-left: 5.399pt;margin-right: auto;width: 195=
+.45pt;border-collapse: collapse;"><col width=3D"100.0%"><tr style=3D"height=
+: 11.56pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:100.0%;b=
+ackground-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;margin-right: 21.7pt;"><span style=3D"font-family: =
+'Arial';font-size: 10.0pt;color: #000000;"> </span><br></p></td></tr></tabl=
+e></td></tr></table><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;marg=
+in-left: 14.4pt;margin-right: 16.2pt;"><br></p><p style=3D"line-height: 11.=
+56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-righ=
+t: 16.2pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #0=
+00000;">If you are unable to attend your scheduled orientation date, please=
+ contact University Orientation at 614-292-4161.&nbsp; You will receive add=
+itional information in the weeks leading to your orientation program.</span=
+></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt=
+;margin-right: 16.2pt;"><br></p><p style=3D"line-height: 11.56pt;margin-top=
+: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><sp=
+an style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Please =
+continue to check your Ohio State email account for updates and further inf=
+ormation.</span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;marg=
+in-left: 14.4pt;margin-right: 16.2pt;"><br></p><p style=3D"line-height: 11.=
+56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-righ=
+t: 16.2pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #0=
+00000;">Welcome to the Ohio State family!</span></p><p style=3D"margin-top:=
+ 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><br>=
+</p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;=
+margin-right: 16.2pt;"><br></p><p style=3D"line-height: 9.248pt;margin-top:=
+ 0.0pt;margin-bottom: 0.0pt;margin-left: 14.4pt;margin-right: 16.2pt;"><spa=
+n style=3D"font-family: 'Arial';font-size: 8.0pt;color: #000000;">OCA</span=
+></p></td><td valign=3D"top" style=3D"word-wrap:break-word;border-left-widt=
+h: 0.5pt;border-left-color: #000000;border-left-style: solid;border-right-w=
+idth: 0.25pt;border-right-color: #d9d9d9;border-right-style: solid;width:27=
+.879%;background-color: #ffffff;"><p style=3D"line-height: 13.294pt;margin-=
+top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.649pt;margin-right: 5.525pt;=
+"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Qu=
+estions?</span></p><p style=3D"line-height: 13.294pt;margin-top: 0.0pt;marg=
+in-bottom: 0.0pt;margin-left: 5.649pt;margin-right: 5.525pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">We're here to h=
+elp. </span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 5.649pt;margin-right: 5.525pt;"><img src=3D"cid:xdoimgEXvCoFLpjm643832=
+4079463350092jpg" style=3D"width:135.562pt;height:0.75pt;" alt=3D"An Image"=
+><br></p><p style=3D"line-height: 13.8pt;margin-top: 0.0pt;margin-bottom: 0=
+.0pt;margin-left: 5.649pt;margin-right: 5.525pt;"><br></p><p style=3D"line-=
+height: 13.294pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.649p=
+t;margin-right: 5.525pt;"><span style=3D"font-family: 'Arial';font-size: 10=
+.0pt;color: #bb0000;"><b>University Orientation &amp; First-Year Experience=
+</b></span></p><p style=3D"line-height: 13.294pt;margin-top: 0.0pt;margin-b=
+ottom: 0.0pt;margin-left: 5.649pt;margin-right: 5.525pt;"><span style=3D"fo=
+nt-family: 'Arial';font-size: 10.0pt;color: #000000;">Email: </span><a href=
+=3D"mailto:orientation@osu.edu"><span style=3D"font-family: 'Arial';font-si=
+ze: 10.0pt;color: #bb0000;text-decoration: underline;">orientation@osu.edu<=
+/span></a></p><p style=3D"line-height: 13.294pt;margin-top: 0.0pt;margin-bo=
+ttom: 0.0pt;margin-left: 5.649pt;margin-right: 5.525pt;"><span style=3D"fon=
+t-family: 'Arial';font-size: 10.0pt;color: #000000;">Phone: 614-292-4161</s=
+pan></p><p style=3D"line-height: 13.294pt;margin-top: 0.0pt;margin-bottom: =
+0.0pt;margin-left: 5.649pt;margin-right: 5.525pt;"><span style=3D"font-fami=
+ly: 'Arial';font-size: 10.0pt;color: #000000;">Web: </span><a href=3D"http:=
+//orientation.osu.edu"><span style=3D"font-family: 'Arial';font-size: 10.0p=
+t;color: #bb0000;text-decoration: underline;">orientation.osu.edu</span></a=
+></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.649p=
+t;margin-right: 5.525pt;"><img src=3D"cid:xdoimgyEDU5wFRAE70423306027851640=
+98jpg" style=3D"width:135.562pt;height:0.75pt;" alt=3D"An Image"><br></p><p=
+ style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.799pt;margi=
+n-right: 9.125pt;"><br></p></td></tr><tr style=3D"height: 9.125pt;"><td val=
+ign=3D"top" colspan=3D"2" style=3D"word-wrap:break-word;border-bottom-width=
+: 0.25pt;border-bottom-color: #d9d9d9;border-bottom-style: solid;border-lef=
+t-width: 0.25pt;border-left-color: #d9d9d9;border-left-style: solid;border-=
+right-width: 0.25pt;border-right-color: #d9d9d9;border-right-style: solid;w=
+idth:100.0%;background-color: #ffffff;"><p style=3D"text-align: center;marg=
+in-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 0.125pt;margin-right: 0.125=
+pt;"><br></p></td></tr><tr style=3D"height: 29.296pt;"><td valign=3D"top" c=
+olspan=3D"2" style=3D"word-wrap:break-word;border-top-width: 0.25pt;border-=
+top-color: #d9d9d9;border-top-style: solid;width:100.0%;background-color: #=
+ffffff;"><p style=3D"line-height: 9.248pt;margin-top: 0.0pt;margin-bottom: =
+0.0pt;"><span style=3D"font-family: 'Arial';font-size: 8.0pt;color: #000000=
+;">The Ohio State University | Enrollment Services | Columbus | OH | 43210<=
+/span></p><p style=3D"line-height: 9.248pt;margin-top: 0.0pt;margin-bottom:=
+ 0.0pt;"><span style=3D"font-family: 'Arial';font-size: 8.0pt;color: #00000=
+0;"> </span><br></p></td></tr></table></div><p style=3D"margin-top: 0.0pt;m=
+argin-bottom: 0.0pt;margin-left: 6.0pt;margin-right: 6.0pt;"><a name=3D"pag=
+e-total-master0" id=3D"page-total-master0"></a><a name=3D"page-total" id=3D=
+"page-total"></a><br></p></body></html>=
+
+------=_Part_337_1715653007.1462931361298
+Content-Type: image/jpeg; name="xdoimgEXvCoFLpjm6438324079463350092.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgEXvCoFLpjm6438324079463350092jpg>
+Content-Disposition: inline;
+	filename="xdoimgEXvCoFLpjm6438324079463350092.jpg"
+Content-Description: xdoimgEXvCoFLpjm6438324079463350092.jpg
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9:Uba1tfD2/MPnvEmzxlNuFORv0rCAzE63+9wKcom15InpHWBh4lv0CoJYvqtDb+345t1sKS0qZKwHNVu7yDXmlo5eTV01hDUWe1XabHVKKrZLkkPQAwSFedXXPsWZ4vznjhgQJpGVay39XHMAfttYBu8aSCGHvEpy/RhDPaJAiiw=
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_337_1715653007.1462931361298
+Content-Type: image/jpeg; name="xdoimgyEDU5wFRAE7042330602785164098.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgyEDU5wFRAE7042330602785164098jpg>
+Content-Disposition: inline;
+	filename="xdoimgyEDU5wFRAE7042330602785164098.jpg"
+Content-Description: xdoimgyEDU5wFRAE7042330602785164098.jpg
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9:Uba1tfD2/MPnvEmzxlNuFORv0rCAzE63+9wKcom15InpHWBh4lv0CoJYvqtDb+345t1sKS0qZKwHNVu7yDXmlo5eTV01hDUWe1XabHVKKrZLkkPQAwSFedXXPsWZ4vznjhgQJpGVay39XHMAfttYBu8aSCGHvEpy/RhDPaJAiiw=
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_337_1715653007.1462931361298
+Content-Type: image/png; name="xdoimgs4Pba2PH3X5756278599614999125.png"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgs4Pba2PH3X5756278599614999125png>
+Content-Disposition: inline;
+	filename="xdoimgs4Pba2PH3X5756278599614999125.png"
+Content-Description: xdoimgs4Pba2PH3X5756278599614999125.png
+X-Microsoft-Exchange-Diagnostics:
+	1;BY2PR01MB396;9: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
+
+------=_Part_337_1715653007.1462931361298--
+
+------=_Part_336_10196160.1462931361298--

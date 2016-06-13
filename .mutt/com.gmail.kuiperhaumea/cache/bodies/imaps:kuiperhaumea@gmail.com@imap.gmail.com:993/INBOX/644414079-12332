@@ -1,0 +1,1054 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2902705oid;
+        Wed, 15 Jul 2015 05:22:35 -0700 (PDT)
+X-Received: by 10.180.37.229 with SMTP id b5mr43555785wik.16.1436962954820;
+        Wed, 15 Jul 2015 05:22:34 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22b.google.com (mail-wg0-x22b.google.com. [2a00:1450:400c:c00::22b])
+        by mx.google.com with ESMTPS id p12si6927976wjq.159.2015.07.15.05.22.33
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 15 Jul 2015 05:22:34 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) client-ip=2a00:1450:400c:c00::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail147.atl21.rsgsv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+Received: by mail-wg0-x22b.google.com with SMTP id n9so29058209wgm.0
+        for <kuiperhaumea@gmail.com>; Wed, 15 Jul 2015 05:22:33 -0700 (PDT)
+X-Received: by 10.180.94.35 with SMTP id cz3mr15519079wib.85.1436962953412;
+        Wed, 15 Jul 2015 05:22:33 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2543667wmd;
+        Wed, 15 Jul 2015 05:22:32 -0700 (PDT)
+X-Received: by 10.129.131.214 with SMTP id t205mr3893727ywf.26.1436962951994;
+        Wed, 15 Jul 2015 05:22:31 -0700 (PDT)
+Return-Path: <bounce-mc.us7_20613719.266329-markiewicz.john=gmail.com@mail147.atl21.rsgsv.net>
+Received: from mail147.atl21.rsgsv.net (mail147.atl21.rsgsv.net. [205.201.133.147])
+        by mx.google.com with ESMTP id u66si3002148yke.127.2015.07.15.05.22.31
+        for <markiewicz.john@gmail.com>;
+        Wed, 15 Jul 2015 05:22:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us7_20613719.266329-markiewicz.john=gmail.com@mail147.atl21.rsgsv.net designates 205.201.133.147 as permitted sender) client-ip=205.201.133.147;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail147.atl21.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=contact=3Dhumblebundle.com@mail147.atl21.rsgsv.net;
+ bh=bIa+CphKkZkrjGPNbR4sVmFAQqE=;
+ b=IEPI0Int9tfDbHKlZvEUyqXa305N3mxL7UiqsUA782QL8D9vdFl5yNTsxiXLsqmH7VN9Se9AQCF+
+   7v6asDElHHJeYOEemXxfvhTvRPMDFXTA13JiGj3McPLQI4XxsG4ohWI3Jqnl/FuPrlAMr2m2aOO+
+   Z3ZHzAAczcrM4bnLI6E=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=bIa+CphKkZkrjGPNbR4sVmFAQqE=;
+ b=LkLBMhWb8Ic4QF1h8NaIJ3rXebcsPOUNTNARRNsR+IZ/quS/Tyb47cZOVx5Bgoqup1ucxqw1itET
+   e2dK7ccHO86lEnQjH9Fr+GNfE7m8HOgNOEaU8T9OpyRKj34/LiESiWRLWwfU77xFJ659hjLYCxXQ
+   6ROmNqEaJxEA/voBlY4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail147.atl21.rsgsv.net;
+ b=tivTAN2UFkw0CKyLMPwc1BATmqECAb9jInTYd3pyYAlFPqGi1Az24+F/HV80Nh2rX8atsi71bnaL
+   /xHuiZcOHHqwt7iMrdx7T4OmEE2doQENTAY6sm3u1uI7cjzSgK6kMTWDvQ1WdRImrRvzOVuMbd+R
+   zxbGme5U5oTOvqDCo7Y=;
+Received: from (127.0.0.1) by mail147.atl21.rsgsv.net id hkp88e1lgi40 for <markiewicz.john@gmail.com>; Wed, 15 Jul 2015 12:22:29 +0000 (envelope-from <bounce-mc.us7_20613719.266329-markiewicz.john=gmail.com@mail147.atl21.rsgsv.net>)
+Subject: =?utf-8?Q?More=20tools=20to=20create=20your=20own=20game=20added=20to=20the=20Game=20Making=20Bundle=21?=
+From: =?utf-8?Q?Humble=20Bundle?= <contact@humblebundle.com>
+Reply-To: =?utf-8?Q?Humble=20Bundle?= <contact@humblebundle.com>
+To: <markiewicz.john@gmail.com>
+Date: Wed, 15 Jul 2015 12:22:29 +0000
+Message-ID: <a42731fd3353ff4c76f7f11bb2471c4396f.20150715122130@mail147.atl21.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID6e3ef1f3792471c4396f**
+X-Campaign: mailchimpa42731fd3353ff4c76f7f11bb.6e3ef1f379
+X-campaignid: mailchimpa42731fd3353ff4c76f7f11bb.6e3ef1f379
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=a42731fd3353ff4c76f7f11bb&id=6e3ef1f379&e=2471c4396f
+X-MC-User: a42731fd3353ff4c76f7f11bb
+X-Feedback-ID: 20613719:20613719.266329:us7:mc
+List-ID: a42731fd3353ff4c76f7f11bbmc list <a42731fd3353ff4c76f7f11bb.146269.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-a42731fd3353ff4c76f7f11bb-6e3ef1f379-2471c4396f@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://humblebundle.us7.list-manage.com/unsubscribe?u=a42731fd3353ff4c76f7f11bb&id=990b1b6399&e=2471c4396f&c=6e3ef1f379>
+Sender: "Humble Bundle" <contact=humblebundle.com@mail147.atl21.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_983433128"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_983433128
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Pay what you want and support Extra Life=2C The IndieCade Foundation=2C an=
+d Child's Play!
+
+https://www.humblebundle.com/?utm_source=3DHumble+Bundle+Newsletter&utm_ca=
+mpaign=3D6e3ef1f379-Humble_Game_Making_Bundle&utm_medium=3Demail&utm_term=
+=3D0_990b1b6399-6e3ef1f379-133053153&mc_cid=3D6e3ef1f379&mc_eid=3D[=
+UNIQID]
+
+Kind of like the ingredients for making a homemade casserole.
+But the casserole's a game=2C and instead of eating it=2C you get to play=
+ it!
+
+To date=2C more than $61 million has been donated to charity thanks to peo=
+ple like you!
+
+The Humble Game Making Bundle will last for one week before making like a=
+ tree and leaving on Tuesday=2C July 21=2C 2015 at 11 a.m. Pacific time.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+=C2=A9 2015 Humble Bundle=2C Inc. | 201 Post Street=2C 11th Floor | San Fr=
+ancisco=2C CA | 94108
+** forward to a friend (http://us7.forward-to-friend.com/forward?u=3Da4273=
+1fd3353ff4c76f7f11bb&id=3D6e3ef1f379&e=3D2471c4396f)
+| ** unsubscribe from this list (http://humblebundle.us7.list-manage.com/u=
+nsubscribe?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b1b6399&e=3D2471c4396f&c=3D=
+6e3ef1f379)
+| ** update subscription preferences (http://humblebundle.us7.list-manage1=
+=2Ecom/profile?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b1b6399&e=3D2471c4396f)
+
+** (https://twitter.com/humble?utm_source=3DHumble+Bundle+Newsletter&utm_c=
+ampaign=3D6e3ef1f379-Humble_Game_Making_Bundle&utm_medium=3Demail&utm_term=
+=3D0_990b1b6399-6e3ef1f379-133053153&mc_cid=3D6e3ef1f379&mc_eid=3D[=
+UNIQID])
+** (https://www.facebook.com/humblebundle?utm_source=3DHumble+Bundle+Newsl=
+etter&utm_campaign=3D6e3ef1f379-Humble_Game_Making_Bundle&utm_medium=3Dema=
+il&utm_term=3D0_990b1b6399-6e3ef1f379-133053153&mc_cid=3D6e3ef1f379&=
+mc_eid=3D[UNIQID])
+** (https://plus.google.com/+HumbleBundle?utm_source=3DHumble+Bundle+Newsl=
+etter&utm_campaign=3D6e3ef1f379-Humble_Game_Making_Bundle&utm_medium=3Dema=
+il&utm_term=3D0_990b1b6399-6e3ef1f379-133053153&mc_cid=3D6e3ef1f379&=
+mc_eid=3D[UNIQID])
+** (http://steamcommunity.com/groups/HumbleBundleOfficial?utm_source=3DHum=
+ble+Bundle+Newsletter&utm_campaign=3D6e3ef1f379-Humble_Game_Making_Bundle&=
+utm_medium=3Demail&utm_term=3D0_990b1b6399-6e3ef1f379-133053153&mc_c=
+id=3D6e3ef1f379&mc_eid=3D[UNIQID])
+--_----------=_MCPart_983433128
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+    <head style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+        <!-- This is a simple example template that you can edit to create=
+ your own custom templates -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8" style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+        <!-- Facebook sharing information tags -->
+        <meta property=3D"og:title" content=3D"More tools to create your o=
+wn game added to the Game Making Bundle!" style=3D"box-sizing: border-box;=
+-moz-box-sizing: border-box;">
+        <title style=3D"box-sizing: border-box;-moz-box-sizing: border-box=
+;">More tools to create your own game added to the Game Making Bundle!</ti=
+tle>
+  <style type=3D"text/css" style=3D"box-sizing: border-box;-moz-box-sizing=
+: border-box;">
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09body{
+=09=09=09width:100% !important;
+=09=09}
+=09=09body{
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09body{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09border:none;
+=09=09=09font-size:14px;
+=09=09=09font-weight:bold;
+=09=09=09height:auto;
+=09=09=09line-height:100%;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09=09text-transform:capitalize;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09*{
+=09=09=09box-sizing:border-box;
+=09=09=09-moz-box-sizing:border-box;
+=09=09}
+=09=09body=2C.backgroundTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1=2C.h1{
+=09=09=09color:#494f5d;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:34px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2=2C.h2{
+=09=09=09color:#494f5d;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:30px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3=2C.h3{
+=09=09=09color:#494f5d;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:26px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4=2C.h4{
+=09=09=09color:#494f5d;
+=09=09=09display:block;
+=09=09=09font-family:Arial;
+=09=09=09font-size:22px;
+=09=09=09font-weight:bold;
+=09=09=09line-height:100%;
+=09=09=09margin-bottom:10px;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09.preheaderContent div{
+=09=09=09color:#505050;
+=09=09=09font-family:Arial;
+=09=09=09font-size:10px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContent div a:link=2C.preheaderContent div a:visited{
+=09=09=09color:#a1a7b2;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.preheaderContent div img{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateHumblePreheader{
+=09=09=09background-color:#282C33;
+=09=09}
+=09=09#templateHumblePreheader .main-content-column{
+=09=09=09min-width:600px;
+=09=09=09width:600px;
+=09=09}
+=09=09td.humblePreheaderContent{
+=09=09=09padding:0;
+=09=09}
+=09=09#humble_header_tabs{
+=09=09=09border-collapse:collapse;
+=09=09=09margin-top:10px;
+=09=09}
+=09=09#humble_header_tabs{
+=09=09=09width:720px;
+=09=09=09height:60px;
+=09=09=09padding:0;
+=09=09=09white-space:nowrap;
+=09=09}
+=09=09#humble_header_tabs img{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.humblePreheaderContent div{
+=09=09=09color:#d73d35;
+=09=09=09font-family:Arial;
+=09=09=09font-size:12px;
+=09=09=09line-height:100%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.humblePreheaderContent div a:link=2C.humblePreheaderContent div a:v=
+isited{
+=09=09=09color:#a1a7b3;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.humblePreheaderContent div img{
+=09=09=09height:auto;
+=09=09=09max-width:600px;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#3b3e48;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09#templateHeader .main-content-column{
+=09=09=09padding:10px;
+=09=09}
+=09=09.headerContent{
+=09=09=09color:#d5d9e1;
+=09=09=09font-family:Arial;
+=09=09=09font-size:18px;
+=09=09=09font-weight:normal;
+=09=09=09line-height:100%;
+=09=09=09padding:0;
+=09=09=09text-align:center;
+=09=09=09vertical-align:middle;
+=09=09}
+=09=09.headerContent a:link=2C.headerContent a:visited{
+=09=09=09color:#d5d9e1;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#headerImage{
+=09=09=09height:auto;
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09#templateContainer=2C.bodyContent{
+=09=09=09background-color:#e4e7ed;
+=09=09}
+=09=09#templateContainer .text-area{
+=09=09=09padding:0;
+=09=09}
+=09=09#templateContainer .text-area .main-content-column{
+=09=09=09padding:10px;
+=09=09}
+=09=09.bodyContent div{
+=09=09=09font-family:Arial;
+=09=09=09color:#494f5c;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContent img{
+=09=09=09display:inline;
+=09=09=09margin-bottom:10px;
+=09=09}
+=09=09.bodyContent div a:link=2C.bodyContent div a:visited{
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.template-body.light{
+=09=09=09background-color:#e4e7ed;
+=09=09}
+=09=09.template-body.light .bodyContent{
+=09=09=09background-color:#e4e7ed;
+=09=09}
+=09=09.template-body.light .bodyContent div{
+=09=09=09color:#494f5c;
+=09=09}
+=09=09.template-body.light .bodyContent div a:link=2C.template-body.light=
+ .bodyContent div a:visited{
+=09=09=09color:#494F5C;
+=09=09}
+=09=09.template-body.dark{
+=09=09=09background-color:#D5D9E1;
+=09=09}
+=09=09.template-body.dark .bodyContent{
+=09=09=09background-color:#D5D9E1;
+=09=09}
+=09=09.template-body.dark .bodyContent div{
+=09=09=09color:#494F5C;
+=09=09}
+=09=09.template-body.dark .bodyContent div a:link=2C.template-body-dark .b=
+odyContent div a:visited{
+=09=09=09color:#494F5C;
+=09=09}
+=09=09#templateContainer .callout-container.light{
+=09=09=09background-color:#E4E7ED;
+=09=09}
+=09=09#templateContainer .callout-container.light .callout-content{
+=09=09=09background-color:#d5d9e1;
+=09=09=09border:1px solid #b5b8bf;
+=09=09}
+=09=09#templateContainer .callout-container.dark{
+=09=09=09background-color:#D5D9E1;
+=09=09}
+=09=09#templateContainer .callout-container.dark .callout-content{
+=09=09=09background-color:#E4E7ED;
+=09=09=09border:1px solid #C2C4C9;
+=09=09}
+=09=09.callout-content div{
+=09=09=09color:#494F5C;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.callout-content div a:link=2C.callout-content div a:visited{
+=09=09=09color:#494f5c;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.callout-content img{
+=09=09=09display:inline;
+=09=09=09margin-bottom:10px;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09padding-top:20px;
+=09=09}
+=09=09.footerContent div{
+=09=09=09color:#a1a7b3;
+=09=09=09font-family:Arial;
+=09=09=09font-size:14px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContent div a:link=2C.footerContent div a:visited{
+=09=09=09color:#a1a7b2;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.footerContent img{
+=09=09=09display:inline;
+=09=09}
+=09=09#social{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border:none;
+=09=09}
+=09=09#social div{
+=09=09=09text-align:center;
+=09=09}
+=09=09#monkeyRewards img{
+=09=09=09max-width:160px;
+=09=09}
+</style></head>
+  <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D=
+"0" offset=3D"0" style=3D"box-sizing: border-box;-moz-box-sizing: border-b=
+ox;-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #=
+FFFFFF;width: 100% !important;">
+    <center style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"10=
+0%" width=3D"100%" id=3D"backgroundTable" style=3D"box-sizing: border-box;=
+-moz-box-sizing: border-box;margin: 0;padding: 0;height: 100% !important;w=
+idth: 100% !important;">
+        <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+          <td align=3D"center" valign=3D"top" style=3D"box-sizing: border-=
+box;-moz-box-sizing: border-box;">
+            <!-- // Begin Template Preheader \\ -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" id=3D"templatePreheader" style=3D"box-sizing: border-box;-moz-bo=
+x-sizing: border-box;background-color: #FFFFFF;">
+              <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-=
+box;">
+                <td class=3D"spacer left" style=3D"box-sizing: border-box;=
+-moz-box-sizing: border-box;"></td>
+                <td align=3D"center" style=3D"box-sizing: border-box;-moz-=
+box-sizing: border-box;">
+                  <div class=3D"main-content-column" style=3D"box-sizing:=
+ border-box;-moz-box-sizing: border-box;">
+                    <table width=3D"600px" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                      <tr style=3D"box-sizing: border-box;-moz-box-sizing:=
+ border-box;">
+                        <td valign=3D"top" class=3D"preheaderContent" styl=
+e=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+                          <!-- // Begin Module: Standard Preheader \\ -->
+                          <table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%" style=3D"box-sizing: border-box;-moz-box-sizing: bo=
+rder-box;">
+                            <tr style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;">
+                              <td valign=3D"top" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;">
+                                <div style=3D"box-sizing: border-box;-moz-=
+box-sizing: border-box;color: #505050;font-family: Arial;font-size: 10px;l=
+ine-height: 100%;text-align: left;"><span style=3D"color: #000000;box-sizi=
+ng: border-box;-moz-box-sizing: border-box;">Pay what you want and support=
+ Extra Life=2C The IndieCade Foundation=2C and Child&#39;s Play!</span></d=
+iv>
+                              </td>
+                              <td valign=3D"top" width=3D"180" style=3D"bo=
+x-sizing: border-box;-moz-box-sizing: border-box;">
+                                <div style=3D"box-sizing: border-box;-moz-=
+box-sizing: border-box;color: #505050;font-family: Arial;font-size: 10px;l=
+ine-height: 100%;text-align: left;"><div style=3D"text-align: right;box-si=
+zing: border-box;-moz-box-sizing: border-box;color: #505050;font-family: A=
+rial;font-size: 10px;line-height: 100%;"><a href=3D"http://us7.campaign-ar=
+chive2.com/?u=3Da42731fd3353ff4c76f7f11bb&id=3D6e3ef1f379&e=3D2471c4396f" ta=
+rget=3D"_blank" style=3D"box-sizing: border-box;-moz-box-sizing: border-bo=
+x;color: #a1a7b2;font-weight: normal;text-decoration: underline;">View in=
+ browser</a> <span style=3D"color: #dc3b50;box-sizing: border-box;-moz-box=
+-sizing: border-box;">|</span> <a href=3D"http://humblebundle.us7.list-man=
+age1.com/profile?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b1b6399&e=3D=
+2471c4396f" target=3D"_blank" style=3D"box-sizing: border-box;-moz-box-sizing: bord=
+er-box;color: #a1a7b2;font-weight: normal;text-decoration: underline;">Upd=
+ate subscription</a><br style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+&nbsp;</div>
+</div>
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- // End Module: Standard Preheader \\ -->
+                        </td>
+                      </tr>
+                    </table>
+                  </div>
+                </td>
+                <td class=3D"spacer right" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;"></td>
+              </tr>
+            </table>
+            <!-- // End Template Preheader \\ -->
+            <!-- // Begin Humble Preheader \\ -->
+            <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"100%" id=3D"templateHumblePreheader" style=3D"box-sizing: border-box;-=
+moz-box-sizing: border-box;background-color: #282C33;">
+              <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-=
+box;">
+                <td valign=3D"top" class=3D"humblePreheaderContent" style=
+=3D"box-sizing: border-box;-moz-box-sizing: border-box;padding: 0;">
+                  <!-- // Begin Module: Standard Preheader \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"box-sizing: border-box;-moz-box-sizing: border-bo=
+x;">
+                    <tr style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+                      <td class=3D"spacer left" style=3D"box-sizing: borde=
+r-box;-moz-box-sizing: border-box;"></td>
+                      <td align=3D"center" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                        <div class=3D"main-content-column" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;color: #d73d35;font-family: A=
+rial;font-size: 12px;line-height: 100%;text-align: left;min-width: 600px;w=
+idth: 600px;">
+                      =09  <div id=3D"humble_header_tabs" style=3D"box-siz=
+ing: border-box;-moz-box-sizing: border-box;color: #d73d35;font-family: Ar=
+ial;font-size: 12px;line-height: 100%;text-align: left;border-collapse: co=
+llapse;margin-top: 10px;width: 720px;height: 60px;padding: 0;white-space:=
+ nowrap;"><a href=3D"http://humblebundle.us7.list-manage2.com/track/click?=
+u=3Da42731fd3353ff4c76f7f11bb&id=3Dd5cd63a9db&e=3D2471c4396f" style=3D"bo=
+x-sizing: border-box;-moz-box-sizing: border-box;color: #a1a7b3;font-weigh=
+t: normal;text-decoration: underline;"><img align=3D"none" alt=3D"Bundle"=
+ height=3D"60" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f7f1=
+1bb/images/5d363185-5ecb-4618-8b8f-5061281ac27b.png" style=3D"width: 120px=
+;height: 60px;margin: 0px;box-sizing: border-box;-moz-box-sizing: border-b=
+ox;border: none;font-size: 14px;font-weight: bold;line-height: 100%;outlin=
+e: none;text-decoration: none;text-transform: capitalize;max-width: 600px;=
+vertical-align: bottom;" width=3D"120"></a><a href=3D"http://humblebundle.=
+us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3De505ee9=
+f17&e=3D2471c4396f" target=3D"_blank" style=3D"box-sizing: border-box;-mo=
+z-box-sizing: border-box;color: #a1a7b3;font-weight: normal;text-decoratio=
+n: underline;"><img align=3D"none" alt=3D"Weekly" height=3D"60" src=3D"htt=
+ps://gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/922feb61-8bc5-=
+4ed6-845d-3ad0a9e8b8e6.png" style=3D"width: 120px;height: 60px;margin: 0px=
+;box-sizing: border-box;-moz-box-sizing: border-box;border: none;font-size=
+: 14px;font-weight: bold;line-height: 100%;outline: none;text-decoration:=
+ none;text-transform: capitalize;max-width: 600px;vertical-align: bottom;"=
+ width=3D"120"></a><a href=3D"http://humblebundle.us7.list-manage.com/trac=
+k/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D643a1a4177&e=3D2471c4396f" tar=
+get=3D"_blank" style=3D"box-sizing: border-box;-moz-box-sizing: border-box=
+;color: #a1a7b3;font-weight: normal;text-decoration: underline;"><img alig=
+n=3D"none" alt=3D"Books" height=3D"60" src=3D"https://gallery.mailchimp.co=
+m/a42731fd3353ff4c76f7f11bb/images/09b72e5b-f45f-478f-9226-331013705a64.pn=
+g" style=3D"width: 120px;height: 60px;margin: 0px;box-sizing: border-box;-=
+moz-box-sizing: border-box;border: none;font-size: 14px;font-weight: bold;=
+line-height: 100%;outline: none;text-decoration: none;text-transform: capi=
+talize;max-width: 600px;vertical-align: bottom;" width=3D"120"></a><a href=
+=3D"http://humblebundle.us7.list-manage1.com/track/click?u=3Da42731fd3353f=
+f4c76f7f11bb&id=3D3e3d54b8dc&e=3D2471c4396f" target=3D"_blank" style=3D"b=
+ox-sizing: border-box;-moz-box-sizing: border-box;color: #a1a7b3;font-weig=
+ht: normal;text-decoration: underline;"><img alt=3D"Mobile" src=3D"https:/=
+/gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/1d475df5-45e7-4514=
+-8b4b-7f670ca492a1.png" style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;border: none;font-size: 14px;font-weight: bold;height: auto;line=
+-height: 100%;outline: none;text-decoration: none;text-transform: capitali=
+ze;max-width: 600px;vertical-align: bottom;"></a><a href=3D"http://humbleb=
+undle.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D6=
+166fd6110&e=3D2471c4396f" target=3D"_blank" style=3D"box-sizing: border-b=
+ox;-moz-box-sizing: border-box;color: #a1a7b3;font-weight: normal;text-dec=
+oration: underline;"><img alt=3D"Store" src=3D"https://gallery.mailchimp.c=
+om/a42731fd3353ff4c76f7f11bb/images/03fa14af-b9f1-4a4e-8404-1f4a2a6a88f9.p=
+ng" style=3D"box-sizing: border-box;-moz-box-sizing: border-box;border: no=
+ne;font-size: 14px;font-weight: bold;height: auto;line-height: 100%;outlin=
+e: none;text-decoration: none;text-transform: capitalize;max-width: 600px;=
+vertical-align: bottom;"></a></div>
+                        </div>
+                      </td>
+                      <td class=3D"spacer right" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;"></td>
+                    </tr>
+                  </table>
+                  <!-- // End Module: Standard Preheader \\ -->
+                </td>
+              </tr>
+            </table>
+            <!-- // End Humble Preheader \\ -->
+            <!-- // Begin Header \\ -->
+            <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"100%" id=3D"templateHeader" style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;background-color: #3b3e48;border-bottom: 0;">
+              <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-=
+box;">
+                <td valign=3D"top" class=3D"headerContent" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;color: #d5d9e1;font-family: A=
+rial;font-size: 18px;font-weight: normal;line-height: 100%;padding: 0;text=
+-align: center;vertical-align: middle;">
+                  <!-- // Begin Module: Standard Preheader \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"box-sizing: border-box;-moz-box-sizing: border-bo=
+x;">
+                    <tr style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+                      <td class=3D"spacer left" style=3D"box-sizing: borde=
+r-box;-moz-box-sizing: border-box;"></td>
+                      <td align=3D"center" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                        <div class=3D"main-content-column" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;padding: 10px;">
+                          <table width=3D"600px" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;">
+                            <tr style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;">
+                              <td valign=3D"top" width=3D"100%" style=3D"b=
+ox-sizing: border-box;-moz-box-sizing: border-box;">
+                                <div style=3D"box-sizing: border-box;-moz-=
+box-sizing: border-box;"><div style=3D"text-align: center;box-sizing: bord=
+er-box;-moz-box-sizing: border-box;"><span style=3D"color: #a1a7b2;box-siz=
+ing: border-box;-moz-box-sizing: border-box;"><a href=3D"http://humblebund=
+le.us7.list-manage1.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D113=
+4eeb52c&e=3D2471c4396f" target=3D"_blank" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;color: #d5d9e1;font-weight: normal;text-decor=
+ation: underline;"><img align=3D"none" height=3D"124" src=3D"https://galle=
+ry.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/9fa5a5ae-d87d-4870-901a-=
+4aaa3df6762a.png" style=3D"width: 600px;height: 124px;margin: 0px;box-sizi=
+ng: border-box;-moz-box-sizing: border-box;border: none;font-size: 14px;fo=
+nt-weight: bold;line-height: 100%;outline: none;text-decoration: none;text=
+-transform: capitalize;" width=3D"600"></a><br style=3D"box-sizing: border=
+-box;-moz-box-sizing: border-box;">
+<br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+Like getting the ingredients for making a homemade casserole.<br style=3D"=
+box-sizing: border-box;-moz-box-sizing: border-box;">
+But the casserole&#39;s a game=2C and instead of eating it=2C you get to p=
+lay it!</span></div>
+</div>
+                              </td>
+                            </tr>
+                          </table>
+                        </div>
+                      </td>
+                      <td class=3D"spacer right" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;"></td>
+                    </tr>
+                  </table>
+                  <!-- // End Module: Standard Preheader \\ -->
+                </td>
+              </tr>
+            </table>
+            <!-- // End Header \\ -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" id=3D"templateContainer" style=3D"box-sizing: border-box;-moz-bo=
+x-sizing: border-box;border: 0;background-color: #e4e7ed;">
+              <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-=
+box;">
+                <td align=3D"center" valign=3D"top" style=3D"box-sizing: b=
+order-box;-moz-box-sizing: border-box;">
+                  <!-- // Begin LIGHT VARIANT Body \\ -->
+                  <table mc:repeatable=3D"repeat_1" mc:variant=3D"regular=
+ text area (light bg)" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"template-body light text-area" mc:repeatindex=3D"0"=
+ style=3D"box-sizing: border-box;-moz-box-sizing: border-box;background-co=
+lor: #e4e7ed;padding: 0;">
+                    <tr style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+                      <td class=3D"spacer left" style=3D"box-sizing: borde=
+r-box;-moz-box-sizing: border-box;"></td>
+                      <td align=3D"center" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                        <div class=3D"main-content-column" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;padding: 10px;">
+                          <table width=3D"600px" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;">
+                            <tr style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;">
+                              <td valign=3D"top" class=3D"bodyContent" sty=
+le=3D"box-sizing: border-box;-moz-box-sizing: border-box;background-color:=
+ #e4e7ed;">
+                              <!-- // Begin Module: Standard Content \\ --=
+>
+                              <table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" style=3D"min-width: 600px;box-sizing: border-bo=
+x;-moz-box-sizing: border-box;">
+                                <tr style=3D"box-sizing: border-box;-moz-b=
+ox-sizing: border-box;">
+                                  <td valign=3D"top" style=3D"box-sizing:=
+ border-box;-moz-box-sizing: border-box;">
+                                    <div style=3D"box-sizing: border-box;-=
+moz-box-sizing: border-box;font-family: Arial;color: #494f5c;font-size: 14=
+px;line-height: 150%;text-align: left;"><div style=3D"text-align: center;b=
+ox-sizing: border-box;-moz-box-sizing: border-box;font-family: Arial;color=
+: #494f5c;font-size: 14px;line-height: 150%;"><a href=3D"http://humblebund=
+le.us7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3Da1ef=
+2e20f3&e=3D2471c4396f" target=3D"_blank" style=3D"box-sizing: border-box;=
+-moz-box-sizing: border-box;font-weight: normal;text-decoration: underline=
+;color: #494F5C;"><img align=3D"none" height=3D"1530" src=3D"https://galle=
+ry.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/6f8dd092-0114-49cf-9acc-=
+c4510a7062d4.png" style=3D"width: 600px;height: 1530px;margin: 0px;box-siz=
+ing: border-box;-moz-box-sizing: border-box;border: none;font-size: 14px;f=
+ont-weight: bold;line-height: 100%;outline: none;text-decoration: none;tex=
+t-transform: capitalize;display: inline;margin-bottom: 10px;" width=3D"600=
+"></a><br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3Dffd8046844&e=3D2471c4396f" target=3D"_blank" styl=
+e=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-weight: norma=
+l;text-decoration: underline;color: #494F5C;"><img align=3D"none" height=
+=3D"205" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/im=
+ages/71d7b0c2-1688-4d50-9c99-75fba77f9b06.png" style=3D"width: 600px;heigh=
+t: 205px;margin: 0px;box-sizing: border-box;-moz-box-sizing: border-box;bo=
+rder: none;font-size: 14px;font-weight: bold;line-height: 100%;outline: no=
+ne;text-decoration: none;text-transform: capitalize;display: inline;margin=
+-bottom: 10px;" width=3D"600"></a><br style=3D"box-sizing: border-box;-moz=
+-box-sizing: border-box;">
+<img align=3D"none" height=3D"40" src=3D"http://gallery.mailchimp.com/a427=
+31fd3353ff4c76f7f11bb/images/89b8a6cc-3a8a-47cd-a058-40b2d655e719.png" sty=
+le=3D"width: 596px;height: 40px;margin: 0px;box-sizing: border-box;-moz-bo=
+x-sizing: border-box;border: none;font-size: 14px;font-weight: bold;line-h=
+eight: 100%;outline: none;text-decoration: none;text-transform: capitalize=
+;display: inline;margin-bottom: 10px;" width=3D"596">
+<div style=3D"text-align: left;box-sizing: border-box;-moz-box-sizing: bor=
+der-box;font-family: Arial;color: #494f5c;font-size: 14px;line-height: 150=
+%;"><a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42=
+731fd3353ff4c76f7f11bb&id=3D7c0f20f5b0&e=3D2471c4396f" target=3D"_blank"=
+ style=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-weight:=
+ normal;text-decoration: underline;color: #494F5C;"><img align=3D"none" he=
+ight=3D"98" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb=
+/images/075d7cd5-e201-4415-aecc-940e85e6cc47.png" style=3D"width: 600px;he=
+ight: 98px;margin: 0px;box-sizing: border-box;-moz-box-sizing: border-box;=
+border: none;font-size: 14px;font-weight: bold;line-height: 100%;outline:=
+ none;text-decoration: none;text-transform: capitalize;display: inline;mar=
+gin-bottom: 10px;" width=3D"600"></a></div>
+
+<div style=3D"text-align: center;box-sizing: border-box;-moz-box-sizing: b=
+order-box;font-family: Arial;color: #494f5c;font-size: 14px;line-height: 1=
+50%;"><strong style=3D"box-sizing: border-box;-moz-box-sizing: border-box;=
+">To date=2C more than $61 million has been donated to charity thanks to p=
+eople like you!</strong><br style=3D"box-sizing: border-box;-moz-box-sizin=
+g: border-box;">
+<br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<img align=3D"none" height=3D"1" src=3D"https://gallery.mailchimp.com/a427=
+31fd3353ff4c76f7f11bb/images/090e155f-ed47-4f7c-9b6e-f2f9935fae4d.png" sty=
+le=3D"width: 596px;height: 1px;margin: 0px;box-sizing: border-box;-moz-box=
+-sizing: border-box;border: none;font-size: 14px;font-weight: bold;line-he=
+ight: 100%;outline: none;text-decoration: none;text-transform: capitalize;=
+display: inline;margin-bottom: 10px;" width=3D"596"><br style=3D"box-sizin=
+g: border-box;-moz-box-sizing: border-box;">
+<br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3D24b7d261db&e=3D2471c4396f" target=3D"_blank" styl=
+e=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-weight: norma=
+l;text-decoration: underline;color: #494F5C;"><img align=3D"none" height=
+=3D"47" src=3D"http://gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/imag=
+es/8335ed63-f8a4-4bc5-ba17-a72d296dcc79.png" style=3D"width: 200px;height:=
+ 47px;margin: 0px;box-sizing: border-box;-moz-box-sizing: border-box;borde=
+r: none;font-size: 14px;font-weight: bold;line-height: 100%;outline: none;=
+text-decoration: none;text-transform: capitalize;display: inline;margin-bo=
+ttom: 10px;" width=3D"200"></a><br style=3D"box-sizing: border-box;-moz-bo=
+x-sizing: border-box;">
+<br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<span id=3D"docs-internal-guid-973ec879-8914-6e87-fe0a-f5545895d8e6" style=
+=3D"background-color: transparent;color: #000000;font-family: arial;font-s=
+ize: 14.666666666666666px;font-style: normal;font-variant: normal;font-wei=
+ght: normal;text-decoration: none;vertical-align: baseline;box-sizing: bor=
+der-box;-moz-box-sizing: border-box;">The Humble Game Making Bundle will l=
+ast for one week before making like a tree and leaving on Tuesday=2C July=
+ 21=2C 2015 at 11 a.m. Pacific time.</span></div>
+</div>
+</div>
+                                  </td>
+                                </tr>
+                              </table>
+                              <!-- // End Module: Standard Content \\ -->
+                              </td>
+                            </tr>
+                          </table>
+                        </div>
+                      </td>
+                    </tr>
+                  </table><table mc:repeatable=3D"repeat_1" mc:variant=3D"=
+regular text area (dark bg)" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" class=3D"template-body dark text-area" mc:repeatindex=
+=3D"1" style=3D"box-sizing: border-box;-moz-box-sizing: border-box;backgro=
+und-color: #D5D9E1;padding: 0;">
+                    <tr style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+                      <td class=3D"spacer left" style=3D"box-sizing: borde=
+r-box;-moz-box-sizing: border-box;"></td>
+                      <td align=3D"center" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                        <div class=3D"main-content-column" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;padding: 10px;">
+                          <table width=3D"600px" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;">
+                            <tr style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;">
+                              <td valign=3D"top" class=3D"bodyContent" sty=
+le=3D"box-sizing: border-box;-moz-box-sizing: border-box;background-color:=
+ #D5D9E1;">
+                                <!-- // Begin Module: Standard Content \\=
+ -->
+                                <table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"min-width: 600px;box-sizing: border-=
+box;-moz-box-sizing: border-box;">
+                                  <tr style=3D"box-sizing: border-box;-moz=
+-box-sizing: border-box;">
+                                    <td valign=3D"top" style=3D"box-sizing=
+: border-box;-moz-box-sizing: border-box;">
+                                      <div style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;font-family: Arial;color: #494F5C;font-size:=
+ 14px;line-height: 150%;text-align: left;"><div style=3D"text-align: cente=
+r;box-sizing: border-box;-moz-box-sizing: border-box;font-family: Arial;co=
+lor: #494F5C;font-size: 14px;line-height: 150%;">
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-fami=
+ly: Arial;color: #494F5C;font-size: 14px;line-height: 150%;text-align: lef=
+t;">
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-fami=
+ly: Arial;color: #494F5C;font-size: 14px;line-height: 150%;text-align: lef=
+t;">
+<div style=3D"text-align: center;box-sizing: border-box;-moz-box-sizing: b=
+order-box;font-family: Arial;color: #494F5C;font-size: 14px;line-height: 1=
+50%;">
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;font-fami=
+ly: Arial;color: #494F5C;font-size: 14px;line-height: 150%;text-align: lef=
+t;"><br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<img align=3D"none" height=3D"40" src=3D"http://gallery.mailchimp.com/a427=
+31fd3353ff4c76f7f11bb/images/8da468cd-5a0d-4716-9428-2499f51a6743.png" sty=
+le=3D"width: 596px;height: 40px;margin: 0px;box-sizing: border-box;-moz-bo=
+x-sizing: border-box;border: none;font-size: 14px;font-weight: bold;line-h=
+eight: 100%;outline: none;text-decoration: none;text-transform: capitalize=
+;display: inline;margin-bottom: 10px;" width=3D"596">
+<div style=3D"text-align: center;box-sizing: border-box;-moz-box-sizing: b=
+order-box;font-family: Arial;color: #494F5C;font-size: 14px;line-height: 1=
+50%;"><br style=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3D0ac0e84c8a&e=3D2471c4396f" style=3D"color: rgb(73=
+=2C 79=2C 92);box-sizing: border-box;-moz-box-sizing: border-box;font-weig=
+ht: normal;text-decoration: underline;" target=3D"_blank"><img align=3D"no=
+ne" height=3D"77" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f=
+7f11bb/images/1947df3d-0c42-4777-bb09-5bd7d419c995.png" style=3D"height: 7=
+7px;line-height: 14px;display: inline;width: 640px;font-size: 14px;font-we=
+ight: bold;outline: medium none;text-decoration: none;text-transform: capi=
+talize;box-sizing: border-box;-moz-border-top-colors: none;-moz-border-rig=
+ht-colors: none;-moz-border-bottom-colors: none;-moz-border-left-colors: n=
+one;border-image: none;margin: 0px 0px 10px;-moz-box-sizing: border-box;bo=
+rder: none;margin-bottom: 10px;" width=3D"640"></a><br style=3D"box-sizing=
+: border-box;-moz-box-sizing: border-box;">
+<a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731f=
+d3353ff4c76f7f11bb&id=3Dba67fc3ff4&e=3D2471c4396f" style=3D"box-sizing: b=
+order-box;-moz-box-sizing: border-box;font-weight: normal;text-decoration:=
+ underline;color: #494F5C;" target=3D"_blank">Get tons of games in a jam-p=
+acked bundle from Bohemia Interactive!</a><br style=3D"box-sizing: border-=
+box;-moz-box-sizing: border-box;">
+&nbsp;</div>
+<img align=3D"none" height=3D"1" src=3D"https://gallery.mailchimp.com/a427=
+31fd3353ff4c76f7f11bb/images/090e155f-ed47-4f7c-9b6e-f2f9935fae4d.png" sty=
+le=3D"width: 596px;height: 1px;margin: 0px;box-sizing: border-box;-moz-box=
+-sizing: border-box;border: none;font-size: 14px;font-weight: bold;line-he=
+ight: 100%;outline: none;text-decoration: none;text-transform: capitalize;=
+display: inline;margin-bottom: 10px;" width=3D"596"><br style=3D"box-sizin=
+g: border-box;-moz-box-sizing: border-box;">
+&nbsp;
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;color: #4=
+94F5C;font-family: Arial;font-size: 14px;line-height: 150%;text-align: lef=
+t;">
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;color: #4=
+94F5C;font-family: Arial;font-size: 14px;line-height: 150%;text-align: lef=
+t;">
+<div style=3D"text-align: center;box-sizing: border-box;-moz-box-sizing: b=
+order-box;color: #494F5C;font-family: Arial;font-size: 14px;line-height: 1=
+50%;"><a href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da=
+42731fd3353ff4c76f7f11bb&id=3D7b1e4cfac2&e=3D2471c4396f" style=3D"box-siz=
+ing: border-box;-moz-box-sizing: border-box;color: #494f5c;font-weight: no=
+rmal;text-decoration: underline;" target=3D"_blank"><img align=3D"none" al=
+t=3D"Weekly Bundle" height=3D"40" src=3D"https://gallery.mailchimp.com/a42=
+731fd3353ff4c76f7f11bb/images/b1dda2b8-1809-4fb5-abf9-f5a587c3f47a.png" st=
+yle=3D"width: 180px;height: 40px;box-sizing: border-box;-moz-border-top-co=
+lors: none;-moz-border-right-colors: none;-moz-border-bottom-colors: none;=
+-moz-border-left-colors: none;border-image: none;font-size: 14px;font-weig=
+ht: bold;line-height: 100%;outline: medium none;text-decoration: none;text=
+-transform: capitalize;display: inline;margin: 0px 0px 10px;-moz-box-sizin=
+g: border-box;border: none;margin-bottom: 10px;" width=3D"180"></a>&nbsp;&=
+nbsp; &nbsp; <a href=3D"http://humblebundle.us7.list-manage1.com/track/cli=
+ck?u=3Da42731fd3353ff4c76f7f11bb&id=3Deed0954a3a&e=3D2471c4396f" style=3D=
+"box-sizing: border-box;-moz-box-sizing: border-box;color: #494f5c;font-we=
+ight: normal;text-decoration: underline;" target=3D"_blank"><img align=3D"=
+none" alt=3D"Humble Store" height=3D"40" src=3D"https://gallery.mailchimp.=
+com/a42731fd3353ff4c76f7f11bb/images/05ed5469-0bbc-48ce-aff7-864332b0a130.=
+png" style=3D"width: 159px;height: 40px;box-sizing: border-box;-moz-border=
+-top-colors: none;-moz-border-right-colors: none;-moz-border-bottom-colors=
+: none;-moz-border-left-colors: none;border-image: none;font-size: 14px;fo=
+nt-weight: bold;line-height: 100%;outline: medium none;text-decoration: no=
+ne;text-transform: capitalize;display: inline;margin: 0px 0px 10px;-moz-bo=
+x-sizing: border-box;border: none;margin-bottom: 10px;" width=3D"159"></a>=
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <!-- // End Module: Standard Content \\ --=
+>
+                              </td>
+                            </tr>
+                          </table>
+                        </div>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End LIGHT VARIANT Body \\ -->
+                  <!-- // Begin DARK VARIANT Body \\ -->
+
+                  <!-- // End DARK VARIANT Body \\ -->
+                  <!-- // Begin LIGHT BACKGROUND VARIANT Callout \\ -->
+
+                  <!-- // End LIGHT BACKGROUND VARIANT Callout \\ -->
+                  <!-- // Begin DARK BACKGROUND VARIANT Callout \\ -->
+
+                  <!-- // End DARK BACKGROUND VARIANT Callout \\ -->
+                </td>
+              </tr>
+              <tr style=3D"box-sizing: border-box;-moz-box-sizing: border-=
+box;">
+                <td align=3D"center" valign=3D"top" style=3D"box-sizing: b=
+order-box;-moz-box-sizing: border-box;">
+                  <!-- // Begin Template Footer \\ -->
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" id=3D"templateFooter" style=3D"box-sizing: border-box;-moz=
+-box-sizing: border-box;background-color: #FFFFFF;border-top: 0;padding-to=
+p: 20px;">
+                    <tr style=3D"box-sizing: border-box;-moz-box-sizing: b=
+order-box;">
+                      <td class=3D"spacer left" style=3D"box-sizing: borde=
+r-box;-moz-box-sizing: border-box;"></td>
+                      <td align=3D"center" style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+                        <div class=3D"main-content-column" style=3D"box-si=
+zing: border-box;-moz-box-sizing: border-box;">
+                          <table width=3D"600px" style=3D"box-sizing: bord=
+er-box;-moz-box-sizing: border-box;">
+                            <tr style=3D"box-sizing: border-box;-moz-box-s=
+izing: border-box;">
+                              <td valign=3D"top" class=3D"footerContent" s=
+tyle=3D"box-sizing: border-box;-moz-box-sizing: border-box;">
+                                <!-- // Begin Module: Standard Footer \\ -=
+->
+                                <table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"box-sizing: border-box;-moz-box-sizi=
+ng: border-box;">
+                                  <tr style=3D"box-sizing: border-box;-moz=
+-box-sizing: border-box;">
+                                    <td colspan=3D"2" valign=3D"middle" id=
+=3D"social" style=3D"box-sizing: border-box;-moz-box-sizing: border-box;ba=
+ckground-color: #FFFFFF;border: none;">
+                                      <div style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;color: #a1a7b3;font-family: Arial;font-size:=
+ 14px;line-height: 125%;text-align: center;"><div style=3D"text-align: cen=
+ter;box-sizing: border-box;-moz-box-sizing: border-box;color: #a1a7b3;font=
+-family: Arial;font-size: 14px;line-height: 125%;"><span style=3D"font-siz=
+e: 12px;box-sizing: border-box;-moz-box-sizing: border-box;"><span style=
+=3D"font-family: helvetica;letter-spacing: 0.28px;line-height: 21px;box-si=
+zing: border-box;-moz-box-sizing: border-box;">&copy; 2015 Humble Bundle=
+=2C Inc. |&nbsp;201 Post Street=2C 11th Floor&nbsp;|&nbsp;San Francisco=2C=
+ CA | 94108</span><br style=3D"box-sizing: border-box;-moz-box-sizing: bor=
+der-box;">
+<a href=3D"http://us7.forward-to-friend.com/forward?u=3Da42731fd3353ff4c76=
+f7f11bb&id=3D6e3ef1f379&e=3D2471c4396f" style=3D"box-sizing: border-box;-moz=
+-box-sizing: border-box;color: #a1a7b2;font-weight: normal;text-decoration=
+: underline;">forward to a friend</a>&nbsp;|&nbsp;<a href=3D"http://humble=
+bundle.us7.list-manage.com/unsubscribe?u=3Da42731fd3353ff4c76f7f11bb&id=3D=
+990b1b6399&e=3D2471c4396f&c=3D6e3ef1f379" style=3D"box-sizing: border-box;-m=
+oz-box-sizing: border-box;color: #a1a7b2;font-weight: normal;text-decorati=
+on: underline;">unsubscribe from this list</a> | <a href=3D"http://humbleb=
+undle.us7.list-manage1.com/profile?u=3Da42731fd3353ff4c76f7f11bb&id=3D990b=
+1b6399&e=3D2471c4396f" style=3D"box-sizing: border-box;-moz-box-sizing: bord=
+er-box;color: #a1a7b2;font-weight: normal;text-decoration: underline;">upd=
+ate subscription preferences</a></span><br style=3D"box-sizing: border-box=
+;-moz-box-sizing: border-box;">
+&nbsp;
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;color: #d=
+73d35;font-family: Arial;font-size: 12px;line-height: 100%;text-align: lef=
+t;">
+<div style=3D"box-sizing: border-box;-moz-box-sizing: border-box;color: #d=
+73d35;font-family: Arial;font-size: 12px;line-height: 100%;text-align: lef=
+t;">
+<div style=3D"box-sizing: border-box;color: rgb(215=2C 61=2C 53);font-fami=
+ly: Arial;font-size: 12px;line-height: 100%;text-align: center;-moz-box-si=
+zing: border-box;">&nbsp;&nbsp;&nbsp;&nbsp; <a href=3D"http://humblebundle=
+=2Eus7.list-manage.com/track/click?u=3Da42731fd3353ff4c76f7f11bb&id=3D7f53df=
+c0b3&e=3D2471c4396f" style=3D"box-sizing: border-box;-moz-box-sizing: bor=
+der-box;color: #a1a7b3;font-weight: normal;text-decoration: underline;" ta=
+rget=3D"_blank"><img align=3D"none" src=3D"http://gallery.mailchimp.com/a4=
+2731fd3353ff4c76f7f11bb/images/2b364737-415a-4782-ab80-bc579b1f3a87.png" s=
+tyle=3D"margin: 0px;box-sizing: border-box;-moz-box-sizing: border-box;bor=
+der: none;font-size: 14px;font-weight: bold;height: auto;line-height: 100%=
+;outline: none;text-decoration: none;text-transform: capitalize;max-width:=
+ 600px;display: inline;"></a>&nbsp;&nbsp; &nbsp; &nbsp;<a href=3D"http://h=
+umblebundle.us7.list-manage1.com/track/click?u=3Da42731fd3353ff4c76f7f11bb=
+&id=3D18c562c036&e=3D2471c4396f" style=3D"box-sizing: border-box;-moz-box=
+-sizing: border-box;color: #a1a7b3;font-weight: normal;text-decoration: un=
+derline;" target=3D"_blank"><img align=3D"none" src=3D"http://gallery.mail=
+chimp.com/a42731fd3353ff4c76f7f11bb/images/53171100-8bd6-494f-b705-dd4381d=
+f5e9e.png" style=3D"margin: 0px;box-sizing: border-box;-moz-box-sizing: bo=
+rder-box;border: none;font-size: 14px;font-weight: bold;height: auto;line-=
+height: 100%;outline: none;text-decoration: none;text-transform: capitaliz=
+e;max-width: 600px;display: inline;"></a>&nbsp; &nbsp; &nbsp;&nbsp;<a href=
+=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3353ff=
+4c76f7f11bb&id=3D71a225db98&e=3D2471c4396f" style=3D"box-sizing: border-b=
+ox;-moz-box-sizing: border-box;color: #a1a7b3;font-weight: normal;text-dec=
+oration: underline;" target=3D"_blank"><img align=3D"none" src=3D"http://g=
+allery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/03c74e60-8200-4bf8-b=
+a80-f9e8bea49784.png" style=3D"margin: 0px;box-sizing: border-box;-moz-box=
+-sizing: border-box;border: none;font-size: 14px;font-weight: bold;height:=
+ auto;line-height: 100%;outline: none;text-decoration: none;text-transform=
+: capitalize;max-width: 600px;display: inline;"></a>&nbsp;&nbsp; &nbsp; <a=
+ href=3D"http://humblebundle.us7.list-manage.com/track/click?u=3Da42731fd3=
+353ff4c76f7f11bb&id=3D08a5486c19&e=3D2471c4396f" style=3D"box-sizing: bor=
+der-box;-moz-box-sizing: border-box;color: #a1a7b3;font-weight: normal;tex=
+t-decoration: underline;" target=3D"_blank"><img align=3D"none" height=3D"=
+12" src=3D"https://gallery.mailchimp.com/a42731fd3353ff4c76f7f11bb/images/=
+fee02921-4276-4970-8684-15eb76dc222c.png" style=3D"width: 24px;height: 12p=
+x;margin: 0px;box-sizing: border-box;-moz-box-sizing: border-box;border: n=
+one;font-size: 14px;font-weight: bold;line-height: 100%;outline: none;text=
+-decoration: none;text-transform: capitalize;max-width: 600px;display: inl=
+ine;" width=3D"24"></a></div>
+</div>
+</div>
+</div>
+</div>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <!-- // End Module: Standard Footer \\ -->
+                              </td>
+                            </tr>
+
+                        </table></div>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- // End Template Footer \\ -->
+                </td>
+              </tr>
+            </table>
+            <br style=3D"box-sizing: border-box;-moz-box-sizing: border-bo=
+x;">
+          </td>
+        </tr>
+      </table>
+    </center>
+  <img src=3D"http://humblebundle.us7.list-manage.com/track/open.php?u=3Da=
+42731fd3353ff4c76f7f11bb&id=3D6e3ef1f379&e=3D2471c4396f" height=3D"1" wid=
+th=3D"1"></body>
+</html>
+--_----------=_MCPart_983433128--

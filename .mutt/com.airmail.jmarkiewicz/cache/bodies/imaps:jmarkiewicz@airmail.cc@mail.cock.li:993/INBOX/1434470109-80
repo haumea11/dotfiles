@@ -1,0 +1,68 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type;
+        bh=3VNM09BkdyLzd/H5n+ClO7V819doT9vrmREQhDl5H2s=;
+        b=G5xUhHo+bOxpAE25qYx1LyeCY9LLIhSi4Gl5jIrwiLaTChIZGKbxoBQTuQ3EinOEUa
+         a9DO5gVNzDM3z+FQAulPZCQ9kpXvJIaTFaTgdD2JrLMGr8dlJU3UKzn4x74XCizOpVZc
+         jYJMHOeGZR2HCo3Ld9/5eLnUKz2sYAzSbKUCEbarKJix4JN2IbzeD9sC43ag0SlnsbgC
+         kKo2O1qtd71g75g9htS5++/oDumuQ31DVEwzQUW02U9lwTdByRYqYltyqc0Lx4gTve/J
+         y3dLDMyPExZSpZub6k7DvIWAWb/9zBg6JpJm1WTjUDNhqVLHrEWUz9iLUwFN0CTFMd3B
+         NIgg==
+X-Received: by 10.107.18.224 with SMTP id 93mr11189762ios.51.1438991139130;
+        Fri, 07 Aug 2015 16:45:39 -0700 (PDT)
+Message-ID: <55C54320.2020909@gmail.com>
+Date: Fri, 07 Aug 2015 19:45:36 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: Pete Markiewicz <pete.markiewicz@gmail.com>, 
+ John Markiewicz <jmarkiewicz@airmail.cc>,
+ shannon.markiewicz@gmail.com
+Subject: bash looping
+Content-Type: multipart/mixed;
+ boundary="------------010705030205090303090006"
+
+This is a multi-part message in MIME format.
+--------------010705030205090303090006
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+FYI
+-- 
+Shannon Markiewicz, Ph.D.
+
+--------------010705030205090303090006
+Content-Type: text/plain; charset=UTF-8;
+ name="bash_unzip.bash"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="bash_unzip.bash"
+
+Cmh0dHA6Ly90bGRwLm9yZy9IT1dUTy9CYXNoLVByb2ctSW50cm8tSE9XVE8tNy5odG1sCgoj
+IyBNYWtlIG9yYWNsZSB0aGUgZ3JvdXAgZm9yIC91c3IvZGF0YWJhc2UKJCBjaGdycCBvcmFj
+bGUgL3Vzci9kYXRhYmFzZQoKIyMgUmVsYXRlZDogIAojIyBjaG1vZCAtIENoYW5nZSBhY2Nl
+c3MgcGVybWlzc2lvbnMKIyMgY2hvd24gLSBDaGFuZ2UgZmlsZSBvd25lciAKCgojIyBUaGlz
+IGNvZGUgbG9vcHMgZG93biBieSBkZWNyZW1lbnRpbmcKIyMgZWNobyBjb21tYW5kIHByaW50
+cyB0byB0ZXJtaW5hbAojIS9iaW4vYmFzaCAKQ09VTlRFUj0yMAp1bnRpbCBbICAkQ09VTlRF
+UiAtbHQgMTAgXTsgZG8KIGVjaG8gQ09VTlRFUiAkQ09VTlRFUiMwMDAwRkYjODAwMDgwCiBs
+ZXQgQ09VTlRFUi09MQpkb25lCgojIS9iaW4vYmFzaCAKQ09VTlRFUj0wCndoaWxlIFsgICRD
+T1VOVEVSIC1sdCAxMCBdOyBkbwogZWNobyAnVGhlIGNvdW50ZXIgaXMgJENPVU5URVInCiBs
+ZXQgQ09VTlRFUj1DT1VOVEVSKzEgCmRvbmUgCgojIyBUaGlzIGV4YW1wbGUgaXMgbG9vcGlu
+ZyB0aHJvdWdoIGEgbGlzdAojIyBUaGUgJHtpfSB3aWxsIGNoYW5nZSB0byB2YWx1ZSBvZiBp
+CiMhL2Jpbi9iYXNoCmZvciBpIGluICAxMiAxMyAgMTUgIDE2ICAxNyAgMTggIDE5ICAyMDsK
+ZG8KICBlY2hvICR7aX1fbnRpbWUKICB3Z2V0IGZ0cDovL2Z0cDIuY2Vuc3VzLmdvdi9nZW8v
+dGlnZXIvVElHRVIyMDE0L1BSSVNFQ1JPQURTL3RsXzIwMTRfJHtpfV9wcmlzZWNyb2Fkcy56
+aXAKZG9uZSAKCgojIyBUaGlzIHdpbGwgbG9vcCBmcm9tIG9uZSB2YWx1ZSB0byBhbm90aGVy
+CiMjIFVzZXMgQyBzdHlsZSBzeW50YXgKIyEvYmluL2Jhc2gKZm9yICgoIGk9MTAwMTsgaSA8
+PSAxMjMxOyBpKysgKSkKZG8KIGVjaG8gIlJhbmRvbSBudW1iZXIgJGk6ICRSQU5ET00iCiB3
+Z2V0IGh0dHA6Ly9kYXRhLmdkZWx0cHJvamVjdC5vcmcvZXZlbnRzLzIwMTQke2l9LmV4cG9y
+dC5DU1YuemlwCmRvbmUgICAgICAgIAogCiAKIAojIyBUaGlzIHdpbGwgcHJvY2VzcyBhIHRl
+eHQgZmlsZSBsaW5lIGJ5IGxpbmUKIyMgVGhlIHRleHQgZmlsZSBoZXJlIGxpc3RzIHRoZSBm
+aWxlcwojIyB0aGF0IG5lZWQgdG8gYmUgdW56aXBwZWQKIyEvYmluL2Jhc2ggICAgICAKd2hp
+bGUgcmVhZCBwOyAKZG8KICBlY2hvICRwCiAgdW56aXAgJHAgLWQgLi9kYXRhVW56aXAKZG9u
+ZSA8Li9saXN0LnR4dAo=
+--------------010705030205090303090006--

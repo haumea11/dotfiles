@@ -1,0 +1,2420 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp1761680oig;
+        Mon, 17 Aug 2015 12:38:47 -0700 (PDT)
+X-Received: by 10.129.51.14 with SMTP id z14mr3399750ywz.65.1439840327792;
+        Mon, 17 Aug 2015 12:38:47 -0700 (PDT)
+Return-Path: <bounce-mc.us7_19863795.522869-kuiperhaumea=gmail.com@mail163.atl171.mcdlv.net>
+Received: from mail163.atl171.mcdlv.net (mail163.atl171.mcdlv.net. [198.2.138.163])
+        by mx.google.com with ESMTP id 132si9396386ywa.41.2015.08.17.12.38.47
+        for <kuiperhaumea@gmail.com>;
+        Mon, 17 Aug 2015 12:38:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us7_19863795.522869-kuiperhaumea=gmail.com@mail163.atl171.mcdlv.net designates 198.2.138.163 as permitted sender) client-ip=198.2.138.163;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce-mc.us7_19863795.522869-kuiperhaumea=gmail.com@mail163.atl171.mcdlv.net designates 198.2.138.163 as permitted sender) smtp.mailfrom=bounce-mc.us7_19863795.522869-kuiperhaumea=gmail.com@mail163.atl171.mcdlv.net;
+       dkim=pass header.i=@mail163.atl171.mcdlv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail163.atl171.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=info=3Dwelcometonightvale.com@mail163.atl171.mcdlv.net;
+ bh=iS8KbLtqbWbJI/690CGNrJZw0sw=;
+ b=jWR47saNVuIYiG83eSOuO+e2r2YBfSGchSCmu1ZLJdvsboDmQRQ3muxZq+Ca+NDkmLqgdPc+Zkbb
+   o8jGGNSa/4El95vgooQKtA4gtasF7ztV4sMWYhzYq8pHl52eX4yiclvBz1cuqTdw8IunaoTLXwpf
+   l6kxV/+qiHZ0Ap7Juks=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=iS8KbLtqbWbJI/690CGNrJZw0sw=;
+ b=mlAsC+SuVyYKLAecl6AHzco4p6z6xt8Z3gRo+4WWyqAql5MfFzli5ZXs8SOI8/xnRCGO882ggbmQ
+   7s8Sj58BebSSCnA3+7DmX60ycyUBU1KBaf6SCtNDCgF/s/Rh8LU5OEU3aBvy7R5AiPwXvVsP9ix1
+   jbQ8XkgBtFCs95CtqpU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail163.atl171.mcdlv.net;
+ b=ETtzqTia+fMnURTKY1hYP7rtaUhIx4RJnd8vOQZmNTyCOLwjDdMxsTqfqL5KwlItThOKJ4vxSWn8
+   ZehH+0LmDg4b584zlugz3peM0J0aeC+7joCi8G9Z1ZbGeQZ3hmRv1xz3NYpHJazdWiAE+jIdCB+P
+   8/zD+dPubTw18jLleqw=;
+Received: from (127.0.0.1) by mail163.atl171.mcdlv.net id hq8s4e1sb542 for <kuiperhaumea@gmail.com>; Mon, 17 Aug 2015 19:07:35 +0000 (envelope-from <bounce-mc.us7_19863795.522869-kuiperhaumea=gmail.com@mail163.atl171.mcdlv.net>)
+Subject: =?utf-8?Q?Night=20Vale=20Has=20Squishy=20Eyeballs?=
+From: =?utf-8?Q?Welcome=20to=20Night=20Vale?= <info@welcometonightvale.com>
+Reply-To: =?utf-8?Q?Welcome=20to=20Night=20Vale?= <info@welcometonightvale.com>
+To: <kuiperhaumea@gmail.com>
+Date: Mon, 17 Aug 2015 19:07:35 +0000
+Message-ID: <659989b717d15e1e74d2bdc53c15ee789e0.20150817190652@mail163.atl171.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDde177a7444c15ee789e0**
+X-Campaign: mailchimp659989b717d15e1e74d2bdc53.de177a7444
+X-campaignid: mailchimp659989b717d15e1e74d2bdc53.de177a7444
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=659989b717d15e1e74d2bdc53&id=de177a7444&e=c15ee789e0
+X-MC-User: 659989b717d15e1e74d2bdc53
+X-Feedback-ID: 19863795:19863795.522869:us7:mc
+List-ID: 659989b717d15e1e74d2bdc53mc list <659989b717d15e1e74d2bdc53.49549.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us7_659989b717d15e1e74d2bdc53.de177a7444-c15ee789e0@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://welcometonightvale.us7.list-manage2.com/unsubscribe?u=659989b717d15e1e74d2bdc53&id=9fd7b3ed81&e=c15ee789e0&c=de177a7444>
+Sender: "Welcome to Night Vale" <info=welcometonightvale.com@mail163.atl171.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1316483373"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1316483373
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Night Vale Has Squishy Eyeballs
+
+View this email in your browser (http://us7.campaign-archive1.com/?u=3D659=
+989b717d15e1e74d2bdc53&id=3Dde177a7444&e=3Dc15ee789e0)
+
+
+** Table of Contents:
+------------------------------------------------------------
+- Squishy Eyes and More - (#Store)
+- 3 Fall Tours -  (#Fall Tours)
+- Special Episodes - (#downloads)
+- Pre-Order the Novel + Special Signed Editions - (#novel)
+- Episode 72 - (#episode)
+- Donate - (#donor)
+
+
+** Squishable eyes! All hail!
+------------------------------------------------------------
+
+http://www.topatoco.com/merchant.mvc?Screen=3DPROD&Store_Code=3DTO&Product=
+_Code=3DCPB-WTNV-EYEPLUSH
+
+
+You can now hold our logo while you drift to sleep.
+Also available - the limited edition Glow Cloud poster=2C designed exclusi=
+vely for
+San Diego Comic Con=2C is now available for you for a short time only!
+
+http://www.topatoco.com/merchant.mvc?Screen=3DPROD&Store_Code=3DTO&Product=
+_Code=3DCPB-WTNV-SDCC2015-POSTER
+
+
+
+** Plushies=2C posters=2C and more available on our Topatoco Store (http:/=
+/www.topatoco.com/merchant.mvc?Screen=3DCTGY&Store_Code=3DTO&Category_Code=
+=3DCPB) !
+------------------------------------------------------------
+
+
+** We're going on three tours this fall!
+------------------------------------------------------------
+In case you missed it=2C we will be embarking on three separate tours this=
+ fall.
+
+We'll be bringing our live show=2C The Investigators=2C on tours of the UK=
+ + Ireland and the US + Canada.
+
+Our book tour will be in conversation events with Joseph Fink and Jeffrey=
+ Cranor and some of our favorite people.
+
+Tickets are on sale for all three tours!
+
+http://commonplacebooks.com/live-events/#/book-tour/
+
+
+**
+BOOK TOUR
+------------------------------------------------------------
+Featuring authors Joseph Fink and Jeffrey Cranor
+
+OCTOBER 21 - BOSTON=2C MA (http://www.portersquarebooks.com/event/welcome-=
+night-vale)
+OCTOBER 22 - NEW YORK=2C NY (http://www.92y.org/Event/Welcome-To-Night-Val=
+e.aspx)
+OCTOBER 23 - CHICAGO=2C IL (https://ticketing.musicboxtheatre.com/Ticketin=
+g/visSelectTickets.aspx?cinemacode=3D0000000001&txtSessionId=3D5392&visLan=
+g=3D1)
+OCTOBER 24 - ANN ARBOR=2C MI (http://www.eventbrite.com/e/welcome-to-night=
+-vale-book-tour-at-emerson-school-tickets-18007847958?ref=3Debtnebtckt)
+OCTOBER 25 - ST PAUL=2C MN (http://fitzgeraldtheater.publicradio.org/event=
+s/)
+OCTOBER 27 - SEATTLE=2C WA (https://townhallseattle.org/event/joseph-fink-=
+and-jeffrey-cranor-with-hank-green/)
+OCTOBER 28 - PORTLAND=2C OR (http://www.powells.com/locations/powells-book=
+s-at-cedar-hills-crossing/)
+OCTOBER 29 - SAN FRANCISCO=2C CA (http://www.brownpapertickets.com/event/1=
+720462)
+OCTOBER 31 - LOS ANGELES=2C CA (http://livetalksla.org/events/nightvale/)
+NOVEMBER 01 - ATLANTA=2C GA (http://www.acappellabooks.com/event/welcome-n=
+ight-vale-book-signing)
+NOVEMBER 02 - WASHINGTON=2C DC (http://www.sixthandi.org/event/jeffrey-cra=
+nor-and-joseph-fink/)
+NOVEMBER 03 - CHAPEL HILL=2C NC (http://www.flyleafbooks.com/)
+NOVEMBER 04 - DALLAS=2C TX (http://www.eisemanncenter.com/)
+NOVEMBER 05 - WACO=2C TX (http://www.gohastings.com/)
+NOVEMBER 06 - AUSTIN=2C TX (http://www.bookpeople.com/event/welcome-night-=
+vale-austin-booksigning-joseph-fink-jeffrey-cranor)
+NOVEMBER 09 - TORONTO=2C ON (https://www.chapters.indigo.ca/en-ca/events/l=
+istings/)
+NOVEMBER 10 - MILWAUKEE=2C WI (http://pabsttheater.org/show/welcometonight=
+vale2015)
+NOVEMBER 11 - PHILADELPHIA=2C PA (http://firstpersonarts.org/)
+NOVEMBER 12 - BROOKLYN=2C NY (http://cranorfinknightvale.brownpapertickets=
+=2Ecom/)
+NOVEMBER 17 - JERSEY CITY=2C NJ (http://www.wordbookstores.com/night-vale-=
+jersey-city)
+NOVEMBER 21 + NOVEMBER 22 - MIAMI=2C FL (http://www.miamibookfair.com/)
+
+http://commonplacebooks.com/live-events/
+
+
+**
+LIVE SHOW : "The Investigators"
+------------------------------------------------------------
+Starring Cecil Baldwin as Cecil Palmer.
+Also featuring: Surprise guest stars and live backing music by Disparition=
+=2E
+
+
+**
+UK + IRELAND TOUR
+------------------------------------------------------------
+
+Featuring Jason Webley as 'The Weather'
+
+SEPTEMBER 16 - GLASGOW (http://www.ticketmaster.co.uk/welcome-to-night-val=
+e-glasgow-16-09-2015/event/36004EC48A762019?artistid=3D1951124&majorcatid=
+=3D10005&minorcatid=3D0)
+SEPTEMBER 17 - EDINBURGH (http://www.ticketmaster.co.uk/welcome-to-night-v=
+ale-edinburgh-17-09-2015/event/36004EC486D01B2B?artistid=3D1951124&majorca=
+tid=3D10005&minorcatid=3D0)
+SEPTEMBER 19 - DUBLIN (http://www.ticketmaster.co.uk/welcome-to-night-vale=
+-dublin-19-09-2015/event/18004EC39AAB35DB?artistid=3D1951124&majorcatid=3D=
+10005&minorcatid=3D0)
+SEPTEMBER 21 - NEWCASTLE (http://www.gigsandtours.com/event/welcome-to-nig=
+ht-vale/tyne-theatre-opera-house/881485)
+SEPTEMBER 22 - BIRMINGHAM (http://www.gigsandtours.com/event/welcome-to-ni=
+ght-vale/alexandra-theatre/881494)
+SEPTEMBER 23 - LEEDS (http://www.gigsandtours.com/event/welcome-to-night-v=
+ale/leeds-town-hall/881495)
+SEPTEMBER 24 - MANCHESTER (http://www.gigsandtours.com/event/welcome-to-ni=
+ght-vale/albert-hall/881496)
+SEPTEMBER 25 - CARDIFF (http://www.gigsandtours.com/event/welcome-to-night=
+-vale/st-davids-hall/881497)
+SEPTEMBER 26 - BRISTOL - SOLD OUT
+SEPTEMBER 28 - LONDON  - SOLD OUT
+SEPTEMBER 29 - LONDON (http://www.gigsandtours.com/event/welcome-to-night-=
+vale/union-chapel/881500)
+SEPTEMBER 30 - LONDON (http://www.gigsandtours.com/event/welcome-to-night-=
+vale/union-chapel/881501)
+
+
+**
+US + CANADA TOUR
+------------------------------------------------------------
+Featuring musical guests Dessa (October 8) and
+Eliza Rickman (October 25 - November 7) as 'The Weather'.
+
+OCTOBER 8 - MADISON=2C WI (http://www.barrymorelive.com/tickets/1510081.ht=
+ml)
+OCTOBER 9-10 - MINNEAPOLIS=2C MN (Nerdcon: Stories) (http://nerdcon.com/)
+OCTOBER 25 - MONTREAL=2C QC (http://theatrestdenis.ticketpro.ca/?aff=3Dwtn=
+v=E2=8C=A9=3Den#achat_WN25JS15)
+OCTOBER 26 - TORONTO=2C ON (http://www.ticketmaster.ca/event/10004EDEDD6C9=
+B8E)
+OCTOBER 27 - TORONTO=2C ON (http://www.ticketmaster.ca/event/10004EDEDD6A9=
+B87)
+OCTOBER 29 - WINNIPEG=2C MB (https://www.ticketfly.com/purchase/event/8941=
+67)
+OCTOBER 30 - EDMONTON - SOLD OUT
+OCTOBER 31 - VANCOUVER=2C BC (http://www.chancentre.com/whats-on/welcome-n=
+ight-vale-0)
+NOVEMBER 02 - SACRAMENTO=2C CA (https://www.ticketfly.com/purchase/event/9=
+03213)
+NOVEMBER 03 - SAN DIEGO=2C CA (http://www.ticketmaster.com/event/0A004EDBD=
+E351E24)
+NOVEMBER 05 - DENVER=2C CO (http://www.altitudetickets.com/event/welcome-t=
+o-night-vale-4061/)
+NOVEMBER 06 - MIDWEST CITY=2C OK (http://purchase.tickets.com/buy/TicketPu=
+rchase?pid=3D8063418)
+NOVEMBER 07 - AUSTIN=2C TX (https://tickets.austintheatre.org/single/SYOS.=
+aspx?p=3D590)
+
+
+** For more information=2C check out our Live Shows (http://commonplaceboo=
+ks.com/live-events/) page.
+------------------------------------------------------------
+
+
+** Download our special episodes.
+------------------------------------------------------------
+
+
+**                                         https://nightvale.bandcamp.com/
+------------------------------------------------------------
+
+The live recording of The Librarian is still available to download=2C as w=
+ell as Condos=2C The Debate and our Thrilling Adventure Hour crossover!
+
+
+
+**
+------------------------------------------------------------
+
+
+** Get them now on Bandcamp (https://nightvale.bandcamp.com/)  for whateve=
+r you think extra Night Vale is worth and on iTunes (https://itunes.apple.=
+com/WebObjects/MZStore.woa/wa/viewMultiRoom?fcId=3D966310566&ls=3D1) .
+
+------------------------------------------------------------
+
+
+** Pre-Order the Novel + Special Signed Editions!
+------------------------------------------------------------
+
+
+** http://commonplacebooks.com/novel/
+
+------------------------------------------------------------
+The Welcome to Night Vale novel is coming out this October! You can pre-or=
+der it now from wherever books are sold.
+
+
+**
+Can't make the book tour?
+------------------------------------------------------------
+Signed editions are available for pre-order from Books-a-Million (http://w=
+ww.booksamillion.com/p/Welcome-Night-Vale-Autographed-Copy/Joseph-Fink/978=
+0062442857 )  and Hastings (http://www.gohastings.com/product/BOOK/Welcome=
+-to-Night-Vale-Signed-Edition/sku/296861801.uts ) .
+
+Fans in Canada can order a signed copy from Indigo (https://www.chapters.i=
+ndigo.ca/en-ca/books/welcome-to-night-vale-indigo/9780062443700-item.html?=
+ikwid=3Dwelcome+to+night+vale&ikwsec=3DHome&ikwidx=3D7 ) .
+For UK fans=2C Waterstones (https://www.waterstones.com/book/welcome-to-ni=
+ght-vale-a-novel-exclusive-edition/joseph-fink/jeffrey-cranor/978178517265=
+6)  is offering an edition with exclusive bonus content.
+
+
+**
+Head to our website (http://commonplacebooks.com/novel/) for links and mor=
+e information.
+------------------------------------------------------------
+
+
+** New Episode:
+------------------------------------------------------------
+
+
+**
+------------------------------------------------------------
+
+
+** Episode 72 - Well of Night (August 15=2C 2015)
+------------------------------------------------------------
+
+Chanting dancers keep the town up all night. Plus=2C a seance at Dark Owl=
+ Records=2C traffic congestion in downtown=2C and a fireworks spectacular.
+
+
+All episodes available at:
+
+iTunes (https://itunes.apple.com/us/podcast/welcome-to-night-vale/id536258=
+179?mt=3D2)
+Podbay (http://podbay.fm/show/536258179)
+Stitcher (http://www.stitcher.com/podcast/welcome-to-night-vale)
+Libsyn (http://nightvale.libsyn.com)
+YouTube (http://www.youtube.com/welcometonightvale)
+Soundcloud (https://soundcloud.com/nightvaleradio)
+RSS feed (http://nightvale.libsyn.com/rss)
+
+
+** Special Benefits for Donors:
+------------------------------------------------------------
+
+
+** Support our free twice-monthly podcast with a monthly donation. Any amo=
+unt from $1 to $1 billion helps!
+------------------------------------------------------------
+
+$1 - 9 p/mth =3D Big thanks=2C time-experiencer=2C sound-hearer
+$10 - 19 p/mth =3D We'll send you a set of 4 Night Vale postcards (4 uniqu=
+e designs)
+$20 - 29 p/mth =3D We'll send you a black Welcome to Night Vale logo shirt=
+=2C plus a set of Night Vale postcards
+$30+ p/mth =3D Super thanks! You get immunity from all laws for 1 month. P=
+lus the shirt and the postcards=2C and we'll even have Cecil record you a=
+ very special message.
+
+DONATE NOW (http://commonplacebooks.com/welcome-to-night-vale-donations)
+http://www.facebook.com/WelcomeToNightVale
+Facebook (http://www.facebook.com/WelcomeToNightVale)
+https://www.twitter.com/NightValeRadio/
+Twitter (https://www.twitter.com/NightValeRadio/)
+http://www.welcometonightvale.com
+Website (http://www.welcometonightvale.com)
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Copyright =C2=A9 2015 Welcome to Night Vale=2C All rights reserved.
+ You are receiving the email because you opted in at our website (commonpl=
+ace books store).
+
+Our mailing address is:
+Welcome to Night Vale
+159 20th St #1B
+Brooklyn=2C NY 11232
+USA
+** unsubscribe from this list (http://welcometonightvale.us7.list-manage2.=
+com/unsubscribe?u=3D659989b717d15e1e74d2bdc53&id=3D9fd7b3ed81&e=3Dc15ee789e0=
+&c=3Dde177a7444)
+** update subscription preferences (http://welcometonightvale.us7.list-man=
+age.com/profile?u=3D659989b717d15e1e74d2bdc53&id=3D9fd7b3ed81&e=3Dc15ee789e0=
+)
+--_----------=_MCPart_1316483373
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+    =09<!-- NAME: 1 COLUMN -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1.0">
+        <title>Night Vale Has Squishy Eyeballs</title>
+
+    <style type=3D"text/css">
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09a{
+=09=09=09word-wrap:break-word;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass span=2C.ExternalC=
+lass font=2C.ExternalClass td=2C.ExternalClass div{
+=09=09=09line-height:100%;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:20px;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#F2F2F2;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#606060 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:40px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-1px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#404040 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.75px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#606060 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.5px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#808080 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent=2C.preheaderContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContainer .mcnTextContent=2C.headerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.headerContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContainer .mcnTextContent=2C.bodyContainer .mcnTextContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:15px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContainer .mcnTextContent a{
+=09=09=09color:#6DC6DD;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContainer .mcnTextContent=2C.footerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:11px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.footerContainer .mcnTextContent a{
+=09=09=09color:#606060;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[id=3DbodyCell]{
+=09=09=09padding:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3Dmcpreview-image-uploader]{
+=09=09=09width:100% !important;
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[class=3DmcnImage]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnImageGroupContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupContent]{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupBlockInner]{
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-top:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09tbody[class=3DmcnImageGroupBlockOuter]{
+=09=09=09padding-bottom:9px !important;
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionTopContent]=2Ctable[class=3DmcnCaptionBott=
+omContent]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftTextContentContainer]=2Ctable[class=3D=
+mcnCaptionRightTextContentContainer]=2Ctable[class=3DmcnCaptionLeftImageC=
+ontentContainer]=2Ctable[class=3DmcnCaptionRightImageContentContainer]=2C=
+table[class=3DmcnImageCardLeftTextContentContainer]=2Ctable[class=3DmcnI=
+mageCardRightTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftContentOuter] td[class=3DmcnTextConten=
+t]=2Ctable[class=3DmcnCaptionRightContentOuter] td[class=3DmcnTextConten=
+t]{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnCaptionBlockInner] table[class=3DmcnCaptionTopConten=
+t]:last-child td[class=3DmcnTextContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnBoxedTextContentColumn]{
+=09=09=09padding-left:18px !important;
+=09=09=09padding-right:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnTextContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplateContainer]=2Ctable[id=3DtemplatePreheader]=2Cta=
+ble[id=3DtemplateHeader]=2Ctable[id=3DtemplateBody]=2Ctable[id=3Dtempla=
+teFooter]{
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextCont=
+ent]=2Ctd[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextConten=
+t] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DpreheaderContainer] td[class=3DmcnTextContent]=2Ctd[cl=
+ass=3DpreheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DheaderContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DbodyContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DbodyContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DfooterContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] a[class=3DutilityLink]{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"margin: 0;padding: 0;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;background-color: #F2F2F2;height: 100% !=
+important;width: 100% !important;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;backg=
+round-color: #F2F2F2;height: 100% !important;width: 100% !important;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;margin: 0;padding: 20px;border-top: 0;h=
+eight: 100% !important;width: 100% !important;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;border: 0;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;b=
+order-top: 0;border-bottom: 0;">
+                                        <tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContainer" style=3D"padding-top: 9px;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;font-=
+size: 11px;line-height: 125%;text-align: left;">
+
+                            Night Vale Has Squishy Eyeballs
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;font-=
+size: 11px;line-height: 125%;text-align: left;">
+
+                            <a href=3D"http://us7.campaign-archive1.com/?u=
+=3D659989b717d15e1e74d2bdc53&id=3Dde177a7444&e=3Dc15ee789e0" target=3D"_blan=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: unde=
+rline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"he=
+aderContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnDividerBlo=
+ck" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rsp=
+ace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 9px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" class=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 9px;padding-left: 9px;padding-top: 0;padding-bottom=
+: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"left" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/659989b717d15e1e74d2bdc53/images/nightva=
+letitle.gif" width=3D"564" style=3D"max-width: 591px;padding-bottom: 0;dis=
+play: inline !important;vertical-align: bottom;border: 0;outline: none;tex=
+t-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;border=
+-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" st=
+yle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0=
+pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h3 class=3D"null" style=3D"text-align: center=
+;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size: 18p=
+x;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -=
+=2E5px;color: #606060 !important;"><span style=3D"font-size:17px"><span styl=
+e=3D"line-height:1.6em">Table of Contents:</span></span></h3>
+
+<div style=3D"text-align: center;"><a href=3D"#Store" target=3D"_blank" st=
+yle=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline=
+;">-&nbsp;Squishy Eyes and More -</a><br>
+<a href=3D"#Fall Tours" target=3D"_blank" style=3D"word-wrap: break-word;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;fo=
+nt-weight: normal;text-decoration: underline;">-&nbsp;3 Fall Tours -&nbsp;=
+</a><br>
+<a href=3D"#downloads" target=3D"_blank" style=3D"word-wrap: break-word;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;fon=
+t-weight: normal;text-decoration: underline;">- Special Episodes -</a><br>
+<a href=3D"#novel" target=3D"_blank" style=3D"word-wrap: break-word;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-we=
+ight: normal;text-decoration: underline;">-&nbsp;Pre-Order the Novel&nbsp;=
++ Special Signed Editions&nbsp;-</a><br>
+<a href=3D"#episode" target=3D"_blank" style=3D"word-wrap: break-word;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-=
+weight: normal;text-decoration: underline;">- Episode 72 -</a><br>
+<a href=3D"#donor" target=3D"_blank" style=3D"word-wrap: break-word;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-we=
+ight: normal;text-decoration: underline;">- Donate&nbsp;-</a></div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 class=3D"null" style=3D"text-align: center=
+;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size: 40p=
+x;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -=
+1px;color: #606060 !important;"><a id=3D"Store" name=3D"Store" style=3D"wo=
+rd-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #6DC6DD;font-weight: normal;text-decoration: underline;"></a>Sq=
+uishable eyes! All hail!</h1>
+
+<div style=3D"text-align: center;">&nbsp; &nbsp; &nbsp;<br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D1370ab0dc0&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;"><img align=3D"none" height=3D"258" src=3D"https://gallery.mailchimp=
+=2Ecom/659989b717d15e1e74d2bdc53/images/76fa1f70-5a62-4159-abdc-c906c3eda533=
+=2Ejpg" style=3D"width: 500px;height: 258px;margin: 0px;border: 0;outline: n=
+one;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"500">=
+</a></div>
+&nbsp;
+
+<div style=3D"text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+
+<div style=3D"text-align: center;">You can now hold our logo while you dri=
+ft to sleep.<br>
+Also available&nbsp;- the limited edition Glow Cloud poster=2C designed ex=
+clusively for<br>
+San Diego Comic Con=2C is now available for you for a short time only!<br>
+<br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3Ddc5baa6440&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;"><img align=3D"none" height=3D"662" src=3D"https://gallery.mailchimp=
+=2Ecom/659989b717d15e1e74d2bdc53/images/e7c813bc-1c35-47c5-b398-5277390a3ca2=
+=2Ejpg" style=3D"width: 500px;height: 662px;margin: 0px;border: 0;outline: n=
+one;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"500">=
+</a></div>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+<h2 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 26px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.75px;color: #404040 !import=
+ant;"><span style=3D"color: #696969;line-height: 1.6em;text-align: center;=
+">Plushies=2C posters=2C and more available&nbsp;on our </span><a href=3D"=
+http://welcometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d=
+15e1e74d2bdc53&id=3D1af82a5a00&e=3Dc15ee789e0" style=3D"text-align: cente=
+r;line-height: 1.6em;word-wrap: break-word;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decorat=
+ion: underline;" target=3D"_blank">Topatoco Store</a><span style=3D"line-h=
+eight:1.6em; text-align:center">!</span></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 class=3D"null" style=3D"text-align: center=
+;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size: 40p=
+x;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -=
+1px;color: #606060 !important;"><a id=3D"Fall Tours" name=3D"Fall Tours" s=
+tyle=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size=
+-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: underlin=
+e;"></a>We're going on three tours this fall!</h1>
+
+<div style=3D"text-align: center;"><br>
+In case you missed it=2C we will be embarking on three separate tours this=
+ fall.<br>
+<br>
+We'll be bringing our live show=2C The Investigators=2C on tours of the UK=
+ + Ireland and the US + Canada.<br>
+<br>
+Our book tour will be in conversation events with Joseph Fink and Jeffrey=
+ Cranor and some of our favorite people.<br>
+<br>
+Tickets are on sale for all three tours!<br>
+<br>
+<a href=3D"http://welcometonightvale.us7.list-manage1.com/track/click?u=3D=
+659989b717d15e1e74d2bdc53&id=3D5851a75082&e=3Dc15ee789e0" target=3D"_blan=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: unde=
+rline;"><img align=3D"none" height=3D"375" src=3D"https://gallery.mailchim=
+p.com/659989b717d15e1e74d2bdc53/images/2eca9c24-a7bc-42e4-b5c8-48eff4af08f=
+7.jpg" style=3D"width: 500px;height: 375px;margin: 0px;border: 0;outline:=
+ none;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"500=
+"></a></div>
+
+<h3 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 18px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.5px;color: #606060 !importa=
+nt;"><br>
+BOOK TOUR</h3>
+
+<div style=3D"text-align: center;">Featuring authors Joseph Fink and Jeffr=
+ey Cranor</div>
+&nbsp;
+
+<div style=3D"text-align: center;"><span style=3D"line-height:20.799999237=
+0605px; text-align:center">OCTOBER 21&nbsp;-&nbsp;</span><a href=3D"http:/=
+/welcometonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74=
+d2bdc53&id=3D3753475222&e=3Dc15ee789e0" style=3D"line-height: 20.79999923=
+70605px;text-align: center;word-wrap: break-word;-ms-text-size-adjust: 100=
+%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-d=
+ecoration: underline;" target=3D"_blank">BOSTON=2C MA</a><br style=3D"line=
+-height: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 22 -&nbsp;<a href=3D"http://welcometonightvale.us7.list-manage.com/track/=
+click?u=3D659989b717d15e1e74d2bdc53&id=3D2911f79efe&e=3Dc15ee789e0" targe=
+t=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decora=
+tion: underline;">NEW YORK=2C NY</a></span><br style=3D"line-height: 20.79=
+99992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 23&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Daa56577843&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">CHICAGO=2C IL</a><br style=3D"line-height: 2=
+0.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 24&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D52c8a11ab2&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">ANN ARBOR=2C MI</a><br style=3D"line-height:=
+ 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 25&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dbb6938199c&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wr=
+ap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;c=
+olor: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_=
+blank">ST PAUL=2C MN</a><br style=3D"line-height: 20.7999992370605px; text=
+-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 27&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e1.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dbe6dc54ab8&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: norma=
+l;text-decoration: underline;">SEATTLE=2C WA</a><br style=3D"line-height:=
+ 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 28&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D512abfe86c&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">PORTLAND=2C OR</a><br style=3D"line-height:=
+ 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 29 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D6ae908f21e&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">SAN FRANCISCO=2C CA</a><br style=3D"line-height:=
+ 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 31&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Df2839f7557&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">LOS ANGELES=2C CA</a><br style=3D"line-heigh=
+t: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 01&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dc192ff5122&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">ATLANTA=2C GA</a><br style=3D"line-height: 2=
+0.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 02&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Df6ddf1f791&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">WASHINGTON=2C DC</a><br style=3D"line-height=
+: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 03&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e1.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D57d8c9210d&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: norma=
+l;text-decoration: underline;">CHAPEL HILL=2C NC</a><br style=3D"line-heig=
+ht: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 04 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Ddb54219fec&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">DALLAS=2C TX</a><br style=3D"line-height: 20.7999=
+992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 05 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D76082ba3b3&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">WACO=2C TX</a><br style=3D"line-height: 20.799999=
+2370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 06 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D53e8d507fd&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">AUSTIN=2C TX</a><br style=3D"line-height: 20.7999=
+992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 09&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D1a9822adc0&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal=
+;text-decoration: underline;">TORONTO=2C&nbsp;ON</a><br style=3D"line-heig=
+ht: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 10 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D44eb86fbe4&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">MILWAUKEE=2C WI</a><br style=3D"line-height: 20.7=
+999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 11 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Df9ac2aa386&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">PHILADELPHIA=2C PA</a><br style=3D"line-height: 2=
+0.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 12 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dbb79b636a2&e=3Dc15ee789e0=
+" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text=
+-decoration: underline;">BROOKLYN=2C NY</a><br style=3D"line-height: 20.79=
+99992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 17&nbsp;-&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manag=
+e2.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3De260d19449&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: norma=
+l;text-decoration: underline;">JERSEY CITY=2C NJ</a><br style=3D"line-heig=
+ht: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 21 + NOVEMBER 22 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.l=
+ist-manage1.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D2a707870af&=
+e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weig=
+ht: normal;text-decoration: underline;">MIAMI=2C FL</a><br>
+<br>
+<br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D42494e5511&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;"><img align=3D"none" height=3D"347" src=3D"https://gallery.mailchimp=
+=2Ecom/659989b717d15e1e74d2bdc53/images/143f56cd-fe1c-419c-9895-9a45e13cc4ef=
+=2Ejpg" style=3D"width: 500px;height: 347px;margin: 0px;border: 0;outline: n=
+one;text-decoration: none;-ms-interpolation-mode: bicubic;" width=3D"500">=
+</a></div>
+
+<h3 class=3D"null" style=3D"line-height: 20.7999992370605px;text-align: ce=
+nter;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size:=
+ 18px;font-style: normal;font-weight: bold;letter-spacing: -.5px;color: #6=
+06060 !important;"><br>
+LIVE SHOW : "The Investigators"</h3>
+
+<div style=3D"line-height: 20.7999992370605px; text-align: center;">Starri=
+ng Cecil Baldwin as Cecil Palmer.<br>
+Also featuring: Surprise guest stars&nbsp;and live backing music by Dispar=
+ition.<br>
+&nbsp;</div>
+
+<h3 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 18px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.5px;color: #606060 !importa=
+nt;"><br>
+UK + IRELAND TOUR</h3>
+&nbsp;
+
+<div style=3D"text-align: center;">Featuring Jason Webley as 'The Weather'=
+</div>
+&nbsp;
+
+<div style=3D"text-align: center;"><span style=3D"line-height:20.799999237=
+0605px; text-align:center">SEPTEMBER 16 -&nbsp;</span><a href=3D"http://we=
+lcometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d15e1e74d2=
+bdc53&id=3D55b912fc3f&e=3Dc15ee789e0" style=3D"line-height: 20.7999992370=
+605px;text-align: center;word-wrap: break-word;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-dec=
+oration: underline;" target=3D"_blank">GLASGOW</a><br style=3D"line-height=
+: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 17 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D21559ffb30&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">EDINBURGH</a><br style=3D"line-height: 20.7999992370605px; text-align:=
+ center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 19 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D836cb828f6&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">DUBLIN</a><br style=3D"line-height: 20.7999992370605px; text-align: ce=
+nter;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 21 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D938124dce3&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">NEWCASTLE</a><br style=3D"line-height: 20.7999992370605px; text-align:=
+ center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 22 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D22a32e7a73&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">BIRMINGHAM</a><br style=3D"line-height: 20.7999992370605px; text-align=
+: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 23 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Da4ca92323b&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">LEEDS</a><br style=3D"line-height: 20.7999992370605px; text-align: cen=
+ter;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 24 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Deb646f2b1a&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">MANCHESTER</a><br style=3D"line-height: 20.7999992370605px; text-align=
+: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 25 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D6d864c7065&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">CARDIFF</a><br style=3D"line-height: 20.7999992370605px; text-align: c=
+enter;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 26 -&nbsp;</span>BRISTOL&nbsp;- SOLD OUT<br style=3D"line-height: 20.799=
+9992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 28 -&nbsp;</span>LONDON&nbsp;&nbsp;- SOLD OUT<br style=3D"line-height: 2=
+0.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 29 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D7cc5218684&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">LONDON</a><br style=3D"line-height: 20.7999992370605px; text-align: ce=
+nter;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">SEPTEMBE=
+R 30 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dae3f108205&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">LONDON</a><br>
+&nbsp;</div>
+
+<h3 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 18px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.5px;color: #606060 !importa=
+nt;"><br>
+US + CANADA TOUR</h3>
+
+<div style=3D"text-align: center;"><br>
+<span style=3D"line-height:20.7999992370605px; text-align:center">Featurin=
+g musical guests Dessa (October 8)&nbsp;</span><span style=3D"line-height:=
+20.7999992370605px; text-align:center">and<br>
+Eliza Rickman (October 25 - November 7)&nbsp;as 'The Weather'.</span><br>
+&nbsp;</div>
+
+<div style=3D"text-align: center;"><span style=3D"line-height:20.799999237=
+0605px; text-align:center">OCTOBER 8 -&nbsp;</span><a href=3D"http://welco=
+metonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bdc5=
+3&id=3Dc2f9309651&e=3Dc15ee789e0" style=3D"line-height: 20.7999992370605p=
+x;text-align: center;word-wrap: break-word;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decorat=
+ion: underline;" target=3D"_blank">MADISON=2C WI</a><br style=3D"line-heig=
+ht: 20.7999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 9-10 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.c=
+om/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Dc7b4986ed5&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">MINNEAPOLIS=2C MN (Nerdcon: Stories)</a><br style=3D"line-height: 20.7=
+999992370605px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 25 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage1.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D364bd1d430&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">MONTREAL=2C QC</a><br style=3D"line-height: 20.7999992370605px; text-a=
+lign: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 26 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Da5290f2a8b&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">TORONTO=2C ON</a><br style=3D"line-height: 20.7999992370605px; text-alig=
+n: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 27 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D9f517bced6&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">TORONTO=2C ON</a><br style=3D"line-height: 20.7999992370605px; text-alig=
+n: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 29 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D1bc6852acf&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">WINNIPEG=2C MB</a><br style=3D"line-height: 20.7999992370605px; text-ali=
+gn: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 30 - EDMONTON - SOLD OUT</span><br style=3D"line-height: 20.7999992370605=
+px; text-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">OCTOBER=
+ 31 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Df1fafd95bb&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">VANCOUVER=2C BC</a><br style=3D"line-height: 20.7999992370605px; text-al=
+ign: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 02 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D68614766af&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">SACRAMENTO=2C CA</a><br style=3D"line-height: 20.7999992370605px; text-a=
+lign: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 03 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D7d5f249fae&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">SAN DIEGO=2C CA</a><br style=3D"line-height: 20.7999992370605px; text-al=
+ign: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 05 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage2.co=
+m/track/click?u=3D659989b717d15e1e74d2bdc53&id=3De44b5eaf1a&e=3D=
+c15ee789e0" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;colo=
+r: #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_bla=
+nk">DENVER=2C CO</a><br style=3D"line-height: 20.7999992370605px; text-ali=
+gn: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 06 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D4b4070d331&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">MIDWEST CITY=2C OK</a><br style=3D"line-height: 20.7999992370605px; text=
+-align: center;">
+<span style=3D"line-height:20.7999992370605px; text-align:center">NOVEMBER=
+ 07 -&nbsp;</span><a href=3D"http://welcometonightvale.us7.list-manage.com=
+/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D509b76adcc&e=3Dc15ee789e0=
+" style=3D"line-height: 20.7999992370605px;text-align: center;word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;" target=3D"_blank=
+">AUSTIN=2C TX</a><br>
+&nbsp;</div>
+
+<h2 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 26px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.75px;color: #404040 !import=
+ant;"><span style=3D"color: #696969;">For more information=2C check out&nb=
+sp;our&nbsp;<a href=3D"http://welcometonightvale.us7.list-manage.com/track=
+/click?u=3D659989b717d15e1e74d2bdc53&id=3D67c34c6a0c&e=3Dc15ee789e0" targ=
+et=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decor=
+ation: underline;">Live Shows</a> page.</span></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 style=3D"text-align: center;margin: 0;padd=
+ing: 0;display: block;font-family: Helvetica;font-size: 40px;font-style: n=
+ormal;font-weight: bold;line-height: 125%;letter-spacing: -1px;color: #606=
+060 !important;"><a id=3D"downloads" name=3D"downloads" style=3D"word-wrap=
+: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;col=
+or: #6DC6DD;font-weight: normal;text-decoration: underline;"></a>Download=
+ our special episodes.</h1>
+
+<h3 style=3D"text-align: center;margin: 0;padding: 0;display: block;font-f=
+amily: Helvetica;font-size: 18px;font-style: normal;font-weight: bold;line=
+-height: 125%;letter-spacing: -.5px;color: #606060 !important;">&nbsp;&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=3D"ht=
+tp://welcometonightvale.us7.list-manage2.com/track/click?u=3D659989b717d15=
+e1e74d2bdc53&id=3D71c4ddafd1&e=3Dc15ee789e0" target=3D"_blank" style=3D"w=
+ord-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #6DC6DD;font-weight: normal;text-decoration: underline;"><img=
+ align=3D"none" height=3D"125" src=3D"https://gallery.mailchimp.com/659989=
+b717d15e1e74d2bdc53/images/564b766b-921b-434c-934b-364c0394caa4.png" style=
+=3D"width: 500px;height: 125px;margin: 0px;border: 0;outline: none;text-de=
+coration: none;-ms-interpolation-mode: bicubic;" width=3D"500"></a></h3>
+
+<div style=3D"text-align: center;"><br>
+<br>
+The live recording of The Librarian is still available to download=2C as w=
+ell as Condos=2C The Debate and our Thrilling Adventure Hour crossover!</d=
+iv>
+&nbsp;
+
+<h4 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 16px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: normal;color: #808080 !import=
+ant;">&nbsp;</h4>
+
+<h2 class=3D"null" style=3D"color: #222222;font-family: arial=2C sans-seri=
+f;font-size: 12.8000001907349px;line-height: normal;text-align: center;mar=
+gin: 0;padding: 0;display: block;font-style: normal;font-weight: bold;lett=
+er-spacing: -.75px;"><span style=3D"font-size:21px"><span class=3D"mc-toc-=
+title"><span style=3D"color:#696969">Get them now<span style=3D"font-famil=
+y:arial=2Cverdana=2Csans-serif; line-height:1.6em">&nbsp;on <a href=3D"htt=
+p://welcometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d15e=
+1e74d2bdc53&id=3D8897f00ea6&e=3Dc15ee789e0" target=3D"_blank" style=3D"wo=
+rd-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #6DC6DD;font-weight: normal;text-decoration: underline;">Bandca=
+mp</a></span></span><span style=3D"color: #333333;font-family: arial=2Cver=
+dana=2Csans-serif;line-height: 1.6em;">&nbsp;</span><span style=3D"color:#=
+696969"><span style=3D"font-family:arial=2Cverdana=2Csans-serif; line-heig=
+ht:1.6em">for whatever you think extra Night Vale is worth and&nbsp;on</sp=
+an></span><span style=3D"color: #333333;font-family: arial=2Cverdana=2Csan=
+s-serif;line-height: 1.6em;">&nbsp;</span><a href=3D"http://welcometonight=
+vale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D66=
+6ea9e993&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;=
+font-weight: normal;text-decoration: underline;">iTunes</a><span style=3D"=
+color:#696969"><span style=3D"font-family:arial=2Cverdana=2Csans-serif; li=
+ne-height:1.6em">.</span></span></span></span><br>
+&nbsp;</h2>
+
+<div style=3D"color: #222222;font-family: arial=2C sans-serif;font-size: 1=
+2.8000001907349px;line-height: normal;text-align: left;"><br>
+&nbsp;</div>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 class=3D"null" style=3D"text-align: center=
+;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size: 40p=
+x;font-style: normal;font-weight: bold;line-height: 125%;letter-spacing: -=
+1px;color: #606060 !important;"><a id=3D"novel" name=3D"novel" style=3D"wo=
+rd-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;color: #6DC6DD;font-weight: normal;text-decoration: underline;"></a>Pr=
+e-Order the Novel + Special Signed Editions!</h1>
+&nbsp;
+
+<h2 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 26px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.75px;color: #404040 !import=
+ant;"><a href=3D"http://welcometonightvale.us7.list-manage.com/track/click=
+?u=3D659989b717d15e1e74d2bdc53&id=3D7abacbf776&e=3Dc15ee789e0" target=3D"=
+_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration:=
+ underline;"><span style=3D"color:#696969"><img align=3D"center" height=3D=
+"450" src=3D"https://gallery.mailchimp.com/659989b717d15e1e74d2bdc53/image=
+s/10a88cf4-16d8-483b-8795-413ff7f1fa20.jpeg" style=3D"width: 300px;height:=
+ 450px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-inter=
+polation-mode: bicubic;" width=3D"300"></span></a><br>
+&nbsp;</h2>
+
+<div style=3D"text-align: center;">The Welcome to Night Vale novel is comi=
+ng out this October!&nbsp;You can pre-order it now from wherever books are=
+ sold.&nbsp;
+<h3 class=3D"null" style=3D"line-height: 20.7999992370605px;text-align: ce=
+nter;margin: 0;padding: 0;display: block;font-family: Helvetica;font-size:=
+ 18px;font-style: normal;font-weight: bold;letter-spacing: -.5px;color: #6=
+06060 !important;"><br>
+Can't make the book tour?</h3>
+
+<div style=3D"line-height: 20.7999992370605px; text-align: center;">Signed=
+ editions are available for pre-order from&nbsp;<a href=3D"http://welcomet=
+onightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bdc53&i=
+d=3D17d189d18a&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap: brea=
+k-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6=
+DC6DD;font-weight: normal;text-decoration: underline;">Books-a-Million</a>=
+&nbsp;and&nbsp;<a href=3D"http://welcometonightvale.us7.list-manage.com/tr=
+ack/click?u=3D659989b717d15e1e74d2bdc53&id=3D666515eb5e&e=3Dc15ee789e0" t=
+arget=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-de=
+coration: underline;">Hastings</a>.<br>
+<br>
+Fans in Canada can order a signed copy from&nbsp;<a href=3D"http://welcome=
+tonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bdc53&=
+id=3D4d2221909d&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap: bre=
+ak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #=
+6DC6DD;font-weight: normal;text-decoration: underline;">Indigo</a>.<br>
+For UK fans=2C&nbsp;<a href=3D"http://welcometonightvale.us7.list-manage.c=
+om/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D978d2a4381&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: normal;te=
+xt-decoration: underline;">Waterstones</a>&nbsp;is offering an edition wit=
+h exclusive bonus content.&nbsp;</div>
+</div>
+
+<h2 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 26px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.75px;color: #404040 !import=
+ant;"><br>
+<span style=3D"color:#696969">Head to <a href=3D"http://welcometonightvale=
+=2Eus7.list-manage1.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3Deecc9=
+0ac67&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;fon=
+t-weight: normal;text-decoration: underline;">our website</a> for links an=
+d more information.</span></h2>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 style=3D"text-align: center;margin: 0;padd=
+ing: 0;display: block;font-family: Helvetica;font-size: 40px;font-style: n=
+ormal;font-weight: bold;line-height: 125%;letter-spacing: -1px;color: #606=
+060 !important;"><a id=3D"episode" name=3D"episode" style=3D"word-wrap: br=
+eak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #6DC6DD;font-weight: normal;text-decoration: underline;"></a>New Episode:=
+&nbsp;</h1>
+
+<h2 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 26px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.75px;color: #404040 !import=
+ant;">&nbsp;</h2>
+
+<h3 class=3D"null" style=3D"text-align: center;margin: 0;padding: 0;displa=
+y: block;font-family: Helvetica;font-size: 18px;font-style: normal;font-we=
+ight: bold;line-height: 125%;letter-spacing: -.5px;color: #606060 !importa=
+nt;"><span style=3D"color:#696969">Episode 72&nbsp;- Well of Night</span><=
+span style=3D"color:#696969">&nbsp;(August 15=2C 2015)</span></h3>
+
+<p style=3D"text-align: center;margin: 1em 0;padding: 0;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;"><font color=3D"#555555" face=3D"he=
+lvetica neue=2C helvetica=2C arial=2C sans-serif"><span style=3D"line-heig=
+ht:18px">Chanting dancers keep the town up all night. Plus=2C a seance at=
+ Dark Owl Records=2C traffic congestion in downtown=2C and a fireworks spe=
+ctacular.&nbsp;&nbsp;</span></font></p>
+
+<p style=3D"text-align: center;margin: 1em 0;padding: 0;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;">&nbsp;</p>
+
+<p style=3D"text-align: center;margin: 1em 0;padding: 0;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;"><span style=3D"line-height:1.6em;=
+ text-align:left">All episodes available&nbsp;at:</span></p>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;"><img align=3D"right" height=3D"160"=
+ src=3D"https://gallery.mailchimp.com/659989b717d15e1e74d2bdc53/images/nig=
+htvalelogo_web.gif" style=3D"opacity: 0.9;width: 160px;height: 160px;margi=
+n: 5px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mod=
+e: bicubic;" width=3D"160"><a href=3D"http://welcometonightvale.us7.list-m=
+anage.com/track/click?u=3D659989b717d15e1e74d2bdc53&id=3D81409e50a5&e=3D=
+c15ee789e0" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6DD;font-weight: no=
+rmal;text-decoration: underline;">iTunes</a><br>
+<a href=3D"http://welcometonightvale.us7.list-manage2.com/track/click?u=3D=
+659989b717d15e1e74d2bdc53&id=3D95185b8517&e=3Dc15ee789e0" target=3D"_blan=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: unde=
+rline;">Podbay</a><br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D2b9a184b74&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;">Stitcher</a><br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3Dbb2a40c79e&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;">Libsyn</a><br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D047c39eeaf&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;">YouTube</a><br class=3D"Apple-interchange-newline">
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D0736bd8018&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;">Soundcloud</a><br>
+<a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?u=3D6=
+59989b717d15e1e74d2bdc53&id=3Ddaac8e094e&e=3Dc15ee789e0" target=3D"_blank=
+" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration: under=
+line;">RSS feed</a></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 15px;line-height: 150%;text-align: left;">
+
+                            <h1 style=3D"margin: 0;padding: 0;display: blo=
+ck;font-family: Helvetica;font-size: 40px;font-style: normal;font-weight:=
+ bold;line-height: 125%;letter-spacing: -1px;text-align: left;color: #6060=
+60 !important;"><a id=3D"donor" name=3D"donor" style=3D"word-wrap: break-w=
+ord;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #6DC6=
+DD;font-weight: normal;text-decoration: underline;"></a>Special Benefits f=
+or Donors:&nbsp;</h1>
+
+<h3 style=3D"margin: 0;padding: 0;display: block;font-family: Helvetica;fo=
+nt-size: 18px;font-style: normal;font-weight: bold;line-height: 125%;lette=
+r-spacing: -.5px;text-align: left;color: #606060 !important;">Support our=
+ free twice-monthly podcast with a monthly donation. Any amount from $1 to=
+ $1 billion helps!</h3>
+
+<p style=3D"margin: 1em 0;padding: 0;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #606060;font-family: Helvetica;font-size: 15px=
+;line-height: 150%;text-align: left;"><strong>$1 - 9 p/mth</strong> =3D Bi=
+g thanks=2C time-experiencer=2C sound-hearer<br>
+<strong>$10 - 19 p/mth </strong>=3D We'll send you a set of 4 Night Vale p=
+ostcards (4 unique designs)&nbsp;<br>
+<strong>$20 - 29 p/mth</strong> =3D We'll send you a black Welcome to Nigh=
+t Vale logo shirt=2C plus a set of Night Vale postcards&nbsp;<br>
+<strong>$30+ p/mth</strong> =3D Super thanks! You get immunity from all la=
+ws for 1 month. Plus the shirt and the postcards=2C and we'll even have Ce=
+cil record you a very special message.</p>
+
+<p style=3D"text-align: center;margin: 1em 0;padding: 0;-ms-text-size-adju=
+st: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvet=
+ica;font-size: 15px;line-height: 150%;"><span style=3D"font-size:18px"><st=
+rong><a href=3D"http://welcometonightvale.us7.list-manage.com/track/click?=
+u=3D659989b717d15e1e74d2bdc53&id=3Db01759926e&e=3Dc15ee789e0" target=3D"_=
+blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;color: #6DC6DD;font-weight: normal;text-decoration:=
+ underline;">DONATE NOW</a></strong></span></p>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnFollowBlock" style=3D"border-collapse: collapse;mso-table=
+-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"padding: 9px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;" class=3D"mcnFollowBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%" class=3D"mcnFollowContentContainer" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td align=3D"center" style=3D"padding-left: 9px;padding-right: 9px=
+;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;">
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%" class=3D"mcnFollowContent" style=3D"border: 1px solid #EEEEEE;ba=
+ckground-color: #FAFAFA;border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 1=
+00%;">
+                <tbody><tr>
+                    <td align=3D"center" valign=3D"top" style=3D"padding-t=
+op: 9px;padding-right: 9px;padding-left: 9px;mso-table-lspace: 0pt;mso-tab=
+le-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"=
+>
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09=09=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;">
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnFollowStacked" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowIconContent" style=3D"padding-right: 10px;pad=
+ding-bottom: 5px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bd=
+c53&id=3D123a8c8a1a&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap:=
+ break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><i=
+mg src=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-face=
+book-96.png" alt=3D"Facebook" class=3D"mcnFollowBlockIcon" width=3D"48" st=
+yle=3D"width: 48px;max-width: 48px;display: block;border: 0;outline: none;=
+text-decoration: none;-ms-interpolation-mode: bicubic;"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowTextContent" style=3D"padding-right: 10px;pad=
+ding-bottom: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bd=
+c53&id=3D99112d6253&e=3Dc15ee789e0" target=3D"_blank" style=3D"color: #60=
+6060;font-family: Arial;font-size: 11px;font-weight: normal;line-height: 1=
+00%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Facebook</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnFollowStacked" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowIconContent" style=3D"padding-right: 10px;pad=
+ding-bottom: 5px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d15e1e74d2b=
+dc53&id=3De1f01e1c1a&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap=
+: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><=
+img src=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-twi=
+tter-96.png" alt=3D"Twitter" class=3D"mcnFollowBlockIcon" width=3D"48" sty=
+le=3D"width: 48px;max-width: 48px;display: block;border: 0;outline: none;t=
+ext-decoration: none;-ms-interpolation-mode: bicubic;"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowTextContent" style=3D"padding-right: 10px;pad=
+ding-bottom: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage.com/track/click?u=3D659989b717d15e1e74d2bd=
+c53&id=3Dce345d6d02&e=3Dc15ee789e0" target=3D"_blank" style=3D"color: #60=
+6060;font-family: Arial;font-size: 11px;font-weight: normal;line-height: 1=
+00%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Twitter</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table align=3D"left" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"mcnFollowStacked" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowIconContent" style=3D"padding-right: 0;paddin=
+g-bottom: 5px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d15e1e74d2b=
+dc53&id=3Dcb47f6f61d&e=3Dc15ee789e0" target=3D"_blank" style=3D"word-wrap=
+: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><=
+img src=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-lin=
+k-96.png" alt=3D"Website" class=3D"mcnFollowBlockIcon" width=3D"48" style=
+=3D"width: 48px;max-width: 48px;display: block;border: 0;outline: none;tex=
+t-decoration: none;-ms-interpolation-mode: bicubic;"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td align=3D"center" vali=
+gn=3D"top" class=3D"mcnFollowTextContent" style=3D"padding-right: 0;paddin=
+g-bottom: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09                                            <a href=3D"http://wel=
+cometonightvale.us7.list-manage1.com/track/click?u=3D659989b717d15e1e74d2b=
+dc53&id=3D035e7508f1&e=3Dc15ee789e0" target=3D"_blank" style=3D"color: #6=
+06060;font-family: Arial;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;">Website</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnDividerBlock" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"fo=
+oterContainer" style=3D"padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla=
+ss=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0=
+pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adju=
+st: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;color: #606060;font-family: Helvetica;fo=
+nt-size: 11px;line-height: 125%;text-align: left;">
+
+                            <em>Copyright =C2=A9 2015 Welcome to Night Val=
+e=2C All rights reserved.</em>
+<br>
+    You are receiving the email because you opted in at our website (commo=
+nplace books store).
+    <br>
+    <br>
+    <strong>Our mailing address is:</strong>
+    <br>
+    <div class=3D"vcard"><span class=3D"org fn">Welcome to Night Vale</spa=
+n><div class=3D"adr"><div class=3D"street-address">159 20th St #1B</div><s=
+pan class=3D"locality">Brooklyn</span>=2C <span class=3D"region">NY</span>=
+  <span class=3D"postal-code">11232</span></div><br><a href=3D"http://welc=
+ometonightvale.us7.list-manage.com/vcard?u=3D659989b717d15e1e74d2bdc53&id=
+=3D9fd7b3ed81" class=3D"hcard-download">Add us to your address book</a></d=
+iv>
+    <br>
+    <br>
+    <a href=3D"http://welcometonightvale.us7.list-manage2.com/unsubscribe?=
+u=3D659989b717d15e1e74d2bdc53&id=3D9fd7b3ed81&e=3Dc15ee789e0&c=3Dde177a7444"=
+ class=3D"utilityLink" style=3D"word-wrap: break-word;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;color: #606060;font-weight: normal;t=
+ext-decoration: underline;">unsubscribe from this list</a>&nbsp;&nbsp;&nbs=
+p;
+    <a href=3D"http://welcometonightvale.us7.list-manage.com/profile?u=3D6=
+59989b717d15e1e74d2bdc53&id=3D9fd7b3ed81&e=3Dc15ee789e0" class=3D"utilityLin=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #606060;font-weight: normal;text-decoration: unde=
+rline;">update subscription preferences</a>&nbsp;
+    <br>
+    <br>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://welcometonightvale.us7.list-manage.com/track/open.p=
+hp?u=3D659989b717d15e1e74d2bdc53&id=3Dde177a7444&e=3Dc15ee789e0" height=
+=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1316483373--

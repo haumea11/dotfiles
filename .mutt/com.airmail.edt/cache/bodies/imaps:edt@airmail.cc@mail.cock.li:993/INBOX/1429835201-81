@@ -1,0 +1,1083 @@
+Return-Path: <bounce-md_30039865.569508ab.v1-6b23857353f94d3986ecbcd0298fdfd9@mda.digitalocean.com>
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=support.digitalocean.com;
+ h=From:Subject:To:Message-Id:List-Unsubscribe:Date:MIME-Version:Content-Type; i=support@support.digitalocean.com;
+ bh=H8nAHIsqlnGyl13mU8xOz02t4W8=;
+ b=ChPT6WwBCa1J0A12adUSA69x19Xa/WrXjhj4BuDOE/NGtoQj3K/PF1NktNe2CMrvFwMLxF7asSfd
+   Qo6vjhF0APPHFIFbLA8aawmfwlu21d3gIQAM3bOLi9p2DbhjqFcgou4aA/2EGzDLKiEEUF0tJocp
+   If55pxMo6UDbjbXlioY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=support.digitalocean.com;
+ b=bz/TqRhqzSjEauIRSe4hQp87O0VkoxrSYe+a9IUDsbfnHm5LBHmzAk8sSPiNWKn9JzltZsctXIQv
+   yY3p0R7tj9+TamEtBVDTY+KQOkypd791J0lsTj1xQSAGpaYW5ce6eC0EWrl5TWSRWLFv+LTgqnof
+   PRP8uxxpxTWiJc9DAGE=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1452607659; h=From : 
+ Subject : To : Message-Id : List-Unsubscribe : Date : MIME-Version : 
+ Content-Type : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=8LcpS+s0w3M6UimJEhpzdKHN5fP2ZlZH5w4dElUBoVc=; 
+ b=M7Lwpe8PLDqkjOVyT/h2a0F+RbHCMHVBzc1duVmDRnhdhB2GOvxKHYOGz0Uz0FeE7D17OD
+ F1FtRCFkwOyizL7dvePV+VOpbqQwIKEnGCeFErtARAXxe3G3fHMlS48TtWJvJzfz9sBmIGvY
+ E9cEQK83wEzydbD5WRRoOJbCJIfR0=
+From: DigitalOcean <support@support.digitalocean.com>
+Subject: [DigitalOcean] Welcome To Your New FreeBSD Droplet!
+To: <edt@airmail.cc>
+Message-Id: <569508aa62c0c_603e1760e1ec514151583327@ns5000834.ip-142-4-219.net.mail>
+List-Unsubscribe: <mailto:MTYzNTM6FoCjAmQAAnMAFxWPZRoBUjD7JYIVKRhWlQimAXM6MjAwMzExAA==@unsubscribe.customer.io>, <http://track.customer.io/unsubscribe/MTYzNTM6FoCjAmQAAnMAFxWPZRoBUjD7JYIVKRhWlQimAXM6MjAwMzExAA==>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30039865.6b23857353f94d3986ecbcd0298fdfd9
+X-Mandrill-User: md_30039865
+Date: Tue, 12 Jan 2016 14:07:39 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_av-goD0hLH-1OkJaBBTHgYRKQ"
+
+--_av-goD0hLH-1OkJaBBTHgYRKQ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+*****************************************************
+Best practices for setting up your new FreeBSD server
+*****************************************************
+
+Congratulations on spinning up your first FreeBSD Droplet! We
+want to help you make the most of your Droplet and have come up
+with a list of recommended next steps to help you get set up
+quickly and easily.
+STEP ONE:
+THE MUST-HAVES
+* Review the
+FreeBSD server checklist ( https://www.digitalocean.com/community/tutorial_=
+series/getting-started-with-freebsd?utm_source=3DCustomerio&utm_medium=3DEm=
+ail_Internal&utm_campaign=3DEmail_FreeBSDDistroNginxWelcome ) which include=
+s:
+* Steps
+for setting up a FreeBSD ( https://www.digitalocean.com/community/tutorials=
+/recommended-steps-for-new-freebsd-10-1-servers?utm_source=3DCustomerio&utm=
+_medium=3DEmail_Internal&utm_campaign=3DEmail_FreeBSDDistroNginxWelcome ) s=
+erver.
+* An introduction to basic FreeBSD maintenance ( https://www.digitalocean.c=
+om/community/tutorials/an-introduction-to-basic-freebsd-maintenance?utm_sou=
+rce=3DCustomerio&utm_medium=3DEmail_Internal&utm_campaign=3DEmail_FreeBSDDi=
+stroNginxWelcome ).
+
+* Configure SSH key-based authentication ( https://www.digitalocean.com/com=
+munity/tutorials/how-to-configure-ssh-key-based-authentication-on-a-freebsd=
+-server?utm_source=3DCustomerio&utm_medium=3DEmail_Internal&utm_campaign=3D=
+Email_FreeBSDDistroNginxWelcome ) on your server.
+* Use DigitalOcean=E2=80=99s DNS to set up your hostname ( https://www.digi=
+talocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocea=
+n?utm_source=3DCustomerio&utm_medium=3DEmail_Internal&utm_campaign=3DEmail_=
+FreeBSDDistroNginxWelcome ) from the Control Panel.
+* Protect your servers by reviewing these 7 security measures ( https://www=
+.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-s=
+ervers?utm_source=3DCustomerio&utm_medium=3DEmail_Internal&utm_campaign=3DE=
+mail_FreeBSDDistroNginxWelcome ).
+* Keep your data safe with an effective backup strategy ( https://www.digit=
+alocean.com/community/tutorials/how-to-choose-an-effective-backup-strategy-=
+for-your-vps?utm_source=3DCustomerio&utm_medium=3DEmail_Internal&utm_campai=
+gn=3DEmail_FreeBSDDistroNginxWelcome ).
+
+STEP TWO: CHOOSE YOUR STACK
+* Install
+the FEMP stack ( https://www.digitalocean.com/community/tutorials/how-to-in=
+stall-an-nginx-mysql-and-php-femp-stack-on-freebsd-10-1?utm_source=3DCustom=
+erio&utm_medium=3DEmail_Internal&utm_campaign=3DEmail_FreeBSDDistroNginxWel=
+come ) (i.e. FreeBSD, Nginx, MySQL, and PHP) on FreeBSD 10.1*.
+* Want to
+use Apache as your web server instead? Follow the FAMP stack ( https://www.=
+digitalocean.com/community/tutorials/how-to-install-an-apache-mysql-and-php=
+-famp-stack-on-freebsd-10-1?utm_source=3DCustomerio&utm_medium=3DEmail_Inte=
+rnal&utm_campaign=3DEmail_FreeBSDDistroNginxWelcome ) tutorial to get it se=
+t up on FreeBSD 10.1.
+
+EXTRA CREDIT: SECURE FILE TRANSFER
+* Securely
+transfer files to your server and between droplets using SFTP ( https://www=
+.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-=
+files-with-a-remote-server?utm_source=3DCustomerio&utm_medium=3DEmail_Inter=
+nal&utm_campaign=3DEmail_FreeBSDDistroNginxWelcome ).
+
+Looking to
+do something more? Head over to our Community ( https://www.digitalocean.co=
+m/community/tags/freebsd?utm_source=3DCustomerio&utm_medium=3DEmail_Interna=
+l&utm_campaign=3DEmail_FreeBSDDistroNginxWelcome ) site at any time to acce=
+ss our growing library of FreeBSD
+tutorials!
+
+Happy
+Coding,
+
+The
+DigitalOcean Team
+
+Follow on Twitter
+( http://do.co/email_twitter ) Like on Facebook ( http://do.co/email_facebo=
+ok ) Refer a Friend ( https://cloud.digitalocean.com/settings/referrals/?ut=
+m_source=3DCustomerio&utm_medium=3DReferral_Program&utm_campaign=3DEmailFoo=
+ter_Referral )
+
+Copyright =C2=A9 2015
+DigitalOcean Floor 10, 101 Avenue of the Americas, New York, NY,
+10013All rights reserved.
+
+unsubscribe from
+this list ( http://track.customer.io/unsubscribe/MTYzNTM6FoCjAmQAAnMAFxWPZR=
+oBUjD7JYIVKRhWlQimAXM6MjAwMzExAA=3D=3D )
+
+
+
+--_av-goD0hLH-1OkJaBBTHgYRKQ
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>*|MC:SUBJECT|*</title>
+<style type=3D"text/css">
+
+
+        =09@font-face {
+=09=09=09    font-family: 'Proxima Nova';
+=09=09=09    src: url('https://assets.digitalocean.com/fonts/proximanova-re=
+g-webfont.eot');
+=09=09=09    src: url('https://assets.digitalocean.com/fonts/proximanova-re=
+g-webfont.eot?#iefix') format('embedded-opentype'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-re=
+g-webfont.woff') format('woff'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-re=
+g-webfont.ttf') format('truetype'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-re=
+g-webfont.svg#ProximaNovaLight') format('svg');
+=09=09=09    font-weight: normal;
+=09=09=09    font-style: normal;
+
+=09=09=09}
+        =09@font-face {
+=09=09=09    font-family: 'Proxima Nova';
+=09=09=09    src: url('https://assets.digitalocean.com/fonts/proximanova-li=
+ght-webfont.eot');
+=09=09=09    src: url('https://assets.digitalocean.com/fonts/proximanova-li=
+ght-webfont.eot?#iefix') format('embedded-opentype'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-li=
+ght-webfont.woff') format('woff'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-li=
+ght-webfont.ttf') format('truetype'),
+=09=09=09         url('https://assets.digitalocean.com/fonts/proximanova-li=
+ght-webfont.svg#ProximaNovaLight') format('svg');
+=09=09=09    font-weight: 100;
+=09=09=09    font-style: normal;
+
+=09=09=09}
+=09=09=09=09=09=09/* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/=
+\/\/ */
+=09=09=09#outlook a{padding:0;} /* Force Outlook to provide a "view in brow=
+ser" message */
+=09=09=09.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hot=
+mail to display emails at full width */
+=09=09=09.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCl=
+ass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* For=
+ce Hotmail to display normal line spacing */
+=09=09=09body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changin=
+g default text sizes */
+=09=09=09table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove s=
+pacing between tables in Outlook 2007 and up */
+=09=09=09img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering o=
+f resized image in Internet Explorer */
+
+=09=09=09/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+=09=09=09body{margin:0; padding:0;}
+=09=09=09img{border:0; height:auto; line-height:100%; outline:none; text-de=
+coration:none;}
+=09=09=09table{border-collapse:collapse !important;}
+=09=09=09body, #bodyTable, #bodyCell{height:100% !important; margin:0; padd=
+ing:0; width:100% !important;}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Page Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09#bodyCell{padding:20px;}
+=09=09=09#templateContainer{width:600px;}
+=09=09=09#templateContainer * {-webkit-font-smoothing: antialiased;text-sha=
+dow: 1px 1px 1px rgba(0,0,0,0.004);}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section background style
+=09=09=09* @tip Set the background color and top border for your email. You=
+ may want to choose colors that match your company's branding.
+=09=09=09* @theme page
+=09=09=09*/
+=09=09=09body, #bodyTable{
+=09=09=09=09/*@editable*/ background-color:#F7F7F7;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section background style
+=09=09=09* @tip Set the background color and top border for your email. You=
+ may want to choose colors that match your company's branding.
+=09=09=09* @theme page
+=09=09=09*/
+=09=09=09#bodyCell{
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section email border
+=09=09=09* @tip Set the border for your email.
+=09=09=09*/
+=09=09=09#templateContainer{
+=09=09=09=09/*@editable*/ border:0px transparent #BBBBBB;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 1
+=09=09=09* @tip Set the styling for all first-level headings in your emails=
+. These should be the largest of your headings.
+=09=09=09* @style heading 1
+=09=09=09*/
+=09=09=09h1{
+=09=09=09=09/*@editable*/ color:#202020 !important;
+=09=09=09=09display:block;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:26px;
+=09=09=09=09/*@editable*/ font-style:normal;
+=09=09=09=09/*@editable*/ font-weight:100;
+=09=09=09=09/*@editable*/ line-height:100%;
+=09=09=09=09/*@editable*/ letter-spacing:normal;
+=09=09=09=09margin-top:0;
+=09=09=09=09margin-right:0;
+=09=09=09=09margin-bottom:10px;
+=09=09=09=09margin-left:0;
+
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 2
+=09=09=09* @tip Set the styling for all second-level headings in your email=
+s.
+=09=09=09* @style heading 2
+=09=09=09*/
+=09=09=09h2{
+=09=09=09=09/*@editable*/ color:#404040 !important;
+=09=09=09=09display:block;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:28px;
+=09=09=09=09/*@editable*/ font-style:normal;
+=09=09=09=09/*@editable*/ font-weight:100;
+=09=09=09=09/*@editable*/ line-height:140%;
+=09=09=09=09/*@editable*/ letter-spacing:normal;
+=09=09=09=09margin-top:2px;
+=09=09=09=09margin-right:0;
+=09=09=09=09margin-bottom:15px;
+=09=09=09=09margin-left:0;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09=09-webkit-font-smoothing: subpixel-antialiased;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 3
+=09=09=09* @tip Set the styling for all third-level headings in your emails=
+.
+=09=09=09* @style heading 3
+=09=09=09*/
+=09=09=09h3{
+=09=09=09=09/*@editable*/ color:#595959 !important;
+=09=09=09=09display:block;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:20px;
+=09=09=09=09/*@editable*/ font-style:normal;
+=09=09=09=09/*@editable*/ font-weight:300;
+=09=09=09=09/*@editable*/ line-height:140%;
+=09=09=09=09/*@editable*/ letter-spacing:normal;
+=09=09=09=09margin-top:20px;
+=09=09=09=09margin-right:0;
+=09=09=09=09margin-bottom:17px;
+=09=09=09=09margin-left:0;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09=09-webkit-font-smoothing: subpixel-antialiased;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Page
+=09=09=09* @section heading 4
+=09=09=09* @tip Set the styling for all fourth-level headings in your email=
+s. These should be the smallest of your headings.
+=09=09=09* @style heading 4
+=09=09=09*/
+=09=09=09h4{
+=09=09=09=09/*@editable*/ color:#999 !important;
+=09=09=09=09display:block;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:14px;
+=09=09=09=09/*@editable*/ font-style:normal;
+=09=09=09=09/*@editable*/ font-weight:normal;
+=09=09=09=09/*@editable*/ line-height:100%;
+=09=09=09=09/*@editable*/ letter-spacing:normal;
+=09=09=09=09margin-top:0;
+=09=09=09=09margin-right:0;
+=09=09=09=09margin-bottom:8px;
+=09=09=09=09margin-left:0;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09}
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Header Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader style
+=09=09=09* @tip Set the background color and bottom border for your email's=
+ preheader area.
+=09=09=09* @theme header
+=09=09=09*/
+=09=09=09#templatePreheader{
+=09=09=09=09/*@editable*/ background-color:#F7F7F7;
+=09=09=09=09
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader text
+=09=09=09* @tip Set the styling for your email's preheader text. Choose a s=
+ize and color that is easy to read.
+=09=09=09*/
+=09=09=09.preheaderContent{
+=09=09=09=09/*@editable*/ color:#808080;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:10px;
+=09=09=09=09/*@editable*/ line-height:125%;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section preheader link
+=09=09=09* @tip Set the styling for your email's preheader links. Choose a =
+color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.preheaderContent a:link, .preheaderContent a:visited, /* Yahoo! M=
+ail Override */ .preheaderContent a .yshortcuts /* Yahoo! Mail Override */{
+=09=09=09=09/*@editable*/ color:#606060;
+=09=09=09=09/*@editable*/ font-weight:normal;
+=09=09=09=09/*@editable*/ text-decoration:underline;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header style
+=09=09=09* @tip Set the background color and borders for your email's heade=
+r area.
+=09=09=09* @theme header
+=09=09=09*/
+=09=09=09#templateHeader{
+=09=09=09=09/*@editable*/ background-color:#F4F4F4;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header text
+=09=09=09* @tip Set the styling for your email's header text. Choose a size=
+ and color that is easy to read.
+=09=09=09*/
+=09=09=09.headerContent{
+=09=09=09=09/*@editable*/ color:#505050;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:20px;
+=09=09=09=09/*@editable*/ font-weight:bold;
+=09=09=09=09/*@editable*/ line-height:100%;
+=09=09=09=09/*@editable*/ padding-top:0;
+=09=09=09=09/*@editable*/ padding-right:0;
+=09=09=09=09/*@editable*/ padding-bottom:0;
+=09=09=09=09/*@editable*/ padding-left:0;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09=09/*@editable*/ vertical-align:middle;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Header
+=09=09=09* @section header link
+=09=09=09* @tip Set the styling for your email's header links. Choose a col=
+or that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Ov=
+erride */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+=09=09=09=09/*@editable*/ color:#298eea;
+=09=09=09=09/*@editable*/ font-weight:normal;
+=09=09=09=09/*@editable*/ text-decoration:underline;
+=09=09=09}
+
+=09=09=09#headerImage{
+=09=09=09=09height:auto;
+=09=09=09=09max-width:600px;
+=09=09=09}
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Body Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body style
+=09=09=09* @tip Set the background color and borders for your email's body =
+area.
+=09=09=09*/
+=09=09=09#templateBody{
+=09=09=09=09/*@editable background-color:#fff; */
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body text
+=09=09=09* @tip Set the styling for your email's main content text. Choose =
+a size and color that is easy to read.
+=09=09=09* @theme main
+=09=09=09*/
+=09=09=09.bodyContent{
+=09=09=09=09/*@editable*/ color:#505050;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:16px;
+=09=09=09=09/*@editable*/ line-height:160%;
+=09=09=09=09padding-top:35px;
+=09=09=09=09padding-right:40px;
+=09=09=09=09padding-bottom:40px;
+=09=09=09=09padding-left:40px;
+=09=09=09=09background: #fff;
+=09=09=09=09/*@editable*/ text-align:left;
+=09=09=09}
+=09=09=09.buttonContent {
+=09=09=09    background:#298eea
+=09=09=09}
+            td td {
+                
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+            }
+=09=09=09/**
+=09=09=09* @tab Body
+=09=09=09* @section body link
+=09=09=09* @tip Set the styling for your email's main content links. Choose=
+ a color that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.bodyContent a:link, .bodyContent a:visited, /* Yahoo! Mail Overri=
+de */ .bodyContent a .yshortcuts /* Yahoo! Mail Override */{
+=09=09=09=09/*@editable*/ color:#298eea;
+=09=09=09=09/*@editable*/ font-weight:normal;
+=09=09=09=09/*@editable*/ text-decoration:underline;
+=09=09=09}
+
+=09=09=09.bodyContent img{
+=09=09=09=09display:inline;
+=09=09=09=09height:auto;
+=09=09=09=09max-width:560px;
+=09=09=09}
+=09=09=09ul > ul {
+=09=09=09    margin-bottom: 15px;
+=09=09=09}
+
+=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D Footer Styles =3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D */
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer style
+=09=09=09* @tip Set the background color and borders for your email's foote=
+r area.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09#templateFooter{
+=09=09=09=09/*@editable*/ background-color:#F7F7F7;
+=09=09=09=09margin-top:20px;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer text
+=09=09=09* @tip Set the styling for your email's footer text. Choose a size=
+ and color that is easy to read.
+=09=09=09* @theme footer
+=09=09=09*/
+=09=09=09.footerContent{
+=09=09=09=09/*@editable*/ color:#808080;
+=09=09=09=09/*@editable*/ font-family:'Proxima Nova', 'Open Sans', 'Helveti=
+ca Neue', Calibri, Helvetica, sans-serif;
+=09=09=09=09/*@editable*/ font-size:12px;
+=09=09=09=09/*@editable*/ line-height:150%;
+=09=09=09=09padding-top:20px;
+=09=09=09=09padding-right:20px;
+=09=09=09=09padding-bottom:20px;
+=09=09=09=09padding-left:20px;
+=09=09=09=09/*@editable*/ text-align:center;
+=09=09=09}
+
+=09=09=09/**
+=09=09=09* @tab Footer
+=09=09=09* @section footer link
+=09=09=09* @tip Set the styling for your email's footer links. Choose a col=
+or that helps them stand out from your text.
+=09=09=09*/
+=09=09=09.footerContent a:link, .footerContent a:visited, /* Yahoo! Mail Ov=
+erride */ .footerContent a .yshortcuts, .footerContent a span /* Yahoo! Mai=
+l Override */{
+=09=09=09=09/*@editable*/ color:#606060;
+=09=09=09=09/*@editable*/ font-weight:normal;
+=09=09=09=09/*@editable*/ text-decoration:underline;
+=09=09=09}
+
+=09=09=09/* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+
+            @media only screen and (max-width: 480px){
+=09=09=09=09/* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+=09=09=09=09body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:=
+none !important;} /* Prevent Webkit platforms from changing default text si=
+zes */
+                body{width:100% !important; min-width:100% !important;} /* =
+Prevent iOS Mail from adding padding to the body */
+
+=09=09=09=09/* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+=09=09=09=09#bodyCell{padding:10px !important;}
+
+=09=09=09=09/* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+
+=09=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D Page Styles =3D=3D=3D=3D=3D=3D=3D=
+=3D */
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section template width
+=09=09=09=09* @tip Make the template fluid for portrait or landscape view a=
+daptability. If a fluid layout doesn't work for you, set the width to 300px=
+ instead.
+=09=09=09=09*/
+=09=09=09=09#templateContainer{
+=09=09=09=09=09max-width:600px !important;
+=09=09=09=09=09/*@editable*/ width:100% !important;
+=09=09=09=09}
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section heading 1
+=09=09=09=09* @tip Make the first-level headings larger in size for better =
+readability on small screens.
+=09=09=09=09*/
+=09=09=09=09h1{
+=09=09=09=09=09font-size:30px !important;
+=09=09=09=09=09line-height:35px !important;
+=09=09=09=09}
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section heading 2
+=09=09=09=09* @tip Make the second-level headings larger in size for better=
+ readability on small screens.
+=09=09=09=09*/
+=09=09=09=09h2{
+=09=09=09=09=09
+=09=09=09=09}
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section heading 3
+=09=09=09=09* @tip Make the third-level headings larger in size for better =
+readability on small screens.
+=09=09=09=09*/
+=09=09=09=09h3{
+=09=09=09=09=09font-size:24px !important;
+=09=09=09=09}
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section heading 4
+=09=09=09=09* @tip Make the fourth-level headings larger in size for better=
+ readability on small screens.
+=09=09=09=09*/
+=09=09=09=09h4{
+=09=09=09=09}
+
+=09=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D Header Styles =3D=3D=3D=3D=3D=3D=3D=
+=3D */
+
+=09=09=09=09#templatePreheader{} /* Hide the template preheader to save spa=
+ce */
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section header image
+=09=09=09=09* @tip Make the main header image fluid for portrait or landsca=
+pe view adaptability, and set the image's original width as the max-width. =
+If a fluid setting doesn't work, set the image width to half its original s=
+ize instead.
+=09=09=09=09*/
+=09=09=09=09#headerImage{
+=09=09=09=09=09height:auto !important;
+=09=09=09=09=09/*@editable*/ max-width:600px !important;
+=09=09=09=09=09/*@editable*/ width:100% !important;
+=09=09=09=09}
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section header text
+=09=09=09=09* @tip Make the header content text larger in size for better r=
+eadability on small screens. We recommend a font size of at least 16px.
+=09=09=09=09*/
+=09=09=09=09.headerContent{
+=09=09=09=09=09/*@editable*/ font-size:20px !important;
+=09=09=09=09=09/*@editable*/ line-height:125% !important;
+=09=09=09=09}
+
+=09=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D Body Styles =3D=3D=3D=3D=3D=3D=3D=
+=3D */
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section body text
+=09=09=09=09* @tip Make the body content text larger in size for better rea=
+dability on small screens. We recommend a font size of at least 16px.
+=09=09=09=09*/
+=09=09=09=09.bodyContent{
+=09=09=09=09=09/*@editable*/ font-size:18px !important;
+=09=09=09=09=09/*@editable*/ line-height:145% !important;
+=09=09=09=09=09padding-top: 20px;
+=09=09=09=09=09padding-bottom:20px;
+=09=09=09=09=09padding-left:20px;
+=09=09=09=09=09padding-right:20px;
+=09=09=09=09}
+
+=09=09=09=09/* =3D=3D=3D=3D=3D=3D=3D=3D Footer Styles =3D=3D=3D=3D=3D=3D=3D=
+=3D */
+
+=09=09=09=09/**
+=09=09=09=09* @tab Mobile Styles
+=09=09=09=09* @section footer text
+=09=09=09=09* @tip Make the body content text larger in size for better rea=
+dability on small screens.
+=09=09=09=09*/
+=09=09=09=09.footerContent{
+=09=09=09=09=09/*@editable*/ font-size:14px !important;
+=09=09=09=09=09/*@editable*/ line-height:115% !important;
+=09=09=09=09}
+
+=09=09=09=09.footerContent a{display:block !important;} /* Place footer soc=
+ial and utility links on their own lines, for easier access */
+=09=09=09}
+=09=09
+    </style>
+</head>
+<body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0"=
+ offset=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust=
+: 100%; height: 100% !important; width: 100% !important; background: #F7F7F=
+7; margin: 0; padding: 0;" bgcolor=3D"#F7F7F7">
+    =09<center>
+        =09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"-webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; m=
+so-table-rspace: 0pt; border-collapse: collapse !important; height: 100% !i=
+mportant; width: 100% !important; background: #F7F7F7; margin: 0; padding: =
+0;" bgcolor=3D"#F7F7F7"><tr>
+<td align=3D"center" valign=3D"top" id=3D"bodyCell" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; height: 100% !important; width: 100% !important; margin: 0=
+; padding: 20px;">
+                    =09<!-- BEGIN TEMPLATE // -->
+
+                    =09                      <table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" id=3D"templateContainer" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt; border-collapse: collapse !important; width: 600px; border:=
+ 0px transparent;">
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0=
+.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri,=
+ Helvetica, sans-serif;">
+                                  <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; bor=
+der-collapse: collapse !important; -webkit-font-smoothing: antialiased; tex=
+t-shadow: 1px 1px 1px rgba(0,0,0,0.004); background: #F7F7F7;" id=3D"templa=
+tePreheader" bgcolor=3D"#F7F7F7"><tr style=3D"-webkit-font-smoothing: antia=
+liased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">
+<td valign=3D"top" class=3D"preheaderContent" style=3D"text-align: center; =
+-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspac=
+e: 0pt; mso-table-rspace: 0pt; -webkit-font-smoothing: antialiased; text-sh=
+adow: 1px 1px 1px rgba(0,0,0,0.004); color: #808080; font-family: 'Proxima =
+Nova', 'Open Sans', 'Helvetica Neue', Calibri, Helvetica, sans-serif; font-=
+size: 10px; line-height: 125%; padding: 20px 30px 40px;" align=3D"center">
+                                              <img src=3D"https://assets.di=
+gitalocean.com/email/DOLogo.png" style=3D"display: inline-block; text-align=
+: center; width: 60px; margin-bottom: 40px; -ms-interpolation-mode: bicubic=
+; height: auto; line-height: 100%; outline: none; text-decoration: none; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4); border: 0;"><h1 style=3D"text-align: center; font-size: 36px; line-heig=
+ht: 55px; font-weight: 100; -webkit-font-smoothing: antialiased; color: #44=
+4 !important; text-shadow: 1px 1px 1px rgba(0,0,0,0.004); display: block; f=
+ont-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri, Helveti=
+ca, sans-serif; font-style: normal; letter-spacing: normal; margin: 0 0 10p=
+x;" align=3D"center">Best practices for setting up your new FreeBSD server<=
+/h1>
+                                            </td>
+                                            <!--  -->
+                                        </tr></table>
+<!-- // END PREHEADER -->
+</td>
+                            </tr>
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0=
+.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri,=
+ Helvetica, sans-serif;">
+                                  <!-- BEGIN BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateBody" style=3D"-webkit-text-s=
+ize-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; border-collapse: collapse !important; -webkit-font-smoothi=
+ng: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"><tr style=3D"=
+-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.=
+004);">
+<td valign=3D"top" class=3D"bodyContent" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,=
+0,0,0.004); color: #505050; font-family: 'Proxima Nova', 'Open Sans', 'Helv=
+etica Neue', Calibri, Helvetica, sans-serif; font-size: 16px; line-height: =
+160%; text-align: left; background: #fff; padding: 35px 40px 40px;" align=
+=3D"left" bgcolor=3D"#fff">
+                                              <table style=3D"-webkit-text-=
+size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-t=
+able-rspace: 0pt; border-collapse: collapse !important; -webkit-font-smooth=
+ing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"><tr style=3D=
+"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0=
+.004);">
+<td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; ms=
+o-table-lspace: 0pt; mso-table-rspace: 0pt; -webkit-font-smoothing: antiali=
+ased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004); font-family: 'Proxima Nov=
+a', 'Open Sans', 'Helvetica Neue', Calibri, Helvetica, sans-serif;">
+                                                     Congratulations on spi=
+nning up your first FreeBSD Droplet! We want to help you make the most of y=
+our Droplet and have come up with a list of recommended next steps to help =
+you get set up quickly and easily.
+                                                      <br style=3D"-webkit-=
+font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"><=
+br style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px r=
+gba(0,0,0,0.004);"><strong style=3D"-webkit-font-smoothing: antialiased; te=
+xt-shadow: 1px 1px 1px rgba(0,0,0,0.004);">STEP ONE: THE MUST-HAVES</strong=
+>
+                                                     <ul style=3D"-webkit-f=
+ont-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Review the <a href=3D"http://email.support.digitalocean.com/e/c/eyJlbW=
+FpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNN=
+k1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjowLCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9j=
+ZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxfc2VyaWVzL2dldHRpbmctc3RhcnRlZC13aXRoLWZ=
+yZWVic2Q_dXRtX3NvdXJjZT1DdXN0b21lcmlvJnV0bV9tZWRpdW09RW1haWxfSW50ZXJuYWwmdX=
+RtX2NhbXBhaWduPUVtYWlsX0ZyZWVCU0REaXN0cm9OZ2lueFdlbGNvbWUiLCJsaW5rX2lkIjoyN=
+zczOTE3fQ/dd9e47ca89842444c42346eac0a9920cc5f8db3e41fa689247053ee97b708d14"=
+ style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webk=
+it-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);=
+ color: #298eea; font-weight: normal; text-decoration: underline;">FreeBSD =
+server checklist</a> which includes:
+                                                        <ul style=3D"-webki=
+t-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"=
+>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Steps for <a href=3D"http://email.support.digitalocean.com/e/c/eyJlbWF=
+pbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk=
+1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjoxLCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9jZ=
+WFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL3JlY29tbWVuZGVkLXN0ZXBzLWZvci1uZXctZnJl=
+ZWJzZC0xMC0xLXNlcnZlcnM_dXRtX3NvdXJjZT1DdXN0b21lcmlvJnV0bV9tZWRpdW09RW1haWx=
+fSW50ZXJuYWwmdXRtX2NhbXBhaWduPUVtYWlsX0ZyZWVCU0REaXN0cm9OZ2lueFdlbGNvbWUiLC=
+JsaW5rX2lkIjoyNzczOTE4fQ/9022ca754a8927450d69945eeb4e5944558339f4c23cb1b11b=
+be7bd11ad71358" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adju=
+st: 100%; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgb=
+a(0,0,0,0.004); color: #298eea; font-weight: normal; text-decoration: under=
+line;">setting up a FreeBSD</a> server.</li>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">An introduction to <a href=3D"http://email.support.digitalocean.com/e/=
+c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsU=
+WltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjoyLCJocmVmIjoiaHR0cHM6Ly93d3cuZGln=
+aXRhbG9jZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL2FuLWludHJvZHVjdGlvbi10by1iYXN=
+pYy1mcmVlYnNkLW1haW50ZW5hbmNlP3V0bV9zb3VyY2U9Q3VzdG9tZXJpbyZ1dG1fbWVkaXVtPU=
+VtYWlsX0ludGVybmFsJnV0bV9jYW1wYWlnbj1FbWFpbF9GcmVlQlNERGlzdHJvTmdpbnhXZWxjb=
+21lIiwibGlua19pZCI6Mjc3MzkxOX0/f08c1be0d172eba1e4d10d16963a546cd48f55f6889f=
+da7bfcaf41b9179e12e7" style=3D"-webkit-text-size-adjust: 100%; -ms-text-siz=
+e-adjust: 100%; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1=
+px rgba(0,0,0,0.004); color: #298eea; font-weight: normal; text-decoration:=
+ underline;">basic FreeBSD
+maintenance</a>.
+                                                        </li>
+</ul>
+</li>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Configure <a href=3D"http://email.support.digitalocean.com/e/c/eyJlbWF=
+pbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk=
+1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjozLCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9jZ=
+WFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL2hvdy10by1jb25maWd1cmUtc3NoLWtleS1iYXNl=
+ZC1hdXRoZW50aWNhdGlvbi1vbi1hLWZyZWVic2Qtc2VydmVyP3V0bV9zb3VyY2U9Q3VzdG9tZXJ=
+pbyZ1dG1fbWVkaXVtPUVtYWlsX0ludGVybmFsJnV0bV9jYW1wYWlnbj1FbWFpbF9GcmVlQlNERG=
+lzdHJvTmdpbnhXZWxjb21lIiwibGlua19pZCI6Mjc3MzkyMH0/d39dd0a4aaf2d16ffab829c6a=
+a00910019f0d2a3ad1bebee5ee4bb4f511c6679" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; tex=
+t-shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: norma=
+l; text-decoration: underline;">SSH key-based authentication</a> on your se=
+rver.</li>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Use DigitalOcean=E2=80=99s DNS to <a href=3D"http://email.support.digi=
+talocean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVak=
+Q3SllJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjo0LCJocmVmIjoiaHR0c=
+HM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL2hvdy10by1zZXQt=
+dXAtYS1ob3N0LW5hbWUtd2l0aC1kaWdpdGFsb2NlYW4_dXRtX3NvdXJjZT1DdXN0b21lcmlvJnV=
+0bV9tZWRpdW09RW1haWxfSW50ZXJuYWwmdXRtX2NhbXBhaWduPUVtYWlsX0ZyZWVCU0REaXN0cm=
+9OZ2lueFdlbGNvbWUiLCJsaW5rX2lkIjoyNzczOTIxfQ/b446a0cf5dd3a0b23a9bcaabe7062f=
+26ea10b2008029a5069da61203888b7c8c" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; text-sha=
+dow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: normal; te=
+xt-decoration: underline;">set up your
+hostname</a> from the Control Panel.</li>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Protect your servers by reviewing these <a href=3D"http://email.suppor=
+t.digitalocean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpS=
+b0JVakQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjo1LCJocmVmIjo=
+iaHR0cHM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzLzctc2VjdX=
+JpdHktbWVhc3VyZXMtdG8tcHJvdGVjdC15b3VyLXNlcnZlcnM_dXRtX3NvdXJjZT1DdXN0b21lc=
+mlvJnV0bV9tZWRpdW09RW1haWxfSW50ZXJuYWwmdXRtX2NhbXBhaWduPUVtYWlsX0ZyZWVCU0RE=
+aXN0cm9OZ2lueFdlbGNvbWUiLCJsaW5rX2lkIjoyNzczOTIyfQ/58966129b408c02a2ca50185=
+5947738c85a61b79945f922c3179296453f87ce6" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; te=
+xt-shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: norm=
+al; text-decoration: underline;">7
+security measures</a>.</li>
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Keep your data safe with an <a href=3D"http://email.support.digitaloce=
+an.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJ=
+VktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjo2LCJocmVmIjoiaHR0cHM6Ly9=
+3d3cuZGlnaXRhbG9jZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL2hvdy10by1jaG9vc2UtYW=
+4tZWZmZWN0aXZlLWJhY2t1cC1zdHJhdGVneS1mb3IteW91ci12cHM_dXRtX3NvdXJjZT1DdXN0b=
+21lcmlvJnV0bV9tZWRpdW09RW1haWxfSW50ZXJuYWwmdXRtX2NhbXBhaWduPUVtYWlsX0ZyZWVC=
+U0REaXN0cm9OZ2lueFdlbGNvbWUiLCJsaW5rX2lkIjoyNzczOTIzfQ/a8f4e521883cc5805d84=
+c3793d5adebdc4f82a8e5f2a9d975996ed0b3d2ab738" style=3D"-webkit-text-size-ad=
+just: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased=
+; text-shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: =
+normal; text-decoration:
+underline;">effective backup strategy</a>.</li>
+                                                      </ul>
+<strong style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px =
+1px rgba(0,0,0,0.004);">STEP TWO: CHOOSE YOUR STACK</strong>
+                                                     <ul style=3D"-webkit-f=
+ont-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Install the <a href=3D"http://email.support.digitalocean.com/e/c/eyJlb=
+WFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhN=
+Nk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjo3LCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9=
+jZWFuLmNvbS9jb21tdW5pdHkvdHV0b3JpYWxzL2hvdy10by1pbnN0YWxsLWFuLW5naW54LW15c3=
+FsLWFuZC1waHAtZmVtcC1zdGFjay1vbi1mcmVlYnNkLTEwLTE_dXRtX3NvdXJjZT1DdXN0b21lc=
+mlvJnV0bV9tZWRpdW09RW1haWxfSW50ZXJuYWwmdXRtX2NhbXBhaWduPUVtYWlsX0ZyZWVCU0RE=
+aXN0cm9OZ2lueFdlbGNvbWUiLCJsaW5rX2lkIjoyNzczOTI0fQ/6925bc72df836418174cc015=
+6594053b68a2b7d3bba11260bee2d1ad0f866aaf" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; te=
+xt-shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: norm=
+al; text-decoration: underline;">FEMP stack</a> (i.e. FreeBSD, Nginx, MySQL=
+, and PHP) on FreeBSD
+10.1*.
+<br style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);"><div style=3D"font-size: 13px; line-height: 17px; -webk=
+it-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);=
+"><i style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px=
+ rgba(0,0,0,0.004);">* Want to use Apache as your web server instead? Follo=
+w the <a href=3D"http://email.support.digitalocean.com/e/c/eyJlbWFpbF9pZCI6=
+Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV=
+4QUE9PSIsInBvc2l0aW9uIjo4LCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS=
+9jb21tdW5pdHkvdHV0b3JpYWxzL2hvdy10by1pbnN0YWxsLWFuLWFwYWNoZS1teXNxbC1hbmQtc=
+GhwLWZhbXAtc3RhY2stb24tZnJlZWJzZC0xMC0xP3V0bV9zb3VyY2U9Q3VzdG9tZXJpbyZ1dG1f=
+bWVkaXVtPUVtYWlsX0ludGVybmFsJnV0bV9jYW1wYWlnbj1FbWFpbF9GcmVlQlNERGlzdHJvTmd=
+pbnhXZWxjb21lIiwibGlua19pZCI6Mjc3MzkyNX0/b5b25a3726206d7fd66bf6a939f9d2b272=
+2b26beec8c093496a4e1b61609e93e" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; text-shadow:=
+ 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: normal; text-d=
+ecoration: underline;">FAMP stack</a> tutorial to get it set up on FreeBSD =
+10.1.</i></div>
+                                                        </li>
+                                                      </ul>
+<br style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);"><strong style=3D"-webkit-font-smoothing: antialiased; t=
+ext-shadow: 1px 1px 1px rgba(0,0,0,0.004);">EXTRA CREDIT: SECURE FILE TRANS=
+FER</strong>
+                                                     <ul style=3D"-webkit-f=
+ont-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">
+<li style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -w=
+ebkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.00=
+4);">Securely transfer files to your server and between droplets <a href=3D=
+"http://email.support.digitalocean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9D=
+akFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l=
+0aW9uIjo5LCJocmVmIjoiaHR0cHM6Ly93d3cuZGlnaXRhbG9jZWFuLmNvbS9jb21tdW5pdHkvdH=
+V0b3JpYWxzL2hvdy10by11c2Utc2Z0cC10by1zZWN1cmVseS10cmFuc2Zlci1maWxlcy13aXRoL=
+WEtcmVtb3RlLXNlcnZlcj91dG1fc291cmNlPUN1c3RvbWVyaW8mdXRtX21lZGl1bT1FbWFpbF9J=
+bnRlcm5hbCZ1dG1fY2FtcGFpZ249RW1haWxfRnJlZUJTRERpc3Ryb05naW54V2VsY29tZSIsImx=
+pbmtfaWQiOjI3NzM5MjZ9/d24b31abb658836180110965a56536c582374b0e6a9fd6ed29846=
+6286cb94a22" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust:=
+ 100%; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0=
+,0,0,0.004); color: #298eea; font-weight: normal; text-decoration: underlin=
+e;">using
+SFTP</a>.</li>
+                                                      </ul>
+                                                      Looking to do somethi=
+ng more? Head over to our <a href=3D"http://email.support.digitalocean.com/=
+e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFd=
+sUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjoxMCwiaHJlZiI6Imh0dHBzOi8vd3d3Lm=
+RpZ2l0YWxvY2Vhbi5jb20vY29tbXVuaXR5L3RhZ3MvZnJlZWJzZD91dG1fc291cmNlPUN1c3Rvb=
+WVyaW8mdXRtX21lZGl1bT1FbWFpbF9JbnRlcm5hbCZ1dG1fY2FtcGFpZ249RW1haWxfRnJlZUJT=
+RERpc3Ryb05naW54V2VsY29tZSIsImxpbmtfaWQiOjI3NzM5Mjd9/1cbdba5faba1ada69bd4c6=
+78f8bc9c86164f9102b776e6b869544118d3502df1" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; =
+text-shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #298eea; font-weight: no=
+rmal; text-decoration: underline;">Community</a> site at any time to access=
+ our growing library of FreeBSD tutorials!
+                                                     <br style=3D"-webkit-f=
+ont-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"><b=
+r style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rg=
+ba(0,0,0,0.004);">
+                                                        Happy Coding,
+                                                        <br style=3D"-webki=
+t-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"=
+>
+                                                        The DigitalOcean Te=
+am
+                                                    </td>
+                                                  </tr></table>
+</td>
+                                        </tr></table>
+<!-- // END BODY -->
+</td>
+                            </tr>
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0=
+.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', Calibri,=
+ Helvetica, sans-serif;">
+                                  <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%" id=3D"templateFooter" style=3D"text-align: =
+center; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-tab=
+le-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important=
+; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,=
+0.004); margin-top: 20px; background: #F7F7F7;" bgcolor=3D"#F7F7F7">
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td valign=3D"top" class=3D"footerContent" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(=
+0,0,0,0.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', C=
+alibri, Helvetica, sans-serif; color: #808080; font-size: 12px; line-height=
+: 150%; text-align: center; padding: 20px;" align=3D"center">
+<a href=3D"http://email.support.digitalocean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWX=
+pOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9P=
+SIsInBvc2l0aW9uIjoxMSwiaHJlZiI6Imh0dHA6Ly9kby5jby9lbWFpbF90d2l0dGVyIiwibGlu=
+a19pZCI6MzE5MjE2fQ/c29711ed37d53dc664285643353c8df82fcd820abfa107062286231f=
+37162f31" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,=
+0,0.004); color: #606060; font-weight: normal; text-decoration: underline;"=
+>Follow on Twitter</a>=C2=A0=C2=A0=C2=A0<a href=3D"http://email.support.dig=
+italocean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVa=
+kQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjoxMiwiaHJlZiI6Imh0=
+dHA6Ly9kby5jby9lbWFpbF9mYWNlYm9vayIsImxpbmtfaWQiOjMxOTMxNn0/e869dfd99da4933=
+fa8900767cd676c233540ba0b82a75f85a66c517cc58c4d4f" style=3D"-webkit-text-si=
+ze-adjust: 100%; -ms-text-size-adjust: 100%;
+-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.=
+004); color: #606060; font-weight: normal; text-decoration: underline;">Lik=
+e on Facebook</a>=C2=A0=C2=A0=C2=A0<a href=3D"http://email.support.digitalo=
+cean.com/e/c/eyJlbWFpbF9pZCI6Ik1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3Sl=
+lJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PSIsInBvc2l0aW9uIjoxMywiaHJlZiI6Imh0dHBzO=
+i8vY2xvdWQuZGlnaXRhbG9jZWFuLmNvbS9zZXR0aW5ncy9yZWZlcnJhbHMvP3V0bV9zb3VyY2U9=
+Q3VzdG9tZXJpbyZ1dG1fbWVkaXVtPVJlZmVycmFsX1Byb2dyYW0mdXRtX2NhbXBhaWduPUVtYWl=
+sRm9vdGVyX1JlZmVycmFsIiwibGlua19pZCI6MzE5MTAwfQ/f9ae2415cb55eed3a9e6bec4690=
+153bf619a1c1201921730978f445dde87afab" style=3D"-webkit-text-size-adjust: 1=
+00%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; text-=
+shadow: 1px 1px 1px rgba(0,0,0,0.004); color: #606060; font-weight: normal;=
+ text-decoration: underline;">Refer a Friend</a>=C2=A0
+                                            </td>
+                                        </tr>
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td valign=3D"top" class=3D"footerContent" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(=
+0,0,0,0.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', C=
+alibri, Helvetica, sans-serif; color: #808080; font-size: 12px; line-height=
+: 150%; text-align: center; padding: 0 20px 17px;" align=3D"center">
+                                                <em style=3D"-webkit-font-s=
+moothing: antialiased; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">Copyrig=
+ht =C2=A9 2015 DigitalOcean<br style=3D"-webkit-font-smoothing: antialiased=
+; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);"> Floor 10, 101 Avenue of the=
+ Americas, New York, NY, 10013<br style=3D"-webkit-font-smoothing: antialia=
+sed; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);">All rights reserved.</em>
+                                            </td>
+                                        </tr>
+<tr style=3D"-webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px =
+rgba(0,0,0,0.004);">
+<td valign=3D"top" class=3D"footerContent" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(=
+0,0,0,0.004); font-family: 'Proxima Nova', 'Open Sans', 'Helvetica Neue', C=
+alibri, Helvetica, sans-serif; color: #808080; font-size: 12px; line-height=
+: 150%; text-align: center; padding: 0 20px 40px;" align=3D"center">
+                                              <a href=3D"http://mda.digital=
+ocean.com/track/click/30039865/email.support.digitalocean.com?p=3DeyJzIjoiZ=
+l9zSW9TVjlnVGF2VlJyUXlzOWxZcWJlcW1FIiwidiI6MSwicCI6IntcInVcIjozMDAzOTg2NSxc=
+InZcIjoxLFwidXJsXCI6XCJodHRwOlxcXC9cXFwvZW1haWwuc3VwcG9ydC5kaWdpdGFsb2NlYW4=
+uY29tXFxcL3Vuc3Vic2NyaWJlXFxcL01UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3Sl=
+lJVktSaFdsUWltQVhNNk1qQXdNekV4QUE9PVwiLFwiaWRcIjpcIjZiMjM4NTczNTNmOTRkMzk4N=
+mVjYmNkMDI5OGZkZmQ5XCIsXCJ1cmxfaWRzXCI6W1wiYjdjNWE3YjJhODIxZWI5ZjdiMzkwM2Q3=
+ZDY5MjAzOTRhNWFmMGE0MFwiXX0ifQ" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; text-shadow:=
+ 1px 1px 1px rgba(0,0,0,0.004); color: #606060; font-weight: normal; text-d=
+ecoration: underline;">unsubscribe from this list</a>
+                                            </td>
+                                        </tr>
+</table>
+<!-- // END FOOTER -->
+</td>
+                            </tr>
+</table>
+<!-- // END TEMPLATE -->
+</td>
+                </tr></table>
+</center>
+    <img src=3D"http://email.support.digitalocean.com/e/o/eyJlbWFpbF9pZCI6I=
+k1UWXpOVE02Rm9DakFtUUFBbk1BRnhXUFpSb0JVakQ3SllJVktSaFdsUWltQVhNNk1qQXdNekV4=
+QUE9PSJ9">
+<img src=3D"http://mda.digitalocean.com/track/open.php?u=3D30039865&id=3D6b=
+23857353f94d3986ecbcd0298fdfd9" height=3D"1" width=3D"1"></body>
+</html>
+
+
+
+--_av-goD0hLH-1OkJaBBTHgYRKQ--
+

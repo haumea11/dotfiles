@@ -1,0 +1,35 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=XOXBXwdrOotDL1hO8a6Gmsw0aZq+qEzWoJ9nWrg4Mk8=;
+        b=gPWY0ZLKyuKWy+f/jn7FmGcA1brTKLgpBzQttxYq2Ch74kvjvc6A7YSZSmRiH5bJGW
+         +FsduHY6Pzrrw+P+jNhEevk15JMxq0VLfFP6HRyAuHHbasPJkttWxTTMMSCdbaWjIOcp
+         aS9TG2RGOXphPjAaOwrYrNP1Ge7QxdNtxfOhM6JDwzMwtoRzm89XJzM5s4RAurXCCZ+C
+         G99rhSsDuaoUc3YBRVKYpiDEDyyMaLcxO2hgdLoQtc9t1vmYI8C0twTlo+VIeksUb0yk
+         rpeZ/Z9XVEbFiY2gRO43oNqEn45sIkRVe5rHTLXsrcyWC8fP/ViILS2caL8CR8tK/bee
+         5cGA==
+X-Received: by 10.107.30.209 with SMTP id e200mr29211705ioe.57.1437323053923;
+        Sun, 19 Jul 2015 09:24:13 -0700 (PDT)
+Message-ID: <55ABCF2A.5060106@gmail.com>
+Date: Sun, 19 Jul 2015 12:24:10 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: Pete Markiewicz <pete.markiewicz@gmail.com>, 
+ John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: funny
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+John, I am sure you are aware of this site, and I am a bit miffed you
+did not tell me about it!  (just kidding)
+
+http://www.theregister.co.uk/
+
+
+-- 
+Shannon Markiewicz, Ph.D.

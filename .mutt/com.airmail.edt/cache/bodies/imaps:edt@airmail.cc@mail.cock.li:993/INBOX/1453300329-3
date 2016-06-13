@@ -1,0 +1,42 @@
+Return-Path: <bounce-md_30039865.569f9389.v1-1f9dd0b04746475496a403dbc7567ea6@mda.digitalocean.com>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=support.digitalocean.com;
+ h=From:Subject:Reply-To:To:Message-Id:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=support@support.digitalocean.com;
+ bh=NP+RYnZOFSHPm+aGHstbtCcE+i0=;
+ b=JLbtT/c+zDoWhV+AwvT+/+iEMfLD25IfNPhC+E/9PP0ky4YoiruhWhH29v6MAay6Owx3zXFkCICT
+   EITFPEbHbKktvghIruV0ls0pGnx34W43f+YsITJHMRXwRGsPg4P9eNywuvD65JejfpxOdsRKMgI+
+   ihvojj+w6jpWjwWem8k=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=support.digitalocean.com;
+ b=BrKI+6AHQDUQSz/nB59hRjAYYsezcjFZFDzWWp9Rvk0rNBnvXLHT/gbf62g53cHZJPcDal8Aj7RY
+   iBFpvlkWgKkpv3tfhqL/9d7cepW4jQMzIHMSOLfMH05zlV3Lka38MeBUPSPscvAa6GgTa2fP2uSe
+   Rdl+pImIKJD7fBliHlk=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1453298569; h=From : 
+ Subject : Reply-To : To : Message-Id : Date : MIME-Version : 
+ Content-Type : Content-Transfer-Encoding : From : Subject : Date : 
+ X-Mandrill-User : List-Unsubscribe; 
+ bh=hznekJIT1POV5KMvIZFavHA68yA42+ZsgX0m9qcXIAM=; 
+ b=nslotp0n5SNSP1dgU9PWWbRml+ZYKzbrxFsF7VzlXiFFr0pAaT2IVUDTIGuK6Xr4HzLZ+1
+ 0kQCn1J9hsW0aQl1A8ylADuz23zcw9644rdggKI8bVY/aKSPy+3RjxSRxc0f8LhvS5qdpX46
+ R3bNIEhAr1cVMI8YlqZc+2EDQJg3w=
+From: DigitalOcean <support@support.digitalocean.com>
+Subject: Credit Granted for $10.00
+Reply-To: <billing@support.digitalocean.com>
+To: <edt@airmail.cc>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30039865.1f9dd0b04746475496a403dbc7567ea6
+X-Mandrill-User: md_30039865
+Message-Id: <30039865.20160120140249.569f9389558cf7.31451633@mail283.us4.mandrillapp.com>
+Date: Wed, 20 Jan 2016 14:02:49 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+You have been granted a credit on DigitalOcean! Booyah!
+
+Your balance has been updated and can be viewed at:
+https://www.digitalocean.com/billing
+
+Happy Coding,
+DigitalOcean

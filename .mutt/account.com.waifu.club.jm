@@ -1,0 +1,15 @@
+set imap_user = "jm@waifu.club"
+set imap_pass = "mm:6d5ZXwI$jE9+>Wfy`eITvI'$b7!V?62<im9)A"
+set smtp_url = "smtp://jm@waifu.club@mail.cock.li:587/"
+set smtp_pass = "mm:6d5ZXwI$jE9+>Wfy`eITvI'$b7!V?62<im9)A"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set from = "edt@airmail.cc"
+set realname = "John Markiewicz"
+set folder = "imaps://mail.cock.li:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Airmail]/Drafts"
+set header_cache =     ~/.mutt/com.waifu.club.jm/cache/headers                  
+set message_cachedir = ~/.mutt/com.waifu.club.jm/cache/bodies               
+set certificate_file = ~/.mutt/com.waifu.club.jm/certificates
+

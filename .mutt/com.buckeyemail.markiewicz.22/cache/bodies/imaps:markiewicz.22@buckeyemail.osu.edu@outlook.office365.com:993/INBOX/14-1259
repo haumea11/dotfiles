@@ -1,0 +1,646 @@
+Received: from BLUPR01MB391.prod.exchangelabs.com (10.141.77.21) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.443.7 via Mailbox Transport; Thu, 24 Mar 2016 03:23:44 +0000
+Received: from BL2PR01CA0037.prod.exchangelabs.com (10.141.66.37) by
+ BLUPR01MB391.prod.exchangelabs.com (10.141.77.21) with Microsoft SMTP Server
+ (TLS) id 15.1.447.10; Thu, 24 Mar 2016 03:23:42 +0000
+Received: from BL2FFO11FD056.protection.gbl (2a01:111:f400:7c09::109) by
+ BL2PR01CA0037.outlook.office365.com (2a01:111:e400:c1b::37) with Microsoft
+ SMTP Server (TLS) id 15.1.447.10 via Frontend Transport; Thu, 24 Mar 2016
+ 03:23:42 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.220)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.220 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.220; helo=cio-tnc-pf06.osuad.osu.edu;
+Received: from cio-tnc-pf06.osuad.osu.edu (164.107.81.220) by
+ BL2FFO11FD056.mail.protection.outlook.com (10.173.161.184) with Microsoft
+ SMTP Server (TLS) id 15.1.443.6 via Frontend Transport; Thu, 24 Mar 2016
+ 03:23:42 +0000
+Received: from CIO-TNC-HT06.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf06.osuad.osu.edu (Postfix) with ESMTPS id F41253C0074
+	for <markiewicz.22@buckeyemail.osu.edu>; Wed, 23 Mar 2016 23:23:41 -0400 (EDT)
+Received: from cssqlprd02.it.ohio-state.edu (140.254.168.4) by
+ smtp.service.osu.edu (164.107.81.254) with Microsoft SMTP Server id
+ 14.3.248.2; Wed, 23 Mar 2016 23:23:41 -0400
+From: <ssc@osu.edu>
+To: <markiewicz.22@osu.edu>
+Message-ID: <1237866758.44111.1458789821560.JavaMail.psoft@cssqlprd02.it.ohio-state.edu>
+Subject: You have been awarded financial aid. Your action is required.
+Content-Type: multipart/mixed;
+	boundary="----=_Part_44109_1260512058.1458789821520"
+Date: Wed, 23 Mar 2016 23:23:41 -0400
+X-CFilter-Loop: Reflected
+Return-Path: ssc@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: a3346bdd-c45f-4749-847c-08d35393b389
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.107.81.220;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(3190300001)(35754003)(199003)(41584004)(189002)(252514010)(2476003)(16799955002)(586003)(85226003)(5008740100001)(93346002)(18206015028)(75432002)(5003600100002)(86152002)(1220700001)(19580405001)(19580395003)(512874002)(107886002)(110136002)(109096001)(10000500002)(106466001)(15188155005)(6806005)(17760045003)(450100001)(16796002)(229853001)(551544002)(11100500001)(16601075003)(4610100001)(2171001)(87936001)(90282001)(189998001)(15975445007)(218223001)(86816001)(81686999)(84326002)(19627595001)(50986999)(19617315012)(54356999)(89122001)(2876002)(92566002)(86362001)(2351001)(403064003)(7059030)(562774006);DIR:INB;SFP:;SCL:1;SRVR:BLUPR01MB391;H:cio-tnc-pf06.osuad.osu.edu;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD056;1:jZm/dO/wtqNTCeIqSz9YSN0ywSzw4FW4ZYh8E3yQK1G0l1kZ5nVzHHfjlByg9N5auU4/NWbRrXD7AhUNKoa2pS764l+LgiO3u0sE0PTSMHJr5V30DA2BC5y6DecvwUPKvqByR/mSrkokTvTHqCszOJadOwmnz61MNyKFiPAJ8SKU4apjJ5kk7LOFbxFaf5KosJwNkdgd2J6bHXywNxJW0EcbjBhvywUaRukkZ4XrnDMQGLHcakIjCsQ8pCjXnsCM4afcX4OnvhrF34FM1yv3w2vqDzAoeAf+rG4WhOyDtwfU6LX9QYcSnfB56CWr9drrLpFgmFmrOUh3HTOt5wXpWSU9gnymYBdrjTK8bv0svZdikRieXcpl9EFhwdn97HnQ9aAow3fK2CpSLoePNZeuqAJ7lAyeSmSxULGpPNrvH1oes1QkC8ALhnnnEjolNebU1YEYKg2y8W5QAUOssHQTaJMLnHLJIT7/FRyzZ/KY5NnciryH7Dx0wcw1YMA2tsKbXPi5xAGKvQHd4Tlw9hKtIcOLff9xVM9sQboBGbJ/MedB48yMtHtNuMZgn9TRz0zq
+X-MS-Office365-Filtering-Correlation-Id: a3346bdd-c45f-4749-847c-08d35393b389
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB391;2:882lUl6YeE17GpHepmINEKxWlhEHtk8xYDYG9LmcVHLFLaZreuDYSIYocLF4N0yj79z8W1fA2QPqPP3JmaG5shBORzcvsPiW1HYLUcdPcIQwtT3iNsjY5KC05MuF0zTyW210yo5Quw+9CKqsHj6mnewq/Mc3mqjX80S+EXShVaDBZ+gzkffzSxdSSY0IvZL/;3:e3zl/kbUlB7F26z3XEDyMJM77eAdqhvfS3ijN9M2TtB0gLnWGFN2bum8zSK1UgsM08ZYvLOQ/rAjnFMnAKTv6HipKzYNfb47u94O/VlwjCGEEEd56J9Edza7JxFktyZMp1EoLifCQ+a9Z/RjTD4CtNaUMGiN99rOsMDPzolchTQiSWhD5h5ciLu9LP2OHtwHtUgO+BHzqt8ZVVseCqjnGsTC2vJfAe+fFqoNLhWOtn3mU9X4djpVGANwd26tO1dkKRe7LvhYaqb4eTnTZU1AgA==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:BLUPR01MB391;
+X-Microsoft-Exchange-Diagnostics:
+	1;BLUPR01MB391;25:h8G9GEiKp5xjMsrfK6akIbkxZPnFQrpirZdXoJmyPtm4G+Zz9nrauuUkBKKMrfCAlkI6Wmv4c84RED4UjwsljOO8bnINtXO2CEZZXtehU6eG3hPBiUR/7qRg0EAxUt9NnrRIGzrhVWzUulFKadoq7RkMlOC/KtR71nT+Ki5QU3zjICsWyDnKVe2y/xEi0/LolYx41BC1egYIY1zGDUaHEjn6GrgOyXZK+Wv+DoEDNBd+2iS2nJ5Xeg+qjFVrPu8DzZf/g++yA0LupxrOvRVOlfKBKVaN2RvNVTESk0GiKKfdptrztGG6wO2w3r/8RFZ/6AIhwfX3o3NmcEuifecHMZX/l01NebThJQbkZIYsXe62OTG3kX76dW5+T2rl6DbMh5mpPI3hdCxMF7xAx6W2Yl3JhvGcpBtGYUELOafldJxU1OEyiZu0bLY3ohI6EMEbSgTkhnHZ5Jwsm9XN7mx9EZD6gHhKHqDt24s6Ra48Weee+DGuMbpazT6S2qHrZ6nt2PXCdroSkfp18QECzPQnR/eNYM+C5Eq+9LDjfiCOEaqBVhmKyv5MgFdfKtbNHIcgpTe9wVQoQmVFaORhhP4/377yJXm4HCeYj5l5HgUjC7Wk3ZDEKrkM/6n2Gg68YU70TAo7PglAZnrZwN7c+llrYzATTzcDSsj2uaiODD29vsoIp5D3bigmYz0D7P39YycUjDAn7ywvTXTxuIwl3Rbsjq/ao6OA26hVXxYttX/Ezo0p/ataCQ4KuoP5FrNp6rF4c0/wvMECgYr/5IckAAM2fU93Vho4vSeJC/FDDQx/CLxBeMJv9HEb2SrAdJq1WukNreoggi4uQhxtsiZYheIYYZDx6rLFpNbDjpjZumwJ259oxo/fse/ENYp8hs0ejNML5XxQxCzmoZaZ1KQYu6Sq1PScBRFdZzrbE/tlPIVG24g6T4tV9oXot/nroDKtPKgv
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB391;20:/qkKEP/xgNGGzPZkkD6jhd/zVTpOSSqbZHhIQmWEEu0NZg+hxIqHDh3bocO0TZkZld92WVnUaxDUtfHIYsAXe+sjDZI5SUuaVVJNvb5Vq9fZ7YZVIBam+reu9xk0ha0iIsYsy558X5cL0NwlusUCtr0LjBWm5RI/qXaqTPFnxGhD5I6ahv7DLvrFWabFktat9nCqlPH6a6UzKs4sKAc/F+LeeyuDnfE3s9INGZaoUruq+jqIxnPAczludDo7XRfNJn7dlsQpAXgNMvOLvl9jWCaQyMqiiTujNUdiZ+rOLKjIrUiQyelsJzE7Q0oLTkAZynXZOt47NwAq1ra9r5m0Ekvx4+cSiA6mq96yio7DtPWwB4muquGK5UUJXYRJzPPUAZUarfLD6UxMFXrycuBwXoSu93r8vn79oeCd4L70fd2IEqQO2ZS+rTueMwJMDUsRbNygsrtVYmhBY1JxNaVAJYly6Wt/c7uncSnjcck8hz4p8f/ZdEnBrU7NBotnlBB+
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(2401047)(8121501046)(13018025)(13015025)(13024025)(13017025)(13023025)(10201501046)(3002001);SRVR:BLUPR01MB391;BCL:0;PCL:0;RULEID:;SRVR:BLUPR01MB391;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB391;4:EYRXfh02DIC7sNjwPQXYEUzbf0kyBfOsLnKTz1dKi1ZOaeEbJwjwUs4KUk3/i8taw3hdzpvvIXjPwu5DlYk9uwzygErCQtlrZue4BD8OgiwAfh1ObvmoxuzamiYVXCwrhzMKBgX34+tGjLMCnIpCw2l8y1B5KJy4lw8rgmhsufWSl9qQL4Ri5h874DgLPA7bPlnGgmmt9WzzCSk/ApdHZzTnRlMQLCxsdJTXI0sQpWt1hAtybqLGTQQDHEcvH4+wh4NA6egBardOasYv0Hogtu0kYBGVnCEvIsEcFdZzkYdVL9J6BZfsMZSaT70vsCD/1UZtdKkimy8iLJlA7XtYIauzWskA+qFWcXOPmSEOdovpO2pDisvPrTSnYAHam2KrsYiiZuv7BAjrXrwRj7TXQNFQ1Py60L3LNSMHXVl1oUrtQkxKk/DInQqQGHqx2vHLYvRGpbxUZcUAv35sZbmFWg==
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BLUPR01MB391;23:j3xW3jfmsKA79lEMKpYhLjpKPj1Wcjx8oil01xf+Ly?=
+ =?us-ascii?Q?1kAJxwyOikp8Ps9lq90F5as7fWleqxc/D36/LZq0+KVjJaESTCGk/95QUEKM?=
+ =?us-ascii?Q?Qw0+62q9BoQDU25u3GzJTiSBp23q5IFGIFcj+VwG60tELNazRmSbhsS6YA/2?=
+ =?us-ascii?Q?BHWez585K/W/x3UYV6MKDKr2JH7sVjRaFf4C/nzhdK/KjG1hHYhQUbLKesoQ?=
+ =?us-ascii?Q?QA8AkENlO07IRebwL8X21iwV39uSSUphGTFQqMinnx0gTlJY63fba8eoKXI/?=
+ =?us-ascii?Q?LDvwM+2vbQKq+yLAKoEeQ4h3pFpi5vGJp/S1jBHfap8cJ/OS9Kkf6InJrGRv?=
+ =?us-ascii?Q?MVwXdasYrz9NL49SBhuMIPaAbM1XcBPrZMi1dcAJkxqpFaJgot0+8GjyfPWA?=
+ =?us-ascii?Q?GbvfoPiTP0BZ4uV0+d/KoHq6RQZ8+XgWvAfnxzIntH8DVfV5Wisrs6wtUm1R?=
+ =?us-ascii?Q?prOTLmn2dIRR1j25P9GgWaalEAnO8ktu+U2bPdH4Y9z3xBKydWX5AenqX2nc?=
+ =?us-ascii?Q?A5yMwlOgIx5qrUAnzWYywJh5qgwj3bCQ6nrCNzaHBdpnYLOxw5vyjkgOuXAy?=
+ =?us-ascii?Q?96nRK0+SnZPZCZp4Vs/eViVtqfbx3PHmYEY2kbjH65mZBKqlxlEvoK+xUUZ1?=
+ =?us-ascii?Q?uRhn439WeUXVuh3bdRK4BMdVHAt/2hDU2ga+k28cb/xAxObbfk6U5DBtqaXJ?=
+ =?us-ascii?Q?PN4HCduErPM6EhLYz0HtZR36heqriNX2KB2frLkpZRCaGK3utmhWrl/npGYg?=
+ =?us-ascii?Q?QLZ+vTIijAys6ktdWclWpYUBtstk48LOYOo8rxyocROR6sdo+luJ2eyzdHbK?=
+ =?us-ascii?Q?k8nawumrCksX7o530ZULxTRfWWkIFGzHusOu5ig2CbCCdMjm98Y0H+gbvQd5?=
+ =?us-ascii?Q?6pZvteUPVLRNBYgI6UI6mcIpB0zdtz9BLfqwRjVxOKNd1b+thKRspcmUtzeA?=
+ =?us-ascii?Q?UyzMCVVpn+OG0VafsZLC+3OrItEeTUQbdkIRtHW+7vydPAP/e5GdzSrCYpmI?=
+ =?us-ascii?Q?8NeMve7EhJyPEYsS2k8kulpfRFsMfKJpZbuWKz8G3bNAhyyNLu4wf6nJ0coT?=
+ =?us-ascii?Q?RCRbRxryjrWrUsW6svv3s0s1wxtZVExE7WG27aUMcIIBznBovCdjcC55MOlT?=
+ =?us-ascii?Q?5VWNi3A6XeatkUv7e55qrD7YOJ6Q2PMYsL9TbLJoVtt7CKDwpzxo6fqfMXkV?=
+ =?us-ascii?Q?YCkdJ9OhgJRKS0byuvd/wcQoT2nZ6em+uCtCpj14/dzWA1fSugPRH8WAyykh?=
+ =?us-ascii?Q?qHzXzIrwfhKMuPuNvqMJTAb6jWE0ObUY+f67J4zETe1h4bB2fKB4+J8gmrpf?=
+ =?us-ascii?Q?yBVhCAM+kaCJ972QhE1eVEGVpNa/9ET+oNkubL/jWvifCTI7QtZDCsvJgQKD?=
+ =?us-ascii?Q?mtbzog9mXn+KpLt1geFtgSZc2bv3ULio9Ng8yOrGM1LjSLFJatqzTlGQEwYw?=
+ =?us-ascii?Q?su41vXX4E2kJwnzbzisMo0Sr+lxZ8bnDF3xM/kDoZNCBPFN3ZoQw6HGmtpBD?=
+ =?us-ascii?Q?JOeFBeUwqTnva0GyC0Mdm98q2mJQACUso=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB391;5:Vrx4sQj2Ot10fl/EeveD+K0tQ8kQ0j27rqACUnYfYMdyiLlgIoB2dAI15MhHahbg5HychZ6ZB6y8X6JHa2OufpS046za9ZkcNBT1Btd1IMS3lLV/1SCgfwWciZbM7jcd+hlmdp87y06K/onj04s1dg==;24:62+QNX4kEJAZtqVi2xhOQ8T/moj/3YftGkdWCrhcMyrKHnlUZdF+0bCY5DzMtf9ruXNe6Yf5ZE00FhrZUcQCrbPFMnbnd4GYoEj8YTgXpz8=;20:ZoRyA2U8m9BvD6LnDyLhe0sLGb7MgWm4dRcR6ja0FJyIEr7L6acbUMplneQQFeVP7Ta0kMw8ZIhV08z4/XX97bQtgdtMUy/77K+z8e9geVyHUevw9im3zilDiv/sknR7OE3Zmq/Er+cZ+pQlK1ZYu71Qe5nOaJe+/lPi/7WHtn4=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Mar 2016 03:23:42.5867
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.220];Helo=[cio-tnc-pf06.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR01MB391
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD056.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.4488666
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+------=_Part_44109_1260512058.1458789821520
+Content-Type: multipart/related;
+	boundary="----=_Part_44110_499981151.1458789821520"
+
+------=_Part_44110_499981151.1458789821520
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DT=
+D XHTML 1.0 Strict//EN"    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.d=
+td"><html xmlns=3D"http://www.w3.org/1999/xhtml"><!-- Generated by Oracle B=
+I Publisher 11.1.1.7.140225 --><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>RTF Template</title></head><body><p style=3D"margin-top: 0.0pt;margin-=
+bottom: 0.0pt;margin-left: 6.0pt;margin-right: 6.0pt;"><img src=3D"cid:xdoi=
+mgqOqTczoCA23235311830692266212jpg" style=3D"width:495.0pt;height:57.42pt;"=
+ alt=3D"An Image"><br></p><p style=3D"line-height: 13.8pt;margin-top: 0.0pt=
+;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-right: 6.0pt;"><br></p><tab=
+le style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixed;margi=
+n-left: 0.6pt;margin-right: auto;width: 550.8pt;border-collapse: collapse;"=
+><col width=3D"72.058%"><col width=3D"27.941%"><tr style=3D"height: 411.684=
+pt;"><td valign=3D"top" style=3D"word-wrap:break-word;border-right-width: 0=
+.5pt;border-right-color: #000000;border-right-style: solid;width:72.058%;ba=
+ckground-color: #ffffff;"><p style=3D"line-height: 15.606pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><span st=
+yle=3D"font-family: 'Arial';font-size: 13.5pt;color: #bb0000;">You have bee=
+n awarded financial aid. Your action is required.</span></p><p style=3D"mar=
+gin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399p=
+t;"><br></p><p style=3D"line-height: 12.138pt;margin-top: 0.0pt;margin-bott=
+om: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><span style=3D"font-fa=
+mily: 'Arial';font-size: 10.0pt;color: #262626;">Dear </span><span style=3D=
+"font-family: 'Arial';font-size: 10.0pt;color: #000000;">John</span><span s=
+tyle=3D"font-family: 'Garamond';font-size: 10.5pt;color: #000000;"> </span>=
+<span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Mark=
+iewicz</span><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #=
+262626;">:</span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;mar=
+gin-left: 5.4pt;margin-right: 5.399pt;"><br></p><p style=3D"line-height: 11=
+.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.3pt;margin-righ=
+t: 10.799pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: =
+#262626;">You have been awarded financial aid to attend The Ohio State Univ=
+ersity for the </span><span style=3D"font-family: 'Arial';font-size: 10.0pt=
+;color: #000000;">- </span><span style=3D"font-family: 'Arial';font-size: 1=
+0.0pt;color: #262626;">academic year</span><span style=3D"font-family: 'Ari=
+al';font-size: 10.0pt;color: #000000;">. </span><span style=3D"font-family:=
+ 'Arial';font-size: 10.0pt;color: #bb0000;">This message contains important=
+ information about your aid package, including how to view and accept your =
+award(s).</span><span style=3D"font-family: 'Arial';font-size: 10.0pt;color=
+: #262626;"> Please keep this e-mail for your records.&nbsp; If you are a d=
+ependent student, be sure to share it with your parents.</span></p><p style=
+=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right:=
+ 5.399pt;"><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margi=
+n-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><span style=3D"f=
+ont-family: 'Arial';font-size: 10.0pt;color: #262626;"><b>To view your awar=
+d(s):</b></span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;marg=
+in-left: 5.4pt;margin-right: 5.399pt;"><br></p><table style=3D"margin-top: =
+0.0pt;margin-bottom: 0.0pt;table-layout:fixed;margin-left: 18.0pt;margin-ri=
+ght: auto;width: 346.0pt;border-collapse: collapse;"><col width=3D"5.202%">=
+<col width=3D"94.797%"><tr style=3D"height: 21.56pt;"><td valign=3D"top" st=
+yle=3D"word-wrap:break-word;width:5.202%;background-color: #ffffff;"><p sty=
+le=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 5.4pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #0=
+00000;">1.</span></p></td><td valign=3D"top" style=3D"word-wrap:break-word;=
+width:94.797%;background-color: #ffffff;"><p style=3D"line-height: 11.56pt;=
+margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626;">Go to </span><a=
+ href=3D"http://www.buckeyelink.osu.edu"><span style=3D"font-family: 'Arial=
+';font-size: 10.0pt;color: #bb0000;text-decoration: underline;">buckeyelink=
+.osu.edu</span></a><span style=3D"font-family: 'Arial';font-size: 10.0pt;co=
+lor: #262626;">. </span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.=
+0pt;margin-left: 5.399pt;"><br></p></td></tr><tr style=3D"height: 11.9pt;">=
+<td valign=3D"top" style=3D"word-wrap:break-word;width:5.202%;background-co=
+lor: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bo=
+ttom: 0.0pt;margin-left: 5.4pt;"><span style=3D"font-family: 'Arial';font-s=
+ize: 10.0pt;color: #000000;">2.</span></p></td><td valign=3D"top" style=3D"=
+word-wrap:break-word;width:94.797%;background-color: #ffffff;"><p style=3D"=
+line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.=
+299pt;margin-right: 10.799pt;"><span style=3D"font-family: 'Arial';font-siz=
+e: 10.0pt;color: #000000;">Under the </span><span style=3D"font-family: 'Ar=
+ial';font-size: 10.0pt;color: #000000;"><b>Finances</b></span><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;"> section, click=
+ Financial Aid Status.</span></p><p style=3D"margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 5.399pt;"><br></p></td></tr><tr style=3D"height: 21.5=
+6pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:5.202%;backgro=
+und-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;mar=
+gin-bottom: 0.0pt;margin-left: 5.4pt;"><span style=3D"font-family: 'Arial';=
+font-size: 10.0pt;color: #000000;">3.</span></p></td><td valign=3D"top" sty=
+le=3D"word-wrap:break-word;width:94.797%;background-color: #ffffff;"><p sty=
+le=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 5.399pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: =
+#262626;">Log in to self-service using your Ohio State Username (lastname.#=
+) and password.</span></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0p=
+t;margin-left: 5.399pt;"><br></p></td></tr><tr style=3D"height: 11.56pt;"><=
+td valign=3D"top" style=3D"word-wrap:break-word;width:5.202%;background-col=
+or: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bot=
+tom: 0.0pt;margin-left: 5.4pt;"><span style=3D"font-family: 'Arial';font-si=
+ze: 10.0pt;color: #000000;">4.</span></p></td><td valign=3D"top" style=3D"w=
+ord-wrap:break-word;width:94.797%;background-color: #ffffff;"><p style=3D"l=
+ine-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.3=
+99pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626=
+;">Click on the appropriate aid year, then select the </span><span style=3D=
+"font-family: 'Arial';font-size: 10.0pt;color: #262626;"><b>Award Summary</=
+b></span><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #2626=
+26;"> tab.</span></p></td></tr></table><p style=3D"margin-top: 0.0pt;margin=
+-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><br></p><p style=
+=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.4pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-si=
+ze: 10.0pt;color: #262626;"><b>To accept or decline your award(s):</b></spa=
+n></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt=
+;margin-right: 5.399pt;"><br></p><table style=3D"margin-top: 0.0pt;margin-b=
+ottom: 0.0pt;table-layout:fixed;margin-left: 18.0pt;margin-right: auto;widt=
+h: 346.0pt;border-collapse: collapse;"><col width=3D"5.202%"><col width=3D"=
+94.797%"><tr style=3D"height: 11.56pt;"><td valign=3D"top" style=3D"word-wr=
+ap:break-word;width:5.202%;background-color: #ffffff;"><p style=3D"margin-t=
+op: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.4pt;"><br=
+></p></td><td valign=3D"top" style=3D"word-wrap:break-word;width:94.797%;ba=
+ckground-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0p=
+t;margin-bottom: 0.0pt;margin-left: 5.399pt;"><span style=3D"font-family: '=
+Arial';font-size: 10.0pt;color: #262626;">Select the Accept/Decline Awards =
+link and follow the prompts</span></p></td></tr></table><p style=3D"margin-=
+top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;">=
+<br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0=
+.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><span style=3D"font-family:=
+ 'Arial';font-size: 10.0pt;color: #262626;"><b>Additional actions:</b></spa=
+n></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt=
+;margin-right: 5.399pt;"><br></p><table style=3D"margin-top: 0.0pt;margin-b=
+ottom: 0.0pt;table-layout:fixed;margin-left: 5.65pt;margin-right: auto;widt=
+h: 385.35pt;border-collapse: collapse;"><col width=3D"4.671%"><col width=3D=
+"85.117%"><col width=3D"10.211%"><tr style=3D"height: 13.294pt;"><td valign=
+=3D"top" style=3D"word-wrap:break-word;width:4.671%;background-color: #ffff=
+ff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0p=
+t;margin-left: 5.4pt;"><span style=3D"font-family: 'Arial';font-size: 10.0p=
+t;color: #000000;">1.</span></p></td><td valign=3D"top" style=3D"word-wrap:=
+break-word;width:85.117%;background-color: #ffffff;"><p style=3D"line-heigh=
+t: 13.294pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.299pt;mar=
+gin-right: 10.799pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt=
+;color: #000000;">Some awards =E2=80=93 such as federal loans =E2=80=93requ=
+ire promissory notes and other actions</span><span style=3D"font-family: 'A=
+rial';font-size: 10.0pt;color: #bb0000;">. Required additional actions will=
+ appear under the To Do List tab and must be completed for awards to be pro=
+cessed and disbursed.</span></p><p style=3D"margin-top: 0.0pt;margin-bottom=
+: 0.0pt;margin-left: 5.399pt;"><br></p></td></tr><tr style=3D"height: 13.29=
+4pt;"><td valign=3D"top" style=3D"word-wrap:break-word;width:4.671%;backgro=
+und-color: #ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;mar=
+gin-bottom: 0.0pt;margin-left: 5.4pt;"><span style=3D"font-family: 'Arial';=
+font-size: 10.0pt;color: #000000;">2.</span></p></td><td valign=3D"top" sty=
+le=3D"word-wrap:break-word;width:85.117%;background-color: #ffffff;"><p sty=
+le=3D"line-height: 13.294pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 6.299pt;margin-right: 10.799pt;"><span style=3D"font-family: 'Arial';f=
+ont-size: 10.0pt;color: #000000;">Parent PLUS Loan eligibility listed on yo=
+ur Award Summary tab is for your information only. To apply for Parent PLUS=
+, click on the Parent Plus Loan Eligibility link and follow the application=
+ process instructions.</span></p><p style=3D"margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 5.399pt;"><br></p></td></tr><tr style=3D"height: 120.=
+662pt;"><td valign=3D"top" colspan=3D"3" style=3D"word-wrap:break-word;bord=
+er-width: 0.5pt;border-color: #000000;border-style: solid;width:100.0%;back=
+ground-color: #bfbfbf;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;=
+margin-bottom: 0.0pt;margin-left: 6.3pt;margin-right: 16.2pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626;"><b>Important! <=
+/b></span></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bot=
+tom: 0.0pt;margin-left: 6.3pt;margin-right: 16.2pt;"><span style=3D"font-fa=
+mily: 'Arial';font-size: 10.0pt;color: #262626;"><b>We expect you to unders=
+tand the following:</b></span></p><p style=3D"line-height: 11.55pt;margin-t=
+op: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.3pt;margin-right: 16.2pt;"><b=
+r></p><ul style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;"><li><p style=3D=
+"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626;">Awards are base=
+d on full-time enrollment, meeting </span><a href=3D"https://sfa.osu.edu/in=
+coming-freshmen/manage-aid/managing-aid/sap"><span style=3D"font-family: 'A=
+rial';font-size: 10.0pt;color: #0000ff;background-color: #c0c0c0;text-decor=
+ation: underline;">Satisfactory Academic Progress</span></a><span style=3D"=
+font-family: 'Arial';font-size: 10.0pt;color: #262626;"> and on the informa=
+tion you supplied on the Free Application for Federal Student Aid (FAFSA).&=
+nbsp; Financial aid is subject to revision if your information should chang=
+e and/or you receive additional aid that exceeds your demonstrated financia=
+l need.</span></p></li></ul><p style=3D"line-height: 11.55pt;margin-top: 0.=
+0pt;margin-bottom: 0.0pt;margin-left: 46.8pt;margin-right: 10.8pt;"><br></p=
+><ul style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;"><li><p style=3D"line=
+-height: 13.85pt;margin-top: 0.0pt;margin-bottom: 0.0pt;"><span style=3D"fo=
+nt-family: 'Arial';font-size: 10.0pt;color: #262626;">If you are undergoing=
+ </span><a href=3D"http://sfa.osu.edu/incoming-freshmen/apply-for-aid/step-=
+by-step"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #bb00=
+00;text-decoration: underline;">FAFSA verification</span></a><span style=3D=
+"font-family: 'Arial';font-size: 10.0pt;color: #bb0000;"> </span><span styl=
+e=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">(click link an=
+d see Step 6),</span><span style=3D"font-family: 'Arial';font-size: 10.0pt;=
+color: #262626;"> the aid award amount is </span><span style=3D"font-family=
+: 'Arial';font-size: 10.0pt;color: #262626;"><i>estimated</i></span><span s=
+tyle=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626;">.&nbsp; Be =
+sure to check your To Do List for items to submit and meet the deadline. </=
+span></p></li></ul><p style=3D"line-height: 11.55pt;margin-top: 0.0pt;margi=
+n-bottom: 0.0pt;margin-left: 46.8pt;margin-right: 10.8pt;"><br></p><ul styl=
+e=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;"><li><p style=3D"line-height: =
+11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;"><span style=3D"font-family=
+: 'Arial';font-size: 10.0pt;color: #262626;">Awards are subject to change b=
+ased on available funding.</span></p></li></ul><p style=3D"line-height: 11.=
+55pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 46.8pt;margin-righ=
+t: 10.8pt;"><br></p><ul style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;"><=
+li><p style=3D"line-height: 13.872pt;margin-top: 0.0pt;margin-bottom: 0.0pt=
+;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #262626;">I=
+t is your responsibility to read and understand your </span><a href=3D"http=
+://sfa.osu.edu/contact-us/consumer-disclosure/student-rights-responsibiliti=
+es-and-disclosures"><span style=3D"font-family: 'Times New Roman';font-size=
+: 12.0pt;color: #0000ff;background-color: #c0c0c0;text-decoration: underlin=
+e;">Student</span><span style=3D"font-family: 'Times New Roman';font-size: =
+12.0pt;color: #0000ff;text-decoration: underline;"> rights, responsibilitie=
+s and disclosures</span></a><span style=3D"font-family: 'Times New Roman';f=
+ont-size: 12.0pt;color: #000000;"><i>.</i></span></p></li></ul><p style=3D"=
+margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.3=
+99pt;"><br></p></td></tr></table><p style=3D"margin-top: 0.0pt;margin-botto=
+m: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><br></p><p style=3D"lin=
+e-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt=
+;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-size: 10.=
+0pt;color: #262626;"><i>Thank you.</i></span></p><p style=3D"margin-top: 0.=
+0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><br></p=
+><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;marg=
+in-right: 5.399pt;"><br></p></td><td valign=3D"top" style=3D"word-wrap:brea=
+k-word;border-left-width: 0.5pt;border-left-color: #000000;border-left-styl=
+e: solid;width:27.941%;background-color: #ffffff;"><p style=3D"line-height:=
+ 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin=
+-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;col=
+or: #000000;">Have questions? </span></p><p style=3D"line-height: 11.56pt;m=
+argin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.=
+399pt;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #00000=
+0;">We're here to help. </span></p><p style=3D"margin-top: 0.0pt;margin-bot=
+tom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><img src=3D"cid:xdo=
+imgdWxtYnffdZ1084126214048753835jpg" style=3D"width:139.177pt;height:0.75pt=
+;" alt=3D"An Image"><br></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.=
+0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><br></p><p style=3D"line-h=
+eight: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;=
+margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-size: 10.0=
+pt;color: #000000;"><b>Columbus campus students: </b></span></p><p style=3D=
+"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: =
+5.399pt;"><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin=
+-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"=
+font-family: 'Arial';font-size: 10.0pt;color: #bb0000;"><b>Student Service =
+Center (SSC)</b></span></p><p style=3D"line-height: 11.56pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span =
+style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">E-mail: </=
+span><a href=3D"mailto:ssc@osu.edu"><span style=3D"font-family: 'Arial';fon=
+t-size: 10.0pt;color: #bb0000;text-decoration: underline;">ssc@osu.edu</spa=
+n></a></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom:=
+ 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-fam=
+ily: 'Arial';font-size: 10.0pt;color: #000000;">Phone: (614) 292-0300</span=
+></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0p=
+t;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: =
+'Arial';font-size: 10.0pt;color: #000000;">Toll-free: (800) 678-6440</span>=
+</p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt=
+;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: '=
+Arial';font-size: 10.0pt;color: #000000;">Fax: (614) 292-5587</span></p><p =
+style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin=
+-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';=
+font-size: 10.0pt;color: #000000;">Web: </span><a href=3D"http://ssc.osu.ed=
+u"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #bb0000;tex=
+t-decoration: underline;">ssc.osu.edu</span></a></p><p style=3D"margin-top:=
+ 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><b=
+r></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0=
+pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family:=
+ 'Arial';font-size: 10.0pt;color: #bb0000;">Walk in</span><span style=3D"fo=
+nt-family: 'Arial';font-size: 10.0pt;color: #000000;"> </span></p><p style=
+=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-=
+size: 10.0pt;color: #000000;">Lobby, SAS Building </span></p><p style=3D"li=
+ne-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.39=
+9pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-size: =
+10.0pt;color: #000000;">281 W. Lane Ave. [</span><a href=3D"http://www.osu.=
+edu/map/building.php?building=3D160"><span style=3D"font-family: 'Arial';fo=
+nt-size: 10.0pt;color: #bb0000;text-decoration: underline;">map</span></a><=
+span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">]</sp=
+an></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.39=
+9pt;margin-right: 5.399pt;"><br></p><p style=3D"line-height: 11.56pt;margin=
+-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt=
+;"><span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #bb0000;">S=
+SC hours</span><span style=3D"font-family: 'Arial';font-size: 10.0pt;color:=
+ #000000;"> </span></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;m=
+argin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span styl=
+e=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">M thru Th: 9 t=
+o 5</span></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bot=
+tom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font=
+-family: 'Arial';font-size: 10.0pt;color: #000000;">F: 9 to 4 </span></p><p=
+ style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margi=
+n-right: 5.399pt;"><img src=3D"cid:xdoimgKRH3I7oYue6601956565587467498jpg" =
+style=3D"width:139.177pt;height:0.75pt;" alt=3D"An Image"><br></p><p style=
+=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-righ=
+t: 5.399pt;"><br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;mar=
+gin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=
+=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;"><b>Regional cam=
+pus/ATI students:</b></span></p><p style=3D"line-height: 11.56pt;margin-top=
+: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><=
+span style=3D"font-family: 'Arial';font-size: 10.0pt;color: #000000;">Conta=
+ct the financial aid office on your campus.</span></p><p style=3D"margin-to=
+p: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;">=
+<br></p><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0=
+.0pt;margin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-famil=
+y: 'Arial';font-size: 10.0pt;color: #000000;">ATI: (330) 287-1214</span></p=
+><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;ma=
+rgin-left: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Ari=
+al';font-size: 10.0pt;color: #000000;">Lima: (419) 995-8147</span></p><p st=
+yle=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-l=
+eft: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';fo=
+nt-size: 10.0pt;color: #000000;">Mansfield: (419) 755-4317</span></p><p sty=
+le=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-le=
+ft: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';fon=
+t-size: 10.0pt;color: #000000;">Marion: (740) 725-6389</span></p><p style=
+=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-=
+size: 10.0pt;color: #000000;">Newark: (740) 366-9364 </span></p><p style=3D=
+"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: =
+5.399pt;"><br></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin=
+-left: 5.399pt;margin-right: 5.399pt;"><img src=3D"cid:xdoimg1al4Fk8xoB8320=
+804281905967772jpg" style=3D"width:139.177pt;height:0.75pt;" alt=3D"An Imag=
+e"><br></p><p style=3D"margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: =
+5.399pt;margin-right: 5.399pt;"><br></p><p style=3D"margin-top: 0.0pt;margi=
+n-bottom: 0.0pt;margin-left: 9.0pt;margin-right: 5.399pt;"><br></p><p style=
+=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left=
+: 5.399pt;margin-right: 5.399pt;"><span style=3D"font-family: 'Arial';font-=
+size: 10.0pt;color: #000000;">Applying for and keeping financial aid:</span=
+><span style=3D"font-family: 'Courier';font-size: 10.0pt;color: #000000;"> =
+</span><a href=3D"http://www.sfa.osu.edu"><span style=3D"font-family: 'Aria=
+l';font-size: 10.0pt;color: #bb0000;text-decoration: underline;">sfa.osu.ed=
+u</span></a></p></td></tr><tr style=3D"height: 11.81pt;"><td valign=3D"top"=
+ colspan=3D"2" style=3D"word-wrap:break-word;border-top-width: 0.5pt;border=
+-top-color: #000000;border-top-style: solid;width:100.0%;background-color: =
+#ffffff;"><p style=3D"line-height: 11.56pt;margin-top: 0.0pt;margin-bottom:=
+ 0.0pt;margin-left: 10.8pt;margin-right: 10.799pt;"><span style=3D"font-fam=
+ily: 'Arial';font-size: 10.0pt;color: #000000;">The Ohio State University |=
+ Enrollment Services | Columbus | OH | 43210</span></p><p style=3D"margin-t=
+op: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><=
+br></p></td></tr><tr style=3D"height: 11.56pt;"><td valign=3D"top" colspan=
+=3D"2" style=3D"word-wrap:break-word;width:100.0%;background-color: #ffffff=
+;"><p style=3D"text-align: right;line-height: 11.56pt;margin-top: 0.0pt;mar=
+gin-bottom: 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;"><span style=3D=
+"font-family: 'Arial';font-size: 10.0pt;color: #000000;">CODE: FAN-F</span>=
+</p></td></tr></table></body></html>=
+
+------=_Part_44110_499981151.1458789821520
+Content-Type: image/jpeg; name="xdoimg1al4Fk8xoB8320804281905967772.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimg1al4Fk8xoB8320804281905967772jpg>
+Content-Disposition: inline;
+	filename="xdoimg1al4Fk8xoB8320804281905967772.jpg"
+Content-Description: xdoimg1al4Fk8xoB8320804281905967772.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44110_499981151.1458789821520
+Content-Type: image/jpeg; name="xdoimgdWxtYnffdZ1084126214048753835.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgdWxtYnffdZ1084126214048753835jpg>
+Content-Disposition: inline;
+	filename="xdoimgdWxtYnffdZ1084126214048753835.jpg"
+Content-Description: xdoimgdWxtYnffdZ1084126214048753835.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44110_499981151.1458789821520
+Content-Type: image/jpeg; name="xdoimgKRH3I7oYue6601956565587467498.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgKRH3I7oYue6601956565587467498jpg>
+Content-Disposition: inline;
+	filename="xdoimgKRH3I7oYue6601956565587467498.jpg"
+Content-Description: xdoimgKRH3I7oYue6601956565587467498.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44110_499981151.1458789821520
+Content-Type: image/jpeg; name="xdoimgqOqTczoCA23235311830692266212.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgqOqTczoCA23235311830692266212jpg>
+Content-Disposition: inline;
+	filename="xdoimgqOqTczoCA23235311830692266212.jpg"
+Content-Description: xdoimgqOqTczoCA23235311830692266212.jpg
+
+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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=
+
+------=_Part_44110_499981151.1458789821520--
+
+------=_Part_44109_1260512058.1458789821520--

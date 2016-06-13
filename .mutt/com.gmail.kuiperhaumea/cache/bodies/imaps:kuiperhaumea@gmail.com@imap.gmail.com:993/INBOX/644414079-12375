@@ -1,0 +1,269 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp109246oid;
+        Fri, 17 Jul 2015 14:50:59 -0700 (PDT)
+X-Received: by 10.70.31.5 with SMTP id w5mr33342503pdh.3.1437169859199;
+        Fri, 17 Jul 2015 14:50:59 -0700 (PDT)
+Return-Path: <no-reply@twitch.tv>
+Received: from postfix-6b24e8.justin.tv (postfix-6b24e8.justin.tv. [199.9.254.101])
+        by mx.google.com with ESMTP id nn5si1273492pbc.21.2015.07.17.14.50.58
+        for <kuiperhaumea@gmail.com>;
+        Fri, 17 Jul 2015 14:50:59 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.101 as permitted sender) client-ip=199.9.254.101;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@twitch.tv designates 199.9.254.101 as permitted sender) smtp.mail=no-reply@twitch.tv
+Received: from rails-worker-5cb230.sfo01.justin.tv (rails-worker-5cb230.sfo01.justin.tv [199.9.251.174])
+	by postfix-6b24e8 (Postfix) with ESMTP id 33B3B6AA92E83
+	for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 14:47:40 -0700 (PDT)
+Received: from justin.tv (localhost [127.0.0.1])
+	by rails-worker-5cb230.sfo01.justin.tv (Postfix) with ESMTP id 280F83A707
+	for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 14:47:40 -0700 (PDT)
+Date: Fri, 17 Jul 2015 14:47:40 -0700
+From: Twitch <no-reply@twitch.tv>
+To: kuiperhaumea@gmail.com
+Message-ID: <55a977fc2569b_fe83ff74aa14eac25002b@rails-worker-5cb230.mail>
+Subject: ishikabe just went live on Twitch
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.o=
+rg/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+</head>
+<body style=3D"background-color:#eee;background-image:none;background-rep=
+eat:repeat;background-position:top left;background-attachment:scroll;colo=
+r:#333;font-family:Helvetica, Arial, sans-serif;line-height:1.25;-webkit-=
+text-size-adjust:100%;" >
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"100%"=
+ width=3D"100%" class=3D"body-table">
+    <tr>
+      <td align=3D"center" valign=3D"top">
+        <table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" width=3D=
+"600" class=3D"outer-email-container">
+          <tr>
+            <td align=3D"center" valign=3D"top">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" class=3D"inner-email-container" style=3D"background-color:#ff=
+f;background-image:none;background-repeat:repeat;background-position:top =
+left;background-attachment:scroll;" >
+                <!-- Email Logo -->
+                <tr>
+                  <td align=3D"center" valign=3D"top">
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" height=3D"90" width=3D"100%" class=3D"email-logo" style=3D"background-=
+color:#fff;background-image:none;background-repeat:repeat;background-posi=
+tion:top left;background-attachment:scroll;" >
+                      <tr>
+                        <td align=3D"center" valign=3D"middle">
+                          <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmV=
+sIjoiaXNoaWthYmUiLCJsb2NhdGlvbiI6ImxvZ28iLCJlbWFpbF9pZCI6IjFkZTEwNTc1YTVj=
+ODQzZmNlN2Q5ZGUwNWZlZjg3ZmQ2NWQyMGFkZGE1ZTkzZTRjMDI3ZDhmOTMwMDY5MGY3NTUiL=
+CJzb3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm=
+9yaXRlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/1659bac93b2e41a0a25ad8c8f=
+862e9113f5fde3d/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Demail">
+                            <img src=3D"http://s.jtvnw.net/jtv_user_pictu=
+res/hosted_images/twitch-email-logomark-purple.png" width=3D"102" height=3D=
+"34" alt=3D"Twitch" />
+                          </a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td align=3D"center" valign=3D"top">
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" height=3D"1" width=3D"100%" class=3D"email-divider">
+                      <tr>
+                        <td align=3D"center" valign=3D"middle" style=3D"b=
+ackground-color: #eeeeee" width=3D"249"></td>
+                        <td align=3D"center" valign=3D"middle" style=3D"b=
+ackground-color: #6441a5" width=3D"102"></td>
+                        <td align=3D"center" valign=3D"middle" style=3D"b=
+ackground-color: #eeeeee" width=3D"249"></td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <!-- Email Logo -->
+
+<!-- Email Header -->
+<tr>
+  <td align=3D"center" valign=3D"top">
+    <table border=3D"0" cellpadding=3D"40" cellspacing=3D"0" height=3D"0"=
+ width=3D"100%" class=3D"email-header">
+      <tr>
+        <td align=3D"center" valign=3D"middle">
+          <div class=3D"header-message">
+            =
+
+            Hey haumea11,
+            <strong style=3D"color:#6441a5;">
+              <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiaXNoaWt=
+hYmUiLCJsb2NhdGlvbiI6ImhlYWRlciIsImVtYWlsX2lkIjoiMWRlMTA1NzVhNWM4NDNmY2U3=
+ZDlkZTA1ZmVmODdmZDY1ZDIwYWRkYTVlOTNlNGMwMjdkOGY5MzAwNjkwZjc1NSIsInNvdXJjZ=
+V9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdX=
+AiLCJsb2dpbiI6ImhhdW1lYTExIn0=3D/28998583/12e8ea020e82aaae5d6dcd405214f7c=
+e995804a9/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Demail" style=3D=
+"color:#6441a5;text-decoration:none;">
+                =
+
+                ishikabe just went live!
+              </a>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Header -->
+
+<!-- Email Content -->
+<tr>
+  <td align=3D"center" valign=3D"top">
+    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"0" =
+width=3D"100%" class=3D"email-content">
+      <tr>
+        <td align=3D"center" valign=3D"middle">
+          <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiaXNoaWthYmU=
+iLCJsb2NhdGlvbiI6ImNoYW5uZWxfcGljdHVyZSIsImVtYWlsX2lkIjoiMWRlMTA1NzVhNWM4=
+NDNmY2U3ZDlkZTA1ZmVmODdmZDY1ZDIwYWRkYTVlOTNlNGMwMjdkOGY5MzAwNjkwZjc1NSIsI=
+nNvdXJjZV9lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3=
+JpdGVfdXAiLCJsb2dpbiI6ImhhdW1lYTExIn0=3D/28998583/055e1ae78c827a081a942e0=
+bfc93a43db3fd88c7/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Demail">=
+
+            <img src=3D"http://static-cdn.jtvnw.net/jtv_user_pictures/ish=
+ikabe-profile_image-c7a35a7898e261d5-70x70.jpeg" width=3D"64" height=3D"6=
+4" />
+          </a>
+          <div class=3D"stream-status" style=3D"color:#333;font-size:18px=
+;font-weight:bold;line-height:24px;margin-top:10px;width:70%;">
+            <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiaXNoaWthY=
+mUiLCJsb2NhdGlvbiI6ImNoYW5uZWxfc3RhdHVzIiwiZW1haWxfaWQiOiIxZGUxMDU3NWE1Yz=
+g0M2ZjZTdkOWRlMDVmZWY4N2ZkNjVkMjBhZGRhNWU5M2U0YzAyN2Q4ZjkzMDA2OTBmNzU1Iiw=
+ic291cmNlX2VtYWlsIjoidHdpdGNoX2Zhdm9yaXRlX3VwIiwibmFtZSI6InR3aXRjaF9mYXZv=
+cml0ZV91cCIsImxvZ2luIjoiaGF1bWVhMTEifQ=3D=3D/28998583/2c1ebc3e3953870395f=
+605f1ecef8054c3ed8d49/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Dema=
+il" style=3D"color:#6441a5;text-decoration:none;">
+              Hataters gonna Hatate =E1=95=95( =E1=90=9B )=E1=95=97
+            </a>
+          </div>
+          <div class=3D"stream-game" style=3D"color:#999;font-size:12px;l=
+ine-height:16px;margin-bottom:40px;">
+            <strong>
+              =
+
+              <strong>ishikabe</strong> is playing <strong>Touhou</strong=
+>
+            </strong>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Content -->
+
+<!-- Email Action -->
+<tr>
+  <td align=3D"center" valign=3D"top">
+    <table border=3D"0" cellpadding=3D"30" cellspacing=3D"0" height=3D"0"=
+ width=3D"100%" class=3D"email-action" style=3D"border-top-width:1px;bord=
+er-top-style:solid;border-top-color:#eee;">
+      <tr>
+        <td align=3D"center" valign=3D"middle">
+          <div>
+            <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiaXNoaWthY=
+mUiLCJsb2NhdGlvbiI6ImFjdGlvbiIsImVtYWlsX2lkIjoiMWRlMTA1NzVhNWM4NDNmY2U3ZD=
+lkZTA1ZmVmODdmZDY1ZDIwYWRkYTVlOTNlNGMwMjdkOGY5MzAwNjkwZjc1NSIsInNvdXJjZV9=
+lbWFpbCI6InR3aXRjaF9mYXZvcml0ZV91cCIsIm5hbWUiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAi=
+LCJsb2dpbiI6ImhhdW1lYTExIn0=3D/28998583/82e93d84675e5ea9edf64f012d3c289a5=
+bd9259a/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Demail" style=3D"b=
+ackground-color:#6441a5;color:#ffffff;display:inline-block;font-family:sa=
+ns-serif;font-size:14px;line-height:40px;margin-bottom:10px;text-align:ce=
+nter;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-h=
+ide:all;">
+              Watch Now
+            </a>
+            <br />
+            <small class=3D"alternate-link" style=3D"color:#999;font-size=
+:11px;margin-top:4px;margin-bottom:4px;margin-right:4px;margin-left:4px;"=
+>Or click on this link:
+              <a href=3D"http://www.twitch.tv/r/e/eyJjaGFubmVsIjoiaXNoaWt=
+hYmUiLCJsb2NhdGlvbiI6ImFjdGlvbl9hbHQiLCJlbWFpbF9pZCI6IjFkZTEwNTc1YTVjODQz=
+ZmNlN2Q5ZGUwNWZlZjg3ZmQ2NWQyMGFkZGE1ZTkzZTRjMDI3ZDhmOTMwMDY5MGY3NTUiLCJzb=
+3VyY2VfZW1haWwiOiJ0d2l0Y2hfZmF2b3JpdGVfdXAiLCJuYW1lIjoidHdpdGNoX2Zhdm9yaX=
+RlX3VwIiwibG9naW4iOiJoYXVtZWExMSJ9/28998583/54b5c5265f801f4320a896dc4c9fd=
+bf97bbb8110/ishikabe?tt_content=3Dttv_follow_up&tt_medium=3Demail" style=3D=
+"color:#999">
+                http://www.twitch.tv/ishikabe
+              </a>
+            </small>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+<!-- Email Action -->
+
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+          <tr>
+            <td align=3D"center" valign=3D"top">
+              <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" class=3D"email-footer" style=3D"color:#7F7F7F;font-size:12px;=
+" >
+                <tr>
+                  <td valign=3D"top">
+                    =
+
+                      =
+
+                      To stop receiving emails about ishikabe, <a href=3D=
+"http://www.twitch.tv/user/remove_me?block=3Dchannel&amp;channel_id=3D373=
+65171&amp;email_id=3D1de10575a5c843fce7d9de05fef87fd65d20adda5e93e4c027d8=
+f9300690f755&amp;user_id=3D28998583&amp;validating_hash=3D779545dbee8c855=
+ef91d4474078465ae62eacefa">click here</a>
+                      <br />
+                      To stop receiving emails about any of your favorite=
+s, <a href=3D"http://www.twitch.tv/user/remove_me?block=3Dkind&amp;email_=
+id=3D1de10575a5c843fce7d9de05fef87fd65d20adda5e93e4c027d8f9300690f755&amp=
+;email_type=3Dtwitch_favorite_up&amp;user_id=3D28998583&amp;validating_ha=
+sh=3Dca48f9aa42a926a4de6d2d052a70511e2e70f14b">click here</a>
+                      <br />
+                    =
+
+                    To stop receiving email notifications, <a href=3D"htt=
+p://www.twitch.tv/user/remove_me?block=3Dkind&amp;email_id=3D1de10575a5c8=
+43fce7d9de05fef87fd65d20adda5e93e4c027d8f9300690f755&amp;email_type=3Dall=
+&amp;source_email=3Dtwitch_favorite_up&amp;user_id=3D28998583&amp;validat=
+ing_hash=3Da04b67fdb967d47b4efc8449c31b7a15e1ccdea1">click here</a>
+                  </td>
+                  <td align=3D"right" valign=3D"top">
+                    =
+
+                    =
+
+                    &copy; 2015 Twitch. All Rights Reserved.
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- Email Footer -->
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

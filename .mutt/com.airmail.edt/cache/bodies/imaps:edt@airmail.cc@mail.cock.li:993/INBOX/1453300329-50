@@ -1,0 +1,41 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+To: mailman@lists.cock.li
+References: <56B7D74F.20600@cock.li> <56BA27AA.2060304@8chan.co>
+From: Yokes! <paul@420blaze.it>
+Message-ID: <56BA5179.3040302@420blaze.it>
+Date: Tue, 9 Feb 2016 20:52:09 +0000
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <56BA27AA.2060304@8chan.co>
+Subject: Re: [cock.li] TIL github blindly trusts the email in a commit
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+U28sIHBlb3BsZSB3aG8gY2FyZSBhYm91dCB1c2luZyB0aGVpciBnaXRodWIgcHJvZmlsZSBpbiBh
+IENWIGNhbiBiZQpmdWNrZWQgd2l0aC4KCk9yLCBtb3JlIG5vdGFibHksIHBlb3BsZSB3aG8gYXJl
+IHRlY2huaWNhbGx5IGluZXB0IGFuZCBwdXNoaW5nIGZvciBjb2RlcwpvZiBjb25kdWN0IGluIFNX
+IHByb2plY3RzIHB1cmVseSB0byBmdWNrIHdpdGggcGVvcGxlLgoKT24gMDkvMDIvMTYgMTc6NTMs
+IENyaXN0aWFuIHdyb3RlOgo+IFNvIHdoYXQ/Cj4gCj4gT24gMDIvMDgvMjAxNiAxMjo0NiBBTSwg
+YWxleHNrYyB3cm90ZToKPj4gaHR0cHM6Ly9naXRodWIuY29tL2pheXBoZWxwcy9naXQtYmxhbWUt
+c29tZW9uZS1lbHNlL2NvbW1pdC9lNWNmZTRiYjIxOTBhMmFlNDA2ZDVmMGI4ZjQ5YzMyYWMwZjAx
+Y2Q3Cj4+Cj4+Cj4+Cj4+IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwo+PiA4PT09W2Nv
+Y2subGkgbWFpbGluZyBsaXN0XT09PUQKPj4KPiAKPiAKPiAKPiBfX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX18KPiA4PT09W2NvY2subGkgbWFpbGluZyBsaXN0XT09PUQKPiAKX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fCjg9PT1bY29jay5saSBtYWlsaW5nIGxpc3RdPT09RA==

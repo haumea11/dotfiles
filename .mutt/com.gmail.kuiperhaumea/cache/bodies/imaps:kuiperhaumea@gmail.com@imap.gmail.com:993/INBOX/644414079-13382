@@ -1,0 +1,1227 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp1305346oig;
+        Thu, 10 Sep 2015 15:16:28 -0700 (PDT)
+X-Received: by 10.180.86.100 with SMTP id o4mr10338143wiz.59.1441923387972;
+        Thu, 10 Sep 2015 15:16:27 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22f.google.com (mail-wi0-x22f.google.com. [2a00:1450:400c:c05::22f])
+        by mx.google.com with ESMTPS id gk10si21622068wjb.110.2015.09.10.15.16.27
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Sep 2015 15:16:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22f as permitted sender) client-ip=2a00:1450:400c:c05::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22f as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x22f.google.com with SMTP id fx3so36695079wic.0
+        for <kuiperhaumea@gmail.com>; Thu, 10 Sep 2015 15:16:27 -0700 (PDT)
+X-Received: by 10.180.188.12 with SMTP id fw12mr10767121wic.69.1441923387350;
+        Thu, 10 Sep 2015 15:16:27 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1136872wmw;
+        Thu, 10 Sep 2015 15:16:26 -0700 (PDT)
+X-Received: by 10.50.50.198 with SMTP id e6mr10464830igo.13.1441923386032;
+        Thu, 10 Sep 2015 15:16:26 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id 88si12178579ioi.7.2015.09.10.15.16.25
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Sep 2015 15:16:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=HMquY8T/LwEde7/HHa4JqbiWnhY=; b=GqIBaWbUHCx8CXBtZmKvgazd9mKg4
+	4+ugQZtrfF9Lnaq1sB7FB62QeXa6slbbhCMuF6lA/wq7sgAkyvF+Jc31JFDpn3Gh
+	km02P4LnxnSebGaofLSIWbJmVON5/JAXD5iTLJpa/ihWnAo4mi4EEjvTG1+Kfv/z
+	lQ2h8mLui4lD60=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=HMquY8T/LwEde7/HHa4JqbiWnhY=; b=RrwyEA4XiPVfFjY63ObOdEk0G1C0q
+	kwAFrAUaXLyN4AlZbqvpn/1cu/0cJTYWZPz+OszZTmnehjtVhSgr6o/YRbHkjHYX
+	u8PQmD1bSuLby7InghtXa8XGdWl+zFYXQFOlwycab82xXI0VEdfNiEjTls/j6Dbs
+	PdDIoiGu2rNM2o=
+Received: by filter0552p1mdw1.sendgrid.net with SMTP id filter0552p1mdw1.22267.55F2013738
+        2015-09-10 22:16:23.615842824 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id u831nr7QSDKxTNsU4D0xQA
+	for <markiewicz.john@gmail.com>; Thu, 10 Sep 2015 22:16:23.582 +0000 (UTC)
+From: "QuestBridge" <questions@questbridge.org>
+To: <markiewicz.john@gmail.com>
+Subject: Urgent Reminder: Full Rides to Ivies
+Date: Thu, 10 Sep 2015 22:16:12 +0000
+Message-ID: <92b344d2-2287-4a9f-9161-d6514d4bb5d2@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_440c3cdc-24b0-4167-94b2-5a87f3c350ac"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuHVgwYIlEyHlcUBkOqQQl4YL/Ksx0Ls+4lN7+
+ A2i0RaRbtasaOP2TbGg+k021wpDqs2/C8k043LoedLPspEhJp2RzLQfAyv8Q6o92v+wiCyKMWjSZzr
+ To3FOP16130/xJEyZyH7/v0JYnZKbiOWw8Hb
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegIuSgzu50RaEr4wVFBNtQHppyLvBsbTb+MuV+nC6nEEpHOMEiGefPa8SI7
+ aEx46q4PVYUjnY7chd/4kDDcWvn4D+ElvdNwNo3Jyw1ip1vc+LjFWhHz+wHmrbUO0S6hWzvPn1TpSx
+ 6qJ1VxAgX/ZTuUX9x+ClXnEXEPT6U+JXy2Bz93YCEF3q4EQxNa3/1X28wr4Jr7jKX53o31TkNefWul
+ Z28Wez5ibmqvBIrGBoZpXZ
+
+------=_0_440c3cdc-24b0-4167-94b2-5a87f3c350ac
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+Dear John,
+
+The deadline to apply for the National College Match <http://www.questbridg=
+e.org/for-students/ncm-national-college-match> is quickly approaching, on S=
+eptember 28, 2015, at 11:59 p.m. PDT. We believe you have outstanding poten=
+tial to be a strong candidate and we're still awaiting your application. St=
+art your application <https://apply.questbridge.org/apply> now, before it's=
+ too late.
+
+By applying for the National College Match, you could receive a full four-y=
+ear scholarship or a generous financial aid package to attend one of the na=
+tion's best colleges <http://www.questbridge.org/partner-colleges/overview-=
+listing>, including Amherst, Stanford, and Yale.
+
+Thousands of Quest Scholars currently attend a top-tier college for free be=
+cause they dared to dream big. Will you dream big, too? Complete your appli=
+cation <https://apply.questbridge.org/apply/> before it's too late.
+
+If you have any questions, please visit AskQB <https://questbridge.zendesk.=
+com/home>.
+
+Kind regards,
+
+Ana McCullough
+QuestBridge Co-Founder and CEO
+
+
+
+
+ <https://questbridge.zendesk.com/home>     <https://www.facebook.com/Quest=
+Bridge>     <https://twitter.com/QuestBridge>     <http://www.youtube.com/u=
+ser/QuestBridge>     <http://instagram.com/we_are_questbridge>    <http://t=
+hebridgeblog.org/>115 Everett Avenue, Palo Alto, California, 94301
+QuestBridge is a registered 501(c)(3) non-profit organization.
+
+
+This email was sent to markiewicz.john@gmail.com by QuestBridge.
+Unsubscribe from QuestBridge. <https://apply.questbridge.org/go?r=3Doptout&=
+mid=3D92b344d2-2287-4a9f-9161-d6514d4bb5d2>=
+
+------=_0_440c3cdc-24b0-4167-94b2-5a87f3c350ac
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+ /><style type=3D"text/css">
+/**/
+body {
+  margin: 0;
+  mso-line-height-rule: exactly;
+  padding: 0;
+  min-width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+td {
+  padding: 0;
+  vertical-align: top;
+}
+.spacer,
+.border {
+  font-size: 1px;
+  line-height: 1px;
+}
+.spacer {
+  width: 100%;
+}
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+.image {
+  font-size: 0;
+  Margin-bottom: 26px;
+}
+.image img {
+  display: block;
+}
+.logo {
+  mso-line-height-rule: at-least;
+}
+.logo img {
+  display: block;
+}
+strong {
+  font-weight: bold;
+}
+h1,
+h2,
+h3,
+p,
+ol,
+ul,
+li {
+  Margin-top: 0;
+}
+ol,
+ul,
+li {
+  padding-left: 0;
+}
+blockquote {
+  Margin-top: 0;
+  Margin-right: 0;
+  Margin-bottom: 0;
+  padding-right: 0;
+}
+.column-top {
+  font-size: 52px;
+  line-height: 52px;
+}
+.column-bottom {
+  font-size: 26px;
+  line-height: 26px;
+}
+.column {
+  text-align: left;
+}
+.contents {
+  width: 100%;
+}
+.padded {
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.wrapper {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  min-width: 620px;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+table.wrapper {
+  table-layout: fixed;
+}
+.one-col,
+.two-col,
+.three-col {
+  Margin-left: auto;
+  Margin-right: auto;
+  width: 600px;
+}
+.centered {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.two-col .image {
+  Margin-bottom: 22px;
+}
+.two-col .column-bottom {
+  font-size: 30px;
+  line-height: 30px;
+}
+.two-col .column {
+  width: 300px;
+}
+.two-col .padded {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.three-col .image {
+  Margin-bottom: 21px;
+}
+.three-col .column-bottom {
+  font-size: 31px;
+  line-height: 31px;
+}
+.three-col .column {
+  width: 200px;
+}
+.three-col .padded {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+@media only screen and (min-width: 0) {
+  .wrapper {
+    text-rendering: optimizeLegibility;
+  }
+}
+@media only screen and (max-width: 620px) {
+  [class=3Dwrapper] {
+    min-width: 320px !important;
+    width: 100% !important;
+  }
+  [class=3Dwrapper] .one-col,
+  [class=3Dwrapper] .two-col,
+  [class=3Dwrapper] .three-col {
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .column,
+  [class=3Dwrapper] .gutter {
+    display: block;
+    float: left;
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .padded {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+  [class=3Dwrapper] .block {
+    display: block !important;
+  }
+  [class=3Dwrapper] .hide {
+    display: none !important;
+  }
+  [class=3Dwrapper] .image {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .image img {
+    height: auto !important;
+    width: 100% !important;
+  }
+}
+.shadow {
+  font-size: 2px;
+  line-height: 2px;
+}
+.one-col-bg,
+.two-col-bg,
+.three-col-bg,
+.one-col-feature-bg {
+  width: 100%;
+}
+.wrapper h1 {
+  font-size: 36px;
+  Margin-bottom: 24px;
+}
+.wrapper h2 {
+  font-size: 26px;
+  Margin-bottom: 20px;
+}
+.wrapper h3 {
+  font-size: 16px;
+  Margin-bottom: 16px;
+}
+.wrapper p,
+.wrapper ol,
+.wrapper ul {
+  font-size: 16px;
+}
+.wrapper p a,
+.wrapper ol a,
+.wrapper ul a {
+  text-decoration: underline;
+}
+.wrapper p a:hover,
+.wrapper ol a:hover,
+.wrapper ul a:hover {
+  text-decoration: none;
+}
+.wrapper ol,
+.wrapper ul {
+  Margin-left: 30px;
+}
+.wrapper li {
+  Margin-bottom: 13px;
+}
+.wrapper a {
+  text-decoration: none;
+  transition: all 0.2s;
+}
+.wrapper blockquote {
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.wrapper blockquote p {
+  text-align: center;
+}
+.wrapper blockquote :last-child {
+  Margin-bottom: 0 !important;
+}
+.btn {
+  Margin-bottom: 26px;
+  padding-bottom: 2px;
+}
+.btn a {
+  background-image: url(https://i3.createsend1.com/static/eb/master/05-slat=
+e/images/btn.png);
+  background-repeat: repeat-x;
+  background-position: left top;
+  border-radius: 3px;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 13px 35px 12px 35px;
+  text-align: center;
+  text-decoration: none;
+}
+.divider {
+  font-size: 4px;
+  line-height: 4px;
+}
+.one-col .column table:nth-last-child(2) td h1:last-child,
+.one-col .column table:nth-last-child(2) td h2:last-child,
+.one-col .column table:nth-last-child(2) td h3:last-child,
+.one-col .column table:nth-last-child(2) td p:last-child,
+.one-col .column table:nth-last-child(2) td ol:last-child,
+.one-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 26px;
+}
+.one-col h1,
+.one-col .btn {
+  text-align: center;
+}
+.one-col blockquote {
+  Margin-bottom: 26px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.one-col blockquote p,
+.one-col blockquote ol,
+.one-col blockquote ul {
+  font-size: 18px;
+  line-height: 32px;
+  Margin-left: -65px;
+  Margin-right: -65px;
+}
+.one-col .divider {
+  Margin-left: 185px;
+  Margin-right: 185px;
+  Margin-bottom: 26px;
+}
+.two-col .column table:nth-last-child(2) td h1:last-child,
+.two-col .column table:nth-last-child(2) td h2:last-child,
+.two-col .column table:nth-last-child(2) td h3:last-child,
+.two-col .column table:nth-last-child(2) td p:last-child,
+.two-col .column table:nth-last-child(2) td ol:last-child,
+.two-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 22px;
+}
+.two-col h1 {
+  font-size: 26px;
+  Margin-bottom: 24px;
+}
+.two-col h2 {
+  font-size: 20px;
+  Margin-bottom: 16px;
+}
+.two-col h3 {
+  font-size: 14px;
+  Margin-bottom: 12px;
+}
+.two-col p,
+.two-col ol,
+.two-col ul {
+  font-size: 14px;
+}
+.two-col ol,
+.two-col ul {
+  Margin-left: 26px;
+}
+.two-col li {
+  Margin-bottom: 11px;
+}
+.two-col .btn {
+  Margin-bottom: 22px;
+}
+.two-col .btn a {
+  font-size: 12px;
+  line-height: 22px;
+  padding: 10px 28px;
+}
+.two-col .divider {
+  Margin-left: 100px;
+  Margin-right: 100px;
+  Margin-bottom: 22px;
+}
+.two-col blockquote {
+  Margin-bottom: 22px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+.two-col blockquote p,
+.two-col blockquote ol,
+.two-col blockquote ul {
+  font-size: 16px;
+  line-height: 24px;
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.three-col .column table:nth-last-child(2) td h1:last-child,
+.three-col .column table:nth-last-child(2) td h2:last-child,
+.three-col .column table:nth-last-child(2) td h3:last-child,
+.three-col .column table:nth-last-child(2) td p:last-child,
+.three-col .column table:nth-last-child(2) td ol:last-child,
+.three-col .column table:nth-last-child(2) td ul:last-child {
+  Margin-bottom: 21px;
+}
+.three-col h1 {
+  font-size: 20px;
+  Margin-bottom: 14px;
+}
+.three-col h2 {
+  font-size: 16px;
+  Margin-bottom: 12px;
+}
+.three-col h3 {
+  font-size: 13px;
+  Margin-bottom: 10px;
+}
+.three-col p,
+.three-col ol,
+.three-col ul {
+  font-size: 13px;
+}
+.three-col ol,
+.three-col ul {
+  Margin-left: 20px;
+}
+.three-col li {
+  Margin-bottom: 10px;
+}
+.three-col .btn {
+  Margin-bottom: 21px;
+}
+.three-col .btn a {
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 19px;
+  padding: 6px 18px 5px 18px;
+}
+.three-col .divider {
+  Margin-left: 65px;
+  Margin-right: 65px;
+  Margin-bottom: 21px;
+}
+.three-col blockquote {
+  padding: 12px 0;
+  Margin-bottom: 21px;
+}
+.three-col blockquote p,
+.three-col blockquote ol,
+.three-col blockquote ul {
+  font-size: 15px;
+  line-height: 23px;
+}
+.one-col-feature .column {
+  width: 600px;
+}
+.one-col-feature .column-top {
+  font-size: 64px;
+  line-height: 64px;
+}
+.one-col-feature .column-bottom {
+  font-size: 38px;
+  line-height: 38px;
+}
+.one-col-feature h1,
+.one-col-feature h2,
+.one-col-feature h3 {
+  text-align: center;
+}
+.one-col-feature h2 {
+  font-weight: 400;
+}
+.one-col-feature p {
+  text-align: center;
+}
+.one-col-feature blockquote {
+  background-image: url(https://i5.createsend1.com/static/eb/master/05-slat=
+e/images/blockquote.png);
+  background-repeat: no-repeat;
+  background-position: center top;
+  border-top: 0 solid transparent;
+  border-bottom: 0 solid transparent;
+  Margin-bottom: 23px;
+  padding-top: 38px;
+  padding-bottom: 0;
+}
+.one-col-feature blockquote p,
+.one-col-feature blockquote ol,
+.one-col-feature blockquote ul {
+  Margin-left: 0;
+  Margin-right: 0;
+}
+.one-col-feature .btn {
+  text-align: center;
+}
+.one-col-feature .divider {
+  Margin-left: 185px;
+  Margin-right: 185px;
+  Margin-bottom: 26px;
+}
+.preheader {
+  width: 100%;
+}
+.preheader td,
+.preheader p {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 17px;
+  width: 50%;
+}
+.preheader .title,
+.preheader .webversion {
+  padding: 8px 32px;
+}
+.preheader .title {
+  text-align: left;
+}
+.preheader .webversion {
+  text-align: right;
+}
+.header {
+  width: 100%;
+}
+.logo {
+  padding-top: 16px;
+  padding-bottom: 32px;
+  font-size: 24px;
+  letter-spacing: -0.01em;
+  line-height: 32px;
+  width: 600px;
+}
+.logo a {
+  text-decoration: none;
+}
+.logo .logo-center {
+  text-align: center;
+}
+.logo .logo-center img {
+  Margin-left: auto;
+  Margin-right: auto;
+}
+.preheader a,
+.footer a {
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+.footer {
+  width: 100%;
+}
+.footer .inner {
+  padding-top: 60px;
+  padding-bottom: 55px;
+}
+.footer .cols {
+  width: 600px;
+}
+.footer .left,
+.footer .right,
+.footer p {
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+  line-height: 17px;
+  padding-bottom: 22px;
+}
+.footer .left {
+  text-align: left;
+  width: 55%;
+  padding-right: 5px;
+}
+.footer .right {
+  text-align: right;
+  width: 45%;
+  padding-left: 5px;
+}
+.footer td.spacer {
+  width: 7px;
+}
+.footer .social span {
+  mso-text-raise: 6px;
+}
+.footer .social td {
+  padding-right: 15px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 11px;
+}
+.footer .social a {
+  display: block;
+  line-height: 21px;
+  transition: opacity 0.2s;
+}
+.footer .social a:hover {
+  opacity: 0.75;
+}
+@media (min-width: 0) {
+  body {
+    min-width: 100% !important;
+  }
+  [class=3Dwrapper] {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 620px) {
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h1:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h1:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h1:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h2:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h2:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h2:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+h3:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+h3:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d h3:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+p:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+p:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d p:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+ol:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+ol:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d ol:last-child,
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+ul:last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+ul:last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d ul:last-child {
+    Margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .one-col .column:last-child table:nth-last-child(2) td =
+blockquote :last-child,
+  [class=3Dwrapper] .two-col .column:last-child table:nth-last-child(2) td =
+blockquote :last-child,
+  [class=3Dwrapper] .three-col .column:last-child table:nth-last-child(2) t=
+d blockquote :last-child {
+    margin-bottom: 0 !important;
+  }
+  [class=3Dwrapper] .preheader {
+    display: none;
+  }
+  [class=3Dwrapper] .header {
+    margin: 0 auto !important;
+  }
+  [class=3Dwrapper] .logo {
+    padding-top: 32px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    width: 280px !important;
+  }
+  [class=3Dwrapper] .logo img {
+    max-width: 280px !important;
+    height: auto !important;
+  }
+  [class=3Dwrapper] .footer .inner {
+    padding-top: 76px !important;
+  }
+  [class=3Dwrapper] .footer .cols {
+    width: 320px !important;
+  }
+  [class=3Dwrapper] .footer .left,
+  [class=3Dwrapper] .footer .right {
+    display: block !important;
+    width: 300px !important;
+    text-align: center !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    margin: 0 auto !important;
+  }
+  [class=3Dwrapper] .social {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  [class=3Dwrapper] .social .spacer {
+    display: none !important;
+  }
+  [class=3Dwrapper] .social td {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    display: block !important;
+  }
+  [class=3Dwrapper] .social td:last-child {
+    padding-bottom: 30px !important;
+  }
+  [class=3Dwrapper] .first .column-bottom,
+  [class=3Dwrapper] .second .column-top,
+  [class=3Dwrapper] .three-col .second .column-bottom,
+  [class=3Dwrapper] .three-col .third .column-top {
+    display: none;
+  }
+  [class=3Dwrapper] h1 {
+    font-size: 36px !important;
+    margin-bottom: 24px !important;
+  }
+  [class=3Dwrapper] h2 {
+    font-size: 26px !important;
+    margin-bottom: 20px !important;
+  }
+  [class=3Dwrapper] h3 {
+    font-size: 16px !important;
+    line-height: 24px !important;
+    margin-bottom: 16px !important;
+  }
+  [class=3Dwrapper] p,
+  [class=3Dwrapper] ol,
+  [class=3Dwrapper] ul {
+    font-size: 16px !important;
+    line-height: 26px !important;
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] ol,
+  [class=3Dwrapper] ul {
+    margin-left: 32px !important;
+  }
+  [class=3Dwrapper] li {
+    margin-bottom: 13px !important;
+  }
+  [class=3Dwrapper] .image {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .divider {
+    Margin-left: 115px !important;
+    Margin-right: 115px !important;
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .btn {
+    margin-bottom: 26px !important;
+  }
+  [class=3Dwrapper] .btn a {
+    display: block !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+    line-height: 24px !important;
+    padding: 13px 10px 12px 10px !important;
+  }
+  [class=3Dwrapper] blockquote {
+    border-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 16px !important;
+    padding-bottom: 0 !important;
+  }
+  [class=3Dwrapper] blockquote:after {
+    border-top: inherit;
+    content: '';
+    display: block;
+    height: 26px;
+    margin-top: 16px;
+  }
+  [class=3Dwrapper] blockquote p,
+  [class=3Dwrapper] blockquote ol,
+  [class=3Dwrapper] blockquote ul {
+    font-size: 18px !important;
+    line-height: 32px !important;
+    margin-left: -10px !important;
+    margin-right: -10px !important;
+  }
+  [class=3Dwrapper] blockquote ol,
+  [class=3Dwrapper] blockquote ul {
+    margin-left: 10px !important;
+  }
+  [class=3Dwrapper] blockquote :last-child {
+    margin-bottom: 0 !important;
+  }
+  [class=3Dwrapper] .one-col-feature .column-top {
+    font-size: 62px !important;
+    line-height: 62px !important;
+  }
+  [class=3Dwrapper] .one-col-feature .column-bottom {
+    font-size: 38px !important;
+    line-height: 38px !important;
+  }
+  [class=3Dwrapper] .one-col-feature blockquote {
+    padding-top: 38px !important;
+    padding-bottom: 25px !important;
+  }
+  [class=3Dwrapper] .one-col-feature blockquote:after {
+    display: none;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and=
+ (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-rat=
+io: 2/1), only screen and (min-device-pixel-ratio: 2), only screen and (min=
+-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  [class=3Dwrapper] .one-col-feature blockquote {
+    background-image: url(https://i4.createsend1.com/static/eb/master/05-sl=
+ate/images/blockquote@2x.png) !important;
+    background-size: 28px 26px !important;
+  }
+  [class=3Dwrapper] .footer .twitter {
+    background-image: url(https://i8.createsend1.com/static/eb/master/05-sl=
+ate/images/twitter@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+  [class=3Dwrapper] .footer .facebook {
+    background-image: url(https://i6.createsend1.com/static/eb/master/05-sl=
+ate/images/facebook@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+  [class=3Dwrapper] .footer .forward {
+    background-image: url(https://i7.createsend1.com/static/eb/master/05-sl=
+ate/images/forward@2x.gif) !important;
+    background-size: 150px 43px;
+  }
+}
+/**/
+</style><meta name=3D"robots" content=3D"noindex,nofollow" /><meta property=
+=3D"og:title" content=3D"My First Campaign" /><style type=3D"text/css">
+/**/
+@import url(https://fonts.googleapis.com/css?family=3DCabin:400,700,400ital=
+ic,700italic);@media only screen and (min-width: 0){body{background-color:#=
+D7E0E6}}.wrapper,.preheader,.header,.one-col-bg,.emb-editor-canvas{backgrou=
+nd-color:#D7E0E6}h1{color:#2e3b4e}.wrapper h1{}.wrapper h1{font-family:Geor=
+gia,serif}h1{}.one-col h1,.one-col-feature h1{line-height:44px}.two-col h1{=
+line-height:34px}.three-col h1{line-height:26px}@media only screen and (max=
+-width: 620px){h1{line-height:44px !important}}h2{color:#2e3b4e}.wrapper h2=
+{}.wrapper h2{font-family:Georgia,serif}h2{}.one-col h2,.one-col-feature h2=
+{line-height:34px}.two-col h2{line-height:28px}.three-col h2{line-height:22=
+px}@media only screen and (max-width: 620px){h2{line-height:34px !important=
+}}h3{color:#2e3b4e}.wrapper h3{}.wrapper h3{font-family:Georgia,serif}h3{}.=
+one-col h3,.one-col-feature h3{line-height:24px}.two-col
+h3{line-height:22px}.three-col h3{line-height:19px}@media only screen and (=
+max-width: 620px){h3{line-height:24px !important}}p,ol,ul{color:#4e5561}.wr=
+apper p,.wrapper ol,.wrapper ul{}.wrapper p,.wrapper ol,.wrapper ul{font-fa=
+mily:Georgia,serif}p,ol,ul{}.one-col p,.one-col ol,.one-col ul,.one-col-fea=
+ture p,.one-col-feature ol,.one-col-feature ul{line-height:25px;Margin-bott=
+om:25px;font-weight:400}.two-col p,.two-col ol,.two-col ul{font-weight:400;=
+line-height:22px;Margin-bottom:22px}.three-col p,.three-col ol,.three-col u=
+l{font-weight:300;line-height:21px;Margin-bottom:21px}@media only screen an=
+d (max-width: 620px){p,ol,ul{line-height:25px !important;Margin-bottom:25px=
+ !important;font-weight:400 !important}}.wrapper a{color:#3b484e}.wrapper a=
+:hover{color:#252d31 !important}.wrapper .logo{color:#2e3b4e}.wrapper .logo=
+{font-family:Avenir,sans-serif}@media only screen and (min-width:
+0){.wrapper .logo{font-family:Cabin,Avenir,sans-serif !important}}.wrapper =
+.logo a{color:#2e3b4e}.wrapper .logo a:hover{color:#2e3b4e !important}.btn =
+a{}.wrapper .btn a{}.wrapper .btn a{font-family:Georgia,serif}.btn a{}.btn =
+a{font-weight:400}.wrapper .btn a{background-color:#555346;box-shadow:0 2px=
+ 0 #3f3d34;color:#fff;text-shadow:0 1px 0 0 1px 0 #4d4b3f}.wrapper .btn a:h=
+over{color:#fff !important;background-color:#716e5d !important;box-shadow:0=
+ 2px 0 #5b584b !important}.one-col-bg{background-color:#D7E0E6}.two-col-bg{=
+background-color:#dbdcc5}.three-col-bg{background-color:#d7d8bf}.one-col-fe=
+ature-bg{background-color:#d1d3b6}blockquote p,blockquote ol,blockquote ul{=
+}.wrapper blockquote p,.wrapper blockquote ol,.wrapper blockquote ul{}.wrap=
+per blockquote p,.wrapper blockquote ol,.wrapper blockquote ul{font-family:=
+Georgia,serif}blockquote p,blockquote ol,blockquote ul{}.one-col
+blockquote p,.one-col blockquote ol,.one-col blockquote ul,.one-col-feature=
+ blockquote p,.one-col-feature blockquote ol,.one-col-feature blockquote ul=
+{line-height:26px}.two-col blockquote p,.two-col blockquote ol,.two-col blo=
+ckquote ul{line-height:24px;font-weight:300}.three-col blockquote p,.three-=
+col blockquote ol,.three-col blockquote ul{font-weight:400;line-height:21px=
+}@media only screen and (max-width: 620px){blockquote p,blockquote ol,block=
+quote ul{line-height:26px !important}}.one-col blockquote{border-top:1px so=
+lid #cbcbba;border-bottom:1px solid #cbcbba}.one-col .divider{background-co=
+lor:#cbcbba}.two-col blockquote{border-top:1px solid #c5c6b2;border-bottom:=
+1px solid #c5c6b2}.two-col .divider{background-color:#c5c6b2}.three-col blo=
+ckquote{border-top:1px solid #c2c3ac;border-bottom:1px solid #c2c3ac}.three=
+-col .divider{background-color:#c2c3ac}.one-col-feature
+.divider{background-color:#bcbea3}.one-col-feature .shadow{background-color=
+:#bcbea3}.preheader td,.preheader p{color:#b3b3b3}.wrapper .preheader td,.w=
+rapper .preheader p{}.wrapper .preheader td,.wrapper .preheader p{font-fami=
+ly:Georgia,serif}.preheader td,.preheader p{}.preheader td a,.preheader p a=
+{font-weight:700}.wrapper .preheader a,.wrapper .footer a{color:#b3b3b3}.wr=
+apper .preheader a:hover,.wrapper .footer a:hover{color:#8d8d8d !important}=
+.footer{background-color:#D7E0E6}.footer .left,.footer .right,.footer p{col=
+or:#b3b3b3}.wrapper .footer .left,.wrapper .footer .right,.wrapper .footer =
+p{}.wrapper .footer .left,.wrapper .footer .right,.wrapper .footer p{font-f=
+amily:Georgia,serif}.footer .left,.footer .right,.footer p{}.footer .left a=
+,.footer .right a,.footer p a{font-weight:700}.footer .social a{}.footer .s=
+ocial a{font-family:Georgia,serif}@media
+(min-width:0){body{background-color:#e1e2cf}}
+/**/
+</style>
+</head>
+<body style=3D"margin: 0;mso-line-height-rule: exactly;padding: 0;min-width=
+: 100%"><style>@media only screen and (max-width: 660px) { .deliver_unsubsc=
+ribe { width: 100%; } }</style><font face=3D"Times New Roman, Times, serif"=
+ size=3D"3"><div style=3D"font-family: Times New Roman, Times, serif; font-=
+size: 12pt;"><!--[if (gte mso 9)|(IE)]>
+                <style>
+                        body {
+                          background-color: #ffffff;
+                        }
+                </style>
+                <![endif]--><center class=3D"wrapper" style=3D"display: tab=
+le;table-layout: fixed;width: 100%;min-width: 620px;-webkit-text-size-adjus=
+t: 100%;-ms-text-size-adjust: 100%;background-color: #D7E0E6"><table class=
+=3D"preheader" style=3D"border-collapse: collapse;border-spacing: 0;width: =
+100%;background-color: #e1e2cf"><tbody><tr><td class=3D"title" style=3D"pad=
+ding: 8px 32px;vertical-align: top;font-size: 11px;font-weight: 400;letter-=
+spacing: 0.01em;line-height: 17px;width: 50%;color: #b3b3b3;text-align: lef=
+t;font-family: Georgia,serif">&nbsp;</td><td class=3D"webversion" style=3D"=
+padding: 8px 32px;vertical-align: top;font-size: 11px;font-weight: 400;lett=
+er-spacing: 0.01em;line-height: 17px;width: 50%;color: #b3b3b3;text-align: =
+right;font-family: Georgia,serif">&nbsp;</td></tr></tbody></table><table cl=
+ass=3D"header" style=3D"border-collapse: collapse;border-spacing: 0;width: =
+100%;background-color: #e1e2cf"><tbody><tr><td style=3D"padding: 0;vertical=
+-align: top">&nbsp;</td><td class=3D"logo" style=3D"padding: 0;vertical-ali=
+gn: top;mso-line-height-rule: at-least;padding-top: 16px;padding-bottom: 32=
+px;font-size: 24px;letter-spacing: -0.01em;line-height: 32px;width: 600px;c=
+olor: #2e3b4e;font-family: Avenir,sans-serif"><div align=3D"center" class=
+=3D"logo-center" id=3D"emb-email-header" style=3D"text-align: center"><a hr=
+ef=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8=
+cLt4ybr-2Fsnfc-2Bn6bJc-2FuE4vbCjD1LiuZJ4AaSmWV_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv=
+1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8=
+Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWvNYOsiTDiV=
+Bd6bTU4u-2Fx3e9DMkrGLKuwAFMJ61-2Bun9MmeelUo8NFMP60k75bogpdiWt03ElRZAoXfslNJ=
+8BKbMrG83Irq6rzIQWzr-2Fr7ktOIg1GYcqWXtFpGsX5wUigRQus-2FPiakA-2BLRWQrzfl20o6=
+PIl3GOsYBnmInH9xfg9ZMw-3D-3D" style=3D"text-decoration: none;transition: al=
+l 0.2s;color: #2e3b4e" target=3D"_blank"><img alt=3D"" style=3D"border: 0px=
+; display: block; margin-left: auto; margin-right: auto; max-width: 421px; =
+width: 340px; height: 63px;" height=3D"63" width=3D"340" src=3D"https://d2y=
+48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5J=
+mD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSP5pIy2VEqlHzIlHPaLTAd7cH5zeXb9exJgJNAcBDRWh=
+BfVfYctwu41a6osT3Hav6o" /></a></div></td><td style=3D"padding: 0;vertical-a=
+lign: top">&nbsp;</td></tr></tbody></table><table class=3D"one-col-bg" styl=
+e=3D"border-collapse: collapse;border-spacing: 0;width: 100%;background-col=
+or: #e1e2cf"><tbody><tr><td align=3D"center" style=3D"padding: 0;vertical-a=
+lign: top"><table class=3D"one-col centered" style=3D"border-collapse: coll=
+apse;border-spacing: 0;Margin-left: auto;Margin-right: auto;width: 600px; b=
+ackground-color: #ffffff"><tbody><tr><td class=3D"column" style=3D"padding:=
+ 0;vertical-align: top;text-align: left"><div align=3D"center" class=3D"ima=
+ge" style=3D"font-size: 0;Margin-bottom: 26px"><a href=3D"http://mx.technol=
+utions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1vuXXZQ08Mz9flj2jJ5MOItx3yeTS=
+0LMSo6JDFyfLLf-2F_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJ=
+EA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY=
+-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWsRDAn8N1QVrqgZQklljJ6Gdsu6T0NEaF8-2F3HW=
+7DVH55BqbQx95BW-2BcyRivL5x3GrS2Io8Qh-2BQC7ABp0Yeh9Oez7et-2FVo0IrOBdp4aQVtaB=
+Yix5x0dH0Jym0mmb0PDiBIlWcRM7WIpW8KuD9xoSNWkXwFpuNJhgghRqKFO28gpvoA-3D-3D" t=
+arget=3D"_blank"><img alt=3D"Final Reminder" style=3D"border: 0px none; dis=
+play: block; width: 600px; height: 200px;" height=3D"200" width=3D"600" src=
+=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz=
+_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSPUY5mB8b8YTyzrELeTEYBj4Fkvt0=
+sG6fhf_Zme22wbBt49A2i5-GG9" /></a></div><table class=3D"contents" style=3D"=
+border-collapse: collapse;border-spacing: 0;width: 100%"><tbody><tr><td cla=
+ss=3D"padded" style=3D"padding: 0;vertical-align: top;padding-left:40px;pad=
+ding-right: 40px"><p style=3D"margin-top: 0px; color: rgb(78, 85, 97); font=
+-size: 14px; font-family: Georgia, serif; line-height: 25px; margin-bottom:=
+ 26px;">Dear John,<br /><br />
+The deadline to apply for the&nbsp;<a href=3D"http://mx.technolutions.net/w=
+f/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-2Fsnfc-2Bn6bJc9z27mDt4hVZ7S=
+t07kftoECTpULwPdOOlSJQoJz-2BVmGJuXwr69FiOqrwg8uedcropk-3D_fl-2FMBkJMX7HXblz=
+8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PC=
+FXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFV=
+brg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJo=
+EHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXI=
+WuOrHzOan1Bjk-2FZurM1PFNihJL-2FUidcRjQz8ecaRa7rklK7HyPTZl79uhNm8uAW5G95gZxp=
+r5SrWlcYFgIieonDxi5ib2ekmnE4VzZx-2F6xZ3QbANcItFB07ispQZH2Ij1kUqNo9GeDpGrtIZ=
+n2laGZYsVsqae8jl5BHTHv5VqIpPA-3D-3D">National College Match</a> is quickly =
+approaching, on <strong>September 28, 2015,&nbsp;</strong>at <strong>11:59 =
+p.m. PDT.</strong> We believe you have outstanding potential to be a strong=
+ candidate and we&#8217;re still awaiting your application. <a href=3D"http=
+://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1vuXXZQ08Mz9flj2=
+jJ5MOItx3yeTS0LMSo6JDFyfLLf-2F_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluM=
+TS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-=
+2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5=
+nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0=
+QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWt5iQEHWWRb1l5Fm8L9MjNCmcbK=
+h-2BhPt4tdSOtwoGye7wOT2g4B-2BecUrw4OQ8admdsaSVmEGRuhWeJ79vZkST6W6K3f-2Ffxj0=
+fkDWnLECh9I7tM-2BUUdh4GgxqSrY8cq2C2I3ZQczI0ilVcNaqM2fRqYvt1ZIpVTF-2FRXjwuSx=
+lanXaw-3D-3D" target=3D"_blank">Start your application</a> now, before it's=
+ too late.<br /><br />
+By applying for the National College Match, you could receive a full four-y=
+ear scholarship or a generous financial aid package to attend <a href=3D"ht=
+tp://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8d8cLt4ybr-=
+2Fsnfc-2Bn6bJc8EMQBzhlU5-2BcO7lz8Zj7Up4ZBhrEPGlqQXSf-2FvZ6jTUT-2F1rmthh3xSl=
+E8OnTmYfVc-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2z=
+wkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwx=
+fcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2=
+BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF=
+0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWtrpjJ8jYtRlkuWfrjSsG1xYB0U2w4SpvZTvU4IAnYv0=
+H94weYyHcWo5jmlhbZVtzS8alqJqRnW-2FzWOIiR4J23C-2FTLB0p-2Fok6NARzjoFU2eWuKNKW=
+18R-2FY34IqILqVh3Mhy4TS1SglQuLGm41fRjQmbgsT4t9qnDOsx5SYISLWuig-3D-3D">one o=
+f the nation's best colleges</a>, including Amherst, Stanford, and Yale.</p=
+><p style=3D"margin-top: 0px; color: rgb(78, 85, 97); font-size: 14px; font=
+-family: Georgia, serif; line-height: 25px; margin-bottom: 26px; text-align=
+: center;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cY=
+wSxRwFLjEf1vuXXZQ08Mz9flj2jJ5MOItx3qpliaDg5VLceJsdcx8V_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXw=
+rJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg=
+6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHY=
+XXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWts=
+wDvWkpcD9CyWq8J0ebsnU40sIRwpAcNX17iTKrXzgyaU9F8U-2BrXmIFqetuHjMAxcLKl8umMo9=
+u2s-2Buw5rBOsTBCHz6yVoWN6spo8HCm56Jo7aaiXr1SRiqGR9fLoZTmJmmTtTQ0X5x7rz1Ak-2=
+FvjstHOQRBgXf1o1bd3aDmBxcg-3D-3D"><img alt=3D"Apply Now" style=3D"width: 20=
+0px; height: 53px;" height=3D"53" width=3D"200" src=3D"https://d2y48w7m6jzh=
+pb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBd=
+RNQfrVbSFtybGv4iw_TdjQSORpcgt-2RFdAAjBa8Etyc_m9De2hBZZIdF6aOLUE02tQ" /></a>=
+</p><p style=3D"margin-top: 0px; color: rgb(78, 85, 97); font-size: 14px; f=
+ont-family: Georgia, serif; line-height: 25px; margin-bottom: 26px;">Thousa=
+nds of Quest Scholars currently attend a top-tier college for free because =
+they dared to dream big. <strong>Will you dream big, too?&nbsp;</strong><a =
+href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1vuX=
+XZQ08Mz9flj2jJ5MOItx3qpliaDg5VLceJsdcx8V_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT=
+9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB=
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDs=
+qCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBm=
+hc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWvAYtFgGBji96rZbr=
+SS0X1kqIqBIUrRvKJCa0ol8FxxcIgw1soVCeijruJWJJAChouLiA5euFr5XtrweILaNa2ff6UBr=
+jSMD86TbsF8CxDRKf0FAzKF-2BhgVP-2FYSlDD7Uatxygxx96E1XYSRuAIvUTkA6oGYZcIqGcgq=
+BReoASIMxQ-3D-3D">Complete your application</a> before it's too late.<br />=
+<br />
+If you have any questions, please visit <a href=3D"http://mx.technolutions.=
+net/wf/click?upn=3DWDVE8q8lo2-2FHF48nIMlb6ogvAx0vCz3nz6LX7tNptd6QHVqgFFoYkg=
+0EVFxOz3qd_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkF=
+i-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfco=
+mvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2Bxa=
+xLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KY=
+BiDNVvRxgSAn4-2BGwCeHd1xDuXIWsdbPjuBq-2BmD89Gt3tHKzD-2FoPwiUV9jiGdA2M77J5c6=
+tMyc9BzlVSqveaJAOsx7OADSV7TNbQoLgQ4KzhH-2BoscDgyejXd3S-2BG27v43xXXuXUbWUbEH=
+VJdAKv65S9YqckJa9ccWwKUqpS7zEd1Qnp3TTd19-2FsJ4at385n04PdqRyZA-3D-3D" target=
+=3D"_blank">AskQB</a>.<br /><br />
+Kind regards,<br /><img alt=3D"" style=3D"width: 120px; height: 30px;" heig=
+ht=3D"30" width=3D"120" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/=
+-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSO=
+Rpcgt-2RFdKHvrTXIJLwCNRMBSZcLoamSWAxJMvVKeRgKkcwvvLlSMYuOoOYjaIqLbkmD90m2Kw=
+" /><br />
+Ana McCullough<br />
+QuestBridge Co-Founder and CEO</p></td></tr></tbody></table></td></tr></tbo=
+dy></table></td></tr></tbody></table><table class=3D"footer" style=3D"borde=
+r-collapse: collapse;border-spacing: 0;width: 100%;background-color: #e1e2c=
+f"><tbody><tr><td align=3D"center" class=3D"inner" style=3D"padding: 0;vert=
+ical-align: top;padding-top: 20px;padding-bottom: 30px"><table class=3D"col=
+s" style=3D"border-collapse: collapse;border-spacing: 0;width: 600px"><tbod=
+y><tr><td class=3D"left" style=3D"padding: 0px 5px 22px 0px; vertical-align=
+: top; font-size: 11px; font-weight: 400; letter-spacing: 0.01em; line-heig=
+ht: 17px; width: 55%; color: rgb(179, 179, 179); font-family: Georgia, seri=
+f; text-align: center;"><a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3DWDVE8q8lo2-2FHF48nIMlb6ogvAx0vCz3nz6LX7tNptd6QHVqgFFoYkg0EVFxOz3qd_fl-2F=
+MBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2=
+BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8t=
+HbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1Er=
+gDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2B=
+GwCeHd1xDuXIWvZNmAoAULWWovloaQEwE186oxXtbbWSYdHZT-2B-2FyDooiTvXFnwXP5NMHU8U=
+vXN8z8pASOLIk712nZoSvZApIcw2zUbTua9o5Jg4IsAdLfi60QLTCJqyS5AftwiKo6-2FT-2F2E=
+npD2ttQNx8yvQdCmPVHXLcOQHl3wX7O-2Fe-2BGtPYH8keg-3D-3D" target=3D"_blank"><i=
+mg alt=3D"" style=3D"width: 30px; height: 30px;" height=3D"30" width=3D"30"=
+ src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNww=
+Kigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSORpcgt-2RFdBSY1pKgQdGSeG=
+v-WYlmgLo1FQuNQ4LPvTTi8BUP3t4D" /></a>&nbsp; &nbsp;&nbsp;<a href=3D"http://=
+mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpdRYN3xzBgkAOmy8n=
+0YHNOotxJZy-2Bg3D3Fm2FICcCf7a_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMT=
+S3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2=
+F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5n=
+VxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0Q=
+ktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWsErtLzhTsmULyN2V6XhFUnZQT4t=
+-2FSyBNWWjj8T41t2r4uwyj3ayujrCUzGadyZYJ0nAKYOF45BVmR4yEsUf5c4tyMOEC9b6RBzqm=
+HS6HxqyWQzetErwk9xXiCW2sYZWEe32ACN5SxvHJNjXmog-2BXFhqDonCjp1fRieCNhNY0Rjzw-=
+3D-3D" target=3D"_blank"><img alt=3D"Facebook" style=3D"width: 30px; height=
+: 30px;" height=3D"30" width=3D"30" src=3D"https://d2y48w7m6jzhpb.cloudfron=
+t.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtyb=
+Gv4iw_TdjQSO1P-waaj3Bl8RDj0WLrB2_1fZoOBW0h3lRFev1icDAieuGKcUI8hSn" /></a>&n=
+bsp;&nbsp; &nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3Df5b-=
+2BVyBP11dM6hwwjDU-2Fs75S2oPhMULpp8HITUSW06wHvKHXPIhvNw0CRSNjVwa9_fl-2FMBkJM=
+X7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2=
+B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczA=
+Xfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMd=
+SVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeH=
+d1xDuXIWsLPa6Oyyufs-2BWYq0vfRzebgGoK1R-2FTNNE9cYcVqyTYy2ac-2BOwkZSDae-2FC3l=
+Jl7MWg3oB5TdShGBlbOttr2N17NPfWiNvqDBOnDmQ8eqGzeITGOv2ifrU6LZy0pLQo6D65Gqlek=
+wy-2FekOrjmV2xUvVsS1JINa9clOeH-2Bj3-2FHcUxjdNjdSew9yIVYSeQlKvJNHk-3D" targe=
+t=3D"_blank"><img alt=3D"Twitter" style=3D"width: 30px; height: 30px;" heig=
+ht=3D"30" width=3D"30" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-=
+bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSNC=
+T-xevPhZOS-x_2H0IF_3jvUSHkNkr6O7D7iLUc4ywRt3muiaZK0JB4ZS2MOHYXU" /></a>&nbs=
+p; &nbsp;&nbsp;<a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2F=
+n6YekwlwAzpDulOpx7zedW5KnW3u684tLnu4vUzrIMdW8pRT5LJdk4tj2nwM_fl-2FMBkJMX7HX=
+blz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg=
+4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7=
+qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdD=
+bJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xD=
+uXIWtRVoy2s39umuQqWlt0RntdXcA2ms4UN0boUcLgmipTXYjUGKh1eYO0Vk6HP9BUCsuHpJ-2B=
+aHFbxvtbeSlYqDvidAi0JRljlDgIs8uHvZQZgQiJKBY-2F6MG-2FweLz4eIt-2BlRE9eWWlzf-2=
+FvpM8TkOu5aTuejqwH5ByaNKExfvo8pKsH9u3FLXYx9uI6p2NrG8OSqm4-3D"><img alt=3D""=
+ style=3D"width: 30px; height: 30px;" height=3D"30" width=3D"30" src=3D"htt=
+ps://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8=
+T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSP0n8mqJBRLRF_Z2EwdqoVW8xMzdwBEZJnP0=
+7RtlnpvgtJgIlxHLMEq0h09Wr8zgOc" /></a>&nbsp; &nbsp;&nbsp;<a href=3D"http://=
+mx.technolutions.net/wf/click?upn=3DtQ550YTtXV6QVHBVm0ByBaH3SFaKKmHoFwakYGR=
+XsiGtV5ijpTHsvftPXXk-2FB4CV_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3=
+m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F7=
+9lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVx=
+B1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0Qkt=
+bsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWtX2vaUbj9liRjSvYyyjk6tg0rwAix=
+tCwcKjtm4qdy7dFdPHZQpAVscQyF24ag3AMfT2IoJOjqoF9pOaYk097XsYyo3SQuKPydMDssXNw=
+duoku3sQi1ZWgf1aXgz5mArfPu2tYgFyhmdquZMQkUbkSkPrf3-2BVIPxFy2FtejYDQSaSupQHY=
+my-2BcanxMhrOjmjPQ-3D" target=3D"_blank"><img alt=3D"Instagram" style=3D"wi=
+dth: 30px; height: 30px;" height=3D"30" width=3D"30" src=3D"https://d2y48w7=
+m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6m=
+S3bBdRNQfrVbSFtybGv4iw_TdjQSPSvyRRbNC4PSbH98i-0tcI9-2NrbHLIatwwQQ7lCT-T9iFC=
+TNyCMnEMxWd9xXbWBI" /></a>&nbsp;&nbsp;&nbsp;<a href=3D"http://mx.technoluti=
+ons.net/wf/click?upn=3DxX4Wnmgzv-2FXjI3Rpn3GYP9s9LGMf-2BHv1S3uBiKiQdqE-3D_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZq=
+st8tHbczAXfw7qFVbrg6gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flm=
+l1ErgDzMdSVdDbJoEHYXXs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn=
+4-2BGwCeHd1xDuXIWslTw7oxihvAmvbt0mq-2B1ECpG7f1Ll0u8FgA2-2FSLTCuDamwGQQZB2cX=
+TnQRFJv8dsnZ7wEEQIuGgSmjTeIY-2F1ROZUCV62AmDyH0LX-2Bxf3xS4pFfqPRdAknfQijQ-2B=
+RWYW1VWL55X59dhr4Gbc3wRHUClCw-2BDb7dnFvIyN93nVQhqTQjmwDXjE9aIIP28iOzdQU0-3D=
+" target=3D"_blank"><img alt=3D"BridgeBlog" style=3D"color: rgb(179, 179, 1=
+79); font-family: Georgia, serif; font-size: 11px; letter-spacing: 0.109999=
+999403954px; line-height: 17px; width: 36px; height: 30px;" height=3D"30" w=
+idth=3D"36" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU=
+-i5vVrdHNwwKigz_j51_H8T6gMVa5JmD6mS3bBdRNQfrVbSFtybGv4iw_TdjQSN6HDCxZ-qBV7O=
+hxWQ3Bit1W9OkZdF_menE24z1A4tMf0_C5g23WSHi" /></a><p><em>115 Everett Avenue,=
+ Palo Alto, California, 94301<br />
+QuestBridge is a registered 501(c)(3) non-profit organization.</em></p></td=
+></tr></tbody></table></td></tr></tbody></table></center></div></font><br /=
+><table align=3D"center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" =
+style=3D"opacity: 0.75; clear: both; margin: 25px auto;" cellpadding=3D"5" =
+cellspacing=3D"0" width=3D"650"><tr><td align=3D"center"><font color=3D"#33=
+3333" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><span style=3D"font-=
+size: 11px;">This email was sent to markiewicz.john@gmail.com by QuestBridg=
+e.<br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSx=
+RwFLjEf1vuXXZQ08Mz9flj2jJ5MOIvEc1YgPyHzzxdPhYcSDlSAZITwrwld6XusgSqPno9sI4yk=
+sO3DFZAR-2FscgFzNbN1k-2BqijfPh9IhVDyE082P6fQ_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6gBQWWsv1M=
+7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYXXs5EuK8Z1=
+pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWtBrhgq3Q4dCY=
+UZ9S1-2Fop3K1IGEQknpqlM6NKkqloXUEqZeovIxvNd1QHH0X7kIZmHLhkkDmESavJfOXAcWs-2=
+BrmxjifgqeynICUuLq3nIOWXvaIayI6naxsLMjVyllEQdn6JXcXipyStXbd-2FubITUCHuDPont=
+5we2ImviiHLv6Rr3qgzYKS-2B2RDlE-2BIYOqnmOs-3D">Unsubscribe</a> from QuestBri=
+dge.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomvNOYCkVAHZqst8tHbczAXfw7qFVbrg6=
+gBQWWsv1M7MDsqCGI61Wva5nVxB1TjvHdNvJEA-2BxaxLwxc93-2Flml1ErgDzMdSVdDbJoEHYX=
+Xs5EuK8Z1pIBmhc6w1eZyF0QktbsCWk758HY-2BF0KYBiDNVvRxgSAn4-2BGwCeHd1xDuXIWvMi=
+OWaQElUwp25W6paAAf-2BihTR6ns6k4DBcDdm0DSpJiTZLiqOJM5e8tXjpwfwQcJpX9JJqY0RKH=
+BLsKq-2BhUHV9x2p9h-2FZAvDtrhqylpp2F2OKUBxo3Stf71FUsqNdRfysNQZxlXuQ85CvcazZ-=
+2FSCj-2F2NIUM-2FsTTO6nBP0y5yoCMl6gv2y6MI4axqPwmtYPxI-3D" alt=3D"" width=3D"=
+1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !impo=
+rtant;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !im=
+portant;margin-right:0 !important;margin-left:0 !important;padding-top:0 !i=
+mportant;padding-bottom:0 !important;padding-right:0 !important;padding-lef=
+t:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_440c3cdc-24b0-4167-94b2-5a87f3c350ac--

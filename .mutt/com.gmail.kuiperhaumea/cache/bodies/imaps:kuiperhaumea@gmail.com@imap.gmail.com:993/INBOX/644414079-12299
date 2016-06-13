@@ -1,0 +1,148 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1562775oid;
+        Mon, 13 Jul 2015 07:23:20 -0700 (PDT)
+X-Received: by 10.194.2.51 with SMTP id 19mr71323080wjr.40.1436797399971;
+        Mon, 13 Jul 2015 07:23:19 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x229.google.com (mail-wi0-x229.google.com. [2a00:1450:400c:c05::229])
+        by mx.google.com with ESMTPS id p3si27146299wjz.93.2015.07.13.07.23.19
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 13 Jul 2015 07:23:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::229 as permitted sender) client-ip=2a00:1450:400c:c05::229;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::229 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@targetx.com
+Received: by mail-wi0-x229.google.com with SMTP id a1so55036000wig.0
+        for <kuiperhaumea@gmail.com>; Mon, 13 Jul 2015 07:23:19 -0700 (PDT)
+X-Received: by 10.180.91.107 with SMTP id cd11mr21649115wib.51.1436797399225;
+        Mon, 13 Jul 2015 07:23:19 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1372322wmd;
+        Mon, 13 Jul 2015 07:23:18 -0700 (PDT)
+X-Received: by 10.140.195.20 with SMTP id q20mr56503625qha.82.1436797397759;
+        Mon, 13 Jul 2015 07:23:17 -0700 (PDT)
+Return-Path: <bounceback-a0HC000000ZnSaLMAV-003C000001anGepIAE@ms2.targetx.com>
+Received: from mta212.targetx.com (mta212.targetx.com. [69.55.6.212])
+        by mx.google.com with ESMTP id f191si20193675qka.73.2015.07.13.07.23.17
+        for <markiewicz.john@gmail.com>;
+        Mon, 13 Jul 2015 07:23:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounceback-a0HC000000ZnSaLMAV-003C000001anGepIAE@ms2.targetx.com designates 69.55.6.212 as permitted sender) client-ip=69.55.6.212;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s1024; d=targetx.com;
+ h=Message-Id:Sender:From:To:Reply-To:Date:Subject:MIME-Version:Content-Type; i=bounceback-a0HC000000ZnSaLMAV-003C000001anGepIAE@ms2.targetx.com;
+ bh=lctorSqyAoOKJ6mTcwXmdbZxuas=;
+ b=l29EiWw3b04EsANL1kzKUXT6RqwVexPUiasB/TipNakAYCVYrubZQPX5Z0a/h8Yr+lVnHVllo1QM
+   l2M0kaClU27swfN1Z/2z//8oMIdW7fppFgCL7RRTupAbI01UcyfXzLH8aQ5BwH4QXfPTw6UtWL5J
+   VHFn2rf7zMkvCz1OYQM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=s1024; d=targetx.com;
+ b=fYz9bqeiwIBsOzz4QNvStc/ZEzVNyuDOOOAJ0/+zKe/n2Gk2vnQPO0q/yHV4HwG8bxfSYad63lbn
+   YlxZ/Qr6b329Ce817zECf6WGy526qGQ5+7/dt/G0AEI/hDjNCnc83CJVLKMRneYbukneJ01Al4fS
+   D2LZbjKkRVkoZ8uD4Tg=;
+Received: from ip-10-0-0-79 (54.85.92.26) by mta212.targetx.com (PowerMTA(TM) v3.5r6) id hkf4tc0jf9c6 for <markiewicz.john@gmail.com>; Mon, 13 Jul 2015 10:20:18 -0400 (envelope-from <bounceback-a0HC000000ZnSaLMAV-003C000001anGepIAE@ms2.targetx.com>)
+Message-Id: <D20150713101949.a0HC000000ZnSaLMAV-003C000001anGepIAE.38477@targetx.com>
+Sender: "Saint Joseph's University" <bounceback-a0HC000000ZnSaLMAV-003C000001anGepIAE@ms2.targetx.com>
+From: "Saint Joseph's University" <admit@sju.edu>
+To: markiewicz.john@gmail.com
+Reply-To: "Office of Undergraduate Admission" <admit@sju.edu>
+Date: Mon, 13 Jul 2015 10:20:18 -0400
+Subject: RSVP! SJU Summer View
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundaryTagForAlternative"
+
+--boundaryTagForAlternative
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+SJU Summer View - Sunday, July 19, 2015
+Don't miss the opportunity to visit Saint Joseph's.
+
+The best way to know if Saint Joseph's is right for you is to experience it for yourself. Summer View Open House is a great way to meet faculty - Explore academic programs - Demystify the admission process - Get an introduction to financial aid - Tour campus and dorms - Attend a community Mass - Find out what magis (sju.edu/magis) really means. We will also treat you and your family to lunch in the Campion Student Dining Hall!
+
+All the details (sju.edu/visit) and a registration form (sju.force.com/events) are on our website. If you have any questions, please feel free to email (admit@sju.edu) or give us a call at 610.660.1300 or 1.888.BE.A.HAWK.
+
+All of us in the Office of Undergraduate Admission look forward to meeting you on July 19th!
+
+P.S. If July 19th does not work for your schedule, we offer individual tours (sju.edu/visit) throughout the year.
+
+
+5600 City Avenue, Philadelphia, PA 19131
+----------------------------------------------
+Powered by TargetX
+
+Forward this message to a friend:
+https://suite.targetx.com/suite4sf/email/php/forward.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE
+
+Update my profile:
+https://suite.targetx.com/suite4sf/email/php/subscribe.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE
+
+Remove me from future messages using a web browser:
+https://suite.targetx.com/suite4sf/email/bin/unsub.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE
+
+--boundaryTagForAlternative
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+<html><style>p{margin-top:0px; margin-bottom:0px;}</style><body class="setupTab" style="background-color:#CCCCCC;bLabel:body;bEditID:b1st1;"><img src="https://suite.targetx.com/va0HC000000ZnSaLMAV-003C000001anGepIAE.gif" border="0">
+
+<center >
+<table id="topTable" height="450" width="500" cellpadding="0" cellspacing="0" >
+<tr valign="top" >
+<td style="vertical-align:top;height:0;text-align:left;background-color:#FFFFFF;bLabel:header;bEditID:r1st1;">
+
+
+
+</td>
+</tr>
+<tr valign="top" >
+<td style="height:0;background-color:#FFFFFF;bLabel:accent1;bEditID:r2st1;">
+
+</td>
+</tr>
+<tr valign="top" >
+<td styleInsert="1" height="300" style="color:#000000;font-size:12pt;background-color:#FFFFFF;font-family:arial;bLabel:main;bEditID:r3st1;">
+
+<table height="400" width="600" cellpadding="5" border="0" cellspacing="5" >
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<img alt="" src="https://c.na8.content.force.com/servlet/servlet.ImageServer?id=015C0000001gjX7&oid=00D80000000cy8E" align="left" border="0"><br></td>
+</tr>
+<tr height="300" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r2" locked="0" aEditID="c1r2" >
+<div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SJU Summer View Open House - Sunday, July 19, 2015</b></div><div><br></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>The best way to know if Saint Joseph's is right for you is to <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>experience it for yourself. Summer View Open House is a great way to <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meet faculty <b>-</b>&nbsp;<span style="font-size: 12pt;">Explore academic programs&nbsp;</span><b style="font-size: 12pt;">-&nbsp;</b><span style="font-size: 12pt;">Demystify the admission&nbsp;</span><div><span class="Apple-tab-span" style="white-space: pre;">	</span>&nbsp; &nbsp; &nbsp; &nbsp;process&nbsp;<b>-&nbsp;</b>Get an introduction to financial
+aid&nbsp;<b>-&nbsp;</b>Tour campus and dorms&nbsp;<b>-</b>&nbsp;</div><div><span class="Apple-tab-span" style="white-space: pre;">	</span>&nbsp; &nbsp; &nbsp; &nbsp;Attend a community Mass<span style="font-size: 12pt;">&nbsp;</span><b style="font-size: 12pt;">-&nbsp;</b><span style="font-size: 12pt;">Find out what&nbsp;</span><a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0001983785-003C000001anGepIAE" style="font-size: 12pt;"><i>magis</i></a><span style="font-size: 12pt;">&nbsp;really means. We will also&nbsp;</span></div><div><span style="font-size: 12pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;treat</span><span style="font-size: 12pt;">&nbsp;you&nbsp;and your</span><span style="font-size: 12pt;">&nbsp;family to lunch in the&nbsp;</span><span style="font-size: 12pt;">Campion Student Dining Hall!</span></div><div><span style="font-size:
+12pt;"><br></span></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All the <a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0001983783-003C000001anGepIAE">details</a> and a <a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0001983784-003C000001anGepIAE">registration</a> form are on our website. If you have <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any questions, please feel free to <a href="mailto:admit@sju.edu">email</a> or give us a call at 610.660.1300<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; or 1.888.BE.A.HAWK.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All of us in the Office of Undergraduate Admission look forward
+to<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; meeting you on July 19th!<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>P.S.</b> If this date does not work for your schedule, we offer <a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0001983783-003C000001anGepIAE">individual</a><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://suite.targetx.com/suite4sf/email/bin/redir.php?id=0001983783-003C000001anGepIAE">tours</a> throughout the year.</td>
+</tr>
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#FFFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r3" locked="0" aEditID="c1r3" >
+<img alt="" src="https://c.na8.content.force.com/servlet/servlet.ImageServer?id=015C0000001fYP1&oid=00D80000000cy8E" align="left" border="0"></td>
+</tr>
+</table></td>
+</tr>
+<tr valign="top" >
+<td style="height:0;background-color:#FFFFFF;bLabel:accent2;bEditID:r4st1;">
+
+</td>
+</tr>
+<tr valign="top" >
+<td style="vertical-align:top;height:0;text-align:left;background-color:#FFFFFF;bLabel:footer;bEditID:r5st1;">
+
+
+
+</td>
+</tr>
+<tr valign="top" >
+<td style="height:0;background-color:#FFFFFF;bLabel:accent3;bEditID:r6st1;">
+
+</td>
+</tr>
+</table>
+</center>
+<p><table bgcolor="#ffffff" border="0" cellpadding="5" cellspacing="0" height="0" width="100%"><tr><td colspan="2"><font 
+color="#000000" face="Arial,Helvetica,sans-serif" size="1">5600 City Avenue, Philadelphia, PA 19131</font><br>
+<hr size="1"></td></tr><tr valign="top"><td width="50%"><a href="https://suite.targetx.com/suite4sf/email/bin/unsub.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE"><font face="Arial,Helvetica,sans-serif" color="#3333CC" size="2">Remove me from future messages</font></a><br><a href="https://suite.targetx.com/suite4sf/email/php/forward.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE"><font face="Arial,Helvetica,sans-serif" color="#3333CC" size="2">Forward message to a friend</font></a><!--F2F_END--><br><a href="https://suite.targetx.com/suite4sf/email/php/subscribe.php?mid=a0HC000000ZnSaLMAV-003C000001anGepIAE"><font face="Arial,Helvetica,sans-serif" color="#3333CC" size="2">Update my information</font></a></td><td width="50%"><div align="right"><font color="#3333cc" 
+face="Arial,Helvetica,sans-serif" size="2">Powered by TargetX</font></div></td></tr></table></p></body></html>
+
+--boundaryTagForAlternative--

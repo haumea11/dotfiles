@@ -1,0 +1,87 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=v9GCd6mRCE1RaFBkrJUnxBMUEqGvF1+/rIzzncQ3qeo=;
+        b=AIPGlecs951p9iUIHr7dVwMlDUP+QaZPpd1g4xLTVFgP64Mr9cGPFYTrMEdZKLoy7n
+         V8RC8xhrziFjt9pVU6yome1Z+jOnLnLF7xo4WjYiVVmw9aZwVrSqsps/jKOTZiqoXg0k
+         gotH9bqqzmFbx5E4Y2HxdBITAQSdn7Je3+xN4DQSHg56BXXEvXs3hX0LkSm4Lyul+TZK
+         TdgpUxghtwijEZFax0ykCs/wnLM8ENrPPxCyT0r7sO4UP7D1zoWaDwi/SbF4YFVf9idb
+         Ku++16FTobf/1pRlFZQA4bkPgLwhbeVnrnZAmA8aIQXnJeD7oM5eDwj9tFkz4HqV2Unh
+         mscg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=v9GCd6mRCE1RaFBkrJUnxBMUEqGvF1+/rIzzncQ3qeo=;
+        b=CuiayjTplF9xq/w0GBcNH033hRzrg249AprFMzaBQshdy3FIF/45J8DjZ13ee9Byr+
+         p/5L0E17T4AC/Jzcp894+S4aZbUXzQVg6442RAvDmn0Myab47bbvZmb5SbsND2gi2nLx
+         mv/kAJhbsyxjKhbpN+iASNZ1Ig+aC46qkxInHCPt85cyKHAokF3ju5AlRWNl0VWJmg1L
+         AVmRx0QdloxkopwEZmCipifq5j8N+U0TZY2SyBcvwwWvkOhDA0vew2qwUG/YMa7eBESF
+         RwAC2ML+2z2RzIicltQ8n5ZEifhlwvPTRYzV+KxMI5PsAUhMqTbSiT1jWT2HjvN3wz0t
+         NAng==
+X-Gm-Message-State: AD7BkJJfyOREAllU3/VX2xArjJuplU4cVKna39zYPj2Bf/it59op5qDuHGEj/XprUe//XCJCdiy3eTb+Z46qo1+H
+MIME-Version: 1.0
+X-Received: by 10.31.14.149 with SMTP id 143mr4005079vko.3.1457621205572; Thu,
+ 10 Mar 2016 06:46:45 -0800 (PST)
+Date: Thu, 10 Mar 2016 09:46:45 -0500
+Message-ID: <CAGs8aKrKQ0=0wRF==ib089L_-UNtVtK3GpqA+LHfnn_Y6obVvw@mail.gmail.com>
+Subject: Booster Meeting Day Change!
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a11457f302d034d052db2e234
+
+--001a11457f302d034d052db2e234
+Content-Type: text/plain; charset=UTF-8
+
+Hello Choir Families,
+
+Next week is our March Booster Meeting.
+I had to change the meeting to THURSDAY, MARCH 17TH because of a
+performance conflict. It will still be at 7pm in the Choir Room.
+
+I hope many of you can still attend!
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a11457f302d034d052db2e234
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Choir Families,<div><br></div><div>Next week is our =
+March Booster Meeting.=C2=A0</div><div>I had to change the meeting to THURS=
+DAY, MARCH 17TH because of a performance conflict. It will still be at 7pm =
+in the Choir Room.</div><div><br></div><div>I hope many of you can still at=
+tend!<br clear=3D"all"><div><div class=3D"gmail_signature"><div dir=3D"ltr"=
+><div><div style=3D"margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><=
+font color=3D"#000000" face=3D"Calibri">Christen Joyce</font></span></b></d=
+iv><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p st=
+yle=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font fa=
+ce=3D"Calibri" size=3D"3">Choral Director</font></span></b></p><font color=
+=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:=
+0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri"=
+ size=3D"3"><span><font color=3D"#830b2c">Bishop</font></span> <span><font =
+color=3D"#830b2c">Watterson</font></span> High School</font></span></b></p>=
+<font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=
+=3D"margin:0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calibri" size=
+=3D"3"><a href=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" target=
+=3D"_blank"><font color=3D"#1155cc">(614) 268-8671</font></a> x 289</font><=
+/span></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></fon=
+t><div style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a=
+ href=3D"http://www.bishopwatterson.com/" target=3D"_blank"><span style=3D"=
+color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwatterson=
+.com</font></span></a></span></div><div style=3D"margin:0in 0in 0pt"><span =
+style=3D"color:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=3D"htt=
+ps://docs.google.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHI=
+zY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div =
+dir=3D"ltr"><div><div></div></div></div><div dir=3D"ltr"><div></div></div><=
+/span></div></div></div></div></div>
+</div></div>
+
+--001a11457f302d034d052db2e234--

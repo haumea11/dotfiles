@@ -1,0 +1,742 @@
+Received: from BLUPR01MB389.prod.exchangelabs.com (10.141.77.16) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.477.5 via Mailbox Transport; Sun, 1 May 2016 09:17:35 +0000
+Received: from BLUPR0101CA0010.prod.exchangelabs.com (10.163.116.148) by
+ BLUPR01MB389.prod.exchangelabs.com (10.141.77.16) with Microsoft SMTP Server
+ (TLS) id 15.1.477.8; Sun, 1 May 2016 09:17:34 +0000
+Received: from BN1BFFO11FD048.protection.gbl (2a01:111:f400:7c10::1:139) by
+ BLUPR0101CA0010.outlook.office365.com (2a01:111:e400:52e8::20) with Microsoft
+ SMTP Server (TLS) id 15.1.485.9 via Frontend Transport; Sun, 1 May 2016
+ 09:17:33 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.218)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.218 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.218; helo=cio-tnc-pf04.osuad.osu.edu;
+Received: from cio-tnc-pf04.osuad.osu.edu (164.107.81.218) by
+ BN1BFFO11FD048.mail.protection.outlook.com (10.58.145.3) with Microsoft SMTP
+ Server (TLS) id 15.1.477.4 via Frontend Transport; Sun, 1 May 2016 09:17:33
+ +0000
+Received: from CIO-TNC-HT08.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf04.osuad.osu.edu (Postfix) with ESMTPS id D7665380058
+	for <markiewicz.22@buckeyemail.osu.edu>; Sun,  1 May 2016 05:17:32 -0400 (EDT)
+Received: from bulkmailprd1.service.ohio-state.edu (140.254.20.164) by
+ CIO-TNC-HT08.osuad.osu.edu (164.107.81.177) with Microsoft SMTP Server id
+ 14.3.248.2; Sun, 1 May 2016 05:17:31 -0400
+From: onCampus Weekly <oncampusweekly@osu.edu>
+To: <markiewicz.22@osu.edu>
+Subject: Headlines for the week of Sunday, May 1
+X-BulkMail-Envelope-From: <devnull@osu.edu>
+Content-Type: multipart/alternative; boundary="Boundary_foo"
+Message-ID: <fd91c875-f269-4a7c-b636-4906f67e69fa@CIO-TNC-HT08.osuad.osu.edu>
+Date: Sun, 1 May 2016 05:17:31 -0400
+X-CFilter-Loop: Reflected
+Return-Path: devnull@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: acd79f89-7d02-4f80-db2c-08d371a16e12
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.107.81.218;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(979002)(1060300003)(2980300002)(438002)(3190300001)(596005)(11905935001)(46034005)(199003)(37854004)(31014005)(17703002)(377454003)(13624006)(111735001)(189002)(15187005004)(15395725005)(450100001)(18206015028)(106466001)(6806005)(2171001)(4290100001)(87936001)(1220700001)(19618635001)(54356999)(512934002)(270700001)(50986999)(5880100001)(2351001)(92566002)(15974865002)(5008740100001)(19580405001)(19580395003)(606003)(16601075003)(229853001)(88552002)(11100500001)(31686004)(89122001)(84326002)(16799955002)(75432002)(93346002)(109096001)(110436001)(16796002)(19617315012)(5002510100001)(31696002)(110136002)(107886002)(90282001)(15188155005)(15975445007)(33646002)(17520400001)(7059030)(11784265005)(969003)(989001)(999001)(1009001)(1019001);DIR:INB;SFP:;SCL:1;SRVR:BLUPR01MB389;H:cio-tnc-pf04.osuad.osu.edu;FPR:;SPF:Pass;MLV:ovrnspm;A:1;MX:1;PTR:cio-tnc-pf04.osuad.osu.edu;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BN1BFFO11FD048;1:a/2noBuqwYhySEjeRLOpxcDxRjagBCr3BB1WrjD2rqc4DTnXfreV1DeHhtk4+pyeu8uD64dtWF/Xv82a01YOLBYTyYu5k5kmhawlwwm9X7nZ4bd3A1Ab2RrCeOv/ZSwoWPIJpswfPEWvTfDtM3W/Z8Qzdm3GcOtiqyCwNKzAbTxqDGKOUPaXyWLV9CynRaaavGA3xQip2MlX02TUVKvGr4PlBwTqembngyNZFO5b15uxXgIJznqOtA4bAWmuxeZ1yfCKulvyvxXarlaalJ3XV92ze2Lo8jvt2mUhMc72TAFW/WA5ld/kNKSE40ZGHwWU+nrHAeDvHcEsXkSfEsIoChuNdUxfGVyyjbF3H/O00XskeeS8EoCanP7VTsG7IWdy/pAdAI2Qkx2YHmAASAZVltz5yXGIGF6GHBNWKsBR7IhLAIkDG7MZ67/ZoOgXSxje0eV7+Yumc/Ovs6RXX0nX2bajKb1cZVIEGGZkdCYi4AgiOv1N6ziRpPTKjClemIxDjiYrENVTJO2RhlX6OJR0fznnJpRyyhcSVIX9h3DN8RTXJ+QnqYdcGtTAfenOZFW40mKxS/y5DGHM4A61h4D9e5kWHvAmzH9BAua1UwQGFZ4OmKMKvt3bkkBA0udgpNv44p6rcqL1O0ZwXgutBjELVA==
+X-MS-Office365-Filtering-Correlation-Id: acd79f89-7d02-4f80-db2c-08d371a16e12
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;2:+lPMLzly/LswPObCdr2YGoXhMibyLy5DHzpjhojHe6TZOSeYKyalKB3zDOb2h/WSLdw2LjuCuTGe0D4szGxab8atimHVpz4pfeYz3OjhicslWnb0zO8pioq53IxOkpMpHa8jt5n4jQ+tQTHbgIxmppF8ecQPslsy8AuZu7NZ+98bsdsrjeCtiav5EC08/2r9;3:WmWjbRVNE0ty2ifyn5eDU22Y+TNc9Wi/UnuS7mNWKFx2/7Q4l/GDqqlDhSSn/ytxpl605PrDtADDwSaXYSks5/0Da1JG4R6fQcvklanFpYyWrAICF1r+C9ujhYEt35ZQKu8NoMBl/WQyC2JlT7bOZvubX3QTMCEBq9qWEHytHGl940CfC15VyRXhFfGGsd7MnVpYIM3/lCa14CBPSApAnpaN+UdOu/1kp2m7JHchz52uwcX1jlhwSei8qHsiVVZUqFOj6PWpDZPyDhvUnrSLzg==;25:oc1/rsByET7i25980GK6AG3vBSx5MuzPGmWkuj6WPlsHR4YMub18Unhr9lqPiaZoETgzBovJ9H+fI8b11nIh8td9li+s21VQz3ZXJCld+8+w5oJnn+H6LHe1W1nu7u7tdWSm2GmDIlb/KwjVOaiU43mn6WMFw3XgWRaURTOV1O/D+CK0V+M3qH+OLE517ZSdIEhyUQ+4FM3JVph2plbtNQxcxoH0xYoEqIGQQoMVElPYNnnzZKVSx3tvnBh6B4lRrXmZVnfc6vWCa6DUaMxFoUmBG7xZf87cY70dzujidweaBMUKCvfTsz88ffijB3rwn1CfVURLtaaXcyODIRqba/JhkrupZttSz3beJpp5ahQ=
+X-Microsoft-Antispam: UriScan:;BCL:1;PCL:0;RULEID:(8251501002);SRVR:BLUPR01MB389;
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;20:rerGwTEANT5ak4JOEcxxC6iDcZ7V2o6PSxD0KMYGO+EeB5nyjQXZ1oDHWpa9HgyZToMFRhnldAMtKqVJhSjiuaebSpQlJ2DiXs8Ra47UiRwYVd++CnX2eEflvpsQvfF8lahtoYKwM5LOvUcGo7Da613RMjIa3IHlvVrPvjrCa7ewXqwyJEvVqY1jHv2J3CAPIS+nKcEPlar5hQ0E4u8RV9M1zU1miuuM/PWPvO9x7/UCrtNCgELyzD6FJj8NMKrHVsWXl3fs2Xui99aY1ZZSKQZ+W06xik3Z8eQiR0IobE3PtslNUil4dq0yzMnA8DfTaseIlDfAlnbGSRo7ObUHeJVh3oC+OhY5/901O95p4p0+gZFoqQUhN8q2LMwLiUnbXWhF7lZdPZ+ZcFyx9ATi9AMsYW6f0cb13aIiHx4SpFzlcJgLBnACp26XVHDT1vNkQC9hx7txOl3zgRklftDc9wKTyxndOG9V+JIrRpY0iNxT7lfPmAU3oJySGtv3LH28
+X-Exchange-Antispam-Report-Test: UriScan:(209352067349851);
+X-Exchange-Antispam-Report-CFA-Test: BCL:1;PCL:0;RULEID:(9101521072)(2401047)(13015025)(1201001)(8121501046)(13023025)(13018025)(13017025)(13024025)(3002001)(10201501046);SRVR:BLUPR01MB389;BCL:1;PCL:0;RULEID:;SRVR:BLUPR01MB389;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;4:k+7l6wbLOy2WCyMyjDUydyUeLUoZEP7j5D1hvAk1QT/xNOuYbXwjftCmGdlDSDhzejp91XU0sXU2KwJL24jDpW08kjWrlsqr+jw2zrkwWpXpix4K4ld4ue5TzO0yq16TLXnXuV6KexbPEYHaaZRc3BccAXX8G4BXlozBlEe18bS7v/oxWN92DvP7b59V+pWdzCIUavTOJlD3VypAByfmPD+TjpSKbigBVhmQOXvjWE1RSWgjF8EDhmW70q9UWHTFzSwnvyqfrxgjWBrAEuO/wCbHnIhX/Zey4wLaRwp6+JuhdMIHd7JNXk8NB216AKshEt66C5r7st95uzx/XlpoTAGa8pVyjsUrbyA3spT6HTpLfRUskyGfznwmiySi8rm6F9grm02u4EK08ka/OOX9qI9O93HE24/Gn+Hh2TbHMQVDVZXtaEzsF1lY8aoB/enzIVlsx/j8AUc6Gwk34q7cUOvpbMX84MwuttHLdUUssp/rS58P/VPh339N/uGrkVBUtIi1KxOlxEBc+0JR4TM+1g==
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BLUPR01MB389;23:mOEAZ5o6ZFHL8oC91dHHYHVJB7WWPymUeThBqvgo+H?=
+ =?us-ascii?Q?x40rySHRXGieoO4I5g5WIkngYh2/09Kr2valgJ6C1gClV2K9B8hNY0LachOy?=
+ =?us-ascii?Q?wfKWtYZTbHEpmCg2NW/SNoYPAddXh6tekcAYg5LGDKwFntcp/HbP6GdU5754?=
+ =?us-ascii?Q?cM8Zf6yIH2zAn7O9XX0gAN7FZxBD8GGme+V5vk4QWYPsG95IV+diQ8iQ91TR?=
+ =?us-ascii?Q?9VD7UXprkBhZBycwgheK68LHMMyf/U7E8XJAJf6L5N2c7ueqpRWmiOb0lSl1?=
+ =?us-ascii?Q?ymLTEeiUIsVZK/PgLx8Ul260qezzzn45xyQfNQjYao4w1wQkl6z5Sd96nUg2?=
+ =?us-ascii?Q?nA9eg7GTHOPDNFUWbzmoTfLeKjW+zK5Uq6yPXAvvx57DH0seNwJ/npQduYNP?=
+ =?us-ascii?Q?JFFAo+gX5td630QID1yscYFpfvI9NyrmvdhfoEBg6NzIfHwzFIkvLkd6OAd6?=
+ =?us-ascii?Q?Gzl++1xVcEDnCimHiqaZlRcNOvGOza1jkNq52OS7ZgXWNwuGOCxUu8z4MdQs?=
+ =?us-ascii?Q?OUmhPFGg7CdroSuQ8aBB6u32uNdvIb866zs2Ak1Ghd1DFK3h33XpjUEmuTgj?=
+ =?us-ascii?Q?T+0mevpMsvGA5d4BvRi22RCL3WK9bRrp/0pXtT8mc8j6fL/TWYn0nD0zOksA?=
+ =?us-ascii?Q?q2YYzegav6OcOxsY3CDiz+TCFrf8fKtoSex4cCJQ+CcqGM/t2C0yJ8x5zOpm?=
+ =?us-ascii?Q?YkbkpOH7urgYuCCsybUjTiUY3UxN8XU6UTXKnKXHw8gDSbNYw/rZ8jBI3t2M?=
+ =?us-ascii?Q?DZ2hKvhSrW37jZCE8YlQKeQkJWjCkP5Mm6BlOsmU2IpUPTdPbroFVXNVa1/+?=
+ =?us-ascii?Q?GV9SdisQRgk34fUEgJWGIYtzj07+idTK/xRCKKVD3VemdCTofijKOjQqRXq+?=
+ =?us-ascii?Q?OaEQr/tUhoWOGZL3VTLboDLs7yBIgP97sMxTi7VoBwBAtMGutTFF59rfdnyG?=
+ =?us-ascii?Q?1SlfQ1LZMqzU3mSuC7/D5k0fYlIHytADOx5V6RkxnBEQkwJLo7jB8SGriGSN?=
+ =?us-ascii?Q?3iSziFljNrOZU1bXVS9G9RS2O3TELCUZ+rcpXCcS4A89nGFEhI3vBEP4n/GP?=
+ =?us-ascii?Q?1m1IODlfchOHwCSHt5LQCJPI1iqWM3U1R7Y9NSA4pZLsMWMPgOvD9lHKLAQ3?=
+ =?us-ascii?Q?S8VbyjdrUJqrKSvM2eFytSdyikHMBE8PA8qUfm5puodB06/wR6LEk6EKB5Eo?=
+ =?us-ascii?Q?fbfWsX6Dde+ZHqobjCEXtRuQG1CWoIz7PDlzP30z1f3zNZ1rfrM1BxGls/rY?=
+ =?us-ascii?Q?Z8vy5IIYlXzR7nPtaP46QAvbjSTvFMZQGWnlXu93NlZqWZItJ7zUdmRzyUWQ?=
+ =?us-ascii?Q?BtzcEwlBzCj3elY4aM7N1eRETdwH19cbpQSuMeiHNMEwRBdT+w876nHXgH62?=
+ =?us-ascii?Q?IGiAb4uyBXwhz2zq7l4CBX52PC8YQM9ZwGxKfu/uBc0uxvRLgyoXwIiAmuv3?=
+ =?us-ascii?Q?OKuezmdpXwlX8WgaCf1+AyK2t8Hol+GRqt94VUsIDoIcI1wPn9lUtLEoJSiR?=
+ =?us-ascii?Q?fivsXIPmYxLBqOsPT5l2JpRu/Yk9uQgsHbTxPlFLGYD2zoXjs7ypJmhfLai0?=
+ =?us-ascii?Q?V01CLCbt6aqw3VQtInwhihiQcLnACTL25T2+QVSMspfCbP5YX/0zmthPLtIt?=
+ =?us-ascii?Q?2W7deZ35cPvDfqqJTFdj0F1e1SWmOnvQqQMn0TVVE0zPgFqxE67akb8igZa/?=
+ =?us-ascii?Q?kr6dIbEjSRdfF6XzSgCiUMSg5izizxAS5p8HsR3qgwWjVAbv+44v4AQdbxC0?=
+ =?us-ascii?Q?V1vQzL?=
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;5:fVS+UUY1AWaT0e4mZ4fN5MzHOjWEzlPIP3zn8eU8jrCShV1TCM6alp2ePN1uKJbDF//Ywxyd2DRaGR4Gu5zNXbO2ngPs8PSsz6YBvAgV53BhRrW5iXC8VtMGOfBIGc06F3DfrOm6yfahJXUSoZUw+A==;24:10vi6BomlxdQeZWzrRsuxWemsiFWHq9cdNQP4FqhDw+f7PzArDEiZhAtfKnA4D0yudFkUdXYSRmS1GMXGZIYE/jr5oXKLVa7NrPnUH684Qg=;7:rcCzuixfZD8x4UXQT9B9CH6obMEeNrDIQzJZncM92WdajaUMJypT3oIDmgoLyqgxgWPUeIyjHUjxMJUFBlim8vOrpSjRKebcAnAVk7NDgsMZg/LLln38wuOupb9zhLsPEeV1GB45DI87UBD1Ws2BzvfxtkECvx4uHjjjOIUuJ42OMeRX0wFyr0AsSGauT9wG;20:1bPDHU6UJ+yz30NzFs1iKwjp4kU9ulx6EpTu5EmlgaecBJyp2xvIHD0DEl26Vy/nA+65LPX2Sw+FJV68jic99WhXfz+tnD6DuY5vEwxQk7Svk78Z+odfzhsfneRF8RFdkc63GlQrtiopFff7aE4YzSdD0N8FeOyM9TvelpsZ/mE=
+SpamDiagnosticOutput: 1:5
+SpamDiagnosticMetadata: Default
+SpamDiagnosticMetadata: 1
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 01 May 2016 09:17:33.8682
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.218];Helo=[cio-tnc-pf04.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR01MB389
+X-MS-Exchange-Organization-AuthSource: BN1BFFO11FD048.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:01.9287117
+MIME-Version: 1.0
+
+--Boundary_foo
+Content-Type: text/plain; charset="iso-8859-1"; format=flowed
+Content-Transfer-Encoding: 7BIT
+
+From: Buckeye Net News <studentnews@osu.edu>
+To: <markiewicz.22@osu.edu>
+Subject: Headlines for the week of Sunday, May 1
+X-BulkMail-Envelope-From: <devnull@osu.edu>
+
+HERE IS THE LATEST NEWS and information for Ohio State undergraduate students for the week of Sunday, May 1, 2016.
+
+Ad with image
+Sponsored by 4560 North High St.
+-- 4560 North High Street.  At the corner of High + Weisheimer, Clintonville welcomes Brand New Luxury One and Two bedroom Garden Style Apartment Homes featuring designer kitchens, quartz countertops, wood laminate flooring, and full size washer and dryer! Walk downstairs to grab a bite to eat at the new Bareburger restaurant. Contact us at 614.335.2012 or email to reserve your new home today!
+
+
+********* HEADLINE NEWS
+
+Earth Day is every day at Ohio State
+
+-- Every day, in countless ways, Buckeyes take responsibility for their environmental footprint and add sustainability to the list of reasons to be proud of Ohio State. View this interactive map of sustainability in action on the Columbus campus, and learn more about the SUSTAINS Learning Community, an innovative, interdisciplinary program for students.
+
+Sustainability, research with hydrogen fuel cell bus partnership
+
+-- A new hydrogen fuel cell bus will be used to collect data for use by researchers at the Center for Automotive Research (CAR) thanks to a partnership with the Stark Area Regional Transit Authority (SARTA). Transportation and Traffic Management will operate the bus as part of its CABS fleet on the Columbus campus. The initiative highlights Ohio State’s commitment to becoming a global leader of sustainable practices and research.
+-- > Read more:  https://car.osu.edu/research/sustainable
+
+
+Don’t Blunder When You Hear Thunder
+
+-- As the weather gets warmer, it’s a great time to start planning for thunderstorms and other severe weather. Facilities Operations and Development’s Environmental Health and Safety reminds everyone to prepare by having flashlights and batteries on hand. If you encounter a thunderstorm or other severe weather, be sure to seek shelter. If you can’t get inside, be sure to stay in your vehicle.
+-- > Read more: https://fod.osu.edu/blunder-thunder
+
+Zika virus — Know before you go
+
+-- If you are planning travel to a Zika-affected area, plan ahead to take proactive steps to keep yourself and others healthy. Ohio State, in partnership with Columbus Public Health and other local and state partners, is providing information and guidance for students, faculty and staff. According to the U.S. Centers for Disease Control and Prevention, pregnant women should avoid travel to Zika-affected areas, or if travel cannot be avoided, they should contact their physicians upon return to get tested for the virus. Women who are planning to become pregnant and their male partners should talk to their health care providers before traveling. All travelers should take maximum precautions to avoid mosquito bites and to practice safe sex.
+-- > Read more: https://www.osu.edu/zikainfo 
+
+Fisher honored as a leading business school
+
+-- The Max M. Fisher College of Business was named the 14th-best business school for undergraduate business education in rankings released by Bloomberg Businessweek. The rankings, which measured 114 business schools from across the country, highlighted Fisher’s reputational strength and value among key constituents, including employers (who ranked Fisher 7th) and students (18th).
+-- > Read more: http://www.bloomberg.com/features/2016-best-undergrad-business-schools/ 
+
+********** ADVERTISEMENT
+
+Text only
+-- Place your message in front of more than 60,000 Ohio State undergraduate graduate students. Advertising deadline for the Sunday (5/1) issue of onCampus Weekly for undergraduates is Wednesday (4/27). This is the last issue until August. For further information, contact Advertising Manager John Milliken at milliken.24@osu.edu or call 614-292-8421 or 614-361-9442.
+
+********** OPPORTUNITIES
+
+Portfolio of Undergraduate Research
+
+-- How many undergraduates are doing research?  We don’t know unless you tell us. Update or start your PURE (Portfolio of Undergraduate Research) profile for spring 2016. Seniors, make sure to update your post-graduation plans so we know all about your exciting future! 
+--> Contact: Cweren.1@osu.edu
+--> Create you profile: Go.osu.edu/PURE
+
+Summer Undergraduate Research Institute
+
+--  Join the 2016 Summer Undergraduate Research Institute (SURI) now before the end of term to take advantage of the professional development, social, and sports activities.  Conducting research outside of Ohio State?  Join SURI so that you can stay in touch and present your research at the Fall Undergraduate Research Forum. 
+--> Read more: http://undergraduateresearch.osu.edu/suri/index.htm 
+--> Register: go.osu.edu/SURI 
+
+Earthquake in Ecuador: Appeal for Solidarity and Action
+
+--  On Saturday (4/16) a 7.8 magnitude earthquake struck Ecuador causing more than 200 deaths and over 2,500 wounded, with the human toll rising. The most affected areas include the central and northern coast and highlands. The impact of this earthquake has left thousands of people homeless, many wounded and in need of emergency assistance including food, shelter, and medical care. Ohio State’s Ecuadorian students, faculty and staff are appealing to the university community to consider supporting a solidary effort to alleviate this crisis. Immediate needs include financial donations and volunteer assistance.  
+--> Donate: www.ecuadorlistoysolidario.com 
+
+
+********** MESSAGE FROM VP FOR STUDENT LIFE “DR. J”
+
+-- The end of each semester is always among the busiest times on campus. Papers are due, group projects are coming together and exams are about to start. That is why Reading Day is this Tuesday to help you prepare, mentally and physically, for this time of year. The concept of Reading Day dates back to Ohio State’s transition from quarters to semesters. Under quarters, there was always a weekend between the last day of classes and the first final exam. But under the semester calendar, that natural break was lost. Student input was instrumental in developing a new approach. The solution was Reading Day, scheduled each semester on the day after classes end and the day before exams begin. It was designed to give students the opportunity to refresh, refuel and concentrate on exams once classes were over. The first Reading Day was in December, 2012 and it has been a fixture on the academic calendar ever since. 
+--> Read the full column: https://studentlife.osu.edu/articles/reading-day-dr-js-message-for-the-week-of-4-24-16/ 
+
+Contact Vice President for Student Life Javaune Adams-Gaston at mailto:vicepresident@studentlife.osu.edu
+
+**********TRAFFIC
+
+Marathon maneuvering 
+
+ -- The Capital City Half Marathon will take place on Saturday (4/30) from approximately 8-11 a.m. Several streets, including portions of Lane Avenue, High Street and Olentangy River Road, will be closed at various times. Traffic delays are anticipated.
+-- > Read more: http://capitalcityhalfmarathon.com/
+
+
+
+********** UPCOMING EVENTS
+
+National health care debate
+
+-- Students for a National Health Program and the Benjamin Rush Institute will be holding a debate regarding the resolution: “The Government Can Provide More Compassionate and Efficient Healthcare for All Americans than the Free Market” on Tuesday (5/3) from 5-7 pm in Meiling Hall Room 112 (370 West 9th Ave Columbus, OH 43210). Refreshments will be served and all are welcome, but we ask that you please RSVP by Friday (4/29). 
+-- > RSVP: https://docs.google.com/forms/d/1HE-ni70lP97TD_-gAJ-JGyz92T1ixQM8Ouh3p3n8vHQ/viewform?c=0&w=1 
+-- > Contact: daniel.brook@osumc.edu
+
+
+Memorial for those we’ve lost this year
+
+-- A memorial service will be held on (4/25) at 7 p.m. to remember the Ohio State students who passed away this school year.  The service will be held in the Great Hall Meeting room on the first floor of the Ohio Union. We will celebrate the lives of those who died and reflect on our community’s loss in their passing.  This annual nondenominational service is cosponsored by Student Life’s Student Advocacy Center and Parent and Family Relations as well as the University Interfaith Association.  All members of the Ohio State community, as well as family and friends of the deceased, are welcome.
+-- > Contact: kyle.41@osu.edu
+
+
+Unclaimed bicycle sale
+
+-- Transportation and Traffic Management will hold an unclaimed bicycle sale on Tuesday (4/26) from 9:30 a.m. – 11:30 a.m. on the plaza just east of Knowlton Hall. Bikes will be sold “as is” for $40. Customers will be served on a first-come, first-served basis
+-- > Read more: https://ttm.osu.edu/
+
+
+
+
+
+
+
+
+--Boundary_foo
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1"><p style=3D"font-family: Arial,sans-serif; font-size: .8em; margin-top: =
+10;" align=3D"center"><a style=3D"color: #bb0000;" href=3D"http://oncampus.=
+osu.edu/osutoday/042016/042916.html">Read onCampus Today online</a></p>
+<!-- full-width table -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100=
+%; background-color:#ffffff;">
+<tbody>
+
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1"><!-- OSU n=
+avbar -->
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 600px; background-color:#666666;">
+<tbody>
+<tr>
+  <td style=3D"height: 35 !important; margin-top: 0; margin-right: 0; margi=
+n-left: 0; padding: 0; border-bottom:1px solid #bb0000;" align=3D"left" val=
+ign=3D"top" width=3D"10">&nbsp;</td>
+<td style=3D"height: 35 !important; margin-top: 0; margin-right: 0; margin-=
+left: 0; padding: 0; border-bottom:1px solid #bb0000;" align=3D"left" valig=
+n=3D"top" width=3D"160" height=3D"35"><a href=3D"http://osu.edu"><img alt=
+=3D"osu.edu" border=3D"0" height=3D"35" src=3D"http://oncampus.osu.edu/onCa=
+mpus_Weekly/osu_name_rev.png" width=3D"80" style=3D"display: block;"></a></=
+td>
+<td width=3D"260" rowspan=3D"2" align=3D"right" valign=3D"top" style=3D"bac=
+kground-color: #F1DDAF;"><img alt=3D"onCampus" border=3D"0" src=3D"http://o=
+ncampus.osu.edu/onCampus_Weekly/red_weekly_3.png" width=3D"260" height=3D"6=
+1" style=3D"display: block;"></td>
+<td style=3D"border-bottom:1px solid #bb0000;" align=3D"right" width=3D"160=
+">
+<p style=3D"font-family: Arial,sans-serif; font-size: 13px; line-height: 1p=
+x; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0; padding:=
+ 5px 0 0;"><a style=3D"font-family: Arial,sans-serif; font-size: 13px; line=
+-height: 0px; color: #ffffff; text-decoration: none; margin-top: 0; margin-=
+right: 0; margin-left: 0; padding: 0;" href=3D"http://osu.edu/search">Searc=
+h Ohio State</a></p>
+</td>
+<td style=3D"border-bottom:1px solid #bb0000;" align=3D"right" width=3D"10"=
+>&nbsp;</td>
+</tr>
+<tr style=3D"background-color: #EFEFEF;">
+  <td colspan=3D"2" align=3D"left" valign=3D"top" style=3D"margin-top: 0; m=
+argin-right: 0; margin-left: 0; padding: 0; border:none;">&nbsp;</td>
+  <td colspan=3D"2" align=3D"right" style=3D"border:none; ">&nbsp;</td>
+  </tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- /OSU navbar --> <!-- masthead -->
+<tr align=3D"center" valign=3D"top">
+  <td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; =
+border: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1">
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width: 600px; background-color: #F1DDAF;">
+  <tbody>
+  <tr><!-- large image -->
+  <td colspan=3D"3" align=3D"center" valign=3D"top" width=3D"600" style=3D"=
+background-color: #F1DDAF;"><img alt=3D"onCampus" border=3D"0" src=3D"http:=
+//oncampus.osu.edu/onCampus_Weekly/red_title_3.png" width=3D"600" height=3D=
+"83"></td>
+  </tr>
+  </tbody>
+  </table>
+  </td>
+</tr>
+<!-- /masthead --> <!-- body -->
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 600px; background-color:#ffffff;">
+<tbody>
+<tr><!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" bgcolor=3D"#ffffff" width=3D"30"=
+>&nbsp;</td>
+<!-- content column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" bgcolor=3D"#ffffff" width=3D"540=
+">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100=
+%;">
+<tbody>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" colspan=3D"2" align=3D"center" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"margin-top: 0; margin-right: 0; margin-left: =
+0; padding: 0; border-top-width: 1px; border: none;" width=3D"540">
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 17=
+px; color: #333333; margin-bottom: 8; margin-top:0;">The latest news and in=
+formation for Ohio State undergraduate students. </p>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 17=
+px; color: #bb0000; margin-bottom:0; margin-top:0;"><strong>Sunday, May 1, =
+2016</strong></p>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" colspan=3D"2" align=3D"center" height=3D"18">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder-top-width: 1px; border: none;">
+<table width=3D"543" border=3D"0" align=3D"center" cellspacing=3D"0" style=
+=3D"margin-bottom: 10px; width: 540px; background-color: #EFEFEF;">
+<tbody>
+<tr valign=3D"top">
+<td style=3D"font-size: 12px; line-height: 18px; font-family: Arial,sans-se=
+rif; padding-top:12px; padding-bottom:12px; padding-left:12px;" width=3D"40=
+7">
+<p style=3D"font-family: Arial,sans-serif; font-size: 13px; line-height: 17=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;"><stron=
+g>The off Campus Living Place to be is the OC!</strong> Olentangy Commons o=
+ffers spacious 1, 2 and 3 bedroom apartments minutes from Ohio State. Enjoy=
+ a wide range of amenities including our&nbsp;Huge Swimming Pool with Party=
+ Deck, 24 hour Fitness Center, Fitness Trail, Basketball, Volleyball, and T=
+ennis Courts. As well as, dog parks and access to our GameOn! Tavern Room. =
+Call to reserve your new home <a href=3D"../../../../../../../../../../tel/=
+%2528614%2529%20451-6512">614-451-6512</a>. Now Preleasing for Summer/Fall =
+2016!<br>
+</p></td>
+<td width=3D"129" style=3D"padding-top:12px; padding-bottom:12px; padding-r=
+ight:12px; padding-left:12px;"><img src=3D"http://oncampus.osu.edu/onCampus=
+_Weekly/oc.jpg" alt=3D"Sponsor" width=3D"107" height=3D"69" align=3D"right"=
+ border=3D"0"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" width=3D"540" height=3D"25">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder-top:1px solid #dddddd;" colspan=3D"2" align=3D"center" height=3D"10">&=
+nbsp;</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder:0;" align=3D"center" width=3D"540">
+<p style=3D"font-family: Arial,sans-serif; font-size: 16px; line-height: 22=
+px; color: #333333; margin-right: 0; margin-left: 0; margin-bottom: 8px;"><=
+strong>Stay connected with Ohio State</strong></p>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder-left: none; border-right: none;" align=3D"center">
+<a href=3D"https://www.facebook.com/osu"><img border=3D"0" height=3D"32" sr=
+c=3D"http://oncampus.osu.edu/onCampus_Weekly/facebook.png" width=3D"32"></a=
+> <img height=3D"20" src=3D"http://oncampus.osu.edu/onCampus_Weekly/spacer.=
+gif" width=3D"19"><a href=3D"https://twitter.com/OhioState"><img border=3D"=
+0" height=3D"32" src=3D"http://oncampus.osu.edu/onCampus_Weekly/twitter.png=
+" width=3D"32"></a> <img height=3D"20" src=3D"http://oncampus.osu.edu/onCam=
+pus_Weekly/spacer.gif" width=3D"19"><a href=3D"http://www.youtube.com/user/=
+OhioStateUniversity"><img border=3D"0" height=3D"32" src=3D"http://oncampus=
+.osu.edu/onCampus_Weekly/youtube.png" width=3D"32"></a> <img height=3D"20" =
+src=3D"http://oncampus.osu.edu/onCampus_Weekly/spacer.gif" width=3D"19"><a =
+href=3D"http://www.flickr.com/groups/osu/"><img border=3D"0" height=3D"32" =
+src=3D"http://oncampus.osu.edu/onCampus_Weekly/flickr.png" width=3D"32"></a=
+><img height=3D"20" src=3D"http://oncampus.osu.edu/onCampus_Weekly/spacer.g=
+if" width=3D"19"><a href=3D"http://www.osu.edu/rss.php"><img border=3D"0" h=
+eight=3D"32" src=3D"http://oncampus.osu.edu/onCampus_Weekly/rss.png" width=
+=3D"32"></a>
+</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder-bottom:1px solid #dddddd;" colspan=3D"2" align=3D"center" height=3D"10=
+">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" width=3D"540" height=3D"25">&nbsp;</td>
+</tr>
+<tr><td>
+<h3 style=3D"font-family: Arial,sans-serif; font-size: 24px; line-height: 3=
+6px; color: #bb0000; display: block; clear: both; margin-bottom: 10px; marg=
+in-top: 0; margin-right: 0; margin-left: 0;">Headline news</h3>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">Ohio State Newark student chosen a=
+ssistant drum major<strong><img src=3D"http://oncampus.osu.edu/images/barr.=
+jpg" alt=3D"" width=3D"115" height=3D"120" style=3D"margin-left: 0; margin-=
+top: 20; margin-bottom: 2;" align=3D"right" border=3D"0"></strong></h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 15; margin-right: 0; margin-left: 0;"> When=
+ you think of The Ohio State University Marching Band, one image that often=
+ comes to mind is that of the drum major. The drum major is iconic at Ohio =
+State and is considered a position of honor. Each year, only two band membe=
+rs are selected to lead the band in this role. Ohio State Newark student Ko=
+nner Barr, a freshman communications major, competed for one of those covet=
+ed positions last weekend and was able to achieve something he&#8217;s want=
+ed his whole life.<br>
+  -- &gt; <a href=3D"http://newark.osu.edu/news/ohio-state-newark-student-s=
+elected-as-ohio-state-marching-band-assistant-drum-major.html">Read more </=
+a></p>
+  <h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height:=
+ 21px; color: #333333; margin-bottom: 10;">A special Buckeyes Cedar Point D=
+ay May 6<strong><img src=3D"http://oncampus.osu.edu/images/cedar.jpg" alt=
+=3D"" width=3D"129" height=3D"112" style=3D"margin-left: 0; margin-top: 12;=
+ margin-bottom: 2;" align=3D"right" border=3D"0"></strong></h2>
+  <p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: =
+20px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">The =
+Roller Coaster Capital of the World opens May 6, a day early in 2016 to off=
+er exclusive access for Ohio State alumni and their guests. Be among the fi=
+rst to conquer Cedar Point&#8217;s newest addition &#8212; the Valravn, the=
+ world&#8217;s tallest, fastest, longest-dive coaster. The special day begi=
+ns at 11 a.m. and includes a Buckeye Bash, autograph alley with Jay Richard=
+son and Scoonie Penn, and free airbrush tattoos and caricature sketches. <b=
+r>
+    -- &gt; <a href=3D"https://www.osu.edu/alumni/activities-and-events/eve=
+nts/2016/ohio-state-date-at-cedar-point.html">Read more </a></p>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">Undergrad creates mentoring, colle=
+ge access programs<strong><img src=3D"http://oncampus.osu.edu/images/haynes=
+.jpg" alt=3D"" width=3D"110" height=3D"121" style=3D"margin-left: 0; margin=
+-top: 14
+; margin-bottom: 2;" align=3D"right" border=3D"0"></strong></h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">DaVont=
+i' Haynes, a fourth-year undergraduate student majoring in public affairs, =
+has been innovating the way educational programs are extended outside the u=
+niversity since his freshman year. He has been instrumental in creating mul=
+tiple programs at Ohio State, including <a href=3D"https://bcec.osu.edu/a-d=
+ay-in-the-life-of-a-buckeye/" target=3D"_blank">A Day in the Life of a Buck=
+eye</a> and <a href=3D"https://bcec.osu.edu/mentor-a-buckeye/" target=3D"_b=
+lank">Mentor-A-Buckeye</a>. &#8220;I want to work with urban and rural stud=
+ents to encourage them to explore the idea of attending a four-year univers=
+ity,&#8221; Haynes says.<br>
+  -- &gt; <a href=3D"http://outreach.osu.edu/newslist-items/dh.html">Read m=
+ore</a></p>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">New printing price structure to be=
+nefit students next fall</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;"> Begin=
+ning fall 2016, a new UniPrint initiative will help reduce costs for studen=
+ts at its pay-to-print locations. The printing process itself will not chan=
+ge. The plan also will create consistent pricing across campus for all UniP=
+rint-supported print locations. Based on current use, this program will sav=
+e students $200,000 over the year. <br>
+  -- &gt; <a href=3D"mailto:mullins.208@osu.edu" target=3D"_blank">Contact<=
+/a></p>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-right: 0; margin-left: 0;"><br>
+</p></td>
+</tr>
+
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" width=3D"540"><h3 style=3D"font-family: Arial,sans-serif; font=
+-size: 24px; line-height: 36px; color: #bb0000; display: block; clear: both=
+; margin-bottom: 10px; margin-top: 0; margin-right: 0; margin-left: 0;">Mes=
+sage from VP for Student Life &#8216;Dr. J&#8217;</h3>
+<img align=3D"right" alt=3D"Sponsor" border=3D"0" hspace=3D"5" src=3D"http:=
+//oncampus.osu.edu/onCampus_Weekly/newDrJ.jpg" width=3D"100">
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">It&#82=
+17;s Commencement Week. Congratulations to all the members of the Ohio Stat=
+e Class of 2016. If you are graduating, you have earned a prestigious honor=
+: a degree from The Ohio State University. You&#8217;ve worked hard for it,=
+ and I know you will take what you learned and apply those lessons toward y=
+our pursuit of success and fulfillment as you leave this institution. I&#82=
+17;m proud of you.<br>
+  --&gt; <a href=3D"https://studentlife.osu.edu/articles/commencement-dr-js=
+-message-for-the-week-of-5-1-16/">Read the full column</a></p>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; margin-top: 0; margin-right: 0; margin-left: 0;">Contact Vice President=
+ for Student Life Javaune Adams-Gaston at<br>
+  <a href=3D"mailto:vicepresident@studentlife.osu.edu">vicepresident@studen=
+tlife.osu.edu</a></p>
+<h3 style=3D"font-family: Arial,sans-serif; font-size: 24px; line-height: 3=
+6px; color: #bb0000; display: block; clear: both; margin-bottom: 10px; marg=
+in-top: 0; margin-right: 0; margin-left: 0;">Traffic/transportation</h3>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">CABS summer service begins=20
+</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">CABS s=
+ummer service begins on Wednesday (5/4). CABS will run reduced bus service =
+Monday-Friday, with no service overnight (except the overnight, on-demand t=
+ransportation service at Ohio State&#8217;s Wexner Medical Center), on the =
+weekends and on university holidays. Please note that the North Express doe=
+s not run during this time. Beginning Monday (5/9), CABS summer constructio=
+n reroutes for&nbsp;the Med Center Express and Campus Loop North will go in=
+to effect.<br>
+  -- &gt; <a href=3D"http://ttm.osu.edu/" target=3D"_blank">Read more</a></=
+p>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">Summer construction season</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">Increa=
+sed summer construction activity beginning Monday (5/9) will have a signifi=
+cant impact on traffic and CABS routes along campus roadways. Those routes =
+include Neil Avenue lane restrictions, closures along 9th and 11th avenues,=
+ Carmack Road and more. Motorists should anticipate delays and plan accordi=
+ngly.<br>
+  -- &gt; <a href=3D"http://www.go43210.osu.edu/">Read more</a></p>
+<h3 style=3D"font-family: Arial,sans-serif; font-size: 24px; line-height: 3=
+6px; color: #bb0000; display: block; clear: both; margin-bottom: 10px; marg=
+in-top: 0; margin-right: 0; margin-left: 0;">Upcoming events </h3>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">BFA senior projects exhibition at =
+Urban Arts Space</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0; margin-=
+bottom: 10;">The Arts Initiative presents&nbsp;the Department of Art&#8217;=
+s Bachelor of Fine Arts Senior Projects Exhibition,<em>&nbsp;</em>featuring=
+ the&nbsp;work of graduating art majors from Ohio State. The event continue=
+s through Saturday (5/7) at Urban Arts Space, 50 W. Town St. The artists de=
+veloped the works from a range of media and approaches during their course =
+of study. A reception is planned for Saturday (5/7) 5-7 p.m. at the gallery=
+.<br>
+  -- &gt; <a href=3D"http://uas.osu.edu/exhibitions/bachelor-fine-arts-seni=
+or-projects">Read more</a></p>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">Technology Entrepreneur Workshop f=
+or Startup Week</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">The Te=
+chnology Commercialization Office and Wilson Sonsini Goodrich &amp; Rosati =
+Law Firm are collaborating during Columbus Startup Week to host the Technol=
+ogy Entrepreneur Workshop Wednesday (5/4). The workshop is an exclusive one=
+-day program designed for those in the process of &#8212; or considering &#=
+8212; starting a new venture. Get practical information on the legal and bu=
+siness issues facing today&#8217;s entrepreneurs.<br>
+  -- &gt; <a href=3D"https://www.eventbrite.com/e/wsgr-the-ohio-state-unive=
+rsity-entrepreneurs-bootcamp-tickets-24520806392">Read more</a></p>
+<h2 style=3D"font-family: Arial,sans-serif; font-size: 18px; line-height: 2=
+1px; color: #333333; margin-bottom: 10;">van Amstel of &#8216;Dancing with =
+the Stars&#8217; celebrates nurses</h2>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;">Nurses=
+, we thank you! You care, you innovate, you are the heart of the American h=
+ealth care system. Join LaBlast Fitness and three-time world ballroom dance=
+ champion and Emmy-nominated choreographer Louis van Amstel from &quot;Danc=
+ing with the Stars&quot; in celebrating National Nurse&#8217;s Week with a =
+free LaBlast=AE Master Class with Louis. This event is open to Ohio State n=
+urses, faculty, staff and students on Tuesday (5/10) at 7:30 p.m. on the We=
+xner Medical Center Plaza. This  free event is sponsored by Buckeye Wellnes=
+s and the Office of the Chief Wellness Officer.<br>
+  -- &gt; <a href=3D"https://osu.az1.qualtrics.com/SE/?SID=3DSV_00LwYpAOTqy=
+O9tX">Register</a><br>
+  -- &gt; <a href=3D"mailto:chacko.9@osu.edu">Contact</a></p>
+<table style=3D"margin-bottom: 10px; width: 510px;" align=3D"center" border=
+=3D"0" cellpadding=3D"8" cellspacing=3D"0">
+  <tbody>
+    <tr>
+      <td style=3D"font-size: 12px; line-height: 18px; font-family: Arial,s=
+ans-serif;"><hr size=3D"1" noshade=3D"noshade">
+        <p>ADVERTISEMENT<br>
+          <br>
+          <strong>Place your message in front of more than 60,000 Ohio Stat=
+e undergraduate graduate students</strong>. The next issue is in August bef=
+ore classes resume for the fall. Advertising deadline for the Sunday (8/21)=
+ issue of <em>onCampus Weekly</em> for undergraduates is Wednesday (8/17). =
+For further information, contact Advertising Manager John Milliken at&nbsp;=
+<a href=3D"mailto:milliken.24@osu.edu">milliken.24@osu.edu</a>&nbsp;or call=
+ <span style=3D"font-family: Arial,sans-serif; font-size: 12px; line-height=
+: 17px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0;"> <=
+a href=3D"tel:614-292-8421">614-292-8421</a> or <a href=3D"tel:614-361-9442=
+">614-361-9442</a>.</span></p>
+        <span style=3D"font-family: Arial,sans-serif; font-size: 13px; line=
+-height: 17px; color: #333333; margin-top: 0; margin-right: 0; margin-left:=
+ 0;">
+          <hr size=3D"1" noshade=3D"noshade">
+        </span></td>
+    </tr>
+  </tbody>
+</table>
+<p style=3D"font-family: Arial,sans-serif; font-size: 14px; line-height: 20=
+px; color: #333333; margin-right: 0; margin-left: 0;"><br>
+</p></td>
+</tr>
+<tr>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" height=3D"25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" bgcolor=3D"#ffffff" width=3D"30"=
+>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- /body --> <!-- subcontent -->
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width: 600px; background-color: #EFEFEF;">
+<tbody>
+<tr>
+<td colspan=3D"3" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr><!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+<!-- content column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"540">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 540=
+px;">
+<tbody>
+<tr>
+<td style=3D"padding: 0; margin: 0;" align=3D"center" height=3D"50">
+<p style=3D"font-family: Arial,sans-serif; font-size: 13px; line-height: 18=
+px; color: #333333; margin-top: 0; margin-right: 0; margin-left: 0; margin-=
+bottom: 8px;"><strong>onCampus Weekly accepts news and event submissions pe=
+rtaining to the Ohio State community. Items must be 80 words or less, and i=
+nclude contact information and a web link (for publication). <br>=20
+  <span style=3D"color: #bb0000;">The deadline for submissions is 5 p.m. We=
+dnesday.</span></strong></p>
+</td>
+</tr>
+<tr align=3D"center">
+<td style=3D"border-top: 0; border-bottom: 1px solid #333333; margin-top: 0=
+; margin-right: 0; margin-left: 0; padding: 0;" align=3D"center">
+<p style=3D"font-family: Arial,sans-serif; font-size: 16px; line-height: 22=
+px; color: #858577; margin-top: 0; margin-right: 0; margin-left: 0; margin-=
+bottom: 20px;"><a href=3D"http://oncampus.osu.edu/osutoday/submitnews.php">=
+<img alt=3D"Submit a news item" border=3D"0" height=3D"45" src=3D"http://on=
+campus.osu.edu/onCampus_Weekly/submitnews_gray.png" width=3D"168"></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1">
+<table align=3D"center" style=3D"background-color:#EFEFEF;width: 600px;" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"4" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr><!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"270">
+<p style=3D"font-size: 13px; color: #333333; font-family: Arial,sans-serif;=
+ line-height: 22px; margin-top: 0; margin-right: 0; margin-left: 0;"><a sty=
+le=3D"color: #bb0000;" href=3D"http://oncampus.osu.edu/osutoday/">onCampus =
+Today Archive</a><br> <a style=3D"color: #bb0000;" href=3D"http://oncampus.=
+osu.edu/poll/">onCampus Bulletin Board</a></p>
+</td>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"270">
+<p style=3D"font-size: 13px; color: #333333; font-family: Arial,sans-serif;=
+ line-height: 22px; margin-top: 0; margin-right: 0; margin-left: 0;"><a sty=
+le=3D"color: #bb0000;" href=3D"http://www.osu.edu/facultystaff/">Faculty an=
+d Staff resources</a><br> <a style=3D"color: #bb0000;" href=3D"http://www.o=
+su.edu/events/indexWeek.php">Event calendar</a></p>
+</td>
+<!-- spacer column -->
+<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"4" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- /subcontent --> <!-- footer --></td>
+</tr>
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#d1d1d1">
+<table align=3D"center" bgcolor=3D"#333333" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width: 600px;">
+<tbody>
+<tr>
+<td colspan=3D"3" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr><!-- spacer column -->
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"left" valign=3D"top"><a href=3D"http://www.osu.edu"><=
+img alt=3D"The Ohio State University" border=3D"0" height=3D"33" src=3D"htt=
+p://oncampus.osu.edu/onCampus_Weekly/osu-web-footer.png" width=3D"280"></a>
+<p style=3D"font-size: 13px; color: #ffffff; font-family: Arial,sans-serif;=
+ line-height: 22px; margin-top: 0; margin-right: 0; margin-left: 0;"><a sty=
+le=3D"color: #ffffff;" href=3D"mailto:oncampusweekly@osu.edu">oncampusweekl=
+y@osu.edu</a></p>
+</td>
+<!-- spacer column -->
+<td align=3D"left" valign=3D"top" width=3D"30">&nbsp;</td>
+</tr>
+<tr>
+<td colspan=3D"3" align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+
+</tbody>
+</table>
+<!-- /footer --></td>
+</tr>
+<tr align=3D"center" valign=3D"top">
+<td style=3D"margin-top: 0; margin-right: 0; margin-left: 0; padding: 0; bo=
+rder: none;" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff">
+
+<!-- /footer --></td>
+</tr>
+</tbody>
+</table>
+<!-- /full-width -->=
+
+--Boundary_foo--

@@ -1,0 +1,1044 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2329647oid;
+        Tue, 14 Jul 2015 09:56:21 -0700 (PDT)
+X-Received: by 10.180.82.230 with SMTP id l6mr33850595wiy.61.1436892981231;
+        Tue, 14 Jul 2015 09:56:21 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x236.google.com (mail-wi0-x236.google.com. [2a00:1450:400c:c05::236])
+        by mx.google.com with ESMTPS id ba10si3721790wib.29.2015.07.14.09.56.20
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 09:56:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::236 as permitted sender) client-ip=2a00:1450:400c:c05::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::236 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=temperror (no key for signature) header.i=@iwu.edu;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x236.google.com with SMTP id a1so103438186wig.0
+        for <kuiperhaumea@gmail.com>; Tue, 14 Jul 2015 09:56:20 -0700 (PDT)
+X-Received: by 10.194.236.199 with SMTP id uw7mr85375614wjc.92.1436892980209;
+        Tue, 14 Jul 2015 09:56:20 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2076685wmd;
+        Tue, 14 Jul 2015 09:56:18 -0700 (PDT)
+X-Received: by 10.50.28.78 with SMTP id z14mr20720239igg.61.1436892977813;
+        Tue, 14 Jul 2015 09:56:17 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o3.mx.technolutions.net (o3.mx.technolutions.net. [198.37.152.151])
+        by mx.google.com with ESMTPS id m8si1876682igv.46.2015.07.14.09.56.16
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 09:56:17 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 198.37.152.151 as permitted sender) client-ip=198.37.152.151;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=iwu.edu; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=bAPTZhOl8RTGRigg5KZTU0H6pNg=; b=m9vPK+fX1hdek+5GIDVsWmkVl0lH7
+	qTQDcMylBp5m7EVTQwOn2TweIEmiNYqqEMypeci65RiFT9f6dZkrYJAINhbu8SuJ
+	P10XsR0P5ysjcFvFcPBdzbvp7q4hWsnhjP1FdVSOih7G/5e6U+zQ37kMkgqrO4Ye
+	h3NmlBfBjD9YFo=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=bAPTZhOl8RTGRigg5KZTU0H6pNg=; b=dyo3pphf/zI0h/bcT+UUoc3eZwe1O
+	ICwf8fyCHL6xPPvnzu+UJBPlKXxe+x/m/vDjVYgdj3Ikwtlhk8o41zVV7/vUaHuY
+	nYdIlu/AoahA9Yi2l6jfaXpsVs9dPOpNtuX5qVHKkALG10O3k5aRJYP2HoLQ/MaG
+	a88AGtC2UfA+OA=
+Received: by filter0644p1mdw1.sendgrid.net with SMTP id filter0644p1mdw1.28915.55A53F2DE
+        2015-07-14 16:56:13.97676165 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-033 (SG) with ESMTP id 14e8d7ecbac.6c23.8e424
+	for <markiewicz.john@gmail.com>; Tue, 14 Jul 2015 16:56:13 +0000 (UTC)
+From: "Illinois Wesleyan University" <iwuadmit@iwu.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Illinois Wesleyan University Campus News
+Date: Tue, 14 Jul 2015 16:56:11 +0000
+Message-ID: <3ccc6d8d-775c-4f73-bf51-1526486ba38d@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_eb88e43e-78c9-452a-ad57-b49faf8c2852"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGizF8GLPC5OdyKEaHcLeit6E6NIyFoJaCZ61
+ K5BkCyOocWeLuZafMlGFFoM68Da94n3jLWhj/KzNjBt7wcChOY06hfeC5yyrL/dhKsB5RV52wQLpaz
+ 3L7LC/mKqMxxbz4HVxkaUrH4zpE1FsZ0zm1H
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegHnHWDEtNMdLV4gNSiDzI0mK3fmDez1ju+s/l+DHv3fGU5YaUA7l3EfGQ4
+ KFliT3KKzDyprbZOG+o4s/LTmA9zo+etaSkTKEwj03tOzk8SsiZ3ZZZBD2mv0lBdNC6Y0Q8E5xVf7y
+ S2BA6onfLQsaDtKzyOuSelL71PS48F59FsXaQo3gX4C1tHNaFuX7KC3gOCyfJ92HthpO+SfD6tQVdW
+ npzdTo2j9S7Gv/EmnYyOR/
+
+------=_0_eb88e43e-78c9-452a-ad57-b49faf8c2852
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+View as a web page <https://www.iwu.edu/newsletters/titans-2015-07.html>
+
+Illinois Wesleyan News for Prospective Students and Parents
+
+
+July 2015
+
+
+Campus News
+
+ <https://www.iwu.edu/news/2015/pre-med-student-researching-alligators.html=
+?utm_source=3Dprospective>Pre-Med Student Studying Alligators <https://www.=
+iwu.edu/news/2015/pre-med-student-researching-alligators.html?utm_source=3D=
+prospective>
+As a marine biomedicine and environmental sciences intern at the Medical Un=
+iversity of South Carolina in Charleston this summer, Brendan Finnell '16 i=
+s researching environmental contaminants in American alligator populations.
+
+ <https://www.iwu.edu/news/2015/ecology-and-music-interests-combine-in-stud=
+ents-coral-reef-research.html?utm_source=3Dprospective>Student Combines Eco=
+logy, Music Interests in Coral Reef Research <https://www.iwu.edu/news/2015=
+/ecology-and-music-interests-combine-in-students-coral-reef-research.html?u=
+tm_source=3Dprospective>
+Music and ecology double major Madz Negro '16 explored the soundscape of co=
+ral reefs during her study abroad in Panama.
+
+ <https://www.iwu.edu/news/2015/jakob-interning-at-international-business-n=
+etwork.html?utm_source=3Dprospective>Jakob '17 Interning at International B=
+usiness Network in New York <https://www.iwu.edu/news/2015/jakob-interning-=
+at-international-business-network.html?utm_source=3Dprospective>
+For economics major Brigitta Jakob '17, meeting major figures in the field =
+of international trade is a highlight of her internship at the American Ind=
+onesian Chamber of Commerce.
+
+ <https://www.iwu.edu/news/2015/biology-students-identify-phages.html?utm_s=
+ource=3Dprospective>Students Find, Name Bacteriophages <https://www.iwu.edu=
+/news/2015/biology-students-identify-phages.html?utm_source=3Dprospective>
+Illinois Wesleyan biology faculty and 39 IWU students were among nearly 3,0=
+00 scholars who sequenced bacteriophages in a nationwide project.
+
+ <http://www.iwusports.com/news/2015/6/22/WTRACK_0622154215.aspx?utm_source=
+=3Dprospective>Illinois Wesleyan Notches 117th All-American <http://www.iwu=
+sports.com/news/2015/6/22/WTRACK_0622154215.aspx?utm_source=3Dprospective>
+With the election of track star Allie Boudreau '15, Illinois Wesleyan is ti=
+ed for 13th among all participating colleges and universities in its number=
+ of Academic All-American student-athletes since the program began in 1970.
+
+
+
+Scholarship Opportunities
+
+ <https://www.iwu.edu/news/2012/09-faculty-french-NSF-grant.html>Our studen=
+ts have a variety of opportunities to pursue research and creative work <ht=
+tps://www.iwu.edu/research/scholarships.html?utm_source=3Dprospective> supp=
+orted by stipends. Kyle Connour '15 <https://www.iwu.edu/news/2015/physics-=
+major-connour-reaches-for-stars.html?utm_source=3Dprospective> traveled to =
+the Cerro Tololo observatory in Chile, supported by an NSF grant awarded to=
+ his faculty mentor.
+
+
+Internship Possibilities
+
+ <https://www.iwu.edu/ccenter/students/internship-news.html?utm_source=3Dpr=
+ospective> To help you discover internship options <https://php.iwu.edu/int=
+ernships/?utm_source=3Dprospective>, our Hart Career Center has compiled in=
+ternships, paired with the student's major at Illinois Wesleyan. Jonathan M=
+cBride '15 <https://www.iwu.edu/magazine/2014/summer/first-generation-jonat=
+han-mcbride.html?utm_source=3Dprospective> gained a paid internship through=
+ Illinois Wesleyan's Summer Enrichment Program <https://www.iwu.edu/student=
+-diversity/SEP.html?utm_source=3Dprospective>.
+
+ More Internship News <https://www.iwu.edu/ccenter/students/internship-news=
+.html?utm_source=3Dprospective>
+
+
+Connecting College Majors to Careers
+
+ <https://www.iwu.edu/news/2015/graduating-seniors-ready-to-take-on-the-wor=
+ld.html?utm_source=3Dprospective>Search your interests <https://php.iwu.edu=
+/careerfinder/?utm_source=3Dprospective> to see what careers are possible w=
+ith any major from Illinois Wesleyan. Before he graduated in May, business =
+administration major Leo Martinez '15 <https://www.iwu.edu/news/2015/gradua=
+ting-seniors-ready-to-take-on-the-world.html#leo> secured a job as systems =
+engineer in the IT department at Progressive Insurance in Colorado Springs.
+
+ See What Others in the Class of 2015 are Doing <https://www.iwu.edu/news/2=
+015/graduating-seniors-ready-to-take-on-the-world.html?utm_source=3Dprospec=
+tive>
+
+
+
+Value of a Liberal Arts Education
+
+ <http://www.forbes.com/sites/nataliesportelli/2015/04/13/liberal-arts-majo=
+rs-are-the-most-desirable-employees-boom-brands-talk-millennial-success/>"C=
+ongrats Liberal Arts Majors, You're the Most Desirable Employees" <http://w=
+ww.forbes.com/sites/nataliesportelli/2015/04/13/liberal-arts-majors-are-the=
+-most-desirable-employees-boom-brands-talk-millennial-success/>
+A star-studded panel of entrepreneurial leaders said liberal arts instituti=
+ons produce graduates who bring the freshest ideas as employees.
+
+See More Media Reports on the Liberal Arts <http://www.iwu.edu/admissions/l=
+iberal-arts-value.html?utm_source=3Dprospective>
+
+
+We hope you enjoy this edition of our campus newsletter, sharing important =
+happenings at Illinois Wesleyan University and news about the Titan communi=
+ty.
+
+
+Titans In The News
+
+Crain's Chicago Business
+Trissa Babrowski '98 <http://www.chicagobusiness.com/article/20150627/ISSUE=
+01/306279999/amputations-are-expensive-u-of-c-has-an-unusual-solution?X-Ign=
+oreUserAgent=3D1> is a vascular surgeon spearheading a campaign to reduce a=
+mputations through preventative care at University of Chicago Medicine.
+
+The Kansas City Star
+Living her dream of a Broadway career, Lisa Karlin '05 <http://www.kansasci=
+ty.com/entertainment/performing-arts/article25928167.html> is visiting her =
+native state this summer in the cast of a national tour company's productio=
+n of "Pippin."
+
+Springfield Business Journal
+Erika Holst '01 and Karen Carlson '97 were named among the region's 40 Unde=
+r 40 <http://springfieldbusinessjournal.com/wp-content/uploads/PDFs/SBJ_Jul=
+2015_WEB.pdf> outstanding young professionals.
+
+Chicago Tribune
+Hayley Rice '04 <http://www.chicagotribune.com/suburbs/western-springs/life=
+styles/ct-dhd-go-winters-tale-tl-0709-20150702-story.html> is co-directing =
+"A Winter's Tale" at Oak Brook's First Folio Theatre with her mother and fe=
+llow IWU alumna, First Folio Artistic Director Alison Vesely '79.
+
+Windy City Times
+ Writer and director Nicholas Reinhart '11 <http://www.windycitymediagroup.=
+com/lgbt/16th-annual-30-Under-30-Honoring-the-best/51922.html> was named am=
+ong 30 Under 30 best and brightest individuals in the Chicago LGBTQQIA+ you=
+th community.
+
+The (Champaign) News-Gazette
+Celia Williams '17 <http://www.news-gazette.com/arts-entertainment/local/20=
+15-06-25/john-frayne-bach-helps-young-talent-shine.html> earned a rave revi=
+ew for her performance in the Young Baroque Artists Showcase Concert.
+
+Nashville Business Journal
+In a change of leadership, Brookdale Senior Living President and Chief Fina=
+ncial Officer Mark Ohlendorf '82 <http://www.bizjournals.com/nashville/blog=
+/2015/06/brookdale-shakes-up-c-suite-begins-search-for-new.html> will trans=
+ition to an enhanced role as president.
+
+(Arlington Heights) Daily Herald
+Jennifer Oswald '15 <http://www.dailyherald.com/article/20150708/submitted/=
+150709127/> will talk about her experiences at Good Hope School in Tanzania=
+ through A Broader View Volunteers.
+
+The (Ottawa) Times
+Jazz pianist and composer Sean Parsons '01 <http://www.mywebtimes.com/life/=
+benefits-july-concert-will-assist-nci-artworks/article_ef491244-58d5-501e-8=
+a95-bd19c0e29895.html>, assistant professor of jazz studies and music theor=
+y at Ohio University, will present a jazz master class and a benefit concer=
+t.
+
+
+
+> More Titans in the News <http://www.iwu.edu/news/2015/clips/?utm_source=
+=3Dprospective>
+
+
+
+
+This newsletter is a monthly electronic publication of Illinois Wesleyan Un=
+iversity's Communications Office <http://www.iwu.edu/news/?utm_source=3Dpro=
+spective> in conjunction with the Admissions Office <http://www.iwu.edu/adm=
+issions/?utm_source=3Dprospective>. To unsubscribe, email iwuadmit@iwu.edu =
+<mailto:iwuadmit@iwu.edu>
+
+Illinois Wesleyan University
+www.iwu.edu <http://www.iwu.edu/?utm_source=3Dprospective>
+PO Box 2900
+Bloomington, IL 61702
+(309) 556-3031
+
+
+This email was sent to markiewicz.john@gmail.com by Illinois Wesleyan Unive=
+rsity.
+Unsubscribe from IWU Newsletter. <https://admissions.iwu.edu/go?r=3Doptout&=
+mid=3D3ccc6d8d-775c-4f73-bf51-1526486ba38d>=
+
+------=_0_eb88e43e-78c9-452a-ad57-b49faf8c2852
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+ /><link href=3D"green" />
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U=
+8NxLEwpUzHoF-2BX8hNN-2B01xLyTA9r-2BFFOfjfrUJGl-2FuKbbKo80bBDzHW8uezVBCIAYRF=
+bKT8w-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwk=
+Fi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfc=
+omThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznW=
+nYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0B=
+jzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFQ8oOZd90RZ7-2BmQ0h-2F-2BZDarIoM4Rt7n=
+42z4bnEJgr75p-2ByH-2BUGmNZh5dUT0pA5zPtNTyNa9q6sKvQYMyIlO3pTZkI9tgueFbqqxSz5=
+mNROJP2QHwK2pBZTChtPb2Uh0etOVqndWA24YnGC53C507F5eRnOkjXg7qPJAxeyY-2FJEVw-3D=
+-3D">View as a web page</a><br /><br /><!-- Header Image --><table style=3D=
+"width: 650px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"c=
+enter" bgcolor=3D"#EEEEEE"><tbody><tr><td><a style=3D"color: #23965a; text-=
+decoration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2=
+Fn6YekwlwAzpDulOpxxBd-2FnTpRQhoDmtgt5l5f8lCueW-2BxLjQTM3GjR6XJaz1_fl-2FMBkJ=
+MX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-=
+2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-=
+2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0=
+K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2=
+F4qP8914ENOe1ZOZfGZkvV1RyJpvinQigmfv8tXE48sUPq0qL9g4KbCG8vztYu-2BffXAPh5Gbh=
+mpx0DZCItofoNvoL3y7wXEMsl69Pp8RKC9l9BhZiUE-2FWuiLQOQZK5Nk-2B9NHaRVn9HHdt9fj=
+AI76OpXAynHmE248OBJP0L8Xer7Zcepy2nYycjyF-2FlSJQ-3D-3D" target=3D"_blank"><i=
+mg border=3D"0" alt=3D"Campus Weekly" height=3D"123" width=3D"650" src=3D"h=
+ttps://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_=
+Q-3qWOtWEv64b2LzrEMs2hXuYde82tBC7POzBnL9cgzUX3EqiCLVHZYa_vG-p5SbAoarlFxI3g0=
+xh7Su-KuzdSBh7CyfapgT" /></a></td></tr></tbody></table><!-- Content --><tab=
+le style=3D"text-align: left; font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: 14px; line-height: 18px; color: #505050; width: 650px;" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"8" align=3D"center"><tbody><tr><!-- New=
+s Line and Date --><td width=3D"440" bgcolor=3D"#FFFFFF"><p style=3D"color:=
+ #848484; text-align: left;"><em>Illinois Wesleyan News for Prospective Stu=
+dents and Parents</em></p></td><td style=3D"background: #F7F2DF url('https:=
+//www.iwu.edu/writingguide/images/background-texture.png') repeat left top;=
+" width=3D"210"><p style=3D"color: #848484; text-align: right;"><em>July 20=
+15</em></p></td></tr><tr><td valign=3D"top" bgcolor=3D"#FFFFFF"><!-- Campus=
+ News | Left Column --><h2 style=3D"padding-bottom: 5px; font-weight: norma=
+l; font-size: 18px; color: #8bb37f;">Campus News</h2><p style=3D"clear: lef=
+t;"><a style=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.t=
+echnolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-=
+2BdAIlTMRfmE3ypILETpkD52xId7IavFh8kRFQeX3oEW-2B-2FBFpnRE2CfY8nEQh5HwDJzMIZ9=
+D1eID20vBgMJBWCY5Cns1ZsoOxAx0hcBS4Ag2BYQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxD=
+F5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GY=
+yEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHT=
+OK0uNEIUSOGbdpwj7uJOlumwMEtu79CC88xSy-2F999gIEw-2FbYWWH8g6ZKML6GjwCCDjXmnNW=
+cRFR2IG17X1KsvyeiQJh81j5SSeD9nIpWO-2FVFG-2B8OhY0cBTww9yyMDwQWP7a8j8e3mDj8lW=
+iAI7gNAtrEFaxcXQ-2FP6035nZqTSw-3D-3D" target=3D"_blank"><img style=3D"float=
+: left; margin-right: 10px; margin-bottom: 10px; width: 100px; height: 100p=
+x; border: 0;" alt=3D"Brendan" align=3D"left" height=3D"100" width=3D"100" =
+src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwK=
+igz_j51_Q-3qWOtWEv7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzJ0PRMlshtzoOmOEy-9UX3vXBN=
+W9fuVbK0FqcbA8nKb40HaUeEoDf6ctg3f7QqP04I" /></a><a style=3D"color: #23965a;=
+ text-decoration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=
+=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdAIlTMRfmE3ypILETpkD52xId7I=
+avFh8kRFQeX3oEW-2B-2FBFpnRE2CfY8nEQh5HwDJzMIZ9D1eID20vBgMJBWCY5Cns1ZsoOxAx0=
+hcBS4Ag2BYQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6A=
+BGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2=
+Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFTi-2FepRlsN4-2BeHBZ-2F5Bn5a5GZ=
+4Ja9BjXS-2FG1Cuh199eHed7XTYNa6aUmUWjOHIeZQaPLQZaveh5Y6d-2BwlKOmTLMmLcGW81ZL=
+9gIlKv4uGvBi1gQedHBKr9xYyChJ09T-2BBeo47isHZEGgFc1F9sH3oTMqjV0X4w4SD7J6jz2EM=
+Ijw-3D-3D" target=3D"_blank">Pre-Med Student Studying Alligators</a><br />
+As a marine biomedicine and environmental sciences intern at the Medical Un=
+iversity of South Carolina in Charleston this summer, Brendan Finnell '16 i=
+s researching environmental contaminants in American alligator populations.=
+</p><p style=3D"clear: left;"><a style=3D"color: #23965a; text-decoration: =
+none;" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8=
+NxLEwpTaEtJvNCBxLtNhzSXPK-2BdB0-2BO0ZaupQiknqUVo96Y9uVCoHMd5RcpkzDiDc2nDv68=
+8L1Z8YOxm1zjD2mBZDjaA0GAiXcNm5aU0wQ-2BTKhauYObQb6bFXgXguU-2BJQqoRVk7ZYORkT-=
+2BUSkHHAZwdvnrowzgxJteb-2Fq1K-2BaFKMSzVhd_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc=
+T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5g=
+BdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR=
+7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2=
+BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFoNq1Me=
+O9vrdkSuwBZcMoCqRpGdz2N03ryeKoxoApMTI-2BaRPuoCFyycBO7RI6MX6q2WVtyhqw6stVBEy=
+3CFeSrw3bgn4VyrNfZrVutM7RPuGg8lTl2yjMl4LYyHnBcbn7DMGzcHxPT33PU4zdztrNS61L8I=
+Byzhhw8JLXQAREGjQ-3D-3D" target=3D"_blank"><img style=3D"float: left; margi=
+n-right: 10px; margin-bottom: 10px; width: 100px; height: 100px; border: 0;=
+" alt=3D"Madz" align=3D"left" height=3D"100" width=3D"100" src=3D"https://d=
+2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtW=
+Ev7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzKlpnPSKgB5cJkFyVRyL3H2mYHFHR73n5JNYF6JCnz=
+qrrUensMoNH9uV_4uycwitYA" /></a><a style=3D"color: #23965a; text-decoration=
+: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8=
+U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdB0-2BO0ZaupQiknqUVo96Y9uVCoHMd5RcpkzDiDc2nDv=
+688L1Z8YOxm1zjD2mBZDjaA0GAiXcNm5aU0wQ-2BTKhauYObQb6bFXgXguU-2BJQqoRVk7ZYORk=
+T-2BUSkHHAZwdvnrowzgxJteb-2Fq1K-2BaFKMSzVhd_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D=
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA=
+5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5M=
+CR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd=
+-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFpDe-=
+2B6Oiry-2BgWK-2FhGHeUqmMKdr33ncwyQz2bzZvrtSnB1puDISm4MKVcDn-2BTAieuSCp0TpXH=
+Cb40qRADX1dtFdEi4Wc4pGEPs-2BKJ5dN6kS1vxhfzL-2BB85a52sEOwJ0UTK52GN1ovYmievRE=
+xAJcvnjRXxX3ZOBEk5NcYK0bs1z9w-3D-3D" target=3D"_blank">Student Combines Eco=
+logy, Music Interests in Coral Reef Research</a><br />
+Music and ecology double major Madz Negro '16 explored the soundscape of co=
+ral reefs during her study abroad in Panama.</p><p style=3D"clear: left;"><=
+a style=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.techno=
+lutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdC2=
+0s3PXZXk-2FKGvQP6IIfe8HTvzKn6xgZNaMWd1J7gdZrLFozGZR1MJcuZmjUqCiJno9urZYRTQ8=
+o2tXGlKlp-2FH6qM8pfX3VR0DHoYu2UFhbpGi9fHZkA1HyxqI4yTPo6Q-3D_fl-2FMBkJMX7HXb=
+lz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4=
+PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7d=
+L4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H=
+4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP89=
+14ENOe1ZOZfGyKxiC7q1egroMVpZA-2BjWrObKZJfdF5UzBA1a-2BlwGka-2Bv4ELHZMr1JG3ZI=
+WpG2WKAI01jhLIklDW2xeDfVAfVlGl8EgMjWAUfHEJg0f8VsOBXUlLjPGUqUhv-2Fv5TkRdOHYW=
+S20d0w4Zy-2Bz-2FOiYZB2RHFywzrwDFygKckUQajPS6A-3D-3D" target=3D"_blank"><img=
+ style=3D"float: left; margin-right: 10px; margin-bottom: 10px; width: 100p=
+x; height: 100px; border: 0;" alt=3D"Brigitta" align=3D"left" height=3D"100=
+" width=3D"100" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF6=
+16sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzK2SaHrDfI=
+xW_ghq_7Ajw-eZs3IuSBiFU0zTrMPo6NIFtCijnXImKz1" /></a><a style=3D"color: #23=
+965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/click?=
+upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdC20s3PXZXk-2FKGvQP6IIfe=
+8HTvzKn6xgZNaMWd1J7gdZrLFozGZR1MJcuZmjUqCiJno9urZYRTQ8o2tXGlKlp-2FH6qM8pfX3=
+VR0DHoYu2UFhbpGi9fHZkA1HyxqI4yTPo6Q-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9u=
+m4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdY=
+Q7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH=
+9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2Byb=
+HdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfEVp92dzsfX=
+kWksE2zqN0sOl-2F9rojID2OGwyu4bCimJhWsTz9PXy9w7SpzNnwEc58v2yxDtWbDATN2wV5H-2=
+FNnZhIjH2-2Bn8paCSaRUy8erCF6ZvQKuXZUIitflFViwfEU55szkvVW8J1COrdYvTQqnpDrBYK=
+UW4uHX1e4U70CKtSEQ-3D-3D" target=3D"_blank">Jakob '17 Interning at Internat=
+ional Business Network in New York</a><br />
+For economics major Brigitta Jakob '17, meeting major figures in the field =
+of international trade is a highlight of her internship at the American Ind=
+onesian Chamber of Commerce.</p><p style=3D"clear: left;"><a style=3D"color=
+: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdCTVoNdbCC9GVs8ZDbl=
+SFI-2FLjdOR2XNeJodQ8iDk3VNd8ufrNH8YhTQBMFT5uyFhayLPas2ar28p233us9xAYgRfAC2-=
+2B8RdZ-2BH1B5yXCDbhSQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3=
+m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F7=
+9lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umb=
+mQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZp=
+x6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFg3mFpJ-2F8r35MDiri-2=
+FEkOdEhTEh0pqVT9Ka1-2FV6JcUEWC0F0JiAH5qjQ6ozeHSsK8a8AobtSihXASlJC3IdjdF-2B9=
+daEnXvT7OP8iuoDOJljuZc-2BUDQi9-2BNiZu12EWDdl5UL0eBftUMleV9Eu-2FEKObxGtsW69Q=
+mq0eq6LI093oZPQ-3D-3D" target=3D"_blank"><img style=3D"float: left; margin-=
+right: 10px; margin-bottom: 10px; width: 100px; height: 100px; border: 0;" =
+alt=3D"Phage" align=3D"left" height=3D"100" width=3D"100" src=3D"https://d2=
+y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWE=
+v7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzJMpH3XxOj0Ui-c5w-CT85KOr1UM1RTfI847g7IrjqR=
+nA" /></a><a style=3D"color: #23965a; text-decoration: none;" href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNh=
+zSXPK-2BdCTVoNdbCC9GVs8ZDblSFI-2FLjdOR2XNeJodQ8iDk3VNd8ufrNH8YhTQBMFT5uyFha=
+yLPas2ar28p233us9xAYgRfAC2-2B8RdZ-2BH1B5yXCDbhSQ-3D-3D_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXw=
+rJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa=
+-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrs=
+T4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENO=
+e1ZOZfHnXqyr76eAtuiReRNsVrunQYt9i7yWjDdEmhfnY0P60Ljcey9FQHGjBbLu1Q3eDtEZZsW=
+MRoIU6kaGmhwuWfKeYsFu73SZ7WBclOcZnyZBMm75qtiCygFzHVMTy5sJ-2F4IDxHW8Xm7stReA=
+cRCdzH-2Bqd4lDroxAgqDM6OJRql8Zjw-3D-3D" target=3D"_blank">Students Find, Na=
+me Bacteriophages</a><br />
+Illinois Wesleyan biology faculty and 39 IWU students were among nearly 3,0=
+00 scholars who sequenced bacteriophages in a nationwide project.</p><p sty=
+le=3D"clear: left;"><a style=3D"color: #23965a; text-decoration: none;" hre=
+f=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2Bn=
+-2BlwDOljZwVoY4-2FVQfl14DrIpUuIRImWEFWX74MP1SlPoNku1o74m5vuVFjmbC4A5TIqAh2s=
+T3wr-2FStSLvh1lmeTsU1TIB9WBDsYjuuKyJ_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4=
+siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7=
+mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9X=
+cYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHd=
+nV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHILAdJ1-2BjA=
+eGjbqq66O4sOcgG3fw7CKTkUv9dBJabhPXuToE1aZOGdW0Kae0pZaqcItNgbvRyqEIPKqO1YSIJ=
+mhxZD6ZYQSL1n9NSVz-2BRgwDEQwBGxoKj4UC2wRB2VOx-2BhVCFJwkrcXmJWShu3KII8cEAYdF=
+ENiMUGaDFXjwI6uw-3D-3D" target=3D"_blank"><img style=3D"float: left; margin=
+-right: 10px; margin-bottom: 10px; width: 100px; height: 100px; border: 0;"=
+ alt=3D"Allie" align=3D"left" height=3D"100" width=3D"100" src=3D"https://d=
+2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtW=
+Ev7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzImStmzDdF0NoYO9scD6selRmVn0OKWitGdGiE2_YK=
+hR6Sf20J-5aI6" /></a><a style=3D"color: #23965a; text-decoration: none;" hr=
+ef=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2B=
+n-2BlwDOljZwVoY4-2FVQfl14DrIpUuIRImWEFWX74MP1SlPoNku1o74m5vuVFjmbC4A5TIqAh2=
+sT3wr-2FStSLvh1lmeTsU1TIB9WBDsYjuuKyJ_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um=
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ=
+7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9=
+XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybH=
+dnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfE0rJZVwuIyS=
+xOCxSo90-2F5fITRHOuVeX-2B6DK9eZxWNHvk-2FNhdW7Exiws2Da-2F0eHTntyPGJ59ONMH5ED=
+b4RZE1Ykh0wQsUJV-2BTJ8SSivXaRmDvFDClW-2BUu-2FyJCeKcz21W5zRDituFerrmlq2BldgC=
+oKGhhGpMbzvxT9ifR6sPKTW2w-3D-3D" target=3D"_blank">Illinois Wesleyan Notche=
+s 117th All-American</a><br />
+With the election of track star Allie Boudreau '15, Illinois Wesleyan is ti=
+ed for 13th among all participating colleges and universities in its number=
+ of Academic All-American student-athletes since the program began in 1970.=
+</p><p style=3D"clear: left;">&nbsp;</p><h2 style=3D"clear: left; text-alig=
+n: center; font-family: Arial, Helvetica, sans-serif; font-weight: normal; =
+margin: 0; padding: 0; padding-bottom: 5px; font-size: 18px; color: #8bb37f=
+;">Scholarship Opportunities</h2><p style=3D"clear: left;"><a style=3D"colo=
+r: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/=
+click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdBiEu-2FdJzAGbC4mR=
+EYyOdXtGZe9oYRidbgp9pUOpUQy5yq0wozBKCAs8XqxnCr4lEU-3D_fl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-=
+2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT=
+4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe=
+1ZOZfGOIfQ33SJqY7jYy-2Bf9eBLUX7-2Bczt2DqXIkT-2B3f9-2FELQ0wsNZY22y1bMA1PL8Y0=
+yVn69hRFv-2FPnhqIyk1v3XD6rqN-2B-2BfaJN8EnpZOTmevtTA5DH3ykYWKAZ1r-2BGgJt53-2=
+FX7-2FxuK41UNNA4cUUz9nwDOavOXRRBtd9DrHuiE7liiGA-3D-3D" target=3D"_blank"><i=
+mg style=3D"float: left; margin-right: 10px; margin-bottom: 10px; width: 10=
+0px; height: 100px; border: 0;" alt=3D"pillars" align=3D"left" height=3D"10=
+0" width=3D"100" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF=
+616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzKBxrUu5w=
+rs9sun6b7sE5iMkztNx84sub7EBpv9j6EJ6014ULREnFwBhmBNrLz_yNc" /></a>Our studen=
+ts have a variety of opportunities to <a style=3D"color: #23965a; text-deco=
+ration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsF=
+ax5Df8U8NxLEwpczzsbf90wddjDcFw9xNZrGE7X0DfPA9tsy3pW49kNRiwD3hbM02Ce39liuGvT=
+V-2F3x-2FAKJLK74TIwOVK9VxIQD0-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHl=
+uMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMm=
+s-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUV=
+e0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2=
+F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfErkPQ18XKb44-2BS=
+xQiEfjWKEpikRCR5wd-2B0uddJBPhQToR6fD0sADt4FKRGyCDlux6NAe4-2Bo8YOZhqc9nkGFho=
+DoHsFJOmDlA6ObFYvG1-2Fg2RxwR8s-2BM2VcJmYX4Ubl4nk6G5T6Y6W1pALU5RkEDq3cQFDYEP=
+rEa4CmyWLLtjnTLg-3D-3D" target=3D"_blank">pursue research and creative work=
+</a> supported by stipends. <a style=3D"color: #23965a; text-decoration: no=
+ne;" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8Nx=
+LEwpTaEtJvNCBxLtNhzSXPK-2BdAtUErgWlqWIqtir8PtAtdDb-2BDAGQQtoqS1GAc3Yson8-2B=
+JQdRUVSQwqW8qzyH8-2FcHjIYSmx280Mm3M1s4oCzPuW65xqALpgxMmNi1l-2BbijySA-3D-3D_=
+fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9=
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmE=
+vqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdS=
+a5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5z=
+M385KIW-2F4qP8914ENOe1ZOZfE7ZuZjXf4zzFZw9s-2Bm01pOu3dAjW-2Bbf7KYtcofV9Gpe-2=
+F7qTHETs1kwM5isTnkwzyZd5oFBZZmHzJWUbmuaSKA-2BYK3151PiheiNyGGub9jXAb-2FSCcg5=
+bQqA3Vez04q4W3mC8uM4xYh7KMK3B6UoQAIdT4-2BswRrqBgzNT2wfuc0eng-3D-3D" target=
+=3D"_blank">Kyle Connour '15</a> traveled to the Cerro Tololo observatory i=
+n Chile, supported by an NSF grant awarded to his faculty mentor.</p><br />=
+<h2 style=3D"clear: left; text-align: center; font-family: Arial, Helvetica=
+, sans-serif; font-weight: normal; margin: 0; padding: 0; padding-bottom: 5=
+px; font-size: 18px; color: #8bb37f;">Internship Possibilities</h2><p style=
+=3D"clear: left;"><a style=3D"color: #23965a; text-decoration: none;" href=
+=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpdcMzi=
+33hSxs4bUrPfpemd1aiVtU0JEkci4bCviWg-2BWR-2FC141c-2BvezhBIqdnTTVRfi8M1zgBAan=
+Phd48-2FMIltTc2ETBi1FQoQEFMDrqfoK4I_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4s=
+iHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7m=
+mMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9Xc=
+YUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdn=
+V-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfH2cnhDGZcxO4z=
+p-2FVqaEELjYduC-2BHfNZeLvBjAVF7su4PXel99tTxdl6pB2MRmwh6-2BfANNR4woCC3BWyKeH=
+R6lq6R4dryeGdM2Pd2SOFfHVsPCQUjXsEiRD7thxCzZ-2FGmCKFNIBIeqzU7nd7J5TJqMsJKoRI=
+9-2FgXEZbqw1H8BGQNA-3D-3D" target=3D"_blank"><img style=3D"float: left; mar=
+gin-right: 10px; margin-bottom: 10px; width: 100px; height: 100px; border: =
+0;" alt=3D"Christy" align=3D"left" height=3D"100" width=3D"100" src=3D"http=
+s://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3=
+qWOtWEv7EBz4PbD5UbXsnz25U4_i1nZAEwD8k3lsS6t7G49xOuqgDlTWvLPtOWofLrKGcU0fAXu=
+MU6qAJkuKpnXjYiHAt9ZHlPDwPMSA" /></a> To help you <a style=3D"color: #23965=
+a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=
+=3Dc6YuzeQrTj9zTbvz2jYueyrJ0M8Q5lplAZcAFLugEq-2B-2FBb7lCKJKrfeRINGhQnE2SxLV=
+GrRqGJWWefuyrUs4ew-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6j=
+jsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lM=
+eJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7=
+J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6o=
+A-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfErc7RkyLb5r6P-2FPzVloz0U=
+zkFVcAzHNpBK6ICz3bDqPKP1OW5QeKVj0bi57ADVYl9BYmTjr7L5F-2BB9Wo-2BI4nVMjcrJNT8=
+FaPc86WjKhT3nomBlhwlsnafGZs42M4plqVouMB9DJvze6uesOS0ElJa-2FuNvVMjUOPKdpl2BD=
+EaRTHQ-3D-3D" target=3D"_blank">discover internship options</a>, our Hart C=
+areer Center has compiled internships, paired with the student's major at I=
+llinois Wesleyan. <a href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B=
+5DWCsFax5Df8U8NxLEwpXrxfDofMNqdO6l43VCm2pNblHioKsSuuK5ymnHfcI9lNdSnOfe7vaZq=
+dssZzlvMNK-2FGdqK2RkLLFbWWbLQ7SiUdvJ1pm8bW3Xlslt6iPdnLXCqkSOGaIStKsMkrsiU-2=
+BvA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi=
+-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcom=
+ThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnY=
+BfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0Bjz=
+ARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHfzsjExT-2F2Rb33Sa1x9i6KUJZxDgRZgFOsErT=
+9Ig5BQ9hKUD0qYt77OtPUsKATFbpF0b-2BT5CX-2BDhEkTrQzXNznKCUPgK0HcQDzMXSv5sDp0C=
+TMqxcGQjEO8wrd6KdG5P-2B8d1IJmUPe9PX3NulH6A54KHVLa7UMqRKrHjWx40Uqfw-3D-3D" t=
+arget=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Jonathan =
+McBride '15</a> gained a paid internship through Illinois Wesleyan's <a hre=
+f=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpVGRh=
+G8GtRaBBsmM90ct0DZN6wp4kdiNgFl-2BocFr8qZykkD25EXYbvZcHayRdvhnrNJOe2t5S8Ipyq=
+YRp0IKQ5k-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zw=
+kFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxf=
+comThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSzn=
+WnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0=
+BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfGPDo7bUVLb1W18LoSrQ1zj-2FTEjC1Ag1QTb=
+2KSvv-2FQXApsJSY9mubx2ZIm2DWPpr2rqh-2Bi81ky9NdRqrbsHI9z2r5kBjmwl1nvSs7yePE9=
+rAyutQJaO4lW-2BrF5NzxDCb-2F0h-2FFjThzy-2FoMtUqWk5aun4wxdjOVuZh-2BTCRP1e8WlI=
+-2Bw-3D-3D" target=3D"_blank" style=3D"color: #23965a; text-decoration: non=
+e;">Summer Enrichment Program</a>.</p><p align=3D"center"><a style=3D"color=
+: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3D-2B5DWCsFax5Df8U8NxLEwpdcMzi33hSxs4bUrPfpemd1aiVtU0JEkci4bCviWg-=
+2BWR-2FC141c-2BvezhBIqdnTTVRfi8M1zgBAanPhd48-2FMIltTc2ETBi1FQoQEFMDrqfoK4I_=
+fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9=
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmE=
+vqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdS=
+a5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5z=
+M385KIW-2F4qP8914ENOe1ZOZfGENFPvNiTEEl5hFvLJOeD9m2kAw96JW3iVvSHM-2BSlQt7X-2=
+BUeD9j4pqJS3SZ3iqDxUnd7mh3kb0YSLeq2sXsnVVdF4C6BU602OpXLOSCcSOjDWnfgx3CteP0d=
+SI-2FXaFVDXeOFOunyNyH9eGSYyuQ6rDgmT51WE2CVyeqXwuMQHljg-3D-3D" target=3D"_bl=
+ank"><img border=3D"0" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-=
+bgWTcF616uVxA-7Vzr-inMzTiiZlDjzzr8p-DTK-rN6IlhIbp4WE4SNUfbFHmnrsqxABkNjXGQV=
+lboT36t4b1O86WIYRLglgOPEjZtgem0" /> More Internship News</a></p><br /><h2 s=
+tyle=3D"clear: left; text-align: center; font-family: Arial, Helvetica, san=
+s-serif; font-weight: normal; margin: 0; padding: 0; padding-bottom: 5px; f=
+ont-size: 18px; color: #8bb37f;">Connecting College Majors to Careers</h2><=
+p style=3D"clear: left;"><a style=3D"color: #23965a; text-decoration: none;=
+" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEw=
+pTaEtJvNCBxLtNhzSXPK-2BdDFphPQCLnkveBAo-2BQcZRVbrzmG2fKcRnSJlpcxD06IRMGUf6t=
+rjN9zVhoqnjkzTnjeDDmQfQXA64bI3SfH9YsKLdaGxn9SdwQRu4pi2HHMBA-3D-3D_fl-2FMBkJ=
+MX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-=
+2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-=
+2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0=
+K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2=
+F4qP8914ENOe1ZOZfFSAx6VTqsHnchyS0zFbR4u6UZ2puGB-2BGW4RuVFIzGFKmBTgfHYD9biGk=
+WLjt41i9I3uWlMQCj19O1QLIXS0ABUlb-2B46i2sso3atZEofdrCV71K4IHaCMQ5CsgoFzCirTF=
+4G1jknwyKvyMWZNLyf5GjDt2gcTmtw1fzWy9pI7l44A-3D-3D" target=3D"_blank"><img s=
+tyle=3D"float: left; margin-right: 10px; margin-bottom: 10px; width: 100px;=
+ height: 100px; border: 0;" alt=3D"Mark" align=3D"left" height=3D"100" widt=
+h=3D"100" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i=
+5vVrdHNwwKigz_j51_Q-3qWOtWEv7EBz4PbD5Ubel2i1h3aopQTgA_Yf_0wzJbDQljeO-GWHjeF=
+eciZFPiPplVBEtqg2ziIMhxwfZY6UFEcfUtw58jweFV_hWm8iQ" /></a><a style=3D"color=
+: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3Dc6YuzeQrTj9zTbvz2jYue7E3PmaRln-2BVtRdXwdNbHUNLbtyxba00-2BfFzDt39=
+9PLoBr33SUGgH9iDVibde977sA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHl=
+uMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMm=
+s-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUV=
+e0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2=
+F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfECUjmgdbkqB6loEu=
+BCjfVjxeB0EzhzSwrWaYXAzDJonaEBB0vqjEZBIbv-2Fet0-2BiGvOOdDP5vLYsfNURrigiafh6=
+uU5KzNzDkelVxyIenUcH0QA1zOZyhhezaAasDv7FIlGgV-2BWQuanPyHCrEs4hStQsyV16Pzd36=
+O7V-2Fj0UPQbMA-3D-3D" target=3D"_blank">Search your interests</a> to see wh=
+at careers are possible with any major from Illinois Wesleyan. Before he gr=
+aduated in May, business administration major <a href=3D"http://mx.technolu=
+tions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdDFph=
+PQCLnkveBAo-2BQcZRVbrzmG2fKcRnSJlpcxD06IRMGUf6trjN9zVhoqnjkzTnghxImtVW5d3Ss=
+mBVfZnrjL_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi=
+-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcom=
+ThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnY=
+BfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0Bjz=
+ARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfF82exMHry4aFkhSJeeRHHpzIHtYdEgOD4R22f4Y=
+J5R4JExmEGDfonuA2d6lGTGTXVAz5Ft5hlU7Ij9ECHwD6378fTH80TGibPj8wtWZ-2FFQynIUc-=
+2F5w6c6AjAlidK3cLrAwtaaBQHwcTYSVoveZfFNIlsrt7tgK-2FzpuGvV9jGXnBw-3D-3D" tar=
+get=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Leo Martine=
+z '15</a> secured a job as systems engineer in the IT department at Progres=
+sive Insurance in Colorado Springs.</p><p align=3D"center"><a style=3D"colo=
+r: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/=
+click?upn=3D-2B5DWCsFax5Df8U8NxLEwpTaEtJvNCBxLtNhzSXPK-2BdDFphPQCLnkveBAo-2=
+BQcZRVbrzmG2fKcRnSJlpcxD06IRMGUf6trjN9zVhoqnjkzTnjeDDmQfQXA64bI3SfH9YsKLdaG=
+xn9SdwQRu4pi2HHMBA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6j=
+jsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lM=
+eJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7=
+J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6o=
+A-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFAEXbymJwYxbZef-2BZ8ZCJA=
+nPA3TD5cYHr9935jk9mPSD-2F11TCRh4v5lK-2FCnxRTOxEtCugK9VhHfhh0yBQBb1A1CD-2FW4=
+HbRxvpXwWWd4rmW3ma06nPUgh8vNqhL2WNoXlTSf-2FA-2BatQKt0lTMUX47TYl2cpDgoxWjO2A=
+5jrjrxDnpw-3D-3D" target=3D"_blank"><img border=3D"0" src=3D"https://d2y48w=
+7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616uVxA-7Vzr-inMzTiiZlDjzzr8p-DTK-rN6I=
+lhIbp4WE4SNUfbFHmnrsqxABkNjXGQVlboT36t4b1O86WIYRLglgOPEjZtgem0" /> See What=
+ Others in the Class of 2015 are Doing</a></p><br /><br /><h2 style=3D"clea=
+r: left; text-align: center; font-family: Arial, Helvetica, sans-serif; fon=
+t-weight: normal; margin: 0; padding: 0; padding-bottom: 5px; font-size: 18=
+px; color: #8bb37f;">Value of a Liberal Arts Education</h2><p style=3D"clea=
+r: left;"><a style=3D"color: #23965a; text-decoration: none;" href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx5ktzLoyQg3ar8K=
+mWVV9r7dlfYdrS31a4DwTNV4h3TUUNJWDDhieUA7D5uat4jxG1VtkwP8oIPWDJF-2BPQ-2BbKQh=
+9jaGrdO6gkDE7kHwQ0O6YI9CqYyBUY7T38EOQAMvdwlDz6EzzCe0OFtSDagipflbv3lOrCYuJSu=
+8Wy0XboqsEy68iix3IFQB-2FGss34kUyNJg-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1Dpc=
+T9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5g=
+BdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR=
+7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2=
+BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfGJK-2Bj=
+kmjZfFSHh4Ya-2FOtJ5xXkkWweDrRFdDq64wIAwBJ9ngRPMsc8LPv2epoFJm25-2FlxUrQwL3sW=
+-2FQ2mN4FZUB4ShNG-2FpsVdeXgU8WbFHi-2FmqEInpNNps1R-2BHxDtDfqIDh4z2oQhkRzmXlP=
+p1cwvqRx3McI-2FQmxDigvlMnp1BTCw-3D-3D" target=3D"_blank"><img style=3D"floa=
+t: left; margin-right: 10px; margin-bottom: 10px; width: 100px; height: 100=
+px; border: 0;" alt=3D"panel" align=3D"left" height=3D"100" width=3D"100" s=
+rc=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKi=
+gz_j51_Q-3qWOtWEv7EBz4PbD5UbXsnz25U4_i1nZAEwD8k3luOGyyTxoPo0UY9rLU2Aq09ujcL=
+PutoH2BHU6qV3SExjJLcEyBW0FGv" /></a><a style=3D"color: #23965a; text-decora=
+tion: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yek=
+wlwAzpDulOpx5ktzLoyQg3ar8KmWVV9r7dlfYdrS31a4DwTNV4h3TUUNJWDDhieUA7D5uat4jxG=
+1VtkwP8oIPWDJF-2BPQ-2BbKQh9jaGrdO6gkDE7kHwQ0O6YI9CqYyBUY7T38EOQAMvdwlDz6Ezz=
+Ce0OFtSDagipflbv3lOrCYuJSu8Wy0XboqsEy68iix3IFQB-2FGss34kUyNJg-3D-3D_fl-2FMB=
+kJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2Bv=
+Z-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZ=
+N-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2=
+B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW=
+-2F4qP8914ENOe1ZOZfHG32BMUjhV6AxGCmUxZTQQ-2B7Js3pCJvyDSTAU8wG2UnbVZFbKEbEnJ=
+6WYNhNWB8w4iTvGPHl8eFgiE0En0Z5r4eOuOIo14aoxNDGpfpvHKfGhw4G8vt7vbnB12YSPx8Ho=
+WeDROXYVhMP-2FQtqy3LIlqDyVxYTIZZyWWgmpx2LuDPw-3D-3D" target=3D"_blank">"Con=
+grats Liberal Arts Majors, You're the Most Desirable Employees"</a><br />
+A star-studded panel of entrepreneurial leaders said liberal arts instituti=
+ons produce graduates who bring the freshest ideas as employees.</p><p styl=
+e=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px;" align=3D"=
+center"><img alt=3D"" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-b=
+gWTcF616uVxA-7Vzr-inMzTiiZlDjzzr8p-DTK-rN6IlhIbp4WE4SNUfbFHmnrsqxABkNjXGQVl=
+boT36t4b1O86WIYRLglgOPEjZtgem0" /><a style=3D"color: #23965a; text-decorati=
+on: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpx8aoWSLvJNCE4MQiZfBy9ze3Ljk8BY-2F5EMCjVFm4AwjJt86cyxsX132tOto0XI4p=
+W6ePdPC2BxztKwqXNzBOs07uA90dXplh8W2j7-2B4lXMOn_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxD=
+F5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GY=
+yEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfG2=
+4gNjQtiIjeHLLFhrRKuJTc7r85C2-2F5-2B9TgoG5Kg5FMKoGKia5yjV-2F2B5UuTgeYxsSZRxT=
+DR1QsO16BEj4emHnCKCUaqsFWevyRtu4dP2oYCZ6JC4ecQhGsOksp-2BhaILv-2Bon9-2FSC5-2=
+BV2CfKhHw1sNZPovP-2BddFqN2NmRGiT8yFA-3D-3D" target=3D"_blank">See More Medi=
+a Reports on the Liberal Arts</a></p><hr /><p style=3D"font-family: Arial, =
+Helvetica, sans-serif; font-size: 14px;" align=3D"center"><br /><br /><a st=
+yle=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.technoluti=
+ons.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpxwcfK-2Fg1tDBmRfAitYiV9jBtoY-2=
+FNbrjplLHNxDhmvl3r_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6=
+ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-=
+2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfE0A0geDigBElCSk3t5Ovuk1ziRS7FS=
+QokglCzRXqV4iuoClQWGDsITOo7LHDDdPVdEj9L-2B2lSvlqRluFBWy-2BCoiNz1ah8RJMU6QAS=
+OKEji-2FJMnmJWvonhYQxQnbkRuyrgdnkEvIEiWbLO3oEij9GVwzqquwojzFyq7imPd2Z63ow-3=
+D-3D"><img border=3D"0" alt=3D"Facebook" src=3D"https://d2y48w7m6jzhpb.clou=
+dfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv7EBz4PbD5UbagAy8=
+tnIz_SGGLo5zkmzw0QQ0I8xvil62JNKGsTZ1uN" /></a><a style=3D"color: #23965a; t=
+ext-decoration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DA=
+rGmOXNrXZXX-2F83mTJo6EBG6XE0A6NliwtA6f1i2vTm-2FyOUnM4wONjHrNYGqaMaA_fl-2FMB=
+kJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2Bv=
+Z-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZ=
+N-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2=
+B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW=
+-2F4qP8914ENOe1ZOZfGa52Y2yFP-2BAAk5kX4f7oeCJRkLwRnkQoU7tXGFXiP3lhJkSJhuWaUZ=
+GWq-2FC4CrXYmj8GXuXtiCCfGkV7JZ1TPEzzbntFKSzRWvz754hsTL4Y3J7CNZKOpynlW7COhsf=
+JN9nrJs2hwt3Yd87E9mLb7FDVa2r4ZyOYJ7KmFy2T3O4g-3D-3D"><img border=3D"0" alt=
+=3D"twitter" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616s=
+U-i5vVrdHNwwKigz_j51_Q-3qWOtWEv7EBz4PbD5UbagAy8tnIz_Sgu7kuKbMtQqNQiwdoO0BJB=
+OHbDW1KtyH" /></a><a style=3D"color: #23965a; text-decoration: none;" href=
+=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpbe5Wb=
+ZmpAoHfriJgEELbzp1EwA8aJ30fVzv75YsJzzK_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9u=
+m4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdY=
+Q7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH=
+9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2Byb=
+HdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfH8P8aYAQSf=
+KMGuzbvplKgVehaBmgP7yZZfSf4KVyVN3sjhdujZBrvktsS4aek0qkdZ235kF1vFF0Sf4i21EUh=
+rrdF-2B07ZeNo43qsqV7pVTbz7h1Rgnq-2FVz7H-2Bxw4MxMWw16-2BfsTgYAtpFphZiuo-2FKE=
+Obxzjb9d8z1V-2FVMWV-2Ftm1Q-3D-3D"><img border=3D"0" alt=3D"Rebelmouse" src=
+=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz=
+_j51_Q-3qWOtWEv6-f7D2NAtT5uoLUttcX9MqcKeaboHmDc0E9mF7timv_oJd0dsU42vQ_EEjgb=
+SsKzJJHyVfOuCwMg" /></a><a style=3D"color: #23965a; text-decoration: none;"=
+ href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx=
+yw-2FOpNjkRCyvZWfMsXwbuC1cZqvr2ogpi-2FT4rMYmktmW4ixA8bJ5nJvftjpb4QVfg-3D-3D=
+_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG=
+9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqm=
+EvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bd=
+Sa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5=
+zM385KIW-2F4qP8914ENOe1ZOZfFx9bjurR99lP95Pb-2BKrlapielFD4ci461SKd63NS6jIdjt=
+-2BZygfvIfxfHV4o4rYdFgalm90iubdvQL-2FKsrcpdQFozoQ1hEfAQOmGxc4YQ0Fuis5FcuHX3=
+Uppr0US-2BRpSBQBtVwGdQZNMPZqstC-2FqcuNPRqdEnBucDg0pngC5pT-2BQ-3D-3D"><img t=
+itle=3D"Linked In" border=3D"0" alt=3D"Linked In" height=3D"30" width=3D"30=
+" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNw=
+wKigz_j51_Q-3qWOtWEv6-f7D2NAtT5uoLUttcX9MqcKeaboHmDc0E9mF7timv_tH0prrp5NG1X=
+aD-ZLMMSSE-N6ReCRAygR3hB75268Av" /></a><a style=3D"color: #23965a; text-dec=
+oration: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DH06ED8dx=
+gdgdaMAesn2dSXOiSbGMQT4gnbyKlCEYDhDRjmKrPUHWs-2FVcEypYouWL_fl-2FMBkJMX7HXbl=
+z8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4P=
+CFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL=
+4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4=
+cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP891=
+4ENOe1ZOZfH-2FRj21I663hH5pNtvB6Ksu4gM9MH8-2FzQyckxRH-2FG7nqOcU-2BTverkl5d-2=
+BZSlMQi1AI22MqHkhRoFaIgTfQYDIpXZlsq0AbAXU-2FGZ3k26Zq3GnPLjOASJn-2BhhzXqztE3=
+US2jjHs0D-2F8CJSoJF-2FzfZ-2Bqin6pXzdeNVuiuw3Q-2BE3OYPg-3D-3D"><img border=
+=3D"0" alt=3D"Storify" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-=
+bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv6-f7D2NAtT5uoLUttcX9MqcKeaboHmDc0E=
+9mF7timv_g7PSk9fIIjWSBQwfaKOE87pznde34e9qO5iz6J8gem1" /></a><a style=3D"col=
+or: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf=
+/click?upn=3DtQ550YTtXV6QVHBVm0ByBTTMzpf1-2F00JSiYQS4zJyJmydgPT-2BLLpH9tFzq=
+DihZWH_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2F=
+r6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThV=
+TaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfM=
+dcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARY=
+XrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHfj3cBnA0vPTu9suA8MRo-2FsuBwkmmwdHJZo35d9A=
+Dve5RAF9PddFJzA7jjLAZqAkGRQRWtH1j3USmphou481LwqYo-2BE0lye7Z7ANuMajEkcRIIAwX=
+3EKi-2F3Of4dEliKvktucgmDh6lIGsCTj3rFU0W9tNcbBaKQ1DXhSPfnMF6sA-3D-3D"><img b=
+order=3D"0" alt=3D"instagram" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/=
+fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv6-f7D2NAtT5uoLUttcX9MqcKeab=
+oHmDc0E9mF7timv_ok57McQ1pHJlYzSTrgSCSAUszcBC-1zgw" /></a><a style=3D"color:=
+ #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/cl=
+ick?upn=3DXNyU99xcfDoMZ1aLSMj6aSGlSmsmlr4oZnrXVuiAaAVY974dADGmn065V-2FoSKdG=
+1_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTj=
+G9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuq=
+mEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1b=
+dSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO=
+5zM385KIW-2F4qP8914ENOe1ZOZfGbq-2Bk12fHO9ti0UEM4R6Xc1gTBX-2BM3X92g1BQKsA-2B=
+Has9Is9STEu0-2B4VwmrV-2FfHe36bO0P9WRUoJUo43JSUUTYuua50QDiUtYaXIvTjOo8WH71Fk=
+12dBkQTQQSAAVtdcAfxbTyEkcXrzy5DJPKdGMevBQ0fqcOOKVBuWaTLbW-2BwA-3D-3D"><img =
+border=3D"0" alt=3D"Pinterest" src=3D"https://d2y48w7m6jzhpb.cloudfront.net=
+/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv6-f7D2NAtT5uoLUttcX9MqcKea=
+boHmDc0E9mF7timv_luVfS6XPuJVLnm3C1rB9Y--2pRcmmoxYQ" /></a><a style=3D"color=
+: #23965a; text-decoration: none;" href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3DFgQ-2Fn6YekwlwAzpDulOpx4wxnmg6ArkH4kI5IL8msjUfN3o048zryV3wB3SVV7=
+wWQlCcJDWJCb3cZb8L6-2ByFjw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHl=
+uMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMm=
+s-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUV=
+e0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2=
+F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfEHQamrMNwdBZgCOE=
+bGzYivedCDTPkAUjvsqnH-2FI4bFUoUk3nJVGONpgU7K9S4B5lTO-2FjwqClla-2BAbIG-2BAmK=
+OwgknW9gSlFAJyLFPDqesnP4CW8qbZxsqvCxvLzVNC-2F6om9Ga2zsDj7-2FlbLdVe4PR3N61go=
+m3FMZawCvwMj8H-2ByKA-3D-3D"><img border=3D"0" alt=3D"Flickr" src=3D"https:/=
+/d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWO=
+tWEv64b2LzrEMs2hXuYde82tBC7POzBnL9cgxz7SPojRfbwqqbbMvQyou9" /></a><a style=
+=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.technolutions=
+.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx7zedW5KnW3u684tLnu4vUzKvNMhfc9J9=
+Ymq9uyVq8JLaYGLEaTXbZePI7Rm2p9zeA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9=
+um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBd=
+YQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7m=
+H9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2By=
+bHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfGnu3H0hyc=
+2Zw2yHh6ZFOEG2X49o9KDUKgAIQ4sW3VQA6841ElKBXUTvgrjPLXZ6QAusNb6hoF-2B9e4i4CcF=
+mz8XZjP3N2y8u4r3ZRzKy1Wxw77Qan8bo5TRqbyHqs-2F44DcIHcSHEs0w1UDxZsAqWdzqhQdqt=
+Kp9LoJEsrXxh2bNAQ-3D-3D"><img border=3D"0" alt=3D"YouTube" src=3D"https://d=
+2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtW=
+Ev6-f7D2NAtT5uoLUttcX9MqcKeaboHmDc0E9mF7timv_l8FI6tZT7kGB6UCugScjT6P-PbqeTQ=
+RlA" /></a><br /></p><div><a style=3D"color: #23965a; text-decoration: none=
+;" href=3D"http://mx.technolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLE=
+wpbe5WbZmpAoHfriJgEELbzp1EwA8aJ30fVzv75YsJzzK_fl-2FMBkJMX7HXblz8UUSYqUr8-2B=
+1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpIC=
+cA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF=
+5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYy=
+Ed-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfEFO=
+gcNOmgLFXsbAxnIEYEsW44VTaYH6a8SD1RNlBhb16MMFdAp-2FgXJ5aOZ57kTOuy7BDYW4xvzst=
+1YGtnl1YttO9Dezniq3R6EPM1GWrl55LpCmdzhQrzGY3n7TppzUT8kPfcrULNmGEgVgxiiGMPL9=
+svVNL9jfGZAyXzI0hft9A-3D-3D" target=3D"_blank"><img border=3D"0" alt=3D"twe=
+et" width=3D"420px" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgW=
+TcF616sU-i5vVrdHNwwKigz_j51_Q-3qWOtWEv64b2LzrEMs2hXuYde82tBC7POzBnL9cgwo30p=
+W177lRbfzixBrODEVROasg5pDA1jYlgJfH80vyA" /></a></div></td><td style=3D"back=
+ground: #F7F2DF url('https://www.iwu.edu/writingguide/images/background-tex=
+ture.png') repeat left top;" width=3D"210" valign=3D"top"><!-- Seal | Right=
+ Column --><p style=3D"font-family: Arial, Helvetica, sans-serif; color: #8=
+48484; font-size: 14px;"><a style=3D"color: #23965a; text-decoration: none;=
+" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOp=
+x8aoWSLvJNCE4MQiZfBy9zdnM4wf3MudnKWYy4N479ALPH7Uf272MRN33fRoOxAu7g-3D-3D_fl=
+-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG=
+6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvq=
+KnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5=
+IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM3=
+85KIW-2F4qP8914ENOe1ZOZfFxcWiPiwl5Jyx8LhB3HwsWMAD3cR5dpqrjJnT5Jq6C6ZFOR7U3c=
+P3P-2BJ-2Bjo3-2F6OhVS1hj-2FxtJ6OkwKElbPVpiFn67i4vfzpFYC-2FeTjTB8Wh5At-2FCkw=
+LI3TxRg4YA-2Fk7kLgB-2FSEPGL5-2BMqKpd-2B7Q19V7lcwAhZH0CasRlJq2LX-2Frw-3D-3D"=
+ target=3D"_blank"><img border=3D"0" alt=3D"Illinois Wesleyan University" h=
+eight=3D"98" width=3D"200" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/=
+eu/-bgWTcF616uVxA-7Vzr-inMzTiiZlDjzzr8p-DTK-rP4hUuhidl-dCrX20bAtOhHJor9KAkD=
+LLoSf0Fpn7Pobt6CKCT8A6vtkfclUdJpJahNjpK7ncWVMQ" /></a></p><p style=3D"font-=
+family: Arial, Helvetica, sans-serif; font-size: 14px;"><em><span style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:14px;"><em>We hope you =
+enjoy this edition of our campus newsletter, sharing important happenings a=
+t Illinois Wesleyan University and news about the Titan community.</em><br =
+/></span></em></p><hr /><!-- Titans in the News | Right Column --><h2 style=
+=3D"padding-bottom: 5px; font-weight: normal; font-size: 18px; color: #8bb3=
+7f;">Titans In The News</h2><p><em><strong>Crain's Chicago Business</strong=
+></em><br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Y=
+ekwlwAzpDulOpx9XlA5KKM3-2BB5t2-2FqYn5s5Q1NKhJmFL0DxiCi1-2FG7T9fFEY-2BCvXn9f=
+g5iDIptGzXOs-2Bokwd8-2FYJfOTPBR2yUBjf-2FHxP8li3WiZJA21J8uGAkAzu0zmkB3mVM9Du=
+6oN9frrrdxhiwZY9pbLtgBhhcgG96-2FpCnA7kD16rDWoXdhoRkwBRKv0HkkWPQDM4Dic86gQ-3=
+D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6=
+VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTa=
+YuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdc=
+z1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXr=
+coO5zM385KIW-2F4qP8914ENOe1ZOZfEhdjsq6jr5QKsZprVlOZMoOhj4FQ8jrKp4RnpJ5Ggtdg=
+UhIzL-2BgT5zKVJ9d5TzlnNw-2FtocYmNZGwxcUjpEvJiZbSBeEn-2FrgWPexs9Mwsg6L-2F6by=
+oCpc-2BnzH-2FtPbFQBq1SyvzsZORHzTiWEo9mC87lFzg61kkYgbeLgMm-2FpdDnygA-3D-3D" =
+target=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Trissa B=
+abrowski '98</a> is a vascular surgeon spearheading a campaign to reduce am=
+putations through preventative care at University of Chicago Medicine.<em><=
+strong><br /><br />
+The Kansas City Star</strong></em><br />
+Living her dream of a Broadway career, <a href=3D"http://mx.technolutions.n=
+et/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpxwcJedNMVkX7cgBlGZWX45Wh7oFYwvBPVl-=
+2FQuDBBUau6krJl7FNfx7YZrHXGHiEgEu-2FNqpUCAorwDr2McQEL1HmOFmhIf1y1Wv8IEGgZJ-=
+2Fe3_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6=
+VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTa=
+YuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdc=
+z1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXr=
+coO5zM385KIW-2F4qP8914ENOe1ZOZfHIxYC-2FCjnuebUC3pT0eP8b4TUiPzWK4w1x1sEKWk-2=
+BEIBWN7DSYZHmLvFVigOAhHB4ANfqXp-2F7RPYJ-2Fvhsjex7csJs2FsbyU8fIkhxKPf2vip3uK=
+eAsKsVx7qSt7MnWlfNZXeNojccoisN3tmSBFpsvvKWp5sK9bRKUt9YAkQGq9g-3D-3D" target=
+=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Lisa Karlin '0=
+5</a> is visiting her native state this summer in the cast of a national to=
+ur company's production of "Pippin." <em><strong><br /><br />
+Springfield Business Journal</strong></em><br />
+Erika Holst '01 and Karen Carlson '97 were named among the region's <a href=
+=3D"http://mx.technolutions.net/wf/click?upn=3D7P6jp2QuKXI4uhhGModfSBUo9hXY=
+j7npvg1L3ftUmt66e3um7MCDnB1I387ioaXkqgn9GJ1S-2FcZYWKXe7L7RIUB68ha1UC64-2FUv=
+x298omGjmMTRQ5lkx-2Fc4-2BCPKd-2BK0G_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4s=
+iHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7m=
+mMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9Xc=
+YUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdn=
+V-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfEG7uwG8eogc3P=
+Y67rNBYqBbsgUiWy-2FhXtEM8jDcrOn1TaIDJq6po6muD-2BZfKlIkvfdCIeRsKBPjT7apFQpi5=
+rXxbyz8v7-2FDB-2FEj-2FbrwiiKmu700IAzPPLi-2BA9mBd9cCdrY-2B8vHCQ8lXX2HdTmvgx7=
+n8nhqSrGiGNMcSZmoOLfzRg-3D-3D" target=3D"_blank" style=3D"color: #23965a; t=
+ext-decoration: none;">40 Under 40</a> outstanding young professionals.<em>=
+<strong><br /><br />
+Chicago Tribune</strong></em><br /><a href=3D"http://mx.technolutions.net/w=
+f/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx-2BDnBhxfZw6iuWfn6ErbMvFitm0-2BuvmuB8x=
+8AYwD04FEYmCcXrhSfqHAjjlEehsZ4DQPwcCwTYKCSvr6y612CGw5skI-2FCMooqQTLH3q1AoGj=
+nX66wRlo5XicXKh7JdxKJLiYzs-2FOlbgYsBKDS5AI5XI-3D_fl-2FMBkJMX7HXblz8UUSYqUr8=
+-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLF=
+pICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gX=
+xDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0=
+GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZf=
+Eo0XOMhFBOA8mTUwGHpmA6x5FX4R-2FyNKsPLUktKJ8yV5RxiAhZ9dxJCIxTfJBgTEBKEsz7ENw=
+10T3ZIHkiryUJPsF4lGf8niRRFWDLzODwPUTuw1relIq4yPjeuzlTwKVB6tdKX5o69hJ0l-2Bx0=
+UIqVnf0pZ1wS0GQPM3yoTilulw-3D-3D" target=3D"_blank" style=3D"color: #23965a=
+; text-decoration: none;">Hayley Rice '04</a> is co-directing "A Winter's T=
+ale" at Oak Brook's First Folio Theatre with her mother and fellow IWU alum=
+na, First Folio Artistic Director Alison Vesely '79.<br /><br /><em><strong=
+>Windy City Times</strong></em><br /><img style=3D"float: left; margin-top:=
+ 10px; margin-right: 10px; margin-bottom: 6px; width: 100px; height: 100px;=
+ border: 0;" alt=3D"Nicholas" align=3D"left" height=3D"100" width=3D"100" s=
+rc=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKi=
+gz_j51_Q-3qWOtWEv64b2LzrEMs2hXuYde82tBC7POzBnL9cgz6WJvc-jq7LyfxOLrYrFugP-lY=
+ErnBaFxJOv_FeirDwzumCpdwMB00" /> Writer and director <a href=3D"http://mx.t=
+echnolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx2SeX13vlOZ4guv6FAUiA=
+-2FCAw6FdqFpwG8DnWBRTwfG1eXOP7pNJ3Q6ULac6JT0iqpDcsKu1xKR1pOlwVnjXnPd2s64eBi=
+0u0Gvjwgm1CbakScVULJo5i9a0n6BapLFC-2Fw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1=
+DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICc=
+A5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5=
+MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyE=
+d-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfFlLI=
+CXH98v4IoY4v-2F8gwShy0rfTweozqom7L3KKDzjYnhAy-2FFdqZ6sFh4F1LmwWANOC7lHcVY25=
+GE2q-2Fbn8XN8z28QfH9yEqHrn2qvmezPFRl2KgZJj5uQSAW4l14YP8vz7CEsKllynKtebGmvTp=
+SJOVqSmUO0NYnf9DjboEzUiQ-3D-3D" target=3D"_blank" style=3D"color: #23965a; =
+text-decoration: none;">Nicholas Reinhart '11</a> was named among 30 Under =
+30 best and brightest individuals in the Chicago LGBTQQIA+ youth community.=
+</p><p><em><strong>The (Champaign) News-Gazette</strong></em><br /><a href=
+=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx3p-2F=
+tGcod240kNvuOrEYFhFTY1k0UwQSJ71nBIhPRc9k4Of2d-2B-2BtpZqNxhR-2FzpkKblIjVvC3X=
+3YkTynd4cjbs0Hn0-2BioaA-2BNU-2B-2BERtETxO1pCFqs5UCpDxCXa5eZC6i5g-2F2UflxXZ9=
+fU9GDeln82yBY-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdl=
+C2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mH=
+UwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6AB=
+GSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2B=
+m3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHdiuHci4R9ljTJxm-2F2d3zFgQsJ1UGU=
+lnhuF5XHeZEqSXPpgQh3Nf2gdGN3WhxGwIwISsv827yDY1yyA6Z-2Fvya4xyfiJYgmiMk3wt-2B=
+P4Z31Bx-2BlU1AewQ5GFgPYqwYBCGy6uUiiSTZGyZknmT2bF6YECiM8XSoI9xVRbCvAupuxDg-3=
+D-3D" target=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Ce=
+lia Williams '17</a> earned a rave review for her performance in the Young =
+Baroque Artists Showcase Concert.<br /><br /><em><strong>Nashville Business=
+ Journal</strong></em><br />
+In a change of leadership, Brookdale Senior Living President and Chief Fina=
+ncial Officer <a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn=
+6YekwlwAzpDulOpxzvetsbzTwAMtUHKOpFMoPIwprWI6J2XYJ1r8gXSCMW2rEnO4-2B4zpvzpkZ=
+YroGT6sYmrr74GQ93NNs3G76j4J855AAaA8E04swUp7WlyJ1CBNr3ogONrVRaq3Lzn12gB0g-3D=
+-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6V=
+TjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaY=
+uqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz=
+1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrc=
+oO5zM385KIW-2F4qP8914ENOe1ZOZfHMtnnabK9I36VELzhl39yXhlR7lRpwq-2BzEdgVRzmWA6=
+okUFcIgqlN2rqRaECtpbLCHPbTjB8nh8ioVizS-2BqKVSBnBaZli7B9BiNlKD2IjeI0eqLjSNQ5=
+8IMzavHTHEdzGFA9CydHKp1F4Z4ZST74J00wYeF2-2FVqg1Nyg1GxX0m-2BQ-3D-3D" target=
+=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Mark Ohlendorf=
+ '82</a> will transition to an enhanced role as president.<br /><br /><em><=
+strong>(Arlington Heights) Daily Herald</strong></em><br /><a href=3D"http:=
+//mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpxxJ2hjdnGKeh8Tz=
+tmYZLUTZR73geaYnrLWPZpN1-2BVuSBP-2FEqndirUT1Cd2Dv12dz7-2Fx-2F0jhxWF-2F09Ez8=
+Bdt0fDY-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkF=
+i-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfco=
+mThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWn=
+YBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0Bj=
+zARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfE324JF-2FBfOWzVnF-2FKc-2BtQUpAwSDXNAd1=
+Cw1ZRKjNL77HKJPExt1F8xHb8eX3SYGD5Oz8m-2FlSHHAPBU7-2Bxf2Q-2BbPIJmmsfZCYZJoLX=
+cMl1zwd6KTFcm-2B2MQFuLD3JLp1xUA3AgEcIDTGwzhgf4BxFp4QwQi2CNtN3e6wXEoxbSSfg-3=
+D-3D" target=3D"_blank" style=3D"color: #23965a; text-decoration: none;">Je=
+nnifer Oswald '15</a> will talk about her experiences at Good Hope School i=
+n Tanzania through A Broader View Volunteers.<br /><br /><em><strong>The (O=
+ttawa) Times</strong></em><br />
+Jazz pianist and composer <a href=3D"http://mx.technolutions.net/wf/click?u=
+pn=3DFgQ-2Fn6YekwlwAzpDulOpx-2Fb8aCEzcu0MPXVCHtM-2FuLtnOHlj-2FYozvgsngcXtoV=
+hBz06mo0McLTv8hBjU4rI9isbs-2FecOQQQid3nw5HhE15wvMagYr6tURVIlZb-2BNgI-2B0Zb7=
+9NznVTjvT-2FLEMQe7X-2BciJANQc2h-2B2LC-2Buf5dizCz2-2F2xPeg0hNr9QMOxVzGtM_fl-=
+2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6=
+-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqK=
+nnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5I=
+xN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM38=
+5KIW-2F4qP8914ENOe1ZOZfHQIU8IZXLDxe5XSq8EKDi55CDIg1HCWe3Zn5txhuv8dlHX0G-2F-=
+2Bdf86ZpI5l6-2BinHQnrmn1lAOzafIne0dWMTGSGN8wkJBKOo2dI72NJWVMT-2BPJPPpAFViFD=
+jcYwd0zoJ9DZvgERa1Dkg7M1BW5NohhIHC6qaCGdD3tATFDk0-2BLrg-3D-3D" target=3D"_b=
+lank" style=3D"color: #23965a; text-decoration: none;">Sean Parsons '01</a>=
+, assistant professor of jazz studies and music theory at Ohio University, =
+will present a jazz master class and a benefit concert.</p><p><br /><br />
+&gt; <a style=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.=
+technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx7qt3BYlq7pC0xaQJ66t=
+pMuMjK28-2FeeUQGzzF7LRfP5Qa6OlxqfWeybgOt-2FHwKXKL2mLPkP9rTcRcbyZN7bises-3D_=
+fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9=
+fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmE=
+vqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdS=
+a5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5z=
+M385KIW-2F4qP8914ENOe1ZOZfFmqzBDFH0pN7BUJrR38jUZVNzEvXGfSE4TsJL-2F3QFiSqoxt=
+ot-2B1Jd8-2Bdqu6iTszvwgpdwf0gzOuJBsheBw8wAr2Ue9iQZxSH0hAPnNv-2B6VBR5JFOjpL4=
+bhe29uxagXLmPO0oTRgRtWfJeEyxDvep9OFEtGRGFqSYjnyNN-2F7yWc1Q-3D-3D" target=3D=
+"_blank">More Titans in the News</a></p><br /></td></tr><tr><!-- Social Med=
+ia --><td colspan=3D"2" bgcolor=3D"#FFFFFF"><br /><p style=3D"color: #84848=
+4;" align=3D"center"><em>This newsletter is a monthly electronic publicatio=
+n of Illinois Wesleyan University's <a style=3D"color: #23965a; text-decora=
+tion: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yek=
+wlwAzpDulOpx-2FPx4TpatIYP32zKj8FJ6BIOnTRxC5HdCMGDPfvq34iT6QwGd0OnCRZ7HJZAv-=
+2BE55w-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zw=
+kFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxf=
+comThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSzn=
+WnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0=
+BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHX6K7J-2BH9NHNBfe3ttbhxUKd-2F3OWRwGr=
+YFfU-2FtO5SWgQ3hp6miL5nxFVidmta-2Fk0NehXDXXxvaGFyACpf1FeXCu7L4fSLwI1rJRLoD2=
+IRZH-2FiCCYHXqbTM2iZhHTbn4vRLo2KtoDGyjBPLNhnHqaFQmy3LgearOViaO-2BjfoqQUfw-3=
+D-3D" target=3D"_blank">Communications Office</a> in conjunction with the <=
+a style=3D"color: #23965a; text-decoration: none;" href=3D"http://mx.techno=
+lutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx8aoWSLvJNCE4MQiZfBy9zdnM4=
+wf3MudnKWYy4N479ALPH7Uf272MRN33fRoOxAu7g-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxD=
+F5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GY=
+yEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfH4=
+E7mKIk1smoXPM9IaZXzWYnIsShoeAiYlt9D-2BBr-2FO-2Fa3mcvOeyYZi3PoGocXaBkl86iw9m=
+KTExWnN5EJm2DHNv-2FytFchHClaKN832xn9qOg1rM8NxiTKlgfxO-2BQVy8st8g4Hh53D4GabJ=
+NyYvZSB-2B9c-2BDXFl1M-2BUAsqo8sxCKFQ-3D-3D" target=3D"_blank">Admissions Of=
+fice</a>. To unsubscribe, email <a style=3D"color: #23965a; text-decoration=
+: none;" href=3D"mailto:iwuadmit@iwu.edu">iwuadmit@iwu.edu</a><br /><br />
+Illinois Wesleyan University<br /><a style=3D"color: #23965a; text-decorati=
+on: none;" href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpx8BRar31ZXXF1uuyUxiNZ2Q2JbNqq951GcoTtq-2BHJCXe4zPc51hBk9CuPhJpDnHv=
+GA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-=
+2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomT=
+hVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYB=
+fMdcz1bdSa5IxN-2B0K1YI8H4cOrsT4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzA=
+RYXrcoO5zM385KIW-2F4qP8914ENOe1ZOZfHNQDV3WVvr3sfiirtP8U0K7uiO5ue-2BMv3GxcjK=
+D6t-2BD07J-2FmN5H-2FRjYtezJmF2aExVGg7ARJyimJbqrrVISrpAm5gl802aNjPxWo8lBIlPx=
+Fga2W9QLu9TP3xQi7g7iAeaVsEI2b25pxRvMb-2BMicW1-2B1R3SPdIax6jCzjWw605nQ-3D-3D=
+" target=3D"_blank">www.iwu.edu</a><br />
+PO Box 2900<br />
+Bloomington, IL 61702<br />
+(309) 556-3031</em></p></td></tr></tbody></table></div></font><br /><table =
+align=3D"center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" style=3D=
+"opacity: 0.75; clear: both; margin: 25px auto;" cellpadding=3D"5" cellspac=
+ing=3D"0" width=3D"650"><tr><td align=3D"center"><font color=3D"#333333" fa=
+ce=3D"Arial, Helvetica, sans-serif" size=3D"1"><span style=3D"font-size: 11=
+px;">This email was sent to markiewicz.john@gmail.com by Illinois Wesleyan =
+University.<br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3D7aqt=
+Go87cYwSxRwFLjEf1g6PVyapaphaS8odAzdwMvwmxDmVkFH8oEp7IgxsokZ2U07ZW-2F788jv-2=
+FruCIY8LK2YfOw7Kho56dFi7CDAWNg3ZcFqQk2FXajPsqsGU25XdU_fl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-=
+2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT=
+4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe=
+1ZOZfEx8GXNlpoedkb6weOmsi82y6XPRKuLo3ISGclRhd-2FLRQ91u9JsIx3bqN7RsXrEksvC63=
+v-2FyWBN7E-2FhcPmxuvIXv-2BJ41tMiT5KAjiWQmgUnOyVLVQsVi5JKnDwVi0GqFI8vti-2FjC=
+h5AEgYzdkVnGfQmtuWDN8tM85WBsoqoxX0HSA-3D-3D">Unsubscribe</a> from IWU Newsl=
+etter.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-=
+2F4gXxDF5MCR7mH9XcYUVe0umbmQ7J9E0C6ABGSznWnYBfMdcz1bdSa5IxN-2B0K1YI8H4cOrsT=
+4ySC0GYyEd-2BybHdnV-2F2BZpx6oA-2Fv-2Bm3u0BjzARYXrcoO5zM385KIW-2F4qP8914ENOe=
+1ZOZfHz4wKeDgU11e1sktlO5JAiugWAeS7jIAmcoGjaGAtnzc93LwJm9b3TddGwcgTQ-2BJL-2B=
+hdPEgCIJeZSYfkmYes76zULo781gWNN9XtLt3UyQdQXbkSehfhX38maunnQ5W9xWUsfqVngGGDV=
+YUpS-2B0tYe8mcmtikY4ScmK6gKxfWI-2F-2BpsR-2Fhs8oEFODuYh-2FZvZok-3D" alt=3D""=
+ width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width=
+:1px !important;border-width:0 !important;margin-top:0 !important;margin-bo=
+ttom:0 !important;margin-right:0 !important;margin-left:0 !important;paddin=
+g-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;p=
+adding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_eb88e43e-78c9-452a-ad57-b49faf8c2852--

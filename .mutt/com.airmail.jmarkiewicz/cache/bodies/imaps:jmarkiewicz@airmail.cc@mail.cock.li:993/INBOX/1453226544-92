@@ -1,0 +1,136 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=to:from:subject:message-id:date:user-agent:mime-version
+         :content-type;
+        bh=2efaQgl/R16IFGlzxxClTE5p8hcsCKHA0iMNWLE+oPE=;
+        b=V1FxMxwCtiwDQuGHw8RBhtIlMPbmgmx+4g6AO2h/k+8ojrqEJB+HUVCRhA8bFuTAKd
+         ByuHsSiifCyQ5bQFB6Kx8sj5Ndn7TOPHp90vsLYnWZcaPk7MurnhzwjR39VYXTxdDWNv
+         2pCdoeOZZvfpddS7S61DGSvTn/aAOVbuhz/+5zEL5cAgytEKhm4Kos2tBktJHo2cE1Ge
+         yTfWWu6rsw/jmrW7kNjCkniFrpEB21Enx2aKagaV72tdOhTNTkW/AYdqhW/w4v5RRw/K
+         yNlPTJEXtPv5k1SBxIsKRDQUHs06RCMFZB+NAxnJ8O5IcUJSSnoeEzZcd2upbNdNAU/l
+         kItw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:to:from:subject:message-id:date:user-agent
+         :mime-version:content-type;
+        bh=2efaQgl/R16IFGlzxxClTE5p8hcsCKHA0iMNWLE+oPE=;
+        b=Q0qrDZcooIqLhg3dapzMxQaEMWb9nsKILIfDg6rtM1EwypfWX/MsOH0xEMwaLY1Kqm
+         I2xOsl4xX0yWsQQMcu0zNeKa+Y9iztZ8InYkN7/2JyGUbW240PLD8lCJOev2hnaywL1p
+         Ioj0bXt+xlYu6PnO2SoF2tXP2puTDOPHNm3VCMdpYZQlGopYVlWA0GcxTGRCxk3wS5B9
+         3vqQNmW7A1I78CWbSsThIQe7IM/CyFHel0kxkdRRJgM/8Q2mk6L7PBPugpyb7nSNthIj
+         miiNPJlZYz2oBJSyZZWHPantWisHX/7JQHJLqMtwspOrfzYTRc5KDNerTyXlwR/S2P76
+         lrBg==
+X-Gm-Message-State: AG10YORkn9CDEKKEEZZS5Mlve9hpyq/xK4kFcyaaG14SndCAYiaM3yZebe9mqQ8PisMIPQ==
+X-Received: by 10.107.16.17 with SMTP id y17mr23505431ioi.119.1455583789782;
+        Mon, 15 Feb 2016 16:49:49 -0800 (PST)
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Subject: titles
+Message-ID: <56C2722B.6010107@gmail.com>
+Date: Mon, 15 Feb 2016 19:49:47 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Icedove/38.5.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------020401070907010708060605"
+
+This is a multi-part message in MIME format.
+--------------020401070907010708060605
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+-- 
+Shannon Markiewicz, Ph.D.
+      __
+     (  \
+ __   \  '\
+(  "-_ \ .-'----._
+ '-_  "v"         "-
+    "Y'             ".
+     |                |
+     |        o     o |
+     |          .<>.  |
+      \         "Ll"  |
+       |             .'
+       |             |
+       (             /
+      /'\         . \
+      "--^--.__,\_)-'
+
+- by andy753421 (with two very minor edits by uriel)
+
+--------------020401070907010708060605
+Content-Type: text/x-tex;
+ name="bwhsMLAcitation_Feb2016.tex"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="bwhsMLAcitation_Feb2016.tex"
+
+\documentclass[12pt]{article}
+\usepackage[T1]{fontenc}
+\usepackage[american]{babel}
+\usepackage{csquotes}
+\setlength{\parindent}{0.5in}
+
+\usepackage[style=mla]{biblatex}
+%\usepackage{hyperref}
+
+\defbibheading{bibliography}{%
+
+    \center{Works Cited}
+    }   %use \chapter* if the bibliography will be a chapter
+
+\addbibresource{bwhsMLAcitation\_Feb2016.bib}
+
+\begin{document}
+\clearpage
+\pagenumbering{gobble}
+\vspace*{\stretch{2}}
+\begin{center}
+\begin{minipage}{.6\textwidth}
+\begin{center}
+Title of Paper\\
+\vskip 0.1in
+By\\
+\vskip 0.1in
+Author McWriter
+\end{center}
+\end{minipage}
+\end{center}
+\vspace*{\stretch{3}}
+\begin{flushright}
+AP English\\
+Period 88\\
+February 16, 2016
+\end{flushright}
+\clearpage
+
+
+\newpage
+
+\pagenumbering{arabic}
+Here is a normal citation to an incollection work \cite[88]{kolin2007aa}. We will follow that up with a second citation to the same work \mancite\cite[88]{kolin2007aa}.
+\begin{enumerate}
+\item   Second citation \cite[88]{kennedy96aa}.
+\item third  \cite[88]{kuan2007aa}.
+\item fourth  \cite[88]{vorlicky1997aa}.
+\item fifth  \cite[88]{ferris2012aa}.
+
+\item sixth  \cite[88]{solomon1996aa}.
+\item seventh  \cite[88]{none2001aa}.
+\item eighth  \cite[88]{peters2001aa}.
+\item ninth  \cite[88]{tener2004aa}.
+\item tenth  \cite[88]{londre2006aa}.
+\end{enumerate}
+
+
+
+
+\newpage
+\printbibliography
+\end{document}
+
+--------------020401070907010708060605--

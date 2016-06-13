@@ -1,0 +1,703 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2882939oid;
+        Tue, 7 Jul 2015 16:07:54 -0700 (PDT)
+X-Received: by 10.180.107.138 with SMTP id hc10mr68048718wib.2.1436310473569;
+        Tue, 07 Jul 2015 16:07:53 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22e.google.com (mail-wi0-x22e.google.com. [2a00:1450:400c:c05::22e])
+        by mx.google.com with ESMTPS id w5si141319wjy.211.2015.07.07.16.07.53
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 07 Jul 2015 16:07:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22e as permitted sender) client-ip=2a00:1450:400c:c05::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22e as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=temperror (no key for signature) header.i=@yale.edu;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x22e.google.com with SMTP id lp1so64101108wic.0
+        for <kuiperhaumea@gmail.com>; Tue, 07 Jul 2015 16:07:53 -0700 (PDT)
+X-Received: by 10.180.89.66 with SMTP id bm2mr107017332wib.6.1436310472965;
+        Tue, 07 Jul 2015 16:07:52 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2372941wmd;
+        Tue, 7 Jul 2015 16:07:51 -0700 (PDT)
+X-Received: by 10.107.157.4 with SMTP id g4mr11067817ioe.66.1436310471090;
+        Tue, 07 Jul 2015 16:07:51 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net>
+Received: from o9.mx.technolutions.net (o9.mx.technolutions.net. [167.89.25.126])
+        by mx.google.com with ESMTPS id s6si840897ick.2.2015.07.07.16.07.49
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 07 Jul 2015 16:07:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@mx.technolutions.net designates 167.89.25.126 as permitted sender) client-ip=167.89.25.126;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=yale.edu; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=MNcawnTl5hDardy30DYSWKNhluw=; b=GAmrOtqPJvE45NjgCMndzrYLYVhyF
+	wium2Ufo2Zu8/bw/9IwjI3ydLDWgvShmHG0275/EbgGKWyTnhv2QtQGRRJeRDY1g
+	Cc0WoNm/NpaGXp5FqE4G5768Vf+bspdXkyuXWyvHo6EjpDnVe74xhxtTIWIK2fEz
+	Z5o8/VEKbwQv5Q=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=MNcawnTl5hDardy30DYSWKNhluw=; b=N3/3AIB07wT222JMNzf9jB6B+WBf3
+	sRZmi49aqqIHstYf+mzRgcDvpGP1G/oggq1bSRaJ6yuOe7HutnC9mqMq1gFdnqTQ
+	0QaJfFrtDSQNhv7Ynld6J4K851IoCTvSe8oMLToLSleTWIK4+01qe0zolq0HwumK
+	Q5XxV4XgtqD0aA=
+Received: by filter0591p1mdw1.sendgrid.net with SMTP id filter0591p1mdw1.26481.559C5BC31F
+        2015-07-07 23:07:47.854260046 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-016 (SG) with ESMTP id 14e6ac67493.5b62.615daa
+	for <markiewicz.john@gmail.com>; Tue, 07 Jul 2015 23:07:47 +0000 (UTC)
+From: "Yale Undergraduate Admissions" <donotreply@yale.edu>
+To: <markiewicz.john@gmail.com>
+Subject: Learning at Yale: Big and Small
+Date: Tue, 07 Jul 2015 23:07:41 +0000
+Message-ID: <ccae4131-273f-4608-b2e6-f400ff4f7159@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_6769c950-9ca3-4d14-925d-1560d65b35c3"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuFJheFpJfxeBiCQvlCZXdXTAHZzmOxMFxmUiq
+ 4un3BFMlwZqLotEETeEEayUEBxAZg00M4F8vHRe5gB/mZNa0vo2rXWll0QVwTXE1XycCWeX2OjP3KE
+ N5/i4bkGdK4LN3RImpyW5zhbxAgnEayrRvil
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegGN3lD9rYIubSKl23MLWVEqqZ3cz819m1wbAtng/1TSvv+bBfzz/asexdi
+ nEdrCYsJ8IsDWrH2lRD93+wOhsZgmzMEa4MPikLbSxmy+IhgO+WH2+T76EhoZRVwoqxJhFD/y5W6Ro
+ xNm48DXxGnzCi48eey7iq+gMoa4DidHej+6vmxBx/blU0BXfAMrNBAQrTwK26AL4wZsH/OS9z9SXJ8
+ SVsjGyd+IqBLmiP54ge+Z7
+
+------=_0_6769c950-9ca3-4d14-925d-1560d65b35c3
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi John,
+
+Are you looking for a big university or a small college? Which is more impo=
+rtant to you: research opportunities or dedicated teachers? Do you want lot=
+s of academic freedom or strong advising and career guidance?
+
+Students at Yale embrace and not or, so they don't need to make trade-offs =
+in their academic pursuits. Read on to learn more.
+
+Big & Small
+
+Yale is a research university with more than 4,000 faculty members, 4 Nobel=
+ laureates <http://news.yale.edu/2013/10/14/another-yale-nobel-robert-shill=
+er>, international opportunities in 75 countries <http://cipe.yalecollege.y=
+ale.edu/>, and world-class facilities <http://ceid.yale.edu/>. Yale is also=
+ a liberal arts college where students work closely with professors, where =
+76% of courses enroll fewer than 20 students, and where students live in sm=
+all communities with only a few hundred other classmates.
+
+With over 2,000 courses, hundreds of paid research fellowships, and more th=
+an 800 active labs, students are at the center of one of the world's most w=
+ell-equipped universities - a university that places unique emphasis on mak=
+ing those resources available to undergraduates.
+
+Art & Science
+
+Are you an aspiring scientist who also loves to play an instrument? Or a wr=
+iter with a passion for building robots? Do you love politics and internati=
+onal affairs, but plan to enroll in medical school? If any of these sound l=
+ike you, you sound like a Yalie. Yale's curriculum pushes students to embra=
+ce their many passions, not choose between them.
+
+All Yale undergraduates enroll in a single college and choose from courses =
+offered in more than 80 majors <http://admissions.yale.edu/majors-and-acade=
+mic-programs>, without the constraints of a core curriculum. Students in th=
+e ABET-accredited Mechanical Engineering major <http://seas.yale.edu/> take=
+ Global Affairs <http://jackson.yale.edu/> courses and learn Arabic <http:/=
+/cls.yale.edu/>. English majors concentrating in creative writing <http://y=
+alecreativewriting.yale.edu/> take Environmental Studies courses <http://ev=
+st.yale.edu/> and conduct independent research <http://admissions.yale.edu/=
+undergraduate-research>.
+
+As Planned & Unexpected
+
+Maybe you already have a path mapped out for your college studies. Maybe yo=
+u have no idea what your major will be. Yale students embrace the unexpecte=
+d, even as they pursue their long-term goals. Many academic surprises emerg=
+e during shopping period <http://admissions.yale.edu/liberal-arts-education=
+#shopping> - the two weeks at the start of every semester when students vis=
+it as many courses as they like before enrolling. That's two weeks to explo=
+re new courses and departments, discover hidden gems in the blue book <http=
+://catalog.yale.edu/ycps/>, and compare notes with friends. Yale students d=
+on't declare a major until the end of sophomore year, so exploration isn't =
+just possible, it's expected.
+
+What Sets Yale Apart?
+
+As you learn about colleges, you are probably wondering what makes Yale uni=
+que among other world-class universities. The answer, of course, depends on=
+ you, and what you are looking for in a college. Here's what one recent gra=
+duate, Samantha <http://admissions.yale.edu/bulldogs-blogs/samantha>, had t=
+o say:
+
+"When you are at Yale, it feels like you are on the world stage, but it als=
+o feels like home. Yale students win national championships <http://www.yal=
+ebulldogs.com/sports/m-hockey/2012-13/releases/20130413ocu84l> (and not jus=
+t in sports <http://news.yale.edu/2013/05/06/bulldogs-racing-places-first-m=
+ajor-hybrid-racecar-contest>), patent lifesaving devices <http://seas.yale.=
+edu/news-events/news/three-yale-engineering-undergrads-win-100000-cimit-pri=
+ze-skin-imaging-device>, put on amazing performances <http://www.youtube.co=
+m/watch?v=3D0nAsk7cwZBk>, and earn global recognition <http://news.yale.edu=
+/2014/11/23/11-yalies-win-prestigious-scholarships-study-across-pond> for t=
+heir academic work. But Yale students are also grounded, friendly, and appr=
+oachable. At Yale, ambition doesn't translate into competitiveness. We know=
+ that our classmates are Yale's most valuable resource."
+
+See what sets Yale apart for you by visiting campus <http://admissions.yale=
+.edu/visit-and-connect>, experiencing our virtual tour <http://admissions.y=
+ale.edu/virtual-tour>, watching real Yale courses online <http://oyc.yale.e=
+du/>, or following Yale on the social media platforms below.
+
+The Yale Admissions Student Team
+
+ <http://instagram.com/yaleadmissions>           <http://yaleadmissions.tum=
+blr.com/>           <http://twitter.com/yaleuga>           <https://www.fac=
+ebook.com/YaleUndergraduateAdmissions>
+
+
+
+
+Yale Office of Undergraduate Admissions
+38 Hillhouse Avenue
+PO Box 208234 New Haven CT 06520
+admissions.yale.edu/questions <http://admissions.yale.edu/questions>
+
+
+This email was sent to markiewicz.john@gmail.com by Yale Undergraduate Admi=
+ssions.
+Unsubscribe from Yale Undergraduate Admissions Communications. <https://app=
+s.admissions.yale.edu/go?r=3Doptout&mid=3Dccae4131-273f-4608-b2e6-f400ff4f7=
+159>=
+
+------=_0_6769c950-9ca3-4d14-925d-1560d65b35c3
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />
+
+
+<style type=3D"text/css">
+/**/
+    body {
+    background-image: url('https://apps.admissions.yale.edu/www/images/yale=
+splash.jpg');
+    }
+/**/
+</style>
+
+</head>
+<body>
+<style>@media only screen and (max-width: 660px) { .deliver_unsubscribe { w=
+idth: 100%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D=
+"3"><div style=3D"font-family: Times New Roman, Times, serif; font-size: 12=
+pt;">
+<div style=3D"background-image: url(&quot;https://apps.admissions.yale.edu/=
+www/images/yalesplash.jpg&quot;); background-color: #0F4D92; margin: 0px; p=
+adding: 0px;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"padding:0px 0px 0px 0px;"><img alt=3D"Yale is=
+ &amp;" style=3D"width: 620px; height: 207px;" height=3D"207" width=3D"620"=
+ src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNww=
+Kigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFYTUkCvusPTXKS=
+ZMLb0PE8Oh_RwczZHW67_bQZO8PHyY19vx4qeBjJ8ck42aCtBmCPe9ILw34LCzekSS7qgi8nWaT=
+Lo1mWXvuw" /></td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding:0px 0px 0px 0px" width=3D"600">
+<table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=3D"600">
+<tbody>
+<tr>
+<td bgcolor=3D"#FFFFFF" width=3D"600px">
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Hi John,</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Are you looking for a big university or a small college? Which i=
+s more important to you: research opportunities or dedicated teachers? Do y=
+ou want lots of academic freedom or strong advising and career guidance?</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Students at Yale embrace&nbsp;<em>and</em> not <em>or</em>, so t=
+hey don't need to make trade-offs in their academic pursuits. Read on to le=
+arn more.&nbsp;</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><img alt=3D"Big &amp; Small" style=3D"font-family: Tahoma, Genev=
+a, sans-serif; width: 600px; height: 300px; background-color: rgb(250, 250,=
+ 232);" height=3D"300" width=3D"600" src=3D"https://d2y48w7m6jzhpb.cloudfro=
+nt.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLY=
+UQyLFbdyUwOb9BobKC8j9cFYTUkCvusPTXKSZMLb0PE8OdPjR-NsWpzQuz7GS2pQdv-xcVaSmMA=
+f2cuNcUkDsFY0Z5Ho_XiLjW" /></p>
+<p style=3D"font-weight: normal; font-size: 20px; color: #d7461E; font-fami=
+ly: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 0px; pad=
+ding: 0px;"><strong>Big &amp; Small</strong></p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Yale is a research university with more than 4,000 faculty membe=
+rs, 4 <a href=3D"http://mx.technolutions.net/wf/click?upn=3DrwNiXX0qx7MUiBt=
+9H7GUGGdNKun-2B-2Bi6R-2Fx09TYejQaaEJCwTtt8yx0XIJGl68AXY0f7LKCGQM9uZSGDNJGX2=
+8nvejW2vH-2BqwKd-2BXZFOUPV4-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluM=
+TS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-=
+2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8=
+q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2=
+BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtddx2c8O9lFGbXpwenlYuqM=
+BES-2FS8OM2G-2F-2BbDtjyAFUzYa2RdYD2O4WymqLKSaIOq6A1vaF5-2FOIL3Dp6XpmyY6xFJ1=
+7hJ-2FOx4mpus6ZIWJHZWdyOdBoU5ULi9kweQT-2FUhSnpiNaB6ijJTZD6iaeM-2FGdw-2FyYge=
+Riawf2ofEl1-2BqN2L9smwouvPumHtiFh4bVnik-3D" target=3D"_blank">Nobel laureat=
+es</a>, <a href=3D"http://mx.technolutions.net/wf/click?upn=3DpVmVrelX8ZSxZ=
+ou2BTBgl0231LUKBGkZp3v7EAxsqPVfeLrh09oLj3Rc7VDmPLXi_fl-2FMBkJMX7HXblz8UUSYq=
+Ur8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJK=
+rLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxC=
+LrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2B=
+I994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMte=
+myFoQFJ24Y6MDPn1Y-2BF3qY-2BxEvyXia-2Fl3TE-2F4Daj5fwnyXIFjjaIfNJ-2FNAhm276-2=
+F8ZtMdYhQ6AXnWhQssOmPYYtCvtSo7f-2BigScSzykDlp-2FNLhnR4eo11N2ZKTcCtW82dUhabM=
+8mUDkTJmbsgvAse8wk0wESVuIoTvdUAFblkLxmA6bmAM-2FS68daQOwsEGmE-3D" target=3D"=
+_blank">international opportunities in 75 countries</a>, and <a href=3D"htt=
+p://mx.technolutions.net/wf/click?upn=3D0n6hkDG7E77ZAbfAcQa7dBSas0IFm7nfRZ-=
+2FJIA7CeAw-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2z=
+wkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwx=
+fcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075=
+Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mj=
+s-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdAFOVl9xTVbWGFITNEi2DTnl1loXfRq5ODEnP59=
+m2quP3JJwhjE7EZ26Vfe4BkMmnKKgEAy1Dz0-2BVEHqGbNlFNvTmooavDTihQXrfW3Rrx2YufCe=
+Pne9-2BfUMRq0EsdmumKcJMxyP8KzZSN1apvYX-2Fuxc-2Bya9oNHGtQVX8zk8TCJf-2FSlrHya=
+hIGHMpYAmDmK8k-3D" target=3D"_blank">world-class facilities</a>. Yale is al=
+so a liberal arts college where students work closely with professors, wher=
+e 76% of courses enroll fewer than 20 students, and where students live in =
+small communities with only a few hundred other classmates.</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">With over 2,000 courses, hundreds of paid research fellowships, =
+and more than 800 active labs, students are at the center of one of the wor=
+ld's most well-equipped universities - a university that places unique emph=
+asis on making those resources available to undergraduates.</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceu=
+lI4GY1CgUhRqkiWycPMg1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9gyALn-2FtMtroJSLi-2F-2=
+Bjvd1AYzqemFNgVuLh0osvkd2PT9yc1Vu5IlIQ73VwW4CC9pc_fl-2FMBkJMX7HXblz8UUSYqUr=
+8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrL=
+FpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr=
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI9=
+94yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtetK=
+TuO0CwO-2FxtmyWLew2JDWLecF1rdXhH9HY2E1zWeeFJlphk-2FgGIDBRKsv8Cdc-2BxCDbaVUP=
+OjOWBto2JIcZ9Q6mQ-2FdlHUkoSPK7iquQx7JMvOL7jOOsFSgKOtCpJnN0lJmMNp71PO-2BzSrP=
+w38WEgq9udPaRK9oVxUjKpxI6oOlyejLXhulNSsKZfZjdTKI4Q-3D" target=3D"_blank"><i=
+mg alt=3D"Read Jinchen's blog about freshman seminars" style=3D"width: 600p=
+x; height: 44px;" height=3D"44" width=3D"600" src=3D"https://d2y48w7m6jzhpb=
+.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8=
+CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFT08qGV7nNTXyK6GTDPkzFo9dwK0sN5wD9LFETxoeH5O=
+ztnLR0AZSvTGSh9NQf2ORA" /></a></p>
+<p style=3D"font-weight: normal; font-size: 15px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><img alt=3D"Art &amp; Science" style=3D"font-family: Tahoma, Gen=
+eva, sans-serif; width: 600px; height: 300px; background-color: rgb(250, 25=
+0, 232);" height=3D"300" width=3D"600" src=3D"https://d2y48w7m6jzhpb.cloudf=
+ront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFq=
+LYUQyLFbdyUwOb9BobKC8j9cFYTUkCvusPTXKSZMLb0PE8M4pHqL2P1Dfnc4x9utP3z4mtVHEMS=
+Rsv-l5UdRzM7gfNXxiEq6ySWz3mnOKc2Euecga5mUv3lJimuA5wvvbV-B" /></p>
+<p style=3D"font-weight: normal; font-size: 20px; color: #d7461E; font-fami=
+ly: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 0px; pad=
+ding: 0px;"><strong>Art &amp; Science</strong></p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Are you an aspiring scientist who also loves to play an instrume=
+nt? Or a writer with a passion for building robots? Do you love politics an=
+d international affairs, but plan to enroll in medical school? If any of th=
+ese sound like you, you sound like a Yalie. Yale's curriculum pushes studen=
+ts to embrace their many passions, not choose between them.</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">All Yale undergraduates enroll in a single college and choose fr=
+om courses offered in more than <a href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvya69EIxDfV6rgt39FR3mIn=
+9LuJPYe7uNi6PHuRxouVRQ-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS=
+3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F=
+79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-=
+2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2Br=
+QBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMteEFbvtTt8yAMtbAfYTZHK552=
+cZqH9R46WS1af4VuST8-2B126kyBDYkXbsWrBez3tuj8LX0DRtfd93a85jVuFL85NCB5ZwSW-2F=
+Ki7-2F9I01Xt-2FynqCGRBClLxPEe1xMYKdwFrmS8zxGMzxR1p5JmnzmhwNXwbkfPWetmD9kJiM=
+EWn1GV2TP5q8sc269jIEHKUzMqw-3D" target=3D"_blank">80 majors</a>, without th=
+e constraints of a core curriculum. Students in the&nbsp;<a href=3D"http://=
+mx.technolutions.net/wf/click?upn=3DuTSHxgt0Cs8B6hf-2FYdw9FiIaudoLdEHirtvRU=
+PYyfl0-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi=
+-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcom=
+XKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25=
+WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2B=
+Lkgv29mGcK4m8SdNXpOZchxUCiqu5zMtcVq14Oh0wMH5ccaKitRK1BVz0UEo-2F3omku4qUgWgW=
+edKefiH5HVC5ZJEshQAlgs2pacKgUQCLhZ2ilySx6JDYmafVPNKwtxwxNcmXre5u96888K4nE3C=
+yX7HaFhsIYF-2BDyyn0t7uzI4THR9UsKq5eo6Sh0Wlk6UwQnmU-2FwYBC9JKotzkXXOnQTbHQeM=
+qQhvgs-3D" target=3D"_blank">ABET-accredited Mechanical Engineering major</=
+a> take <a href=3D"http://mx.technolutions.net/wf/click?upn=3Dck0tM8-2FX3W7=
+M8-2BD3R1FMGwK19BCBmxFUMSWBPPVOa08-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um=
+4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ=
+7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVt=
+InjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v4=
+4Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdfG6m95no4auOaG=
+0IHB1gPyydPbQYAj4imXDDp4oadjyF1aiPerUVshPc2TqZ3SA3d1wNAXy4ib96h8l01fSMT8nrd=
+IJZH8hTcCF2TJCg2yYD-2BymTujc5iKu6i6oI9qNLHHVUYeBfzT5xkCN-2FnZrBbXDIDxiS6rRA=
+LWO6xdrJluaTpVLv6jD149RRN7O5HA8Q-3D" target=3D"_blank">Global Affairs</a> c=
+ourses and <a href=3D"http://mx.technolutions.net/wf/click?upn=3D9DVXWK2u-2=
+BnGqvQMtc76Dg4ETdpbnPs-2BSnYAfaK7EIsI-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT=
+9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gB=
+dYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iY=
+vVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh=
+8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdsxYC-2Br5Th=
+-2Bcm0x5pUVfoSlISSFXaMOqFgKl2UX2atMfUcJFJIvo9MJUAw3nvMytMcBZmHHc5dIgTfPt6wJ=
+jEQdcKNmia97dfNp4D-2FtdP2O75PT347oq-2FtzcqpuxUsrR3Uni0oMIpKxfhzGG7dOlhmNdlu=
+n-2F6603sCf2-2FZ5EOVeLxEOC5rOVpTNwilOJzVuGI-3D" target=3D"_blank">learn Ara=
+bic</a>. English majors concentrating in <a href=3D"http://mx.technolutions=
+.net/wf/click?upn=3DVhovk676AZzMDCRUkUTHxcByC2-2BC-2F5llY7RT38fgA-2BmkFJhvt=
+u3siDVLkpnZmenW_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC=
+2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHU=
+wxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M80=
+75Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9=
+mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdH7OHMRxYbzSJBgA6GckStyAzRelHjfwVZDOc=
+ViEkwa7Rc5MMQNRHTk-2FNenbrywr20BjGx50TbNJKavVuM-2BS4efG-2B6AfD8WQeIqDRtHiX9=
+mKGMXwyGuSLZAac33nVYl1LS-2BjganFyoHtfqqVLA3-2Fv2xigWN-2BPTm3QVs4ujDx-2ByFTt=
+JivgvIn9HXAMPNMHyors-3D" target=3D"_blank">creative writing</a> take <a hre=
+f=3D"http://mx.technolutions.net/wf/click?upn=3DeeVmoea6wsNg3ynCdH4zKbDpCzl=
+GmPFrQnFmJ-2BfVXEE-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsW=
+glxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJy=
+Zc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBd=
+zk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeE=
+MMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtejQZTygRokviKNaOf2-2BE8lVHNy3GX=
+qIg92Ty1bArW-2BDiq-2BNqXF0aVBwmEn-2BdlgBNEZeTqIbhcPrMFxmPjD1awhpgV-2Fsqnz64=
+x9SYvA1AFtnOMYXO3GylUG-2FeLhJNHUtQZ8p-2F-2FiFWsLamDywJLA87XJ63vJGCFxdKQSXc-=
+2BxZ-2BGgYmlvebro64zVgAMba9khfOE-3D" target=3D"_blank">Environmental Studie=
+s courses</a> and conduct&nbsp;<a href=3D"http://mx.technolutions.net/wf/cl=
+ick?upn=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvxgmuXFm954ixqCtmdKaFXBM=
+Epux2TJZUV1dv3MsoHP2w-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3=
+m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F7=
+9lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2=
+BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQ=
+BKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtfa4o098qIQasPH19WBiR0tpDJ=
+N-2BOSHG46gJKmqKWriUMO7YAKI0OCUfKRkPoFED98gUatt8nody70Tbmk6WK-2F4aIw4NY5P-2=
+BchKTm2u6pFMWvaza2eUzJLlFX-2BPuvdKTt42OB4EpPCdcK82ozACjYKWhnzkYcDj-2FLEx6wT=
+sc0yxuXS6FphQ6EF3-2FqX-2BXIXL3DU-3D" target=3D"_blank">independent research=
+</a>.</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceu=
+lI4GY1CgUhRqkiWycPMg1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9gX3qbrrsB8TxQLzJQBfeP4=
+HLNeaLM0PRKYlh9cDd6j5rdviJ2r5um-2F7KZFDT4cD23pj0wEhKCEfHmRymx15FNeA-3D-3D_f=
+l-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9f=
+G6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBx=
+zcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxW=
+snXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4=
+m8SdNXpOZchxUCiqu5zMtdPSAlhWptAocW6oPxtPchb7rE0v2vr4pR1Kn3FZm7R6FEPo3j92LC8=
+cMtnzLrhg1dlvQJmACX1nMOeO6zF4YYbH8qouyzfx0oS73f7s8AYCQhyEYCoaFc6CpRWZP8QiUk=
+0bognzYYLuxhMGjU2q7eWmKSr4XVv1TYLwmc9lZu8N2ez9zSrLeZgvzkJQHjb-2FUc-3D" targ=
+et=3D"_blank"><img alt=3D"Read Tobias's blog about taking linguistics as a =
+biology major" style=3D"width: 600px; height: 44px;" height=3D"44" width=3D=
+"600" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVr=
+dHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFb3wUMYBr=
+GNawqmySMRmysZQD-9Ke0SuiO1Y9qq2iQpy26CiZ2AW_qA" /></a></p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><img alt=3D"As Planned &amp; Unexpected" style=3D"font-family: T=
+ahoma, Geneva, sans-serif; width: 600px; height: 300px; background-color: r=
+gb(250, 250, 232);" height=3D"300" width=3D"600" src=3D"https://d2y48w7m6jz=
+hpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsE=
+UL8CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFYTUkCvusPTXKSZMLb0PE8P2_-5wHtoQFaquyC_xy=
+xGH-7m-AOzMd1W9pqL-GoG3ji8PTcyhxghd" /></p>
+<p style=3D"font-weight: normal; font-size: 20px; color: #d7461E; font-fami=
+ly: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 0px; pad=
+ding: 0px;"><strong>As Planned &amp; Unexpected</strong></p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">Maybe you already have a path mapped out for your college studie=
+s. Maybe you have no idea what your major will be. Yale students embrace th=
+e unexpected, even as they pursue their long-term goals. Many academic surp=
+rises emerge during <a href=3D"http://mx.technolutions.net/wf/click?upn=3Di=
+c2UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvzjGGyPLY0UVY4Daq-2B4KhIeR4kIZYlsBl=
+S0WSwL5nydnF7omsiI6QNQJBnSUAb-2BmUk-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9u=
+m4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdY=
+Q7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvV=
+tInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v=
+44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdl2Vu7Gwb-2BP3=
+6KH9-2F4V-2BMYPagZhve4NuZ1ZfgxLe-2BSjOEKeWX3WPrEG9TEn51So417H05UKeICkL9RdGl=
+rw3ciGMllPgBiKRvrtTegO4wrAnA-2BSjuZsh0flD0c1W4aNlPSdjtNCB8pABVrrNV2LX0Bewyp=
+iXbDxe1ZIYBJgxxwC9whpZp003Kvp-2BuSnSeVtS4-3D" target=3D"_blank">shopping pe=
+riod</a> - the two weeks at the start of every semester when students visit=
+ as many courses as they like before enrolling. That's two weeks to explore=
+ new courses and departments, discover hidden gems in the <a href=3D"http:/=
+/mx.technolutions.net/wf/click?upn=3Dwwc9coa9e5m8xtOpV41V-2FxdkMcI5NnzszgSZ=
+cm0QCwt5fRJtgn35pvHOr0qlbG3h_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS=
+3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F=
+79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-=
+2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2Br=
+QBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMteQNHlv2JNJZ-2FMX0tLO7P8X=
+RnyjvcDH6W9wFx8pXjj1tUVL1d4Z-2FuRZOJdS5BM3ry0NC2KkfmDjbm5OUHlv3u7eo33ux-2F-=
+2B3VVxOTwLhj2iSuAu9etN34-2F6azANnFLIy1EWo8IjNNAO6f2tqtQ4NAFmtzpGgWwbjDPd93p=
+8VvknFQ-2BrdZK7FzbSJzBXXGR4Ji-2B8-3D" target=3D"_blank">blue book</a>, and =
+compare notes with friends. Yale students don't declare a major until the e=
+nd of sophomore year, so exploration isn't just possible, it's expected.&nb=
+sp;</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;"><a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceu=
+lI4GY1CgUhRqkiWycPMg1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9gT4V8pRbHb8qcCjZ3THBYz=
+dyLsqno-2FYGQknvrnRlQ-2FZk1EKufao6jIapzNYxn3Pku_fl-2FMBkJMX7HXblz8UUSYqUr8-=
+2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFp=
+ICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH=
+0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994=
+yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdFmNe=
+uPJg7v-2BaagsLsc20J5I01SFQu4nAEVXuL-2BdQng6SvgMwXZxOZIVK6frkYx5O1QRFrxXbX8-=
+2FEGgQad5rPdIy6q23PaOnXkIgR9JTM8oIvZyNd3HsEU5caoeBc-2FVBHSPDCv73OZ1c5h9K8nD=
+p-2Bj4WUsQGR3-2Bca9L-2B-2Fu3AdBrvILjpHaGAjshyH5EijJLF4-3D" target=3D"_blank=
+"><img alt=3D"Read Stephanie's blog all about shopping period" style=3D"wid=
+th: 600px; height: 44px;" height=3D"44" width=3D"600" src=3D"https://d2y48w=
+7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy=
+8xXsEUL8CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFaB0yuw80mLERuxB0FSN5Zcw7biHtsR0cBLX=
+AV59CyJKrAe1KmzsxYU" /></a></p>
+<p style=3D"font-weight: normal; font-size: 20px; color: #d7461E; font-fami=
+ly: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 0px; pad=
+ding: 0px;"><strong>What Sets Yale Apart?</strong></p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">As you learn about colleges, you are probably wondering what mak=
+es Yale unique among other world-class universities. The answer, of course,=
+ depends on you, and what you are looking for in a college. Here's what one=
+ recent graduate, <a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2=
+UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvzOHnYHrUfVU369rZfA2L9gm8-2F89YLXqllZ=
+W4DC5FhbZw-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdl=
+C2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mH=
+UwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8=
+075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS=
+9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtfU2dnXCmtb5x-2BbLlAf-2FSF8fKHjjJwKDs=
+M7NcSlfPjwD3qJBXHW9W3pSN1bxFxZBywYMKs1qSAGx87Ly0LqFOsQxtUgKD-2FRi9t36ZHW0T4=
+JpYTb98Dw7EDSyyt9CpFqeUjOqccq5qNQZ-2FHgb8VPJr5UtVAotEyXElItHhz2iVT7AjIOJDa-=
+2BPkEvxhMWnVihM-2FI-3D" target=3D"_blank">Samantha</a>, had to say:</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0x 16px; paddi=
+ng-left: 30pt; padding-right: 30pt;">"When you are at Yale, it feels like y=
+ou are on the world stage, but it also feels like home. Yale students win <=
+a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOp=
+x0qWUkXMOWHcNQm-2FnzuliemvvtV2AkcOLCLDo1bR2DyqodR3BGmvKIfXtJb0gYHQqrnBeo026=
+bH4zDu5RVdmqg5v5tvMB8LtbhhSWBoOsavu_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4s=
+iHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7m=
+mMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtIn=
+jMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y=
+2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtfPdO56awAn2BRjMgY=
+egDSlGpWwlzSnpRlnSnVL3-2BCFKPIlQcESE6y45SG0Zw-2Fy7brevBHGbXRTypNf6mraiA5g6O=
+Ha0DtGmV8-2FCsUfoNlq-2FtU7uksLpJK8aI315AaBAZyJrpvTQvvzAqVLQvo9zKZxfqOWw9EGW=
+3KIL-2BXzhYmCVZCxs-2FV60G-2FduoO-2FhfUqgRE-3D" target=3D"_blank">national c=
+hampionships</a> (and <a href=3D"http://mx.technolutions.net/wf/click?upn=
+=3DrwNiXX0qx7MUiBt9H7GUGGdNKun-2B-2Bi6R-2Fx09TYejQaZWglyxe3b1S4Iw-2FRM-2FP7=
+0zhDO4KI4wqcmdYh-2FfEpnSG6jAXUlNrrolb0BHRqpi0U00RtSCq8tkhBGeVmXBwRfi_fl-2FM=
+BkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2B=
+vZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWD=
+j7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxg=
+yoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdN=
+XpOZchxUCiqu5zMtdM61ThQFLKY-2BXLwonKr9tyu8Ic-2B1uxtLWp5lAES90tMoBGP3aq8wuBR=
+tN9RK-2BhSMrnYPj1phwMz-2BWWE2UIIA13OptrueutCiN9ryRg6HYtwISQji9wvy53OLSzYuQW=
+yBGGxAh-2BSv110qUgJ1NQskCggbVLSorLTC3RfZ5n51z3xtZKJqDd9aTXdewNn61LYuw-3D" t=
+arget=3D"_blank">not just in sports</a>), <a href=3D"http://mx.technolution=
+s.net/wf/click?upn=3DuTSHxgt0Cs8B6hf-2FYdw9FpAXiA-2F0h7E4xtWkwB0cfs6YY8ZzFs=
+ZelUIs46N5bgwUcX3u5-2FxoaxRcIvvQksD-2FcF4czFH0fBbOfsmOf5ugs8A0JioOjBZ8729J-=
+2FNMOPmECU9kKgbwspjsZHx2ZNp58ZE5NVY6EqeoI1HrmiffTXkQ-3D_fl-2FMBkJMX7HXblz8U=
+USYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFX=
+wrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoC=
+nHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79=
+A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5=
+zMtfAve9FsI-2FQ6NYtKBS5Rp2HOvDd0UpG29WlUY7Rw05AIopc0C0XuGSlfFAzq-2B3hTYr-2F=
+owIIpg2cfve3DwDEyO-2BUkw9-2FqtWDV595kotcsVkLj4HjdvupS6pHFVYz7G7aCzub4-2BtFt=
+aanFOC2Y9kk7TJEgH39VKFtBNt1XkCoiKhoNphfg-2BrOA9fQ6zbx-2FEGZx-2BY-3D" target=
+=3D"_blank">patent lifesaving devices</a>, put on <a href=3D"http://mx.tech=
+nolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx7p4-2F2hN2ajYXktuHSHbt-=
+2Fy1bmKHuxI4BjTlpYmRPXhAonWhCSyTUb6Wl4hzdA1R5w-3D-3D_fl-2FMBkJMX7HXblz8UUSY=
+qUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJ=
+KrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHx=
+CLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2=
+BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMt=
+enda3hlK49i7LXvx57x8fSbfjK8rIGiDZs1DvrwedXwtbxlkWznTMKl5pdLUF8AK6yop-2FjGUr=
+7YKTll-2FcajxWWNFRFhixXQNTyB927qhfPZqnCXZQC69pnVZPpiK1fizDwyxEEXkwjAC1WZ04M=
+CdxAa2xvQfuSiTFt9p62hUGP7tembmPXm912dK8-2BHptiMP4-3D" target=3D"_blank">ama=
+zing performances</a>, and earn <a href=3D"http://mx.technolutions.net/wf/c=
+lick?upn=3DrwNiXX0qx7MUiBt9H7GUGCK80cNTuPq-2FVFxU3AM1fS4LX5v6kS8teUqqYgAi3w=
+pSMLGiZBDQuklAudoRRWZjGFqrIa7pXZJW8pqYn24FWlUPGWv4pQRPcrdCv6D1WvVt_fl-2FMBk=
+JMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ=
+-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7=
+F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyo=
+B-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXp=
+OZchxUCiqu5zMtcpl3LPS-2BUOksyjGAGNeLFSMZQpiljUActQwoN-2BJLfAYam34Q0RpfYrcxP=
+oTT2Qq7uQ5u-2BHiH6AmbIzZgXIPtCLm6eD8LoDagcWIAzIGyO5FKzHVyT4M4pfNX7xOayDWhHa=
+FumJW0-2Fz3Xha9iGzMZh8xz7ifpOxM-2FULxSpxlByYHALcb-2Bjvwfjsnk9fbsqRcgM-3D" t=
+arget=3D"_blank">global recognition</a> for their academic work. But Yale s=
+tudents are also grounded, friendly, and approachable. At Yale, ambition do=
+esn't translate into competitiveness. We know that our classmates are Yale'=
+s most valuable resource."</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">See what sets Yale apart for you by <a href=3D"http://mx.technol=
+utions.net/wf/click?upn=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvwz04cRP=
+hgz03sQJ7-2FWhv5vOKI-2BVTaAeivwvpty6p4-2BZA-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr=
+8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrL=
+FpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLr=
+mH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI9=
+94yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdge=
+C2DjAkLoa1B1L2hk1nFpn5fX6nnowyvuzAWY30jimqqZxjvdbHs7n5gJgTFggKquR0jmzYuE0VF=
+-2BdF4fhz5cDgoP0d6ao07KlyF-2FwUblP9T-2FMsgFJjXdVTTq8jmnHvzqCbn1Q0m-2FVrO5j0=
+8CC3Auwn1Lip0z2OvN1phLCteBls3OUh34fuRZ-2FBKzSpgXHc-3D" target=3D"_blank">vi=
+siting campus</a>, experiencing our <a href=3D"http://mx.technolutions.net/=
+wf/click?upn=3Dic2UYdiceulI4GY1CgUhRqkiWycPMg1cfgysn1mEzvyDQ5pKE5E3KsL9c2Nb=
+xxJi_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6=
+VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaF=
+SsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4=
+OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv2=
+9mGcK4m8SdNXpOZchxUCiqu5zMtcKGBVIL2gKJrzyOJY1yPDNyLKXQGzWSL-2BZz2nChP4LKUQJ=
+LhLmz9OZKKAmeU-2FcZaTxs-2Bcz5FCQKZsw-2BDSxwv2l2N6uHBmUi9gsMLtQKgdSk-2BW8S4m=
+fnpv36blqWA38qAP5AO5Ov-2BSvatn22vKaiY9zalU-2BKkdXhiPUSsdJhGiDmHGBVMiZR-2Br4=
+Qd4Zdv-2FFxg0-3D" target=3D"_blank">virtual tour</a>, watching <a href=3D"h=
+ttp://mx.technolutions.net/wf/click?upn=3Dv0w31tpmiNQuQlzuHRi-2FMtAUc-2F904=
+GipazVWUlDNq7U-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxd=
+lC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3m=
+HUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M=
+8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWv=
+S9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtdFI11ApnkirtLhb30o2KeOi6cCflqqK-2B3=
+DHpka7a7Jp90uy5So9yBD0WaFyDi7fBf-2Bg-2BKuyI-2F0GOlvMK-2Boa2BxN-2BzE-2BVsAZ0=
+tE3WyBmyFk9tHraA8bHKt06MHNbuumGrQMHhAynaDaTc7eECSjmWCwQRKURGwbkUpXA8zjiHwvy=
+1NlNXI4KqVFUt6AMOqZtAA-3D" target=3D"_blank">real Yale courses online</a>, =
+or following Yale on the social media platforms below.&nbsp;</p>
+<p style=3D"font-weight: normal; font-size: 17px; color: black; font-family=
+: Tahoma, Geneva, sans-serif; line-height: 150%; margin: 0px 0px 16px; padd=
+ing: 0px;">The Yale Admissions Student Team</p>
+<p align=3D"center" style=3D"font-family: Arial; color: #ffffff; margin: 0p=
+x 0px 14px; padding: 0px;"><a href=3D"http://mx.technolutions.net/wf/click?=
+upn=3DtQ550YTtXV6QVHBVm0ByBRH6OYC41cNG4Tyqpy6kihJGiHQjMbgawZZhrnKOUxIm_fl-2=
+FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-=
+2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZ=
+WDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnX=
+xgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8S=
+dNXpOZchxUCiqu5zMtdL7oU4-2B9i6DBAxAFP44jAnBsDHjKmn92z7glK3RPhvKhG0PHH9dhL35=
+gWEA9bdErmOl8vohm2Fs6-2BMvTJRDeJJgQ8Z3Eii48-2BaKI3vYOAT3r9pWPuWDB-2BcCtKEbb=
+MvlH8P2dki9scn-2B1LcdiOdztVXnYaMeZjZ-2FYikdiqGP5uTenSUJk-2F8nlu4NJSNmT3vKqI=
+-3D" target=3D"_blank"><img alt=3D"" style=3D"width: 75px; height: 75px;" h=
+eight=3D"75" width=3D"75" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/e=
+u/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLYUQyLFbdyUwO=
+b9BobKC8j9cFfroNYNrUw2sKkAvuNZ5PO7x9Up-cZisKFCm65gFz329" /></a>&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp;&nbsp;<a href=3D"http://mx.technolutions.net/wf/click=
+?upn=3DVhovk676AZzMDCRUkUTHxXmRthlwzweanhdE-2F1nrWjGmhwL-2FGuz8E4lQGaStRspD=
+_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG=
+9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTg=
+BxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQT=
+xWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGc=
+K4m8SdNXpOZchxUCiqu5zMtf4M1pf3nt9G2zSBDaXZ4Zm4BAg9KVx94NDHW7nCJ8SXrqZQBQtzQ=
+-2FbYC5z710HcI1-2B8fRaALogpEzoniUVdIjtKQKUSCyvihxBZY66G-2FkTmXUSN9p0OXJHRGn=
+QhS-2Fe-2B2Vyk-2BVrYalxWfOQrALBlzmHqhhpofKsSvxsca67sOZWK-2FPlgAa-2BkFWzFVEl=
+xh7hLxM-3D" target=3D"_blank"><img alt=3D"" style=3D"width: 75px; height: 7=
+5px;" height=3D"75" width=3D"75" src=3D"https://d2y48w7m6jzhpb.cloudfront.n=
+et/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLYUQyL=
+FbdyUwOb9BobKC8j9cFZLYMJYvVLFqSEII1E6cY_ayAJ5L5okVNSGe7u2oavFH" /></a>&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=3D"http://mx.technolutions.net/w=
+f/click?upn=3DArGmOXNrXZXX-2F83mTJo6EElWzzHzqzOKlgy1SGxGiBnjTU8fLEmoT96igIe=
+MeDtv_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr=
+6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBa=
+FSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU=
+4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv=
+29mGcK4m8SdNXpOZchxUCiqu5zMtfy4aD0hRuEbmswJiDGjzd2rSrsKbgEf35sxgMcr-2F9ST4r=
+URI-2FHTpfR-2Bvk-2FcikGrfgC5wztZWvbZzi6B64x-2Fz0ib1Jsb914F1OHmftm-2BUpno7NC=
+gz0h1KiJFPTzJZq4-2FJc0KnA9xXz-2BJsM9j3yYTu0c78TnvNjWfBwmL-2FfgmF0mZV8tm4tGR=
+AdjbDz7hsqe53g-3D" target=3D"_blank"><img alt=3D"" style=3D"width: 75px; he=
+ight: 75px;" height=3D"75" width=3D"75" src=3D"https://d2y48w7m6jzhpb.cloud=
+front.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyF=
+qLYUQyLFbdyUwOb9BobKC8j9cFd1hnu3QJLVsl2l-4P4HX8eJmwLkLOyfMpp3jpLiCWObOf2Zf1=
+CC6dE" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=3D"http://mx.t=
+echnolutions.net/wf/click?upn=3D-2B5DWCsFax5Df8U8NxLEwpdRYN3xzBgkAOmy8n0YHN=
+OqI-2BWdUEFwhQ6ePLDJTKTlKXXJF5qrdg-2BwupL0H4ZmLYQ-3D-3D_fl-2FMBkJMX7HXblz8U=
+USYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFX=
+wrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoC=
+nHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79=
+A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5=
+zMtf0YRUIUTnQK4OYXykF-2BGrJA92z8QapzP5fCKaALcjElmCaFQT8w4B8S-2BQMYvaryQPoxJ=
+k6t-2FGEGBAguIMCpnIl6yTKW5ZHekR0apNW63rftAD-2BgEqMoWy9lALWJiHDtcmvC1NRHQb9K=
+xAjtdd9t4pmu3KOGmFyF-2FBB1JfpanVRNti5YGth9iQQRDXSwL-2FlnD8-3D" target=3D"_b=
+lank"><img alt=3D"" style=3D"width: 75px; height: 75px;" height=3D"75" widt=
+h=3D"75" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5=
+vVrdHNwwKigz_j51_phY7SAOOj8wGy8xXsEUL8CmFIyFqLYUQyLFbdyUwOb9BobKC8j9cFYPKg8=
+bcZEiES6TYkKzcjhFsBPyjxEgiLQ" /></a></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div align=3D"center" style=3D"width: 600px; display: table-row; clear: bot=
+h; background-color: #0f4d92; text-align: center;">
+<address style=3D"color: white; font-size: 13px; font-family: Tahoma, Genev=
+a, sans-serif; font-style: normal;"><br />
+Yale Office of Undergraduate Admissions<br />
+38 Hillhouse Avenue<br />
+PO Box 208234 New Haven CT 06520<br />
+<a href=3D"http://mx.technolutions.net/wf/click?upn=3Dic2UYdiceulI4GY1CgUhR=
+qkiWycPMg1cfgysn1mEzvyg8on2rbHVhhadqhugGcMh_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1D=
+pcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA=
+5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe=
+1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgz=
+Deh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtc4E3t7oGK=
+dgGJNi7-2FsuKjKthTm6FFeFmAwrcR4upsMsqGuOxlFPYH15c-2B49YwFMY5pcIX1cMp5zZ2Lwr=
+dWxHsFRxGXHeIpftCNsOQJg-2Brasfa8PaVcwnsout-2BGHDDkiW8H9aG9t4lzaLdZ9yg33dBPY=
+IKKMS4kjsqKOAmGGcNGBiiTLrrPgrv4Ql6OSgmze7g-3D" style=3D"color: #D7461E; tex=
+t-decoration: underline;">admissions.yale.edu/questions</a></address>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></font><br /><table align=3D"center" bgcolor=3D"#fafafa" class=3D"del=
+iver_unsubscribe" style=3D"opacity: 0.75; clear: both; margin: 25px auto;" =
+cellpadding=3D"5" cellspacing=3D"0" width=3D"650"><tr><td align=3D"center">=
+<font color=3D"#333333" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><s=
+pan style=3D"font-size: 11px;">This email was sent to markiewicz.john@gmail=
+.com by Yale Undergraduate Admissions.<br /><a href=3D"http://mx.technoluti=
+ons.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1iKpI6Rs-2F2HcvQQ3cs5IsJtZjGfg-2=
+BbZ207sd-2FiMw8ATe1d0ZV56GLi0En63UPIWK-2BnHgLLClK9Rl-2Bprl-2BwgdyPaIziKEf9R=
+wDFtCdfBRRVE9_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2z=
+wkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwx=
+fcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnHxCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075=
+Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mj=
+s-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zMtcOJu6Zv11TvCpdN5flsuSZ-2Fvna3vebFamckSb=
+vo7i5Y4CBuHTb9DnzIdqWgV0Qbxkcr7EJobBN5Qu-2FFirjO5Jaa0V62d17dGmb8Zbv42gMYxBt=
+lplmr05DtMRrUlL5-2FS99dlT-2BspTJTpbcQ-2FZslD26qeFN7MnTaLn7WxwDmocbBM2Sx53B3=
+6M6n5v2cTwe6tI-3D">Unsubscribe</a> from Yale Undergraduate Admissions Commu=
+nications.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomXKBaFSsTgBxzcZWDj7F60Jaf-2BoCnH=
+xCLrmH0QBe1iYvVtInjMaz8q-2BCBPBdzk9M8075Jw25WZJU4OdQTxWsnXxgyoB-2B04eKP79A-=
+2BI994yOgzDeh8v44Y2hq-2BrQBKaPeEMMWvS9mjs-2BLkgv29mGcK4m8SdNXpOZchxUCiqu5zM=
+tfAmYUHPXljQH-2FzNtuwetAbxknZKBdy9VZt0JertGzN7-2BEcwqe4exBTJ3TfisAgTpuP-2B-=
+2Fr3Yq-2F41Q-2BB-2FWNnpH2u5OwD37o0ryET5umnpqCwis7JQZHvTPWBKPn0Qjezwv2O2O2Ng=
+X2iAqaUZ6B0MkDGG4Trs-2Fm4kZLgUHSolQhZlQikFYpQd2cnmnEHaY3ZGMY-3D" alt=3D"" w=
+idth=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1=
+px !important;border-width:0 !important;margin-top:0 !important;margin-bott=
+om:0 !important;margin-right:0 !important;margin-left:0 !important;padding-=
+top:0 !important;padding-bottom:0 !important;padding-right:0 !important;pad=
+ding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_6769c950-9ca3-4d14-925d-1560d65b35c3--

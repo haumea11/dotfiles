@@ -1,0 +1,120 @@
+Return-Path: <mailman-bounces@lists.cock.li>
+Delivered-To: edt@airmail.cc
+X-Original-To: mailman@lists.cock.li
+Delivered-To: mailman@lists.cock.li
+To: mailman@lists.cock.li
+References: <56B7D74F.20600@cock.li> <56BA27AA.2060304@8chan.co>
+ <56BA5179.3040302@420blaze.it> <56BA7727.6050608@8chan.co>
+ <56BAA680.5010302@420blaze.it>
+From: Cristian <opempost@8chan.co>
+Message-ID: <56BB4D15.6080508@8chan.co>
+Date: Wed, 10 Feb 2016 15:45:41 +0100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.5.1
+MIME-Version: 1.0
+In-Reply-To: <56BAA680.5010302@420blaze.it>
+Subject: Re: [cock.li] TIL github blindly trusts the email in a commit
+X-BeenThere: mailman@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <mailman.lists.cock.li>
+List-Unsubscribe: <http://lists.cock.li/cgi-bin/mailman/options/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/mailman/>
+List-Post: <mailto:mailman@lists.cock.li>
+List-Help: <mailto:mailman-request@lists.cock.li?subject=help>
+List-Subscribe: <http://lists.cock.li/cgi-bin/mailman/listinfo/mailman>,
+ <mailto:mailman-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============6683658463949062860=="
+Errors-To: mailman-bounces@lists.cock.li
+Sender: "Mailman" <mailman-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============6683658463949062860==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="oTuBpXnUDSgxgjvPLUrkLT0DtfmEqo1hJ"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--oTuBpXnUDSgxgjvPLUrkLT0DtfmEqo1hJ
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+And how do you think people get fucked with this?  I'm genuinely curious.=
+
+
+On 02/10/2016 03:54 AM, Yokes! wrote:
+> Yes, I do.
+>=20
+> On 09/02/16 23:32, Cristian wrote:
+>> Do you know how git works?
+>>
+>> On 02/09/2016 09:52 PM, Yokes! wrote:
+>>> So, people who care about using their github profile in a CV can be
+>>> fucked with.
+>>>
+>>> Or, more notably, people who are technically inept and pushing for co=
+des
+>>> of conduct in SW projects purely to fuck with people.
+>>>
+>>> On 09/02/16 17:53, Cristian wrote:
+>>>> So what?
+>>>>
+>>>> On 02/08/2016 12:46 AM, alexskc wrote:
+>>>>> https://github.com/jayphelps/git-blame-someone-else/commit/e5cfe4bb=
+2190a2ae406d5f0b8f49c32ac0f01cd7
+>>>>>
+>>>>>
+>>>>>
+>>>>> ______________________________
+>>>>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>> ______________________________
+>>>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>>>
+>>> ______________________________
+>>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>>
+>>
+>>
+>>
+>> ______________________________
+>> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>>
+> ______________________________
+> 8=3D=3D=3D[cock.li mailing list]=3D=3D=3DD
+>=20
+
+
+--oTuBpXnUDSgxgjvPLUrkLT0DtfmEqo1hJ
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJWu00bAAoJEG2IGxMDfr7FNIEIAIHajyYyv/MGlmmMnyB+7ZyT
+jO68Z8xiltBit3eBY4oHnBtuDgBqDPcOzKUwfojwzlvUwTYEh7DG3Csif7xjNoHP
+mCjxBq3C60+UlsxRe9P7ySKNvb9zMurvp50kB4iMSJ9w74/tu3Bz6NcwK74YQORU
+tqOqZZNW6SrrEiLjQTsFjJlwVJ6YooGFeGle1bWmAOa4DVzNqKwJED6DBZo91YhO
+6gnPwrgMSp7x1zF+ig0tueH90Nyg+IcFaR81sL19lya7q8IDL8A030dCWYTP+2Bj
+dzEbYsVOfXlVdYvhl0SeJdCbFp5QZAUZ7UlcNzqc4GXZszdCoU0Zm7t4LlqTKHU=
+=3m0P
+-----END PGP SIGNATURE-----
+
+--oTuBpXnUDSgxgjvPLUrkLT0DtfmEqo1hJ--
+
+--===============6683658463949062860==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCjg9PT1bY29jay5saSBtYWlsaW5nIGxpc3Rd
+PT09RA==
+
+--===============6683658463949062860==--

@@ -1,0 +1,199 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp194531oid;
+        Thu, 16 Jul 2015 05:03:31 -0700 (PDT)
+X-Received: by 10.194.23.194 with SMTP id o2mr18741294wjf.63.1437048211027;
+        Thu, 16 Jul 2015 05:03:31 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22c.google.com (mail-wg0-x22c.google.com. [2a00:1450:400c:c00::22c])
+        by mx.google.com with ESMTPS id cb3si11203844wjc.44.2015.07.16.05.03.29
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 16 Jul 2015 05:03:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22c as permitted sender) client-ip=2a00:1450:400c:c00::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22c as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@connect.hillsdale.edu
+Received: by mail-wg0-x22c.google.com with SMTP id x7so46907946wgj.2
+        for <kuiperhaumea@gmail.com>; Thu, 16 Jul 2015 05:03:29 -0700 (PDT)
+X-Received: by 10.180.231.40 with SMTP id td8mr6272964wic.9.1437048209807;
+        Thu, 16 Jul 2015 05:03:29 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp200275wmd;
+        Thu, 16 Jul 2015 05:03:28 -0700 (PDT)
+X-Received: by 10.68.209.196 with SMTP id mo4mr18228333pbc.148.1437048207979;
+        Thu, 16 Jul 2015 05:03:27 -0700 (PDT)
+Return-Path: <bounce-use=M=27934415773=echo3=216BF43698129B604545240254BCAD01@returnpath.bluehornet.com>
+Received: from smtp.portovelho.bluehornet.com (smtp.portovelho.bluehornet.com. [67.216.225.94])
+        by mx.google.com with ESMTP id dg11si12700034pac.81.2015.07.16.05.03.25
+        for <markiewicz.john@gmail.com>;
+        Thu, 16 Jul 2015 05:03:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-use=M=27934415773=echo3=216BF43698129B604545240254BCAD01@returnpath.bluehornet.com designates 67.216.225.94 as permitted sender) client-ip=67.216.225.94;
+Return-Path: <bounce-use=M=27934415773=echo3=216BF43698129B604545240254BCAD01@returnpath.bluehornet.com>
+X-MSFBL: bWFya2lld2ljei5qb2huQGdtYWlsLmNvbUBwb3J0b3ZlbGhvQGFwZ2FyQGJvdW5j
+	ZS11c2U9TT0yNzkzNDQxNTc3Mz1lY2hvMz0yMTZCRjQzNjk4MTI5QjYwNDU0NTI0
+	MDI1NEJDQUQwMQ==
+DKIM-Signature: v=1; a=rsa-sha256; d=connect.hillsdale.edu; s=s1024-1.bh; c=simple/simple;
+	q=dns/txt; i=@connect.hillsdale.edu; t=1437048205;
+	h=From:Subject:Date:To:Mime-Version:Content-Type;
+	bh=Iq1PDk05tOamX4lHGyHLailrdYdcq1COGjutzLZdtDQ=;
+	b=nsd/cP7D6lWm+U6+DOCkTU3qYe2I3IFfCrZHkP/wzjQ1S/Rw71LxkbeW1hPGUwgN
+	aePsTcR5NjuQ7x94zK7Da789COJn67Y9pBIKMwWtlOdXCMqFH2eFPTDe+17nRN+u
+	VOdyJA7wuP/NNJLh/ru+LnC+Ksp4Q/YE4LkUdIGdwBY=;
+Received: from [10.46.3.12] ([10.46.3.12:37250] helo=localhost.localdomain)
+	by returnpath.bluehornet.com (envelope-from <bounce-use=M=27934415773=echo3=216BF43698129B604545240254BCAD01@returnpath.bluehornet.com>)
+	(ecelerity 3.5.3.37097 r(Platform:3.5.3.0)) with ESMTP
+	id BF/28-25732-D8D97A55; Thu, 16 Jul 2015 05:03:25 -0700
+Message-ID: <BF.28.25732.D8D97A55@dc4mta03>
+Date: Thu, 16 Jul 2015 05:01:21 -0700
+From: "Hillsdale College Admissions" <admissions@connect.hillsdale.edu>
+Reply-To: admissions2@hillsdale.edu
+To: =?UTF-8?B?Sm9obiBNYXJraWV3aWN6?= <markiewicz.john@gmail.com>
+X-Outgoing: apgar
+Subject: Student Life  
+List-Unsubscribe: <mailto:unsub-27934415773-echo3-216BF43698129B604545240254BCAD01@listunsub.bluehornet.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="--55a79d116607f-MultiPart-Mime-Boundary"
+
+
+
+----55a79d116607f-MultiPart-Mime-Boundary
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+What of fun is to be had?
+
+Students at Hillsdale College commit themselves seriously to
+their coursework, but balance their experiences on campus with
+all manner of fun. Regular opportunities include Division II
+Charger athletic events; club and intramural athletics; student
+and professional fine arts performances; all-campus events of the
+Student Activities and Campus Recreation Boards like the Garden
+Party, President's Ball, Color Run, or Dodgeball Tournament;
+spiritual life activities and volunteerism; Greek life; or
+meetings and happenings of an always-growing list of
+interest-based clubs and honor societies. 
+
+
+Click-Throughs
+
+Read more about Student Life at Hillsdale College:
+http://paracom.paramountcommunication.com/ct/28771808:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+Watch videos from campus life on our Student Life YouTube
+Playlist:
+http://paracom.paramountcommunication.com/ct/28771809:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+Explore Charger Athletics:
+http://paracom.paramountcommunication.com/ct/28771810:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+Go Behind the Scenes with the Tower Players:
+http://paracom.paramountcommunication.com/ct/28771811:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+Catch up with Hillsdale Students on the Student Stories Blog:
+http://paracom.paramountcommunication.com/ct/28771812:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+
+Request More Information:
+http://paracom.paramountcommunication.com/ct/28771813:27934415773:m:3:603841109:49A6366DDA552912DA128350B51BB3A2:r
+
+
+Hillsdale College Admissions, 33 East College Street, Hillsdale,
+MI 49242
+admissions@hillsdale.edu • Phone (517) 607-2327 • Fax (517)
+607-2223
+
+
+
+
+
+
+
+----55a79d116607f-MultiPart-Mime-Boundary
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr"><head>     </head>     <body>         <table align="center" width="600" cellspacing="0" cellpadding="5" bgcolor="#808084"
+style="border: 1px solid #666666; vertical-align: top;">             <tbody>                 <tr>                     <td align="center"
+valign="top"><p style="padding-bottom: 0px; line-height: 1.5em; font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px; padding-top:
+5px;">Problems viewing this e-mail? <a style="color: #ffffff;" href="http://paracom.paramountcommunication.com/p/vWySfhjmN4">Display it in your browser</a>.</p>                     <table
+width="575" cellspacing="0" cellpadding="10" border="0" bgcolor="#10345a" style="background-color:#10345a;">                         <tbody>          
+                  <tr>                                 <td align="center" valign="top"><div><a
+href="http://paracom.paramountcommunication.com/ct/28771806:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="575" height="200" alt="Header"
+style="border-width: 0px;" src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/header2.jpg" /></a></div>          
+                      <table cellspacing="2" cellpadding="20" bordercolor="#10345a" border="1" bgcolor="#10345a">                                    
+<tbody>                                         <tr>                                             <td width="325" valign="top" bgcolor="#ffffff"
+style="text-align: center; line-height: 1.4em; font-family: Georgia,'Times New Roman',Times,serif; font-size: 14px;"><a
+href="http://paracom.paramountcommunication.com/ct/28771807:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img align="" border="0" alt="" style="margin: 0px;"
+src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/HillsdaleDudes.jpg" /></a><br />                              
+              <br />                                             <span style="font-family: Georgia,Times New Roman,Times,serif; line-height: 1.45em;
+color:#10345a; font-size: 23px;">What of fun is to be had?</span>  <br />                                             <br />                          
+                  Students at Hillsdale College commit themselves seriously to their coursework, but balance their experiences on campus with all
+manner of fun. Regular opportunities include Division II Charger athletic events; club and intramural athletics; student and professional fine arts
+performances; all-campus events of the Student Activities and Campus Recreation Boards like the Garden Party, President's Ball, Color Run, or
+Dodgeball Tournament; spiritual life activities and volunteerism; Greek life; or meetings and happenings of an always-growing list of interest-based
+clubs and honor societies.</td>                                             <td valign="top" bgcolor="#ffffff"><table cellspacing="0" cellpadding="0">
+                                                <tbody>                                                     <tr>                                      
+                  <td align="left" valign="top" height="430" style="font-family: Trebuchet MS,Arial,Helvetica,sans-serif; color: #999999; font-size:
+13px;"><span style="padding-bottom: 5px; font-family: Trebuchet MS,Arial,Helvetica,sans-serif; color:#10345a; font-size:
+18px;">Click-Throughs</span><br />                                                         <br />                                                     
+   Read more about <a href="http://paracom.paramountcommunication.com/ct/28771808:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Student Life at Hillsdale
+College</a>. <br />                                                         <br />                                                         Watch
+videos from campus life on our <a href="http://paracom.paramountcommunication.com/ct/28771809:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Student Life YouTube
+Playlist</a>.<br />                                                         <br />                                                         Explore <a
+href="http://paracom.paramountcommunication.com/ct/28771810:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Charger Athletics</a>.<br />                            
+                            <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771811:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Go Behind the Scenes</a> with the Tower Players.<br />  
+                                                      <br />                                                         Catch up with Hillsdale Students
+on the <a href="http://paracom.paramountcommunication.com/ct/28771812:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Student Stories Blog</a>.<br />               
+                                         <br />                                                         <br />                                        
+                <br />                                                         <a
+href="http://paracom.paramountcommunication.com/ct/28771813:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r">Request More Information</a></td>                       
+                             </tr>                                                     <tr>                                                        
+<td valign="bottom" style="font-family: Trebuchet MS,Arial,Helvetica,sans-serif; font-size: 28px; color: #00457c;"></td>                              
+                      </tr>                                                 </tbody>                                             </table></td>        
+                                </tr>                                         <tr bgcolor="#10345a">                                             <td
+align="center" bgcolor="#c8c8ca" colspan="2"><table align="center" cellspacing="0" cellpadding="4">                                                
+<tbody>                                                     <tr>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771814:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialfb3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771815:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialtw3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771816:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialyt3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771817:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialig3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771818:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialgp3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771819:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialli3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771820:27934415773:m:1:603841109:49A6366DDA552912DA128350B51BB3A2:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialpt3.jpg" /></a></td>                                                     </tr>             
+                                   </tbody>                                             </table></td>                                         </tr>   
+                                 </tbody>                                 </table></td>                             </tr>                        
+</tbody>                     </table></td>                 </tr>                 <tr>                     <td align="center" valign="middle"
+height="70" style="font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px;"><div>Hillsdale College Admissions, 33 East College
+Street, Hillsdale, MI 49242</div>                     <div><a style="color: #ffffff; text-decoration: none;"
+href="mailto:admissions@hillsdale.edu">admissions@hillsdale.edu</a> &bull; Phone (517) 607-2327 &bull; Fax (517) 607-2223</div>                    
+<br />                     <rb> 					<span style="font-family: verdana,'Trebuchet MS',Arial,Helvetica,sans-serif; font-size: 10px;"><a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oWySfhjmN4">Unsubscribe</a> &bull; <a style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oWySfhjmN4">Update E-mail</a> &bull; <a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/forwardthis/ft.php?mID=4772989&em=markiewicz.john%40gmail.com&ch=a6cedfc0aaf617ae7061b2294b59fe32">Forward to a Friend</a> 					 					</span></rb></td>                 </tr>             </tbody>        
+</table>         <br />     </body></html>
+
+<html dir="ltr"><head><title></title></head><body><br />
+<img src="http://paracom.paramountcommunication.com/imagelibrary/N-27934415773-7B9FBEC4DD2CDF42C7244C5B8BEC89F4.jpg" border="0" width="1" height="1" style="display: none;">
+
+
+</body>
+
+
+----55a79d116607f-MultiPart-Mime-Boundary--

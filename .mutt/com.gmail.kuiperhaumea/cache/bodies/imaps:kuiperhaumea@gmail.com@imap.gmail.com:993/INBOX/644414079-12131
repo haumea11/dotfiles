@@ -1,0 +1,48 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.0.9 with SMTP id 9csp2169373oia;
+        Mon, 29 Jun 2015 19:17:58 -0700 (PDT)
+X-Received: by 10.107.130.101 with SMTP id e98mr26271174iod.38.1435630678046;
+        Mon, 29 Jun 2015 19:17:58 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-ig0-x236.google.com (mail-ig0-x236.google.com. [2607:f8b0:4001:c05::236])
+        by mx.google.com with ESMTPS id gc7si38532644icb.40.2015.06.29.19.17.57
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 19:17:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4001:c05::236 as permitted sender) client-ip=2607:f8b0:4001:c05::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4001:c05::236 as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ig0-x236.google.com with SMTP id sj18so95076361igc.1
+        for <kuiperhaumea@gmail.com>; Mon, 29 Jun 2015 19:17:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=noZ35OiEcDK/siQJyqNvsghLRmYYVIiC8mZyUti2194=;
+        b=SPOV1MEgpPaF1GbGqvgJoHEcvfsFRkpqT5Us0cLZwKr1ft+EnUgb2t/+VJ1q7jjpYI
+         ABxUKe9mA5YKJivp4CUS7UEloUU+2bBy2q30y4vxbdA+39Fyif1odNrH0OyG1i9fXvsb
+         DuJwFg7k070GMknXGIUhDKQUbFRsA/U8tyH4ql/Ni52E9Ua+4JgkDT4YR2X4kMjVPJLz
+         zJsXWmtILJXKEk+OVFhVbmr3H+GdISGXFgQ9yIupNAxca5ULImBIyZJAZhqk9NDlPpaR
+         TlqxmW2zRzlbNLPOMYTmO+1VVt9I8xE7Cnv9UG8UxTcQS7Naw4CPM9sB/wQkvZ8nGuZl
+         v4eA==
+X-Received: by 10.107.15.153 with SMTP id 25mr26554013iop.44.1435630677632;
+        Mon, 29 Jun 2015 19:17:57 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from ?IPv6:2605:a000:1119:4043:8db4:92b7:86cc:4a10? ([2605:a000:1119:4043:8db4:92b7:86cc:4a10])
+        by mx.google.com with ESMTPSA id n30sm2269938ioi.38.2015.06.29.19.17.56
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 29 Jun 2015 19:17:57 -0700 (PDT)
+Message-ID: <5591FC53.4040503@gmail.com>
+Date: Mon, 29 Jun 2015 22:17:55 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Subject: pi?
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+http://bendyworks.com/getting-plan-9-running-on-the-raspberry-pi/

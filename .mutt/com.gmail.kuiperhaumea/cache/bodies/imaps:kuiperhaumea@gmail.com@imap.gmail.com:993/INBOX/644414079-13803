@@ -1,0 +1,178 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp1564732oig;
+        Mon, 28 Sep 2015 10:30:20 -0700 (PDT)
+X-Received: by 10.194.175.232 with SMTP id cd8mr25866533wjc.45.1443461420296;
+        Mon, 28 Sep 2015 10:30:20 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-f175.google.com (mail-wi0-f175.google.com. [209.85.212.175])
+        by mx.google.com with ESMTPS id y3si23307597wie.41.2015.09.28.10.30.20
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 28 Sep 2015 10:30:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) client-ip=209.85.212.175;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 209.85.212.175 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=sfly.com
+Received: by mail-wi0-f175.google.com with SMTP id lk2so111432419wic.1
+        for <kuiperhaumea@gmail.com>; Mon, 28 Sep 2015 10:30:20 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:from:sender:to
+         :reply-to:subject:date:precedence:list-unsubscribe:mime-version
+         :content-type:content-transfer-encoding:message-id;
+        bh=MoBcLmQoAMACBiTNCMar6m3d5CRZoQKGGS1DHn2oqkw=;
+        b=H8UNj751Bg8nPD4UPet0s8HLOKoMUuVQ+K84T40SqXTEYS0cFowdLVCaLbtL/5TUbb
+         pho5K0BbBh9beXHctedFfpBMjsu10U0c5AmIuhjzsvqwdRRrjawAqpN6Kg/xEmyBX6y9
+         gjcZ4skvVIBNJLwBJ72/gmjDyE8yb/q99xmoU9XoFt4OSowMB1TJDQylhN7yr4rAVatm
+         7a/RbKPo2SAIm7NEo56W9A/XSekgqfWlfPC8TC2xurfTksmLye57jnJEWwu9E2V239Bw
+         6SvRS3fblSYidR/bfQvYax5Wd+uP/rba/uRq3IRuVFiQVYDsb6F6fROLreu73+4TtmhI
+         tT7w==
+X-Original-Authentication-Results: mx.google.com;       spf=pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) smtp.mailfrom=noreply@sfly.com;       dmarc=pass (p=NONE dis=NONE) header.from=sfly.com
+X-Received: by 10.180.105.234 with SMTP id gp10mr18666265wib.51.1443461420037;
+        Mon, 28 Sep 2015 10:30:20 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp1443031wmw;
+        Mon, 28 Sep 2015 10:30:19 -0700 (PDT)
+X-Received: by 10.182.105.231 with SMTP id gp7mr11457501obb.81.1443461419009;
+        Mon, 28 Sep 2015 10:30:19 -0700 (PDT)
+Return-Path: <noreply@sfly.com>
+Received: from shutterfly.com (mail11.shutterfly.com. [136.179.236.38])
+        by mx.google.com with ESMTP id r185si8820211oib.19.2015.09.28.10.30.18
+        for <markiewicz.john@gmail.com>;
+        Mon, 28 Sep 2015 10:30:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) client-ip=136.179.236.38;
+Received: from mail.sfly.com (unknown [172.18.128.194])
+	by shutterfly.com (Postfix) with ESMTP id 128682C063E
+	for <markiewicz.john@gmail.com>; Mon, 28 Sep 2015 10:30:18 -0700 (PDT)
+Received: from mail pickup service by mail.sfly.com with Microsoft SMTPSVC;
+	 Mon, 28 Sep 2015 10:29:07 -0700
+From: "Liz Koehler" <noreply@sfly.com>
+Sender: <bishopwattersonfalldrama@sfly.com>
+To: "Bishop Watterson Fall Drama" <bishopwattersonfalldrama.forum.3.4@sfly.com>
+Reply-To: "Bishop Watterson Fall Drama" <bishopwattersonfalldrama.forum.3.4@sfly.com>
+Subject: [Bishop Watterson Fall Drama] COSTUMES
+Date: Mon, 28 Sep 2015 10:29:05 -0700
+X-Sfly-AttachmentSize: 0
+X-Mailer: Sfly
+X-Sfly-IsPartial: False
+Precedence: bulk
+List-Unsubscribe: <mailto:bishopwattersonfalldrama-unsubscribe@sfly.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <SHA19JcYPqd2rg2Q40M000d88a2@mail.sfly.com>
+X-OriginalArrivalTime: 28 Sep 2015 17:29:07.0739 (UTC) FILETIME=[2E08B6B0:01D0FA13]
+
+<html>
+<head>
+</head>
+<body>
+<div class=3D"email-body" style=3D"font: 13px verdana,arial,geneva,sans=
+-serif; color: #666666; line-height: 140%;"><div title=3D"ShareSites-Fo=
+rum-Message">&nbsp;</div>        
+<div>Hello cast and crew=21</div><div><br /></div><div>This is my third=
+ year as costumer for the fall drama here at Bishop Watterson, and I&#3=
+9;m really excited to work with Miss DeMarco and all of you=21 Your cos=
+tume crew is awesome this year and they are ready for the challenge of=20=
+costuming a large cast with more than fifty costumes=21=21=21 If you ha=
+ven&#39;t met them yet, be sure to introduce yourself to Eliot Stevens,=
+ Alex Walker, Clara Kay, and Anna Obergefell.&nbsp;</div><div><br /></d=
+iv><div>I will be at rehearsal with the costume crew every TUESDAY. In=20=
+order to ensure that each of you gets the time and attention you deserv=
+e, we&#39;ve created a schedule that will allow us to work with each ca=
+st member at least two times before Costume Parade on November 17. Plea=
+se check the calendar to figure out when you are scheduled to work with=
+ the costume crew. On your scheduled day, you can expect our undivided=20=
+attention. In order to ensure that EVERYONE gets the time and attention=
+ they need to look fantastic, please wait until your scheduled day to d=
+iscuss ideas, questions, etc. with me and the costume crew.&nbsp;</div>=
+<div><br /></div><div>If it CAN&#39;T WAIT - please send me an email at=
+ lizkoehler217@yahoo.com. If you are thrifting and need approval BEFORE=
+ you buy something you can&#39;t return - send me a photo to 614-517-22=
+68. Be sure to identify yourself, your character, and any other info I=20=
+might need=21<div><br /></div><div><div>Here&#39;s what to expect -&nbs=
+p;</div><div>FIRST MEETING:</div><div>We&#39;ll work with you to define=
+ your costume concept. If you have ideas, please bring some pictures al=
+ong so we can get a clear idea of how your ideas will work within Miss=20=
+DeMarco&#39;s vision for the entire production. At this time, we&#39;ll=
+ look through the costume pieces we already have in the Green Room, and=
+ then make a list of what is still needed. You should leave your first=20=
+costume meeting with a clear understanding of what YOU are expected to=20=
+provide for your own costume and what we&#39;ll look for together.</div=
+><div><br /></div><div>SECOND MEETING:</div><div>At the second meeting,=
+ we&#39;ll be able to see your costume really coming together. You shou=
+ld have all of the pieces you were asked to provide WITH YOU. If you we=
+re able to find any of the pieces we were looking for together, bring t=
+hose, too. Hopefully, you will be able to try on most of your costume a=
+t this meeting, and we&#39;ll be able to brainstorm finishing touches,=20=
+determine if alterations are needed, etc. You should leave this second=20=
+meeting with a clear idea of WHAT ELSE your costume needs and where it&=
+#39;s coming from.</div><div><br /></div><div>COSTUME PARADE - NOVEMBER=
+ 17:</div><div>Bring ALL of your costume pieces (this includes shoes an=
+d socks) with you and also bring a laundry basket marked with your name=
+ so you have a place to put your street clothes and other loose items.=20=
+For today, most costumes should be complete. When you arrive for rehear=
+sal, please change into your costume. Most characters will NOT need hai=
+r and makeup today. If you do, we will let you know in advance. Charact=
+ers with costume changes, please put on the one that you will wear firs=
+t in the show. We&#39;ll call the cast up scene by scene so we can see=20=
+how everyone looks under the lights and all together. At this point - T=
+HINGS MAY CHANGE. We&#39;ll determine if any substitutions/tweaks/do-ov=
+ers are needed and formulate a plan to move forward. Please be positive=
+ and flexible and remember that we want you to look your best=21</div><=
+div><br /></div><div>HAIR and MAKEUP WORKSHOPS</div><div>All cast will=20=
+wear stage makeup. Hair and makeup workshops are tentatively scheduled=20=
+for 11/19 and 11/23.</div><div><br /></div><div>If you have any questio=
+ns or concerns, please shoot me an email (lizkoehler217@yahoo.com) and=20=
+I&#39;ll be happy to help you out. See you on Tuesdays=21</div><div><br=
+ /></div><div>Liz Koehler</div><div></div></div></div>
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+
+</div>
+<table title=3D"ShareSites-Forum-Message" cellspacing=3D10><tbody><tr t=
+itle=3D"" style=3D"background-color: #e6e6e6">                 
+<td title=3D"" align=3Dmiddle valign=3Dmiddle style=3D'padding:5px 10px=
+;font-family:verdana,arial,geneva,sans-serif;'><a href=3D"mailto:lizkoe=
+hler217@yahoo.com?subject=3D%5bBishop%20Watterson%20Fall%20Drama%5d%20C=
+OSTUMES" style=3D"font-size:11px;text-decoration:none"><span style=3D'w=
+hite-space:nowrap'>Reply</span> to <span style=3D'white-space:nowrap'>s=
+ender</span></a></td>
+<td title=3D"" align=3Dmiddle valign=3Dmiddle style=3D'padding:5px 10px=
+;font-family:verdana,arial,geneva,sans-serif;'><a href=3D"mailto:bishop=
+wattersonfalldrama.forum.3.4@sfly.com?subject=3D%5bBishop%20Watterson%2=
+0Fall%20Drama%5d%20COSTUMES" style=3D"font-size:11px;text-decoration:no=
+ne"><span style=3D'white-space:nowrap'>Reply</span> to all</a></td>
+<td title=3D"" align=3Dmiddle valign=3Dmiddle style=3D'padding:5px 10px=
+;font-family:verdana,arial,geneva,sans-serif;'><a href=3D"mailto:bishop=
+wattersonfalldrama.forum.3@sfly.com" style=3D"font-size:11px;text-decor=
+ation:none">Start a new topic</a></td>
+<td title=3D"" align=3Dmiddle valign=3Dmiddle style=3D'padding:5px 10px=
+;font-family:verdana,arial,geneva,sans-serif;'><a href=3D"http://bishop=
+wattersonfalldrama.shutterfly.com/forum/3/4" style=3D"font-size:11px;te=
+xt-decoration:none">View topic on site</a></td>
+</tr></tbody></table>
+<img border=3D"0" width=3D"125" height=3D"42" src=3D"http://cdn.statics=
+fly.com/shr/images/email/sfly=5Flogo=5F125x42.png"  alt=3D"Shutterfly l=
+ogo" align=3D"bottom" />
+<div style=3D"height: 25px; line-height: 25px;">&nbsp;</div>
+<div style=3D"font-size: 10px; line-height: 120%;">
+This message was sent to markiewicz.john@gmail.com because you are on t=
+he list of <b>Bishop Watterson Fall Drama</b> site members and your ema=
+il settings are set to receive message board emails immediately. If you=
+ do not want to receive emails from the <b>Bishop Watterson Fall Drama<=
+/b> site message board, you can <a href=3D'http://bishopwattersonfalldr=
+ama.shutterfly.com/#updateMySettings'>manage email settings</a> or <a h=
+ref=3D'mailto:bishopwattersonfalldrama-unsubscribemessageboard@sfly.com=
+'>unsubscribe</a>.
+</div><img alt=3D"" src=3D"https://os.shutterfly.com/b/ss/sflyemailprod=
+/1/H.15/111?pageName=3Dsendforumreply&v0=3DSHARE3SMAIL" width=3D"1" hei=
+ght=3D"1" border=3D"0" /></div>
+<style>
+=2Eemail-body p {margin: 5px 0;}
+</style></div>
+    </body>
+</html>
+

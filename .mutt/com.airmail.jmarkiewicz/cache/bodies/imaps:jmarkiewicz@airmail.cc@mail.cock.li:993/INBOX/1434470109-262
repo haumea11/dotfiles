@@ -1,0 +1,678 @@
+Return-Path: <bounce-mc.us11_46807389.450209-jmarkiewicz=airmail.cc@mail16.suw13.rsgsv.net>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail16.suw13.rsgsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=gladman.23=3Dosu.edu@mail16.suw13.rsgsv.net;
+ bh=XyUH0h9zEkw1jhgP/1pksPo5+nw=;
+ b=2bSNIus2FTSVhSwCRSwteWqH0AgyNDnlF/NItHIP215KKvXYkyQwtU8AxaM1eWSY1MPHU3AY6U09
+   S4JAyd6ujgQAEixdD6vu+wkdZ937fJLVul0cTt4/Obe1IfwQXjhK2wf/w/K8REZ/OS+JoChhqwqz
+   5djmNp5DjAK5YLsNd44=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail16.suw13.rsgsv.net;
+ b=0oyqU8gX9vUfTgbOlxw4Bl23c7dkDHmp1QkqOU3GwirhSMfHGkWLpzMYKD31yyltdLKzEvGZwST+
+   Z6LTBaDL9ixm++HBaj1fESN6XFEWp1FDaYhQY5EE5eiYEodQ6GGQKz1RJfKVnY22bIsS90ATzZrS
+   ZJt/OKyfeL8AygysX1Y=;
+Subject: =?utf-8?Q?=5Bopensource=2Dannounce=5D?=
+From: =?utf-8?Q?The=20Open=20Source=20Club?= <gladman.23@osu.edu>
+Reply-To: =?utf-8?Q?The=20Open=20Source=20Club?= <gladman.23@osu.edu>
+To: <jmarkiewicz@airmail.cc>
+Date: Wed, 7 Oct 2015 18:43:17 +0000
+Message-ID: <1fc38b50deed1d08f57fa1cbd8afb142f76.20151007184304@mail16.suw13.rsgsv.net>
+X-Mailer: MailChimp Mailer - **CID5b8d4edf038afb142f76**
+X-Campaign: mailchimp1fc38b50deed1d08f57fa1cbd.5b8d4edf03
+X-campaignid: mailchimp1fc38b50deed1d08f57fa1cbd.5b8d4edf03
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=1fc38b50deed1d08f57fa1cbd&id=5b8d4edf03&e=8afb142f76
+X-MC-User: 1fc38b50deed1d08f57fa1cbd
+X-Feedback-ID: 46807389:46807389.450209:us11:mc
+List-ID: 1fc38b50deed1d08f57fa1cbdmc list <1fc38b50deed1d08f57fa1cbd.243953.list-id.mcsv.net>
+X-Accounttype: ff
+List-Unsubscribe: <mailto:unsubscribe-mc.us11_1fc38b50deed1d08f57fa1cbd.5b8d4edf03-8afb142f76@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://osu.us11.list-manage1.com/unsubscribe?u=1fc38b50deed1d08f57fa1cbd&id=34a04a1806&e=8afb142f76&c=5b8d4edf03>
+Sender: "The Open Source Club" <gladman.23=osu.edu@mail16.suw13.rsgsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1214547806"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1214547806
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+announcement
+
+
+** Pretty Good Privacy: Secure communications with PGP (http://osu.us11.li=
+st-manage.com/track/click?u=3D1fc38b50deed1d08f57fa1cbd&id=3D825c2d829b&e=
+=3D8afb142f76)
+------------------------------------------------------------
+
+This Thursday=2C October 8=2C at 7PM in Caldwell 120=2C William Osler will=
+ be presenting on GPG=2C the GNU implantation of the PGP standard. PGP is=
+ a tool that allows people to communicate with each other securely=2C even=
+ if they=E2=80=99ve never met in person. We=E2=80=99ll talk about the Web=
+ of Trust concept=2C and how you can help expand it via key signing.
+
+After the meeting=2C we=E2=80=99ll have a =E2=80=9Ckey signing party=E2=80=
+=9D. If you=E2=80=99ve never heard of this: don=E2=80=99t worry=2C we=E2=
+=80=99ll talk about it during the presentation. But if you want to partici=
+pate=2C be sure to bring some form of photo ID with you.
+Laptops are encouraged=2C and as always=2C there will be pizza.
+
+Be sure to checkout the latest volunteering opportunities (http://osu.us11=
+=2Elist-manage.com/track/click?u=3D1fc38b50deed1d08f57fa1cbd&id=3D17849bdc68=
+&e=3D8afb142f76)  posted on our site. If anyone is interested please=
+ inform me at tomorrow's meeting or email the officers
+
+info@opensource.osu.edu
+
+Regards=2C
+
+Eli Gladman
+Open Source Club - President
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Want to change how you receive these emails?
+You can ** update your preferences (http://osu.us11.list-manage.com/profil=
+e?u=3D1fc38b50deed1d08f57fa1cbd&id=3D34a04a1806&e=3D8afb142f76)
+or ** unsubscribe from this list (http://osu.us11.list-manage1.com/unsubsc=
+ribe?u=3D1fc38b50deed1d08f57fa1cbd&id=3D34a04a1806&e=3D8afb142f76&c=3D5b8d4e=
+df03)
+ Email Marketing Powered by MailChimp
+http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium_newsletter&=
+utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D1fc38b50deed1d08f57=
+fa1cbd&afl=3D1
+--_----------=_MCPart_1214547806
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+=09<head>
+=09=09<!-- NAME: SIMPLE TEXT -->
+=09=09<!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+=09=09<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1">
+=09=09<title>[opensource-announce]</title>
+
+    <style type=3D"text/css">
+=09=09p{
+=09=09=09margin:10px 0;
+=09=09=09padding:0;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09display:block;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09height:auto;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100%;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100%;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09table{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cblockquote{
+=09=09=09mso-line-height-rule:exactly;
+=09=09}
+=09=09a[href^=3Dtel]=2Ca[href^=3Dsms]{
+=09=09=09color:inherit;
+=09=09=09cursor:default;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09p=2Ca=2Cli=2Ctd=2Cbody=2Ctable=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass td=2C.ExternalCla=
+ss div=2C.ExternalClass span=2C.ExternalClass font{
+=09=09=09line-height:100%;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:10px;
+=09=09}
+=09=09.templateContainer{
+=09=09=09max-width:600px !important;
+=09=09}
+=09=09a.mcnButton{
+=09=09=09display:block;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent{
+=09=09=09word-break:break-word;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09.mcnDividerBlock{
+=09=09=09table-layout:fixed !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#FFFFFF;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09.templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:32px;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:22px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:30px;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:20px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:26px;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:24px;
+=09=09=09letter-spacing:normal;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09#templateHeader .mcnTextContent=2C#templateHeader .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:24px;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateHeader .mcnTextContent a=2C#templateHeader .mcnTextContent=
+ p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09#templateBody .mcnTextContent=2C#templateBody .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09line-height:24px;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateBody .mcnTextContent a=2C#templateBody .mcnTextContent p a{
+=09=09=09color:#2BAADF;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09#templateFooter .mcnTextContent=2C#templateFooter .mcnTextContent p{
+=09=09=09color:#202020;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:12px;
+=09=09=09line-height:18px;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templateFooter .mcnTextContent a=2C#templateFooter .mcnTextContent=
+ p a{
+=09=09=09color:#202020;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (min-width:768px){
+=09=09.templateContainer{
+=09=09=09width:600px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09#bodyCell{
+=09=09=09padding-top:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImage{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnShareContent=2C.mcnCaptionTopContent=2C.mcnCaptionBottomContent=
+=2C.mcnTextContentContainer=2C.mcnBoxedTextContentContainer=2C.mcnImageGro=
+upContentContainer=2C.mcnCaptionLeftTextContentContainer=2C.mcnCaptionRigh=
+tTextContentContainer=2C.mcnCaptionLeftImageContentContainer=2C.mcnCaption=
+RightImageContentContainer=2C.mcnImageCardLeftTextContentContainer=2C.mcnI=
+mageCardRightTextContentContainer{
+=09=09=09max-width:100% !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnBoxedTextContentContainer{
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupContent{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnCaptionLeftContentOuter .mcnTextContent=2C.mcnCaptionRightConten=
+tOuter .mcnTextContent{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardTopImageContent=2C.mcnCaptionBlockInner .mcnCaptionTopC=
+ontent:last-child .mcnTextContent{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardBottomImageContent{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockInner{
+=09=09=09padding-top:0 !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageGroupBlockOuter{
+=09=09=09padding-top:9px !important;
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnTextContent=2C.mcnBoxedTextContentColumn{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcnImageCardLeftImageContent=2C.mcnImageCardRightImageContent{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09.mcpreview-image-uploader{
+=09=09=09display:none !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:22px !important;
+=09=09=09line-height:28px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:26px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:24px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:22px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table.mcnBoxedTextContentContainer td.mcnTextContent=2Ctd.mcnBoxedTe=
+xtContentContainer td.mcnTextContent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:22px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td#templateHeader td.mcnTextContent=2Ctd#templateHeader td.mcnTextCo=
+ntent p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:24px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td#templateBody td.mcnTextContent=2Ctd#templateBody td.mcnTextConten=
+t p{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:24px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td#templateFooter td.mcnTextContent=2Ctd#templateFooter td.mcnTextCo=
+ntent p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:22px !important;
+=09=09}
+
+}</style></head>
+    <body style=3D"height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF=
+;">
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;pad=
+ding: 0;width: 100%;background-color: #FFFFFF;">
+                <tr>
+                    <td align=3D"left" valign=3D"top" id=3D"bodyCell" styl=
+e=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text=
+-size-adjust: 100%;height: 100%;margin: 0;padding: 10px;width: 100%;border=
+-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0" width=3D"600" style=3D"width:600px;">
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top" width=3D"600" style=
+=3D"width:600px;">
+=09=09=09=09=09=09<![endif]-->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"templateContainer" style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;border: 0;max-width: 600px !importa=
+nt;">
+                            <tr>
+                                <td valign=3D"top" id=3D"templateHeader" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Hel=
+vetica;font-size: 16px;line-height: 24px;text-align: left;">
+
+                            <span style=3D"color:#5D5D5D"><span style=3D"f=
+ont-size:20px">announcement</span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Hel=
+vetica;font-size: 16px;line-height: 24px;text-align: left;">
+
+                            <h1 style=3D"display: block;margin: 0;padding:=
+ 0;color: #202020;font-family: Helvetica;font-size: 26px;font-style: norma=
+l;font-weight: bold;line-height: 32px;letter-spacing: normal;text-align: l=
+eft;"><a href=3D"http://osu.us11.list-manage.com/track/click?u=3D1fc38b50d=
+eed1d08f57fa1cbd&id=3Df369d21802&e=3D8afb142f76" style=3D"font-weight: 60=
+0;text-decoration: none;background-color: transparent;mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #2BAADF;">Pretty Good Privacy: Secure communications with PGP</a></h1>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateBody" sty=
+le=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" s=
+tyle=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace:=
+ 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Hel=
+vetica;font-size: 16px;line-height: 24px;text-align: left;">
+
+                            <p style=3D"margin: 10px 0;padding: 0;mso-line=
+-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #202020;font-family: Helvetica;font-size: 16px;line-height: 2=
+4px;text-align: left;"><span style=3D"color:#5D5D5D">This<strong> Thursday=
+=2C October 8=2C at 7PM in Caldwell 120</strong>=2C William Osler will be=
+ presenting on GPG=2C the GNU implantation of the PGP standard. PGP is a t=
+ool that allows people to communicate with each other securely=2C even if=
+ they=E2=80=99ve never met in person. We=E2=80=99ll talk about the Web of=
+ Trust concept=2C and how you can help expand it via key signing.</span></=
+p>
+
+<p style=3D"margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-fa=
+mily: Helvetica;font-size: 16px;line-height: 24px;text-align: left;"><span=
+ style=3D"color:#5D5D5D">After the meeting=2C we=E2=80=99ll have a =E2=80=
+=9Ckey signing party=E2=80=9D. If you=E2=80=99ve never heard of this: don=
+=E2=80=99t worry=2C we=E2=80=99ll talk about it during the presentation. B=
+ut if you want to participate=2C be sure to&nbsp;bring some form of photo=
+ ID with you.</span></p>
+<font color=3D"#5d5d5d">Laptops are encouraged=2C and as always=2C there w=
+ill be pizza.</font><br>
+<br>
+<font color=3D"#5d5d5d">Be sure to checkout the latest&nbsp;<a href=3D"htt=
+p://osu.us11.list-manage2.com/track/click?u=3D1fc38b50deed1d08f57fa1cbd&id=
+=3D739043baa1&e=3D8afb142f76" target=3D"_blank" style=3D"mso-line-height-=
+rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;co=
+lor: #2BAADF;font-weight: normal;text-decoration: underline;">volunteering=
+ opportunities</a></font><font color=3D"#5d5d5d">&nbsp;posted on our site.=
+ If anyone is interested please inform me at&nbsp;tomorrow's meeting or&nb=
+sp;email the officers<br>
+<br>
+info@opensource.osu.edu</font><br>
+<br>
+Regards=2C<br>
+<br>
+<font color=3D"#5d5d5d">Eli Gladman</font><br>
+<font color=3D"#5d5d5d">Open Source Club - President</font>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                            <tr>
+                                <td valign=3D"top" id=3D"templateFooter" s=
+tyle=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;border-top: 0;border-bottom: 0;"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-li=
+ne-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 18px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;word-break: break-word;color: #202020;font-family: Hel=
+vetica;font-size: 12px;line-height: 18px;text-align: left;">
+
+                            <br>
+Want to change how you receive these emails?<br>
+You can <a href=3D"http://osu.us11.list-manage.com/profile?u=3D1fc38b50dee=
+d1d08f57fa1cbd&id=3D34a04a1806&e=3D8afb142f76" style=3D"mso-line-height-rule=
+: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #202020;font-weight: normal;text-decoration: underline;">update your pref=
+erences</a> or <a href=3D"http://osu.us11.list-manage1.com/unsubscribe?u=
+=3D1fc38b50deed1d08f57fa1cbd&id=3D34a04a1806&e=3D8afb142f76&c=3D5b8d4edf03"=
+ style=3D"mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;color: #202020;font-weight: normal;text-decoration=
+: underline;">unsubscribe from this list</a><br>
+<br>
+ <a href=3D"http://www.mailchimp.com/monkey-rewards/?utm_source=3Dfreemium=
+_newsletter&utm_medium=3Demail&utm_campaign=3Dmonkey_rewards&aid=3D1fc38b5=
+0deed1d08f57fa1cbd&afl=3D1"><img src=3D"http://cdn-images.mailchimp.com/mo=
+nkey_rewards/MC_MonkeyReward_15.png" border=3D"0" alt=3D"Email Marketing P=
+owered by MailChimp" title=3D"MailChimp Email Marketing" width=3D"139" hei=
+ght=3D"54"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                            </tr>
+                        </table>
+=09=09=09=09=09=09<!--[if gte mso 9]>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<![endif]-->
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </body>
+</html>
+--_----------=_MCPart_1214547806--

@@ -1,0 +1,247 @@
+Return-Path: <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: osu-ctf@lists.osu.edu
+Delivered-To: osu-ctf@lists.osu.edu
+Authentication-Results: spf=pass (sender IP is 209.85.213.48)
+	smtp.mailfrom=gmail.com; lists.osu.edu;
+	dkim=pass (signature was verified)
+	header.d=gmail.com;lists.osu.edu; dmarc=pass action=none
+	header.from=gmail.com;
+Received-SPF: Pass (protection.outlook.com: domain of gmail.com designates
+	209.85.213.48 as permitted sender) receiver=protection.outlook.com;
+	client-ip=209.85.213.48; helo=mail-vk0-f48.google.com;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=w9eW4LtftyrAmDxQM/YD/tFtxpOJuvxJoZ4c0C9zDIE=;
+	b=GB7utZysJ2JDwnVHTgm7D1ajSJwjrueK9+wUvBJKh5BTakrotSq3o85kXflWYbCUBI
+	S8sz4BIGL7uivvO3fJjQCsZKXU2pMfQVmAH6w6RApB0DNnofEFVxPUZNswKZGJO6ITe0
+	2lJ/VAZ3OFFfARXMsqScHesYifR/EEJp9L/GYGFr1mScrgnsQ5iEqyB7ZFnBfxlDx9LY
+	HDh2+U6TzB8AlkVkR2x1CGl39nFCqkLAkAg4VgTex6M7EjAw0gDsAJriCrYd5VLJhSx7
+	nhe5POtavNn7xLuHI6HoJ0gd0rEAXrNjU9VOvuLTnz/t/dq68GI103X5TSpBqsGjwe/T
+	o10A==
+MIME-Version: 1.0
+X-Received: by 10.31.147.129 with SMTP id v123mr22356304vkd.23.1444755987590; 
+	Tue, 13 Oct 2015 10:06:27 -0700 (PDT)
+In-Reply-To: <CAD3vtmMpVr3Jf2zm4K6Vx2GPQEKQf7uFEE8C1eUZ3UasbFPCJQ@mail.gmail.com>
+References: <BB9FF013-23A1-40A2-B560-6C0962B13910@osu.edu>
+	<CAD3vtmMpVr3Jf2zm4K6Vx2GPQEKQf7uFEE8C1eUZ3UasbFPCJQ@mail.gmail.com>
+Date: Tue, 13 Oct 2015 13:06:27 -0400
+Message-ID: <CACpO4AvMiq5=SfDaS67FcB258POyy5kePBJSnakMRq_7Ohn5BQ@mail.gmail.com>
+From: Jefferson Casavant <jeff.casavant@gmail.com>
+To: Jason Goodman <jasongoodmanosu@gmail.com>
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11FD047;
+	1:7eNSn8kC2pc6kDNi1o9qz+8CFODIwNR7CTsudf0dMG9sVOy7ecYgEOZJbpi5hoKZ/tqblMBGR/SOJS8gRqO+VKANh7YABn5LEGzdvUVfrnUSIBecOhw9Kc+h7ZXhf4GOKNAlU22BKaxkbdi4rf7nqo7xWMRO+tM/z3M4V8SWIKwrXlQzXBu6ooi/6lZlRDohgnct//8yBVXnSRbahxilXqcSLJj/NC6qqjU9hyvbDHGS+z5wRHfVqrPsdyaC50nkIoZPqsSzpO4bis0r15vcl8gi95hE6gIwlBFug5vjNBvC5EjD1r/gKsZidMaN9/3voQHPe6U+x44jzY8PQwjGl81qQ25KVaMg3lJ+jKtN7YZa6mhllJvjHXiVlObCh9BKjw3U2qD8X18jywOsn5pMVld3z+FrfVYiqjpofeGtQCvu7h+kGk48Kkhn9+0/NFco
+X-Forefront-Antispam-Report: CIP:209.85.213.48; CTRY:US; IPV:NLI; EFV:NLI;
+	SFV:NSPM;
+	SFS:(2980300002)(438002)(199003)(24454002)(377454003)(189002)(55446002)(84326002)(54356999)(5001970100001)(86362001)(73392002)(76176999)(46102003)(19617315012)(64706001)(61266001)(15975445007)(63696999)(76482005)(1411001)(5008740100001)(4001450100002)(50986999)(83322999)(189998001)(87572001)(566174002)(42186005)(450100001)(11100500001)(956001)(98316002)(73972006)(59536001)(6806005)(110136002)(81442002)(22756006)(82202001)(19580405001)(19580395003)(2950100001)(106466001)(92566002)(54886006);
+	DIR:INB; SFP:; SCL:1; SRVR:BY2FFO11HUB045;
+	H:mail-vk0-f48.google.com; FPR:; SPF:Pass;
+	PTR:mail-vk0-f48.google.com; A:1; MX:1; LANG:en; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB045;
+	2:8nhFadIapPybX3MgKbPVq3XMxSX+5h6Dy1ORoYRWrRBAXntqOikq977wzqLJTUn9h7M1PgesRU6LzDKNFff+vrxg93S9ljhPMNj8VUGgbCXtbtmv/GsiwOyaWywqyLzCM5o4ziDdWqtub/xa2/1LFjMwQgohRN4YAdwfPQzloKk=;
+	3:yE1n5ORSvYfjuY1RcPwvq11h7683L0egXU5+rv9VrbvIJQAg0NKTvbSC5XNmTS/RIU/UJEGv8l8nWY5c0/xIp2SYKNm39vJpVG+NtRDfpHqSDuu9S4BcW2Gvst85mvpmsWF43TuyCm+Q9RqUe9obNMTmFWc8/c2kIH0qXIUe72x3EySA1yrzBRm8qJQYCUi6FuQ4iL/yMTsAcvJd2XRdRhFNH04VpQGE4gmVGsd3GLSAu5AcyKJWUEkXlZhoRgf3Qx7zZTy4H7TMTcW1pyFy49utV2dldleaqjV8eHgqxVD/xGGVkxyX8IAiutAB7443ErMwRRtVk9/BeVEfD6GGRQ==;
+	25:8e8QdbJgWxVnjRyd8Mf1WJr7nEYk7nZATeG0y1peh3TO1vih++0owO/fCZRJnY+ptYTEiG0lhyKsWRnKc/0B7NoTYdv+SWWCUnPCI9T/nnpDD+qhe+C/ff8H1JzcP6l6znWAb1Lf4hiWVQvTSFYKOmUFu+dZg4uHU6QxAtWhwcyics9lGoG3oM8gFbcWSFrzNB2BdLs0QOfVTK/ahfRZ+3O6J9vbIig5LPpRkf8dbKjGJUhcSR9aiwmM5IGqnJzb
+X-DkimResult-Test: Passed
+X-Microsoft-Antispam: UriScan:; BCL:0; PCL:0;
+	RULEID:(8251501001)(3001015)(3010001)(71701003)(71702001);
+	SRVR:BY2FFO11HUB045; 
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB045;
+	20:6JIz3Mx0jHHYlrOo8Pr9wxow+QLRvhh2ejbO1RifhBK2ecFIkvz6vlvlQINzjNaJ5IfQiW6uyF/hHL/nwSAfsOk8zqwohE/Yz2WjYO7chbF+2iLQEH2dNt1usucAep8wHuuKO8xtv8l3adS82rLc1XThizbGkm9x6vG6zwUNzHuNOhxVFqnpGWDiZ5gvgL2VmsSow1apnHNvGHqQVp4v4wSoM7br3Ecrdol/atNk1NFqHkRGwZpoQfg7EHfZYbX1Ukcv+JVw8tRtmSVIndEa69C9m/WuKz1nsF7h+mEFIGowWBi7aImvI6k4TEUJHj147T/XVxPXZMpUKKkOu7HAAdkJs8t6h6K+Yb+MrA6MPqc0rd6aVclo1uGV1I3fr6CAyuK8e7lmZ5pfT/z7xdCeh5BapORrKhZUcxWjDawd6h4JPc5vzCvTammHJJKDcLTfK89ByJgTQzKVLgMBfLVMEgegbqWAjFKTizpZrCirMiLWcM+BI9oSfArn+ElZ4z5d;
+	4:1pHImCf/6If0AWEwsWPXI+SQbflVPLU/60UQsaSYkA+kyUb0guBUPRZSO6wLjfCesm+rLL5XBfehszgQ9etxD4WTB7FXem4e7qalzj2p037f/8kwBZA6tzYjjytsZ+3DxcrjZA3BOogukkeUXM8zIwAYW+biJgXzTTx6VZ0DaR6AHwTQE5H1+m34tcf1bKXycaLGSkvYXVVYzTq0LtiWq6jlgc+4FOLwH0D3FIx9eLYJwH0o1ve72W6HTjLpxJ+wgvrIgiCktNNOCrtFtb4P7QeynMlWjSiWiymr/VxuzXX/pm/MLw5mbAFegyra4WDJwNKD9jTXBydbhZiAaDKBiUQVvn0UgA65sLhg7ggcMQM=
+X-Exchange-Antispam-Report-Test: UriScan:(92004823454550);
+X-Exchange-Antispam-Report-CFA-Test: BCL:0; PCL:0;
+	RULEID:(601004)(2401047)(520078)(8121501046)(3002001)(10115024);
+	SRVR:BY2FFO11HUB045; BCL:0; PCL:0; RULEID:; SRVR:BY2FFO11HUB045;
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1; BY2FFO11HUB045;
+	23:2lerWzUnq29B+/5EMDavXgqtvLnnsy+mRGMeiSGZ?=
+	=?us-ascii?Q?EPZ7yWNTgyjMrycHGgZSdFl0PnlyaucHzJ7EogrqQ08qiyjqeI/b8udlSibN?=
+	=?us-ascii?Q?B+nfpY+MnlEIemnDPhIk1eZoTmiIhUhnRddqLpBArYXDf7QkgKb4YUvMt8zW?=
+	=?us-ascii?Q?4hnSY+LNVeKQCpKE2LkUR1Enmg61pxD3h6etTxSkI9asvExoNktBhVV/swXn?=
+	=?us-ascii?Q?o4F11ZJWu0gBVWXQYVhQazv9ugSocoeHdBVQ1jOncBn3quAyIbreoC8GEwBY?=
+	=?us-ascii?Q?Lh9znWzzlmh821l5rQGeKUkEfcrcjIyQrtQjWNgY9SxMVIoW4k3/AYIOPxIO?=
+	=?us-ascii?Q?Xfk/5IksUZT8/punlpPgKPspioi4fWiXRUdRsrh6LHo8JYepc7HLPeoykz4c?=
+	=?us-ascii?Q?RFF+L4H6d3nt+tEupIApds8n/2tJciv1ttdMXgU398RObMaNnZBXiF+c89BR?=
+	=?us-ascii?Q?EKuLSyuA4up7mpf7vXOmp/hhx3NReLQZd82IrANC85edL6YiVl0S8kqXQQBc?=
+	=?us-ascii?Q?Cmm5/CqTu3lowpy/1p+tCJbun6KDe5kbzWIA1OoY4JRHIXI5lAxg9L4UGjCq?=
+	=?us-ascii?Q?5UpiGQflDQ6F6jYjK/aDAXha6xb2usAGvN8f2i406jVTRAr6DIftcctA685Z?=
+	=?us-ascii?Q?AB3r8hpaQg2T8oWD/TISI300Fn2Ly6s6IyMNOaFYgkn1kfWHEJpAVAiKjjiK?=
+	=?us-ascii?Q?WUOmUKbd6wRub1O7ZV3PoIfMUyQjfsZprN/Jhds4CzCJx9J8n6Pnwxzx84fx?=
+	=?us-ascii?Q?/b8WbR9tp3WlhVLdZSwTOi+C3nOBx00I2BKqQhg+zJM0mX3gwItqt/AsNiFL?=
+	=?us-ascii?Q?8JaGmWWDC/4X2POLwyTQqq3doFZAtXqNXr9SvHNPMQkdeepZcW0UF8hJE4mq?=
+	=?us-ascii?Q?irHUO/2dZ6gE5TR+IrBg4BNgoce+SQ2P0bmlODG7dAmiLSxe5QspIX47lOLR?=
+	=?us-ascii?Q?IeEKUoox+TPHIClOXHBoiA8aivYUaX7SmLHssLorwgLwQLMM3ZSRjdYGoGn3?=
+	=?us-ascii?Q?jHHYTV1bWC5+LIRfqMikGyd3P3zSpEX/lFXOgYM4Da/N/SCvkcJo+WQeVQ5F?=
+	=?us-ascii?Q?rEHeUCmMr58/jmJ8gDf2TfnbqamAmrur4R3YkahSMpaxzgg+pH9RTEJfD32H?=
+	=?us-ascii?Q?ylxMQll+YMKg3KpyxAUpF1QTXfW5dbYFeyMJXPLgwdwT/CHAQIFCSTjabyxz?=
+	=?us-ascii?Q?RAzF5YGQ2fKkagW4PgubXTDGr2BZgVHkXvYv?=
+X-Microsoft-Exchange-Diagnostics: 1; BY2FFO11HUB045;
+	5:XYrpKXEsb7nANG6d/wNbJIif54o7rgL9cu5K+FTPauwTRcOWi5WMnUGx87bU+d+5+eEV7uEAxCjoUndUHGLjBTAM6+i2GiOmw7JRDb0N4j94xxmzPpVJJC+Y2KzvZ1CGnN/iiHdSMHsHiOtTjCV0Wg==;
+	24:OA/srvfNxOcbiBQEb7eDXD6HJmtaMhjUdFBykbDOaHOLNHr+2zJ2d74O+8S9dUa2oE+pXjLOnddYK+e2o5Y4diIXTxrskCdifTOP7DY0Uwo=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 13 Oct 2015 17:06:28.6510 (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-FromEntityHeader: Internet
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY2FFO11HUB045
+Cc: "osu-ctf@lists.osu.edu" <osu-ctf@lists.osu.edu>
+Subject: Re: [Osu-ctf] CTF meeting tonight...
+X-BeenThere: osu-ctf@lists.osu.edu
+X-Mailman-Version: 2.1.18rc3
+Precedence: list
+List-Id: OSU Security -Capture The Flag- discussions <osu-ctf.lists.osu.edu>
+List-Unsubscribe: <https://lists.osu.edu/mailman/options/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=unsubscribe>
+List-Post: <mailto:osu-ctf@lists.osu.edu>
+List-Help: <mailto:osu-ctf-request@lists.osu.edu?subject=help>
+List-Subscribe: <https://lists.osu.edu/mailman/listinfo/osu-ctf>,
+	<mailto:osu-ctf-request@lists.osu.edu?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1450910224364777238=="
+Errors-To: osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu
+Sender: "Osu-ctf" <osu-ctf-bounces+jmarkiewicz=airmail.cc@lists.osu.edu>
+
+--===============1450910224364777238==
+Content-Type: multipart/alternative; boundary=001a1140feb66d76e90521ff77e1
+
+--001a1140feb66d76e90521ff77e1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+aaaaand Jeff responded without reading the chain :(
+
+On Tue, Oct 13, 2015 at 12:29 PM, Jason Goodman <jasongoodmanosu@gmail.com>
+wrote:
+
+> If you think Dolan's academic paper about MOV being Turing complete is
+> cool, check out a C compiler that implements it. This was implemented and
+> presented on at a couple of conferences by Chris Domas, one of our
+> coworkers here at Battelle. He also discusses other single instructions o=
+r
+> pairs of instructions that are also Turing complete and has posted severa=
+l
+> crackmes that were compiled with only the mov instruction.
+>
+> https://github.com/xoreaxeaxeax/movfuscator
+> https://www.youtube.com/watch?v=3DR7EEoWg6Ekk
+>
+> Jason
+>
+> On Tue, Oct 13, 2015 at 10:36 AM, Romig, Steve <romig.1@osu.edu> wrote:
+>
+>> So far as I know, we=E2=80=99re continuing with the reverse-engineering =
+series
+>> tonight.
+>>
+>> Unfortunately I won=E2=80=99t be able to make it.  I=E2=80=99ve asked th=
+e help desk to
+>> open the room at the request of any of several people (who were cc=E2=80=
+=99d on the
+>> email I sent to the help desk).  If you can=E2=80=99t get into DL263, I =
+suggest
+>> just meeting across the hall.
+>>
+>> For your reading pleasure, take a look at =E2=80=9CMOV is Turing Complet=
+e=E2=80=9D at
+>> https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf - sure makes reverse
+>> engineering a lot simpler :-)
+>>
+>> =E2=80=94 Steve
+>>
+>>
+>> _______________________________________________
+>> Osu-ctf mailing list
+>> Osu-ctf@lists.osu.edu
+>> https://lists.osu.edu/mailman/listinfo/osu-ctf
+>>
+>>
+>
+> _______________________________________________
+> Osu-ctf mailing list
+> Osu-ctf@lists.osu.edu
+> https://lists.osu.edu/mailman/listinfo/osu-ctf
+>
+>
+
+--001a1140feb66d76e90521ff77e1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">aaaaand Jeff responded without reading the chain :(</div><=
+div class=3D"gmail_extra"><br><div class=3D"gmail_quote">On Tue, Oct 13, 20=
+15 at 12:29 PM, Jason Goodman <span dir=3D"ltr">&lt;<a href=3D"mailto:jason=
+goodmanosu@gmail.com" target=3D"_blank">jasongoodmanosu@gmail.com</a>&gt;</=
+span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex"><div dir=3D"ltr">If you thin=
+k Dolan&#39;s academic paper about MOV being Turing complete is cool, check=
+ out a C compiler that implements it. This was implemented and presented on=
+ at a couple of conferences by Chris Domas, one of our coworkers here at Ba=
+ttelle. He also discusses other single instructions or pairs of instruction=
+s that are also Turing complete and has posted several crackmes that were c=
+ompiled with only the mov instruction.<div><br></div><div><a href=3D"https:=
+//github.com/xoreaxeaxeax/movfuscator" target=3D"_blank">https://github.com=
+/xoreaxeaxeax/movfuscator</a><br></div><div><a href=3D"https://www.youtube.=
+com/watch?v=3DR7EEoWg6Ekk" target=3D"_blank">https://www.youtube.com/watch?=
+v=3DR7EEoWg6Ekk</a><br></div><div><br></div><div>Jason</div><div class=3D"g=
+mail_extra"><br><div class=3D"gmail_quote"><div><div class=3D"h5">On Tue, O=
+ct 13, 2015 at 10:36 AM, Romig, Steve <span dir=3D"ltr">&lt;<a href=3D"mail=
+to:romig.1@osu.edu" target=3D"_blank">romig.1@osu.edu</a>&gt;</span> wrote:=
+<br></div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8e=
+x;border-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5">
+
+
+
+<div style=3D"word-wrap:break-word">
+So far as I know, we=E2=80=99re continuing with the reverse-engineering ser=
+ies tonight. =C2=A0
+<div><br>
+</div>
+<div>Unfortunately I won=E2=80=99t be able to make it.=C2=A0 I=E2=80=99ve a=
+sked the help desk to open the room at the request of any of several people=
+ (who were cc=E2=80=99d on the email I sent to the help desk).=C2=A0 If you=
+ can=E2=80=99t get into DL263, I suggest just meeting across the
+ hall.</div>
+<div><br>
+</div>
+<div>For your reading pleasure, take a look at =E2=80=9CMOV is Turing Compl=
+ete=E2=80=9D at=C2=A0<a href=3D"https://www.cl.cam.ac.uk/~sd601/papers/mov.=
+pdf" target=3D"_blank">https://www.cl.cam.ac.uk/~sd601/papers/mov.pdf</a>=
+=C2=A0- sure makes reverse engineering a lot simpler :-)</div><span><font c=
+olor=3D"#888888">
+<div><br>
+</div>
+<div>=E2=80=94 Steve</div>
+<div><br>
+</div>
+</font></span></div>
+
+<br></div></div>_______________________________________________<br>
+Osu-ctf mailing list<br>
+<a href=3D"mailto:Osu-ctf@lists.osu.edu" target=3D"_blank">Osu-ctf@lists.os=
+u.edu</a><br>
+<a href=3D"https://lists.osu.edu/mailman/listinfo/osu-ctf" rel=3D"noreferre=
+r" target=3D"_blank">https://lists.osu.edu/mailman/listinfo/osu-ctf</a><br>
+<br></blockquote></div><br></div></div>
+<br>_______________________________________________<br>
+Osu-ctf mailing list<br>
+<a href=3D"mailto:Osu-ctf@lists.osu.edu">Osu-ctf@lists.osu.edu</a><br>
+<a href=3D"https://lists.osu.edu/mailman/listinfo/osu-ctf" rel=3D"noreferre=
+r" target=3D"_blank">https://lists.osu.edu/mailman/listinfo/osu-ctf</a><br>
+<br></blockquote></div><br></div>
+
+--001a1140feb66d76e90521ff77e1--
+
+--===============1450910224364777238==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Osu-ctf mailing list
+Osu-ctf@lists.osu.edu
+https://lists.osu.edu/mailman/listinfo/osu-ctf
+
+--===============1450910224364777238==--

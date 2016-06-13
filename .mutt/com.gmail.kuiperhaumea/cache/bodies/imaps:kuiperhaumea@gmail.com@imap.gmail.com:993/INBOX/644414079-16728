@@ -1,0 +1,1444 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.80.11 with SMTP id e11csp1645422oib;
+        Mon, 8 Feb 2016 09:18:56 -0800 (PST)
+X-Received: by 10.28.128.86 with SMTP id b83mr56150746wmd.27.1454951935991;
+        Mon, 08 Feb 2016 09:18:55 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22d.google.com (mail-wm0-x22d.google.com. [2a00:1450:400c:c09::22d])
+        by mx.google.com with ESMTPS id 201si17535782wml.102.2016.02.08.09.18.55
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 08 Feb 2016 09:18:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22d as permitted sender) client-ip=2a00:1450:400c:c09::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22d as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass (test mode) header.i=@meetup.com
+Received: by mail-wm0-x22d.google.com with SMTP id g62so141749037wme.0
+        for <kuiperhaumea@gmail.com>; Mon, 08 Feb 2016 09:18:55 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:delivered-to:dkim-signature:message-id:from
+         :sender:to:subject:mime-version:content-type:date;
+        bh=TaM2ox1vz22KQVWsSfhPBiv/FXAzA6JJiw74A6G9dx8=;
+        b=MzDI0SNr0sZq8JuOBFCYGd4hc6XExxscEX3o7r/JIi9l8rPn6+bQOyV8rKCNAxuF6/
+         JahITlwLiYBqpx4Z/VqPFQ1XOxU8KP26GwNZqB2jjxNCiZlNpriuEsP1FlcSdq1okZ/+
+         /0PVDCmHkCkl/Uo+I2oiBuOUSq+yewV7I/zYvu+vYyzZfUX35VHxeboWgzZQILKPMw+a
+         X7+pY/lC56lQNBzrwV0AT5CgWcwLuN30UL5dc8IAiglimlRd+iCch7Ync55OM2jOc2uG
+         3jB3kZKNrgpd3UzX3sNvL+XksCHnmuDxJaXEo+bJVzf1enBxkm1s5QG0DpoFn52mr+St
+         em9g==
+X-Gm-Message-State: AG10YORY0BegkJbvniaaunFNAFKvy4S4YrxkZpEXo27WRE7b92jg0WDwJDss1wXVisrAhUeJkl3SnqD356w0fFLtTeVkwgU=
+X-Received: by 10.194.134.134 with SMTP id pk6mr29537084wjb.176.1454951935447;
+        Mon, 08 Feb 2016 09:18:55 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.189.214 with SMTP id n205csp1450516wmf;
+        Mon, 8 Feb 2016 09:18:53 -0800 (PST)
+X-Received: by 10.55.82.70 with SMTP id g67mr20697508qkb.57.1454951933100;
+        Mon, 08 Feb 2016 09:18:53 -0800 (PST)
+Return-Path: <info@meetup.com>
+Received: from mail8.nyi.meetup.com (mail8.nyi.meetup.com. [64.90.170.38])
+        by mx.google.com with ESMTP id f185si31328567qkb.71.2016.02.08.09.18.52
+        for <markiewicz.john@gmail.com>;
+        Mon, 08 Feb 2016 09:18:53 -0800 (PST)
+Received-SPF: pass (google.com: domain of info@meetup.com designates 64.90.170.38 as permitted sender) client-ip=64.90.170.38;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=meetup; d=meetup.com;
+ h=Message-ID:From:Sender:To:Subject:MIME-Version:Content-Type:Date; i=info@meetup.com;
+ bh=BeG9oROZM3BlhtXXjJw7JpAMGUw=;
+ b=Sb8ryxkB39IbYQLClnbmcycRuF+abtzIGwlzPHNwIXPsmk5FeK9i8LClHQQuTyn0V2M19HBTxScT
+   i0w22O/51/eC+xllSVIrFxJmib2exSEy56epF9F5VhSTs0+a/g4dvocWoKvIx9tanC7humW5vnix
+   Gi4tfBsVAzKxosknwhk=
+Received: by mail8.nyi.meetup.com id hn36vq1dqk04 for <markiewicz.john@gmail.com>; Mon, 8 Feb 2016 12:18:52 -0500 (envelope-from <info@meetup.com>)
+Received: by pmta1.phi.meetup.com id hn36vo206m4i for <markiewicz.john@gmail.com>; Mon, 8 Feb 2016 12:18:52 -0500 (envelope-from <info@meetup.com>)
+Message-ID: <1458244368.1454951932435.JavaMail.root@jobs2.meetup.com>
+From: Meetup <info@meetup.com>
+Sender: info@meetup.com
+To: markiewicz.john@gmail.com
+Subject: Meetups this week with: Pythonistas, Developers, Girl Develop It
+ Columbus Members, and others
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_6065425_2072714338.1454951932435"
+X-MEETUP-RECIP-ID: 184271242
+X-MEETUP-TRACK: wc1d.2
+Date: Mon, 8 Feb 2016 12:18:52 -0500
+
+------=_Part_6065425_2072714338.1454951932435
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+*** Your Meetups ***
+
+___ Friday ___
+
+The Central Ohio Python Users Group: http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Group/events/228668233/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=event&_af_eid=228668233&expires=1455124732408&sig=7b189ff6d11b4dd57ade76bcc1988f157139fa17
+
+
+*** Top Meetups for you ***
+
+
+___ Tech ___
+
+AngularJS Meetup Group: http://www.meetup.com/ng-columbus/events/226118918/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Girl Develop It Columbus: http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Columbus PHP Meetup: http://www.meetup.com/phpphp/events/228134147/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Columbus Rust Society: http://www.meetup.com/columbus-rs/events/228427565/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+TechLife Columbus: http://www.meetup.com/techlifecolumbus/events/227898738/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+
+___ Career &amp; Business ___
+
+Startup Grind Columbus: http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Smart Success Business Network of Columbus: http://www.meetup.com/Business-Columbus/events/228220919/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Columbus Lean Coffee: http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+Ohio Startup: Idea to IPO: http://www.meetup.com/Ohio-Startup-Idea-to-IPO/events/228549773/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+
+___ Sports &amp; Recreation ___
+
+Columbus Sports & Social: http://www.meetup.com/Columbus-Sports-and-Social/events/227469361/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+
+___ Religion &amp; Beliefs ___
+
+Omnipresent Atheists: http://www.meetup.com/omnipresentatheists/events/227404606/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+
+___ Dancing ___
+
+Swing Dancing Columbus: http://www.meetup.com/swingdancingcolumbus/events/228567346/?gj=wc1d.2_g&rv=wc1d.2_g&_xtd=gatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ
+
+See all Meetups in your area: http://www.meetup.com/find/?eventFilter=mysugg&events=true
+
+-------
+
+You're getting this message because your Meetup account is connected to this email address.
+
+Unsubscribe (http://www.meetup.com/__ms184271242/account/optout/?submit=true&eo=wc1d.2&email=city_news&_ms_unsub=true&expires=1457543932409&sig=704bc43d7246156577fc07c4835775947a419644) from this type of email. Manage your settings (http://www.meetup.com/account/comm/) for all types of email updates.
+
+Visit your account page (http://www.meetup.com/account/) to change your contact details, privacy settings, and other settings.
+
+Meetup Inc. (http://www.meetup.com/), POB 4668 #37895 New York NY USA 10163
+
+------=_Part_6065425_2072714338.1454951932435
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+<html>
+<head>
+<title>Meetup</title>
+<style type=3D"text/css">
+@media only screen and (max-device-width: 480px) {
+.other-meetups-tearsheet {
+display:none;
+}
+*[class=3Dpeople],*[class=3DnoFloat] {
+width: 100%!important;
+float:none!important
+}
+.showMobile {
+color:#222!important;
+line-height: 16px!important;
+max-height:20px!important;
+height:20px!important;
+}
+.hideMobile {
+color:#fff!important;
+line-height:0px!important;
+display:none!important;
+}
+}
+@media only screen and (max-device-width: 320px) {
+.event-meta,
+.event-rsvp-box,
+.noFloat,
+.event-rsvp-box-status {
+float:none!important;
+width:100%!important;
+}
+.showMobile {
+color:#222!important;
+line-height: 16px!important;
+max-height:20px!important;
+height:20px!important;
+}
+.hideMobile {
+color:#fff!important;
+line-height:5px!important;
+display:none!important;
+}
+.event-rsvp-box {
+margin-top:8px;
+}
+.other-meetups-rsvp {
+width:40%!important;
+}
+.other-meetups-event-meta {
+width:60%!important;
+}
+.event-rsvp-box-actions {
+width:100%;
+}
+*[class=3Dpeople] {
+width: 100%!important;
+float:none!important
+}
+
+
+}
+@media only screen and (min-width: 10px) {
+.meetup-button-gradient {
+background-image:-webkit-gradient(linear,left top,left bottom,from(#e6304c)=
+,to(#cb1834));
+background-image:-moz-linear-gradient(center top,#e6304c,#cb1834);
+text-shadow:#b8263c -1px -1px 0;
+-moz-box-shadow:#ed6e81 1px 1px 0 0 inset;
+-webkit-box-shadow:#ed6e81 1px 1px 0 0 inset;
+-o-box-shadow:#ed6e81 1px 1px 0 0 inset;
+box-shadow:#ed6e81 1px 1px 0 0 inset;
+}
+.meetup-button-link {
+border: none!important;
+padding: 5px 18px!important;
+}
+}
+</style>
+</head>
+<body style=3D"margin:0;padding:0;font-family:arial;color:#333;background:#=
+eee!important;text-align:center;">
+<div style=3D"background:#eee!important;">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width:100%;">
+<tr>
+<td style=3D"width:49%;padding:0;border-top:4px solid #E0393E;" valign=3D"t=
+op">
+<div style=3D"height:22px;background:#E0393E;">&nbsp;</div>
+</td>
+<td style=3D"width:52px;padding:0;border-top:4px solid #E0393E;background:#=
+E0393E;">
+<a style=3D"display:block;height:36px;max-height:36px;" href=3D"http://www.=
+meetup.com/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ/"><img src=3D"http://www.meetup.com/z/?_xtd=3DhKplbWFpbF9vcG=
+Vu2gAkYzk2NzYwY2QtNGQyZC00MWVkLTk0Y2MtNzMwMGQ2ZGUzMzg1qW1lbWJlcl9pZKkxODQyN=
+zEyNDKpc2VuZF90aW1lrTE0NTQ5NTE5MzIzOTmmeHRyYWNrpndjMWQuMg&redirect_loc=3Dht=
+tp%3A%2F%2Fimg1.meetupstatic.com%2Fimg%2Fmup_logo_email_header.png" width=
+=3D"52" height=3D"36" alt=3D"Meetup" style=3D"border:0;" /></a>
+</td>
+<td style=3D"width:49%;padding:0;border-top:4px solid #E0393E;" valign=3D"t=
+op">
+<div style=3D"height:22px;background:#E0393E;">&nbsp;</div>
+</td>
+</tr>
+</table>
+<div style=3D"width:94%;min-width:220px;max-width:650px;margin:0 auto;paddi=
+ng-top:6px;text-align:left;font-family:arial,sans-serif;font-size:13px;line=
+-height:18px;color:#545454;;background:#eee!important;">
+<div style=3D"border-top:20px solid #eee;border-bottom:10px solid #eee;bord=
+er-left:10px solid #eee;border-right:10px solid #eee; background:#eee;text-=
+align:center;">
+<div style=3D"font-size:26px;color:#222;font-weight:bold;line-height:32px;b=
+order-bottom:10px solid #eee;">Your calendar for the week of <span style=3D=
+"color:#e6304c">February 8</span></div>
+
+<p style=3D" font-size:13px;line-height:18px;margin:0 0 10px; font-size:16p=
+x;font-style:italic;">Hi John Markiewicz, here's what Meetup looks like for=
+ you this week.</p>
+</div>
+
+<div style=3D"border-top:20px solid #eee"></div>
+<div style=3D"clear:both;text-decoration:none;color:#fff;font-size:22px;fon=
+t-weight:bold;line-height:28px;border-top:10px solid #e6304c;border-bottom:=
+5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;border=
+-top-left-radius:5px;border-top-right-radius:5px;">
+Your Meetups
+</div>
+<div style=3D"border:1px solid #ccc;border-top:none;border-bottom-left-radi=
+us:5px;border-bottom-right-radius:5px;">
+<div style=3D"background:#fff;overflow:hidden;border-radius:5px;">
+<div style=3D"border-top:20px solid #fff"></div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"font-size:22px;border-bottom:10px solid #fff;bord=
+er-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color=
+:#666;"><span style=3D"color:#e6304c;">Friday</span> February 12</div></div=
+>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Gr=
+oup/events/228668233/?gj=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9=
+oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_eid=3D=
+228668233&expires=3D1455124732409&sig=3Dd4b3485d8931ac7f2b7ec2c586e61ccbf6e=
+afd68">
+<img src=3D"http://photos2.meetupstatic.com/photos/event/b/3/8/7/thumb_1018=
+5959.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"The =
+Central Ohio Python Users Group" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Central-Ohio-Python-Users-Group/?gj=3Dwc1d.2_c&=
+rv=3Dwc1d.2_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLT=
+czMDBkNmRlMzM4NQ">The Central Ohio Python Users Group</a>
+</div>
+<div><a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Use=
+rs-Group/events/228668233/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jb=
+Glja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_e=
+id=3D228668233&expires=3D1455124732409&sig=3D64c4dba5fb0ad58408a80bccecdf1e=
+d0dbbbb42c" style=3D" color: #3987CB; text-decoration: none; font-size:16px=
+;font-weight:bold;">DoJo</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Friday</span>, <span style=3D"color=
+:#111;font-size:12px;">6:00 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 12</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:112px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:112px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Gr=
+oup/events/228668233/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9=
+oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_eid=3D=
+228668233&expires=3D1455124732410&sig=3Ddc90a08727ae71386a22003266e4568eff3=
+394fa"><img width=3D"24" height=3D"24" src=3D"http://photos4.meetupstatic.c=
+om/photos/member/4/d/7/8/thumb_7579832.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Gr=
+oup/events/228668233/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9=
+oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_eid=3D=
+228668233&expires=3D1455124732410&sig=3Ddc90a08727ae71386a22003266e4568eff3=
+394fa"><img width=3D"24" height=3D"24" src=3D"http://photos1.meetupstatic.c=
+om/photos/member/4/a/4/4/thumb_70039012.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Gr=
+oup/events/228668233/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9=
+oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_eid=3D=
+228668233&expires=3D1455124732410&sig=3Ddc90a08727ae71386a22003266e4568eff3=
+394fa"><img width=3D"24" height=3D"24" src=3D"http://photos4.meetupstatic.c=
+om/photos/member/2/8/thumb_9540040.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/__ms184271242/Central-Ohio-Python-Users-Gr=
+oup/events/228668233/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9=
+oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&_af=3Devent&_af_eid=3D=
+228668233&expires=3D1455124732410&sig=3Ddc90a08727ae71386a22003266e4568eff3=
+394fa"><img width=3D"24" height=3D"24" src=3D"http://photos3.meetupstatic.c=
+om/photos/member/5/2/1/e/thumb_103761022.jpeg" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+4
+Pythonistas
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div style=3D"border-top:20px solid #eee"></div>
+<div style=3D"clear:both;text-decoration:none;color:#fff;font-size:22px;fon=
+t-weight:bold;line-height:28px;border-top:10px solid #e6304c;border-bottom:=
+5px solid #e6304c;border-left:10px solid #e6304c; background:#e6304c;border=
+-top-left-radius:5px;border-top-right-radius:5px;">
+Top Meetups for you
+</div>
+<div style=3D"border:1px solid #ccc;border-top:none;border-bottom-left-radi=
+us:5px;border-bottom-right-radius:5px;">
+<div style=3D"background:#fff;overflow:hidden;border-radius:5px;">
+<div style=3D"border-top:20px solid #fff"></div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"font-size:22px;border-bottom:10px solid #fff;bord=
+er-left:10px solid #fff;border-right:10px solid #fff; background:#fff;color=
+:#666;"><span style=3D"color:#e6304c;">Tech</div></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos1.meetupstatic.com/photos/event/6/e/c/thumb_422161=
+772.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Angul=
+arJS Meetup Group" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/ng-columbus/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&_xtd=
+=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">=
+AngularJS Meetup Group</a>
+</div>
+<div><a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc=
+1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: none; f=
+ont-size:16px;font-weight:bold;">Monthly AngularJS Meetup</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Monday</span>, <span style=3D"color=
+:#111;font-size:12px;">6:00 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 8</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/photos/member/a/2/3/2/thumb_56741522.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/photos/member/a/8/7/0/thumb_7963120.jpeg" border=3D"0" /></=
+a>
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos3.m=
+eetupstatic.com/photos/member/b/1/b/e/thumb_41625502.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos1.m=
+eetupstatic.com/photos/member/5/3/7/2/thumb_63561362.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos2.m=
+eetupstatic.com/photos/member/6/9/b/6/thumb_82227062.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/ng-columbus/events/226118918/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/photos/member/7/e/5/6/thumb_61652342.jpeg" border=3D"0" /><=
+/a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+41
+Developers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos1.meetupstatic.com/photos/event/8/b/4/2/thumb_4367=
+75650.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Gir=
+l Develop It Columbus" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/girldevelopitcbus/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&=
+_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4=
+NQ">Girl Develop It Columbus</a>
+</div>
+<div><a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?g=
+j=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: n=
+one; font-size:16px;font-weight:bold;">Code & Coffee</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Monday</span>, <span style=3D"color=
+:#111;font-size:12px;">6:30 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 8</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos2.meetupstatic.com/photos/member/d/4/6/3/thumb_21894371.jpeg" border=3D"=
+0" /></a>
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos1.meetupstatic.com/photos/member/9/c/4/2/thumb_212860002.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos2.meetupstatic.com/photos/member/4/b/5/thumb_242821205.jpeg" border=3D"0=
+" /></a>
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos1.meetupstatic.com/photos/member/9/d/f/6/thumb_242500438.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos3.meetupstatic.com/photos/member/b/d/e/5/thumb_12408613.jpeg" border=3D"=
+0" /></a>
+<a href=3D"http://www.meetup.com/girldevelopitcbus/events/228186103/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos1.meetupstatic.com/photos/member/c/2/5/8/thumb_151189752.jpeg" border=3D=
+"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+24
+Members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_g&rv=
+=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ">
+<img src=3D"http://photos2.meetupstatic.com/photos/event/c/5/a/thumb_228603=
+162.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Colum=
+bus PHP Meetup" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/phpphp/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&_xtd=3Dgatl=
+bWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">Columbu=
+s PHP Meetup</a>
+</div>
+<div><a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_=
+e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: none; font-s=
+ize:16px;font-weight:bold;">Columbus PHP Meetup Monthly Meetup</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Wednesday</span>, <span style=3D"co=
+lor:#111;font-size:12px;">6:00 PM</span> <span style=3D"color:#888;border-l=
+eft:3px solid #fff; background:#fff;">Feb 10</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos2.meetu=
+pstatic.com/photos/member/d/1/2/6/thumb_159173542.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos1.meetu=
+pstatic.com/photos/member/b/e/d/2/thumb_242748850.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos2.meetu=
+pstatic.com/photos/member/3/6/a/2/thumb_244333986.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos3.meetu=
+pstatic.com/photos/member/4/1/f/c/thumb_246136892.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos3.meetu=
+pstatic.com/photos/member/4/a/b/c/thumb_155419132.jpeg" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/phpphp/events/228134147/?gj=3Dwc1d.2_p&rv=
+=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTcz=
+MDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.meetu=
+pstatic.com/photos/member/4/2/a/9/thumb_253577065.jpeg" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+8
+PHP Developers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos3.meetupstatic.com/photos/event/1/4/7/0/thumb_4249=
+85232.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Col=
+umbus Rust Society" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/columbus-rs/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&_xtd=
+=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">=
+Columbus Rust Society</a>
+</div>
+<div><a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc=
+1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: none; f=
+ont-size:16px;font-weight:bold;">Monthly Meeting</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Thursday</span>, <span style=3D"col=
+or:#111;font-size:12px;">6:30 PM</span> <span style=3D"color:#888;border-le=
+ft:3px solid #fff; background:#fff;">Feb 11</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos2.m=
+eetupstatic.com/photos/member/1/3/b/8/thumb_246185048.jpeg" border=3D"0" />=
+</a>
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos3.m=
+eetupstatic.com/photos/member/2/f/8/c/thumb_47472172.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos3.m=
+eetupstatic.com/photos/member/3/9/1/4/thumb_75014612.jpeg" border=3D"0" /><=
+/a>
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/photos/member/1/a/e/c/thumb_159666892.jpeg" border=3D"0" />=
+</a>
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/img/noPhoto_50.png" border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/columbus-rs/events/228427565/?gj=3Dwc1d.2_=
+p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNj=
+LTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://photos4.m=
+eetupstatic.com/img/noPhoto_50.png" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+7
+Rustaceans
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos1.meetupstatic.com/photos/event/b/1/9/e/thumb_7365=
+470.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"TechL=
+ife Columbus" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/techlifecolumbus/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&_=
+xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4N=
+Q">TechLife Columbus</a>
+</div>
+<div><a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=
+=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: no=
+ne; font-size:16px;font-weight:bold;">WakeUp StartUp</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Friday</span>, <span style=3D"color=
+:#111;font-size:12px;">7:30 AM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 12</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os2.meetupstatic.com/photos/member/d/b/9/f/thumb_245096223.jpeg" border=3D"=
+0" /></a>
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os3.meetupstatic.com/photos/member/e/6/d/4/thumb_2939092.jpeg" border=3D"0"=
+ /></a>
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os3.meetupstatic.com/photos/member/c/c/9/8/thumb_5032376.jpeg" border=3D"0"=
+ /></a>
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os2.meetupstatic.com/photos/member/b/1/8/1/thumb_21765441.jpeg" border=3D"0=
+" /></a>
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os2.meetupstatic.com/photos/member/3/7/8/e/thumb_234734222.jpeg" border=3D"=
+0" /></a>
+<a href=3D"http://www.meetup.com/techlifecolumbus/events/227898738/?gj=3Dwc=
+1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC0=
+5NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://phot=
+os1.meetupstatic.com/photos/member/6/a/8/d/thumb_6567277.jpeg" border=3D"0"=
+ /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+21
+TechLife Columbus members
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"border-top:10px solid #fff;border-bottom:10px solid #fff; bac=
+kground:#fff;text-align:center;">
+<a href=3D"https://secure.meetup.com/create/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM=
+5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&ic=3Dwc1d.2_s" style=3D" co=
+lor: #3987CB; text-decoration: none; font-size:20px;line-height:22px;">Star=
+t your own Tech Meetup &rarr;</a>
+</div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"border-top:1px solid #ccc;border-bottom:25px soli=
+d #fff;"></div><div style=3D"font-size:22px;border-bottom:10px solid #fff;b=
+order-left:10px solid #fff;border-right:10px solid #fff; background:#fff;co=
+lor:#666;"><span style=3D"color:#e6304c;">Career &amp; Business</div></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"height:50px;overflow:hidden;border-top:5px solid #eee;border-=
+bottom:5px solid #eee;background:#eee;text-align:center;">
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://img1.meetupstatic.com/img/nobodies_50.png" style=3D"line=
+-height:0px;" border=3D"0" title=3D"Startup Grind Columbus" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Startup-Grind-Columbus/?gj=3Dwc1d.2_c&rv=3Dwc1d=
+.2_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmR=
+lMzM4NQ">Startup Grind Columbus</a>
+</div>
+<div><a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/2273439=
+72/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRk=
+MmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decorati=
+on: none; font-size:16px;font-weight:bold;">Startup Grind Columbus Hosts Br=
+ian Billingsley (Klarna)</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Monday</span>, <span style=3D"color=
+:#111;font-size:12px;">5:30 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 8</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:140px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:140px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:=
+//photos4.meetupstatic.com/photos/member/9/5/f/8/thumb_70838392.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:=
+//photos2.meetupstatic.com/photos/member/3/7/8/e/thumb_234734222.jpeg" bord=
+er=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:=
+//photos3.meetupstatic.com/photos/member/8/e/a/a/thumb_156216522.jpeg" bord=
+er=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:=
+//photos4.meetupstatic.com/photos/member/e/0/0/d/thumb_248697357.jpeg" bord=
+er=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Startup-Grind-Columbus/events/227343972/?g=
+j=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:=
+//photos2.meetupstatic.com/photos/member/c/c/6/6/thumb_253252326.jpeg" bord=
+er=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+6
+Entrepreneurs
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos4.meetupstatic.com/photos/event/a/c/a/1/thumb_4445=
+24193.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Sma=
+rt Success Business Network of Columbus" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Business-Columbus/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_c&=
+_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4=
+NQ">Smart Success Business Network of Columbus</a>
+</div>
+<div><a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?g=
+j=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtN=
+DFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration: n=
+one; font-size:16px;font-weight:bold;">Smart Success Networking Party #SSBN=
+Columbus</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Monday</span>, <span style=3D"color=
+:#111;font-size:12px;">6:00 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 8</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:140px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:140px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos3.meetupstatic.com/photos/member/8/f/6/b/thumb_249096715.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos2.meetupstatic.com/photos/member/9/a/1/c/thumb_186639452.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos4.meetupstatic.com/photos/member/c/8/1/6/thumb_226071222.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos2.meetupstatic.com/photos/member/8/5/a/a/thumb_253534218.jpeg" border=3D=
+"0" /></a>
+<a href=3D"http://www.meetup.com/Business-Columbus/events/228220919/?gj=3Dw=
+c1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC=
+05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http://pho=
+tos4.meetupstatic.com/img/noPhoto_50.png" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+6
+Awesome Entrepreneurs
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"height:50px;overflow:hidden;border-top:5px solid #eee;border-=
+bottom:5px solid #eee;background:#eee;text-align:center;">
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://img1.meetupstatic.com/img/nobodies_50.png" style=3D"line=
+-height:0px;" border=3D"0" title=3D"Columbus Lean Coffee" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Columbus-Lean-Coffee/?gj=3Dwc1d.2_c&rv=3Dwc1d.2=
+_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlM=
+zM4NQ">Columbus Lean Coffee</a>
+</div>
+<div><a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017=
+/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMm=
+QtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration=
+: none; font-size:16px;font-weight:bold;">Lean Coffee Learning Circle</a></=
+div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Thursday</span>, <span style=3D"col=
+or:#111;font-size:12px;">7:30 AM</span> <span style=3D"color:#888;border-le=
+ft:3px solid #fff; background:#fff;">Feb 11</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos4.meetupstatic.com/photos/member/4/1/d/e/thumb_88756862.jpeg" border=
+=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos2.meetupstatic.com/photos/member/b/0/f/9/thumb_7965305.jpeg" border=
+=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos4.meetupstatic.com/photos/member/7/1/d/2/thumb_11369138.jpeg" border=
+=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos4.meetupstatic.com/photos/member/4/0/c/e/thumb_247096590.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos2.meetupstatic.com/photos/member/a/e/f/8/thumb_196064792.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Lean-Coffee/events/227512017/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos3.meetupstatic.com/photos/member/6/a/c/e/thumb_222267342.jpeg" borde=
+r=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+12
+Learners and Thinkers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:1px dotted #ccc;border-bottom:10px solid #fff;bord=
+er-left:25px solid #fff;border-right:25px solid #fff;"></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/Ohio-Startup-Idea-to-IPO/events/228549773/=
+?gj=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQ=
+tNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos2.meetupstatic.com/photos/event/4/d/1/4/thumb_1116=
+79732.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Ohi=
+o Startup: Idea to IPO" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Ohio-Startup-Idea-to-IPO/?gj=3Dwc1d.2_c&rv=3Dwc=
+1d.2_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkN=
+mRlMzM4NQ">Ohio Startup: Idea to IPO</a>
+</div>
+<div><a href=3D"http://www.meetup.com/Ohio-Startup-Idea-to-IPO/events/22854=
+9773/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLT=
+RkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decora=
+tion: none; font-size:16px;font-weight:bold;">WEBINAR: Thursday Internet Ma=
+rketing - Latest Trends /Case Studies</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Thursday</span>, <span style=3D"col=
+or:#111;font-size:12px;">3:15 PM</span> <span style=3D"color:#888;border-le=
+ft:3px solid #fff; background:#fff;">Feb 11</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:56px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:56px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/Ohio-Startup-Idea-to-IPO/events/228549773/=
+?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQ=
+tNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"htt=
+p://photos2.meetupstatic.com/photos/member/8/9/7/8/thumb_50735192.jpeg" bor=
+der=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Ohio-Startup-Idea-to-IPO/events/228549773/=
+?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQ=
+tNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"htt=
+p://photos4.meetupstatic.com/img/noPhoto_50.png" border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+3
+Entrepreneurs
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"border-top:1px solid #ccc;border-bottom:25px soli=
+d #fff;"></div><div style=3D"font-size:22px;border-bottom:10px solid #fff;b=
+order-left:10px solid #fff;border-right:10px solid #fff; background:#fff;co=
+lor:#666;"><span style=3D"color:#e6304c;">Sports &amp; Recreation</div></di=
+v>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos1.meetupstatic.com/photos/event/5/a/f/c/thumb_3845=
+63292.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Col=
+umbus Sports & Social" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/Columbus-Sports-and-Social/?gj=3Dwc1d.2_c&rv=3D=
+wc1d.2_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDB=
+kNmRlMzM4NQ">Columbus Sports & Social</a>
+</div>
+<div><a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/227=
+469361/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNk=
+LTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-deco=
+ration: none; font-size:16px;font-weight:bold;">$1 Indoor Gatorball (Dodgeb=
+all) at Thompson</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Wednesday</span>, <span style=3D"co=
+lor:#111;font-size:12px;">7:00 PM</span> <span style=3D"color:#888;border-l=
+eft:3px solid #fff; background:#fff;">Feb 10</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos4.meetupstatic.com/photos/member/7/f/4/2/thumb_245552578.jpeg" =
+border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos2.meetupstatic.com/photos/member/6/0/3/6/thumb_248064630.jpeg" =
+border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos4.meetupstatic.com/photos/member/5/0/4/8/thumb_210080552.jpeg" =
+border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos2.meetupstatic.com/photos/member/d/c/a/2/thumb_103136482.jpeg" =
+border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos3.meetupstatic.com/photos/member/5/f/5/c/thumb_249264412.jpeg" =
+border=3D"0" /></a>
+<a href=3D"http://www.meetup.com/Columbus-Sports-and-Social/events/22746936=
+1/?gj=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkM=
+mQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"h=
+ttp://photos1.meetupstatic.com/photos/member/c/8/7/b/thumb_253311323.jpeg" =
+border=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+13
+Active Sportsballers
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"border-top:1px solid #ccc;border-bottom:25px soli=
+d #fff;"></div><div style=3D"font-size:22px;border-bottom:10px solid #fff;b=
+order-left:10px solid #fff;border-right:10px solid #fff; background:#fff;co=
+lor:#666;"><span style=3D"color:#e6304c;">Religion &amp; Beliefs</div></div=
+>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos3.meetupstatic.com/photos/event/4/e/2/2/thumb_8240=
+0002.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Omni=
+present Atheists" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/omnipresentatheists/?gj=3Dwc1d.2_c&rv=3Dwc1d.2_=
+c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMz=
+M4NQ">Omnipresent Atheists</a>
+</div>
+<div><a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/=
+?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQ=
+tNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration:=
+ none; font-size:16px;font-weight:bold;">Omnipresent Atheists Weekly Meetup=
+ (2nd Tues)</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Tuesday</span>, <span style=3D"colo=
+r:#111;font-size:12px;">7:00 PM</span> <span style=3D"color:#888;border-lef=
+t:3px solid #fff; background:#fff;">Feb 9</span></div>
+<div style=3D"clear:both">
+<div style=3D"width:168px;padding-right:5px">
+<table cellspacing=3D"0" cellpadding=3D"0" style=3D"width:168px;">
+<tr>
+<td style=3D"padding-right:1px;width:24px">
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos2.meetupstatic.com/photos/member/5/c/0/a/thumb_213923562.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos3.meetupstatic.com/photos/member/6/5/8/e/thumb_245125998.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos3.meetupstatic.com/photos/member/b/7/2/a/thumb_250306890.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos3.meetupstatic.com/photos/member/2/1/d/6/thumb_232988662.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos1.meetupstatic.com/photos/member/a/b/6/8/thumb_244783880.jpeg" borde=
+r=3D"0" /></a>
+<a href=3D"http://www.meetup.com/omnipresentatheists/events/227404606/?gj=
+=3Dwc1d.2_p&rv=3Dwc1d.2_p&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ"><img width=3D"24" height=3D"24" src=3D"http:/=
+/photos3.meetupstatic.com/photos/member/b/3/e/7/thumb_246226055.jpeg" borde=
+r=3D"0" /></a>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"text-align:left;padding-bottom:2px;line-height:12px;">
+9
+Atheists
+</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div style=3D"border-top:10px solid #fff; background:#fff;clear:both;text-a=
+lign:left;"><div style=3D"border-top:1px solid #ccc;border-bottom:25px soli=
+d #fff;"></div><div style=3D"font-size:22px;border-bottom:10px solid #fff;b=
+order-left:10px solid #fff;border-right:10px solid #fff; background:#fff;co=
+lor:#666;"><span style=3D"color:#e6304c;">Dancing</div></div>
+<div style=3D"overflow:hidden;border-bottom:10px solid #fff;border-left:10p=
+x solid #fff;border-right:10px solid #fff; background:#fff;">
+<table style=3D"width:100%">
+<tr>
+<td style=3D"width:65px;vertical-align:top;padding-right:5px;padding-top:8p=
+x;">
+<div style=3D"max-height:70px;overflow:hidden">
+<a href=3D"http://www.meetup.com/swingdancingcolumbus/events/228567346/?gj=
+=3Dwc1d.2_g&rv=3Dwc1d.2_g&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtND=
+FlZC05NGNjLTczMDBkNmRlMzM4NQ">
+<img src=3D"http://photos1.meetupstatic.com/photos/event/c/8/6/6/thumb_4397=
+91302.jpeg" style=3D"width:65px;line-height:0px;" border=3D"0" title=3D"Swi=
+ng Dancing Columbus" />
+</a>
+</div>
+</td>
+<td style=3D"vertical-align:top;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<div style=3D"border-top:3px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;">
+<a style=3D"text-decoration:none;color:#888;border-right:5px solid #fff" hr=
+ef=3D"http://www.meetup.com/swingdancingcolumbus/?gj=3Dwc1d.2_c&rv=3Dwc1d.2=
+_c&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlM=
+zM4NQ">Swing Dancing Columbus</a>
+</div>
+<div><a href=3D"http://www.meetup.com/swingdancingcolumbus/events/228567346=
+/?gj=3Dwc1d.2_e&rv=3Dwc1d.2_e&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMm=
+QtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D" color: #3987CB; text-decoration=
+: none; font-size:16px;font-weight:bold;">Free Monday Swing Lessons & Swing=
+ Dancing</a></div>
+</div>
+<div style=3D"border-top:2px solid #fff;border-bottom:3px solid #fff; backg=
+round:#fff;"><span style=3D"color:#111">Monday</span>, <span style=3D"color=
+:#111;font-size:12px;">7:00 PM</span> <span style=3D"color:#888;border-left=
+:3px solid #fff; background:#fff;">Feb 8</span></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div style=3D"border-top:30px solid #eee;border-bottom:10px solid #eee; bac=
+kground:#eee;text-align:center;">
+<a href=3D"http://www.meetup.com/find/?eventFilter=3Dmysugg&_xtd=3DgatlbWFp=
+bF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&events=3Dtru=
+e" style=3D" color: #3987CB; text-decoration: none; font-size:20px;line-hei=
+ght:22px;">See all Meetups in your area &rarr;</a>
+</div>
+<div style=3D"border-top:20px solid #eee; background:#eee;"> </div>
+<div style=3D"font-size:10px;line-height:14px;color:#545454;background:#eee=
+;">
+You might like these Meetups based on your interest in:
+<a href=3D"http://www.meetup.com/topics/acoustic-music/us/oh/columbus/?gj=
+=3Dpct1&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBk=
+NmRlMzM4NQ" style=3D"color: #3987CB; text-decoration: none;">Acoustic Music=
+</a>,   =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=
+=3D"http://www.meetup.com/topics/musicians/us/oh/columbus/?gj=3Dpct1&_xtd=
+=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" =
+style=3D"color: #3987CB; text-decoration: none;">Musicians</a>,   =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://www.me=
+etup.com/topics/livemusic/us/oh/columbus/?gj=3Dpct1&_xtd=3DgatlbWFpbF9jbGlj=
+a9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D"color: #39=
+87CB; text-decoration: none;">Live Music</a>,   =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://www.meetup.com/topics/ph=
+p/us/oh/columbus/?gj=3Dpct1&_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQt=
+NDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D"color: #3987CB; text-decoration: n=
+one;">PHP</a>,   =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://www.meetup.com/topics/blogs/us/oh/columbus/?gj=3Dpct1&=
+_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4=
+NQ" style=3D"color: #3987CB; text-decoration: none;">Blogging</a>  =09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09and <a href=3D"http://www.meetup.com/add_topics/?_xtd=3DgatlbWFpbF=
+9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D"colo=
+r: #3987CB; text-decoration: none;">9 more topics</a>.
+<a href=3D"http://www.meetup.com/add_topics/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM=
+5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ" style=3D"color:#3987CB;tex=
+t-decoration:none;">Manage your interests</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div style=3D"clear:both;background-color:#eee;border-top:solid 20px #eee;b=
+order-bottom:solid 15px #eee;margin:30px 0 0;">
+<div style=3D"width:94%;margin:0 auto;text-align:center;border-left:solid 1=
+0px #eee;border-right:solid 10px #eee;min-width:220px;max-width:650px;font-=
+family:arial;color:#2d2d2d;font-size:11px;">
+<p style=3D"font-size:16px;font-weight:bold;margin:0 0 10px;"><span style=
+=3D"white-space:nowrap">Never miss a last-minute change.</span> <span style=
+=3D"white-space:nowrap">Get the app.</span></p>
+<a href=3D"http://www.meetup.com/z/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNk=
+LTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&redirect_loc=3Dhttps%3A%2F%2Fitunes.=
+apple.com%2Fapp%2Fapple-store%2Fid375990038%3Fpt%3D288116%26ct%3Demailfoote=
+r%26mt%3D8" style=3D"text-decoration:none;padding-right:8px;">
+<img src=3D"http://img1.meetupstatic.com/img/email/download-appstore@2x.png=
+" width=3D"135" height=3D"40" alt=3D"iPhone App Store" style=3D"background-=
+color:#eee;text-decoration:none;" />
+</a>
+<a href=3D"http://www.meetup.com/z/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MGNk=
+LTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&redirect_loc=3Dhttp%3A%2F%2Fplay.goo=
+gle.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.meetup%26referrer%3Dutm_source%=
+253Demailfooter" style=3D"text-decoration:none;">
+<img src=3D"http://img1.meetupstatic.com/img/email/download-playstore@2x.pn=
+g" width=3D"136" height=3D"40"  alt=3D"Google Play" style=3D"background-col=
+or:#eee;text-decoration:none;"/>
+</a>
+</div>
+</div>
+
+<div style=3D"text-align:center;background:#555;border-top:10px solid #555;=
+border-bottom:10px solid #555;border-left:10px solid #555;border-right:10px=
+ solid #555; background:#555;">
+<div style=3D"width:94%;min-width:220px;max-width:650px;margin:0 auto;text-=
+align:left;background:#555;font-family:helvetica,arial,sans-serif;color:#ee=
+e;">
+<p style=3D"font-size:10px;margin-bottom:.25em;color:#eee;">
+You're getting this message because your Meetup account is connected to thi=
+s email address.
+</p>
+<p style=3D"font-size:10px;margin-bottom:.25em;color:#eee;">
+<a style=3D'text-decoration:underline !important;color:#eee;color:#eee!impo=
+rtant' href=3D'http://www.meetup.com/__ms184271242/account/optout/?_xtd=3Dg=
+atlbWFpbF9jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ&submi=
+t=3Dtrue&eo=3Dwc1d.2&email=3Dcity_news&_ms_unsub=3Dtrue&expires=3D145754393=
+2416&sig=3D8c8b421e3868956efdffe04b6528ca5621558751'>Unsubscribe</a> from t=
+his type of email.
+<a style=3D"text-decoration:underline !important;color:#eee;color:#eee!impo=
+rtant" href=3D"http://www.meetup.com/account/comm/?_xtd=3DgatlbWFpbF9jbGlja=
+9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">Manage your settings=
+</a> for all types of email updates.
+</p>
+<p style=3D"font-size:10px;margin-bottom:.25em;color:#eee;">
+Visit your <a style=3D"text-decoration:underline !important;color:#eee;colo=
+r:#eee!important" href=3D"http://www.meetup.com/account/?_xtd=3DgatlbWFpbF9=
+jbGlja9oAJGM5Njc2MGNkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">account page</=
+a> to change your contact details, privacy settings, and other settings.
+</p>
+
+<p style=3D"font-size:10px;margin-bottom:.25em;color:#eee;">
+<a style=3D"text-decoration:underline !important;color:#eee;color:#eee!impo=
+rtant" href=3D"http://www.meetup.com/?_xtd=3DgatlbWFpbF9jbGlja9oAJGM5Njc2MG=
+NkLTRkMmQtNDFlZC05NGNjLTczMDBkNmRlMzM4NQ">Meetup Inc.</a>, POB 4668 #37895 =
+New York NY USA 10163
+</p>
+</div>
+</div>
+</body>
+</html>
+------=_Part_6065425_2072714338.1454951932435--
+

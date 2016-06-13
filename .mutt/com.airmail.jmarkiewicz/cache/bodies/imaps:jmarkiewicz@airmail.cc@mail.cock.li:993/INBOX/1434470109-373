@@ -1,0 +1,110 @@
+Return-Path: <cock.li-news-bounces@lists.cock.li>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: cock.li-news@lists.cock.li
+Delivered-To: cock.li-news@lists.cock.li
+To: cock.li-news@lists.cock.li
+From: Vincent Canfield <vc@cock.li>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <5641050A.5010906@cock.li>
+Date: Mon, 9 Nov 2015 15:41:46 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.3.0
+MIME-Version: 1.0
+X-Mailman-Approved-At: Mon, 09 Nov 2015 21:43:13 +0100
+Subject: [Cock.li News] Rizon doesnt give a fuck about you,
+	and new IRC channel
+X-BeenThere: cock.li-news@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <cock.li-news.lists.cock.li>
+List-Unsubscribe: <https://lists.cock.li/mailman/options/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/cock.li-news/>
+List-Post: <mailto:cock.li-news@lists.cock.li>
+List-Help: <mailto:cock.li-news-request@lists.cock.li?subject=help>
+List-Subscribe: <https://lists.cock.li/mailman/listinfo/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============4490333770724908727=="
+Errors-To: cock.li-news-bounces@lists.cock.li
+Sender: "Cock.li-news" <cock.li-news-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============4490333770724908727==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="5CgjpxPkL1fhsohgSImrq9mqprAF4Qnl9"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--5CgjpxPkL1fhsohgSImrq9mqprAF4Qnl9
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi cock.li,
+
+tl;dr: Rizon has banned cock.li, 8chan.co, and other domains from
+registering on Rizon. I am moving the cock.li IRC to darenet.org
+
+The new cock.li IRC channel is here:
+
+irc.darenet.org #cock.li
+https://webchat.darenet.org/?channels=3Dcock.li
+
+I am moving away from Rizon because they have banned cock.li, 8chan.co,
+and other domains from their site for bullshit reasons and refuse to
+change it citing bullshit excuses. You can read exactly what happened her=
+e:
+
+https://cock.li/files/fuck-rizon.txt
+
+The worst part of this is that it isnt just new registrations they're
+blocking, they're going after EXISTING users and threatening to revoke
+their nickserv registration if they don't change their E-mail address.
+
+I also recognize that the cock.li IRC has never really been like
+"advertised" as official outside of the mailing list, so there's a neat
+feature in the works to integrate IRC with webmail (opt-in) :%)
+
+Love,
+    Vincent Canfield
+         -cock-
+5CB4 9CDC EAC7 97FB F8BD
+C074 FD71 AD27 71A5 CC1B
+
+
+--5CgjpxPkL1fhsohgSImrq9mqprAF4Qnl9
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWQQUPAAoJEP1xrSdxpcwbeN4P/1uAh2Rvg5wwr9w241Y5Rqs+
+I9qtDWhignWrVvpBrLz+MTIswpx7J9dGYBfGOpsc1XFNOfQXqM/pseiY4UbfbrhG
+A9C7EkwPPLAbEGpPLUuVNb7gaKMTXw1A22L8HwbW2YLd2XV5PzyEAVxhAmZ9gQr8
+eItnEn+ON8VThs1wwUGO2U/Vw8PoetOTavxoQ6Ag0FOkYg9eAyISaGQMepKdAYPF
+CNvxmiW4aPQwXZ1o1RjGOqekezqt+ceVYoA9Dgq3FsjPvIbyiGD+njQt6vsUZ7zK
+utBWYOfUP7W1ECy9fUG8AOHLkXnqwjgMcUP2jAeyQcdOhE1vXiEY1h6vOxstdZKF
+LyiD2U+Cj2/KGVzK1OSu4XDqj+6MHEZNuLlJnWJmSxa0qpKhA9E69HHVh1Wd0C6h
+5Sm3qO/RybJxCQuY7AQKHHCNEGItcsnvedmP7f8lGiRxLal2G4ExxOQm4wLeX1sY
+dAmMMeOKE4Teaji74Gz/i31HIHTKevU5UNLbO23AOjC8GX/fdbGQtRR2cVqYKSkO
++7gtBTmjjoW3QfUB2bWSnnp4QiBT1xqh9yv1zMz/xGc3GCsxCG1f/Dc00JoXZeml
+IcHDnbcx809I6kz5N/lb75Xj5p3VARcayhoSqZoHPXewUqdwAv7nEXsV6ik7pLGG
+7QGVMcoZ/XAv0oLUfQcm
+=l80M
+-----END PGP SIGNATURE-----
+
+--5CgjpxPkL1fhsohgSImrq9mqprAF4Qnl9--
+
+--===============4490333770724908727==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+OD09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT1ECiAgICAgICAgQ29jay5s
+aSBuZXdzIG1haWxpbmcgbGlzdAogICAgICAgICBUbyB1bnN1YnNjcmliZSwgRS1tYWlsCiAgY29j
+ay5saS1uZXdzLXVuc3Vic2NyaWJlQGxpc3RzLmNvY2subGk=
+
+--===============4490333770724908727==--

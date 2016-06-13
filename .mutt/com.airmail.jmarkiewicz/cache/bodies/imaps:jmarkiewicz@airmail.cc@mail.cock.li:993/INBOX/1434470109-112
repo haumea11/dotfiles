@@ -1,0 +1,34 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=zQpkLoY3MMf78hFm+adLs8CT5SR5t2E7hFrdSTAZHRU=;
+        b=x8T44ydZF0j1w26p9RIcACCxy4JKKWIdPjbHCKMIQIYEy8Jsk7c03ksaCl7pSiZXO0
+         QSySh3AHNRJw3hyOgfuPlyQ8W1eyonYJ/mH2qGc2tpGxFa74spP+kYoiV6uNGRTD4FnZ
+         dQas0HgEh3voINSWDNWSymuwk6pxBHTxeuvSOc50EXw0hEUldvx+fd//gOKDPoKkncAO
+         NcRhnb6I31EqmVged3TDR/XPjdP5NoXitBpvfPJ1hZ97vISml1uLZlXvVN+1CNzf38g6
+         MCIkh50yk4n1X2UlQwBkNwaOH9LZiylBUiOns2EGaYNu8bXk/xCUJe/D0xGNClmenl7L
+         xJaw==
+X-Received: by 10.107.132.139 with SMTP id o11mr21968111ioi.3.1440503504337;
+        Tue, 25 Aug 2015 04:51:44 -0700 (PDT)
+Message-ID: <55DC56CE.60804@gmail.com>
+Date: Tue, 25 Aug 2015 07:51:42 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: Pete Markiewicz <pete.markiewicz@gmail.com>, 
+ John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: beef bad
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+http://abc7.com/food/consumer-reports-finds-fecal-contamination-in-ground-beef/955374/
+
+"almost all contained bacteria that signified fecal contamination"
+
+no wonder hamburger makes John sick.
+-- 
+Shannon Markiewicz, Ph.D.

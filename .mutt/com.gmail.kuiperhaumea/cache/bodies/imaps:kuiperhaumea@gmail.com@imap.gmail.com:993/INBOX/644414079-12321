@@ -1,0 +1,189 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2360463oid;
+        Tue, 14 Jul 2015 10:51:45 -0700 (PDT)
+X-Received: by 10.194.109.97 with SMTP id hr1mr78419803wjb.95.1436896305003;
+        Tue, 14 Jul 2015 10:51:45 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-f44.google.com (mail-wg0-f44.google.com. [74.125.82.44])
+        by mx.google.com with ESMTPS id b8si17593710wik.10.2015.07.14.10.51.44
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 10:51:44 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.44 as permitted sender) client-ip=74.125.82.44;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.44 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@iad01.hobsonsmail.com
+Received: by mail-wg0-f44.google.com with SMTP id l9so696wgk.1
+        for <kuiperhaumea@gmail.com>; Tue, 14 Jul 2015 10:51:44 -0700 (PDT)
+X-Received: by 10.194.58.167 with SMTP id s7mr80857563wjq.38.1436896304636;
+        Tue, 14 Jul 2015 10:51:44 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2103221wmd;
+        Tue, 14 Jul 2015 10:51:43 -0700 (PDT)
+X-Received: by 10.140.38.167 with SMTP id t36mr62586175qgt.69.1436896303309;
+        Tue, 14 Jul 2015 10:51:43 -0700 (PDT)
+Return-Path: <24200563.buffalo@iad01.hobsonsmail.com>
+Received: from mailer03.iad01.hobsonsmail.com (mailer03.iad01.hobsonsmail.com. [165.193.85.12])
+        by mx.google.com with ESMTP id a14si1996576qge.28.2015.07.14.10.51.42
+        for <markiewicz.john@gmail.com>;
+        Tue, 14 Jul 2015 10:51:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 24200563.buffalo@iad01.hobsonsmail.com designates 165.193.85.12 as permitted sender) client-ip=165.193.85.12;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key3; d=iad01.hobsonsmail.com;
+ h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:Message-ID;
+ bh=Czha2maFYe0wh1z2o1/AZN29yxU=;
+ b=b0mb1VKagKvtjs6dXgoydN/uRiSk4nTE1zEDWttUYV/ZG6UaVWF/IEEWJRwLmK7Elrai4zX4NwRH
+   7qxNQhTu9Yrxe45qgFKL0W0HfoCC4w/ArOIhXbna9oLXlbzBP6LPknusJzjKD4xSPHqKI21Sy64v
+   5y0yepkQLOjaDruQdUY=
+Received: from IAD1PA014 (10.56.152.142) by mailer03.iad01.hobsonsmail.com id hkl62u19gqc4 for <markiewicz.john@gmail.com>; Tue, 14 Jul 2015 13:51:02 -0400 (envelope-from <24200563.buffalo@iad01.hobsonsmail.com>)
+From: "University at Buffalo" <ub-admissions@buffalo.edu> 
+To: "John Markiewicz" <markiewicz.john@gmail.com>
+Reply-To: 24200563.buffalo@iad01.hobsonsmail.com
+Date: Tue, 14 Jul 2015 13:51:02 -0400
+Subject: Learn more about fine art at UB!
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_4877498e8d6a48e582e25f6b5f2134f4"
+X-Mailer: aspNetEmail ver 3.5.2.0
+Message-ID: <IAD1PA0145e51afa940c34c33b9280fd621a83f28@IAD1PA014>
+
+This is a multi-part email in Mime format.
+
+--_=aspNetEmail=_4877498e8d6a48e582e25f6b5f2134f4
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,=0D=0A=0D=0AGreetings from the University at Buffalo=21 We=27re=
+ happy to learn that you=27re interested in majoring in =7BMajor=23=7D=2E=
+ If you would like to find out more about this or any other of our other =
+100+ undergraduate degree programs, please visit http://www=2Eadmissions=2E=
+buffalo=2Eedu/academics/areasofstudy=2Ephp=2E=0D=0A=0D=0AIn addition to t=
+op-notch academics, UB students enjoy inspirational professors, support f=
+or undergraduate research, engaging scholarly communities, a diverse lear=
+ning environment and exciting campus life=2E To discover everything UB ha=
+s to offer, visit our Admissions website at http://admissions=2Ebuffalo=2E=
+edu=2E=0D=0A=0D=0AWe wish you all the best in your college search=2E If y=
+ou have any questions, please call us toll free at 888-UB-ADMIT=2E=0D=0A=0D=
+=0ASincerely,=0D=0AJose Aviles, EdD=0D=0AAssociate Vice Provost and Direc=
+tor of Admissions=0D=0AUniversity at Buffalo=0D=0A=0D=0AYou have requeste=
+d to receive email from the University at Buffalo=2E You may unsubscribe =
+at any time http://buffalo=2Easkadmissions=2Enet/admin/Communications/Opt=
+Out=2Easpx?qs=3DBHWwb6BPaWB1tQSCp63Y=252fqQ6EYTRl72Q9bhWcZRh5MES=252f2G0s=
+A77sw=253d=253d
+
+--_=aspNetEmail=_4877498e8d6a48e582e25f6b5f2134f4
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD><BODY><table id=3D=22wrapper=22 style=3D=22margin: 0pt=
+; padding: 0pt; width: 100=25; height: 100=25; text-align: center; vertic=
+al-align: top; border-collapse: collapse;=22>=0D=0A    <tbody>=0D=0A     =
+   <tr>=0D=0A            <td class=3D=22wrapper_cell=22 style=3D=22margin=
+: 0pt; padding: 20px 20px 60px; color: rgb(88, 89, 91); line-height: 1=2E=
+4; font-family: =26quot;trebuchet ms=26quot;,arial,verdana,sans-serif; fo=
+nt-size: 11px; vertical-align: top; min-height: 100=25; background-color:=
+ rgb(204, 204, 204);=22>=0D=0A            <table id=3D=22page=22 style=3D=
+=22margin: 0pt auto; padding: 0pt; width: 540px; text-align: left; vertic=
+al-align: top; border-collapse: collapse;=22 align=3D=22center=22>=0D=0A =
+               <tbody>=0D=0A                    <tr>=0D=0A               =
+         <td id=3D=22header=22 style=3D=22margin: 0pt; padding: 0pt; colo=
+r: rgb(88, 89, 91); line-height: 1=2E4; font-family: =26quot;trebuchet ms=
+=26quot;,arial,verdana,sans-serif; font-size: 11px; vertical-align: top; =
+background-color: rgb(255, 255, 255);=22><a href=3D=22http://buffalo=2Eas=
+kadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3Dm0QfB=252fgB=
+siu42Q81VhW2lYYPzmBKs4=252bxIgAPgIMZldB45qULfsWrTCANPd59wppl2mjadI=252b3l=
+90=253d=22 target=3D=22_blank=22><img class=3D=22layout=22 src=3D=22http:=
+//static=2Easkadmissions=2Enet/buffalo/usermedia/header=2Ejpg=22 style=3D=
+=22width: 600px; height: 147px;=22></a>=0D=0A                        <h1 =
+style=3D=22background: rgb(71, 181, 206); margin: 0pt 0pt 15px; padding: =
+5px 0pt 15px 50px; color: rgb(255, 255, 255); line-height: 1=2E4; font-fa=
+mily: =26quot;trebuchet ms=26quot;,arial,verdana,sans-serif; font-size: 1=
+6px; font-weight: normal; -moz-background-inline-policy: -moz-initial;=22=
+><span style=3D=22color: rgb(251, 175, 24);=22>=26gt;=26gt;</span> Dear J=
+ohn,</h1>=0D=0A                        </td>=0D=0A                    </t=
+r>=0D=0A                    <tr style=3D=22color: rgb(128, 128, 128);=22>=
+=0D=0A                        <td style=3D=22margin: 0pt; padding: 0px 40=
+px 0px 73px; line-height: 1=2E4; font-family: =26quot;trebuchet ms=26quot=
+;,arial,verdana,sans-serif; font-size: 11px; vertical-align: top; backgro=
+und-color: rgb(255, 255, 255);=22>=0D=0A                        <p>=26nbs=
+p;</p>=0D=0A                        <h2 style=3D=22margin: 0pt; padding: =
+0pt 0pt 5px; line-height: 1=2E4; font-family: =26quot;georgia=26quot;; fo=
+nt-size: 15px; font-weight: normal;=22>Greetings from the University at B=
+uffalo=21 We=27re happy to learn that you=27re interested in majoring in =
+fine art=2E If you would like to find out more about this or any of our o=
+ther 100+ undergraduate degree programs, just <a title=3D=22http://www=2E=
+admissions=2Ebuffalo=2Eedu/academics/areasofstudy=2Ephp=22 href=3D=22http=
+://buffalo=2Easkadmissions=2Enet/admin/Communications/ClickThru=2Easpx?qs=
+=3Dm0QfB=252fgBsiu42Q81VhW2lcBIvpedfVkbfDdK=252bGeg7uxK8MHGyA7ytqrejInfzS=
+ojIw2gBEpuPSM=253d=22>follow this link=2E<br>=0D=0A                      =
+  </a><br>=0D=0A                        In addition to top-notch academic=
+s, UB students enjoy inspirational professors, support for undergraduate =
+research, engaging scholarly communities, a diverse learning=26nbsp;envir=
+onment and exciting campus life=2E To discover everything UB has to offer=
+, visit our <a href=3D=22http://buffalo=2Easkadmissions=2Enet/admin/Commu=
+nications/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu42Q81VhW2lZpDDdxE72AQM=252=
+fXB9DZI3aK5OseK3W6pw0tsJTRb578XD1NJ=252bvoWbgg=253d=22>Admissions website=
+</a>=2E<br>=0D=0A                        <br>=0D=0A                      =
+  </h2>=0D=0A                        <h2 style=3D=22margin: 0pt; padding:=
+ 0pt 0pt 5px; line-height: 1=2E4; font-family: =26quot;georgia=26quot;; f=
+ont-size: 15px; font-weight: normal;=22>We wish you all the best=26nbsp;i=
+n your college search=2E If you have any questions, please call us toll f=
+ree at 888-UB-ADMIT=2E</h2>=0D=0A                        <h2 style=3D=22m=
+argin: 0pt; padding: 0pt 0pt 5px; line-height: 1=2E4; font-family: =26quo=
+t;georgia=26quot;; font-size: 15px; font-weight: normal;=22>=26nbsp;</h2>=
+=0D=0A                        <h2 style=3D=22margin: 0pt; padding: 0pt 0p=
+t 5px; line-height: 1=2E4; font-family: =26quot;georgia=26quot;; font-siz=
+e: 15px; font-weight: normal;=22>Sincerely,</h2>=0D=0A                   =
+     <h2 style=3D=22margin: 0pt; padding: 0pt 0pt 5px; line-height: 1=2E4=
+; font-family: =26quot;georgia=26quot;; font-size: 15px; font-weight: nor=
+mal;=22>Jos=C3=A9 Aviles, EdD<br>=0D=0A                        <span styl=
+e=3D=22line-height: 1=2E4; color: rgb(128, 128, 128);=22>Associate Vice P=
+rovost and Director of Admissions</span></h2>=0D=0A                      =
+  <div style=3D=22margin: 0pt; padding: 0pt 0pt 5px; line-height: 1=2E4; =
+font-family: =26quot;georgia=26quot;; font-size: 15px; font-weight: norma=
+l;=22><span style=3D=22line-height: 1=2E4;=22>University at Buffalo</span=
+></div>=0D=0A                        <div style=3D=22margin: 0pt; padding=
+: 0pt 0pt 5px; line-height: 1=2E4; font-family: =26quot;georgia=26quot;; =
+font-size: 15px; font-weight: normal;=22></div>=0D=0A                    =
+    </td>=0D=0A                    </tr>=0D=0A                    <tr>=0D=
+=0A                        <td style=3D=22margin: 0pt; padding: 25px 0pt;=
+ text-align: center; color: rgb(88, 89, 91); text-transform: uppercase; l=
+ine-height: 1=2E4; font-family: =26quot;trebuchet ms=26quot;,arial,verdan=
+a,sans-serif; font-size: 10px; vertical-align: top; background-color: rgb=
+(255, 255, 255);=22>=0D=0A                        <p style=3D=22color: rg=
+b(88, 89, 91); line-height: 1=2E4; font-family: =26quot;trebuchet ms=26qu=
+ot;,arial,verdana,sans-serif; font-size: 10px; margin-top: 0pt; margin-bo=
+ttom: 15px;=22><a href=3D=22http://buffalo=2Easkadmissions=2Enet/admin/Co=
+mmunications/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu42Q81VhW2lc1gZEMbFGf=25=
+2byfC0u82GQA56dZbAbIchiFnvcqFjIt=252bzF76i37Hg5D4=253d=22 target=3D=22_bl=
+ank=22>University at Buffalo</a> =7C <a href=3D=22http://buffalo=2Easkadm=
+issions=2Enet/admin/Communications/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu4=
+2Q81VhW2lYYPzmBKs4=252bxIgAPgIMZldB45qULfsWrTCANPd59wppl2mjadI=252b3l90=25=
+3d=22 target=3D=22_blank=22></a><a href=3D=22http://buffalo=2Easkadmissio=
+ns=2Enet/admin/Communications/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu42Q81V=
+hW2lYYPzmBKs4=252bxIgAPgIMZldB45qULfsWrTCANPd59wppl2mjadI=252b3l90=253d=22=
+ target=3D=22_blank=22></a><span><a href=3D=22http://buffalo=2Easkadmissi=
+ons=2Enet/admin/Communications/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu42Q81=
+VhW2lYYPzmBKs4=252bxIgAPgIMZldB45qULfsWrTCANPd59wppl2mjadI=252b3l90=253d=22=
+></a><a href=3D=22http://buffalo=2Easkadmissions=2Enet/admin/Communicatio=
+ns/ClickThru=2Easpx?qs=3Dm0QfB=252fgBsiu42Q81VhW2lYYPzmBKs4=252bxIgAPgIMZ=
+ldB45qULfsWrTCANPd59wppl2mjadI=252b3l90=253d=22 target=3D=22_blank=22>Und=
+ergraduate Admissions</a></span> =7C 12 Capen Hall =7C Buffalo, New York =
+14260-1660</p>=0D=0A                        </td>=0D=0A                  =
+  </tr>=0D=0A                </tbody>=0D=0A            </table>=0D=0A    =
+        </td>=0D=0A        </tr>=0D=0A    </tbody>=0D=0A</table>=0D=0A<BR=
+><BR><TABLE width=3D=22100=25=22>=0D=0A<TR><TD><IMG src=3Dhttp://buffalo=2E=
+askadmissions=2Enet/admin/Communications/WebBeacon=2Easpx?qs=3Dm0QfB=252f=
+gBsiva7NIk8QYWDCaNnRwoqzsFtW3obVlL=252b2UIF8euZo7YFw=253d=253d></TD></TR>=
+<TR><TD style=3D=22FONT-SIZE: 10pt; FONT-FAMILY: Verdana=22 align=3D=22le=
+ft=22>You have requested to receive email from the University at Buffalo=2E=
+ You may unsubscribe at any time=26nbsp;<A HREF=3D=22http://buffalo=2Eask=
+admissions=2Enet/admin/Communications/OptOut=2Easpx?qs=3DBHWwb6BPaWB1tQSC=
+p63Y=252fqQ6EYTRl72Q9bhWcZRh5MES=252f2G0sA77sw=253d=253d=22>by following =
+this link=2E</A></TD></TR>=0D=0A</TABLE></BODY></HTML>
+
+--_=aspNetEmail=_4877498e8d6a48e582e25f6b5f2134f4--
+

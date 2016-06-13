@@ -1,0 +1,30 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=no/m90hbNPVKY2BPngXmiBI89rcAdYJ92KP1lLAqTJM=;
+        b=R6NCxj+Hp7pSaVwz8ktPaFc6pw8J6SZYxQOSdfmg7/W9MWACQoemNE4JlQrxADmOOX
+         C+L0ovv1VEPuIimXwEwc6SMM59OX9MqLQZykdeh1Fe4qwSdyMQ89z0kw8kImLkTU9m89
+         Sxd3Eu4h4IRL9qCje0gPTbVdWkI+ht5/480ZXS5q1Tox5nYy+8TTy0aBjrxD5Of8/jB/
+         1NZJbeHiM0GLRXUpekZdzGuEgZ07RUkVLibtoOfg1pTlsGYr1BA9cltC7cl1dVNQBkEd
+         pqDoQWI0rBS2nBC8SVi46PO0zYl+XIn/RhIu2B5kZqtHbhYOJSmx9bKnhtOp8KuRaujv
+         NGKA==
+X-Received: by 10.107.40.147 with SMTP id o141mr32426947ioo.83.1437852643086;
+        Sat, 25 Jul 2015 12:30:43 -0700 (PDT)
+Message-ID: <55B3E3DE.4070906@gmail.com>
+Date: Sat, 25 Jul 2015 15:30:38 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>, 
+ Pete Markiewicz <pete.markiewicz@gmail.com>
+Subject: story
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+https://www.newscientist.com/article/mg22730313-500-semen-has-controlling-power-over-female-genes-and-behaviour/
+-- 
+Shannon Markiewicz, Ph.D.

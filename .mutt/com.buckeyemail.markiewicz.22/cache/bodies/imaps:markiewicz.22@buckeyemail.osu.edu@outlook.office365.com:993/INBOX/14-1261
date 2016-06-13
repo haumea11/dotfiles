@@ -1,0 +1,460 @@
+Received: from BLUPR01MB389.prod.exchangelabs.com (10.141.77.16) by
+ BY2PR01MB396.prod.exchangelabs.com (10.141.140.25) with Microsoft SMTP Server
+ (TLS) id 15.1.443.7 via Mailbox Transport; Thu, 24 Mar 2016 08:00:31 +0000
+Received: from CY1PR0101CA0020.prod.exchangelabs.com (10.162.170.30) by
+ BLUPR01MB389.prod.exchangelabs.com (10.141.77.16) with Microsoft SMTP Server
+ (TLS) id 15.1.447.10; Thu, 24 Mar 2016 08:00:31 +0000
+Received: from BL2FFO11FD032.protection.gbl (2a01:111:f400:7c09::194) by
+ CY1PR0101CA0020.outlook.office365.com (2a01:111:e400:51d0::30) with Microsoft
+ SMTP Server (TLS) id 15.1.447.10 via Frontend Transport; Thu, 24 Mar 2016
+ 08:00:30 +0000
+Authentication-Results: spf=pass (sender IP is 164.107.81.216)
+ smtp.mailfrom=osu.edu; buckeyemail.osu.edu; dkim=none (message not signed)
+ header.d=none;buckeyemail.osu.edu; dmarc=bestguesspass action=none
+ header.from=osu.edu;
+Received-SPF: Pass (protection.outlook.com: domain of osu.edu designates
+ 164.107.81.216 as permitted sender) receiver=protection.outlook.com;
+ client-ip=164.107.81.216; helo=cio-tnc-pf02.osuad.osu.edu;
+Received: from cio-tnc-pf02.osuad.osu.edu (164.107.81.216) by
+ BL2FFO11FD032.mail.protection.outlook.com (10.173.160.73) with Microsoft SMTP
+ Server (TLS) id 15.1.443.6 via Frontend Transport; Thu, 24 Mar 2016 08:00:30
+ +0000
+Received: from CIO-TNC-HT06.osuad.osu.edu (localhost [127.0.0.1])
+	(using TLSv1.2 with cipher AES256-SHA256 (256/256 bits))
+	(No client certificate requested)
+	by cio-tnc-pf02.osuad.osu.edu (Postfix) with ESMTPS id 591762004D
+	for <markiewicz.22@buckeyemail.osu.edu>; Thu, 24 Mar 2016 04:00:29 -0400 (EDT)
+Received: from cssqlprd02.it.ohio-state.edu (140.254.168.4) by
+ smtp.service.osu.edu (164.107.81.254) with Microsoft SMTP Server id
+ 14.3.248.2; Thu, 24 Mar 2016 04:00:28 -0400
+From: <ssc@osu.edu>
+To: <markiewicz.22@osu.edu>
+Message-ID: <253899637.44282.1458806428920.JavaMail.psoft@cssqlprd02.it.ohio-state.edu>
+Subject: Your financial aid award has been revised. Your action is required.
+Content-Type: multipart/mixed;
+	boundary="----=_Part_44280_980141700.1458806428908"
+Date: Thu, 24 Mar 2016 04:00:28 -0400
+X-CFilter-Loop: Reflected
+Return-Path: ssc@osu.edu
+X-MS-Exchange-Organization-Network-Message-Id: 892f01b3-453f-4f86-298f-08d353ba5e63
+X-EOPAttributedMessage: 0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-Forefront-Antispam-Report: CIP:164.107.81.216;IPV:NLI;CTRY:US;EFV:NLI;SFV:NSPM;SFS:(2980300002)(438002)(252514010)(199003)(41584004)(189002)(35754003)(84326002)(15975445007)(86362001)(1220700001)(586003)(2476003)(2171001)(17760045003)(87936001)(86152002)(92566002)(86816001)(2876002)(512874002)(93346002)(90282001)(11100500001)(6806005)(106466001)(16796002)(4610100001)(75432002)(18206015028)(50986999)(81686999)(54356999)(450100001)(109096001)(19627595001)(5008740100001)(89122001)(229853001)(2351001)(19617315012)(16799955002)(189998001)(551544002)(107886002)(88552002)(110136002)(5003600100002)(19580395003)(19580405001)(15188155005)(16601075003)(85226003)(7059030)(562774006);DIR:INB;SFP:;SCL:1;SRVR:BLUPR01MB389;H:cio-tnc-pf02.osuad.osu.edu;FPR:;SPF:Pass;MLV:sfv;A:1;MX:1;LANG:en;
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11FD032;1:Y/OWNpkcI4CCz4JJFdRAzUN7SlWVvGlF1vnn14n4ZhXo1+6/VKeGwiy+2MdTgO+Bje4+kYg6c9HoCba+Fe96/IiWYnAfD7mck7L0XgMP2qxxlkJArl51CzN+UJuGq9t8gyMYNjKej+2EQaI5mED+5ASViHpBBH9gZgYit5WDS0eJCM/eNwNrs2R5brJ8/AkotUHKxFcn3Zcw15VtT+NszDknJDmrFXC9c1eenGmYJ+VZj6QshSW5wmZ20CdUIF5oUCcdMP6REYGjOQYer2+LkwroChpxfXS3grrrKilE2y7QAe76agtBxpecJaB2VOmIxXb/a30+O7H5ILtPnZEH4tvqxq1chJr6URCDuGW2hTV85uweovmQqZooty7wVIyYo0bVTYD2d3S5qCCDrS0RYxoPts6hKGDxliLJDqSPQCTEiWGnqO7tsggrTAaDrB+WHEUh4ALuaZ/+3h/GFoofc2vS96X2qQrgBW+kFh/5pmsiey1Nqv8ummA8oIeB6+ocqUmABwGlFvg0hbWuUH2HkPq498i7bAa4CRtM46z37USqf9ClzzZ4OoMQ7FYSHNJi++24YholDeD5n5jAuSE+8w==
+X-MS-Office365-Filtering-Correlation-Id: 892f01b3-453f-4f86-298f-08d353ba5e63
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;2:WLlaFeFzqaK9HxJg9OajqajS9VSpK8TB03vvkqUkkM3IHm2/7OMiEx1Qyg5mjiPnoQw/XmDIU8FMtfR5RvXxmzxTmbjdDkil5oepWnrgLmr7HS8/SYg5JnYSM5kYnoCJQOpxyrwvRGS/xMvrx65dKu+ta1siE/qEQwRMLs1M/yC59+1GbX0Tv3cvB4YasbjK;3:p9X2DR9wgnjtDknyODxjuwE5DkYC6E2Md8BKDh3YpfX7ZlkuGntzhFvOfV+CJ25fX42dnK9C1VvOJzcXvcu+tLxORZUzQb4kIFLaOPb2sAEMdAeQpVQLEvGIX3iTpvFwgyQqzzV5TaCUDe7smI46fN0+pg3M3LjIyBbVlBSfZpfDGBbhHzSogBMq1aniKXwS0U9A8nmgqNi3apycLplemQ9+ADKou8TMQsssIZrkr7gsbow+SV+u9XtGsUVhjmoN9PJ8KqHs40nIc6f4mOcsBA==
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:(8251501002);SRVR:BLUPR01MB389;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;25:TnXUTLPa2zj9XZ5y1cPbA+liU0ro6n/KqszK79qz+Jm/230w6S5uYnGWI3F2Mfa9MEJJZY5AqvhWIYsGY04Y/cCO64FJAvZ5wma0H8w3X1vrCxUVPYbIUzKQkAOLRTQ1CoZ/IvN0Xz9PWiWW4gl6ndGOsFSIvo4DdtzvZz3dd3U4jmq/JWaCFp6Br131jIJm4csQTCEtl8QDj5jGXJ5PO1dxENykovTwqirNLkaAu2Hs/h/F+UiOV/6fe54eM3ge1fP9JZoia+fxnxQ+ErO1T3yEev9d9Jg2N4X16U4mmzwy4PS3pLnAfQvq7gSTYxgA7akY1+DFZjiObf+rmBQkAj7EleDt0VsSst2VWLe1T/UQj8zC25ImP0wLflPXaDJaEN6MsdUS5szCS9FbDMCZiFapJOEWGEukzuLZgOKeEjU89WMYsOhdiEwRuSE+aDYbXb2ynwma94R2DDR98GEGTqMm/9sVo9nD2bYAKEsmcXegTowgHJPi1b6s8PMB/fp7eFvsZMdhrFjK8kda8WPJPTZuPZbeSaSl27rD8m+CyYpyufNKb/BxSzM/c7SVdlJ5URWELE2oesrDAaOrJ7le0YgJaAe0PJkVgB/ic802uXbGFSo2oToN+N4Z2cLzQZQW2im3fK8eSn8rXJhIdDcAYTwFeNzG93pnBB9iCpchyt9wG4BHP3Ta4McpQZEBo5yRxpD7i4MNIfEzGOknaojxkWwHNewtkTCnMkBoZh8UjCBg8O0pGUfCqvth1b6tq5d30HFAFwHThum4isf8WBg4oKWshEJxg2AriMDCsRDcsZ4ebY4eZxYLD5sOZ38IJP4rRT1kK5rTGCIpxcodZctbRQ0DmdMqNqip+6l/HE9c7bKWJod2qzNpVNfpLVBw+tvX
+X-MS-Exchange-Organization-AVStamp-Service: 1.0
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;20:XStteM5yHhhm+Y7pPhDrhZyqxCx1dKjsAoPRaXr7impio+siC9wyKX9Y8xJHqmKERhPqn7t9GXQW3gUEExwKBLxAEVVXA3lr5AS8C6GIlGkuZciBg4GgvRggOP7n7iIuTrH4t/JxmTC2XFe9YL9o9/Rk42ZhwGeu0y3pINeW6dV8GR/qZlvdSbpzcZhaRqSibpx01bEHmH8aFpmwdPKtcnBLpxZgpAaA5BF/S+3yTjnnBrCAarK3rxhZUJGTPfOg6jtx/Y5tY4hN/pYFjOvBEVCdDdX6WcdsyEGUd9Yv0sZdJZZsdXzUm7w70Bx8hivo7+tiAsruoifbToSp0iAp5jwFk2HDnh3khvm8vfkb56Yu1vaU6ypnfCwjkcxViwbLz5nutfZ15tskKKbFhCSsBVsumbg+Dy0eye2KgLHN6vK8+mVbnQsQdq2aPcbIaUvVtMKsKHpio8JPpJu15BvA+rJ66sO86OZRj8GVgHJ9WPItu6QZMDTZcjQO0I45Auun
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(102415293)(102615271)(2401047)(13017025)(13023025)(13018025)(13024025)(13015025)(8121501046)(10201501046)(3002001);SRVR:BLUPR01MB389;BCL:0;PCL:0;RULEID:;SRVR:BLUPR01MB389;
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;4:bQ3WPnHcvdSU7atdMKy2+5IxoQ7/CurysPLLnITUHD4Y5hZG4nz9zlKHvrPTe8xeSOnw7Gc+jIP7KKthublHy8UTXzEJNfpRqisNp/cRuqpV/Ftvm03dft3NMacCVkEHeuO+g/r0Bipoh77FjctOkeyLfVADjHwLN00EParZMTOHoR6DGNUQ41VvjFBH3AHINComlC6CyjzB7jdoCEP2TNI5mx8g9SybFW+spseulNPL2g1SWu3b55LW4/qcZ2iIhhNdrAodVy7xp4HLlRbjRPCRMZsbbgE4OBqAA040xHJJd8OXXQdOWLw2x5WJYT2PMgTOCrnl3BNiMeckYnr+YucDxbLeLl1Wea4kBiQBKEG1tBeJXj5aJIhX0vultXS3ICsy76hh0YQrZME7LL02hUFedNVdJPBQZzThNVUfdRcqOi5i8GFfd8x5DznDM1xo+hmw/rYx33WySDErivRWcJtQ6OMg4pig/kAViERugCs=
+X-MS-Exchange-Organization-SCL: 1
+X-Microsoft-Exchange-Diagnostics: =?us-ascii?Q?1;BLUPR01MB389;23:BEB1ib0QOAZwBpdgijKPNF8pPVfZqGJZN37RHUV7gL?=
+ =?us-ascii?Q?wBm+7GRLoPNVEYQDnAOpe7OBLeVnuasjLR12n7i2MD+9YNSJson14mWLNLM7?=
+ =?us-ascii?Q?4P/OepBBjEEY8fSAFeRt4M08Puxa/94XWHt+A9LHuzCSExbb8ToZ9wO3o2SJ?=
+ =?us-ascii?Q?pC4QFiMiEcQfr1D3OFDmh2AHeUig7Qi/fFnyCmAPnXgNv3fEclmfVPG2vKcH?=
+ =?us-ascii?Q?ZPnt0DctV4vInLsq4Wsy39BRWsGpUCzU4FfP90ebtw5FLvot4JX78bFqRiZC?=
+ =?us-ascii?Q?ynAeXBY9ZRM/yrywOwklEY5VnRn46304PzpyZZwbUwnX8sD+OPxZqfFKv4AT?=
+ =?us-ascii?Q?dnqbbihevdSbPlttpt/Zrhm7XULJqumozRUGvQHJ2geaCLGlHHi+Sfz8XfTv?=
+ =?us-ascii?Q?QnqP5ByVROESSJlsxBFUUcVzudo3E/UFlX+PZE2tpCOWgxbFu8sFzZclgjfG?=
+ =?us-ascii?Q?OEc5L7ZPmRjNVJx+g/HMOWxAQpKp7kfdiRkDePxiInMB4qHftkhRvcqvf8ZR?=
+ =?us-ascii?Q?0tkIBV1epII9xgPYVi996QvXnUfbnvF2FoEQG3XReYz5rpYSToEcMzOPXAYb?=
+ =?us-ascii?Q?+TfeKz3w9B7wgPjZtZYgfc7J/hUZsyXnYd3vtvALJR8M2ZBPWUujwhXKT6OM?=
+ =?us-ascii?Q?MF2aJUyKbpJSVWUI6DfPYm4vtLYisvIbRjXJwG5dYkkBFC0a3xzDTf8uFo+u?=
+ =?us-ascii?Q?04Yo6H5Xo2JfBTmBhajrouU0i+6HUF5mR3+N45zpYymJnXf7R3avB3Zig1Ju?=
+ =?us-ascii?Q?oSI9BojerPFSBRx+bDRRWoouqHDz+HIHWKquwBUzOEQD8ppi9RjpEPr37jxE?=
+ =?us-ascii?Q?JSpyTK7YD0EXfODyFAyQhxeQ7To02dF6ZhN5LwDpN5tr4r/LTJV3pt6Cq44T?=
+ =?us-ascii?Q?x5tzccr6aBbYHTMc1wP5EWZ5UrqR3UgE3FpzQt1uV+DupMOvIoTVaaFehcB6?=
+ =?us-ascii?Q?CczmAjlGErrRGbhnnhMzbeUIESphKMQHiGK/ewIOEpy52Ib/2JbRs0y3AJie?=
+ =?us-ascii?Q?bx3ppFgxs/Maw9TwJEp8dtpbBfaZjzuoS1RAp45CdjbPF2h3nAkA5eM0F/qY?=
+ =?us-ascii?Q?ue+Qhpgu7kB2nCYglLoj7GwghRvqKYgG0uf53p+AIpT/C5qP8YP33rX/Upju?=
+ =?us-ascii?Q?fivlwzlIW95+hUVG07RiC4m2OvMJyrvEyXiUmD1nkG/Nzs5e8/Hd6jqFdb4Y?=
+ =?us-ascii?Q?kLHyuaBrapykpvUZCPUIxMhwFt3Qy1N8V1Zvv8d1EffHksZX94rQS9yf1EMg?=
+ =?us-ascii?Q?vmtr9UgYYSqmGLqtnYoA3i8U3Lysq1FLpbsaLoT3Ba2jd2GuoVgIjDIUl5aP?=
+ =?us-ascii?Q?uLWlVjWnrSEqlEKi63/ezI6/KiGaTfOlxrjeye+aRMuEAMD0NG49b3LAD1oe?=
+ =?us-ascii?Q?NI1evnkaAaNMyH0G71Q6lLmW+JC8KxhkI9DPzsjJiSLZDAHLKZdDXFRHgV1f?=
+ =?us-ascii?Q?0tlLn1XQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics: 1;BLUPR01MB389;5:fIdrn0GZwi9ech+Rq+kflS2+dDmDbxUwm2OA045DNKTtxcU1YiIUW8YE7rS4PMQzMUukabk2Leprve69yJGEids0lcn/7q1DYz4SauW/H8lsprITMgppfEoDra4PQ3WTSgP+5gY1VPrX7OS4oNBF1w==;24:GkG1NgWr15XO/T+3Ot2G2dLIhIX55r2/tLMc7CTleMPxkEjypOed4MukHOwX1SvOLj9bHqre5mkJ54uMVHvGSlQDXntEAVaH6CtBKLBZqVs=;20:1cZI5z1olLefpxyM8x9XFgNJuYhBFH65iLDvaVGDMFMEj1zmXurP02YRd2SXr1C9iM7/QP/WcJAJwVErPZNxuQikxR/K7aTMIo4sFG8sFz4Ghwg+WlRb3liQy6tBviYFLCmFyquZS2OHHFnGYxhAJghmBrCQOHmzKuTI+VqZn/c=
+SpamDiagnosticOutput: 1:23
+SpamDiagnosticMetadata: NSPM
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 24 Mar 2016 08:00:30.0703
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: eb095636-1052-4895-952b-1ff9df1d1121
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=eb095636-1052-4895-952b-1ff9df1d1121;Ip=[164.107.81.216];Helo=[cio-tnc-pf02.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLUPR01MB389
+X-MS-Exchange-Organization-AuthSource: BL2FFO11FD032.protection.gbl
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-OriginatorOrg: osu.edu
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:02.1364687
+Importance: high
+X-Priority: 1
+MIME-Version: 1.0
+
+------=_Part_44280_980141700.1458806428908
+Content-Type: multipart/related;
+	boundary="----=_Part_44281_2041979410.1458806428908"
+
+------=_Part_44281_2041979410.1458806428908
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<?xml version=3D"1.0" encoding=3D"UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DT=
+D XHTML 1.0 Strict//EN"    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.d=
+td"><html xmlns=3D"http://www.w3.org/1999/xhtml"><!-- Generated by Oracle B=
+I Publisher 11.1.1.7.140225 --><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><t=
+itle>RTF Template</title><style type=3D"text/css" id=3D"internalStyle">.c0 =
+{margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 6.0pt;margin-right: 6.=
+0pt;}.c1 {line-height: 13.8pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin=
+-left: 6.0pt;margin-right: 6.0pt;}.c2 {height: 433.35pt;}.c3 {word-wrap:bre=
+ak-word;border-bottom-width: 0.5pt;border-bottom-color: #000000;border-bott=
+om-style: solid;border-right-width: 0.5pt;border-right-color: #000000;borde=
+r-right-style: solid;width:72.058%;background-color: #ffffff;}.c4 {line-hei=
+ght: 15.606pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;mar=
+gin-right: 5.399pt;}.c5 {font-family: 'Arial';font-size: 13.5pt;color: #bb0=
+000;}.c6 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;margin-=
+right: 5.399pt;}.c7 {line-height: 12.138pt;margin-top: 0.0pt;margin-bottom:=
+ 0.0pt;margin-left: 5.4pt;margin-right: 5.399pt;}.c8 {font-family: 'Arial';=
+font-size: 10.0pt;color: #262626;}.c9 {font-family: 'Arial';font-size: 10.0=
+pt;color: #000000;}.c10 {font-family: 'Garamond';font-size: 10.5pt;color: #=
+000000;}.c11 {font-family: 'Arial';font-size: 10.0pt;color: #bb0000;}.c12 {=
+line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.=
+4pt;margin-right: 5.399pt;}.c13 {height: 21.56pt;}.c14 {word-wrap:break-wor=
+d;width:5.202%;background-color: #ffffff;}.c15 {line-height: 11.56pt;margin=
+-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.4pt;}.c16 {word-wrap:break-=
+word;width:94.797%;background-color: #ffffff;}.c17 {line-height: 11.56pt;ma=
+rgin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;}.c18 {font-famil=
+y: 'Arial';font-size: 10.0pt;color: #bb0000;text-decoration: underline;}.c1=
+9 {margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;}.c20 {heigh=
+t: 43.12pt;}.c21 {height: 11.56pt;}.c22 {margin-top: 0.0pt;margin-bottom: 0=
+.0pt;table-layout:fixed;margin-left: 18.0pt;margin-right: auto;width: 346.0=
+pt;border-collapse: collapse;}.c23 {word-wrap:break-word;border-bottom-widt=
+h: 0.5pt;border-bottom-color: #000000;border-bottom-style: solid;border-lef=
+t-width: 0.5pt;border-left-color: #000000;border-left-style: solid;width:27=
+.941%;background-color: #ffffff;}.c24 {line-height: 11.56pt;margin-top: 0.0=
+pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.399pt;}.c25 {m=
+argin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 5.399pt;margin-right: 5.=
+399pt;}.c26 {line-height: 11.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;ma=
+rgin-left: 9.0pt;margin-right: 5.399pt;}.c27 {margin-top: 0.0pt;margin-bott=
+om: 0.0pt;margin-left: 9.0pt;margin-right: 5.399pt;}.c28 {font-family: 'Cou=
+rier';font-size: 10.0pt;color: #000000;}.c29 {height: 51.81pt;}.c30 {word-w=
+rap:break-word;border-top-width: 0.5pt;border-top-color: #000000;border-top=
+-style: solid;width:72.058%;background-color: #ffffff;}.c31 {line-height: 1=
+1.56pt;margin-top: 0.0pt;margin-bottom: 0.0pt;margin-left: 10.8pt;margin-ri=
+ght: 10.799pt;}.c32 {word-wrap:break-word;border-top-width: 0.5pt;border-to=
+p-color: #000000;border-top-style: solid;width:27.941%;background-color: #f=
+fffff;}.c33 {margin-top: 0.0pt;margin-bottom: 0.0pt;table-layout:fixed;marg=
+in-left: 0.6pt;margin-right: auto;width: 550.8pt;border-collapse: collapse;=
+}</style></head><body><p class=3D"c0"><img src=3D"cid:xdoimgeUS4um2Luu30008=
+34554383161558jpg" style=3D"width:495.0pt;height:57.42pt;" alt=3D"An Image"=
+><br></p><p class=3D"c1"><br></p><table class=3D"c33"><col width=3D"72.058%=
+"><col width=3D"27.941%"><tr class=3D"c2"><td valign=3D"top" class=3D"c3"><=
+p class=3D"c4"><span class=3D"c5">Your financial aid award has been </span>=
+<span class=3D"c5"><b>revised</b></span><span class=3D"c5">. Your action is=
+ required.</span></p><p class=3D"c6"><br></p><p class=3D"c7"><span class=3D=
+"c8">Dear </span><span class=3D"c9">John</span><span class=3D"c10"> </span>=
+<span class=3D"c9">Markiewicz</span><span class=3D"c8">:</span></p><p class=
+=3D"c6"><br></p><p class=3D"c7"><span class=3D"c8">Your financial aid award=
+ for </span><span class=3D"c9">2016</span><span class=3D"c10">-</span><span=
+ class=3D"c9">2017</span><span class=3D"c8"> has been revised. </span><span=
+ class=3D"c11">Please review your award(s) to learn the reason for the chan=
+ge and to determine if you are required to complete additional steps to rec=
+eive your aid.</span><span class=3D"c8"> </span></p><p class=3D"c6"><br></p=
+><p class=3D"c12"><span class=3D"c8">Be aware that if your aid has been red=
+uced, you may be required to repay aid already disbursed to you. Any change=
+s in your balance due will be reflected on your </span><span class=3D"c8"><=
+b>Statement of Account</b></span><span class=3D"c8">.</span></p><p class=3D=
+"c6"><br></p><p class=3D"c12"><span class=3D"c8"><b>To review changes:</b><=
+/span></p><p class=3D"c6"><br></p><table class=3D"c22"><col width=3D"5.202%=
+"><col width=3D"94.797%"><tr class=3D"c13"><td valign=3D"top" class=3D"c14"=
+><p class=3D"c15"><span class=3D"c9">1.</span></p></td><td valign=3D"top" c=
+lass=3D"c16"><p class=3D"c17"><span class=3D"c8">Go to </span><a href=3D"ht=
+tp://www.buckeyelink.osu.edu"><span class=3D"c18">buckeyelink.osu.edu</span=
+></a><span class=3D"c8">. </span></p><p class=3D"c19"><br></p></td></tr><tr=
+ class=3D"c20"><td valign=3D"top" class=3D"c14"><p class=3D"c15"><span clas=
+s=3D"c9">2.</span></p></td><td valign=3D"top" class=3D"c16"><p class=3D"c17=
+"><span class=3D"c8"><b>Newly enrolled (incoming) students</b></span><span =
+class=3D"c8">: Click the Future Students tab at the top of the Buckeye Link=
+ page. Under the </span><span class=3D"c8"><b>Getting Started</b></span><sp=
+an class=3D"c8"> section, click Financial Aid Status.</span></p><p class=3D=
+"c19"><br></p><p class=3D"c17"><span class=3D"c8"><b>Continuing Students</b=
+></span><span class=3D"c8">: Under the </span><span class=3D"c8"><b>Account=
+s and Financial Aid</b></span><span class=3D"c8"> section on the Buckeye Li=
+nk page, click Financial Aid Status.</span></p><p class=3D"c19"><br></p></t=
+d></tr><tr class=3D"c13"><td valign=3D"top" class=3D"c14"><p class=3D"c15">=
+<span class=3D"c9">3.</span></p></td><td valign=3D"top" class=3D"c16"><p cl=
+ass=3D"c17"><span class=3D"c8">Log in to self-service using your Ohio State=
+ Username (lastname.#) and password.</span></p><p class=3D"c19"><br></p></t=
+d></tr><tr class=3D"c21"><td valign=3D"top" class=3D"c14"><p class=3D"c15">=
+<span class=3D"c9">4.</span></p></td><td valign=3D"top" class=3D"c16"><p cl=
+ass=3D"c17"><span class=3D"c8">Click on the appropriate aid year, and then =
+select the </span><span class=3D"c8"><b>Award Summary</b></span><span class=
+=3D"c8"> tab.</span></p></td></tr></table><p class=3D"c6"><br></p><p class=
+=3D"c12"><span class=3D"c8">Please keep this e-mail for your records and, i=
+f you are a dependent student, be sure to share it with your parents.</span=
+></p><p class=3D"c6"><br></p><p class=3D"c12"><span class=3D"c8"><i>Thank y=
+ou.</i></span></p><p class=3D"c6"><br></p></td><td valign=3D"top" class=3D"=
+c23"><p class=3D"c24"><span class=3D"c9">Have questions? </span></p><p clas=
+s=3D"c24"><span class=3D"c9">We're here to help. </span></p><p class=3D"c25=
+"><img src=3D"cid:xdoimgxiZcTZAaAA775443037632036834jpg" style=3D"width:139=
+.177pt;height:0.75pt;" alt=3D"An Image"><br></p><p class=3D"c25"><br></p><p=
+ class=3D"c24"><span class=3D"c9"><b>Columbus campus students: </b></span><=
+/p><p class=3D"c25"><br></p><p class=3D"c24"><span class=3D"c11"><b>Student=
+ Service Center (SSC)</b></span></p><p class=3D"c24"><span class=3D"c9">E-m=
+ail: </span><a href=3D"mailto:ssc@osu.edu"><span class=3D"c18">ssc@osu.edu<=
+/span></a></p><p class=3D"c24"><span class=3D"c9">Phone: (614) 292-0300</sp=
+an></p><p class=3D"c24"><span class=3D"c9">Toll-free: (800) 678-6440</span>=
+</p><p class=3D"c24"><span class=3D"c9">Fax: (614) 292-5587</span></p><p cl=
+ass=3D"c24"><span class=3D"c9">Web: </span><a href=3D"http://ssc.osu.edu"><=
+span class=3D"c18">ssc.osu.edu</span></a></p><p class=3D"c25"><br></p><p cl=
+ass=3D"c24"><span class=3D"c11">Walk in</span><span class=3D"c9"> </span></=
+p><p class=3D"c24"><span class=3D"c9">Lobby, SAS Building </span></p><p cla=
+ss=3D"c24"><span class=3D"c9">281 W. Lane Ave. [</span><a href=3D"http://ww=
+w.osu.edu/map/building.php?building=3D160"><span class=3D"c18">map</span></=
+a><span class=3D"c9">]</span></p><p class=3D"c25"><br></p><p class=3D"c24">=
+<span class=3D"c11">SSC hours</span><span class=3D"c9"> </span></p><p class=
+=3D"c24"><span class=3D"c9">M thru Th: 9 to 5</span></p><p class=3D"c24"><s=
+pan class=3D"c9">F: 9 to 4 </span></p><p class=3D"c25"><img src=3D"cid:xdoi=
+mgj7KvTwR50B6529231907451693461jpg" style=3D"width:139.177pt;height:0.75pt;=
+" alt=3D"An Image"><br></p><p class=3D"c25"><br></p><p class=3D"c24"><span =
+class=3D"c9"><b>Regional campus/ATI students:</b></span></p><p class=3D"c24=
+"><span class=3D"c9">Contact the financial aid office on your campus.</span=
+></p><p class=3D"c25"><br></p><p class=3D"c24"><span class=3D"c9">ATI: (330=
+) 287-1214</span></p><p class=3D"c24"><span class=3D"c9">Lima: (419) 995-81=
+47</span></p><p class=3D"c24"><span class=3D"c9">Mansfield: (419) 755-4317<=
+/span></p><p class=3D"c24"><span class=3D"c9">Marion: (740) 725-6389</span>=
+</p><p class=3D"c24"><span class=3D"c9">Newark: (740) 366-9364 </span></p><=
+p class=3D"c25"><br></p><p class=3D"c25"><img src=3D"cid:xdoimgHAj4R91Wvz70=
+49924719598078459jpg" style=3D"width:139.177pt;height:0.75pt;" alt=3D"An Im=
+age"><br></p><p class=3D"c25"><br></p><p class=3D"c26"><span class=3D"c9"><=
+b>Other helpful resources</b></span></p><p class=3D"c27"><br></p><p class=
+=3D"c26"><span class=3D"c9">Applying for and keeping financial aid:</span><=
+span class=3D"c28"> </span><a href=3D"http://www.sfa.osu.edu"><span class=
+=3D"c18">sfa.osu.edu</span></a></p></td></tr><tr class=3D"c29"><td valign=
+=3D"top" class=3D"c30"><p class=3D"c31"><span class=3D"c9">The Ohio State U=
+niversity | Enrollment Services | Columbus | OH | 43210</span></p><p class=
+=3D"c6"><br></p></td><td valign=3D"top" class=3D"c32"><p class=3D"c25"><br>=
+</p><p class=3D"c25"><br></p><p class=3D"c25"><br></p><p class=3D"c24"><spa=
+n class=3D"c9">CODE: FAR-Revised</span></p><p class=3D"c25"><br></p></td></=
+tr></table><p class=3D"c0"><a name=3D"page-total-master0" id=3D"page-total-=
+master0"></a><a name=3D"page-total" id=3D"page-total"></a><br></p></body></=
+html>=
+
+------=_Part_44281_2041979410.1458806428908
+Content-Type: image/jpeg; name="xdoimgj7KvTwR50B6529231907451693461.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgj7KvTwR50B6529231907451693461jpg>
+Content-Disposition: inline;
+	filename="xdoimgj7KvTwR50B6529231907451693461.jpg"
+Content-Description: xdoimgj7KvTwR50B6529231907451693461.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44281_2041979410.1458806428908
+Content-Type: image/jpeg; name="xdoimgeUS4um2Luu3000834554383161558.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgeUS4um2Luu3000834554383161558jpg>
+Content-Disposition: inline;
+	filename="xdoimgeUS4um2Luu3000834554383161558.jpg"
+Content-Description: xdoimgeUS4um2Luu3000834554383161558.jpg
+
+/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAICAgICAgICAgICAgICAgMCAgICAwMDAwMDAwMEAwMD
+AwMDBAQEBAUEBAQFBQYGBQUHBwcHBwcHBwcHBwcHBwf/2wBDAQICAgMDAwUEBAUHBgUGBwgICAgI
+CAgHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwf/wAARCABXAu4DAREA
+AhEBAxEB/8QAHQABAAIDAQEBAQAAAAAAAAAAAAYHBAUIAwIBCf/EAE0QAAAGAQMCAggCAwkNCQAA
+AAABAgMEBQYHERITIRQWCBUiMUFXlNUjUTI3tRcYMzQ2YXV2gSQlJjVydJGWsbK0ttRCQ1VWZnGC
+ktL/xAAdAQEAAgMBAQEBAAAAAAAAAAAABgcFCAkEAQMC/8QARhEBAAECAwUDBQoKCwAAAAAAAAEC
+AwQFEQYSITFBByJRCDZCcbITFBY0UnJ0kbGzGCMzYYGSocHR4iQyU1RVk6LC4ePw/9oADAMBAAIR
+AxEAPwCDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACTZVd0OitE3OySuhX2pV/BJ3GsJsUk5GpYUhHsXWQM
+H73XEHvFiLL3GTzxbcEniM2zajB0eNc8o/fP5vtWf2admeM2qxfW3g7c/jLun+ij5Vc/VTHGekTS
+P75TKv8Aynpz/q1U/wDTiM/CnEfJpbB/g2ZL/erv1Q9GfSXyZLrS3cP04eaS4lTjJ45Vp6iSPdSO
+SGCUXIu25d/yH2Nqb+vGil+d7ya8om3VFGLuxVpOkzTExE9JmNY1jXpqux1vH8tx8s/wLn6hU4hn
+IcfWs3ZeNTnexR3zMzW5DeWe0aQe/wAGnT6nFbszwmLt4m1Fy3PD9sT4S1Q2n2ZzDIMwrwONo3bl
+PKfRrp6V0T1pn64nWJiKomEXHpYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATPAHfD5
+PHmpajuvVlXcW8MpTTb7SZdfTTJsN1TLpKbc6T7SF7LIyMy7kZAOEbC0vMwvHbS2mSrnIchnJdkz
+JbhuPypctZfpOLP3qWv4mKju3Ll+7M1TrVVP/EOn2UYTAZJk1um1RFrD2bO9OnSIp3q6p6zM8Zme
+cy6wP0etOMbjwK7O80y9GWqr4864g4pVV8yDCVLaTJZi+InTIi1uJZWg18UGkjPblyJSUzG1srZ3
+I366t7rppp+jg1SzXyks5qxdz3nh7NOH17kXIqqubvjXNNyKdZ56RGkctZ03phGf6M4nW4vOynT/
+ACa8tm6Fxn1/V5VBiQJRR5KyaZlwvByZTbqEOGSHOS0qI1J2SZHuXjzPZyizYm5aqmd3jMTpy/Np
+EJd2c9vWMzXOLeAzOzbp98VRRartRVGlyeUVxVVV3auWsabs89Ymd3W+jDZzo2tWD1DMlxNXlFsn
+H8hr992LCulIWmRDktH7K0OF2P4l7yMj7jHbPX66MZRTE8KuEx48JlOe3jJcFi9lb+Ju24m9ht2q
+3X6VM1V001Rr8mYnjTymdJ5xC11lstRF7iUZF/pFkNB1w4BpPCzang2k3P8AG8Set8tdw6krLhmw
+ekT5rTFc6Zs+DZdSlJnZMo3WZbHvv2ASHM9BWcQRlcVGpGK32S4fFbmW2K1kezKaTbkyJC9lbrCW
+TMnJrPYl7nv2AUWqntkLbaXV2KXHuRMtqjPEpfAuS+CTTuriXc9vcAep7bqmz6rsesTZPG14Z7mT
+ZnxJfHjvsZltuA+ZFXZxG+tKrp0Zrck9WQw62jc/cXJaSIBJtP8AAMi1LyWLi2MMMuT32XZb8iWv
+pRYkVgt35ct7ZXTbRuRb7GZqNKSI1KIjC0z0BRbx75Gn+pGH6hX2MwXbK2xumRPjzFxo5kmQ7Wrl
+MpanE2oyL8JXfctt1KSkwoVFZZOR/Ft185yLwU54lDDptcUb81dQk8dk7Hue/bYB9KqbVCEOLrLB
+LbikJbWqO8SVG4ezZJM07Ga9+35gPOTXz4SUqmQZkRK1cUKksuNEZl7yI1kW4D2l09vAYZlTqqxh
+xZH8Xky4zzTTvx/DccSSVf2GA+amqn3lpW0tVGVMs7eexWV0RBpJT0mS6llhojWZJLktRFuZkX5g
+L3tNCK2tk2uPp1ZwiXnFJCnSbDE2mbYtnq2I7MnQmrLwvhlvNoYcLiZluouPYwFFN01w6hDrVVZO
+NuJJbbjcZ5SVJPuRpUSdjIwGM7ElsPFGfiyGZCuJJjutrQ4fL9HZCiJXf4AHhJfifB+FkeL5cPC9
+NfW5e/j09uW/9gDLOjukkZnUWhEkt1GcV/YiL3mfsAPxFLcOoQ43U2TjbiCcbWiK8pKkqLdKkmSd
+jIy+IDBeYejOqZkMusPI/TaeSpC07luW6VbGXYBc+R6PxMf01ptSiz6gsoWQqKNS1MaHaIlyZbbi
+W50Xd1hLbZxPbNSnFElXH2DUak7hrpWl8RnTWu1Fj5pUTvWlkVFDxqNCtPHrtUE05Kg8zY6PJhh4
+nTXy4KL2UGajIgFYnXWCZKYaoMxMtZckRTZcJ5Rdz3JvbkfuP4APX1Pbm4pkquxN1CEuKa8M9zJC
+jMkqNPHciMyPY/5gBFPbu8ybqrFw23DZcJEZ5XFwtjNCtk9lFuXYB5NVti+ycliBNejp5cn2mXFt
+lwLde60pNPsl7wGQVHdKLcqe0MjLcjKK/wDH/wCADzbqLV7qdGssHek6bDvTjvK4OJ/SbVsnsot+
+5H3AYj8eRFcNmSw9HeTtyafQptZb9y3SoiMBmOU9uzCRZPVVk1XO7dOe5GeTGXv2Li+aeB7/AMxg
+PlVVaIZ8Qutnoj8Uq66o7pN7LMiQfM07bKMy2/MB6+orv/wa1+kf/wDwA8009spKlpq7FSEKWha0
+xnjJKmzNLhGfHsaTIyP8gHmqtsUR/GLgTURDSlfilMOE1xV2SrqGnjse/buAwgAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEvwj/Hj/8AVnJf+XLA
+JIcJ4v8Aygxj+m6r/i2RUWH/AC9Hz6fah05zzzcxP0O59xL+gurn8v7r/Nqr9jwxbrmMrq4/Vxqb
+/QEL9swxj82+JXvmT9ibdmnnblP0uz7cKZ9Gj9fmlP8AW6N/urEByL4/a9c+zLdbtr8zMf6qPvba
+5nP4Rf8Aln/tFnOeabaYfrK06L/13QftWOAsD0jJUmFr5n8yHIfiS4uQsSY0qMtTbrTrUWM40624
+gyUlSFpJSTI9yMtyAdSZlOhTcz9HizutX7/Hr9rCcPmxKNEC2nKnyLIyZmSFWEeQhttdkRnHfNW5
+qT+nyI9gGFjeR5A56csyA5d2y4LljcUzkNcp82FQI1BMmx4SmjVxNlqT+MhG3FK/aIuXcBRmrmZS
+pOLOVETVe61NjXGUTvXLF01LYKoKs8K5XJiwpjjjjXNUp9Jv78HST00kRtKMwzfRdJ5392yNB3O2
+f0WvCgIb/hVe2ySibIva35KR7vjsA1/ogtS168Ys7HS6ceLX3T9ktG/BuN6oktEt8y7EjrraL2u3
+I0/HYBaGE2UWd6PmrddNzu1w/FmNSiqqyfGZn2DUWsmGTq65mFFdQpLEvrK6iUnxPkZqI9zAajWu
+/n1+h2gDWP5/e5HXqm5I6jIDOdXOTXKq1aKvWuM86p5J1qt2Y5rUZoJBGjjuQC4JKTzDXb0dKXKp
+Em+qS0ggZYdVaPuPx5NwirnP+MdZcM0uOqWw24ozIzVwLluW5AKo0b1BzLVHLNTsT1At5uSY1e4T
+kFnOp7c+tFrpEPh4WTAbcLaEcc1cU9LiRHsrbmlJkHImJz7mqynHbTHWFSr6tvIU+ljoaN9Ts2PJ
+Q7FbJhPdzk4lJcS9/uAdiwi0Y9Jm2tmYeO3mnOrtnWz7lMuDJ8VS2M5hg331ySV3T1DJRq4tNmZb
+ma1L94Yuheqee21RqxGfyOxjw8O0EmN43AhvONRq96mix4cSZHa5GSH+KOSnC7mpRn+REEC0lk5Z
+qZqEec3S2cgtdN8SVbxX7mS2wVjaQSU1jcedNmOttmtU51pSjW4nk0yr3q94TP0gvMeH5dp9rbWt
+Q6vIcxxVTV0qA6xKYhZNEr/Vli5HehOuNcktPNrZMnFe2g1HuZGQDZ53q3qHSaLejzkcbKrZ+xuf
+NnmA5kh11FuiJZNxmWbMuRHIQllSkbKP3H+fcBucMySWfo9acnc6uZLp6weosqjTcQSnynXILLHT
+aqydYdR4Zlpvug1bto2L2diAcYZ3kVnleWW95cSPFz5K2Iy5Z7mp9qFFagxn3Fnv1FuMMIWtf/bU
+Zq+IC885Sf71vRZRd0ll2SEpRe4jN93ZJn8DPYwEUkWrtXoFg6ocqVBtkawX9rWyopracaOFT1BG
++0+gyNC23HW+Jke+/u9wDq7OyPVW1VCxNyXVa5aP01BaVc2JKU1Pyejn0kKfPZRKLpuFIjuzFGlK
+ln+mZf8AfrNAR7BMmyN7007+vev7l2C9kOQVDsN2Y+plcGCxOehQzbUrj0Y7hmttG3FJ7mRdwFY+
+jLqRkMvOLfCb3Lb5ETVSqs6tdmufIORFv5kX+5rdlw17lLUbZNE5+kZmjv7JAI9czsx0l0dYwiTa
+3VJfZ1ltlNs6ZuY614OkpScqFtGylRcUWs9b/JSezqIpb8kgOh05O87pp6O67/WrKNP3LWqvSkqh
+LmG5dlFnMtNJk2iXOnF8Kng2lb6VJJK/5gEG9HvNMiyA/SKsLjKZ2MFZ4Vc5VOnwjmJj1NnLUo5N
+zHhRlG4l1kvaI2vxNkkRH2IBh6+zPDR/R1gzVztT5jFaq+Vm62F/4URJtjHWzUskvm++tpttKFJf
+I3E9VHbk4sgE8zi6l6k0+pOUaW6ryberThc97LNHMxalRPU9WzGSmU7VxiUmMTsTp7oMkGRK7G4o
+1ESgrvJMvySL6LOkNgu3sJqk6gS2JEedJfdYlxax6Q9CgzG+ZdaOyqO3xbV2TxLjtsWwbFjVvUub
+6N+S5i7muQJyL92KPFRZMynG3GortcmQuEwaDLpR+oe/SRsn4bbdgEe0N1hvshzfJMCy2ztVY3rV
+NtYUlupfdaOlt76Q++UyoI1K8Ok35CkqT3IyNKl8+GxhCNbM0sK52PorQ5BdycM01bcxeb4mQ8gr
+m2jSedlKlR+WxNR5TfQisma0tIa5IMjcUA53AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS/CP8eP/wBWcl/5csAkhwni/wDKDGP6cqv+LZFRYf8A
+L0fPp9qHTnO/NzE/Q7n3Ev6C6ufy/uv82qv2PDFuuYyurj9XGpn9AQf2zDGPzb4le+ZP2Jv2aedu
+U/S7Xtwpr0aP1+aU/wBbov8AurEByL4/a9c+zLdXtr8zMw9VH3ttcrn8Iv8Ayz/2iznPNI8PyiTh
+mQ12SQq6ntJtU8UqFHvGFSYqJCD5Mv8ASQ40fNlZEtB8uxl3I/cAkObal2efZXEzC8ocVbtGXmX5
+7VdBcYjWi2XSc3s2uupT3NKSaXspJmjt7+4CUXGu+Q3t9h+Qz8UwA5uDRkwqNtqqeSwUZhvhBjvt
++KPmiCr8SOW5cF9+5dgGRH9ILKouoT2p7GOYM3lr8M4ypaax/ppdWTiHpyW/FblIeZdUyte/dHbb
+fuAjeTarTskpp9IjD8Axtm0ksSbGXi1SqDKkHGcU62h105DhGnmrkZce57fkAiWIZhkWB5BAyfFr
+Fysua5SjYkISlaVIcSaHWnmnCUhxC0mZGlRGX9pEYC05/pCZY5V3lbj+PYLgzmUNKYyO2wyo8BPn
+tL36jSpCnnekhZH3JkkfE/eZgI9V6v3VTp7P01Yx3DX6C06rs+TLr3V2D0pZr6M5UkpCS68YlETK
+uHsklPY++4ZNzrPc3uL4vh8/FcF9S4fJRJpGmax9C2/x0yJjal+K7onuJ3kkRFz3PY0gMnI9eMzy
+G2xC+RCxrHrvBiZZx21xyAqM+zFjp4R4K+s8+hyO2k1ETak7GSlEe5GZAMu49ILMLKtyCBX0eD4n
+Jy2McPKbvEqcoFnasL36zUmSbrhJJ8zM3OkhHLc9/eAqChu7DGruoyGpdSxaUdlHtq55aEuJRJiu
+peZUptZGlREtJdjLYwFzOekLkzEC0jY7iGmuFz7qG/X2eQYjQNwrNyPJTxfbbkqddJnmR9+klJ77
+GWxkQCMafat3OnFfd19Pj+IWKcijPV9vKvoDsqRIgSEIS9XKWiQ0Xh1dMlGjj7zPuAxI2p1jEwm6
+wOPjeHt1V/LKdYTigO+sVPNPOPRFpk+I2LwnWW2z7B8UKMu+5mA2LmsV27p0zpg5juGrxyOo5Ed5
+Ve8c5qapBtqsm5JydkyVJMyNZI27n7IBlWsN1l2HU2Dz8cwyFT46RlROVVc8xKg9RxLsrw7ypKyL
+xS0kb3s+0f5ANvC13uYmK0+GO4NplZ4/SLKTEh2tK7I5S+j0HZz28siW+8nfmrbuZ+4uwCsctyeb
+mN9LyCfErYEiUxDilCp2DjQmGIEJmvisx2DUvglDDCE7cjATbDdY8kxDH5OIPVmM5fiEqaVj5azK
+B6whsSvccmJxcadYWoveaF7e89tzPcNdk2qF3ldhjkixqsZj02Jn/ePDqyvTEoWErcQ7KQcJpfNz
+xam09ZSnTWvbblsRbBsbLWbLJ2eU2o8GNQ45k9K1HZZfx2IuKzIRGb8O2mWyt10nSONtGMtyI2iJ
+OwDJx7W7KMbzvINR4lVi0vKcgnP2C5llBdeTBekqcVIOuSUhJs9QnDQe6lHx7bgK+cySWnJkZVWx
+a6hnR7Rm2gxaRk48OI+wtLjRRmVLWaEpUgj25GA3Wo+o+Tap5M5lWVvRnLBUNivZZhNqajR48cj4
+tMNqWtSSNaluK3UftrUfx2AT+R6QNzNq6KlscA0qs6zGYrkOih2FE683DbfUhcjopVM7G8tCVLP4
+n3AY1Jr7lFHJziW1juDzpGokyfIyh2yrX3TkR7HvIrUmmUjhF33Mm/eW5+0YDTM6yZQ1jGOYucDH
+HmcOt1XWI20iCpyzpnl2Ldm41AlKd2S0t5pJKQpCiNHb4JMg3Vnr9lMynyWpq8bwHE3MxjuRMouc
+UpvB2VjHf/jTDshbzyUIkbn1EtITvue2xmA1N1rJd3mAV+m8jHMLjY9Umh2scg17zUyNJI93pjb5
+yVF1pHtdVRoPlyV2LtsHyxrDcR9PH9M0YzhKsek833n11rxz1T1MHGRbHJ8Tt4tpB7IXw2LYvZ27
+AIpg2ZzsAyOHlFXXUtlZV34kBN7HXJYjvkpK25TbaHGjJ1o0+wrft+QDzzbLpec5DNyawrKSrsLJ
+a5FgihjrjMSJTrzj78x1tbrpm88twzWrfv8AkAiYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACXYM5ERkcdudOi1kedXW1R6wnGaYzDtjUyoDDkha
+SPg2TryOattkp3UfYgHD9/juQ4HkMmhvIciovqKUhK23C2UhxoyUzIZV7lJVsS0KLsYqXE4e7hb0
+01cKonX+Ex/79rprsxnWWbRZJbvYeqLli5b9zriedM7u7XbuR6NXHjHWJiqJmmYmeiG/SRr7OJXu
+Zjp9W5DkMWvYrpt81OsITk5MVBMR3pLUZ9DRupZShs1kkjUSSNfJfJapPa2q0ojfo7zXrM/Jpqqx
+VyrCYymmxM60RXE71MfJmYiYnTx4a+EIlnGtzOQ45KxjGMRr8Sg2rzTl9JakS5sqY3HPnHjdWY67
+0mkLM1mlvjzVsbnM22Tb8mY7RVX7M26Kd3Xn6vBJtguwW1kua0Y/GX4vTZmKrVNOsRFyOVdU8P6v
+ox48507s+voy1c5zV7E8o6KkY/hVkjI8ntXPZjwYEf2VuuLPtyUpaUNoL2nFqS2glOLQk/Ps7hbl
+zF03Iju0c5/RMaetm+3vaLAYPZq9gblf9IxW77nRHGdKa6aprnwo7umvWrhGulWlqLPdajL3GozL
+/SLGaHJPR31NVxHI9jhdFkb65KnkTrSVdMutoNCEkwlNbPitGlJpNW5oNW6j3VtxIg3PnDFvlZiH
+1+VfeADzhi3ysxD6/KvvAB5wxb5WYh9flX3gA84Yt8rMQ+vyr7wAecMW+VmIfX5V94APOGLfKzEP
+r8q+8AHnDFvlZiH1+VfeADzhi3ysxD6/KvvAB5wxb5WYh9flX3gA84Yt8rMQ+vyr7wAecMW+VmIf
+X5V94APOGLfKzEPr8q+8AHnDFvlZiH1+VfeADzhi3ysxD6/KvvAB5wxb5WYh9flX3gA84Yt8rMQ+
+vyr7wAecMW+VmIfX5V94APOGLfKzEPr8q+8AHnDFvlZiH1+VfeADzhi3ysxD6/KvvAB5wxb5WYh9
+flX3gA84Yt8rMQ+vyr7wAecMW+VmIfX5V94APOGLfKzEPr8q+8AHnDFvlZiH1+VfeADzhi3ysxD6
+/KvvAB5wxb5WYh9flX3gA84Yt8rMQ+vyr7wAecMW+VmIfX5V94APOGLfKzEPr8q+8AHnDFvlZiH1
++VfeAGLOyjHZUOTGj6c4xWvvsqbZnxZuRrdjqMuzraJNq6yak/DmhRfmQCDgAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADbXFZjupNDGxnMpyKW0
+po/Tw/O1sPSVQWUFv6ntmoqHJEmEoi/AUhKnI6tmyI2FJOPjsyy23jLe7VwqjlPh/GJ6x+9Otgdv
+sw2Vx/vjD9+1XpF21M9y5T/trp9CuOMcp1pmqma5/e54588sR/1eyv8A6IRr4JV/20fq/wAy+/wn
+rf8Ahc/5/wD0v0vR0xvct9ccQUW5bl6gyxHb4+16vXt/9T/9h9jZKrXjej9X+Z/Fzynad2dzK+9p
+w1vaxr01iLUTMeMRMeuFmSZFNUU8bDMMjvQsUr3kyHXpCUonXc5CTQdta8DUXLZSiYYJSkRm1GlJ
+rcW889LsNhrdi3FFEaRDWXPs+x2c465jcbcmu9cnjPSI6U0x0ppjhERwiGiH7sOAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOFxr+66AAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAP/9k=
+
+------=_Part_44281_2041979410.1458806428908
+Content-Type: image/jpeg; name="xdoimgxiZcTZAaAA775443037632036834.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgxiZcTZAaAA775443037632036834jpg>
+Content-Disposition: inline;
+	filename="xdoimgxiZcTZAaAA775443037632036834.jpg"
+Content-Description: xdoimgxiZcTZAaAA775443037632036834.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44281_2041979410.1458806428908
+Content-Type: image/jpeg; name="xdoimgHAj4R91Wvz7049924719598078459.jpg"
+Content-Transfer-Encoding: base64
+Content-ID: <xdoimgHAj4R91Wvz7049924719598078459jpg>
+Content-Disposition: inline;
+	filename="xdoimgHAj4R91Wvz7049924719598078459.jpg"
+Content-Description: xdoimgHAj4R91Wvz7049924719598078459.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/4QBoRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEbAAUA
+AAABAAAARgEoAAMAAAABAAIAAAExAAIAAAASAAAATgAAAAAAAABgAAAAAQAAAGAAAAABUGFpbnQu
+TkVUIHYzLjUuMTAA/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAAQDxAwEiAAIRAQMRAf/E
+AB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAE
+EQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZH
+SElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1
+tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEB
+AQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXET
+IjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFla
+Y2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+x8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/lvooor+Lz/poCii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+AP/Z
+
+------=_Part_44281_2041979410.1458806428908--
+
+------=_Part_44280_980141700.1458806428908--

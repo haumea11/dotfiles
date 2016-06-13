@@ -1,0 +1,68 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.130 with SMTP id b124csp3102695oig;
+        Thu, 17 Sep 2015 09:50:43 -0700 (PDT)
+X-Received: by 10.194.205.37 with SMTP id ld5mr324662wjc.14.1442508643133;
+        Thu, 17 Sep 2015 09:50:43 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22a.google.com (mail-wi0-x22a.google.com. [2a00:1450:400c:c05::22a])
+        by mx.google.com with ESMTPS id kf4si3767596wic.48.2015.09.17.09.50.42
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 17 Sep 2015 09:50:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) client-ip=2a00:1450:400c:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x22a.google.com with SMTP id lk2so25157566wic.1
+        for <kuiperhaumea@gmail.com>; Thu, 17 Sep 2015 09:50:42 -0700 (PDT)
+X-Received: by 10.180.187.142 with SMTP id fs14mr9566608wic.6.1442508642885;
+        Thu, 17 Sep 2015 09:50:42 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.215 with SMTP id w206csp2966712wmw;
+        Thu, 17 Sep 2015 09:50:41 -0700 (PDT)
+X-Received: by 10.107.131.148 with SMTP id n20mr8031635ioi.139.1442508641826;
+        Thu, 17 Sep 2015 09:50:41 -0700 (PDT)
+Return-Path: <apatton090@gmail.com>
+Received: from mail-io0-x233.google.com (mail-io0-x233.google.com. [2607:f8b0:4001:c06::233])
+        by mx.google.com with ESMTPS id 9si3242839iod.108.2015.09.17.09.50.41
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 17 Sep 2015 09:50:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of apatton090@gmail.com designates 2607:f8b0:4001:c06::233 as permitted sender) client-ip=2607:f8b0:4001:c06::233;
+Received: by mail-io0-x233.google.com with SMTP id b144so28586815iof.1;
+        Thu, 17 Sep 2015 09:50:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=db9IpfEzoYUPsvcvyevCQbUHxRnnfarKYEBB3D5lmls=;
+        b=u9puNa/zHBreXL3dzVUDha94Gge5EyV31v5uPw+/m2EDbaqZY58i6CC4cQnlngblvC
+         67Z+3MDJjhgNSngGDxC+CTSDUlsSNOgr0RmPceoDENJWY5k3mzXe/44GOBfY3dAGffJz
+         /ZbF9NOPrhzR0Yb6Ez5ZFu8O3L4E7JQk19VqjwK/4+TLmSl/UsXEMup4b+PobufWjdHo
+         ZIXe1MVwebyusNVjqMmcuKTETHpVGUdYndbakZ7K4VWSxMh4gfMY4ZXtXV8mB3KQEsUH
+         5HH9MJtRNBhlcMq+UG0a+hYp9kh67HDgNjIWWivg4lVPkpzFhqziAWFyb7YVONmHGsVI
+         fGGQ==
+X-Received: by 10.107.18.231 with SMTP id 100mr8012889ios.15.1442508641486;
+        Thu, 17 Sep 2015 09:50:41 -0700 (PDT)
+Return-Path: <apatton090@gmail.com>
+Received: from [10.114.244.19] ([208.122.107.254])
+        by smtp.googlemail.com with ESMTPSA id r103sm1649470ioi.35.2015.09.17.09.50.39
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 17 Sep 2015 09:50:39 -0700 (PDT)
+Message-ID: <55FAEF86.70109@gmail.com>
+Date: Thu, 17 Sep 2015 12:51:18 -0400
+From: Austin Patton <apatton090@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.3; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: Oliver Schroeder <oschro@columbus.rr.com>, 
+ John Markiewicz <markiewicz.john@gmail.com>,
+ Michael Farmer <mkfarmer99@gmail.com>
+Subject: AOM College Essay Tips
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+http://www.artofmanliness.com/2015/09/11/how-to-write-the-perfect-college-application-essay/
+https://www.linkedin.com/pulse/11-simple-tips-writing-well-tony-budding
+

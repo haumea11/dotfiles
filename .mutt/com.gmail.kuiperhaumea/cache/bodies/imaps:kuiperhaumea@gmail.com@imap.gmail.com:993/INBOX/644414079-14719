@@ -1,0 +1,103 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp2017842oia;
+        Mon, 2 Nov 2015 15:44:11 -0800 (PST)
+X-Received: by 10.28.216.196 with SMTP id p187mr17301623wmg.14.1446507851226;
+        Mon, 02 Nov 2015 15:44:11 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22f.google.com (mail-wm0-x22f.google.com. [2a00:1450:400c:c09::22f])
+        by mx.google.com with ESMTPS id k9si30063548wjy.110.2015.11.02.15.44.11
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 02 Nov 2015 15:44:11 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) client-ip=2a00:1450:400c:c09::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gocwru.org
+Received: by mail-wm0-x22f.google.com with SMTP id f134so71105349wmf.1
+        for <kuiperhaumea@gmail.com>; Mon, 02 Nov 2015 15:44:11 -0800 (PST)
+X-Received: by 10.28.142.193 with SMTP id q184mr15176978wmd.15.1446507850963;
+        Mon, 02 Nov 2015 15:44:10 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.3 with SMTP id w3csp1539597wmw;
+        Mon, 2 Nov 2015 15:44:10 -0800 (PST)
+X-Received: by 10.140.196.140 with SMTP id r134mr35118963qha.40.1446507850055;
+        Mon, 02 Nov 2015 15:44:10 -0800 (PST)
+Return-Path: <admissions@gocwru.org>
+Received: from mta8254.app-info.net (mta8254.app-info.net. [68.142.178.254])
+        by mx.google.com with ESMTP id l9si20359147qhl.13.2015.11.02.15.44.09
+        for <markiewicz.john@gmail.com>;
+        Mon, 02 Nov 2015 15:44:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of admissions@gocwru.org designates 68.142.178.254 as permitted sender) client-ip=68.142.178.254;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=gocwru.org; h=date:from
+	:reply-to:to:message-id:subject:mime-version:content-type
+	:content-transfer-encoding:list-unsubscribe; s=
+	selector-20120520; bh=TAFmHhbalzBRBwK7SB87vfGZ+h0=; b=TovxQv/JNO
+	vyFHU/eahRWk0Dt0X7O4XChs3n+M/ug6r/XLnVY3GPB7aPtTmYGaAHEUwe7Xw8Xa
+	guO8kCxzuRO56HbrpesA4tyCo7rdmI9S30DRi51eSqAr2ST3gBH0gxtC4RYgsBdD
+	brkt9NjaZdB1gO4EJk04UcirP6BJlLYHA=
+Received: from mta61.app-info.net by Postman123.app-info.net with Rome(1.0.38739) id <pd.2.pF2.jA18131.sJj.21774253.rA7.459.3k.moc.liamg...nhoj.zciweikramBm> for (<markiewicz.john@gmail.com>); Mon, 2 Nov 2015 18:10:35 -0500
+Date: Mon, 2 Nov 2015 18:10:35 -0500 (EST)
+From: Case Western Reserve University <admissions@gocwru.org>
+Reply-To: Case Western Reserve University <admissions@gocwru.org>
+To: <markiewicz.john@gmail.com>
+Message-ID: <1768729047.11746268.1446505835540.JavaMail.nobody@clavin4123.royall.com>
+Subject: For you, an extra day to apply
+MIME-Version: 1.0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+List-Unsubscribe: <mailto:admissions@gocwru.org?subject=unsubscriberfc2369%2052Z1C7I7W4E2I5K3RAM~8%206006%20SNR>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1" />
+<title>For you, an extra day to apply</title>
+</head>
+<body>
+<p>Dear John,</p>=20
+<p>I was hoping to have received <a href=3D"http://www.gocwru.org/turn/cai/=
+aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yB01/cyp/wl/cmm/6006/esd/a01300e5ce9bbda1=
+f3de56e7d4eebbfd31892f83/">your application</a> this morning. My admission =
+team and I received quite a few applications from some exceptional students=
+, but I'm still very interested in reviewing yours. If you did apply before=
+ the deadline, your application must have simply crossed paths with this em=
+ail.</p>=20
+<p>In case you need it, I'm giving you a grace day to <a href=3D"http://www=
+.gocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yB0m/cyp/wl/cmm/6006=
+/esd/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">submit your application to =
+Case Western Reserve</a>. You can still apply nonbinding Early Action if yo=
+u&rsquo;re considering several schools, or choose our Early Decision option=
+ if you think that Case Western Reserve is the right college experience for=
+ you.</p>=20
+<p>You now have until midnight tonight to apply and receive an admission de=
+cision by December 15.</p>=20
+<p>Remember, there's <strong>no application fee,</strong> so it won't cost =
+you anything to apply. I'm confident you can <a href=3D"http://www.gocwru.o=
+rg/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/yB0X/cyp/wl/cmm/6006/esd/a013=
+00e5ce9bbda1f3de56e7d4eebbfd31892f83/">submit your application by midnight =
+tonight</a>.</p>=20
+<p><a href=3D"http://www.gocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/=
+lik/yB0e/cyp/wl/cmm/6006/esd/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">Ple=
+ase click here to apply now to Case Western Reserve with your Common Applic=
+ation.</a></p>=20
+<p>I'm looking forward to reviewing your application, John.</p>=20
+<p>Sincerely,</p>=20
+<p>Bob<br /><br />Robert R. McCullough <br />Director of Undergraduate Admi=
+ssion<br />Case Western Reserve University<br />10900 Euclid Ave. <br />Cle=
+veland, OH 44106<br /><br /></p>=20
+<p>P.S. If you've already filled out the Common Application, you can just <=
+a href=3D"http://www.gocwru.org/turn/cai/aY0/spn/52Z1C7I7W4E2I5K3RAM~8/lik/=
+yB0U/cyp/wl/cmm/6006/esd/a01300e5ce9bbda1f3de56e7d4eebbfd31892f83/">add Cas=
+e Western Reserve to your list of schools</a>.</p>=20
+<p style=3D"font-size: 0.8em;">I received your contact information from a n=
+ational student testing or research organization, or from a previous contac=
+t with you. If you no longer wish to be contacted via email by Case Western=
+ Reserve University, please <a href=3D"http://www.gocwru.org/turn/cai/aY0/s=
+pn/52Z1C7I7W4E2I5K3RAM~8/lik/yB0P/cyp/wl/cmm/6006/esd/a01300e5ce9bbda1f3de5=
+6e7d4eebbfd31892f83/">let me know</a>.</p>
+</body>
+</html>

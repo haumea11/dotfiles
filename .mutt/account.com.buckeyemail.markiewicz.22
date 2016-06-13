@@ -1,0 +1,14 @@
+set imap_user = "markiewicz.22@buckeyemail.osu.edu"
+set imap_pass = "-o};p?mxU^V.1xAum&Ah[#VdGxbcR2&:f5C2lmSD"
+set smtp_url = "smtp://markiewicz.22@buckeyemail.osu.edu@smtp.office365.com:587/"
+set smtp_pass = "-o};p?mxU^V.1xAum&Ah[#VdGxbcR2&:f5C2lmSD"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set from = "markiewicz.22@osu.edu"
+set realname = "John Markiewicz"
+set folder = "imaps://outlook.office365.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Buckeyemail]/Drafts"
+set header_cache =     ~/.mutt/com.buckeyemail.markiewicz.22/cache/headers                  
+set message_cachedir = ~/.mutt/com.buckeyemail.markiewicz.22/cache/bodies               
+set certificate_file = ~/.mutt/com.buckeyemail.markiewicz.22/certificates

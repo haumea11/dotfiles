@@ -1,0 +1,288 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.181.19 with SMTP id e19csp718854vkf;
+        Sat, 11 Jun 2016 07:33:41 -0700 (PDT)
+X-Received: by 10.36.2.71 with SMTP id 68mr6269105itu.38.1465655621044;
+        Sat, 11 Jun 2016 07:33:41 -0700 (PDT)
+Return-Path: <bounces+456058-4481-kuiperhaumea=gmail.com@sendgrid.net>
+Received: from o1678921x217.outbound-mail.sendgrid.net (o1678921x217.outbound-mail.sendgrid.net. [167.89.21.217])
+        by mx.google.com with ESMTPS id f194si3914359itf.92.2016.06.11.07.33.40
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 11 Jun 2016 07:33:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+456058-4481-kuiperhaumea=gmail.com@sendgrid.net designates 167.89.21.217 as permitted sender) client-ip=167.89.21.217;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@sendgrid.me;
+       spf=pass (google.com: domain of bounces+456058-4481-kuiperhaumea=gmail.com@sendgrid.net designates 167.89.21.217 as permitted sender) smtp.mailfrom=bounces+456058-4481-kuiperhaumea=gmail.com@sendgrid.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.me; 
+	h=content-type:from:mime-version:reply-to:subject:to:x-feedback-id; 
+	s=smtpapi; bh=ILmmVIfm3uk4KhNdfBAwKNTNYgk=; b=glxVktbLmaWR0FttHi
+	Jd2e/RvGTZ9o+KV2qdUIjb56HORbQOjWUmbMtPDMGKIyK8C2pycykRSLgGCmCTdX
+	mUagsKLD02wSirHvIbLHs0NKoHF3wSofRt5fmGxUSdQ80z7b0XvLyvLeDJq5dIfy
+	06iwJh4DyNqQ9hScMM/0bLImY=
+Received: by filter0460p1mdw1.sendgrid.net with SMTP id filter0460p1mdw1.31020.575C212885
+        2016-06-11 14:33:12.899650894 +0000 UTC
+Received: from NDU2MDU4 (o16789125x220.outbound-mail.sendgrid.net [167.89.125.220])
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id toegvqffQA64OmRDHY9xHw
+	for <support@jamkazam.com>; Sat, 11 Jun 2016 14:33:12.858 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=6bb166ffe24501c0c66de6a4283a49a4cb154d4b1a3ae5b535b524454ff7
+Date: Sat, 11 Jun 2016 14:33:12 +0000
+From: "JamKazam" <support@jamkazam.com>
+Mime-Version: 1.0
+Reply-to: support@jamkazam.com
+Subject: Can you please fire out the following mass email to our user community?
+To: kuiperhaumea@gmail.com
+Message-ID: <toegvqffQA64OmRDHY9xHw@ismtpd0005p1iad1.sendgrid.net>
+X-SG-EID: St8Xja0n3BHat47iCdqMztVMi9vwHjI+QWDJlVlojNtxHNBHQEjpdCImdU5zBmUmqSOSpTiIr5YuS4
+ m1g4IdctE6bXcEePiE0S9ZZGKrgC2MMPNfHvWNZgZBMxrD1N6lNO8eQq1SWWb1oCp4+uuCGh1LSMOq
+ Y73EY7GoM3Hhi+SWnYTQM+K/sDdEdgCRVYvLvtu8HS/J1CDp095+UEV8kTN9QoFkBvRNreuoBuNadV
+ 0=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LBw1YLZ8pBOH9WFuFpi6oHaqeQeV0N3dRSlyQ
+ ad5zKFR1bqOCtgiMew+k/8zkCsg9+SE0Azc6nqC9I27cmplNd830M93R9KE0kVoof75czJLLopnpS9
+ bnBjM9AbSoM7s4liPa8khxT43SAOXRcjXPKo
+X-Feedback-ID: 456058:l7P+0eYw2FQwYQ2ebc1xMw==:Ftn1LMJIgzSy84M/C9J/svy3YeFrB26x8mp6dbzNE1M=:SG
+
+--6bb166ffe24501c0c66de6a4283a49a4cb154d4b1a3ae5b535b524454ff7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Hello John,=20
+
+If you are interested in improving your musical skillset and knowledge, her=
+e is a great new way to do it!
+
+Traditional music lessons have serious drawbacks, as you often have to sett=
+le for a teacher who lives close by vs. connecting with an amazing teacher =
+who can really help you reach that next level. Driving to and from lessons =
+is a time-consuming hassle, and hard to fit into your day. And lessons lear=
+ned are easily forgotten, with no way to refer back to these lessons after =
+they end.
+
+Online lessons are promising, but anyone who has ever taken lessons online =
+using Skype and similar apps knows the experience is terrible. Audio qualit=
+y is very poor. Latency is extremely high, so that teacher and student cann=
+ot play together. And Skype lacks many baseline features needed for music, =
+as it was built simply for people to talk with each other.
+
+With the new JamClass marketplace from JamKazam, you can now:
+
+
+  - Connect with the best teacher for you, not the closest
+  - TestDrive multiple teachers to find your ideal match
+  - Enjoy studio quality audio in online sessions
+  - Play music with your teacher live and in sync
+  - Avoid the time and hassle of travel to and from lessons
+  - Record lessons to refer back to them anytime
+  - Use JamTracks to learn and play with your favorite music
+  - Practice what you=E2=80=99ve learned in online sessions with others
+If this sounds interesting, use this link to search our fabulous community =
+of teachers: https://www.jamkazam.com/client#/jamclass/searchOptions ( http=
+s://www.jamkazam.com/client#/jamclass/searchOptions ). We have teachers who=
+ have performed with many of the biggest artists out there =E2=80=93 highly=
+ talented instructors with whom you can study from the comfort of your home=
+. And with TestDrive packages starting at just $14.99, it=E2=80=99s really =
+easy and inexpensive to get started and give it a try.
+
+If you have any questions, please feel free to email us at support@jamkazam=
+.com ( mailto:support@jamkazam.com ). Thanks for being a part of the JamKaz=
+am community. We=E2=80=99re glad you=E2=80=99re here!
+
+Best Regards,
+ Team JamKazam
+
+
+
+=20=20=20=20=20=20
+                                                            This email was =
+sent to you because you have an account at JamKazam ( http://www.jamkazam.c=
+om ).=C2=A0=C2=A0Click here to unsubscribe ( http://www.jamkazam.com/unsubs=
+cribe/BAhJIik5MWVlNDQ0NC0yN2IzLTRkNzQtYjZmYy01YzczYzhmZmYwYjUGOgZFVA=3D=3D-=
+-a4072f3078c815025dc2fd10302572554c09a5e0 ) and update your profile setting=
+s.=20=20=20=20=20=20=20=20=20=20=20=20
+
+                                        Copyright =C2=A9 2015 JamKazam, Inc=
+. All rights reserved.=
+
+--6bb166ffe24501c0c66de6a4283a49a4cb154d4b1a3ae5b535b524454ff7
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/htm=
+l4/strict.dtd">
+<html>
+<head>
+ <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+  <title>JamKazam</title>
+
+  <style>
+      p {
+          margin-bottom:0px;
+          line-height:140%;
+      }
+      a {
+        color: #ffcc00 !important;
+      }
+  </style>
+
+</head>
+
+<body bgcolor=3D"#000000" style=3D"margin-top:10px;font-family:Arial, Helve=
+tica, sans-serif;">
+<table bgcolor=3D"#262626" width=3D"650" align=3D"center" cellpadding=3D"0"=
+ cellspacing=3D"0">
+  <tr>
+    <td><img src=3D"http://www.jamkazam.com/assets/email/header.png" width=
+=3D"650" height=3D"183" alt=3D"JamKazam"></td>
+  </tr>
+</table>
+<table bgcolor=3D"#262626" width=3D"650" align=3D"center" cellpadding=3D"30=
+" cellspacing=3D"0">
+
+  <tr>
+    <td align=3D"left"><h1 style=3D"font-size:22px;font-weight:normal;margi=
+n-top:0px"><font color=3D"#F34E1C" face=3D"Arial, Helvetica, sans-serif"></=
+font></h1>
+      <p><font size=3D"3" color=3D"#FFFFFF"  face=3D"Arial, Helvetica, sans=
+-serif">
+
+
+
+Hello John,=20
+
+<p>
+If you are interested in improving your musical skillset and knowledge, her=
+e is a great new way to do it!
+</p>
+
+<p>
+Traditional music lessons have serious drawbacks, as you often have to sett=
+le for a teacher who lives close by vs. connecting with an amazing teacher =
+who can really help you reach that next level. Driving to and from lessons =
+is a time-consuming hassle, and hard to fit into your day. And lessons lear=
+ned are easily forgotten, with no way to refer back to these lessons after =
+they end.
+</p>
+
+<p>
+Online lessons are promising, but anyone who has ever taken lessons online =
+using Skype and similar apps knows the experience is terrible. Audio qualit=
+y is very poor. Latency is extremely high, so that teacher and student cann=
+ot play together. And Skype lacks many baseline features needed for music, =
+as it was built simply for people to talk with each other.
+</p>
+
+<p>With the new JamClass marketplace from JamKazam, you can now:</p>
+<ul>
+<li>Connect with the best teacher for you, not the closest</li>
+<li>TestDrive multiple teachers to find your ideal match</li>
+<li>Enjoy studio quality audio in online sessions</li>
+<li>Play music with your teacher live and in sync</li>
+<li>Avoid the time and hassle of travel to and from lessons</li>
+<li>Record lessons to refer back to them anytime</li>
+<li>Use JamTracks to learn and play with your favorite music</li>
+<li>Practice what you=E2=80=99ve learned in online sessions with others</li>
+</ul>
+<p>
+If this sounds interesting, use this link to search our fabulous community =
+of teachers: <a href=3D"https://u456058.ct.sendgrid.net/wf/click?upn=3DO5p0=
+YmwifnXtiinuHs6QquJS-2F2PcQy1l3mBmACJg5iz6IqEFGOREIBt3tPqQKF0VSOfWECYidNZ5l=
+UDv18AtFQ-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4POSVTvkCC-2Bqc=
+TyNh-2FahR-2FJm-2FFipt96uY0fH2I2wHz-2BedlrnONnDLv6QYo1Sew8WpA2kvVTz62NUbpZc=
+9dKtmw8sEuPzG2pbu-2BUnyGZ7RYDvd7OFmfaXE1-2FW8WOdY1T1DWTeIE-2FLojBwbkVPOhRx-=
+2F6k1aswlggoBMDMSi2x6EOPCjSxj2s1IZaArEuGbApJ5Uc-2F5lRpIAH7-2BjRuadomEFemCIF=
+JDjPKKc54pQ6bLH8D-2B2xtGP-2Fk44sgypFIHgzFKbm52ainaga03rh0yZAX40b4VmxW7dzYsR=
+UpjX-2B8X6R1XQ-2BkpBkcoROyTX9ziNVp2AchDd3Tswz-2BVly6ulBJeEfy-2BFYh0vy-2BI62=
+O4x5j54C7Q-3D-3D" style=3D"color:#fc0">https://www.jamkazam.com/client#/jam=
+class/searchOptions</a>. We have teachers who have performed with many of t=
+he biggest artists out there =E2=80=93 highly talented instructors with who=
+m you can study from the comfort of your home. And with TestDrive packages =
+starting at just $14.99, it=E2=80=99s really easy and inexpensive to get st=
+arted and give it a try.
+</p>
+
+<p>If you have any questions, please feel free to email us at <a href=3D"ma=
+ilto:support@jamkazam.com" style=3D"color:#fc0">support@jamkazam.com</a>. T=
+hanks for being a part of the JamKazam community. We=E2=80=99re glad you=E2=
+=80=99re here!
+</p>
+
+<p>Best Regards,<br/>=20
+Team JamKazam</p>
+
+
+
+</font></p>
+      <br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <table bgcolor=3D"#21474C" cellpadding=3D"10" cellspacing=3D"0">
+        <tr>
+          <td align=3D"left">
+
+            <!-- CALL OUT BOX -->
+            <p style=3D"margin-top:0px"><font size=3D"2" color=3D"#7FACBA" =
+face=3D"Arial, Helvetica, sans-serif">This email was sent to you because yo=
+u have an account at <a style=3D"color: #ffcc00;" href=3D"https://u456058.c=
+t.sendgrid.net/wf/click?upn=3DUADSaadcydOtaEfPGP25LvL7Zi874ClQRXCP7s-2B7JeI=
+-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOffWjuJECs4POSVTvkCC-2BqcTyNh-2FahR-2=
+Fo9o3MtOHKgPk5OEW7RQCYhOq-2FyInaAHCfvBhvESkGdd4fuDo87r0ZmrhKA6MeQT5VyxQm3BA=
+SAZqurILOvdmHA4svO78MUdfm6prPwV7B73y2u7oGNbpFeb8fUFF5nmRnTTtPMpwhXOp3skJFKw=
+HPEHXnu3A9Oc8-2Fc684B7e9yE1EGNWm6ZOWF6uxm2lY2FzwGumP1P9mEDijlIgeRClkMjf2C0U=
+fEgd1OcNH2WgY3MP67nT0d0X4EWvRylI8LgC-2FrEtUxcmT9Qjwao9-2FPg3Jhd0-2FsbXYYY7Q=
+puCtYNitvcBVuDrdVq7bLeDN3BL3CaTpNBBSLEnr3fsdwhBCTq7rg-3D-3D">JamKazam</a>.=
+=C2=A0=C2=A0Click <a style=3D"color: #ffcc00;" href=3D"https://u456058.ct.s=
+endgrid.net/wf/click?upn=3DUADSaadcydOtaEfPGP25LoX0jKI9UKyg5jiyGS2gMWdY0sAe=
+MlSNM4KAKWpEO4yL1k3IwKibaq0ys5FU-2BtnvXWOfTnjQXtuheRRgK-2FrpG45CZh1lxVehSRt=
+L0ZL2rqoSPR82ypsB9Or8w0-2FhptWnxFBqw36-2B-2FPHkAFny-2F2Zq-2FzfrFr1cltt0o0A-=
+2BlhQ3SZUOKSm2guN1xphnFUWdWMPKLg-3D-3D_jBu4JwxWN40IiYyAG79o58aNi9JdOH-2FtOf=
+fWjuJECs4POSVTvkCC-2BqcTyNh-2FahR-2FpNT6CEu1u3oFj9fRz9GBIfy6rgneNgY0KiAHaFj=
+9okwncTZaxk-2FuO-2FzmGJCRJox27FDVFoX-2BTjffRccnMRqnFIINtLeSFqPIFBmXFsMsa0Cm=
+mnEBP615dUT2kGH81CaYGKnDlhfVWUrYj3GqU7JTSrabBafHf2Bp5QTRHEomhljZw6ePhhqNZqW=
+bgEK4bDjgd07xGhJAvKWX6oBAbyH3z4h1xjV-2FnztWhZPCjzW-2FCLX4dfPRjgdJNzLSVJyFgu=
+LR-2BpZSKrl45e8rikDqx7E37KXuyBtocmVF29xEhwHlyryRUb4hJNkqW7S-2BBKpJJyoczKUNw=
+ZM4YgyDIFM25GukXg-3D-3D">here to unsubscribe</a> and update your profile se=
+ttings.
+            </font></p>
+          </td></tr></table>
+
+    </td>
+  </tr>
+
+</table>
+<table align=3D"center" width=3D"650" cellpadding=3D"10" bgcolor=3D"#156572=
+" cellspacing=3D"0">
+  <tr>
+    <td align=3D"center" valign=3D"top">
+=20=20=20=20
+    </td>
+  </tr>
+  <tr>
+      <td align=3D"center"><font size=3D"1" color=3D"#ffffff" face=3D"Arial=
+, Helvetica, sans-serif">Copyright =C2=A9 2015 JamKazam, Inc. All rights re=
+served.</font>
+    </td>
+  </tr>
+</table>
+
+
+<img src=3D"https://u456058.ct.sendgrid.net/wf/open?upn=3DjBu4JwxWN40IiYyAG=
+79o58aNi9JdOH-2FtOffWjuJECs4POSVTvkCC-2BqcTyNh-2FahR-2FMhQ-2BCiBOHAclo5ZNan=
+tshGwzQvcSOHyekTEPiD2TDd9kFr9N4JMSnJWBcHEOb4CGn3XJptw7QoZ4JNVMQ2E0txkyJ5Tpy=
+oY1EfXksS-2FqjjFtoWZh11GJ3NsmS-2B7MB6d-2FAL6-2B6o0Bn-2BcX-2FSJEDlfrctcb77F5=
+N7JfU8b1R-2Flv5FNBV6IlUE6idPhrOCdxXbNe-2F21jRweUPSWjUYzqITp2bFXHeMzfP0SL3m4=
+z4iFaAtQktBEXSw4TA7onLT2sx73jBfezgzPqhqtbxUveuFSPZkvFQFplhvLSfPgVzz1r52sRRB=
+VYwViAisWvCD-2FfLeGEQy8BgLyZU5EqaTo5Gn-2BQnQ-3D-3D" alt=3D"" width=3D"1" he=
+ight=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important=
+;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !importa=
+nt;margin-right:0 !important;margin-left:0 !important;padding-top:0 !import=
+ant;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !=
+important;"/>
+</body>
+</html>
+
+
+--6bb166ffe24501c0c66de6a4283a49a4cb154d4b1a3ae5b535b524454ff7--

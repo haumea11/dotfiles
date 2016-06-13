@@ -1,0 +1,95 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type;
+        bh=1JsnSwPjrm97Z7/ww2Ba6i6QgByQVqAn38gCRRP5tUA=;
+        b=ZYIvHWLLhv2dPLYNWqY1kNUneLfcU3IoVUFWJ96sAFsxqpYtNpf7OFx7qbi9Q50sjO
+         oU1Sb0gu+9EX0B1dGD1K2M5AnERnV0MSFX9b/am25IGAciXI1/801IVDkc/7YFAfOzfs
+         zCrMxQxXFUmQwi1GeI9DGK4azAr+knJFzg6SGWNp60DUUnAMfqb2TL3/KBlyVZ9u84ic
+         fEJuENA+fDmY9oYKq5N9sSeLXDcHOpqoUzaRreMAd0GEgRBCn2wHPF8HMKVdeXzZBLQA
+         9vU7vanwTMGReAV0UBTwfean8KXYuotwtMvGvTq01dxgxVKikXYJJMHrd/sN7p8BIsFi
+         wqOg==
+X-Received: by 10.50.43.227 with SMTP id z3mr3602903igl.22.1435404260676;
+        Sat, 27 Jun 2015 04:24:20 -0700 (PDT)
+Message-ID: <558E87DF.2040104@gmail.com>
+Date: Sat, 27 Jun 2015 07:24:15 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: pete.markiewicz@gmail.com, jmarkiewicz@airmail.cc
+Subject: wow
+Content-Type: multipart/mixed;
+ boundary="------------060308020802020307060700"
+
+This is a multi-part message in MIME format.
+--------------060308020802020307060700
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+http://www.washingtonpost.com/news/energy-environment/wp/2015/06/25/giant-earthquakes-are-shaking-greenland-and-scientists-just-figured-out-the-disturbing-reason-why/
+
+
+--------------060308020802020307060700
+Content-Type: application/pgp-keys;
+ name="0x2705A0B1.asc"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="0x2705A0B1.asc"
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2
+
+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
+7b6hEz3qfobi+NZ9je3KJpTYqLzKDLp/kJoXiQ==
+=x8ZN
+-----END PGP PUBLIC KEY BLOCK-----
+
+--------------060308020802020307060700--

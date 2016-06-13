@@ -1,0 +1,60 @@
+Return-Path: <isabella.niemeyer@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=9G1oqXYx7WfB2JJAHVq444S3BbUlKllZ+d8NWdlncTI=;
+        b=OByKDIYaU67QMOiK5C3hJseF+JRY4wzhbCgx/FDEtpO36HJ10NZfi7Z+OFXIKnFy+D
+         gTtl7QROVUUL1QEbfn+MyHEcskYnzChb0HhZ2AUDoLnhFMGJFtfsEpsns8Ewg5vCKy7c
+         1+D/vFsPtuCjU3Y4tylfqfupCprbph+VJ1Bcvr35etJzj9V7g3dVvELmEtjIG+ygiQzx
+         kD4e9//M1NEhAgERBdivg44Xinw6NLpAsl4LM7zx7m1EOqc62x6igfY9WTY5Dyah05Pp
+         d++VnC2uwUYkPSTl5Gfr5NpiqaDvghqsViBFcJN9tTq7nyQXjve1OIZJeWa3SJq3yN/1
+         bwFA==
+MIME-Version: 1.0
+X-Received: by 10.129.77.68 with SMTP id a65mr11621400ywb.322.1447258657594;
+ Wed, 11 Nov 2015 08:17:37 -0800 (PST)
+Date: Wed, 11 Nov 2015 11:17:37 -0500
+Message-ID: <CAGqqh6cgrZesAd_ZtqYNMjLYu_8xVgU5BApOrFu9xDhm25mfYQ@mail.gmail.com>
+Subject: avg data
+From: Isabella Niemeyer <isabella.niemeyer@gmail.com>
+To: jmarkiewicz@airmail.cc
+Content-Type: multipart/alternative; boundary=001a1140b7702f2d900524462ad5
+
+--001a1140b7702f2d900524462ad5
+Content-Type: text/plain; charset=UTF-8
+
+Material- static, kinetic, angle
+
+wood&laminate- 6.3, 4.6, 5.4
+wood&wood- 8.8, 9.8, 9.4
+book&laminate- 4.4, 4.5, 14.4
+book&wood- 4.9, 5.3, 19.6
+brick&laminate- 3, 2.5, 14.6
+brick&wood- 3.9, 3.2, 26.5
+glass&wood- 1.4, 1.6, 8.2
+glass&laminate- 3, 3.7, 6.5
+glass&sandpaper- 2.6, 1.8, 11
+wood&sandpaper- 5.6, 5.1, 20
+--
+
+--001a1140b7702f2d900524462ad5
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Material- static, kinetic, angle</div><div><br></div>=
+<div>wood&amp;laminate- 6.3, 4.6, 5.4</div><div>wood&amp;wood- 8.8, 9.8, 9.=
+4</div><div>book&amp;laminate- 4.4, 4.5, 14.4</div><div>book&amp;wood- 4.9,=
+ 5.3, 19.6</div><div>brick&amp;laminate- 3, 2.5, 14.6</div><div>brick&amp;w=
+ood- 3.9, 3.2, 26.5</div><div>glass&amp;wood- 1.4, 1.6, 8.2</div><div>glass=
+&amp;laminate- 3, 3.7, 6.5</div><div>glass&amp;sandpaper- 2.6, 1.8, 11</div=
+><div>wood&amp;sandpaper- 5.6, 5.1, 20</div>-- <br><div class=3D"gmail_sign=
+ature"><div dir=3D"ltr"><div style=3D"text-align:left"><blockquote><blockqu=
+ote><blockquote style=3D"margin:0pt 0pt 0pt 0.8ex;border-left:1px solid rgb=
+(204,204,204);padding-left:1ex"><div style=3D"text-align:left"><br></div></=
+blockquote></blockquote></blockquote><span style=3D"font-family:comic sans =
+ms,sans-serif"></span></div>
+<div align=3D"center">=C2=A0</div></div></div>
+</div>
+
+--001a1140b7702f2d900524462ad5--

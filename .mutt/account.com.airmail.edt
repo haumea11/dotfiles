@@ -1,0 +1,15 @@
+set imap_user = "edt@airmail.cc"
+set imap_pass = "YD3U7zTBifXZ0OeOqbFeUumZ0G35P99yE9XnUPoF"
+set smtp_url = "smtp://edt@airmail.cc@mail.cock.li:587/"
+set smtp_pass = "YD3U7zTBifXZ0OeOqbFeUumZ0G35P99yE9XnUPoF"
+set ssl_starttls = yes
+set ssl_force_tls = yes
+set from = "edt@airmail.cc"
+set realname = "Eastern Daylight Time"
+set folder = "imaps://mail.cock.li:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Airmail]/Drafts"
+set header_cache = ~/.mutt/com.airmail.edt/cache/headers                  
+set message_cachedir = ~/.mutt/com.airmail.edt/cache/bodies               
+set certificate_file = ~/.mutt/com.airmail.edt/certificates
+

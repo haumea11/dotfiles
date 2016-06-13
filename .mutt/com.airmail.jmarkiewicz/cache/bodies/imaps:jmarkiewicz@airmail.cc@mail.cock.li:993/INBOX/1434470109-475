@@ -1,0 +1,898 @@
+Return-Path: <194-VVC-221.0.1668.0.0.1367.7.1477045-0-29@potomac1050.mktomail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+X-MSFBL: am1hcmtpZXdpY3pAYWlybWFpbC5jY0BkdnAtMTk5LTE1LTIxMy01MkBiZy1hYi0w
+	MUAxOTQtVlZDLTIyMTo1NDoxNjY4OjIyNjk6MDoxMzY3Ojc6MTQ3NzA0NS0wLTI5
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; t=1449778597;
+	s=m1; d=gitlab.com; i=@gitlab.com;
+	h=Date:From:To:Subject:MIME-Version:Content-Type;
+	bh=vwXtTqMBOELLKQFvHO47BcaXQAm1InGvl1Wqsot7LaM=;
+	b=kyfhFYuD1q+YDpY/OkPlfJOwTWkjtn2OC5SxlKRhu+iCGBl7QikbcfJ8Y1yOQICl
+	hDYR5NdcpyHN60qULCdzqmAswZ6vnlL0+jV1JgjG0AzE46W5boKly4L8NHW1fHP5bFh
+	JEOI8mrVtoO45iSFU1pdGhz6NHgNMtns6HN/YcA8=
+Date: Thu, 10 Dec 2015 14:16:37 -0600 (CST)
+From: Ashley Smith <community@gitlab.com>
+Reply-To: community@gitlab.com
+To: jmarkiewicz@airmail.cc
+Message-ID: <1247331703.1520906211.1449778597955.JavaMail.root@abmas01.marketo.org>
+Subject: Patch Release, Philosophy, Security Alerts, and Growth
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1520906210_1611696759.1449778597954"
+X-Binding: bg-ab-01
+X-MarketoID: 194-VVC-221:54:1668:2269:0:1367:7:1477045-0-29
+X-MktArchive: false
+List-Unsubscribe: <mailto:NZTHO6RVPFZTCNTOHEYEE23UK5WWMS2XO5IT2PI.1668.1367.7@unsub-ab.mktomail.com>
+X-Mailfrom: 194-VVC-221.0.1668.0.0.1367.7.1477045-0-29@potomac1050.mktomail.com
+X-MktMailDKIM: true
+
+------=_Part_1520906210_1611696759.1449778597954
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<http://email.gitlab.com/d03B0VCf00Ot00006ji01cV00w000>
+
+
+ 
+
+
+Patch Release: 8.2.3
+
+
+
+
+
+
+
+
+
+ Patch Notes  <http://email.gitlab.com/f00Oj006w00CV000Vfstc0b3B0000>
+
+
+
+
+ 
+
+
+
+
+
+
+
+GitLab version 8.2.3 for Community Edition (CE) and Enterprise Edition (EE) is here. Includes fixes for application setting cache, documentation updates, and more.
+
+
+
+
+
+ 
+
+
+
+
+RELEASE PHILOSOPHY
+
+
+
+
+
+
+
+
+
+ReAD More <http://email.gitlab.com/r0t0c0B30000V0fj0OCV0k0060w03>
+
+
+
+
+ 
+
+
+
+
+
+
+
+GitLab comes out the 22nd of every month, no matter what,
+no delays, no exceptions. What is this madness?
+
+
+
+
+ 
+
+
+
+
+SECURITY UPDATE ALERTS
+
+
+
+
+
+
+
+
+
+Sign Up  <http://email.gitlab.com/C60000t00wCc0V40j300V00Olf0B0>
+
+
+
+
+ 
+
+
+
+
+
+
+
+Receive a special alert sent each time we make security fixes.
+
+
+
+
+ 
+
+
+
+
+Growth at GitLab
+
+
+
+
+
+
+
+
+
+
+
+GitLab downloads are growing 63 percent month over month - that's over 250,000 downloads in November alone! Thank you!
+
+
+   
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <http://email.gitlab.com/vf0063BtCmO5j000w0V0000c00V00>
+
+
+
+
+
+We're Hiring
+
+
+
+
+
+
+
+
+
+ Read more  <http://email.gitlab.com/vf0063BtCmO5j000w0V0000c00V00>
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w>
+
+
+
+
+
+Get In Touch
+
+
+
+
+
+
+
+
+
+ Read more  <http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w>
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w>
+
+
+Contact Sales <http://email.gitlab.com/T0B07000c0j0Vt06O3fCVo000000w>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <http://email.gitlab.com/jp0j0000V0t000O6C00Vwf0B0083c>
+
+
+about.gitlab.com <http://email.gitlab.com/atc00060000000V3w9C0jVqO0f0B0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Login <http://email.gitlab.com/zrw63B00fcVO000a000Cj0V0t0000>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+If you no longer wish to receive notifications please unsubscribe <[[http://Page.gitlab.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=3RkMMJWWfF9wsRonvarBZKXonjHpfsX57%2BsqWaOzlMI%2F0ER3fOvrPUfGjI4AT8RlI%2BSLDwEYGJlv6SgFS7nBMbZ22bgPWRD0TD7slJfbfYRPf6Ba2Jwzpg%3D%3D]]> here.
+
+
+
+
+------=_Part_1520906210_1611696759.1449778597954
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title></title>
+</head>
+
+<body ><div ><div class="mktEditable" id="edit_text_1" ><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="background-color: #ffffff;">
+<tbody>
+<tr>
+<td align="center" valign="top" style="padding: 0px 0px 0px 0px;">
+<table align="center" class="container_tbl_main" width="600" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed; background-color: #ffffff;" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td align="center" valign="top" style="padding: 0px 0px 0px 0px;">
+<table align="center" class="container_tbl" width="600" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed; background-color: #ffffff;" bgcolor="#ffffff">
+<tbody>
+<tr bgcolor="#2B2833">
+<td class="em_hide" style="line-height: 1px; min-width: 600px;" bgcolor="#2B2833"><br /><img alt="" src="http://www.emailonacid.com/images/emails/emailmonks1/spacer.gif" height="1" width="600" style="max-height: 1px; min-height: 1px; display: block; width: 600px; min-width: 600px;" border="0" /></td>
+</tr>
+<!--Pre Header END -->
+<tr>
+<td class="full_rw_td-banner" valign="top" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; color: #e24630; font-size: 28px; font-weight: 400; line-height: 30px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/d03B0VCf00Ot00006ji01cV00w000" style="text-decoration: none; color: #e24630;" target="_blank"
+> <img alt="GitLab" src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab_banner.png" style="width: 600px; max-width: 600px; display: block;" border="0" width="600" /> </a></div>
+</td>
+</tr>
+<!-- Header Image END --> <!-- ///////// SECTION ONE START ///////// -->
+<tr bgcolor="#F0F0F0">
+<td class="full_rw_td-titletxt" valign="top" align="center" style="padding: 40px 20px 0px 20px; margin: 0px; color: #292929; font-size: 26px; font-weight: 600; line-height: 30px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;" bgcolor="#F0F0F0">
+<div class="mktEditable"><span style="color: #292929; font-family: 'open sans', helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 600; letter-spacing: normal; line-height: 30px; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #f0f0f0;">Patch Release: 8.2.3</span></div>
+</td>
+</tr>
+<!-- section one TITLE end -->
+<tr bgcolor="#F0F0F0">
+<td class="sm_padding" valign="top" align="center" style="padding: 15px 5px 0px 5px; margin: 0px;" bgcolor="#F0F0F0">
+<table class="cta_table" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px; padding: 0; border-radius: 6px; background-color: #554488;">
+<tbody>
+<tr>
+<td valign="middle" id="cta_lg_one" align="center" style="padding: 10px 20px 0px 20px; margin: 0px; color: #ffffff; font-size: 16px; font-weight: 600; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/P0000j0060O0BfV0CtV0000c0w32j" style="color: #ffffff; text-decoration: none;" target="_blank"
+>&nbsp;Patch Notes&nbsp;</a></div>
+</td>
+</tr>
+<!-- section one CTA end -->
+<tr>
+<td valign="middle" style="padding: 9px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr bgcolor="#F0F0F0">
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 20px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#F0F0F0">
+<div class="mktEditable">GitLab version 8.2.3 for Community Edition (CE) and Enterprise Edition (EE) is here. Includes fixes for application setting cache, minor security fixes, and more.<br /></div>
+</td>
+</tr>
+<!-- section one info end -->
+<tr bgcolor="#F0F0F0">
+<td valign="middle" style="padding: 35px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;" bgcolor="#F0F0F0">&nbsp;</td>
+</tr>
+<!-- ///////// SECTION ONE END ///////// -->
+<tr bgcolor="#ffffff">
+<td class="full_rw_td-titletxt" valign="top" align="center" style="padding: 40px 20px 0px 20px; margin: 0px; color: #292929; font-size: 26px; font-weight: 600; line-height: 30px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;" bgcolor="#ffffff">
+<div class="mktEditable"><span style="color: #292929; font-family: 'open sans', helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 600; letter-spacing: normal; line-height: 30px; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #ffffff;">RELEASE PHILOSOPHY</span></div>
+</td>
+</tr>
+<!-- section two TITLE end -->
+<tr bgcolor="#ffffff">
+<td class="sm_padding" valign="top" align="center" style="padding: 15px 5px 0px 5px; margin: 0px;" bgcolor="#ffffff">
+<table class="cta_table" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px; padding: 0; border-radius: 6px; background-color: #554488;">
+<tbody>
+<tr>
+<td valign="middle" id="cta_lg_two" align="center" style="padding: 10px 20px 0px 20px; margin: 0px; color: #ffffff; font-size: 16px; font-weight: 600; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/r0t0c0B30000V0fj0OCV0k0060w03" style="color: #ffffff; text-decoration: none;" target="_blank"
+>ReAD More</a></div>
+</td>
+</tr>
+<!-- section two CTA end -->
+<tr>
+<td valign="middle" style="padding: 9px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 20px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#ffffff">
+<div class="mktEditable">GitLab releases a new version the 22nd of every month, no</div>
+<div class="mktEditable">matter what,&nbsp;no delays, no exceptions. What is this madness?</div>
+</td>
+</tr>
+<!-- section two info end -->
+<tr bgcolor="#ffffff">
+<td valign="middle" style="padding: 35px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<!-- ///////// SECTION TWO END ///////// -->
+<tr bgcolor="#F0F0F0">
+<td class="full_rw_td-titletxt" valign="top" align="center" style="padding: 40px 20px 0px 20px; margin: 0px; color: #292929; font-size: 26px; font-weight: 600; line-height: 30px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;" bgcolor="#F0F0F0">
+<div class="mktEditable"><span style="color: #292929; font-family: 'open sans', helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 600; letter-spacing: normal; line-height: 30px; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #f0f0f0;">SECURITY UPDATE ALERTS</span></div>
+</td>
+</tr>
+<!-- section three TITLE end -->
+<tr bgcolor="#F0F0F0">
+<td class="sm_padding" valign="top" align="center" style="padding: 15px 5px 0px 5px; margin: 0px;" bgcolor="#F0F0F0">
+<table class="cta_table" align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0px; padding: 0; border-radius: 6px; background-color: #554488;">
+<tbody>
+<tr>
+<td valign="middle" id="cta_lg_three" align="center" style="padding: 10px 20px 0px 20px; margin: 0px; color: #ffffff; font-size: 16px; font-weight: 600; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;">
+<div class="mktEditable">Sign Up<a href=
+"http://email.gitlab.com/C60000t00wCc0V40j300V00Olf0B0" style="color: #ffffff; text-decoration: none;" target="_blank"
+>&nbsp;</a></div>
+</td>
+</tr>
+<!-- section three CTA end -->
+<tr>
+<td valign="middle" style="padding: 9px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr bgcolor="#F0F0F0">
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 20px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#F0F0F0">
+<div class="mktEditable">Receive an alert each time we address a security issue.</div>
+</td>
+</tr>
+<!-- section three info end -->
+<tr bgcolor="#F0F0F0">
+<td valign="middle" style="padding: 35px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;" bgcolor="#F0F0F0">&nbsp;</td>
+</tr>
+<!-- ///////// SECTION Three END ///////// -->
+<tr bgcolor="#ffffff">
+<td class="full_rw_td-titletxt" valign="top" align="center" style="padding: 40px 20px 0px 20px; margin: 0px; color: #292929; font-size: 26px; font-weight: 600; line-height: 30px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;" bgcolor="#ffffff">
+<div class="mktEditable"><span style="color: #292929; font-family: 'open sans', helvetica, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 600; letter-spacing: normal; line-height: 30px; orphans: auto; text-align: -webkit-center; text-indent: 0px; text-transform: uppercase; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none; background-color: #ffffff;">Growth at GitLab</span></div>
+</td>
+</tr>
+<!-- section two TITLE end -->
+<tr bgcolor="#ffffff">
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 5px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#ffffff">
+<table>
+<tbody>
+<tr bgcolor="#ffffff">
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 5px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#ffffff">
+<div class="mktEditable" style="text-align: center;"><br /><br />GitLab downloads are growing 63 percent month-over-month - that's over 250,000 downloads in November alone!&nbsp;Thank you!</div>
+</td>
+<td class="full_rw_td-infotxt" valign="top" align="center" style="padding: 5px 20px 0px 20px; margin: 0px; color: #292929; font-size: 14px; font-weight: 400; line-height: 20px; font-family: 'open sans',helvetica,Arial,sans-serif;" bgcolor="#ffffff">
+<div class="mktEditable">&nbsp; &nbsp;<img src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab-growth.png" width="250" height="188" constrain="true" imagepreview="false" /></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- section two info end -->
+<tr bgcolor="#ffffff">
+<td valign="middle" style="padding: 35px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;" bgcolor="#ffffff">&nbsp;</td>
+</tr>
+<!-- ///////// SECTION TWO END ///////// -->
+<tr>
+<td class="sm_padding" style="padding: 30px 20px 0px 20px; margin: 0px;">
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tbody>
+<tr>
+<td valign="top" align="left" style="padding: 0px; margin: 0px;">
+<table align="left" class="three_tbl-thumb" width="275" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 0px 0px 0px 0px; margin: 0px;">
+<table align="center" class="three_tbl-inner" width="275" border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; background-color: #ffffff;">
+<tbody>
+<tr>
+<td class="two_td" valign="top" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; color: #139bed; font-size: 14px; font-weight: 400; line-height: 24px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/vf0063BtCmO5j000w0V0000c00V00" target="_blank"
+><img alt="We're Hiring" src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab_hiring.png" style="width: 114px; max-width: 114px; display: block;" border="0" width="114" /></a></div>
+</td>
+</tr>
+<!-- Hiring Icon -->
+<tr>
+<td class="two_td" valign="top" align="center" style="padding: 10px 5px 0px 5px; margin: 0px; color: #292929; font-size: 16px; font-weight: 600; line-height: 24px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;">
+<div class="mktEditable">We're Hiring</div>
+</td>
+</tr>
+<!-- Hiring Title -->
+<tr>
+<td class="two_td" valign="middle" align="center" style="padding: 10px 5px 0px 5px; margin: 0px;">
+<table class="cta_table" align="center" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0; background-color: #ffffff; border: 1px solid #139bed; border-radius: 6px;">
+<tbody>
+<tr>
+<td valign="middle" id="cta_lg_sm_one" align="center" style="padding: 7px 8px 0px 8px; margin: 0px; color: #139bed; font-size: 13px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/vf0063BtCmO5j000w0V0000c00V00" style="color: #139bed; text-decoration: none;" target="_blank"
+>&nbsp;Read Listings&nbsp;</a></div>
+</td>
+</tr>
+<!-- Hiring CTA end -->
+<tr>
+<td valign="middle" style="padding: 6px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="two_td" valign="top" align="center" style="padding: 5px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table width="10" border="0" cellspacing="0" cellpadding="0" align="left" class="gap_tbl">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table align="left" class="three_tbl-thumb" width="275" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 0px 0px 0px 0px; margin: 0px;">
+<table align="center" class="three_tbl-inner" width="275" border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px; background-color: #ffffff;">
+<tbody>
+<tr>
+<td class="two_td" id="pad_top_20" valign="top" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; color: #139bed; font-size: 14px; font-weight: 400; line-height: 24px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w" target="_blank"
+><img alt="Get In Touch" src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab_touch.png" style="width: 114px; max-width: 114px; display: block;" border="0" width="114" /></a></div>
+</td>
+</tr>
+<!-- Get In Touch Icon -->
+<tr>
+<td class="two_td" valign="top" align="center" style="padding: 10px 5px 0px 5px; margin: 0px; color: #292929; font-size: 16px; font-weight: 600; line-height: 24px; font-family: 'open sans',helvetica,Arial,sans-serif; text-transform: uppercase;">
+<div class="mktEditable">Get In Touch</div>
+</td>
+</tr>
+<!-- Get In Touch Title -->
+<tr>
+<td class="two_td" valign="middle" align="center" style="padding: 10px 5px 0px 5px; margin: 0px;">
+<table class="cta_table" align="center" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0; background-color: #ffffff; border: 1px solid #139bed; border-radius: 6px;">
+<tbody>
+<tr>
+<td valign="middle" id="cta_lg_sm_two" align="center" style="padding: 7px 8px 0px 8px; margin: 0px; color: #139bed; font-size: 13px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w" style="color: #139bed; text-decoration: none;" target="_blank"
+>&nbsp;Contact Us&nbsp;</a></div>
+</td>
+</tr>
+<!-- Get In Touch CTA end -->
+<tr>
+<td valign="middle" style="padding: 6px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="two_td" valign="top" align="center" style="padding: 5px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="middle" style="padding: 30px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<!-- Section Two Column END -->
+<tr bgcolor="#463675">
+<td valign="top" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; background-color: #463675;" bgcolor="#463675">
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td class="sm_padding" id="footer_block_one" style="padding: 10px 20px 0px 20px; margin: 0px;">
+<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+<tbody>
+<tr>
+<td valign="top" align="left" style="padding: 0px; margin: 0px;">
+<table align="left" class="three_tbl-thumb" width="180" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 10px 0px 0px 0px; margin: 0px;">
+<table align="center" class="three_tbl-inner" width="180" border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px;">
+<tbody>
+<tr>
+<td class="three_td-contact" valign="middle" align="center" style="padding: 10px 5px 0px 5px; margin: 0px;">
+<table class="cta_table-footer" align="center" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0;">
+<tbody>
+<tr>
+<td valign="middle" align="center" style="padding: 0px 8px 0px 0px; margin: 0px; color: #ffffff; font-size: 12px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/T0B06000c0j0Vt06O3fCVn000000w" style="color: #ffffff; text-decoration: none;" target="_blank"
+><img alt="" src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab_contact.png" style="width: 21px; max-width: 21px; display: block;" border="0" width="21" /></a></div>
+</td>
+<td id="footer_con_one" valign="middle" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; color: #ffffff; font-size: 12px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/T0B07000c0j0Vt06O3fCVo000000w" style="color: #ffffff; text-decoration: none;" target="_blank"
+>Contact Sales</a></div>
+</td>
+</tr>
+<!-- Footer Contact Us end --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table width="10" border="0" cellspacing="0" cellpadding="0" align="left" class="gap_tbl">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table align="left" class="three_tbl-thumb" width="180" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 10px 0px 0px 0px; margin: 0px;">
+<table align="center" class="three_tbl-inner" width="180" border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px;">
+<tbody>
+<tr>
+<td class="three_td" valign="middle" align="center" style="padding: 10px 5px 0px 5px; margin: 0px;">
+<table class="cta_table-footer" align="center" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0;">
+<tbody>
+<tr>
+<td valign="middle" align="center" style="padding: 0px 8px 0px 0px; margin: 0px; color: #ffffff; font-size: 12px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/jp0j0000V0t000O6C00Vwf0B0083c" style="color: #ffffff; text-decoration: none;" target="_blank"
+><img alt="" src="http://Page.gitlab.com/rs/194-VVC-221/images/gitlab_web.png" style="width: 20px; max-width: 20px; display: block;" border="0" width="20" /></a></div>
+</td>
+<td id="footer_con_two" valign="middle" align="center" style="padding: 0px 0px 0px 0px; margin: 0px; color: #ffffff; font-size: 12px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/atc00060000000V3w9C0jVqO0f0B0" style="color: #ffffff; text-decoration: none;" target="_blank"
+>about.gitlab.com</a></div>
+</td>
+</tr>
+<!-- Footer Website Address end --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table width="10" border="0" cellspacing="0" cellpadding="0" align="left" class="gap_tbl">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- [if gte mso 9]></td>
+<td valign="top"><!--mce:protected 
+%3C%21--mce%3Aprotected%20%253C%2521--mce%253Aprotected%2520%25253C%252521--mce%25253Aprotected%252520%2525253C%25252521--mce%2525253Aprotected%25252520%252525253C%2525252521--mce%252525253Aprotected%2525252520%25252525253C%252525252521--mce%25252525253Aprotected%252525252520%2525252525253C%25252525252521--mce%2525252525253Aprotected%25252525252520%252525252525253C%2525252525252521--mce%252525252525253Aprotected%2525252525252520%25252525252525253C%252525252525252521--mce%25252525252525253Aprotected%252525252525252520%2525252525252525253C%25252525252525252521--mce%2525252525252525253Aprotected%25252525252525252520%252525252525252525253C%2525252525252525252521--mce%252525252525252525253Aprotected%2525252525252525252520%25252525252525252525253C%252525252525252525252521--mce%25252525252525252525253Aprotected%252525252525252525252520%2525252525252525252525253C%25252525252525252525252521--%252
+52525252525252525252520%2525252525252525252525255Bendif%2525252525252525252525255D%25252525252525252525252520--%2525252525252525252525253E--%25252525252525252525253E--%252525252525252525253E--%2525252525252525253E--%25252525252525253E--%252525252525253E--%2525252525253E--%25252525253E--%252525253E--%2525253E--%25253E--%253E--%3E-->
+<table align="left" class="three_tbl-thumb" width="180" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" style="padding: 10px 0px 0px 0px; margin: 0px;">
+<table align="center" class="three_tbl-inner" width="180" border="0" cellspacing="0" cellpadding="0" style="border-radius: 4px;">
+<tbody>
+<tr>
+<td class="three_td" valign="middle" align="center" style="padding: 7px 5px 0px 5px; margin: 0px;">
+<table class="cta_table" align="center" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0; border: 1px solid #139bed; border-radius: 4px;">
+<tbody>
+<tr>
+<td valign="middle" id="footer_con_three" align="center" style="padding: 5px 15px 0px 15px; margin: 0px; color: #ffffff; font-size: 12px; font-weight: 600; line-height: 16px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable"><a href=
+"http://email.gitlab.com/zrw63B00fcVO000a000Cj0V0t0000" style="color: #ffffff; text-decoration: none;" target="_blank"
+>Login</a></div>
+</td>
+</tr>
+<!-- Footer Login end -->
+<tr>
+<td valign="middle" style="padding: 4px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Three column contact info end-->
+<tr>
+<td valign="top" class="full_rw_td" align="center" style="padding: 20px 20px 0px 20px; margin: 0px;">
+<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="padding: 1px 0px 0px 0px; margin: 0px; border-top: 1px solid #d9d9d9; font-size: 1px; line-height: 1px;" width="100%">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- divider END -->
+<tr>
+<td class="full_rw_td" id="footer_block_two" valign="top" align="center" style="padding: 19px 10px 0px 10px; margin: 0px; color: #ffffff; font-size: 8pt; font-weight: 400; line-height: 17px; font-family: 'open sans',helvetica,Arial,sans-serif;">
+<div class="mktEditable">If you no longer wish to receive notifications please <a href="http://Page.gitlab.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=3RkMMJWWfF9wsRonvarBZKXonjHpfsX57%2BsqWaOzlMI%2F0ER3fOvrPUfGjI4AT8RlI%2BSLDwEYGJlv6SgFS7nBMbZ22bgPWRD0TD7slJfbfYRPf6Ba2Jwzpg%3D%3D" style="text-decoration: underline; color: #ffffff;" target="_blank">unsubscribe</a> here.</div>
+</td>
+</tr>
+<tr>
+<td id="footer_block_three" style="padding: 19px 0px 0px 0px; margin: 0px; font-size: 1px; line-height: 1px;">&nbsp;</td>
+</tr>
+<!-- Footer Info END--></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+
+<img src="http://email.gitlab.com/trk?t=1&mid=MTk0LVZWQy0yMjE6NTQ6MTY2ODoyMjY5OjA6MTM2Nzo3OjE0NzcwNDUtMC0yOTpqbWFya2lld2ljekBhaXJtYWlsLmNj" width="1" height="1" style="display:none !important;" alt="" />
+</body>
+</html>
+------=_Part_1520906210_1611696759.1449778597954--

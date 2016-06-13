@@ -1,0 +1,192 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp1518213oid;
+        Mon, 6 Jul 2015 05:02:42 -0700 (PDT)
+X-Received: by 10.194.234.40 with SMTP id ub8mr95761145wjc.21.1436184162484;
+        Mon, 06 Jul 2015 05:02:42 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22e.google.com (mail-wg0-x22e.google.com. [2a00:1450:400c:c00::22e])
+        by mx.google.com with ESMTPS id v7si51576549wiw.86.2015.07.06.05.02.41
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 06 Jul 2015 05:02:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22e as permitted sender) client-ip=2a00:1450:400c:c00::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22e as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@connect.hillsdale.edu
+Received: by mail-wg0-x22e.google.com with SMTP id q4so137131461wgq.1
+        for <kuiperhaumea@gmail.com>; Mon, 06 Jul 2015 05:02:41 -0700 (PDT)
+X-Received: by 10.181.11.129 with SMTP id ei1mr88393528wid.90.1436184161437;
+        Mon, 06 Jul 2015 05:02:41 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1338916wmd;
+        Mon, 6 Jul 2015 05:02:40 -0700 (PDT)
+X-Received: by 10.50.2.3 with SMTP id 3mr69304206igq.34.1436184159957;
+        Mon, 06 Jul 2015 05:02:39 -0700 (PDT)
+Return-Path: <bounce-use=M=27733669919=echo3=6A7720CD85C29320A43954E4FB46E9FC@returnpath.bluehornet.com>
+Received: from smtp.portovelho.bluehornet.com (smtp.portovelho.bluehornet.com. [67.216.225.94])
+        by mx.google.com with ESMTP id ku8si28774974pab.115.2015.07.06.05.02.37
+        for <markiewicz.john@gmail.com>;
+        Mon, 06 Jul 2015 05:02:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-use=M=27733669919=echo3=6A7720CD85C29320A43954E4FB46E9FC@returnpath.bluehornet.com designates 67.216.225.94 as permitted sender) client-ip=67.216.225.94;
+Return-Path: <bounce-use=M=27733669919=echo3=6A7720CD85C29320A43954E4FB46E9FC@returnpath.bluehornet.com>
+X-MSFBL: bWFya2lld2ljei5qb2huQGdtYWlsLmNvbUBwb3J0b3ZlbGhvQGFwZ2FyQGJvdW5j
+	ZS11c2U9TT0yNzczMzY2OTkxOT1lY2hvMz02QTc3MjBDRDg1QzI5MzIwQTQzOTU0
+	RTRGQjQ2RTlGQw==
+DKIM-Signature: v=1; a=rsa-sha256; d=connect.hillsdale.edu; s=s1024-1.bh; c=simple/simple;
+	q=dns/txt; i=@connect.hillsdale.edu; t=1436184148;
+	h=From:Subject:Date:To:Mime-Version:Content-Type;
+	bh=+Fq8E8wbVYjqj47IhRIoqge1onUAQxYgeJzs9BAxaw4=;
+	b=pmxP3R1sRkVTJCr/UX5MV899E64EgOeFGZsT1PGY9dS0gohk3hn99DGHxbu+7ETc
+	B0R3N5b4x6wr45d2UmdxZM3ah/YcB1cpQK1CYMXs7YQN6079jwSap8XxXxAn1gLk
+	tF0Jg6sdgjmzTwllhV8F1BURONoYd1mH5BopkKO8GVw=;
+Received: from [10.46.3.16] ([10.46.3.16:34542] helo=localhost.localdomain)
+	by returnpath.bluehornet.com (envelope-from <bounce-use=M=27733669919=echo3=6A7720CD85C29320A43954E4FB46E9FC@returnpath.bluehornet.com>)
+	(ecelerity 3.5.3.37097 r(Platform:3.5.3.0)) with ESMTP
+	id 28/45-25642-45E6A955; Mon, 06 Jul 2015 05:02:28 -0700
+Message-ID: <28.45.25642.45E6A955@dc4mta04>
+Date: Mon, 06 Jul 2015 05:01:03 -0700
+From: "Hillsdale College Admissions" <admissions@connect.hillsdale.edu>
+Reply-To: admissions2@hillsdale.edu
+To: =?UTF-8?B?Sm9obiBNYXJraWV3aWN6?= <markiewicz.john@gmail.com>
+X-Outgoing: apgar
+Subject: Classical Liberal Arts  
+List-Unsubscribe: <mailto:unsub-27733669919-echo3-6A7720CD85C29320A43954E4FB46E9FC@listunsub.bluehornet.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="--559a6dff25976-MultiPart-Mime-Boundary"
+
+
+
+----559a6dff25976-MultiPart-Mime-Boundary
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+Classical Liberal Arts
+
+The Hillsdale College Core Curriculum revives a traditional
+function of learning wherein students grasp those bodies of
+knowledge essential to the proper cultivation of mind and heart.
+Literature, mathematics, history, politics, biology, philosophy,
+chemistry, physics, theology, and other studies discipline the
+mind and inform students as to the fundamental realities about
+the world, man, God, the good life, and responsible liberty. It
+is a liberal education: an education in truths inherently
+valuable, and truths necessary for responsible citizenship in a
+free society. 
+
+Fast Facts
+
+Student Body: ~1400, 65% from outside of Michigan representing 48
+states, D.C., and 9 foreign countries
+
+Student-to-Faculty Ratio: 10:1
+
+Average Class Size: 15
+
+Faculty with Terminal Degrees: 88%
+
+Average Incoming Student: ACT 28-32, GPA 3.8
+
+Freshmen Retention: 93.5%
+
+Request More Information:
+http://paracom.paramountcommunication.com/ct/28771569:27733669919:m:3:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r
+
+
+Hillsdale College Admissions, 33 East College Street, Hillsdale,
+MI 49242
+admissions@hillsdale.edu • Phone (517) 607-2327 • Fax (517)
+607-2223
+
+
+
+
+
+
+
+----559a6dff25976-MultiPart-Mime-Boundary
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr"><head>     </head>     <body>         <table align="center" width="600" cellspacing="0" cellpadding="5" bgcolor="#808084"
+style="border: 1px solid #666666; vertical-align: top;">             <tbody>                 <tr>                     <td align="center"
+valign="top"><p style="padding-bottom: 0px; line-height: 1.5em; font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px; padding-top:
+5px;">Problems viewing this e-mail? <a style="color: #ffffff;" href="http://paracom.paramountcommunication.com/p/vWC9tD51NE">Display it in your browser</a>.</p>                     <table
+width="575" cellspacing="0" cellpadding="10" border="0" bgcolor="#10345a" style="background-color:#10345a;">                         <tbody>          
+                  <tr>                                 <td align="center" valign="top"><div><a
+href="http://paracom.paramountcommunication.com/ct/28771566:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="575" height="200" style="border-width: 0px;"
+alt="Header" src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/header2.jpg" /></a></div>                        
+        <table cellspacing="2" cellpadding="20" bordercolor="#10345a" border="1" bgcolor="#10345a">                                     <tbody>       
+                                 <tr>                                             <td width="325" valign="top" bgcolor="#ffffff" style="text-align:
+center; line-height: 1.4em; font-family: Georgia,'Times New Roman',Times,serif; font-size: 14px;"><a
+href="http://paracom.paramountcommunication.com/ct/28771567:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img align="" border="0" alt="" style="margin: 0px;"
+src="http://paracom.paramountcommunication.com/cimages/a6cedfc0aaf617ae7061b2294b59fe32/BarnesPsychology.jpg" /></a><br />                            
+                <br />                                             <span style="font-family: Georgia,Times New Roman,Times,serif; line-height: 1.45em;
+color:#10345a; font-size: 23px;">Classical Liberal Arts</span>  <br />                                             <br />                             
+               The Hillsdale College <a href="http://paracom.paramountcommunication.com/ct/28771568:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r">Core Curriculum</a>
+revives a traditional function of learning wherein students grasp those bodies of knowledge essential to the proper cultivation of mind and heart.
+Literature, mathematics, history, politics, biology, philosophy, chemistry, physics, theology, and other studies discipline the mind and inform
+students as to the fundamental realities about the world, man, God, the good life, and responsible liberty. It is a liberal education: an education in
+truths inherently valuable, and truths necessary for responsible citizenship in a free society.</td>                                             <td
+valign="top" bgcolor="#ffffff"><table cellspacing="0" cellpadding="0">                                                 <tbody>                        
+                            <tr>                                                         <td align="left" valign="top" height="430"
+style="font-family: Trebuchet MS,Arial,Helvetica,sans-serif; color: #999999; font-size: 13px;"><span style="padding-bottom: 5px; font-family:
+Trebuchet MS,Arial,Helvetica,sans-serif; color:#10345a; font-size: 18px;">Fast Facts</span><br />                                                     
+   <br />                                                         <strong>Student Body: </strong>~1400,<br />                                         
+               65% from outside of Michigan representing 48 states, D.C., and 9 foreign countries<br />                                               
+         <br />                                                         <strong>Student-to-Faculty Ratio: </strong>10:1<br />                         
+                               <br />                                                         <strong>Average Class Size: </strong>15<br />           
+                                             <br />                                                         <strong>Faculty with Terminal Degrees:
+</strong>88%<br />                                                         <br />                                                        
+<strong>Average Incoming Student: </strong>ACT 28-32, <br />                                                         GPA 3.8 <br />                   
+                                     <br />                                                         <strong>Freshmen Retention: </strong>93.5%<br />  
+                                                      <br />                                                         <br />                           
+                             <a href="http://paracom.paramountcommunication.com/ct/28771569:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r">Request More
+Information</a></td>                                                     </tr>                                                     <tr>               
+                                         <td valign="bottom" style="font-family: Trebuchet MS,Arial,Helvetica,sans-serif; font-size: 28px; color:
+#00457c;"></td>                                                     </tr>                                                 </tbody>                    
+                        </table></td>                                         </tr>                                         <tr bgcolor="#10345a">    
+                                        <td align="center" bgcolor="#c8c8ca" colspan="2"><table align="center" cellspacing="0" cellpadding="4">       
+                                         <tbody>                                                     <tr>                                             
+           <td><a href="http://paracom.paramountcommunication.com/ct/28771570:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0"
+alt="" src="http://www.paramountcommunication.com/hillsdale/socialfb3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771571:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialtw3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771572:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialyt3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771573:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialig3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771574:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialgp3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771575:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialli3.jpg" /></a></td>                                                         <td><a
+href="http://paracom.paramountcommunication.com/ct/28771576:27733669919:m:1:603841109:63C2F119D6AE0C8CEAF49C274D5673EC:r"><img width="30" height="30" border="0" alt=""
+src="http://www.paramountcommunication.com/hillsdale/socialpt3.jpg" /></a></td>                                                     </tr>             
+                                   </tbody>                                             </table></td>                                         </tr>   
+                                 </tbody>                                 </table></td>                             </tr>                        
+</tbody>                     </table></td>                 </tr>                 <tr>                     <td align="center" valign="middle"
+height="70" style="font-family: Verdana,Geneva,sans-serif; color: #ffffff; font-size: 10px;"><div>Hillsdale College Admissions, 33 East College
+Street, Hillsdale, MI 49242</div>                     <div><a style="color: #ffffff; text-decoration: none;"
+href="mailto:admissions@hillsdale.edu">admissions@hillsdale.edu</a> &bull; Phone (517) 607-2327 &bull; Fax (517) 607-2223</div>                    
+<br />                     <rb> 					<span style="font-family: verdana,'Trebuchet MS',Arial,Helvetica,sans-serif; font-size: 10px;"><a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oWC9tD51NE">Unsubscribe</a> &bull; <a style="color:#ffffff;" href="http://paracom.paramountcommunication.com/p/oWC9tD51NE">Update E-mail</a> &bull; <a
+style="color:#ffffff;" href="http://paracom.paramountcommunication.com/forwardthis/ft.php?mID=4772843&em=markiewicz.john%40gmail.com&ch=a6cedfc0aaf617ae7061b2294b59fe32">Forward to a Friend</a> 					 					</span></rb></td>                 </tr>             </tbody>        
+</table>         <br />     </body></html>
+
+<html dir="ltr"><head><title></title></head><body><br />
+<img src="http://paracom.paramountcommunication.com/imagelibrary/N-27733669919-D07A2C1DBB518407611E3BCABF95FA5A.jpg" border="0" width="1" height="1">
+
+
+</body>
+
+
+----559a6dff25976-MultiPart-Mime-Boundary--

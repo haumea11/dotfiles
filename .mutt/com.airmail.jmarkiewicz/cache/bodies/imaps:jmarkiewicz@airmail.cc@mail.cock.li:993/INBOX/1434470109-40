@@ -1,0 +1,259 @@
+Return-Path: <bounces+347749-e45a-jmarkiewicz=airmail.cc@email.privateinternetaccess.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; 
+	d=privateinternetaccess.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding:list-unsubscribe; 
+	s=smtpapi; bh=NhQbHufcsHrm12WCIczN5Byg3DI=; b=tJKv1gnV2JLErUJY9P
+	sPWvQBTIAGW86vC6wottM15vDsT8KlvbUKi99WQawqIPAjddqoSmey1bPp8J6PXZ
+	BI/DCSiZgbn2+n6Q9AdPuHI9Pj1Q5amecra01KU/9GVsPeOyg+1W1r1HG32aw8zW
+	2Z6JyM3QlpGE27LS8qy5+fulQ=
+Date: Thu, 16 Jul 2015 00:52:23 +0000
+From: Private Internet Access - Billing Dept <billing@privateinternetaccess.com>
+To: jmarkiewicz@airmail.cc
+Message-ID: <55a700473dcbd_fa8b3a13c3105e2@mailer.privateinternetaccess.com.mail>
+Subject: Private Internet Access Payment Received
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_55a700473c1b9_fa8b3a13c310499";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: 2w2xRTL7OsJGmGUoCDQuE3qcQijPoqTFe0hSX6KoG2dAtvNtAylR82dMlpHKd5xtLOHqIcA1zwrCVt
+ XAn6p2t8KQeUS/WyOLARpa13XR/E67uZkHelZlyIYtA8xgtzGQib+I4oW2WCtDkjYb1nB0kQlnzgPi
+ hGRxtmR2KKV+Qv5wX5i8AriGNML149kbng4z
+List-Unsubscribe: <http://email.privateinternetaccess.com/wf/unsubscribe?upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNn7Xy8oJUY0bBXa-2Bg9q2WLg2ogbfDnubzujDePwUtZN1FpF5UiuazRS-2B8jEWnwHSNBs-2F7KmowKivXpiJTG6aXFY6kP9UtzwTQoenTMiac0he16LMmRFD1yFpJOGyWCSTLcImZlxlSuD96Sda9-2BACcmv4q9KqXb6BjgmYmXZ9uDZxHNKZu9ISGL0fVNon7S3HGo-3D>, <mailto:unsubscribe@email.privateinternetaccess.com?subject=http://email.privateinternetaccess.com/wf/unsubscribe*q*upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNn7Xy8oJUY0bBXa-2Bg9q2WLg2ogbfDnubzujDePwUtZN1FpF5UiuazRS-2B8jEWnwHSNBs-2F7KmowKivXpiJTG6aXFY6kP9UtzwTQoenTMiac0he16LMmRFD1yFpJOGyWCSTLcImZlxlSuD96Sda9-2BACcmv4q9KqXb6BjgmYmXZ9uDZxHNKZu9ISGL0fVNon7S3HGo-3D>
+
+----==_mimepart_55a700473c1b9_fa8b3a13c310499
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Dear Customer,
+
+This is a verification that your payment was received.
+
+---------------------------------------------------------------
+
+RECEIPT
+
+LONDON TRUST MEDIA, INC.
+2885 Sanford Ave SW
+Suite 20138
+Grandville, MI 49418
+
+July 16, 2015
+Order Number:  2402580
+Payment method:  Credit Card
+
+Details
+Yearly plan
+
+TOTAL (USD): $39.95
+
+---------------------------------------------------------------
+
+Thank you for your payment,
+London Trust Media, Inc. / Private Internet Access
+
+  P.S.  If you haven't received an activation email with your login details please contact support to have them resend it to you.
+To unsubscribe please click here: http://email.privateinternetaccess.com/wf/unsubscribe?upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNn7Xy8oJUY0bBXa-2Bg9q2WLg33xf7A2eQF9CcJzLuI2tFuNyQwosjqu6buuohW-2FAifu2OEx-2FAEtnQ-2BM9HfMv-2Bzm24Gsp0T6fTqa0TJD-2Be-2BItWwKzTInbfWUksig9z5jMfdNKC8XWHWX2r1eH100lVwZRGiizPM-2FNsJ-2B-2FjtXcEbYfg2CY8K5cZ57pjx2gzpligGU-3D.
+
+----==_mimepart_55a700473c1b9_fa8b3a13c310499
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+   <head>
+      <title>Private Internet Access</title>
+      <style type="text/css">@media only screen and (max-width: 640px) {
+         table.sf-main,
+         td.sf-main,
+         table.sf-cont,
+         td.sf-cont {
+         width: 100% !important;
+         max-width: 100% !important;
+         min-width: 100% !important;
+         padding: 0 !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-td {
+         display: block !important;
+         width: auto !important;
+         height: auto !important;
+         min-width: initial !important;
+         max-width: initial !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         tr.noresp > td.sf-td {
+         display: table-cell !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-img img {
+         width: 100% !important;
+         height: auto !important;
+         max-width: 100% !important;
+         min-width: 100% !important;
+         padding: 0 !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-html table,
+         td.sf-html td,
+         td.sf-html img {
+         height: auto !important;
+         max-width: 100% !important;
+         padding: 0 !important;
+         width: auto !important;
+         display: block !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-img {
+         padding: 0 !important;
+         width: 100% !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         table.sf-share img {
+         width: 22px !important;
+         height: auto !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-share {
+         display: table-cell !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         td.sf-share-icon {
+         width: 22px !important;
+         }
+         }
+         @media only screen and (max-width: 640px) {
+         table.sf-text-image table {
+         border-spacing: 10px !important;
+         }
+         }
+      </style>
+   </head>
+   <body>
+      <table class="sf-main" border="0" cellpadding="0" cellspacing="0" width="100%" style="height: 100%; background: #f2f2f2; table-layout: fixed; border-collapse: collapse; border: none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr>
+         <td class="sf-main" align="center" valign="top" style="padding: 40px 20px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <table class="sf-cont" border="0" cellpadding="0" cellspacing="0" width="600" style="min-width: 600px; max-width: 600px; width: 600px; table-layout: fixed; border-collapse: collapse; border: none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+      <tr
+         >
+         <td class="sf-cont" width="600" style="min-width: 600px; width: 600px; text-align: left; background: #ffffff; padding: 0px; border: 1px solid #bcbcbc; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed; border-collapse: collapse; border: none; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border: 0px solid transparent;">
+      <tr>
+         <td class="sf-td" valign="top" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border: 0px solid transparent; width: 100%;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+         <td class="sf-html sf-td" style="padding: 13px;"
+         <div>
+            <table align="center" border="0" cellpadding="10" cellspacing="1" style="width: 500px;">
+               <tbody>
+                  <tr>
+                     <td>
+                        <a href=""><span style="font-size:16px;"><span style="font-family: arial,helvetica,sans-serif;"><img alt="PIA email" height="120" src="https://www.privateinternetaccess.com/images/email_header_template.png" style="" width="500" /></span></span></a>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 500px;">
+                           <tbody>
+                              <tr>
+                                 <td colspan="2">
+                                    <span style="font-size:14px;"><span style="font-family: tahoma,geneva,sans-serif;">
+                                    <span>Dear Customer,</li></span>
+<br/><br/>
+<span>This is a verification that your payment was received.</span>
+
+<p style="padding-bottom:10px;border-bottom:1px dotted black"></p>
+
+<div style="padding: 10px; margin: 10px; border: 1px solid lightgray;">
+
+  <p style="font-weight: bold;">RECEIPT</p>
+
+  <div style="font-size: 14px; line-height: 18px;">
+    LONDON TRUST MEDIA, INC.<br>
+    2885 Sanford Ave SW<br>
+    Suite 20138<br>
+    Grandville, MI 49418<br>
+    <br>
+    <span>July 16, 2015 </span><br>
+    Order Number:  2402580 <br>
+    Payment method:  Credit Card<br>
+  </div>
+
+  <table style="margin-top:10px; font-size: 13px;" border="0" width="480px" cellpadding="2">
+    <colgroup>
+      <col width="320">
+      <col width="100">
+    </colgroup>
+    <tbody>
+      <tr>
+        <td><b>Details</b></td>
+        <td><b>Price</b></td>
+      </tr>
+
+      <tr>
+        <td style="padding-right: 15px;">Yearly plan</td>
+        <td>USD 39.95
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="font-weight: bold;">
+    TOTAL (USD): 39.95
+  </p>
+</div>
+
+
+
+                                    <br /><br />
+                                    <span style="font-size:14px;"><span style="font-family: tahoma,geneva,sans-serif;">
+                                    <br>
+                                    </span></span>
+                                 </td>
+                              </tr>
+                              <tr>
+                                 <td width="100%">
+                                          <span>Thank you for your payment,</span>
+    <br/>
+    <span>London Trust Media, Inc. / Private Internet Access</span>
+
+                                      <br/><br/>
+                                            <span>P.S.  If you haven&#x27;t received an activation email with your login details please contact support to have them resend it to you.</span>
+
+                                 </td>
+                                 <td width="237">  <span style="font-size:16px;"><span style="font-family: tahoma,geneva,sans-serif;"></span>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td style="text-align: center;">
+                       <span style="font-family:georgia,serif; font-size: 12px;">To unsubscribe please click <a href="http://email.privateinternetaccess.com/wf/unsubscribe?upn=gpAQYPOQ9VYyEz2uxWMzFI7xnY0QMX5MUPHMRG16fNn7Xy8oJUY0bBXa-2Bg9q2WLgbmiO8NftbzG5puZJmvNlLl-2BiRIfp5P8QnG9nBc0OBW0KdUysA-2FVtdgJ7YXvu7f-2B3aNtENpB5Ot6q32ixT6GndvVfeTz7jhrK0h0OEW7knKdttpyoLk1KyjKOvCXRSW1zWKbinU1Sy7Kosn7e6wc9HxuVgk3ie1vFAGt-2BFWaAgIU-3D">here</a></span>
+                        <br />
+                        <br />
+                        <a href="https://www.privateinternetaccess.com"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Homepage</span></span></a> | <a href="https://www.privateinternetaccess.com/pages/client-support/"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Client Sign-In</span></span></a> | <a href="https://support.privateinternetaccess.com/"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Support Center</span></span></a> | <a href="https://www.privateinternetaccess.com/blog/"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Blog</span></span></a> | <a href="https://www.privateinternetaccess.com/forum/"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Forum</span></span></a> | <a href="https://www.privateinternetaccess.com/pages/terms-of-service/"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Terms of Service</span></span></
+ a>
+                        <br /><br /><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Londontrustmedia Inc. 2885 Sanford Ave SW Suite 20138 Granville, MI 49418</span><br /> <br />
+                        <a href="https://www.facebook.com/privateinternetaccess"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Facebook</span></span></a> | <a href="https://twitter.com/buyvpnservice"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Twitter</span></span></a> | <a href="https://plus.google.com/+Privateinternetaccess"><span style="font-family:georgia,serif;"><span style="font-size: 12px;">Google Plus</span></span></a>
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+   </body>
+</html>
+
+----==_mimepart_55a700473c1b9_fa8b3a13c310499--

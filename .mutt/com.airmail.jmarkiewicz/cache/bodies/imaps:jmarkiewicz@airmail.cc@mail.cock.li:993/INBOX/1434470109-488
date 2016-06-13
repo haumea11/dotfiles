@@ -1,0 +1,90 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=pSfPaX6UVgCn22xnD4guKCiVbFCWxe0VVMgT2OVP8h8=;
+        b=MNdd/U83PW0QuUQUe24XxLMrL59y3FCpyHo9drUwyt+u7HpzsAtNGsUmvwwx5zqrWX
+         5R2DbA0GNkaXvH4IPG38LyifB5dTOh+gCiABoYW9tUdQulSJFo/BrJjMcQFNwPqqFc7d
+         jSH3Z5rostUF63ySjeJKbbK6FBz2ZPra1smmEPPYfVn0X+SeFxxky7YGwgpaTRXnnG9M
+         /KS9TaTC8Zn50qLifCKIeF8KKCKv6jlOhEWdI/EyL07gSoOqmFXCyh8t7O1W5jjFl7UT
+         R6LFmEUMOao4QuvnSoNSCTBVJ3FR94poKWJEsrSmMviz/8A5jcXIn5Bca1I4Zd10tpl1
+         E/Mw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+         :content-type;
+        bh=pSfPaX6UVgCn22xnD4guKCiVbFCWxe0VVMgT2OVP8h8=;
+        b=M5ecbVfnSgG8+BpA2YT+/lYrHTozXxdM5QLtD16FarWCYOANuiYNEbz+cbZpsoylmk
+         aVImO8byzWa3wBbKZRG+i2mkiD1hxfrkwN6hbLkCY9Vh7zh+zw6+uaT6HRDlQvIFqwKg
+         5RhLbWnRN286oD/CurXzNlHxu3bMTSgQ7wtYds7brGYNtDN3FwM5fVz+CuHFsNvwNIo4
+         mG2E/LDG/iyoDaD0UE3RHWDAkoZCkGQPx4OBhJGtmBisaT7JOFM0/0gKCa2R60IjPv+b
+         jDuHt66VsTbOYBB30LHdGLXQWdESnUcRwyPUCpO5YFTZHAynoK6uJNN56HN9BfStmcWe
+         Ngtw==
+X-Gm-Message-State: ALoCoQmW9bxASLyDXt2BxL1UFpauKHFkpLu2yowqTRds4M7gC51tmGazBJVmmQ4Sq3qsgAhUiDMFZzLLSw0v2yb9WbHi+e0mvpquxmJzCGgRHnFdVLzKfgM=
+MIME-Version: 1.0
+X-Received: by 10.31.180.145 with SMTP id d139mr2930069vkf.83.1450464941632;
+ Fri, 18 Dec 2015 10:55:41 -0800 (PST)
+Date: Fri, 18 Dec 2015 13:55:41 -0500
+Message-ID: <CAGs8aKqa8RCa+AtG_hYDMXcmCPhYOrxd-Y0yUNGypoaeXQjy6g@mail.gmail.com>
+Subject: Live Nativity Canceled
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a1143f1569b0fa3052730af7d
+
+--001a1143f1569b0fa3052730af7d
+Content-Type: text/plain; charset=UTF-8
+
+Hello Concert Choir,
+I am going to have to cancel the Live Nativity performance tonight for the
+Concert Choir. We did not have an equal balance of parts from this group
+who was able to attend. Only the Gold Standard A Cappella Choir will be
+performing tonight. Please feel free to still come to the nativity, but
+your students will not be performing.
+
+Thanks for understanding,
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--001a1143f1569b0fa3052730af7d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Concert Choir,<div>I am going to have to cancel the =
+Live Nativity performance tonight for the Concert Choir. We did not have an=
+ equal balance of parts from this group who was able to attend. Only the Go=
+ld Standard A Cappella Choir will be performing tonight. Please feel free t=
+o still come to the nativity, but your students will not be performing.</di=
+v><div><br></div><div>Thanks for understanding,</div><div><div class=3D"gma=
+il_signature"><div dir=3D"ltr"><div><div style=3D"margin:0in 0in 0pt"><b><s=
+pan style=3D"font-size:14pt"><font color=3D"#000000" face=3D"Calibri">Chris=
+ten Joyce</font></span></b></div><font color=3D"#000000" face=3D"Times New =
+Roman" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"=
+color:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">Choral Director</fo=
+nt></span></b></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"=
+3"></font><p style=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,1=
+1,44)"><font face=3D"Calibri" size=3D"3"><span><font color=3D"#830b2c">Bish=
+op</font></span> <span><font color=3D"#830b2c">Watterson</font></span> High=
+ School</font></span></b></p><font color=3D"#000000" face=3D"Times New Roma=
+n" size=3D"3"></font><p style=3D"margin:0in 0in 0pt"><span><font color=3D"#=
+000000" face=3D"Calibri" size=3D"3"><a href=3D"tel:%28614%29%20268-8671" va=
+lue=3D"+16142688671" target=3D"_blank"><font color=3D"#1155cc">(614) 268-86=
+71</font></a> x 289</font></span></p><font color=3D"#000000" face=3D"Times =
+New Roman" size=3D"3"></font><div style=3D"margin:0in 0in 0pt"><span style=
+=3D"color:rgb(131,11,44)"><a href=3D"http://www.bishopwatterson.com/" targe=
+t=3D"_blank"><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" si=
+ze=3D"3">www.bishopwatterson.com</font></span></a></span></div><div style=
+=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><img width=3D"=
+420" height=3D"151" src=3D"https://docs.google.com/uc?export=3Ddownload&amp=
+;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkg=
+xY2ZrcTdYUnU4THp3WDFNPQ"><div dir=3D"ltr"><div><div></div></div></div><div =
+dir=3D"ltr"><div></div></div></span></div></div></div></div></div>
+</div>
+
+--001a1143f1569b0fa3052730af7d--

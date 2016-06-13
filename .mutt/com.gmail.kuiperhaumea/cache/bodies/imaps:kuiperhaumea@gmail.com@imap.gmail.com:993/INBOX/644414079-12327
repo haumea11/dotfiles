@@ -1,0 +1,95 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp2471071oid;
+        Tue, 14 Jul 2015 14:41:30 -0700 (PDT)
+X-Received: by 10.194.203.3 with SMTP id km3mr1251335wjc.114.1436910090172;
+        Tue, 14 Jul 2015 14:41:30 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x232.google.com (mail-wg0-x232.google.com. [2a00:1450:400c:c00::232])
+        by mx.google.com with ESMTPS id i7si20083357wiz.121.2015.07.14.14.41.29
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Jul 2015 14:41:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::232 as permitted sender) client-ip=2a00:1450:400c:c00::232;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::232 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@amazonses.com
+Received: by mail-wg0-x232.google.com with SMTP id n9so12143868wgm.0
+        for <kuiperhaumea@gmail.com>; Tue, 14 Jul 2015 14:41:29 -0700 (PDT)
+X-Received: by 10.194.94.101 with SMTP id db5mr1221692wjb.91.1436910089221;
+        Tue, 14 Jul 2015 14:41:29 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp2201729wmd;
+        Tue, 14 Jul 2015 14:41:27 -0700 (PDT)
+X-Received: by 10.55.23.215 with SMTP id 84mr1588673qkx.17.1436910087595;
+        Tue, 14 Jul 2015 14:41:27 -0700 (PDT)
+Return-Path: <0000014e8e83e954-97254e9a-271c-4500-852d-d777f99f0e0a-000000@amazonses.com>
+Received: from a10-91.smtp-out.amazonses.com (a10-91.smtp-out.amazonses.com. [54.240.10.91])
+        by mx.google.com with ESMTPS id 132si2811220qhx.34.2015.07.14.14.41.27
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 14 Jul 2015 14:41:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 0000014e8e83e954-97254e9a-271c-4500-852d-d777f99f0e0a-000000@amazonses.com designates 54.240.10.91 as permitted sender) client-ip=54.240.10.91;
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1436910086;
+	h=From:To:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding:Date:Message-ID:Feedback-ID;
+	bh=iTqZxVX/NV7m3AdVlLylZoHKgiUFbpKPHQiCtjHNfe8=;
+	b=rUV0Nno541WuV5mAJImrhckMpUQgvCs2bgtoTll1uDpmcbhDQtfLHYjefdz07iqf
+	jT6Tti7umTfhGdRtvvK/WzK9/tHeNEUqusmKEW4lPdMnnhhJjsAo2vl8wo67MFS51w/
+	sCLriNw0mBknW3rZSt5gtwy1ua88TdtlAi/sa7NE=
+From: CollegeBoard@noreply.collegeboard.org
+To: markiewicz.john@gmail.com
+Subject: Your College Board Account Information
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Tue, 14 Jul 2015 21:41:26 +0000
+Message-ID: <0000014e8e83e954-97254e9a-271c-4500-852d-d777f99f0e0a-000000@email.amazonses.com>
+X-SES-Outgoing: 2015.07.14-54.240.10.91
+Feedback-ID: 1.us-east-1.6hiJE8IXxBakLj3GebBASl8QL0Zzc6je1vwlwRaj/ck=:AmazonSES
+
+Hello, 
+
+You recently requested your user name for your College Board account.  
+
+Here is a list of any usernames you created with your email address markiewicz.john@gmail.com,
+
+    Your user name(s): 
+    
+JOHNMARKIE11 - Student Account
+ 
+ 
+JMARKIEWICZ11 - Student Account
+
+
+Sign in now
+http://www.collegeboard.org?ep_ch=TR  
+
+Need password help, too?
+If you can't remember your password for an account, please use our quick online 
+password help.
+https://account.collegeboard.org/login/forgotPassword?ep_ch=TR 
+
+Sincerely,
+
+The College Board
+
+If you did not request this information, someone may have mistakenly given us your 
+email address instead of their own. As a precaution, please make sure that your 
+password is as secure as possible.
+
+--------------------------------------------------------------
+                            
+Please do not respond to this email as it is not a monitored email
+address. If you have a question or comment concerning College Board
+email services, please contact our Customer Service Department:
+http://www.collegeboard.org/contact-us/send-message/ 
+
+To ensure that collegeboard.org email is not incorrectly identified
+as spam, please add Collegeboard@noreply.collegeboard.org to your
+address book.
+
+Copyright 2015 The College Board, 45 Columbus Avenue, New York, NY 10023-6992.
+All rights reserved. View a complete list of College Board trademarks:
+http://www.collegeboard.org/pdf/college-board-trademarks.pdf 

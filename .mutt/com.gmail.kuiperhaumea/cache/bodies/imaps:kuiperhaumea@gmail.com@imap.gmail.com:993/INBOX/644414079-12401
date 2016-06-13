@@ -1,0 +1,334 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp694362oig;
+        Mon, 20 Jul 2015 08:17:52 -0700 (PDT)
+X-Received: by 10.180.76.232 with SMTP id n8mr22964946wiw.72.1437405471688;
+        Mon, 20 Jul 2015 08:17:51 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22b.google.com (mail-wg0-x22b.google.com. [2a00:1450:400c:c00::22b])
+        by mx.google.com with ESMTPS id q2si12958885wiy.12.2015.07.20.08.17.50
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 20 Jul 2015 08:17:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) client-ip=2a00:1450:400c:c00::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=fail header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wg0-x22b.google.com with SMTP id cc4so35333339wgb.3
+        for <kuiperhaumea@gmail.com>; Mon, 20 Jul 2015 08:17:50 -0700 (PDT)
+X-Received: by 10.194.172.8 with SMTP id ay8mr56375109wjc.106.1437405470354;
+        Mon, 20 Jul 2015 08:17:50 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1247835wmd;
+        Mon, 20 Jul 2015 08:17:49 -0700 (PDT)
+X-Received: by 10.107.134.83 with SMTP id i80mr33784815iod.123.1437405468700;
+        Mon, 20 Jul 2015 08:17:48 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id vl4si17308963icb.8.2015.07.20.08.17.47
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 20 Jul 2015 08:17:48 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=zqXJtToxBqmu6+5QTap4WZtnUMc=; b=TsYUxvRuqa8tiDA3uSL5hp4RzrLcy
+	q9Mxw2KxU+y5iOeiIkvEedJHGgBOyP5tOrlYCS73SgK099xqS7XV+0kzxas060bF
+	JTGQj0FzrriR6FECIPJ0ab1DNelIkkBU4wjgMYLl3bfGVH//vwASH5Cz8Kr6FG1w
+	S8XLenROLkDw9g=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=zqXJtToxBqmu6+5QTap4WZtnUMc=; b=e0SBDvuSaJcHmBvA32ZH0J5oLTia8
+	T+bxBtZ3yVpI9ewWl2lh/HNBSl8NReEx2XUEfXua3DdScDW1pHldv8UK8SRutzPR
+	g8pXLhb0Fbs5+F/jm6XP7CZzhba21NumLgNdFqH/vU2YGc7v3CI3N8rB/mxy+AuS
+	7xmTtXGuXGdwMM=
+Received: by filter0628p1mdw1.sendgrid.net with SMTP id filter0628p1mdw1.12918.55AD111619
+        2015-07-20 15:17:42.502526465 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-047 (SG) with ESMTP id 14eac0abfb1.5bb2.49d716
+	for <markiewicz.john@gmail.com>; Mon, 20 Jul 2015 15:17:42 +0000 (UTC)
+From: "The College of Wooster" <admissions@wooster.edu>
+To: <markiewicz.john@gmail.com>
+Subject: It's your last chance.
+Date: Mon, 20 Jul 2015 15:17:36 +0000
+Message-ID: <29cdb2f2-826f-4319-abe8-06661726c05e@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_d2180fc9-f2f0-45af-8d07-8ec89afd5358"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuESajU4J8Dz/Mz0RAmY73o7PF+7gq+6lYQ/TB
+ 25tGc6gD2ab0De/XWipjZBW2RtjaCbfXj0TtzQMosYcrDF4hP2nd+BeDg+q0OMNaHbUdwN9l/OzjFZ
+ Fq7GTtjPBqY5Gh7aRPP6gXsfNAeN/IRT2VAG
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegCcqDeuDehNCieM5Y/wqj8+BA9VrkJhhiEqDQ45Qrnx0ylSm6j8Ofrka6F
+ nu0E+BbXcYXSU3ZC/3JzupT03BEzyncZ28ap2Wp2o1kMc0ox2csN7dVV3MYJWyznwqRPf88fgnKmwL
+ vu5W/+JXQv+Uz6HLjvCSovBatEKmHsRxOqzYf6YHjzOTuI8DIhxBuZvLFuA6UFcEBLmhDdzdQ/MzQz
+ 09vjGNniHOfX7R1K/tpTNJ
+
+------=_0_d2180fc9-f2f0-45af-8d07-8ec89afd5358
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear John,
+
+Before time runs out, take advantage of Wooster's final Summer Visit Day <h=
+ttp://wooster.edu/admissions/visit/programs/> on Friday, July 24.
+
+We're also a part of the Ohio Five College Tour <http://www.ohiosixcolleget=
+ours.com/register-for-the-ohio-six-college-tour-2>, a two-day event that al=
+lows you to explore some of the nation's best liberal arts colleges.  Learn=
+ more here <http://www.ohiosixcollegetours.com/register-for-the-ohio-six-co=
+llege-tour-2>.
+
+Choose a program date <http://wooster.edu/admissions/visit/programs/> that =
+works best for you.  You'll walk away from either day with a clear sense of=
+ Wooster's distinctions (and why mentored research, bagpipes and Tootsie Ro=
+lls make a perfect combination).
+
+Sincerely,
+Jennifer Winge
+Dean of Admissions
+
+P.S.  The  Fiske Guide to College recognizes Wooster as a "best buy," one o=
+f just 20 private colleges in the U.S., Canada, and U.K. chosen for "qualit=
+y academic offerings and affordable cost."  Visit us to learn more about th=
+e Dean's Scholarship, awarding up to $25,000 annually.
+
+
+
+
+
+Office of Admissions
+1189 Beall Avenue
+Wooster, Ohio 44691
+Phone: (330) 263-2322
+admissions@wooster.edu <mailto:admissions@wooster.edu>
+wooster.edu <http://www.wooster.edu/>
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by The College of Wooster.
+Unsubscribe from The College of Wooster. <https://connect.wooster.edu/go?r=
+=3Doptout&mid=3D29cdb2f2-826f-4319-abe8-06661726c05e>=
+
+------=_0_d2180fc9-f2f0-45af-8d07-8ec89afd5358
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<style type=3D"text/css">
+/**/
+@media only screen and (-webkit-min-device-pixel-ratio: 3.0) and (max-width=
+: 1080px), screen and (max-width: 480px) { table, img { width: 100% !import=
+ant; height: auto !important; } }
+/**/
+</style><style type=3D"text/css">
+/**/
+table td { border:0px; }
+/**/
+</style><style type=3D"text/css">
+/**/
+body {-webkit-text-size-adjust:none; -ms-text-size-adjust: none;}     .foot=
+er a {color:#bf0000; text-decoration:none;}     .iOSfixfooter a {color:#666=
+666; text-decoration:none;}     .iOSfix a {color:#b8b8b8; text-decoration:n=
+one;}     .ExternalClass {width:100%;}     .ExternalClass p, .ExternalClass=
+ span, .ExternalClass font, .ExternalClass td {line-height: 100%}
+/**/
+</style>
+</head>
+<body style=3D"margin:0px;padding:0px;background-color:#FFFFFF;text-align:c=
+enter;font-family:Arial;font-size:10pt;"><style>@media only screen and (max=
+-width: 660px) { .deliver_unsubscribe { width: 100%; } }</style><font face=
+=3D"Times New Roman, Times, serif" size=3D"3"><div style=3D"font-family: Ti=
+mes New Roman, Times, serif; font-size: 12pt;"><div style=3D"background-col=
+or:#FFFFFF;text-align:center;font-family:Arial;font-size:10pt;"><div style=
+=3D"padding:20px 20px;"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"margin-left:auto;margin-right:auto;width:600px;font-family:=
+Arial;font-size:10pt;text-align:left;"><tbody><tr><td align=3D"center" cols=
+pan=3D"2" style=3D"font-family:Arial;font-size:12pt;color:#000;padding:0;">=
+<div style=3D"clear:both;"><img alt=3D"" style=3D"width: 600px; height: 277=
+px;" height=3D"277" width=3D"600" src=3D"https://d2y48w7m6jzhpb.cloudfront.=
+net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_fp94dULhW7CfnEN0t95cVyjuVPIlfMKpK=
+o6B07_DT0JYUVtVO56hf_tWdV7mU9RdfwQMJlhysfb9HipECnUBfLN4g1mhqL6zDk9bpQDm038"=
+ /></div></td></tr><tr><td style=3D"font-family:Arial;font-size:10pt;color:=
+#000000;background-color:#FFFFFF;padding:0;width:100%;" valign=3D"top"><div=
+ style=3D"clear:both;"><table style=3D"font-family: arial; font-size: 13px;=
+"><tbody><tr><td style=3D"padding: 20px 0px; border-collapse: collapse; wid=
+th: 600px;"><p>Dear John,&nbsp;<br /><br />
+Before time runs out, take advantage of Wooster&#8217;s final <a href=3D"ht=
+tp://mx.technolutions.net/wf/click?upn=3DfJfqasXa350VuX97sPm3khLqK76Tvx2T4N=
+EJPe94PaTxUCDqo1atHsn3Z2XBVav7d0A-2BvEDCdIhuabQKaGOYlw-3D-3D_fl-2FMBkJMX7HX=
+blz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg=
+4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVc=
+HE7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3e=
+RnFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiok=
+BSLnBVHXN8zUwpicfeWCNTP-2FTswhaUAFwU9bBDYzTe32d3O-2BZkR3UaSNy-2FLj3qoDxJW-2=
+BnTjMS2NW1sWyDb3h0XS2MmcDdFmoTyA26v4LBZ8XMeHQ0ZtMhkvntvsSn3uT1nx1IUgleZqzkH=
+-2FNrXM-2B-2F8jvtEpz6cxK9PJ1S4LEzK4YLB8Q-3D-3D">Summer Visit Day</a> on Fri=
+day, July 24.<br /><br />
+We&#8217;re also a part of the <a href=3D"http://mx.technolutions.net/wf/cl=
+ick?upn=3DFgQ-2Fn6YekwlwAzpDulOpx9dKR2a8zh7oHXjqN2I03VFLGfBTLrbXmTlcuwEvRJ7=
+X8Ndid6CrVwzIRdvH-2Bh1n62klRj7gscNSK3IUAx-2F8sFz6Ccduj5tkHfRniGAzm2QW_fl-2F=
+MBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2=
+BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVc=
+b1b2lLBVcHE7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwS=
+nBbbEfq3eRnFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm=
+5IITkeiokBSLnAQmUqWxi2qhO4a7nYOimQIz-2BFbKJjZsBr25O3q1mbaGsQHRInxMpBOA2kSna=
+115-2BqPzzA3Q9ZA6lCm9p61msOQQNGE-2FFooGz03uXlENbfxljJnNHutzbNDwriHDy73RGg6a=
+InD6Ck8ZwCNcgSo9DHm3bj0vtBSBAtj-2BL1mStgMpg-3D-3D">Ohio Five College Tour</=
+a>, a two-day event that allows you to explore some of the nation&#8217;s b=
+est liberal arts colleges.&nbsp; Learn more <a href=3D"http://mx.technoluti=
+ons.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx9dKR2a8zh7oHXjqN2I03VFLGfBTLr=
+bXmTlcuwEvRJ7X8Ndid6CrVwzIRdvH-2Bh1n62klRj7gscNSK3IUAx-2F8sFz6Ccduj5tkHfRni=
+GAzm2QW_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2=
+Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv=
+4cqtRZDywkwVcb1b2lLBVcHE7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJb=
+UfjsmdlyuyPwSnBbbEfq3eRnFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2=
+FEAd9BTWQ7LIm5IITkeiokBSLnCH7mMJiznivK-2FLLuubawqDAbIXQCscdAO2e3-2BXuvcDUSg=
+alQbGbYste663JzkVvL5W1Uaz-2BSJPV-2BGOQtQo4aVkhoY9opJVLiKTYz1kQXPDZ5TAh-2F5M=
+KaGVJQmTqB4BgAYqBwmLBAxKwQe76ad7F6AoR7WH-2FFg-2Fj0TJ0HZ22NT2-2Bw-3D-3D">her=
+e</a>.&nbsp;<br /><br />
+Choose a <a href=3D"http://mx.technolutions.net/wf/click?upn=3DfJfqasXa350V=
+uX97sPm3khLqK76Tvx2T4NEJPe94PaTxUCDqo1atHsn3Z2XBVav7d0A-2BvEDCdIhuabQKaGOYl=
+w-3D-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2=
+Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv=
+4cqtRZDywkwVcb1b2lLBVcHE7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJb=
+UfjsmdlyuyPwSnBbbEfq3eRnFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2=
+FEAd9BTWQ7LIm5IITkeiokBSLnCvSKj1Apb6RpnHFSBHDmu4RKjZ-2BWWKE22oGDRALxDbCVBnd=
+NajA4gYfTce4uvOCsUVo1JxI-2BRqGFwFfMhqOz1RrH54RE5Lrmz9PB-2FWpPYOKq7HGyVIkFqW=
+cJOmcqKVfRhQpatrl2NdoUsGPN-2F3s93G4T7tBnwu1Ilo01B5CkZFFQ-3D-3D">program dat=
+e</a> that works best for you.&nbsp; You&#8217;ll walk away from either day=
+ with a clear sense of Wooster&#8217;s distinctions (and why mentored resea=
+rch, bagpipes and Tootsie Rolls make a perfect combination).&nbsp;<br /><br=
+ />
+Sincerely,<br />
+Jennifer Winge<br />
+Dean of Admissions<br />
+&nbsp;<br />
+P.S.&nbsp; The &nbsp;<em>Fiske Guide to College</em> recognizes Wooster as =
+a &#8220;best buy,&#8221; one of just 20 private colleges in the U.S., Cana=
+da, and U.K. chosen for "quality academic offerings and affordable cost."&n=
+bsp; Visit us to learn more about the Dean&#8217;s Scholarship, awarding up=
+ to $25,000 annually.&nbsp;&nbsp;</p></td></tr></tbody></table></div></td><=
+td style=3D"font-family:Arial;font-size:10pt;background-color:#FFFFFF;paddi=
+ng:0;width:0%;" valign=3D"top">&nbsp;</td></tr><tr><td colspan=3D"2" style=
+=3D"font-family:Arial;font-size:9pt;color:#000000;background-color:#000000;=
+padding:0;"><div style=3D"clear:both;"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" style=3D"background-color: rgb(2, 1, 0); width: 600px;"=
+><tbody><tr><td style=3D"padding: 20px 0px 20px 15px; border-collapse: coll=
+apse; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #F=
+FF; width: 393px;"><strong>Office of Admissions</strong><br /><span class=
+=3D"iOSfix">1189 Beall Avenue<br />
+Wooster, Ohio 44691<br />
+Phone: (330) 263-2322</span><br /><a href=3D"mailto:admissions@wooster.edu"=
+ style=3D"color:#f3c200;text-decoration:none;">admissions@wooster.edu</a><b=
+r /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzp=
+DulOpx5pg2f5tgThKa6iFx02pYLE-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHlu=
+MTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms=
+-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcHE7mvmr7ylysCf8R10Qdp2i-2Bsxg=
+brzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eRnFj4I2YV4W30jcfBi8Z1nvuokX5D=
+614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokBSLnApwEtGmjA3ksV8MCDUe0e19hL=
+XyAYaBJ1MZJ-2BKWJrZUrrZJab11DubnRwrgN99G3WzBAQOnY2qWFOky5iHJ86VJYmzOXC-2B8P=
+pL5JS893W2EizsTjJVNq5ZP4eGO4CIg8zAOeFg6SQd1NEfuJCLZcZnrHf0G77k2HCZNIW2rb7dy=
+A-3D-3D" style=3D"color:#f3c200;text-decoration:none;">wooster.edu</a></td>=
+<td align=3D"right" style=3D"padding-top:0px; padding-right:15px; padding-b=
+ottom:0px; padding-left:0px; border-collapse:collapse;" valign=3D"middle" w=
+idth=3D"192"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6=
+YekwlwAzpDulOpx-2BlMa8iqxmcieSR-2BNh-2BBSQQ-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2=
+B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpI=
+CcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcHE7mvmr7ylysCf=
+8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eRnFj4I2YV4W30j=
+cfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokBSLnCJMZfkqKS7=
+K609yjzpA8LCNCVMxmIEi9BChn4gfFp5eylr7CtUXUZkUHSA570oOhwIVUvn7U4gYigUOgMO704=
+eqcnXqARNx25NWzT4ealF2CJZW-2BUke32Nv1Vd9COqZkN1ftvUDWu7UKJ2sx488qANbLvl7HD-=
+2FXFGYAmyatE0OkQ-3D-3D" style=3D"color:#bf0000;text-decoration:none;"><img =
+alt=3D"WOOSTER" style=3D"display: block; font-family: Arial, Helvetica, san=
+s-serif; font-size: 24px; color: rgb(255, 204, 0); text-align: center; bord=
+er-width: 0px; border-style: solid; width: 170px; height: 31px; background-=
+color: rgb(0, 0, 0);" height=3D"31" width=3D"170" src=3D"https://d2y48w7m6j=
+zhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_fp94dULhW7CfnEN0t=
+95cVyjuVPIlfMKpKo6B07_DT0KpI1I6HO1QxnHy4EusyELhAZVlXfIJ1Ng0pGhQ9Z1FBXdMqp34=
+YQcs" /></a><table border=3D"0" cellpadding=3D"5" cellspacing=3D"2"><tbody>=
+<tr><td><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6Yekwl=
+wAzpDulOpx7di-2BbHmyNs6tXw3OzuirisHdypWzlNK5Sh2KMbIcc07_fl-2FMBkJMX7HXblz8U=
+USYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFX=
+wrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcHE7mv=
+mr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eRnFj4=
+I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokBSLnB=
+vY-2FktL5r7sMtHkdASFIBWkkN-2BeDxifhbs4jT1uFl8Pm2uHiLhpVZqquI0PvhHYbTlvdEP-2=
+FC59abKrc4ULlPbe5N46ypv8AlaOc-2BtsPbzWB10w2uEexplx9QO6G1fG2yFd-2BPQ6lLRbXdK=
+uqHZ3T9aGVLlL-2BZxYh5XMPFm3-2BzHPzQ-3D-3D"><img alt=3D"Facebook" longdesc=
+=3D"http://www.facebook.com/CollegeofWooster" style=3D"border-width: 0px; b=
+order-style: solid; width: 30px; height: 30px;" height=3D"30" width=3D"30" =
+src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwK=
+igz_j51_fp94dULhW7CfnEN0t95cVyjuVPIlfMKpKo6B07_DT0ICcsDgHAbHauX60fLu5xOzFWp=
+PvyXP1iWqkifpNY0H2g" /></a></td><td><a href=3D"http://mx.technolutions.net/=
+wf/click?upn=3DtQ550YTtXV6QVHBVm0ByBS4dKJKNtGKpXI0sWIr1NM1BJzDAHoZ9DgJpoyrQ=
+SuOZ_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6=
+VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cq=
+tRZDywkwVcb1b2lLBVcHE7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfj=
+smdlyuyPwSnBbbEfq3eRnFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEA=
+d9BTWQ7LIm5IITkeiokBSLnAYSl3kWKBNJR1G2vx4Nt75CYQQhRar2ORz4pOdUS5i5vVRa0-2F1=
+CSd1ocZ-2B3W9paZ4Bd7rthUek9C6YiM-2Fdjbl8oOHDctwGPeilOxjblvLRBdWcIr70jD8-2BK=
+IRY9r077WBa7TrUY6WRxkzryxBMI7gXlxIV1bOQN7JUbVElwUVNbA-3D-3D"><img alt=3D"" =
+style=3D"width: 30px; height: 31px;" height=3D"31" width=3D"30" src=3D"http=
+s://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_fp9=
+4dULhW7CfnEN0t95cVyjuVPIlfMKpKo6B07_DT0In-UOqFE1cBGofTbyqvr-9ZA7L6FU2nzk" /=
+></a></td><td><a href=3D"http://mx.technolutions.net/wf/click?upn=3DArGmOXN=
+rXZXX-2F83mTJo6EKFV3fAaRmVBTLJzG0QC1oQScshJjh6DLmNEepqr9OnB_fl-2FMBkJMX7HXb=
+lz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4=
+PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcH=
+E7mvmr7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eR=
+nFj4I2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokB=
+SLnDXn8lCGv711z9V9H8IvrlQiPP-2Bh72wc7ogw9EcDYVKWMsEba4K8CruNR-2F48SlN-2BCGR=
+BbE-2FfpvHBmxxD9roWcsllaDdjJQE45p-2FaVOJ8dVAVtpnnuKbDMEzBQixgAQyRZOZE-2FfzN=
+K7GXr2CwTB6h5DGvG4X-2FK2Ez7L0IhhWZVEegQ-3D-3D"><img alt=3D"Twiiter" longdes=
+c=3D"http://twitter.com/WooAdmissions" style=3D"border-width: 0px; border-s=
+tyle: solid; width: 30px; height: 30px;" height=3D"30" width=3D"30" src=3D"=
+https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51=
+_fp94dULhW7CfnEN0t95cVyjuVPIlfMKpKo6B07_DT0IURzgBxcYDauiJuWTr488HbG2xZL9QOR=
+oWN_gIQMw7xQ" /></a></td></tr></tbody></table></td></tr></tbody></table></d=
+iv></td></tr></tbody></table><p>&nbsp;</p></div></div></div></font><br /><t=
+able align=3D"center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe" sty=
+le=3D"opacity: 0.75; clear: both; margin: 25px auto;" cellpadding=3D"5" cel=
+lspacing=3D"0" width=3D"650"><tr><td align=3D"center"><font color=3D"#33333=
+3" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><span style=3D"font-siz=
+e: 11px;">This email was sent to markiewicz.john@gmail.com by The College o=
+f Wooster.<br /><a href=3D"http://mx.technolutions.net/wf/click?upn=3DRsAZd=
+4rVvUxxvV3GpH450XIljIXQd7DBagRQwx7Zt8a1O9fTqVgwvWDJYIdCmpeR25fE-2B1Cw2lPlDa=
+aIBBI6OMz4JH1lmxeaCCQX1j6159-2BpU-2B2EPdNYDQOtPtqVdj8v_fl-2FMBkJMX7HXblz8UU=
+SYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXw=
+rJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcHE7mvm=
+r7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eRnFj4I=
+2YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokBSLnA8=
+Ps4rk1EAwyEtbRAmmHvArP4YKp3-2Fy3Mr5CKEqfHZHlXpzF3s94V3X1t34cjrF1f-2BHqewGlp=
+tpBefGtwDeCeEPz3THrUFVGfASuG5G42Xho4jQONkrCIDv4N9m-2BEt-2F-2FvqXZs3Dqsd8xm9=
+8VYLWG5ek51D-2BWLWWF62NMAVz0cMHw-3D-3D">Unsubscribe</a> from The College of=
+ Wooster.</span></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomPv4cqtRZDywkwVcb1b2lLBVcHE7mvmr=
+7ylysCf8R10Qdp2i-2BsxgbrzNTWr9LSPok55a-2FkbsJbUfjsmdlyuyPwSnBbbEfq3eRnFj4I2=
+YV4W30jcfBi8Z1nvuokX5D614H3WmTGwg-2FkSjF1DJp-2FEAd9BTWQ7LIm5IITkeiokBSLnBs8=
+w1WhdvTCCfsb6eWSz0vhxNsR4U-2BD9NuesD-2FYNQdrabE-2FBMQNXVVY2nLL5R-2BwKi-2B16=
+ZzaJVtMPX-2FwHBuoCksjlvzqlI4knAdlIV1aZ2WEqLHgd8uJqALgoahE40bcLvHM8qgocu5K5L=
+xFEg9-2FSUasG7qL-2F41WH-2BaLxq0sAR0QXrk0u54NaOZfg2jbW5mFKU-3D" alt=3D"" wid=
+th=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px=
+ !important;border-width:0 !important;margin-top:0 !important;margin-bottom=
+:0 !important;margin-right:0 !important;margin-left:0 !important;padding-to=
+p:0 !important;padding-bottom:0 !important;padding-right:0 !important;paddi=
+ng-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_d2180fc9-f2f0-45af-8d07-8ec89afd5358--

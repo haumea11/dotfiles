@@ -1,0 +1,109 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp648671oia;
+        Thu, 5 Nov 2015 11:11:21 -0800 (PST)
+X-Received: by 10.129.90.193 with SMTP id o184mr9076186ywb.123.1446750681788;
+        Thu, 05 Nov 2015 11:11:21 -0800 (PST)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x236.google.com (mail-yk0-x236.google.com. [2607:f8b0:4002:c07::236])
+        by mx.google.com with ESMTPS id o68si723434ywf.196.2015.11.05.11.11.21
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 05 Nov 2015 11:11:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::236 as permitted sender) client-ip=2607:f8b0:4002:c07::236;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::236 as permitted sender) smtp.mailfrom=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x236.google.com with SMTP id a4so77982256ykb.3
+        for <kuiperhaumea@gmail.com>; Thu, 05 Nov 2015 11:11:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to
+         :content-type;
+        bh=kZYAOtEohM2uVoqdBv1yhkbE9EINKY2mK3Zmy5ErFJA=;
+        b=irBeoEEcr5SOXaJWKOJ4vxVcCER6Kl9FbaQOVyMb0kOZS45WpPcvSq5eHf8LeI/oVw
+         T2IlczzTDmdAEiZF9MhFOOGc4lDhu616UcaxtoWDI8Jw1tzRvci6QqSBwPWrQ85RmWq6
+         oQ8KE9q7VWo2YTK4ZFnZ9XYFPTCfMztJTEKwC0HAVjz9KKGexe4bw17tML69S8IIyJpH
+         68roGMCj1GNTJM6hfKWaKRnJHZwrPbuJb0dbsZDxxQJ0/RGE0DuHTk0we9L/M/sgMVY/
+         +iinvnbBKS3uj3X7KOrazGkFIW2ZMCwWoAZR2a0em3vrpUbyHvb1fHE1Pma7lVXIa6YB
+         JNDQ==
+X-Received: by 10.31.155.201 with SMTP id d192mr8671731vke.111.1446750681591;
+ Thu, 05 Nov 2015 11:11:21 -0800 (PST)
+MIME-Version: 1.0
+References: <CANNyMF9JFLzQ8NzC4Z8URWXK9ZUqTYZ4cZD=o5=vRMm4Qk5oTg@mail.gmail.com>
+ <20151105182350.GA29612@heian.vc>
+In-Reply-To: <20151105182350.GA29612@heian.vc>
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+Date: Thu, 05 Nov 2015 19:11:12 +0000
+Message-ID: <CANNyMF-kT=koOGePQX3W9ru_BQbcZJyzdURG87EAY4N7suWA9Q@mail.gmail.com>
+Subject: Re: The chats (Le chats?)
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a1141dc0874750d0523cfe4e9
+
+--001a1141dc0874750d0523cfe4e9
+Content-Type: text/plain; charset=UTF-8
+
+I will get you at 5:30
+
+On Thu, Nov 5, 2015, 1:23 PM John Markiewicz <kuiperhaumea@gmail.com> wrote:
+
+> In fairness, I've had an easier time of things than you had had.
+>
+> I'm probably going to OSC.  If you get this, would you maybe be able
+> to pick me up from school at 5:30?  You totally don't have to if it's
+> not convenient, but I really need to get my laptop adapter if I'm
+> going to the meeting, since I don't have my spare battery on me.
+>
+> If you can pick me up, please say so.  I'd hate to leave you hanging
+> if you did arrive here.
+>
+> On Thu, Nov 05, 2015 at 01:05:26PM +0000, Shannon Markiewicz wrote:
+> > No worries dude. If it helps, you are way more together than I was at
+> your
+> > age. The only thing I thought about was getting the hell away from my mom
+> > and her insanity, and never never being poor again.
+> >
+> > I really wanted to stay home today as well.
+> >
+> > Happy Thursday!  Are you going to osc tonight? The talk is on licenses,
+> so
+> > it's not one I am too interested in...
+>
+
+--001a1141dc0874750d0523cfe4e9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">I will get you at 5:30</p>
+<br><div class=3D"gmail_quote"><div dir=3D"ltr">On Thu, Nov 5, 2015, 1:23 P=
+M=C2=A0John Markiewicz &lt;<a href=3D"mailto:kuiperhaumea@gmail.com">kuiper=
+haumea@gmail.com</a>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" =
+style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">In =
+fairness, I&#39;ve had an easier time of things than you had had.<br>
+<br>
+I&#39;m probably going to OSC.=C2=A0 If you get this, would you maybe be ab=
+le<br>
+to pick me up from school at 5:30?=C2=A0 You totally don&#39;t have to if i=
+t&#39;s<br>
+not convenient, but I really need to get my laptop adapter if I&#39;m<br>
+going to the meeting, since I don&#39;t have my spare battery on me.<br>
+<br>
+If you can pick me up, please say so.=C2=A0 I&#39;d hate to leave you hangi=
+ng<br>
+if you did arrive here.<br>
+<br>
+On Thu, Nov 05, 2015 at 01:05:26PM +0000, Shannon Markiewicz wrote:<br>
+&gt; No worries dude. If it helps, you are way more together than I was at =
+your<br>
+&gt; age. The only thing I thought about was getting the hell away from my =
+mom<br>
+&gt; and her insanity, and never never being poor again.<br>
+&gt;<br>
+&gt; I really wanted to stay home today as well.<br>
+&gt;<br>
+&gt; Happy Thursday!=C2=A0 Are you going to osc tonight? The talk is on lic=
+enses, so<br>
+&gt; it&#39;s not one I am too interested in...<br>
+</blockquote></div>
+
+--001a1141dc0874750d0523cfe4e9--

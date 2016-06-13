@@ -1,0 +1,353 @@
+Return-Path: <jparise@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :content-type;
+        bh=HmZL/dn5uSxsWHVmBgcsOTb83umgRVK5FOFUIUqcDJw=;
+        b=CcHndg+MAgPs4aD4b1IQPrRcofWfUOHOrJLLKgVoDdWM6oBUrFddQFNNF6Mga3CnA8
+         mpfGKrqtmGDc4vBI3hevm6aqA8QHgb2THiwpfS78Z0hrtwsUmMuLIMCVfzqy9nDlclFb
+         qkOc6WtGazbxFufiPGlHd2Qe26vapu1FtnlXvhbmFQNzyMbGQCP6ST4KkaTiBnIUFtca
+         64H0KWLodn8msxMzrzv9cR1aLnY9XoAobz4gAfLxY2BVJSRmn/rce9py0bpt5mT+j7EJ
+         UtqfCqTLer/R5O/p38sxJzH1AvJo/gpTEDQOn1E/Q4dQ28RH+unyteWqjMtMQGjCQ5Wb
+         EBYQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=HmZL/dn5uSxsWHVmBgcsOTb83umgRVK5FOFUIUqcDJw=;
+        b=HDGzT2nv+/phCBz0XKc2NRABdRn0dVKumoknoFc+PBfwG4XfePkRsgsKnSdJJC+dA1
+         RHWQdJ25br6m9KYMj0cwvTA3ZnHHpGfgiLBjR7QOYSPlHcnmWEwokCUwXuDfloAINaB9
+         bi/JCUce8naH/iVmdLaDcMusNWyln6Zgjj3wBGVPCgwCTeildv0HWLYSZ0pWCjyiRTqc
+         Fv5QA2zKpAuVkjGvVYjP0eDIxsAeucwYxfa8CiXuN1jN56FFiUv+5Jz0lV4O0b7V/wzc
+         4jqmvmzpv8b+a4jjRl3nBpKVw/WUtmwJOgqAy3LUvF086zQ1LC817ivL51rxYe97q6WQ
+         wLBA==
+X-Gm-Message-State: AG10YOTOYsApFa3o/UYlUfR+p2KsxgKsTLbHX4mCP9W/kSL+f3UbpD84L3aFw6uIVs3O6A5xbi6J1R5ZiJXg+EZa
+MIME-Version: 1.0
+X-Received: by 10.55.76.73 with SMTP id z70mr57502979qka.105.1455220090215;
+ Thu, 11 Feb 2016 11:48:10 -0800 (PST)
+In-Reply-To: <25582133A830A3499D07ACF6F85B34DB02A0811A@MSGEXCH02.capital.edu>
+References: <56BCCADC.0000010B@pmta04.ewr1.nytimes.com>
+	<25582133A830A3499D07ACF6F85B34DB02A0811A@MSGEXCH02.capital.edu>
+Date: Thu, 11 Feb 2016 14:48:10 -0500
+Message-ID: <CAJ9n-7orsCUFBQ2xpX+ncy4JRFrMpq-Scua63SRmCXAi0dWmTQ@mail.gmail.com>
+Subject: Fwd: FW: NYTimes.com: Scientists Detect Gravitational Waves, Proving
+ Einstein Right
+From: Joe Parise <jparise@cdeducation.org>
+To: Joe Parise <jparise@cdeducation.org>
+Content-Type: multipart/alternative; boundary=001a114a6bda8c619d052b83d43d
+
+--001a114a6bda8c619d052b83d43d
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Greetings all,
+
+Attached is an article from the NY Times regarding one of the greatest
+discoveries of our lifetime; gravity waves.
+
+This discovery was foretold by Einstein in his relativity musings of 1917.
+
+Enjoy!
+
+*JOSEPH ANTHONY PARISE*
+*(614) 268-8671 ext. 325*
+*jparise@cdeducation.org <jparise@cdeducation.org>*
+
+
+
+
+
+---------- Forwarded message ----------
+From: Joe Parise <jparise@capital.edu>
+Date: Thu, Feb 11, 2016 at 1:13 PM
+Subject: FW: NYTimes.com: Scientists Detect Gravitational Waves, Proving
+Einstein Right
+To: "jparise@cdeducation.org" <jparise@cdeducation.org>
+
+
+
+
+
+*Joseph A. Parise Adjunct Professor*
+*Capital* *University*
+1 College and Main
+Columbus Ohio
+jparise@capital.edu
+614.886.7247
+------------------------------
+*From:* emailthis@ms3.lga2.nytimes.com [emailthis@ms3.lga2.nytimes.com]
+*Sent:* Thursday, February 11, 2016 12:54 PM
+*To:* Joe Parise
+*Subject:* NYTimes.com: Scientists Detect Gravitational Waves, Proving
+Einstein Right
+
+
+Sent by jparise@capital.edu:
+Out There Scientists Detect Gravitational Waves, Proving Einstein Right
+<http://p.nytimes.com/email/re?location=3DInCMR7g4BCJTYuyKqXu41oQpldJtqF3u&=
+user_id=3Db99face1755d414a7f8bc28b6b7f9db6&email_type=3Deta&task_id=3D14552=
+13276435820&regi_id=3D0>
+By
+DENNIS OVERBYE
+
+Scientists say they heard the faint chirp of two black holes colliding a
+billion light-years away, fulfilling Einstein=E2=80=99s general theory of
+relativity.
+Or, copy and paste this URL into your browser: http://nyti.ms/20qI4ee
+<http://p.nytimes.com/email/re?location=3DInCMR7g4BCJTYuyKqXu41oQpldJtqF3u&=
+user_id=3Db99face1755d414a7f8bc28b6b7f9db6&email_type=3Deta&task_id=3D14552=
+13276435820&regi_id=3D0>
+To get unlimited access to all New York Times articles, subscribe today. Se=
+e
+Subscription Options.
+<http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KVBjmEgFdYACDuqzkg7rwCIj=
+bQiYyNWYJIW5drsCg04xD2q1X6bqVB/vYPHy+JP5GfoOOml3K0i6GaUY7fZ7jcK869mPAvEGfk=
+=3D&user_id=3Db99face1755d414a7f8bc28b6b7f9db6&email_type=3Deta&task_id=3D1=
+455213276435820&regi_id=3D0>
+To ensure delivery to your inbox, please add nytdirect@nytimes.com to your
+address book.
+Advertisement
+
+Copyright 2016
+<http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KVBjmEgFdYACMlEhIhWVuPIx=
+ganfKahJGpDcKtdpfztygRnz23j1z6nDpx4eAAqQbYRMMl5L56EeQ=3D=3D&user_id=3Db99fa=
+ce1755d414a7f8bc28b6b7f9db6&email_type=3Deta&task_id=3D1455213276435820&reg=
+i_id=3D0>
+| The New York Times Company
+<http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KUv6vqdu/zT/DtUzLlQEcSh&=
+user_id=3Db99face1755d414a7f8bc28b6b7f9db6&email_type=3Deta&task_id=3D14552=
+13276435820&regi_id=3D0>
+| NYTimes.com 620 Eighth Avenue New York, NY 10018
+
+--001a114a6bda8c619d052b83d43d
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_default" style=3D"font-size:small;colo=
+r:#660000">Greetings all,</div><div class=3D"gmail_default" style=3D"font-s=
+ize:small;color:#660000"><br></div><div class=3D"gmail_default" style=3D"fo=
+nt-size:small;color:#660000">Attached is an article from the NY Times regar=
+ding one of the greatest discoveries of our lifetime; gravity waves.</div><=
+div class=3D"gmail_default" style=3D"font-size:small;color:#660000"><br></d=
+iv><div class=3D"gmail_default" style=3D"font-size:small;color:#660000">Thi=
+s discovery was foretold by Einstein in his relativity musings of 1917.</di=
+v><div class=3D"gmail_default" style=3D"font-size:small;color:#660000"><br>=
+</div><div class=3D"gmail_default" style=3D"font-size:small;color:#660000">=
+Enjoy!</div><div class=3D"gmail_default" style=3D"font-size:small;color:#66=
+0000"><br></div><div class=3D"gmail_default" style=3D"font-size:small;color=
+:#660000"><b>JOSEPH ANTHONY PARISE</b></div><div><div><div dir=3D"ltr"><div=
+><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=
+=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr">=
+<div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div=
+ dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><div dir=3D"l=
+tr"><div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><i><font color=3D"#660=
+000" size=3D"2"><span style=3D"background-color:rgb(255,255,255)"><b>(614) =
+268-8671 ext. 325</b></span></font></i></div><div><i><font color=3D"#274e13=
+" size=3D"2"><b><a href=3D"mailto:jparise@cdeducation.org" target=3D"_blank=
+">jparise@cdeducation.org</a></b></font></i></div><div><img width=3D"200" h=
+eight=3D"70" src=3D"https://docs.google.com/uc?export=3Ddownload&amp;id=3D0=
+B34LmDfO5g4pQVVKT295MlMzdnM&amp;revid=3D0B34LmDfO5g4pN3JKRGx6N2ZFajlGaEYxcz=
+E2RW5XSFhtNVVZPQ"><b><i><br></i></b></div><div><b><i><br></i></b></div><div=
+><b><i><br></i></b></div><div><b><i><br></i></b></div><div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div></div></div><=
+/div></div></div></div></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div>
+<br><div class=3D"gmail_quote">---------- Forwarded message ----------<br>F=
+rom: <b class=3D"gmail_sendername">Joe Parise</b> <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:jparise@capital.edu" target=3D"_blank">jparise@capital.edu</=
+a>&gt;</span><br>Date: Thu, Feb 11, 2016 at 1:13 PM<br>Subject: FW: NYTimes=
+.com: Scientists Detect Gravitational Waves, Proving Einstein Right<br>To: =
+&quot;<a href=3D"mailto:jparise@cdeducation.org" target=3D"_blank">jparise@=
+cdeducation.org</a>&quot; &lt;<a href=3D"mailto:jparise@cdeducation.org" ta=
+rget=3D"_blank">jparise@cdeducation.org</a>&gt;<br><br><br>
+
+
+
+
+<div>
+<div style=3D"direction:ltr;font-family:Tahoma;color:#000000;font-size:10pt=
+"><br>
+<div><br>
+<div style=3D"font-family:Tahoma;font-size:13px">
+<div>
+<div><span lang=3D"en-US"><font><span dir=3D"ltr"><b style=3D"color:black;f=
+ont-family:Tahoma;font-size:10pt"><font color=3D"000080" size=3D"3" face=3D=
+"Calibri">Joseph A. Parise</font><font color=3D"000080"><br>
+<font size=3D"3" face=3D"Calibri">Adjunct Professor</font></font></b><br>
+<div style=3D"color:black;font-family:Tahoma;font-size:10pt;margin:0px"><fo=
+nt color=3D"#400080" face=3D"Georgia,serif"><b>Capital</b></font><font face=
+=3D"Georgia,serif"><b>
+</b></font><font color=3D"gray" face=3D"Georgia,serif"><b>University</b></f=
+ont><font color=3D"#1F497D" size=3D"2" face=3D"Calibri,sans-serif"><span st=
+yle=3D"font-size:11pt">
+</span></font></div>
+<div style=3D"color:black;font-family:Tahoma;font-size:10pt;margin:0px"><fo=
+nt color=3D"#1F497D" size=3D"2" face=3D"Calibri,sans-serif"><span style=3D"=
+font-size:11pt">1 College and Main</span></font></div>
+<div style=3D"color:black;font-family:Tahoma;font-size:10pt;margin:0px"><fo=
+nt color=3D"#1F497D" size=3D"2" face=3D"Calibri,sans-serif"><span style=3D"=
+font-size:11pt">Columbus Ohio</span></font></div>
+<div style=3D"color:black;font-family:Tahoma;font-size:10pt;margin:0px"><fo=
+nt color=3D"#1F497D" size=3D"2" face=3D"Calibri,sans-serif"><span style=3D"=
+font-size:11pt"><a href=3D"mailto:jparise@capital.edu" target=3D"_blank">jp=
+arise@capital.edu</a></span></font></div>
+<div style=3D"margin:0px"><font color=3D"#1f497d" face=3D"Calibri, sans-ser=
+if"><span style=3D"font-size:14.6667px">614.886.7247</span></font></div>
+</span></font></span></div>
+</div>
+</div>
+</div>
+<div style=3D"font-family:Times New Roman;color:#000000;font-size:16px">
+<hr>
+<div style=3D"direction:ltr"><font face=3D"Tahoma" size=3D"2" color=3D"#000=
+000"><b>From:</b> <a href=3D"mailto:emailthis@ms3.lga2.nytimes.com" target=
+=3D"_blank">emailthis@ms3.lga2.nytimes.com</a> [<a href=3D"mailto:emailthis=
+@ms3.lga2.nytimes.com" target=3D"_blank">emailthis@ms3.lga2.nytimes.com</a>=
+]<br>
+<b>Sent:</b> Thursday, February 11, 2016 12:54 PM<br>
+<b>To:</b> Joe Parise<br>
+<b>Subject:</b> NYTimes.com: Scientists Detect Gravitational Waves, Proving=
+ Einstein Right<br>
+</font><br>
+</div>
+<div></div>
+<div>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"601" style=3D"font-family:arial,helvetica,sans-serif;font-size:12px;=
+color:#333333;margin-left:20px;margin-right:20px">
+<tbody>
+<tr>
+<td>
+<table cellspacing=3D"16" style=3D"width:100%;background-color:#f0f4f5">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"font-family:Georgia,times,serif;font-size:17px;c=
+olor:#333333">
+</td>
+</tr>
+<tr>
+<td cellspacing=3D"15" colspan=3D"2" style=3D"border-top:1px solid #cccccc"=
+>=C2=A0</td>
+</tr>
+<tr>
+<td style=3D"font-size:12px;font-family:arial,sans-serif;color:#333333">Sen=
+t by <a href=3D"mailto:jparise@capital.edu" target=3D"_blank">jparise@capit=
+al.edu</a>:</td>
+<td style=3D"text-align:right"><img src=3D"http://i1.nyt.com/images/misc/ny=
+tlogo194x27.gif" style=3D"vertical-align:middle;min-height:15px;width:105px=
+" height=3D"15" width=3D"105"></td>
+</tr>
+<tr>
+<td colspan=3D"2">
+<table style=3D"width:100%;background-color:#ffffff;padding:14px;border-rig=
+ht:2px solid #dddddd;border-bottom:3px solid #cfcfcf;border-top:1px solid #=
+eeeeee;border-left:1px solid #eeeeee">
+<tbody>
+<tr>
+<td style=3D"vertical-align:top;padding-right:12px"><img src=3D"http://stat=
+ic01.nyt.com/images/2016/02/12/science/12gravity-vidpromo/12gravity-vidprom=
+o-thumbStandard.jpg"></td>
+<td>
+<h6 style=3D"font-size:10px;font-weight:normal;text-transform:uppercase;col=
+or:#000000;margin:0;margin-bottom:2px">
+Out There</h6>
+<h1 style=3D"font-weight:normal;font-family:georgia,&#39;times new roman&#3=
+9;,times,serif;font-size:23px;margin:0;margin-bottom:4px">
+<a href=3D"http://p.nytimes.com/email/re?location=3DInCMR7g4BCJTYuyKqXu41oQ=
+pldJtqF3u&amp;user_id=3Db99face1755d414a7f8bc28b6b7f9db6&amp;email_type=3De=
+ta&amp;task_id=3D1455213276435820&amp;regi_id=3D0" style=3D"color:#004276;t=
+ext-decoration:none!important" target=3D"_blank"><span style=3D"color:#0042=
+76">Scientists
+ Detect Gravitational Waves, Proving Einstein Right</span> </a></h1>
+<h6 style=3D"margin:0 0 5px 0;font-size:10px;font-family:arial,sans-serif;f=
+ont-weight:normal;color:808080">
+<span style=3D"text-transform:uppercase">By DENNIS OVERBYE</span></h6>
+<p style=3D"margin:0;font-size:14px;font-family:georgia,&#39;times new roma=
+n&#39;,times,serif;color:#333333">
+Scientists say they heard the faint chirp of two black holes colliding a bi=
+llion light-years away, fulfilling Einstein=E2=80=99s general theory of rel=
+ativity.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0;font-family:arial,sans-serif;font-size:11px;color:#3=
+33333">
+Or, copy and paste this URL into your browser: <a href=3D"http://p.nytimes.=
+com/email/re?location=3DInCMR7g4BCJTYuyKqXu41oQpldJtqF3u&amp;user_id=3Db99f=
+ace1755d414a7f8bc28b6b7f9db6&amp;email_type=3Deta&amp;task_id=3D14552132764=
+35820&amp;regi_id=3D0" style=3D"color:#004276;font-weight:bold;text-decorat=
+ion:none!important" target=3D"_blank">
+http://nyti.ms/20qI4ee </a></td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"padding:0;font-family:arial,sans-serif;font-size=
+:11px;color:#333333">
+To get unlimited access to all New York Times articles, subscribe today. <a=
+ href=3D"http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KVBjmEgFdYACDuqz=
+kg7rwCIjbQiYyNWYJIW5drsCg04xD2q1X6bqVB/vYPHy+JP5GfoOOml3K0i6GaUY7fZ7jcK869m=
+PAvEGfk=3D&amp;user_id=3Db99face1755d414a7f8bc28b6b7f9db6&amp;email_type=3D=
+eta&amp;task_id=3D1455213276435820&amp;regi_id=3D0" style=3D"color:#004276;=
+font-weight:bold" target=3D"_blank">
+See Subscription Options. </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"border-bottom:1px solid #cccccc;font-family:arial,sans-serif;f=
+ont-size:11px;color:#333333;text-align:center;padding:20px 0 20px 0">
+To ensure delivery to your inbox, please add <a href=3D"mailto:nytdirect@ny=
+times.com" style=3D"color:#004276;text-decoration:none!important;font-weigh=
+t:bold" target=3D"_blank">
+nytdirect@nytimes.com</a> to your address book.</td>
+</tr>
+<tr>
+<td style=3D"text-align:center;font-family:arial,helvetica,sans-serif;color=
+:#666666;font-size:10px;text-transform:uppercase;padding-top:24px;padding-b=
+ottom:8px">
+Advertisement</td>
+</tr>
+<tr>
+<td style=3D"padding-top:0;padding-bottom:20px;border-bottom:1px solid #ccc=
+ccc">
+<div style=3D"min-height:90px;width:336px;margin:0 auto"></div>
+</td>
+</tr>
+<tr>
+<td style=3D"text-align:center;color:#909090;font-size:12px;font-family:ari=
+al,sans-serif;padding-top:10px;padding-bottom:25px">
+<a href=3D"http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KVBjmEgFdYACMl=
+EhIhWVuPIxganfKahJGpDcKtdpfztygRnz23j1z6nDpx4eAAqQbYRMMl5L56EeQ=3D=3D&amp;u=
+ser_id=3Db99face1755d414a7f8bc28b6b7f9db6&amp;email_type=3Deta&amp;task_id=
+=3D1455213276435820&amp;regi_id=3D0" style=3D"color:#909090;text-decoration=
+:none!important" target=3D"_blank">Copyright
+ 2016</a> <span style=3D"padding-left:5px;padding-right:5px">|</span> <a hr=
+ef=3D"http://p.nytimes.com/email/re?location=3D4z5Q7LhI+KUv6vqdu/zT/DtUzLlQ=
+EcSh&amp;user_id=3Db99face1755d414a7f8bc28b6b7f9db6&amp;email_type=3Deta&am=
+p;task_id=3D1455213276435820&amp;regi_id=3D0" style=3D"text-decoration:none=
+!important;color:909090" target=3D"_blank">
+The New York Times Company</a> <span style=3D"padding-left:5px;padding-righ=
+t:5px">
+|</span> <span>NYTimes.com 620 Eighth Avenue New York, NY 10018</span></td>
+</tr>
+</tbody>
+</table>
+<p>=C2=A0</p>
+<img src=3D"http://p.nytimes.com/email/re?location=3DhdaNaYedr2/IomeWRKt0nf=
+frak8aSGLbvtkkq/r7ihwOf5XePlpJ1w=3D=3D&amp;user_id=3Db99face1755d414a7f8bc2=
+8b6b7f9db6&amp;email_type=3Deta&amp;task_id=3D1455213276435820&amp;regi_id=
+=3D0">
+</div>
+</div>
+</div>
+</div>
+
+</div><br></div>
+
+--001a114a6bda8c619d052b83d43d--

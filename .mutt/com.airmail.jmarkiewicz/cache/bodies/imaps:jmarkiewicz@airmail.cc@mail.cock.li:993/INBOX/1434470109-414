@@ -1,0 +1,107 @@
+Return-Path: <cock.li-news-bounces@lists.cock.li>
+Delivered-To: jmarkiewicz@airmail.cc
+X-Original-To: cock.li-news@lists.cock.li
+Delivered-To: cock.li-news@lists.cock.li
+To: cock.li-news@lists.cock.li
+From: Vincent Canfield <vc@cock.li>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <5650BF97.6070603@cock.li>
+Date: Sat, 21 Nov 2015 14:01:43 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.3.0
+MIME-Version: 1.0
+X-Mailman-Approved-At: Sat, 21 Nov 2015 20:02:41 +0100
+Subject: [Cock.li News] Cock.li now has server-side filter support
+X-BeenThere: cock.li-news@lists.cock.li
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: <cock.li-news.lists.cock.li>
+List-Unsubscribe: <https://lists.cock.li/mailman/options/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=unsubscribe>
+List-Archive: <http://lists.cock.li/pipermail/cock.li-news/>
+List-Post: <mailto:cock.li-news@lists.cock.li>
+List-Help: <mailto:cock.li-news-request@lists.cock.li?subject=help>
+List-Subscribe: <https://lists.cock.li/mailman/listinfo/cock.li-news>,
+ <mailto:cock.li-news-request@lists.cock.li?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============6240790096354402688=="
+Errors-To: cock.li-news-bounces@lists.cock.li
+Sender: "Cock.li-news" <cock.li-news-bounces@lists.cock.li>
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--===============6240790096354402688==
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="AjT9HQANV80fxP4ILCjbU1bSBI63jNTlU"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--AjT9HQANV80fxP4ILCjbU1bSBI63jNTlU
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+1. https://mail.cock.li/
+2. "Settings", then "Filters"
+
+
+    email email email email
+       email poop email
+
+         \         /
+          \       /
+           \     /
+            \   /
+             | | <-- poop filtering brought to you by Sieve
+ --------    | |   ---------
+|poop box|=3D=3D=3D  =3D=3D=3D|email box|
+ --------          ---------
+             | |
+             | |
+-------------  --------------
+|   <><          ><>        |
+|           <><    ><>      |
+|     <><                   |
+|           ><>             |
+-----------------------------
+
+--=20
+    Vincent Canfield
+         -cock-
+5CB4 9CDC EAC7 97FB F8BD
+C074 FD71 AD27 71A5 CC1B
+
+
+--AjT9HQANV80fxP4ILCjbU1bSBI63jNTlU
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="signature.asc"
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJWUL+XAAoJEP1xrSdxpcwb1VIP/0BcXxYyKF4Ujea4gl2UTOf4
+LipH/3VZJs9WaI0YyZpc1SaaRcvAy0k1/nh/gYdwDiUEWrqGDpCeciF4MAFTaQ2l
+99etQWB02rY7VWbA/JmdQKwdOyG5L6UMjabAF7S+IwlKzzch92SlMQsZ6HfZUeIa
+dFfamnatTaEIUgE16lL/0GSzhsW45B1phv6JXVY5w6L9VfggPCqs/Mfnm04ZI4Gz
+lNyqzUPCM9cAWc5Sgv6jGJL6cBKRrRWv+Jw5kIBeTa6TnRkggMv3j/ONVJZNShrg
+G4bOOoGUOK6OQkBv1zlC38+b/bAzI2eLx8+N/YxPt5o71dlxDmFS3mV3eZcxTmLj
+I5xduzbxQN1CU6lxXLH7myrLPFs8MIusv/DiqAOtTYFyx7x4m9m2SGqPvrbsOlK/
+dTspIPWqdE9yQbxfDX1Rw3/MjntPq3Vdgi3Khsq2Z6BHQ+h7amd+XcnS4QRoX5a7
+PGkKf5R5xM/kDXm9wFduU5sY7mdi9ufS+5/Rywq4TyM9rkuIdbScmGAOSPP+PYM0
+xYrgilGLfVMiJ0+c0FzCgrkbMKVJ+nPPOQvG/nMReTNffA5alYsmGmDkRdvubVBL
+WFJN+7J6bEYMYLryIoak///opj/pyD/t7ascIpvm5f3vFacVaZZadELxEPpOYKse
+C2/TJ1375QoazrPsXFAI
+=KFSv
+-----END PGP SIGNATURE-----
+
+--AjT9HQANV80fxP4ILCjbU1bSBI63jNTlU--
+
+--===============6240790096354402688==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+8========================================D
+        Cock.li news mailing list
+         To unsubscribe, E-mail
+  cock.li-news-unsubscribe@lists.cock.li
+--===============6240790096354402688==--

@@ -1,0 +1,45 @@
+Return-Path: <bounce-md_30061178.55bcf6e5.v1-32f945ef10ca4d6e80df471a7a3715bd@mailevent.pcpartpicker.com>
+X-Original-To: edt@airmail.cc
+Delivered-To: edt@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mandrill; d=pcpartpicker.com;
+ h=From:Subject:Message-Id:To:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=philip@pcpartpicker.com;
+ bh=eHzo5N50oPulR2MBgyT/rvVfcTg=;
+ b=hlRiJMobHsVaf5F0DKMJ/ztj0LMZw8/UMD66eae7zCjB/uVcUmkYCFIE74qeL6heJVaE1aD9qsfT
+   zO1CPHTFr8C8QX+5u/FfWdtIRluETxy5D9CQa6ldNy1JjFlQIIU+6RDxNlSklaESLE9wLWw2Krwi
+   Hf/a6OCa+a20ZvCzzqk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mandrill; d=pcpartpicker.com;
+ b=K2/7gaTnnimOM/5iRb5cgzVJexp0/iI397Qi29eEXsGiVLwQ0ehYa8ZQMytbXQh0jyMTmhvalSDA
+   UmrJOXLTdtYB9uiGKn3wQriVjah+cJvjHeHn/g+p2fRxCqcNFbBndjZ0OWpbBzEpgxklWIwmuzV+
+   e33zDO37tkjRqJvhf9g=;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mandrillapp.com; 
+ i=@mandrillapp.com; q=dns/txt; s=mandrill; t=1438447333; h=From : 
+ Subject : Message-Id : To : Date : MIME-Version : Content-Type : 
+ Content-Transfer-Encoding : From : Subject : Date : X-Mandrill-User : 
+ List-Unsubscribe; bh=i63xyJaWtT2Y6MuIExh/Wi43/TiDkqyp5H1y1UvRRh0=; 
+ b=fjtxGUxS+nE1tIwPWxVMQRUCp+X8k0eJoNPGnYLs5z0GbJ2ecVqAm8pa3k2XOVmFCKboqa
+ TXza3Sb5Q4QDLvj557FRXMrGTx2WrE1/4RE7yDbT2ucWcg5t2Ru7I2PEq4K6GKlIPCG55eP5
+ OCw9YTu1sY7MpNHSvy+R6SkwcC1Cw=
+From: <philip@pcpartpicker.com>
+Subject: Activate your account at PCPartPicker.com
+Message-Id: <20150801164212.4610.66895@www2.pcpartpicker.com>
+To: <edt@airmail.cc>
+X-Report-Abuse: Please forward a copy of this message, including all headers, to abuse@mandrill.com
+X-Report-Abuse: You can also report abuse here: http://mandrillapp.com/contact/abuse?id=30061178.32f945ef10ca4d6e80df471a7a3715bd
+X-Mandrill-User: md_30061178
+Date: Sat, 01 Aug 2015 16:42:13 +0000
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Thank you for registering at PCPartPicker!
+
+To activate your account, click on the link below:
+http://pcpartpicker.com/accounts/activate/b4d9e82b10061a055f199d09923d0e4b60293594/
+
+Sincerely, 
+PCPartPicker
+
+
+This activation link is valid for 60 days.
+
+If you have received this email in error, you may disregard it.  No further emails will be sent.

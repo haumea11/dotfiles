@@ -1,0 +1,389 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1096537oig;
+        Sun, 8 Nov 2015 10:41:26 -0800 (PST)
+X-Received: by 10.194.115.69 with SMTP id jm5mr14215028wjb.156.1447008086806;
+        Sun, 08 Nov 2015 10:41:26 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22d.google.com (mail-wi0-x22d.google.com. [2a00:1450:400c:c05::22d])
+        by mx.google.com with ESMTPS id 202si11938510wms.8.2015.11.08.10.41.26
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 08 Nov 2015 10:41:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) client-ip=2a00:1450:400c:c05::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wi0-x22d.google.com with SMTP id q8so55797782wik.1
+        for <kuiperhaumea@gmail.com>; Sun, 08 Nov 2015 10:41:26 -0800 (PST)
+X-Received: by 10.194.187.41 with SMTP id fp9mr30045377wjc.14.1447008086498;
+        Sun, 08 Nov 2015 10:41:26 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp524970wme;
+        Sun, 8 Nov 2015 10:41:25 -0800 (PST)
+X-Received: by 10.66.100.199 with SMTP id fa7mr33327653pab.149.1447008085462;
+        Sun, 08 Nov 2015 10:41:25 -0800 (PST)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o8.mx.technolutions.net (o8.mx.technolutions.net. [198.37.152.137])
+        by mx.google.com with ESMTPS id yj10si16731694pab.237.2015.11.08.10.41.25
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 08 Nov 2015 10:41:25 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.152.137 as permitted sender) client-ip=198.37.152.137;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=FDozWSGyvZN4MwNtf3rZVbM1JLM=; b=s3Nk+Hki5eWJ2pWGAwc9NKNylu4LE
+	Dni9KwZBBeqp9BI+JbDZTN1LciLQ9OW7srJGcWjMts1PabplSSodcYNk8DM8rb2X
+	5W9g7PbaIfVKHZLJcWbSDp+IBDc/JA3Cr1uVHiD+sWriI92JXDmy2gcn3Eiq2eLV
+	J8q4dXWjkcD9a8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=FDozWSGyvZN4MwNtf3rZVbM1JLM=; b=EWkuBRXwx5FgD19XQM9Xh38xEVNuv
+	fjF6+OI5QvH+td1AAu9RSmN30agoqzzw2N6N8sunbAv9WITCNeU7J2luk/fGObvv
+	gvPx5fhXjLWOHatHQ68S5CO8d74y2hxJa1nU9QAm56TtR2CumBaEC7wMg6N7ibfO
+	+4348DP4MwLl68=
+Received: by filter-323.sjc1.sendgrid.net with SMTP id filter-323.13499.563F97541B
+        2015-11-08 18:41:24.548765071 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id TJHbN40NQ5Wesew6-rhQLg
+	for <markiewicz.john@gmail.com>; Sun, 08 Nov 2015 18:41:24.375 +0000 (UTC)
+From: "Loyola University Chicago" <admission@luc.edu>
+To: <markiewicz.john@gmail.com>
+Subject: =?utf-8?B?
+ VGFrZSBhIGxvb2sgYXQgTG95b2xh4oCZcyBwcmUtcHJvZmVzc2lvbmFsIHByb2dyYW1z?=
+Date: Sun, 08 Nov 2015 18:41:17 +0000
+Message-ID: <d55f7ae4-27a4-4b00-84c9-c832db609af0@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_9c61e8c7-3268-496f-86ad-637fa3f44081"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuGbMq1ZY8WTOS49+yfsq7Hb0o2eGZQddzdPUE
+ IIUMhoqxPdLYTDFyncrOgj6WuQQ6wa+q9OUk66UsSNo6o/NOcCqupalfYvneKq9tVS3YTYP4KvRwKp
+ nl+oFfXnbKetWEM=
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegHR7Yq5FZrgKZudXof3N7Xl4r0XmE2YkyKOt0GlZ6LJIpWASaoGwpPnfBk
+ h4+eFS8j1AU1czwGqtICkQeug06d2Mu9zk/73dgVYOJk131zQFBRXIf83DTH2Kb+oEA4OPgzVnFL4f
+ U0UZcl1pcoy6EVCT4W/eyY6sty//JLmLla/HSz4KYiYE6aRArmvp3OAL2bkn5qyIo5l7/rp042T9fS
+ LkK7yXpMllXS9/SEdifZ/S
+
+------=_0_9c61e8c7-3268-496f-86ad-637fa3f44081
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+ <http://www.luc.edu/undergrad/>Are you interested in medicine, law, or eng=
+ineering?
+
+You have probably thought a lot about your major already. If you haven't de=
+cided yet, make sure you keep an open mind as you consider the possibilitie=
+s.
+
+Loyola offers pre-professional <http://www.luc.edu/undergrad/academiclife/p=
+re-professionalprograms/> areas of study and an engineering science program=
+ for motivated students.
+
+	 Pre-health=E2=80=94As a pre-health student, you'll be able to explore car=
+eers in medicine, pharmacology, dentistry, physical and occupational therap=
+y, and veterinarian medicine.
+	 Pre-law=E2=80=94If you're considering a career in law, this program will =
+get you started with extensive advising and real-world law experience.
+	 Engineering Science=E2=80=94The new Engineering Science <http://luc.edu/e=
+ngineeringscience/> program focuses on system theory and engineering design=
+, two areas of study that can set you apart at graduation.
+
+Get an in-depth look at Loyola's pre-professional programs <http://www.luc.=
+edu/undergrad/academiclife/pre-professionalprograms/>.
+
+ <https://uao.luc.edu/apply>
+
+
+Undergraduate Admission Office
+1032 W. Sheridan Rd.
+Chicago, IL 60660 | 800.262.2373
+
+
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by Loyola University Chica=
+go.
+Unsubscribe from Loyola University Chicago. <https://uao.luc.edu/go?r=3Dopt=
+out&mid=3Dd55f7ae4-27a4-4b00-84c9-c832db609af0>=
+
+------=_0_9c61e8c7-3268-496f-86ad-637fa3f44081
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+ /><style type=3D"text/css">
+/**/
+@media only screen and (max-width: 480px) {
+                        td[class=3D"headercell"] p { font-size: 13px !impor=
+tant; }
+                        h1 { font-size: 20px; }
+                        table[class=3D"hide"], img[class=3D"hide"], td[clas=
+s=3D"hide"],span[class=3D"hide"],br[class=3D"hide"] {
+                                  display: none !important;
+                         }
+                        table[class=3D"cell-block"],table[class=3D"cell-blo=
+ck"] td, td[class=3D"three-column-wrapper"],
+                        table[class=3D"three-column"],table[class=3D"three-=
+column"] td
+                        { width: 275px !important; }
+                        td[class=3D"cell"]
+                        { width: 275px !important; }
+                        table[class=3D"table"], table[class=3D"table-column=
+"],
+                        table[class=3D"table-column"] td, table[class=3D"co=
+ntent"],
+                        table[class=3D"content"] td, table[class=3D"headert=
+able"], td[class=3D"headercell"],
+                        table[class=3D"subfooter"],table[class=3D"subfooter=
+"] td {
+                                  width: 325px !important;
+                         }
+                        td[class=3D"three-column-wrapper"] { padding: 0; }
+                        table[id=3D"content"] td[class=3D"cell"] { display:=
+ block; margin: 0 auto; }
+                        img[class=3D"header-logo"] {
+                                width: 175px !important;
+                                height: auto !important;
+                                margin-bottom: 15px !important;
+                        }
+                        img[class=3D"header-title"] {
+                                  width: 325px !important;
+                                  height: auto !important;
+                        }
+                        img[id=3D"hero"] {
+                                  width: 325px !important;
+                                  height: auto !important;
+                        }
+                        table[class=3D"cell-block"] { padding-top: 10px !im=
+portant; }
+                        table[class=3D"cell-block"] td { display: block; wi=
+dth: 100%; }
+                        table[class=3D"three-column"],table[class=3D"three-=
+column last"] { width: 100% !important; margin-left: 0 !important; padding:=
+ 0px 0px 10px !important; margin-bottom: 10px !important; line-height: 1.7e=
+m !important; border-bottom: 1px dotted #ffffff; }
+                        table[class=3D"three-column last"] { padding-bottom=
+: 0px !important; margin-bottom: 20px !important; border-bottom: none !impo=
+rtant; }
+                        table[class=3D"three-column"] span,table[class=3D"t=
+hree-column last"] span { display: inline !important; min-height: 0 !import=
+ant; }
+                        p[class=3D"event-info"]{ border-left: none !importa=
+nt; padding-left: 0 !important; }
+                        p[class=3D"content"]{ line-height: 1.5em; }
+                        p[class=3D"disclaimer"]{ padding-right: 25px; font-=
+size: 13px !important; text-align: left; }
+                        table[class=3D"subfooter"] td { display: block !imp=
+ortant; }
+                        table[class=3D"subfooter"] td img { float: left !im=
+portant; }
+                        table[class=3D"table-column"] { width: 325px !impor=
+tant; }
+                        table[class=3D"table-column"] td[class=3D"subfooter=
+-text"] { width: 280px!important;  }
+                        td[class=3D"subfooter-text"] p { font-size: 18px !i=
+mportant; font-style: helvetica, arial, sans-serif !important; color: #3333=
+33 !important; }
+                        table[class=3D"subfooter"] td[class=3D"mobile-no-pa=
+d"] {  width: 280px!important; }
+                        img[class=3D"subfooter-logo"] { display: inline !im=
+portant; padding-left: 20px !important; }
+                        a[class=3D"read-more"] { display: block; padding-le=
+ft: 0 !important; padding-top: 5px; }
+                }
+/**/
+</style>
+</head>
+<body bgcolor=3D"#E5E5E5" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" style=3D"-webkit-font-smoothing: antialiased;width:100% !important;b=
+ackground:#e5e5e5;-webkit-text-size-adjust:none;" topmargin=3D"0"><style>@m=
+edia only screen and (max-width: 660px) { .deliver_unsubscribe { width: 100=
+%; } }</style><font face=3D"Times New Roman, Times, serif" size=3D"3"><div =
+style=3D"font-family: Times New Roman, Times, serif; font-size: 12pt;"><tab=
+le bgcolor=3D"#E5E5E5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%"><tbody><tr><td bgcolor=3D"#E5E5E5" width=3D"100%"><!-- All Cont=
+ent--><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"table" width=3D"600"><tbody><tr><td class=3D"cell" width=3D"60=
+0"><!-- spacer table (creates breathing room at top of email) --><table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table" width=3D"600"=
+><tbody><tr><td bgcolor=3D"#E5E5E5" class=3D"cell" width=3D"100%">&nbsp;</t=
+d></tr></tbody></table><!-- end spacer table --><!-- HEADER --><table bgcol=
+or=3D"#FFFFFF" border=3D"0" cellpadding=3D"25" cellspacing=3D"0" class=3D"h=
+eadertable" style=3D"background: #ffffff;" width=3D"600"><tbody><tr><td bgc=
+olor=3D"#FFFFFF" class=3D"headercell" style=3D"padding: 0; background: #eee=
+eee;" width=3D"600"><a href=3D"http://mx.technolutions.net/mpss/c/0AA/YUYIA=
+A/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h0/5hCAyVTdnfRe8335U-2BMaZy5rJmcJ7MOWSqtUtSa=
+hEdM-3D"><img alt=3D"The Loyola Experience" border=3D"0" class=3D"header-ti=
+tle" style=3D"outline: none; font-family: Rockwell, 'Courier Bold', Courier=
+, Georgia, Times, 'Times New Roman', serif; color: #333333; margin: 0; padd=
+ing-bottom: 0; font-weight: bold; letter-spacing: .04em;" title=3D"The Loyo=
+la Experience" src=3D"https://fw.cdn.technolutions.net/fw/eu/-bgWTcF616uVxA=
+-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89vyqRfO6r4SwxF1P=
+BPkfRmGc0pwsQTPjwFXtgpJ_7Z-dQ" /></a></td></tr></tbody></table><!-- end HEA=
+DER --><!-- LEDE IMAGE (width=3D"600" height=3D"240")--><a href=3D"http://m=
+x.technolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h1/5hCAy=
+VTdnfRe8335U-2BMaZy5rJmcJ7MOWSqtUtSahEdM-3D"><img border=3D"0" id=3D"hero" =
+style=3D"margin-bottom:0px; outline:none;" title=3D"Loyola University Chica=
+go" align=3D"center" height=3D"auto" width=3D"600" src=3D"https://fw.cdn.te=
+chnolutions.net/fw/eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEv=
+uEL2f_p4PRbbLXL4vJf89uQDJUwOkZyPY7aqjnezCAXXk8x3Hjt2qS0tVKuZfLiMiloWi3-LnmE=
+" /></a><!-- LEDE IMAGE --><!-- CONTENT --><table bgcolor=3D"#FFFFFF" borde=
+r=3D"0" cellpadding=3D"20" cellspacing=3D"0" class=3D"table" id=3D"content"=
+ style=3D"padding-top: 20px; text-align: left; background: #ffffff; font-fa=
+mily: helvetica, arial, sans-serif;" width=3D"600"><tbody><tr><td bgcolor=
+=3D"#FFFFFF" class=3D"cell" style=3D"padding: 0px 20px; text-align: left;ba=
+ckground:#ffffff;font-family: helvetica, arial, sans-serif;" width=3D"600">=
+<h2 style=3D"margin: 0 0 8px; text-align: left;font-family: helvetica, aria=
+l, verdana; line-height:125%; color: #333333">Are you interested in medicin=
+e, law, or engineering?</h2><p class=3D"content" style=3D"margin-top:0px;fo=
+nt-size: 15px; line-height: 1.6em; text-align: left; font-family: Georgia, =
+'Times New Roman', Times, serif; color: #333333;">You have probably thought=
+ a lot about your major already. If you haven&#8217;t decided yet, make sur=
+e you keep an open mind as you consider the possibilities.</p><p class=3D"c=
+ontent" style=3D"margin-top:0px;font-size: 15px; line-height: 1.6em; text-a=
+lign: left; font-family: Georgia, 'Times New Roman', Times, serif; color: #=
+333333;">Loyola offers <a href=3D"http://mx.technolutions.net/mpss/c/0AA/YU=
+YIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h2/5hCAyVTdnfRe8335U-2BMaZ8QIGxgeVxv2GqpW=
+jDjYbrYdZ6w-2BM3w-2FIgJiAPCEGNE0PGaf3-2FrzltWrD3OYtuTP59zi-2FYriKX1DsAo8-2F=
+i50IZk-3D" style=3D"color: #840f36 !important;">pre-professional</a> areas =
+of study and an engineering science program for motivated students.</p><ul>=
+<li style=3D"margin-bottom:5px;font-size: 15px; line-height: 1.6em; text-al=
+ign: left; font-family: Georgia, 'Times New Roman', Times, serif; color: #3=
+33333;"><b>Pre-health</b>&#8212;As a pre-health student, you'll be able to =
+explore careers in medicine, pharmacology, dentistry, physical and occupati=
+onal therapy, and veterinarian medicine.&nbsp;</li><li style=3D"margin-bott=
+om:5px;font-size: 15px; line-height: 1.6em; text-align: left; font-family: =
+Georgia, 'Times New Roman', Times, serif; color: #333333;"><b>Pre-law</b>&#=
+8212;If you&#8217;re considering a career in law, this program will get you=
+ started with extensive advising and real-world law experience.</li><li sty=
+le=3D"margin-bottom:5px;font-size: 15px; line-height: 1.6em; text-align: le=
+ft; font-family: Georgia, 'Times New Roman', Times, serif; color: #333333;"=
+><b>Engineering Science</b>&#8212;The new <a href=3D"http://mx.technolution=
+s.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h3/f3JqbFTUmc7o9ae9apb=
+lspr-2Bak-2FC2t7a4B54Wzv-2BJinHWO3lFUfOurCc97rKa5RT" style=3D"color: #840f3=
+6 !important;">Engineering Science</a> program focuses on system theory and=
+ engineering design, two areas of study that can set you apart at graduatio=
+n.</li></ul><p class=3D"content" style=3D"margin-top:0px;font-size: 15px; l=
+ine-height: 1.6em; text-align: left; font-family: Georgia, 'Times New Roman=
+', Times, serif; color: #333333;">Get an in-depth look at <a href=3D"http:/=
+/mx.technolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h4/5hC=
+AyVTdnfRe8335U-2BMaZ8QIGxgeVxv2GqpWjDjYbrYdZ6w-2BM3w-2FIgJiAPCEGNE0PGaf3-2F=
+rzltWrD3OYtuTP59zi-2FYriKX1DsAo8-2Fi50IZk-3D" style=3D"color: #840f36 !impo=
+rtant;">Loyola&#8217;s pre-professional programs</a>.</p><a href=3D"http://=
+mx.technolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h5/7vF-=
+2FnNDUbF4gnb4N3-2Ba0ROHZtRkEYfEVblzvBz1coiM-3D" style=3D"display: inline-bl=
+ock; margin-top: 10px; margin-bottom: 5px; text-decoration: none;"><img alt=
+=3D"Apply today!" border=3D"0" style=3D"outline:none;-webkit-text-size-adju=
+st:none;color:#840f36;font-weight:normal;text-transform:none;line-height:13=
+px;font-size:11px;font-family:Arial, Helvetica, sans-serif;margin:0;padding=
+:0;" title=3D"Apply today!" src=3D"https://fw.cdn.technolutions.net/fw/eu/-=
+bgWTcF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89v4=
+mZ4qDhXZK_6gfUU3kK-PxaEmeycGx4Y" /></a><div style=3D"margin: 0 !important; =
+padding: 0 !important; height: 25px;">&nbsp;</div></td></tr><!-- end CONTEN=
+T BODY --><!-- FOOTER - SOCIAL --></tbody></table><table bgcolor=3D"#FFFFFF=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table" style=3D=
+"background: #ffffff;" width=3D"600"><tbody><tr><td class=3D"social" style=
+=3D"padding: 0 20px 20px; background-color: #ffffff;" valign=3D"top"><table=
+ border=3D"0" cellpadding=3D"2" cellspacing=3D"0" style=3D"width:10%;" widt=
+h=3D"10%"><tbody><tr><td><a href=3D"http://mx.technolutions.net/mpss/c/0AA/=
+YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h6/HE2UYZIDTZxfLuJ8qHDFiMo6ZMM2ki1VFdhT=
+-2BipYJO0Q0Bz6o5Fgr1XVyOy39epx" style=3D"text-decoration: none;" target=3D"=
+_blank"><img alt=3D"Facebook" style=3D"border-radius: 2px; opacity:1;" src=
+=3D"https://fw.cdn.technolutions.net/fw/eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS=
+0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89vvjHtaRLZ4ghe7mGAs-GZwuEBw-og8fD8=
+" /></a></td><td><a href=3D"http://mx.technolutions.net/mpss/c/0AA/YUYIAA/t=
+.1ry/MpqBTpMrTc6zREWgcs6EDg/h7/VE2atosPJwyp5yA4oN-2FSanfsMWS0AY4zfIMYLUl4h6=
+c-3D" style=3D"text-decoration: none;" target=3D"_blank"><img alt=3D"Twitte=
+r" style=3D"border-radius: 2px; opacity:1;" src=3D"https://fw.cdn.technolut=
+ions.net/fw/eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p=
+4PRbbLXL4vJf89u5kWWXHYq4XTm2q0TpBTDO6J6CVLrMaQQ" /></a></td><td><a href=3D"=
+http://mx.technolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/=
+h8/laCycbjzuDwe-2BXNTOL9-2FdnmXLqGLkLRZAXfZpOOpx-2Bis92R2MXy7SH6UGzo5luBE" =
+style=3D"text-decoration: none;" target=3D"_blank"><img alt=3D"YouTube" sty=
+le=3D"border-radius: 2px; opacity:1;" src=3D"https://fw.cdn.technolutions.n=
+et/fw/eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbL=
+XL4vJf89u1ocIvWE8DLSiz4u5CvRWlPCyeU28CTAY" /></a></td><td><a href=3D"http:/=
+/mx.technolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h9/Zlb=
+XSknjmXwzdTdEZXUHekUZcsYPUMa3onS3bSr-2BEdQfcRN2A0zs-2FyOpP8FalMxJ" style=3D=
+"text-decoration: none;" target=3D"_blank"><img alt=3D"Instagram" style=3D"=
+border-radius: 2px; opacity:1;" src=3D"https://fw.cdn.technolutions.net/fw/=
+eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf=
+89tZXoGdrPqzO5x2XzZB04LtmdXDmEDVpbk" /></a></td><td><a href=3D"http://mx.te=
+chnolutions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h10/m1fGsk4L=
+W-2BuQ9E-2BD6VWpKZsGhF4Zqi37tpI3EEK9cjApfwcrs9Dua21MdrxvJJYY" style=3D"text=
+-decoration: none;" target=3D"_blank"><img alt=3D"Flickr" style=3D"border-r=
+adius: 2px; opacity:1;" src=3D"https://fw.cdn.technolutions.net/fw/eu/-bgWT=
+cF616uVxA-7Vzr-iqsub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89swOELJ=
+rAQIwEWe-PMaAzoTY2WJ4N5LaEc" /></a></td><td><a href=3D"http://mx.technoluti=
+ons.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h11/-2FjNjxkFPwtlQs1=
+WfEBAj20iArhu9kMIGctZXuKKMo4E-3D" style=3D"text-decoration: none;" target=
+=3D"_blank"><img alt=3D"Admissions Blog" style=3D"border-radius: 2px; opaci=
+ty:1;" src=3D"https://fw.cdn.technolutions.net/fw/eu/-bgWTcF616uVxA-7Vzr-iq=
+sub0MaiVCS0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89u36KeL4j4JarPpCe09ef0Ll=
+73Tzo4RbDs" /></a></td></tr></tbody></table></td></tr></tbody></table><!-- =
+end FOOTER - SOCIAL --><!-- RULE --></td></tr><tr style=3D"background-color=
+: #ffffff;"><td style=3D"padding-top: 0; padding-bottom: 0;"><hr align=3D"c=
+enter" noshade=3D"noshade" size=3D"1" style=3D"margin-top: 0; margin-bottom=
+: 0; width: 93%; border-color: #e5e5e5; background-color:#e5e5e5; color: #e=
+5e5e5;" /></td></tr><!-- end RULE --><!-- SUBFOOTER --><tr><td><table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"subfooter" width=3D"60=
+0"><tbody><tr bgcolor=3D"#FFFFFF"><td style=3D"-webkit-text-size-adjust:non=
+e;color:#444444 !important;font-weight:normal;text-transform:none;font-size=
+:11px;font-family: helvetica, arial, sans-serif !important; line-height: 14=
+0%;" valign=3D"top"><table align=3D"left" border=3D"0" cellpadding=3D"20" c=
+ellspacing=3D"0" class=3D"table-column" width=3D"300"><tbody><tr><td class=
+=3D"subfooter-text" style=3D"color:#444444 !important;"><p style=3D"margin:=
+ 0 !important; padding: 0 !important; color:#444444 !important; font-size:1=
+1px !important; font-family: helvetica, arial, sans-serif !important; line-=
+height: 140%;">Undergraduate Admission Office<br />
+1032 W. Sheridan Rd.<br />
+Chicago, IL 60660 | 800.262.2373</p></td></tr></tbody></table></td><td styl=
+e=3D"-webkit-text-size-adjust:none;color:#444444;font-weight:normal;text-tr=
+ansform:none;line-height:1.4em;font-size:11px;font-family: helvetica, arial=
+, sans-serif;" valign=3D"top"><table align=3D"left" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"table-column" valign=3D"top" width=3D"30=
+0"><tbody><tr><td class=3D"mobile-no-pad" style=3D"padding-top: 23px; paddi=
+ng-right: 20px; color: #e5e5e5" valign=3D"top"><a href=3D"http://mx.technol=
+utions.net/mpss/c/0AA/YUYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h12/5hCAyVTdnfRe8=
+335U-2BMaZy5rJmcJ7MOWSqtUtSahEdM-3D"><img alt=3D"Loyola University Chicago"=
+ border=3D"0" class=3D"subfooter-logo" style=3D"outline: none;" title=3D"Lo=
+yola University Chicago" align=3D"right" height=3D"auto" width=3D"210" src=
+=3D"https://fw.cdn.technolutions.net/fw/eu/-bgWTcF616uVxA-7Vzr-iqsub0MaiVCS=
+0hX9kjUPGedwkwWXjyTEvuEL2f_p4PRbbLXL4vJf89tjd-aNa0E6NLqkLwM6ghcrOwX5OKO0a8a=
+DdSawr-kgIdNvgCGsEINT" /></a></td></tr></tbody></table></td></tr><tr><td co=
+lspan=3D"2">&nbsp;</td></tr></tbody></table></td></tr><!-- SUBFOOTER --></t=
+body></table></td></tr><!-- end CONTENT --></tbody></table></div></font><br=
+ /><table align=3D"center" bgcolor=3D"#fafafa" class=3D"deliver_unsubscribe=
+" style=3D"opacity: 0.75; clear: both; margin: 25px auto;" cellpadding=3D"5=
+" cellspacing=3D"0" width=3D"650"><tr><td align=3D"center"><font color=3D"#=
+333333" face=3D"Arial, Helvetica, sans-serif" size=3D"1"><span style=3D"fon=
+t-size: 11px;">This email was sent to markiewicz.john@gmail.com by Loyola U=
+niversity Chicago.<br /><a href=3D"http://mx.technolutions.net/mpss/c/0AA/Y=
+UYIAA/t.1ry/MpqBTpMrTc6zREWgcs6EDg/h13/7vF-2FnNDUbF4gnb4N3-2Ba0RDdUxT70ZcV-=
+2Fc08uj-2BH5Xb7Cs1-2B8LIRFzQFmLl8f-2B-2F4t9RIuQ-2B3N6pAAM0KmbPwlBn-2B-2FSyP=
+-2BES295wKKsp3Uh68-3D">Unsubscribe</a> from Loyola University Chicago.</spa=
+n></font></td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/mpss/o/0AA/YUYIAA/t.1ry/MpqBTpMrTc6=
+zREWgcs6EDg/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"=
+height:1px !important;width:1px !important;border-width:0 !important;margin=
+-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;marg=
+in-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;p=
+adding-right:0 !important;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_9c61e8c7-3268-496f-86ad-637fa3f44081--

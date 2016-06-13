@@ -1,0 +1,73 @@
+Return-Path: <shannon.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=vef5G0K0OgSOyP0PpCmL7suhMvTjTIxVcVpMu8cRAjg=;
+        b=FuUkm/omesHxOmQk+E7sFtrF33BVrM7TTMrqoh97SjchIOA6bpCCqiGZV+hIY2kCVT
+         gr5383bwMLHBKslrJhrz6lh9aAvKzpd5wl1pSWn/67YS7BdoVPFmIKg1dhizveRNOn6s
+         3gN43529I8vhvEWrZw/jl4tTY9G8QV3jLuxxmbAF0XzGh3Wcf8qENrM7Z7vn1uM0aEP3
+         QFL/S68XLN3HLvm0HXRQ5r3U4+HvgbFk3S+KFq8qj+bVY1JcdaVuuEBLWkvwO0NII64r
+         w6nRRPG9vcZqdfVfE5LsEy683vUe7kw/y4BkQTGzd9+TZS0LSFswfI/Z4u+LTljQTXdF
+         FBUA==
+X-Received: by 10.50.44.100 with SMTP id d4mr3091053igm.67.1437230510292;
+        Sat, 18 Jul 2015 07:41:50 -0700 (PDT)
+Message-ID: <55AA65A9.3010907@gmail.com>
+Date: Sat, 18 Jul 2015 10:41:45 -0400
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Icedove/31.7.0
+MIME-Version: 1.0
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Subject: Other netgear info
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP MESSAGE-----
+Charset: utf-8
+Version: GnuPG v2
+
+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
+=oRaf
+-----END PGP MESSAGE-----

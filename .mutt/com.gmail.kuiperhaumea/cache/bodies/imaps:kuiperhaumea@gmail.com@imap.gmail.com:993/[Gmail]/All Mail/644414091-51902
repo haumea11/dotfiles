@@ -1,0 +1,299 @@
+Return-Path: <kuiperhaumea@gmail.com>
+Received: from ?IPv6:2605:a000:1119:4043:812a:4f56:bb54:ef00? ([2605:a000:1119:4043:812a:4f56:bb54:ef00])
+        by smtp.googlemail.com with ESMTPSA id r4sm6468925igh.9.2015.07.04.15.30.55
+        for <2rtmar.ac@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 04 Jul 2015 15:30:55 -0700 (PDT)
+Subject: Re: Soon-to-be ftp server
+To: Ryan Mar <2rtmar.ac@gmail.com>
+References: <CAJsGx3KHJxn+9DAHcCRNpX9_5AEVqtJV=nPKavTw9-SyLYb8Cw@mail.gmail.com>
+ <CAGBwmT10SB_Lc=Nq=EiHRcXurew4HPX5ASEaP+o8R14Q7U72+Q@mail.gmail.com>
+ <55983054.3040406@gmail.com>
+ <CAGBwmT2QM4P1H1xVSb2=iRS8O9z79SYb03D1MbSrSTHK1iNT0Q@mail.gmail.com>
+ <55983B3C.4080407@gmail.com>
+ <CAGBwmT0Q7NPP1ACYRgxQ89cHzCYcyLc_dQboDgyuvKoiR-Ku+A@mail.gmail.com>
+ <559858A8.2020701@gmail.com>
+ <CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com>
+From: John Markiewicz <kuiperhaumea@gmail.com>
+X-Enigmail-Draft-Status: N1110
+Message-ID: <55985EFB.9060501@gmail.com>
+Date: Sat, 4 Jul 2015 18:32:27 -0400
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.0.1
+MIME-Version: 1.0
+In-Reply-To: <CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com>
+Content-Type: multipart/alternative;
+ boundary="------------090700030109050604000002"
+
+This is a multi-part message in MIME format.
+--------------090700030109050604000002
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+I, too, don't have much to hide.  I'd like to make sure if I ever did,
+though, I could.
+
+I had read something a while back on how the idea of "I have nothing to
+hide" isn't useful, but I guess it's kind of reassuring that while I
+don't have encryption on this e-mail, it's not really important.
+
+On 07/04/2015 06:05 PM, Ryan Mar wrote:
+> Haha true, good thing that I don't have much to hide at this point,
+> especially considering I'm using the gmail app on an iPhone right bow
+>
+> On Saturday, July 4, 2015, John Markiewicz <kuiperhaumea@gmail.com
+> <mailto:kuiperhaumea@gmail.com>> wrote:
+>
+>     Thunderbird is pretty good stuff.  It integrates with pgp using a
+>     plugin called enigmail, which makes working with encryption almost
+>     reasonably easy.  Not perfectly usable for everyone, but not bad.
+>
+>     For example, I could sign and encrypt this (though the encryption
+>     wouldn't make sense until you had a key) and nobody would be able
+>     to read it without my private key (residing only on physical
+>     drives I own) or your private key (hypothetically residing only on
+>     physical drives you own.)  It's pretty cool stuff when you
+>     consider how unsecured e-mail is in general.
+>
+>     On 07/04/2015 04:21 PM, Ryan Mar wrote:
+>>     I had thunderbird when I was using Ubuntu, but I never signed in
+>>     because I don't know my email passwords by heart
+>>
+>>     On Saturday, July 4, 2015, John Markiewicz
+>>     <kuiperhaumea@gmail.com
+>>     <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wrote:
+>>
+>>         Yeah, Arch linux on the Raspberry Pi.  No 1tb microsd cards
+>>         yet, but I'm on the lookout for one.  /There is no kill like
+>>         overkill./
+>>
+>>         My method of transferring things is brute-force and requires
+>>         a way to connect to both drives at once.  Micro Center might
+>>         give you a more simple means of doing things, and they may
+>>         even help you in doing it.
+>>
+>>         Have you considered thunderbird as your mail client?  It
+>>         makes working with pgp/gpg easier.  Also it works on linux,
+>>         which is a perk if you ever make the switch or have to do
+>>         work on a linux box.
+>>
+>>         [side note: I can also be reached at jmarkiewicz@airmail.cc
+>>         <javascript:_e(%7B%7D,'cvml','jmarkiewicz@airmail.cc');>]
+>>
+>>         On 07/04/2015 03:34 PM, Ryan Mar wrote:
+>>>         Sounds good thanks! I've read about pgp before, I'm actually
+>>>         messing around with low-level encryption algorithms
+>>>         and stuff for fun .=20
+>>>
+>>>         I also haven't figured out exactly how to transfer my system
+>>>         to a new hard drive yet, might just end up asking somebody
+>>>         at microcenter.=20
+>>>
+>>>         Also, I assume you're running arch on the Pi? And did you
+>>>         manage to find a terabyte sd card for it yet?
+>>>
+>>>
+>>>
+>>>         On Saturday, July 4, 2015, John Markiewicz
+>>>         <kuiperhaumea@gmail.com
+>>>         <javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');>> wro=
+te:
+>>>
+>>>             My plan is to just hook it up to my dock for drives (has
+>>>             a 3tb WD green
+>>>             for lots of low-reliability storage) and then just try
+>>>             and get it
+>>>             accessible via ssh from outside my router.  If I can
+>>>             figure out that
+>>>             part (which is the hardest part) then I should be good
+>>>             and I'll make
+>>>             sure to tell you how I did it.
+>>>
+>>>             As an aside, pgp is pretty cool.  Check it out if you
+>>>             ever have free
+>>>             time.  Makes it possible to send somethign over e-mail
+>>>             and have it be
+>>>             secure.
+>>>
+>>>             On 07/04/2015 12:59 PM, Ryan Mar wrote:
+>>>             > Hey this is awesome. Let me know how you go about
+>>>             making it a file
+>>>             > server--I wanted to do this earlier this year but I
+>>>             had trouble finding
+>>>             > a reasonable way of doing it.
+>>>             >
+>>>             > On Friday, July 3, 2015, John Markiewicz
+>>>             <markiewicz.john@gmail.com
+>>>             <javascript:_e(%7B%7D,'cvml','markiewicz.john@gmail.com')=
+;>
+>>>             > <mailto:markiewicz.john@gmail.com>> wrote:
+>>>             >
+>>>             > Thought I'd show it off
+>>>             >
+>>>             >
+>>>             > Sorry for the mess in the background, just got back
+>>>             from a trip and
+>>>             > my desk is unclean.
+>>>             >
+>>>
+>>
+>
+
+
+--------------090700030109050604000002
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    I, too, don't have much to hide.  I'd like to make sure if I ever
+    did, though, I could.<br>
+    <br>
+    I had read something a while back on how the idea of "I have nothing
+    to hide" isn't useful, but I guess it's kind of reassuring that
+    while I don't have encryption on this e-mail, it's not really
+    important.<br>
+    <br>
+    <div class="moz-cite-prefix">On 07/04/2015 06:05 PM, Ryan Mar wrote:<br>
+    </div>
+    <blockquote
+cite="mid:CAGBwmT3Tj9-YuKP38fwQ5JuZ5tiP8WdyCkKt+a-EWcJSaoePzg@mail.gmail.com"
+      type="cite">Haha true, good thing that I don't have much to hide
+      at this point, especially considering I'm using the gmail app on
+      an iPhone right bow<span></span><br>
+      <br>
+      On Saturday, July 4, 2015, John Markiewicz &lt;<a
+        moz-do-not-send="true" href="mailto:kuiperhaumea@gmail.com"><a class="moz-txt-link-abbreviated" href="mailto:kuiperhaumea@gmail.com">kuiperhaumea@gmail.com</a></a>&gt;
+      wrote:<br>
+      <blockquote class="gmail_quote" style="margin:0 0 0
+        .8ex;border-left:1px #ccc solid;padding-left:1ex">
+        <div text="#000000" bgcolor="#FFFFFF"> Thunderbird is pretty
+          good stuff.  It integrates with pgp using a plugin called
+          enigmail, which makes working with encryption almost
+          reasonably easy.  Not perfectly usable for everyone, but not
+          bad.<br>
+          <br>
+          For example, I could sign and encrypt this (though the
+          encryption wouldn't make sense until you had a key) and nobody
+          would be able to read it without my private key (residing only
+          on physical drives I own) or your private key (hypothetically
+          residing only on physical drives you own.)  It's pretty cool
+          stuff when you consider how unsecured e-mail is in general.<br>
+          <br>
+          <div>On 07/04/2015 04:21 PM, Ryan Mar wrote:<br>
+          </div>
+          <blockquote type="cite">I had thunderbird when I was using
+            Ubuntu, but I never signed in because I don't know my email
+            passwords by heart<span></span><br>
+            <br>
+            On Saturday, July 4, 2015, John Markiewicz &lt;<a
+              moz-do-not-send="true"
+              href="javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');"
+              target="_blank"><a class="moz-txt-link-abbreviated" href="mailto:kuiperhaumea@gmail.com">kuiperhaumea@gmail.com</a></a>&gt; wrote:<br>
+            <blockquote class="gmail_quote" style="margin:0 0 0
+              .8ex;border-left:1px #ccc solid;padding-left:1ex">
+              <div text="#000000" bgcolor="#FFFFFF"> Yeah, Arch linux on
+                the Raspberry Pi.  No 1tb microsd cards yet, but I'm on
+                the lookout for one.  <i>There is no kill like
+                  overkill.</i><br>
+                <br>
+                My method of transferring things is brute-force and
+                requires a way to connect to both drives at once.  Micro
+                Center might give you a more simple means of doing
+                things, and they may even help you in doing it.<br>
+                <br>
+                Have you considered thunderbird as your mail client?  It
+                makes working with pgp/gpg easier.  Also it works on
+                linux, which is a perk if you ever make the switch or
+                have to do work on a linux box.<br>
+                <br>
+                [side note: I can also be reached at <a
+                  moz-do-not-send="true"
+                  href="javascript:_e(%7B%7D,'cvml','jmarkiewicz@airmail.cc');"
+                  target="_blank"><a class="moz-txt-link-abbreviated" href="mailto:jmarkiewicz@airmail.cc">jmarkiewicz@airmail.cc</a></a>]<br>
+                <br>
+                <div>On 07/04/2015 03:34 PM, Ryan Mar wrote:<br>
+                </div>
+                <blockquote type="cite">Sounds good thanks! I've read
+                  about pgp before, I'm actually messing around with
+                  low-level encryption algorithms and stuff for fun . 
+                  <div><br>
+                  </div>
+                  <div>I also haven't figured out exactly how to
+                    transfer my system to a new hard drive yet, might
+                    just end up asking somebody at microcenter. </div>
+                  <div><br>
+                  </div>
+                  <div>Also, I assume you're running arch on the Pi? And
+                    did you manage to find a terabyte sd card for it
+                    yet?</div>
+                  <div><br>
+                  </div>
+                  <div><span></span><br>
+                    <div><br>
+                      On Saturday, July 4, 2015, John Markiewicz &lt;<a
+                        moz-do-not-send="true"
+                        href="javascript:_e(%7B%7D,'cvml','kuiperhaumea@gmail.com');"
+                        target="_blank"><a class="moz-txt-link-abbreviated" href="mailto:kuiperhaumea@gmail.com">kuiperhaumea@gmail.com</a></a>&gt;
+                      wrote:<br>
+                      <blockquote class="gmail_quote" style="margin:0 0
+                        0 .8ex;border-left:1px #ccc
+                        solid;padding-left:1ex">My plan is to just hook
+                        it up to my dock for drives (has a 3tb WD green<br>
+                        for lots of low-reliability storage) and then
+                        just try and get it<br>
+                        accessible via ssh from outside my router.  If I
+                        can figure out that<br>
+                        part (which is the hardest part) then I should
+                        be good and I'll make<br>
+                        sure to tell you how I did it.<br>
+                        <br>
+                        As an aside, pgp is pretty cool.  Check it out
+                        if you ever have free<br>
+                        time.  Makes it possible to send somethign over
+                        e-mail and have it be<br>
+                        secure.<br>
+                        <br>
+                        On 07/04/2015 12:59 PM, Ryan Mar wrote:<br>
+                        &gt; Hey this is awesome. Let me know how you go
+                        about making it a file<br>
+                        &gt; server--I wanted to do this earlier this
+                        year but I had trouble finding<br>
+                        &gt; a reasonable way of doing it.<br>
+                        &gt;<br>
+                        &gt; On Friday, July 3, 2015, John Markiewicz
+                        &lt;<a moz-do-not-send="true"
+                          href="javascript:_e(%7B%7D,'cvml','markiewicz.john@gmail.com');"
+                          target="_blank">markiewicz.john@gmail.com</a><br>
+                        &gt; &lt;mailto:<a moz-do-not-send="true">markiewicz.john@gmail.com</a>&gt;&gt;
+
+
+                        wrote:<br>
+                        &gt;<br>
+                        &gt; Thought I'd show it off<br>
+                        &gt;<br>
+                        &gt;<br>
+                        &gt; Sorry for the mess in the background, just
+                        got back from a trip and<br>
+                        &gt; my desk is unclean.<br>
+                        &gt;<br>
+                      </blockquote>
+                    </div>
+                  </div>
+                </blockquote>
+                <br>
+              </div>
+            </blockquote>
+          </blockquote>
+          <br>
+        </div>
+      </blockquote>
+    </blockquote>
+    <br>
+  </body>
+</html>
+
+--------------090700030109050604000002--

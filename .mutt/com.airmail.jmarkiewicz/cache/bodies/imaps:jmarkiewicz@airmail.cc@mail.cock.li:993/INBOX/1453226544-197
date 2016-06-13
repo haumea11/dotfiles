@@ -1,0 +1,49 @@
+Return-Path: <louise.vial@gmail.com>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=aPtzdZOadUBG16CPzg5lige1/GIBL8AbPqBAEFBsUJ0=;
+        b=jQHMTWo/gJuczRQQmH2ZgXn9CHPQcGohyN50+UhhAtiFsxakWrczkgOK9ye48CjK1H
+         SIns27fSOWh0lnxb6QC/T14i5wVqZrUHmg7C5KzlK/zyv8ieioK/nGSz5Ipf1Oykl5ZI
+         UvJqBeTVkbJ0AxUcpDUvko26FdS5SSnfLF2LF7gdXa2zIVTvpkpcXLULFcdh1g6qXRSs
+         a5E6ZRisj49Rpk2Tv2qIKzkykqAd0vbV3Isoc10clCy46yRzSXO8lDlAgVLVA4Fa41kv
+         dMXjSsfeMWCSY0b48WSUQCg3Nk/7TdMEDpltg4iCTbZ546ZUJ5e6WSBO/L2H2n3sqNTv
+         8Yng==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=aPtzdZOadUBG16CPzg5lige1/GIBL8AbPqBAEFBsUJ0=;
+        b=bukqwubXT/qYGXzMZ+Bwd2PyTRiFoSovBOKPAnl8Ly2ISxgWmRWkx6xPSgvGxlFKO9
+         mtSWEKxadcNvTntsPH4U6DRqY4XvwWBJYMHIYLxRe96N+t0fIZw67tUW08dM/Eh+PNAZ
+         85QBkiEQvcmSn2+M40kLnQRfZEI4NOscoUdOefXNL3mBPG7NmzsXr922lelfkWsxQmkt
+         ZaZ1sOIMk4/zM3vMhl7REah5HKvNlT4Q+n9rx4OVZu3y0pFXlWcubDBjLP7PKknzmcTT
+         ErwOKAgoIcqUyMg00HGmsKJ8yJL+6jvPCP9OVAvBNJyfJwZGU1dNvbjbVahDBzobNY74
+         weKw==
+X-Gm-Message-State: AD7BkJLirDKNWxXToQ1rrMJAxaFlfPpf8vEoSrfJcORSJpq6abU8axQ8w9mm0pF7Ecb2zSs/J0Qkm1UaMLVzmw==
+MIME-Version: 1.0
+X-Received: by 10.31.7.140 with SMTP id 134mr13846088vkh.155.1458244736413;
+ Thu, 17 Mar 2016 12:58:56 -0700 (PDT)
+Date: Thu, 17 Mar 2016 20:58:56 +0100
+Message-ID: <CA+Z0Gj5my=5RNBM_Ohkkd2h1bX7GY5EW=mb4xgj2SrAxd7K0Ng@mail.gmail.com>
+Subject: Yo coz
+From: Louise Vial <louise.vial@gmail.com>
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+Content-Type: multipart/alternative; boundary=001a1143f25282768d052e440f5a
+
+--001a1143f25282768d052e440f5a
+Content-Type: text/plain; charset=UTF-8
+
+Happy birthday John!
+What's up with you?
+Love,
+Louise
+
+--001a1143f25282768d052e440f5a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Happy birthday John!<div>What&#39;s up with you?</div><div=
+>Love,=C2=A0</div><div>Louise</div></div>
+
+--001a1143f25282768d052e440f5a--

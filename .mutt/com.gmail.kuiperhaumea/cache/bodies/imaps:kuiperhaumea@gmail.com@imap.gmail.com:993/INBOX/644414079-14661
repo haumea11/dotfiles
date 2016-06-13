@@ -1,0 +1,281 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.61.212 with SMTP id k203csp609532oia;
+        Sat, 31 Oct 2015 12:37:09 -0700 (PDT)
+X-Received: by 10.194.19.134 with SMTP id f6mr15177167wje.133.1446320229019;
+        Sat, 31 Oct 2015 12:37:09 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22e.google.com (mail-wi0-x22e.google.com. [2a00:1450:400c:c05::22e])
+        by mx.google.com with ESMTPS id ud4si12725491wjc.89.2015.10.31.12.37.08
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 31 Oct 2015 12:37:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22e as permitted sender) client-ip=2a00:1450:400c:c05::22e;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22e as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@amazonses.com
+Received: by mail-wi0-x22e.google.com with SMTP id q8so21424696wik.1
+        for <kuiperhaumea@gmail.com>; Sat, 31 Oct 2015 12:37:08 -0700 (PDT)
+X-Received: by 10.194.189.68 with SMTP id gg4mr14474136wjc.146.1446320228786;
+        Sat, 31 Oct 2015 12:37:08 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.3 with SMTP id w3csp535685wmw;
+        Sat, 31 Oct 2015 12:37:07 -0700 (PDT)
+X-Received: by 10.68.191.194 with SMTP id ha2mr16557564pbc.3.1446320227848;
+        Sat, 31 Oct 2015 12:37:07 -0700 (PDT)
+Return-Path: <00000150bf67429f-a6fad7eb-ea71-44b3-8caa-7c49a1ac7898-000000@us-west-2.amazonses.com>
+Received: from a27-83.smtp-out.us-west-2.amazonses.com (a27-83.smtp-out.us-west-2.amazonses.com. [54.240.27.83])
+        by mx.google.com with ESMTPS id jx8si20883536pbc.233.2015.10.31.12.37.07
+        for <markiewicz.john@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sat, 31 Oct 2015 12:37:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 00000150bf67429f-a6fad7eb-ea71-44b3-8caa-7c49a1ac7898-000000@us-west-2.amazonses.com designates 54.240.27.83 as permitted sender) client-ip=54.240.27.83;
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=7v7vs6w47njt4pimodk5mmttbegzsi6n; d=amazonses.com; t=1446320227;
+	h=From:To:Subject:MIME-Version:Content-Type:Date:Message-ID:Feedback-ID;
+	bh=goeurW9xM8kkHJc78ZB7uDjj3EvLwWFtm1IQ7Oc9gYc=;
+	b=MZbfxco89TsRMIFqdWiSdGN7UiGm0C4+KWXKAvlkc9vah6IZOtfUM4z13VL41thn
+	Dq9rWnxTLvAgraZveGHrAwstX/hD4nqbiyxS0sWsy+GFcJE60b/gYR9j3hFdNzFE2F4
+	toa7qiIGZ72XWHxVo3PISiqiBTF40QdnH5nAKrCI=
+From: appsupport@commonapp.net
+To: markiewicz.john@gmail.com
+Subject: =?UTF-8?Q?Common_Application_=E2=80=93_Application_Submission?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2108314_681774769.1446320226976"
+Date: Sat, 31 Oct 2015 19:37:07 +0000
+Message-ID: <00000150bf67429f-a6fad7eb-ea71-44b3-8caa-7c49a1ac7898-000000@us-west-2.amazonses.com>
+X-SES-Outgoing: 2015.10.31-54.240.27.83
+Feedback-ID: 1.us-west-2.MUa4R0WYtD159dQUe50dMrMoRmmEdncZZm4vjHjXal4=:AmazonSES
+
+------=_Part_2108314_681774769.1446320226976
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+           =20
+The Common Application
+____________________________________________________________
+                                   =20
+
+        Hello John,
+
+        You have successfully submitted your Common Application to The Ohio=
+ State University. Congratulations!
+
+        Make sure that you submit any required materials before the college=
+=E2=80=99s application deadline. Remember that you can review the status of=
+ all application materials in the Dashboard tab of your Common App account.
+
+        Submitting your application is an important step in getting to coll=
+ege.  If you haven=E2=80=99t already, you may also want to learn more about=
+ the Free Application for Federal Student Aid, also called the FAFSA. The F=
+AFSA can help you gain access to thousands of dollars in grants from the U.=
+S. federal government and from your state. Visit https://fafsa.ed.gov/ for =
+more information.
+
+        If you have any questions or would like some guidance, contact our =
+Solutions Center at appsupport.commonapp.org.
+
+        Best Wishes,
+        The Common Application
+
+
+------------------------------------------------------------
+Visit Site: https://www.commonapp.org
+- Help: https://appsupport.commonapp.org/
+- Privacy policy: https://appsupport.commonapp.org/ics/support/kbanswer.asp=
+?deptID=3D33013&task=3Dknowledge&questionID=3D2055
+---
+- Twitter: http://twitter.com/commonapp
+- Facebook: http://www.facebook.com/commonapp
+- YouTube: https://www.youtube.com/user/CommonAppMedia
+
+------=_Part_2108314_681774769.1446320226976
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+        <!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'htt=
+p://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+        <html>
+            <head>
+                <meta http-equiv=3D'Content-Type' content=3D'text/html; cha=
+rset=3DUTF-8'>
+       =20
+                <title></title>
+
+       =20
+            </head>
+            <body style=3D'-webkit-text-size-adjust: none;margin: 0;padding=
+: 0;background-color: #CCCCCC;font-family: Arial;width: 100%;'>
+                 <table border=3D'0' cellpadding=3D'0' cellspacing=3D'0' he=
+ight=3D'100%' width=3D'100%' id=3D'backgroundTable' style=3D'border-collaps=
+e: collapse;margin: 0;padding: 0;background-color: #CCCCCC;font-family: Ari=
+al;height: 100%;width: 100%;'>
+                    <tr>
+                        <td align=3D'center' valign=3D'top' style=3D'border=
+-collapse: collapse;'>
+                            <table border=3D'0' cellpadding=3D'0' cellspaci=
+ng=3D'0' width=3D'600' id=3D'emailContainer' style=3D'border-collapse: coll=
+apse;background-color: #FFFFFF;'>
+
+                                <!-- Header -->
+                                <tr>
+                                    <td align=3D'left' valign=3D'top' id=3D=
+'header' style=3D'border-collapse: collapse;'>
+                                        <table border=3D'0' cellpadding=3D'=
+10' cellspacing=3D'0' width=3D'100%' style=3D'border-collapse: collapse;'>
+                                            <tr>
+                                                <td style=3D'border-collaps=
+e: collapse;'>
+                                                    <a href=3D'https://appl=
+y.commonapp.org'>
+                                                        <img src=3D'https:/=
+/apply.commonapp.org/Include/Contents/images/email/logo.jpg' alt=3D'The Com=
+mon Application - visit the site' style=3D'border: 0 none;height: auto;line=
+-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: b=
+icubic;'>
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+
+                                <!-- Body -->
+                                <tr>
+                                    <td align=3D'center' valign=3D'top' sty=
+le=3D'border-collapse: collapse;'>
+                               =20
+                                       =20
+            <table border=3D'0' cellpadding=3D'20' cellspacing=3D'0' width=
+=3D'100%' style=3D'border-collapse: collapse;'>
+                <tr>
+                    <td style=3D'border-collapse: collapse;'>
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>Hello John,</p>
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>You have successfully submitted your Common Appli=
+cation to The Ohio State University. Congratulations!</p>                  =
+   =20
+                       =20
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>Make sure that you submit any required materials =
+before the college=E2=80=99s application deadline. Remember that you can re=
+view the status of all application materials in the Dashboard tab of your C=
+ommon App account.</p>
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>Submitting your application is an important step =
+in getting to college.  If you haven=E2=80=99t already, you may also want t=
+o learn more about the Free Application for Federal Student Aid, also calle=
+d the FAFSA. The FAFSA can help you gain access to thousands of dollars in =
+grants from the U.S. federal government and from your state. Visit <a href=
+=3D'https://fafsa.ed.gov' target=3D'_blank' style=3D'font-size: 14px;color:=
+ #333;margin: 0 0 16px;line-height: 20px;'>fafsa.ed.gov</a> for more inform=
+ation.</p>
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>If you have any questions or would like some guid=
+ance, contact our <a href=3D'https://appsupport.commonapp.org' target=3D'_b=
+lank' style=3D'font-size: 14px;color: #333;margin: 0 0 16px;line-height: 20=
+px;'>Solutions Center</a>.</p>
+                        <p style=3D'font-size: 14px;color: #333;margin: 0 0=
+ 16px;line-height: 20px;'>
+                            Best Wishes,<br>
+                            The Common Application
+                        </p>
+                    </td>
+                </tr>
+            </table>
+       =20
+
+                                    </td>
+                                </tr>
+
+                                <!-- Footer -->
+                                <tr>
+                                    <td align=3D'center' valign=3D'top' sty=
+le=3D'border-collapse: collapse;'>
+                                           =20
+                                        <table border=3D'0' cellpadding=3D'=
+0' cellspacing=3D'0' width=3D'100%' id=3D'footer' style=3D'border-collapse:=
+ collapse;border-top: 1px solid #DDDDDD;'>
+                                            <tr>
+                                                <td class=3D'footerLink ico=
+nLink firstFooterLink' style=3D'border-collapse: collapse;color: #555555;ba=
+ckground-color: #FFFFFF;font-family: Arial;font-size: 14px;line-height: 125=
+%;padding: 10px;width: 24px;'>
+                                                    <a href=3D'https://twit=
+ter.com/commonapp' target=3D'_blank' style=3D'color: #555555;background-col=
+or: #ffffff;font-family: Arial;font-size: 14px;line-height: 125%;text-decor=
+ation: none;'><img src=3D'https://apply.commonapp.org/Include/Contents/imag=
+es/email/twitter.jpg' alt=3D'Twitter' style=3D'border: 0 none;height: auto;=
+line-height: 100%;outline: none;text-decoration: none;-ms-interpolation-mod=
+e: bicubic;'></a>
+                                                </td>
+                                                <td class=3D'footerLink ico=
+nLink' style=3D'border-collapse: collapse;color: #555555;background-color: =
+#FFFFFF;font-family: Arial;font-size: 14px;line-height: 125%;padding: 10px =
+5px;width: 24px;'>
+                                                    <a href=3D'https://www.=
+facebook.com/commonapp' target=3D'_blank' style=3D'color: #555555;backgroun=
+d-color: #ffffff;font-family: Arial;font-size: 14px;line-height: 125%;text-=
+decoration: none;'><img src=3D'https://apply.commonapp.org/Include/Contents=
+/images/email/facebook.jpg' alt=3D'Facebook' style=3D'border: 0 none;height=
+: auto;line-height: 100%;outline: none;text-decoration: none;-ms-interpolat=
+ion-mode: bicubic;'></a>
+                                                </td>
+                                                <td class=3D'footerLink ico=
+nLink' style=3D'border-collapse: collapse;color: #555555;background-color: =
+#FFFFFF;font-family: Arial;font-size: 14px;line-height: 125%;padding: 10px =
+5px;width: 24px;'>
+                                                    <a href=3D'https://www.=
+youtube.com/user/CommonAppMedia' target=3D'_blank' style=3D'color: #555555;=
+background-color: #ffffff;font-family: Arial;font-size: 14px;line-height: 1=
+25%;text-decoration: none;'><img src=3D'https://apply.commonapp.org/Include=
+/Contents/images/email/youtube.jpg' alt=3D'Youtube' style=3D'border: 0 none=
+;height: auto;line-height: 100%;outline: none;text-decoration: none;-ms-int=
+erpolation-mode: bicubic;'></a>
+                                                </td>
+                                                <td class=3D'footerLink' st=
+yle=3D'border-collapse: collapse;color: #555555;background-color: #FFFFFF;f=
+ont-family: Arial;font-size: 14px;line-height: 125%;padding: 10px 5px;'>=C2=
+=A0</td>
+                                                <td class=3D'footerLink' st=
+yle=3D'border-collapse: collapse;color: #555555;background-color: #FFFFFF;f=
+ont-family: Arial;font-size: 14px;line-height: 125%;padding: 10px 5px;'>
+                                                    <a href=3D'https://apps=
+upport.commonapp.org/' target=3D'_blank' style=3D'color: #555555;background=
+-color: #ffffff;font-family: Arial;font-size: 14px;line-height: 125%;text-d=
+ecoration: none;'>Help</a>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0
+                                                    <a href=3D'https://apps=
+upport.commonapp.org/ics/support/kbanswer.asp?deptID=3D33013&task=3Dknowled=
+ge&questionID=3D2055' target=3D'_blank' style=3D'color: #555555;background-=
+color: #ffffff;font-family: Arial;font-size: 14px;line-height: 125%;text-de=
+coration: none;'>Privacy policy</a>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td colspan=3D'5' id=3D'foo=
+terCopyright' style=3D'border-collapse: collapse;color: #E5E5E5;background-=
+color: #555555;font-family: Arial;font-size: 12px;line-height: 125%;text-al=
+ign: left;padding: 10px;'>
+                                                    =C2=A92015 The Common A=
+pplication
+                                                </td>
+                                            </tr>
+                                        </table>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </body>
+        </html>
+
+       
+------=_Part_2108314_681774769.1446320226976--

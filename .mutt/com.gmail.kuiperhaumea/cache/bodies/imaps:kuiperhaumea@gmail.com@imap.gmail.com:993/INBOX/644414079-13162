@@ -1,0 +1,278 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.79 with SMTP id b76csp1779272oig;
+        Mon, 31 Aug 2015 16:15:12 -0700 (PDT)
+X-Received: by 10.194.189.145 with SMTP id gi17mr33098059wjc.102.1441062911949;
+        Mon, 31 Aug 2015 16:15:11 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22a.google.com (mail-wi0-x22a.google.com. [2a00:1450:400c:c05::22a])
+        by mx.google.com with ESMTPS id eo6si1125856wib.90.2015.08.31.16.15.11
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 31 Aug 2015 16:15:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) client-ip=2a00:1450:400c:c05::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22a as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@noreply.collegeboard.org
+Received: by mail-wi0-x22a.google.com with SMTP id jd9so13536146wic.1
+        for <kuiperhaumea@gmail.com>; Mon, 31 Aug 2015 16:15:11 -0700 (PDT)
+X-Received: by 10.194.205.37 with SMTP id ld5mr32635675wjc.14.1441062911696;
+        Mon, 31 Aug 2015 16:15:11 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.48.131 with SMTP id w125csp1740272wmw;
+        Mon, 31 Aug 2015 16:15:10 -0700 (PDT)
+X-Received: by 10.50.30.36 with SMTP id p4mr1023331igh.87.1441062910905;
+        Mon, 31 Aug 2015 16:15:10 -0700 (PDT)
+Return-Path: <1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org>
+Received: from dmx1.bfi0.com (dmailer9314674.dmx1.bfi0.com. [93.191.146.74])
+        by mx.google.com with ESMTP id sb9si679690igb.22.2015.08.31.16.15.10
+        for <markiewicz.john@gmail.com>;
+        Mon, 31 Aug 2015 16:15:10 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org designates 93.191.146.74 as permitted sender) client-ip=93.191.146.74;
+Return-Path: <1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org>
+DKIM-Signature: v=1; a=rsa-sha1; d=noreply.collegeboard.org; s=ei; c=simple/simple;
+	q=dns/txt; i=@noreply.collegeboard.org; t=1441062910;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=ZXOpNbQtnAdFyXH+ESbDhbOcf3k=;
+	b=N9amOBuU3J/8VJwFa8JPUDRLowLj/ANf978YDb+NGLLzxR4b1Gj6fNeiJ9b0w5q0
+	Iz3nLyCkaJFI+JjOtR6u5C0ykyZyszDft7FiX/FtvXlDKfhsc8dWRJMOm396nIqk
+	UrzUd4Wi4xFTXzxZosLLG1NS6AzfzjH9qltn6wYgBSY=;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ei; d=noreply.collegeboard.org;
+	h=List-Unsubscribe:Received:Reply-To:Bounces_to:Message-ID:X-SS:X-BFI:Date:From:Subject:To:MIME-Version:Content-Type;
+	b=gyCJw8TDOJhCXpQzvvAYOPeuqdeUMz/05Vt1hFnFQHuqKVAjoIpO1CyAk5CUpBKY
+	PBuczcbYSewSWYxBPumzPUjYJcvfkWb3c2MvIvJXzddOfktdTQybGwieE9hpHQ1+
+	z/yR0ffGsijgnerAjuyI2CiSKJY86e4WVaVp0Ntv6mM=
+List-Unsubscribe: <mailto:1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org?subject=unsubscribe>
+Received: from [10.150.20.90] ([10.150.20.90:34692] helo=dlspvrtmmailer12)
+	by dmx1.bfi0.com (envelope-from <1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org>)
+	(ecelerity 2.2.2.45 r(34222M)) with ESMTP
+	id B5/3C-18734-EFFD4E55; Mon, 31 Aug 2015 19:15:10 -0400
+Reply-To: =?iso-8859-1?B?IkNvbGxlZ2VCb2FyZCI=?= <1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org>
+Bounces_to: bounce.1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac@noreply.collegeboard.org
+Message-ID: <1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac.1.1192.dlspui4.DumpShot.X@noreply.collegeboard.org>
+X-SS: 1-2-2190013-176823189
+X-BFI: 1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac
+Date: Mon, 31 Aug 2015 19:15:09 EDT
+From: =?iso-8859-1?B?Q29sbGVnZSBCb2FyZA==?= <CollegeBoard@noreply.collegeboard.org>
+Subject: =?iso-8859-1?B?U0FUIFJlZ2lzdHJhdGlvbiBDb25maXJtYXRpb24=?= 
+To: markiewicz.john@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+  boundary="ABCD-1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac-EFGH"
+
+--ABCD-1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac-EFGH
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear John Markiewicz,
+
+You are registered for the:
+SAT with Essay on October 03, 2015 at
+THE OHIO STATE UNIVERSITY
+STILLMAN HALL
+COLUMBUS, OH 43210
+USA
+DRESS IN LAYERS. MAY HAVE TO PAY FOR PARKING. SEE WWW.OSU. EDU/MAP FOR PR=
+KG & BLDG LOCATI
+
+Be sure to bring your Admission Ticket with you on test day. =
+
+You cannot be admitted without your acceptable ID and a printed =
+
+Admission Ticket that matches the information listed on the roster.
+
+Please view and print your Admission Ticket immediately to make sure =
+
+it is accurate. You can access your Admission Ticket online by logging =
+
+into your free account at collegeboard.org.  =
+
+
+Corrections to typos or errors in your personal information must be =
+
+made by 9 p.m. Eastern Time on September 28, 2015. If you =
+
+need to correct your photo go to http://noreply.collegeboard.org/1e3c777a=
+dlayeousuascca2aaaaaaactcly7avcq3svkqaaa3cyikwaac
+If you need to make other corrections to your ticket, call Customer Servi=
+ce (see below).
+
+For Customer Service, call toll free in the United States: 866-756-7346. =
+
+Outside the U.S. dial +1 212-713-7789.
+
+ =
+
+
+If you haven't done so already, be sure to send official SAT score
+reports to colleges, universities and scholarship programs by logging =
+
+into your "Online" account at http://noreply.collegeboard.org/199b4f652la=
+yeousuascca2iaaaaaactcly7avcq3svkqaaa3cyikwaac =
+
+The first four requests are free with your registration. You have until =
+
+11:59 p.m. ET on October 12, 2015 to make or change your score send =
+
+choices for this registration. =
+
+
+ =
+
+
+ =
+
+
+Below are the total itemized costs of your registration and related servi=
+ces:
+
+SAT Test                                                    1            =
+       $54.50
+ =
+
+
+                                   Tax                                   =
+      $0.00
+
+                                   Total Charges                         =
+      $54.50
+
+These charges will be billed using the electronic account information =
+
+(credit card or PayPal) you supplied when you registered.
+
+Visit My SAT to jump-start your college planning!
+http://noreply.collegeboard.org/117207453layeousuascca2qaaaaaactcly7avcq3=
+svkqaaa3cyikwaac
+
+Your future awaits,
+
+The SAT Program
+-----------------------------------------------------------
+
+Please do not respond to this email. Mail sent to this
+address cannot be answered. For assistance, please email
+inquiry@collegeboard.org.
+
+(C) 2015 The College Board. All rights reserved.
+The College Board, 250 Vesey Street New York, NY 10281
+
+(E-1h)
+
+
+--ABCD-1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac-EFGH
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body>
+<pre>
+
+
+Dear John Markiewicz,
+
+You are registered for the:
+SAT with Essay on October 03, 2015 at
+<blockquote>THE OHIO STATE UNIVERSITY
+STILLMAN HALL
+COLUMBUS, OH 43210
+USA
+DRESS IN LAYERS. MAY HAVE TO PAY FOR PARKING. SEE WWW.OSU. EDU/MAP FOR PR=
+KG & BLDG LOCATI</blockquote>
+Be sure to bring your Admission Ticket with you on test day. =
+
+You cannot be admitted without your acceptable ID and a printed =
+
+Admission Ticket that matches the information listed on the roster.
+
+Please view and print your Admission Ticket immediately to make sure =
+
+it is accurate. You can access your Admission Ticket online by logging =
+
+into your free account at <a href=3D"http://noreply.collegeboard.org/1cfc=
+920c6layeousiascca2yaaaaaactcly7avcq3svkqaaa3cyikwaac">collegeboard.org</=
+a>.  =
+
+
+Corrections to typos or errors in your personal information must be =
+
+made by 9 p.m. Eastern Time on September 28, 2015. If you =
+
+need to correct your photo go to <a href=3D"http://noreply.collegeboard.o=
+rg/1a94a3266layeousiascca3aaaaaaactcly7avcq3svkqaaa3cyikwaac">https://nsa=
+t.collegeboard.org</a>.
+If you need to make other corrections to your ticket, call Customer Servi=
+ce (see below).
+
+    For Customer Service, call toll free in the United States: 866-756-73=
+46.
+                     Outside the U.S. dial +1 212-713-7789.
+
+ =
+
+
+If you haven't done so already, be sure to send official SAT score
+reports to colleges, universities and scholarship programs by logging =
+
+into your "Online" account at <a href=3D"http://noreply.collegeboard.org/=
+1d339b399layeousiascca3iaaaaaactcly7avcq3svkqaaa3cyikwaac">http://www.col=
+legeboard.org/mysat</a>. =
+
+The first four requests are free with your registration. You have until =
+
+11:59 p.m. ET on October 12, 2015 to make or change your score send =
+
+choices for this registration.
+
+ =
+
+
+  =
+
+
+Below are the total itemized costs of your registration and related servi=
+ces:
+<br>SAT Test                                                    1        =
+           $54.50<br>&nbsp;
+
+                                   Tax                                   =
+      $0.00
+
+                                   Total Charges                         =
+      $54.50
+
+These charges will be billed using the electronic account information =
+
+(credit card or PayPal) you supplied when you registered.
+
+Visit My SAT to jump-start your college planning!
+<a href=3D"http://noreply.collegeboard.org/15dad3198layeousiascca3qaaaaaa=
+ctcly7avcq3svkqaaa3cyikwaac">https://nsat.collegeboard.org/satweb/login.j=
+sp</a>
+
+Your future awaits,
+
+The SAT Program
+
+-----------------------------------------------------------
+
+Please do not respond to this email. Mail sent to this
+address cannot be answered. For assistance, please email
+<a href=3D"mailto:inquiry@collegeboard.org">inquiry@collegeboard.org</a>.=
+
+
+(C) 2015 The College Board. All rights reserved.
+The College Board, 250 Vesey Street New York, NY 10281
+
+(E-1h)
+
+
+
+</pre>
+<IMG SRC=3D"http://noreply.collegeboard.org/1b6ef4ea3layeor2iabciegaaaaaa=
+actcly7avcq3svkqaaa3cyikwaac"></body>
+</html>
+
+--ABCD-1dad3d6fblayeovciabciegaaaaaaactcly7avcq3svkqaaa3cyikwaac-EFGH--

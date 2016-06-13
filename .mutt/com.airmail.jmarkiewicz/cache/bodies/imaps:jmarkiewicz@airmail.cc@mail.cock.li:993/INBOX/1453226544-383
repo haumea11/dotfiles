@@ -1,0 +1,99 @@
+Return-Path: <cjoyce@cdeducation.org>
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cdeducation-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=cgmo9Tf8Tzkx9j44mSUzO6zG6ysD4FLwTrIy4ZB2YBQ=;
+        b=n2qXk0Ro6sW4Ss+NTAPBHBUfUCYNxOSoXUa+4PvSFe6X7eao50rNRRtizsfONUNhix
+         2ZUkPqo4W/4XvQdtYkGkJ3jbMqzNfc+wZTWXqFXiKDqEVyaaMaxKmPLGqr44F/Ynz852
+         TAoniO7W5TdH6hb2aw6FbKLu09ibiMD0J5TDG8Y4RHD0egQfMF77uz2MY5bsZIU9SqgE
+         lVxSKiZQPqumNaf4QjOmS0wF6Zp+DHLhRr6MnXnWJIro5ZBJP+QOkLReSXFdAbKrd/0m
+         n60RtkeReBGREEhnoz/T4ONn9gYIF60EUR3p+xbWmFV0yqVzeuF639FBagmodMUv8ii4
+         qFJQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=cgmo9Tf8Tzkx9j44mSUzO6zG6ysD4FLwTrIy4ZB2YBQ=;
+        b=HzRo/9DhcpAGa2yvzHBzpCqGK8bkA5FmPW/NFufs4qmzLg7+2W7ordEh12CA4hCvcH
+         8nzG141o0mQDrJ3Zjg++idHbyNHHQ52wb2dYkID4tzry1t6Kc2rsCs7/ejg69W8fI6+I
+         sDLOj4q2ea1lH0wIZXoqX6OvIrnwMuJKjZvQJXwiqt8V3OlVAXi1f+fjfXGM6Bd2/gJM
+         goZkred8D7+RhgbCPv1ugEQ4EYLmGEjqRE0QRrbYTEpjpjbigj+pRU+VEghZ3106I4eM
+         kyoNKpdMij4Exj2ZFL6VtOSa0rRkjTFph45qy3BjH48rbe6/sDEmm8D8kBVP6x7oJ8Wi
+         9WhA==
+X-Gm-Message-State: AOPr4FVftW0GK+yvpH/93IHgF8pSy8rrEddtxXIvqBPoGO7ZDXFiTEFrbWHrMJmLjSy8zkEt4F5eYYRRNvfBZaDT
+MIME-Version: 1.0
+X-Received: by 10.176.65.33 with SMTP id j30mr20754233uad.23.1462816177990;
+ Mon, 09 May 2016 10:49:37 -0700 (PDT)
+Date: Mon, 9 May 2016 13:49:37 -0400
+Message-ID: <CAGs8aKrrB_rWD7j57k+DEJD-8cKfYQuDr9JihFAXJLNwCZeCUQ@mail.gmail.com>
+Subject: Choir Boosters Meeting on Wednesday
+From: Christen Joyce <cjoyce@cdeducation.org>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=94eb2c124644a94e9305326c6e04
+
+--94eb2c124644a94e9305326c6e04
+Content-Type: text/plain; charset=UTF-8
+
+Hello Parents,
+
+We have our monthly Choir Boosters meeting on Wednesday at 7pm in the Choir
+Room. This will be the last one for the school year.
+
+The majority of this meeting will be focused on presenting information
+regarding the Concert Choir trip scheduled to take place next year.Parents
+(students are invited too) are encouraged to attend to learn more about the
+trip and help make the decision to move forward or not.
+
+I am still in need of at least one parent volunteer to help with the Senior
+Spotlight refreshment table, next Thursday at 7pm.
+
+Thanks,
+*Christen Joyce*
+
+*Choral Director*
+
+*Bishop Watterson High School*
+
+(614) 268-8671 x 289
+www.bishopwatterson.com
+
+--94eb2c124644a94e9305326c6e04
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello Parents,<div><br></div><div>We have our monthly Choi=
+r Boosters meeting on Wednesday at 7pm in the Choir Room. This will be the =
+last one for the school year.=C2=A0</div><div><br></div><div>The majority o=
+f this meeting will be focused on presenting information regarding the Conc=
+ert Choir trip scheduled to take place next year.Parents (students are invi=
+ted too) are encouraged to attend to learn more about the trip and help mak=
+e the decision to move forward or not.=C2=A0</div><div><br></div><div>I am =
+still in need of at least one parent volunteer to help with the Senior Spot=
+light refreshment table, next Thursday at 7pm.=C2=A0</div><div><br></div><d=
+iv>Thanks,</div><div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><=
+div><div style=3D"margin:0in 0in 0pt"><b><span style=3D"font-size:14pt"><fo=
+nt color=3D"#000000" face=3D"Calibri">Christen Joyce</font></span></b></div=
+><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p styl=
+e=3D"margin:0in 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=
+=3D"Calibri" size=3D"3">Choral Director</font></span></b></p><font color=3D=
+"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D"margin:0in=
+ 0in 0pt"><b><span style=3D"color:rgb(131,11,44)"><font face=3D"Calibri" si=
+ze=3D"3"><span><font color=3D"#830b2c">Bishop</font></span> <span><font col=
+or=3D"#830b2c">Watterson</font></span> High School</font></span></b></p><fo=
+nt color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><p style=3D=
+"margin:0in 0in 0pt"><span><font color=3D"#000000" face=3D"Calibri" size=3D=
+"3"><a href=3D"tel:%28614%29%20268-8671" value=3D"+16142688671" target=3D"_=
+blank"><font color=3D"#1155cc">(614) 268-8671</font></a> x 289</font></span=
+></p><font color=3D"#000000" face=3D"Times New Roman" size=3D"3"></font><di=
+v style=3D"margin:0in 0in 0pt"><span style=3D"color:rgb(131,11,44)"><a href=
+=3D"http://www.bishopwatterson.com/" target=3D"_blank"><span style=3D"color=
+:rgb(131,11,44)"><font face=3D"Calibri" size=3D"3">www.bishopwatterson.com<=
+/font></span></a></span></div><div style=3D"margin:0in 0in 0pt"><span style=
+=3D"color:rgb(131,11,44)"><img width=3D"420" height=3D"151" src=3D"https://=
+docs.google.com/uc?export=3Ddownload&amp;id=3D0B_4tgJHPviIvcW1mdVF1UHIzY2c&=
+amp;revid=3D0B_4tgJHPviIvWk9acG4zdS8rSkgxY2ZrcTdYUnU4THp3WDFNPQ"><div dir=
+=3D"ltr"><div><div></div></div></div><div dir=3D"ltr"><div></div></div></sp=
+an></div></div></div></div></div>
+</div></div>
+
+--94eb2c124644a94e9305326c6e04--

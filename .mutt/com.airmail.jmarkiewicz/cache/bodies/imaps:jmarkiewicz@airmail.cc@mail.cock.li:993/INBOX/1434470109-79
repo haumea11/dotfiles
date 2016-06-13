@@ -1,0 +1,1575 @@
+Return-Path: <b0654acaa21jmarkiewicz=airmail.cc@bounce.twitter.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=twitter.com;
+	s=dkim-201406; t=1438959707;
+	bh=HIssIXhVzuhge3Mj9I3jQ5GqpXD6CSWKsP8ZNvvD1gc=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:
+	 Message-ID;
+	b=REv43LWokDV9TPa3WuRMGqdT72D2zI5icxNYi5sNkdwJQWJFz8gZvS1z0yGipMyp5
+	 DJnrAo74iQh+xw/kEpjiqrrwIPBJtQl3XL+Rq4vlHtYibyBULJYL16LAQgTOhg0/uR
+	 7g/9v4avjQHwB8q0CvqflsIC/PbuyjgiUq2wv9KEtjVfzWGa3QLiM6ERojnU+mznZs
+	 bQBGNLMfUiuY6ICG3pHpSfelqmgUZljVK9eR0Q1zKk+tTvnMs5Z8DSL3gsKomHERfD
+	 yS9WUdNvino6DgW9Q9BR2Q5oFrrD4Z1o5gLQg9D/E4xXFc18adOQAs5HdNzgR0RvJC
+	 TY2YG/SgAacrg==
+X-MSFBL: eyJ1Ijoiam1hcmtpZXdpY3pAYWlybWFpbC5jY0A2NEAzMzk5NjUzNDg5QDBAMzA2
+	ODNmMTg5OTdiMTdlMjE5M2MzZDg5NmQ0ZWRlMWVmYjY3OGZkMCIsInIiOiJqbWFy
+	a2lld2ljekBhaXJtYWlsLmNjIiwiZyI6IkV2ZXJ5dGhpbmciLCJiIjoiYXRsYS1h
+	eHEtMjQtc3IxLUV2ZXJ5dGhpbmcuMTg1In0=
+Date: Fri, 07 Aug 2015 15:01:47 +0000
+From: Twitter <info@twitter.com>
+To: jmarkiewicz@airmail.cc
+Subject: Suggestions based on Emily Fu, Carrie Horan and Ryan Mar
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1666229_1360332008.1438959707005"
+List-Unsubscribe: https://twitter.com/i/u?t=1&listunsub=t&cn=cHN0Zg%3D%3D&sig=2e41ab78831fdde97b133e84eb3985ccf55043c0&iid=211121ac49a64984bc5e545394bc6d1c&uid=3399653489&nid=64+26
+Feedback-ID: 03560e25:03560e25:Columbus:twitterESP
+Precedence: Bulk
+Message-ID: <CE.9B.50105.B58C4C55@twitter.com>
+
+------=_Part_1666229_1360332008.1438959707005
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+John Markiewicz,
+You might also be interested in these accounts.
+
+------------------------
+
+Find more people you may know on Twitter:
+https://twitter.com/who_to_follow
+
+
+-- 
+
+Forgot your Twitter password? Get instructions on how to reset it:
+https://twitter.com/account/resend_password
+
+You can also unsubscribe from these emails or change your notification settings:
+https://twitter.com/i/u?t=1&cn=cHN0Zg%3D%3D&sig=8a77bb0f42ffd78b120d0cc120d9e8fc88a4b090&iid=211121ac49a64984bc5e545394bc6d1c&uid=3399653489&nid=64+26
+https://twitter.com/settings/notifications
+
+Need help?
+https://support.twitter.com
+
+If you received this message in error and did not sign up for a Twitter account, click on the url below:
+https://twitter.com/account/not_my_account/3399653489/HC7CH-37EGB-143895?ut=1
+------=_Part_1666229_1360332008.1438959707005
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+table[class=outer] .global-width-670-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-520-to-320 {
+width: 320px !important;
+}
+table[class=outer] .global-width-500-to-300 {
+width: 300px !important;
+}
+table[class=outer] .global-separator-padding {
+height: 8px !important;
+}
+table[class=outer] .global-shrinking-to-0 {
+height: 0 !important;
+}
+table[class=outer] .global-shrinking-to-10 {
+height: 10px !important;
+}
+table[class=outer] .global-h1 {
+font-size: 14px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .vcut {
+height: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+table[class=outer] .cut span, table[class=outer] .cut a {
+display: none !important;
+}
+table[class=outer] .frame {
+width: 320px !important;
+border-left: 0 !important;
+border-right: 0 !important;
+}
+table[class=outer] .main_header.media_header {
+width: 300px !important;
+height: 55px !important;
+}
+table[class=outer] .header_left {
+height: 55px !important;
+}
+table[class=outer] .logo_header {
+height: 62px !important;
+}
+table[class=outer] .main_name {
+font-size: 12px !important;
+}
+table[class=outer] .subtitle {
+font-size: 12px !important;
+}
+table[class=outer] .media_main {
+width: 300px !important;
+}
+table[class=outer] .media_main .intro {
+width: 260px !important;
+font-size: 14px !important;
+}
+table[class=outer] .media_main .intro2 {
+font-size: 14px !important;
+}
+table[class=outer] .media_main .suggestions {
+font-size: 14px !important;
+}
+table[class=outer] .media_more {
+width: 300px !important;
+border-radius: 0 !important;
+background: #fff !important;
+border-top: 1px solid #e8e8e8 !important;
+}
+table[class=outer] .media_button {
+width: 300px !important;
+background-color: #209ae4 !important;
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+}
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+table[class=outer] td[class=footer-padding-top] {
+height: 12px !important;
+}
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+table[class=outer] .media_footer br {
+display: none !important;
+}
+table[class=outer] .spacer.ios {
+display: none !important;
+}
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 274px !important;
+top: 0 !important;
+background-image: url('https://ea.twimg.com/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 1 !important;
+}
+table[class=employee-only-padding-top-bottom] {
+width: 300px !important;
+}
+table[class=employee-only] {
+width: 300px !important;
+padding: 10px 0;
+}
+td[class=header_padding] {
+height: 55px !important;
+}
+}
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+table[class=outer] .media_button {
+padding-top: 3px !important;
+padding-bottom: 3px !important;
+background-color: #209ae4 !important;
+}
+table[class=outer] .media_button td.cut {
+width: 0 !important;
+padding: 0 !important;
+}
+table[class=outer] .media_button {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0; background: #fff;-webkit-text-size-adjust:100%;">
+<table cellpadding="0" cellspacing="0" border="0" width="100%" class="outer" style="position:relative;background:#ddd;">
+<tbody>
+<tr>
+<td>
+<table class="inner frame" align="center" cellpadding="0" cellspacing="0" border="0" width="670" style="background:#fff;position:relative;border:0;border-left:1px solid #ccc;border-right:1px solid #ccc;">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2f12b9ee05434199dbf5f409fa08188a99d2b6e2&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+21" style="border:none;color:#0084b4;text-decoration:none;"><span class="media_logo_div"></span></a>
+<table cellpadding="0" cellspacing="0" border="0" width="670" class="header frame" style="background:#f2f2f2;table-layout:fixed;">
+<tbody>
+<tr>
+<td width="22" class="header_left cut x-grey-bg" style="width:19px;height:77px;background:#f2f2f2;width:17px;height:77px;">&nbsp;</td>
+<td height="94" width="46" valign="top" rowspan="2" class="logo_header cut" style="background:#fff;line-height:100%;"> <a href="" style="border:none;color:#0084b4;text-decoration:none;"> <img class="logo cut" src="https://ea.twimg.com/email/t1/ribbon.png" width="46" height="94" style="border:0;line-height:100%;border:0;" /></a> </td>
+<td class="cut border-bottom x-grey-bg" width="5" style="background:#f2f2f2;font-size:1px;">&nbsp;</td>
+<td height="77" class="main_header media_header x-grey-bg" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;background:#f2f2f2;">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="21" class="main-avatar-left" style="font-size:1px;">&nbsp;</td>
+<td class="name-holder" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <span class="main_name" style="font-size:14px;font-weight:bold;color:#000;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><span dir="ltr" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">John Markiewicz,</span></span><br /><span class="subtitle" style="font-size:14px;color:#666;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">You might also be interested in these accounts.</span> </td>
+</tr>
+</tbody>
+</table> </td>
+<td class="main_avatar cut x-main-avatar x-grey-bg" align="left" width="40" style="text-align:right;background:#f2f2f2;">
+<table cellpadding="0" cellspacing="0" width="40" border="0">
+<tbody>
+<tr>
+<td width="32"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fjohn_markiewicz%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=d80cd06377980f04e46f3e413ce1d807b7c57a60&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+22" style="border:none;color:#0084b4;text-decoration:none;"><img class="cut" src="https://pbs.twimg.com/profile_images/628299980659253248/7asN-H7d_reasonably_small.jpg" width="32" height="32" alt="John Markiewicz" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td width="6">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td width="50" class="col header cut x-grey-bg" style="background:#f2f2f2;table-layout:fixed;width:85px;background:#f2f2f2;width:75px;width:75px;font-size:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="main header_drop spacer-white cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop spacer-white cut" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+<td class="main header_drop spacer-white media_header" height="25" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"><img width="1" height="1" style="display: block;border:0;" src="https://twitter.com/scribe/ibis?t=1&amp;cn=cHN0Zg%3D%3D&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+20" /></td>
+<td class="main header_drop spacer-white cut" height="17" colspan="2" style="background:#fff;border-top:1px solid #ddd;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td rowspan="3"></td>
+</tr>
+<tr>
+<td class="content" style="background:#fff;">  <style type="text/css">
+@media only screen and (max-width: 480px) {
+
+table[class=outer] .x_main_avatar img {
+border-radius: 3px !important;
+}
+
+table[class=outer] .cut {
+width: 0 !important;
+padding: 0 !important;
+}
+
+table[class="outer"] .header .header_left {
+width: 8px !important;
+padding: 0 !important;
+}
+
+table[class=outer] .mid {
+padding: 0px !important;
+background: #ffffff !important;
+}
+
+table[class=outer] img.cut {
+display: none !important;
+width: 0 !important;
+height: 0 !important;
+}
+
+table[class=outer] .sign-message span,
+table[class=outer] .sign-message a {
+display: block !important;
+position: absolute;
+margin-top: -31px;
+margin-left: 9px;
+font-size: 12px !important;
+}
+
+table[class=outer] .sign-message span, table[class=outer] .sign-message a {
+display: none !important;
+}
+
+table[class=outer] .sign-message br, table[class=outer] .suggestions_tip {
+line-height:17px !important;
+}
+
+table[class=outer] .header.frame {
+border-bottom: 0px #ccc solid !important;
+}
+
+table[class=outer] .frame {
+width: 320px !important;
+border-bottom: none!important;
+}
+
+table[class=outer] .section-container-inner {
+padding-bottom: 3px !important;
+padding-top: 0px !important;
+}
+
+table[class=outer] .main-content-gap td,
+table[class=outer] .styled-x-bottom.spacer {
+display: none !important;
+}
+
+table[class=outer] .frame.footer {
+background-image: none !important;
+border-bottom: 0 !important;
+border-top: 1px #dddddd solid !important;
+}
+
+table[class=outer] .frame .header_left,
+table[class=outer] .frame .logo_header,
+table[class=outer] .frame .header.cut,
+table[class=outer] .frame .main_header {
+background: #F2F2F2 !important;
+}
+
+table[class=outer] .frame .main_avatar {
+padding-right: 4px !important;
+margin-left: 2px !important;
+padding-top: 4px !important;
+}
+
+table[class=outer] .frame .main_avatar img {
+width:24px !important;
+height:24px !important;
+}
+
+table[class=outer] .cellspacing {
+padding: 0 !important;
+}
+
+table[class=outer] .main_header.media_header {
+width: 197px !important;
+height: 55px !important;
+padding-right: 55px !important;
+padding-left: 0px !important;
+border-bottom: 1px solid #dddddd !important;
+line-height: 12px !important;
+}
+
+table[class=outer] .main_header {
+padding-left: 2px !important;
+line-height: 12px !important;
+}
+
+table[class=outer] .header_left {
+height: 55px !important;
+}
+
+table[class=outer] .logo_header {
+display: none !important;
+}
+
+table[class=outer] .media_header .main_name {
+font-size: 12px !important;
+line-height: normal !important;
+}
+
+table[class=outer] .media_header .subtitle {
+font-size: 12px !important;
+}
+
+table[class=outer] .header .header_drop {
+border-bottom: 0px #dddddd solid !important;
+display: none !important;
+}
+
+table[class="outer"] .frame.main-content {
+background-color: #EEE !important;
+}
+
+table[class=outer] .header .cut {
+border-bottom: 1px #dddddd solid;
+}
+
+table[class=outer] .frame .styled-x-cut {
+background-color: #EEEEEE !important;
+position: relative !important;
+top: -1px !important;
+height: 50px !important;
+}
+
+table[class=outer] .media_logo_div {
+display: block !important;
+position: absolute !important;
+left: 275px !important;
+top: 0 !important;
+background-image: url('https://ea.twimg.com/email/t1/ribbon.png') !important;
+background-size: 100% 100% !important;
+width: 36px !important;
+height: 68px !important;
+z-index: 9999 !important;
+background-repeat: no-repeat !important;
+}
+
+table[class=outer] .section-container-top,
+table[class=outer] .section-container-bottom,
+table[class=outer] .date-top,
+table[class=outer] .date-bottom,
+table[class=outer] .main-avatar-left,
+table[class=outer] .styled-x-top,
+table[class=outer] .x-main-avatar,
+table[class=outer] .person-spacer,
+table[class=outer] .col.x-grey-bg {
+display:none !important;
+}
+
+table[class=outer] .main-content .cut {
+display:none !important;
+}
+
+table[class=outer] .styled-m {
+padding: 0 !important;
+}
+
+table[class=outer] .media_footer {
+font-size: 11px !important;
+line-height: 14px !important;
+padding: 0 10px !important;
+}
+
+table[class=outer] .address {
+font-size: 11px !important;
+line-height: 14px !important;
+display: block !important;
+}
+
+table[class=outer] td[class=footer-padding-top] {
+height: 8px !important;
+border-top: 1px white solid !important;
+}
+
+table[class=outer] td[class=footer-padding-bottom] {
+height: 17px !important;
+}
+
+table[class=outer] .reset {
+display: block !important;
+padding-bottom: 4px !important;
+}
+
+table[class=outer] .media_button {
+width: 302px !important;
+margin: 0 auto !important;
+
+}
+
+table[class=outer] .styled-x {
+padding: 0px !important;
+background: #eeeeee !important;
+}
+
+table[class=outer] .styled-xx {
+background: none !important;
+border: none !important;
+border-top: 0px #cccccc solid !important;
+border-radius: 0 !important;
+line-height: 15px !important;
+}
+
+table[class=outer] .section-container {
+width: 304px !important;
+background: white !important;
+padding: 0 0 5px !important;
+margin: 11px auto 3px auto !important;
+border-radius: 4px !important;
+box-shadow: #E9E9E9 0px 1px 0px 0px !important;
+}
+
+table[class=outer] .leading-blurb-username span.real_name {
+font-size: 13px !important;
+}
+
+table[class=outer] .leading-blurb-username span.nick_name {
+font-size: 12px !important;
+}
+
+table[class=outer] .leading-blurb-username {
+display: block !important;
+margin-top: 0px !important;
+line-height: 13px !important;
+}
+
+table[class=outer] .button-spacer {
+height: 10px !important;
+font-size: 10px !important;
+line-height: 10px !important;
+}
+
+table[class=outer] .person-image img {
+width:48px !important;
+height: 48px !important;
+}
+
+table[class=outer] .similar-to-text {
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+font-weight: bold !important;
+font-size: 12px !important;
+line-height: 12px !important;
+padding-top: 3px !important;
+}
+
+table[class=outer] .section-container-inner-spacer-top {
+display: none !important;
+}
+
+table[class=outer] .similar-to-left {
+width: 10px !important;
+}
+
+table[class=outer] .person-row-left{
+width: 9px !important;
+}
+
+table[class=outer] .person-image-right {
+width: 11px !important;
+}
+
+table[class=outer] .person-top {
+height: 6px !important;
+font-size: 6px !important;
+line-height: 6px !important;
+}
+
+table[class=outer] .x-mid .spacer {
+height: 10px !important;
+font-size: 10px !important;
+line-height: 10px !important;
+}
+
+}
+</style>
+<table style="position: relative;" class="frame main-content" bgcolor="#ffffff" width="670" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="col spacer-75 cut" style="width:85px;width:75px;">&nbsp;</td>
+<td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="cellspacing">
+<tbody>
+<tr>
+<td class="mid" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<table class="section-container" width="100%" border="0" cellspacing="0" cellpadding="0" style="background:white;border-radius:4px;border:1px solid #DDDDDD;box-shadow:#e9e9e9 0px 1px 0px 0px;">
+<tbody>
+<tr>
+<td>
+<table class="section-container-inner" width="100%" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section-container-inner-spacer-top" height="3" style="font-size:3px;line-height:3px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="similar-to-left">&nbsp;</td>
+<td class="similar-to-text" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:14px;line-height:14px;"> Suggestions based on <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa9749d35af681d3687cc7366c5a26447807a066&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+697" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a> </td>
+<td class="main_avatar x_main_avatar" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=cc2cd0731f22923ff3085861d82d86217eec4216&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+696" style="border:none;color:#0084b4;text-decoration:none;"> <img src="https://pbs.twimg.com/profile_images/592020245419819008/aCPDLdM8_reasonably_small.jpg" width="32" height="32" alt="Emily Fu" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td width="5" class="similar-to-right">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fkathosull%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=34f4393992e2f54c7a4e8dec7e64c9414bc0db68&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+712" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/588870124859478016/fSOeCPbn_reasonably_small.jpg" alt="Kathryn O'Sullivan" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fkathosull%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=6777b8d0a160cff190852929dcc301a18a59084c&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+713" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Kathryn O'Sullivan</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@kathosull</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> we dream the same dreams alright </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fb53eef87390a2ae3fd6c4ab6569c1f9c5efdffc&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dkathosull%26ea_s%3De2fffb1000876b913aed79bfd374169b25b3c19c%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=7087876362b67c9370c471f5cd8182bbfd383b6c&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+714" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fschnurr_maddie%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=41ebe8b772ceddc51c76b0a64995e7509aec94d1&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+720" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/541617732194926592/6UBcLK4B_reasonably_small.jpeg" alt="Maddie Schnurr" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fschnurr_maddie%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=51310d91eed0c279d67c6c6191dd109c97c81e32&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+721" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Maddie Schnurr</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@schnurr_maddie</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> BWHS '17 20 months and counting... </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fb53eef87390a2ae3fd6c4ab6569c1f9c5efdffc&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dschnurr_maddie%26ea_s%3Df6260f5731b9d9cefcbb37a68436c0b3f69395a5%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fd4cc8a7737f9157d1974158a4e2d1056625d832&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+722" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FChloePhelps7%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=42491c4fe7ef78cedec601f7b0b317be7296c343&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+728" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/628705129508794368/_rVNTmb2_reasonably_small.jpg" alt="Chloe Phelps" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FChloePhelps7%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=bfaa3fc763f15ae550cc864309d6c8c43521af12&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+729" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Chloe Phelps</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@ChloePhelps7</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> happiness never decreases by being shared </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fb53eef87390a2ae3fd6c4ab6569c1f9c5efdffc&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3DChloePhelps7%26ea_s%3D4bc94ecc70df311bbe4f5d26a614fa1ce5a39d71%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=37d205b4eeb2ecfeb7a53f787bfc05054f066bc2&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+730" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+</tbody>
+</table> </td>
+</tr>
+<!--end first person-->
+<tr>
+<td class="section-container-bottom" height="12" align="left" colspan="3" style="font-size:1px;font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Section option 2 --> </td>
+</tr>
+<tr>
+<td class="person-spacer">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top">
+<table class="section-container" width="100%" border="0" cellspacing="0" cellpadding="0" style="background:white;border-radius:4px;border:1px solid #DDDDDD;box-shadow:#e9e9e9 0px 1px 0px 0px;">
+<tbody>
+<tr>
+<td>
+<table class="section-container-inner" width="100%" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section-container-inner-spacer-top" height="3" style="font-size:3px;line-height:3px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="similar-to-left">&nbsp;</td>
+<td class="similar-to-text" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:14px;line-height:14px;"> Suggestions based on <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FCEHswimmer%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=12b0a6fc9d528d3a7b6bdd9ff70dd98097a7c52d&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+701" style="border:none;color:#0084b4;text-decoration:none;">Carrie Horan</a> </td>
+<td class="main_avatar x_main_avatar" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FCEHswimmer%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=76528ca5d2dac62a20d4609983767506d31b3315&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+700" style="border:none;color:#0084b4;text-decoration:none;"> <img src="https://pbs.twimg.com/profile_images/613873589918547968/13u45URJ_reasonably_small.jpg" width="32" height="32" alt="Carrie Horan" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td width="5" class="similar-to-right">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fkals_oreilly%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=857ebc4f4630166bcbc87a7bcbbf4fa411990ce4&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+752" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/628683264476233728/tZ18Uy5g_reasonably_small.jpg" alt="kaleighOreilly" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fkals_oreilly%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=1633e4c2b0fb9d1218cebc76ca551699a3d3a091&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+753" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">kaleighOreilly</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@kals_oreilly</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> hi my names kaleigh and i drive the kbug </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dkals_oreilly%26ea_s%3Dab0097252b563650ecc5d2947902b0725eb2729d%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=b0a73147c472327ff4f477a06c6cbae0f1bbd26d&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+754" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FJenna_Durham%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=ef58a972032c2146d35588bcc5b8d115f2b59dc5&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+760" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/605852657173946370/9KgLrMR__reasonably_small.jpg" alt="Jenna Durham" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FJenna_Durham%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=3aea0f75c83e4151482336120e50e4706ddc7a2e&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+761" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Jenna Durham</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@Jenna_Durham</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3DJenna_Durham%26ea_s%3D2ed85b59a30ac76d8791734b2d1281d585361e86%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=de93a4bd8261500d7321ab925a5956f6582ae1a8&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+762" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmaldevine%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=f1d6e3abe36f0fd95c84361bd8f7d674f13640bf&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+768" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/556746869766778886/BlwZx1-O_reasonably_small.jpeg" alt="Mallory Devine" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmaldevine%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=9d236a0a38e949d7aea428b2027bcdd4dd8ba7d9&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+769" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Mallory Devine</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@maldevine</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> I love kate </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FStephanieBibo%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa17086cabc9d90fa0d750a444324e4450b42516&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Stephanie Bibo</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dmaldevine%26ea_s%3D5b6f0e7c4c1821567f67af2fcb2353711ef2707e%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=ccb4deda266e0754a0f1dcb0d249bb74dfca8695&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+770" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+</tbody>
+</table> </td>
+</tr>
+<!--end first person-->
+<tr>
+<td class="section-container-bottom" height="12" align="left" colspan="3" style="font-size:1px;font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Section option 2 --> </td>
+</tr>
+<tr>
+<td class="person-spacer">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top">
+<table class="section-container" width="100%" border="0" cellspacing="0" cellpadding="0" style="background:white;border-radius:4px;border:1px solid #DDDDDD;box-shadow:#e9e9e9 0px 1px 0px 0px;">
+<tbody>
+<tr>
+<td>
+<table class="section-container-inner" width="100%" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section-container-inner-spacer-top" height="3" style="font-size:3px;line-height:3px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="similar-to-left">&nbsp;</td>
+<td class="similar-to-text" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:14px;line-height:14px;"> Suggestions based on <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FRyanMar5%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=29c52aa82f49a43d90819bbccb76dab9516243c0&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+705" style="border:none;color:#0084b4;text-decoration:none;">Ryan Mar</a> </td>
+<td class="main_avatar x_main_avatar" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FRyanMar5%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=a89bb7955bc27580021d42613d010cc4c9dfbfd7&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+704" style="border:none;color:#0084b4;text-decoration:none;"> <img src="https://pbs.twimg.com/profile_images/520321045388345344/AvKrZKEC_reasonably_small.jpeg" width="32" height="32" alt="Ryan Mar" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td width="5" class="similar-to-right">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmnblaesing%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=95622c7fa56a6f9124dad2e4990f335d047b5fd9&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+792" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/602856145611595776/sBsqsUzg_reasonably_small.jpg" alt="mirandawrites" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmnblaesing%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=ba9ae0b7b68abb2a632a6bff7a293c903b856ddd&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+793" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">mirandawrites</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@mnblaesing</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> the only thing ive got going for me is my taste in music </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FStephanieBibo%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa17086cabc9d90fa0d750a444324e4450b42516&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Stephanie Bibo</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmnblaesing%2Ffollowers_you_follow%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=3636b6142454cd7df10042030759ec6ae912d11b&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+797" style="border:none;color:#0084b4;text-decoration:none;">2 others</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dmnblaesing%26ea_s%3Dded85a65a8db3ce81f8262f24c15f5bed59ff4b3%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=61adf6e9b3cf4786eeaa71c3a0db2b0ec534deb3&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+794" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fjoel_silleck%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=ab6abcb1338224cbf540156d3ec4ea800b59af2c&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+800" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/512036337130938368/JojEu8_Q_reasonably_small.jpeg" alt="Joel Silleck" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fjoel_silleck%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=bb2f61199402154c7ab338a28ddb13d47bc5edaf&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+801" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Joel Silleck</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@joel_silleck</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fb53eef87390a2ae3fd6c4ab6569c1f9c5efdffc&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Djoel_silleck%26ea_s%3Dee850628335be6d151e8e7a0b957fb294da7ac19%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=a376cf865d34068467c319f93687c0f54f1d7100&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+802" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fben_kring%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=a7dd328c53c5e415a3e954ba737e073b859a26f6&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+808" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/578740762009026560/XvW80_kQ_reasonably_small.jpeg" alt="Ben Kring" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fben_kring%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=5288a626c4c300cee1b96c2b5cd054071ac87f26&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+809" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Ben Kring</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@ben_kring</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> Bishop Watterson Class of 2016- Train Hard! Train Right! </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Femilyfu99%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=fb53eef87390a2ae3fd6c4ab6569c1f9c5efdffc&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Emily Fu</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dben_kring%26ea_s%3D0aa3b23419d70d88f7693422cca5e8e2c66f7ed4%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=1245788aa46b226d44f15c8d79e2407eea0ef7c6&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+810" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+</tbody>
+</table> </td>
+</tr>
+<!--end first person-->
+<tr>
+<td class="section-container-bottom" height="12" align="left" colspan="3" style="font-size:1px;font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Section option 2 --> </td>
+</tr>
+<tr>
+<td class="person-spacer">&nbsp;</td>
+</tr>
+<tr>
+<td valign="top">
+<table class="section-container" width="100%" border="0" cellspacing="0" cellpadding="0" style="background:white;border-radius:4px;border:1px solid #DDDDDD;box-shadow:#e9e9e9 0px 1px 0px 0px;">
+<tbody>
+<tr>
+<td>
+<table class="section-container-inner" width="100%" border="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="section-container-inner-spacer-top" height="3" style="font-size:3px;line-height:3px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="similar-to-left">&nbsp;</td>
+<td class="similar-to-text" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:bold;font-size:14px;line-height:14px;"> Suggestions based on <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=293fa785fce8d6877166e8fac53b68713d4f73a8&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+709" style="border:none;color:#0084b4;text-decoration:none;">Michael</a> </td>
+<td class="main_avatar x_main_avatar" style="text-align:right;"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=3fe893098378a44a1dbf4e8a4d9e053510d45308&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+708" style="border:none;color:#0084b4;text-decoration:none;"> <img src="https://pbs.twimg.com/profile_images/626770794329325568/jr0l4_Yk_reasonably_small.jpg" width="32" height="32" alt="Michael" style="background:#fff;border-radius:5px;border:0;" /></a> </td>
+<td width="5" class="similar-to-right">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fanniemaglicic%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=883a8a3f49d451f3e059993b9c71eeb5f2659e5a&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+832" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/629660028841013248/KNZAa6db_reasonably_small.jpg" alt="Annie Maglicic" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fanniemaglicic%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=58f45508c616aae292d7a01c2c6349a0ec12ac07&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+833" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Annie Maglicic</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@anniemaglicic</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> she loved life and it loved her right back </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FStephanieBibo%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa17086cabc9d90fa0d750a444324e4450b42516&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Stephanie Bibo</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fanniemaglicic%2Ffollowers_you_follow%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=c5495bcb0c646b58feb3e8bd69809ce621f27642&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+837" style="border:none;color:#0084b4;text-decoration:none;">2 others</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Danniemaglicic%26ea_s%3Dcd6746d31f54afc023cd6d50719eb1b5b0d4d00e%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=140c7e733c3ea83ad632fa447ecd14748503dd83&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+834" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmorghull24%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=92e35703e70f4eaf3d058a0805e50d7a58ef8979&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+840" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/618850347004657665/s2Y2DH1E_reasonably_small.jpg" alt="Morgan Hull" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmorghull24%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=199202177cce514e6abb7e23d9bcbfb58330564b&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+841" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Morgan Hull</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@morghull24</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FStephanieBibo%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa17086cabc9d90fa0d750a444324e4450b42516&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Stephanie Bibo</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmorghull24%2Ffollowers_you_follow%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=74a2e7176d752d7fda8d550c593edebf1f4f8b5e&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+845" style="border:none;color:#0084b4;text-decoration:none;">2 others</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3Dmorghull24%26ea_s%3Dede3ddff0dcf13bdb982d89737362db72a44f525%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=8f0fe19d5f3392994bdcdc1b65165a6e8ac72226&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+842" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td class="person-bottom inner-border" style="border-bottom:1px #eeeeee solid;padding-bottom:3px;height:8px;font-size:8px;line-height:8px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+<tr>
+<td class="person-row">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td class="person-top" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td width="12" class="person-row-left">&nbsp;</td>
+<!--person image-->
+<td class="person-image" valign="top"> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FLibby_Kiefer%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=8c3a53c9e10db36d98b44bff1ef14812948a6aed&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+848" style="border:none;color:#0084b4;text-decoration:none;"><img src="https://pbs.twimg.com/profile_images/616458044927557632/yxCJX04l_reasonably_small.jpg" alt="Libby Kiefer" width="128" height="128" border="0" style="border:0;border-radius:3px;" /></a> </td>
+<!--person image end-->
+<td width="15" class="person-image-right">&nbsp;</td>
+<!--person details -->
+<td valign="top" width="356" align="left">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tbody>
+<tr>
+<td> <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FLibby_Kiefer%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=f764b962ec73a77a4a216f08832efcae8509ce23&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+849" class="leading-blurb-username" style="border:none;color:#0084b4;text-decoration:none;"> <span class="real_name" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;padding:0;font-size:14px;line-height:14px;font-weight:bold;text-decoration:none;color:#333333;">Libby Kiefer</span> <span class="nick_name screen-name" style="direction:ltr;unicode-bidi:embed;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal;font-size:12px;line-height:12px;color:#999999;text-decoration:none;">@Libby_Kiefer</span> </a> </td>
+</tr>
+<tr>
+<td class="person-info" style="font-size:14px;font-family:Georgia, &quot;Times New Roman&quot;, Times, serif;color:#777777;font-style:italic;line-height:18px;padding-top:2px;"> </td>
+</tr>
+<tr>
+<td class="followed-by" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;padding-top:4px;"> Followed by <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2FStephanieBibo%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=aa17086cabc9d90fa0d750a444324e4450b42516&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Stephanie Bibo</a> and <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fmcarmody4298%3Fcn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2e1366411f9a2f24523b582dbc6ec1a6c4d5be93&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+872" style="border:none;color:#0084b4;text-decoration:none;">Michael</a>.<br /> </td>
+</tr>
+<tr>
+<td class="button-spacer" style="height:13px;font-size:13px;line-height:13px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<!-- button follow -->
+<table bgcolor="#fefefe" class="button btn-follow" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#fefefe url(https://ea.twimg.com/email/t1/grey_background.png) top repeat-x;border-radius:5px;border-color:#cccccc;border-style:solid;border-width:1px;text-align:center;height:28px;color:#333333;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"> <span class="button_text" style="color:#333333;font-size:13px;font-weight:bold;text-shadow:1px 1px 0px #ffffff;white-space:nowrap;overflow:hidden;padding:0px;margin:0px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fintent%2Ffollow%3Fea_u%3D3399653489%26ea_e%3D1440169306%26screen_name%3DLibby_Kiefer%26ea_s%3Dee520f9fc8cb4110a3730492315861d57e45977a%26cn%3DcHN0Zg%253D%253D%26refsrc%3Demail&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2ab0fe90d3a2664e62b633737c741bd56c51f4b4&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+850" style="border:none;color:#0084b4;text-decoration:none;color:#333333;text-decoration:none;"><img src="https://ea.twimg.com/email/t1/blue_bird.png" alt="Follow" width="16" height="14" border="0" align="absmiddle" style="border:0;" /> <span class="text">Follow</span></a> </span> </td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!-- button follow end --> </td>
+</tr>
+</tbody>
+</table> </td>
+<td width="5">&nbsp;</td>
+<!--person details end -->
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<!--person row-->
+<!--person row-->
+</tbody>
+</table> </td>
+</tr>
+<!--end first person-->
+<tr>
+<td class="section-container-bottom" height="12" align="left" colspan="3" style="font-size:1px;font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Section option 2 --> </td>
+</tr>
+<tr>
+<td class="person-spacer">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col spacer-75 cut" style="width:85px;width:75px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="col spacer-75 cut styled-x-cut" style="width:85px;width:75px;">&nbsp;</td>
+<td>
+<table class="styled-x" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="styled-x-top spacer" height="18" align="left" style="font-size:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="mid x-mid styled styled-m" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;">
+<table class="styled-xx" bgcolor="#EEEEEE" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-radius:6px;border:solid 1px #E5E5E5;background:#EEEEEE;">
+<tbody>
+<tr>
+<td height="10" colspan="4" class="spacer" style="font-size:1px;">&nbsp;</td>
+</tr>
+<tr>
+<td class="cut spacer" width="12" style="font-size:1px;">&nbsp;</td>
+<td class="sign-message" style="line-height:14px;font-size:14px;color:#666666;"> <span class="suggestions_tip"> Like these suggestions?</span> </td>
+<!-- Message -->
+<td align="right" valign="middle">
+<!-- Button -->
+<table bgcolor="#33a9e5" class="button media_button blue" border="0" cellspacing="0" cellpadding="0" style="white-space:nowrap;background:#33a9e5;background-image:url(https://ea.twimg.com/email/t1/button_bg_long.png);border-radius:5px;border-color:#2288cc;border-style:solid;border-width:1px;text-align:center;height:28px;white-space:nowrap;background:#33a9e5;background-image:url(https://ea.twimg.com/email/t1/button_bg_long.png);border-radius:5px;border-color:#2288cc;border-style:solid;border-width:1px;text-align:center;height:28px;">
+<tbody>
+<tr>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+<td height="28" align="center"><span class="button_text" style="color:#ffffff;font-size:13px;font-weight:bold;text-shadow:0 -1px 0px #333333;white-space:nowrap;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#ffffff;font-size:13px;font-weight:bold;text-shadow:0 -1px 0px #333333;white-space:nowrap;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;"> <a class="button_link" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fwho_to_follow%3Fcn%3DcHN0Zg%253D%253D&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=f253ed723d30423b11203b95d0ce8012b4a55754&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+80" style="border:none;color:#0084b4;text-decoration:none;color:#ffffff;text-decoration:none;color:#ffffff;text-decoration:none;">Find more accounts to follow</a></span></td>
+<td class="spacer" width="10" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Button --> </td>
+<td class="cut spacer" width="10" style="font-size:1px;"></td>
+</tr>
+<tr>
+<td height="10" colspan="4" class="spacer" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!--/ Message and button --> </td>
+</tr>
+<tr>
+<td class="styled-x-bottom spacer" height="4" align="left" style="font-size:1px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+<td class="col spacer-75 cut styled-x-cut" style="width:85px;width:75px;">&nbsp;</td>
+</tr>
+<tr class="main-content-gap">
+<td class="col spacer-75 cut" style="width:85px;width:75px;">&nbsp;</td>
+<td height="10" class="mid spacer" style="padding:10px;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333;font-size:1px;padding:0;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;color:#333333;">&nbsp;</td>
+<td class="col spacer-75 cut" style="width:85px;width:75px;">&nbsp;</td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+<tr>
+<td>
+<table bgcolor="#eeeeee" border="0" cellpadding="0" cellspacing="0" width="670" class="frame footer" style="background-color:#eee;background-image:url('https://ea.twimg.com/email/t1/shadow-bottom.jpg');background-position:top;background-repeat:repeat-x;border-top-color:#ddd;border-top-style:solid;border-top-width:1px;">
+<tbody>
+<tr>
+<td colspan="4" height="16" class="footer-padding-top"></td>
+</tr>
+<tr>
+<td class="col cut" style="width:85px;width:75px;"></td>
+<td class="footer_body media_footer" style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height:17px;color:#777;text-shadow:0 1px 0 #fff;">
+<div>
+Forgot your Twitter password?
+<a class="reset" href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fresend_password%3Fcn%3DcHN0Zg%253D%253D&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=dd06299e2a471b6f85daa356f85559272dc3ac41&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+24" style="border:none;color:#0084b4;text-decoration:none;">Get instructions on how to reset it.</a>
+</div>
+<div>
+You can also
+<a href="https://twitter.com/i/u?t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=8a77bb0f42ffd78b120d0cc120d9e8fc88a4b090&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+26" style="border:none;color:#0084b4;text-decoration:none;">unsubscribe from these emails</a>
+<span class="reset">or change your <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Fsettings%2Fnotifications%3Fcn%3DcHN0Zg%253D%253D&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=424d6fbb272a6bb17487204b52f46b7a3eb344bf&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+27" style="border:none;color:#0084b4;text-decoration:none;">notification settings</a>. Need <a href="https://twitter.com/i/redirect?url=https%3A%2F%2Fsupport.twitter.com%3Fcn%3DcHN0Zg%253D%253D&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=b7c9a098b847c957e67d564fc8a05c14addfad5a&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+97" style="border:none;color:#0084b4;text-decoration:none;">help</a>?</span>
+</div>
+<div class="reset">
+If you received this message in error and did not sign up for Twitter, click
+<a href="https://twitter.com/i/redirect?url=https%3A%2F%2Ftwitter.com%2Faccount%2Fnot_my_account%2F3399653489%2FHC7CH-37EGB-143895%3Fut%3D1%26cn%3DcHN0Zg%253D%253D&amp;t=1&amp;cn=cHN0Zg%3D%3D&amp;sig=2a4c558d81481f67a26794641c1a081694281f1a&amp;iid=211121ac49a64984bc5e545394bc6d1c&amp;uid=3399653489&amp;nid=64+25" style="border:none;color:#0084b4;text-decoration:none;">not my account</a>.
+</div>
+<div>
+<a href="#" class="address" style="border:none;color:#0084b4;text-decoration:none;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;text-decoration:none;font-size:11px;line-height:17px;color:#999999;text-shadow:0 1px 0 #fff;">Twitter, Inc. 1355 Market St., Suite 900 <span class="nobreak" style="white-space:nowrap;">San Francisco, CA 94103 </span></a>
+</div> </td>
+<td class="col cut" style="width:85px;width:75px;"></td>
+</tr>
+<tr>
+<td colspan="3" class="footer-padding-bottom" height="25"></td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table> </td>
+</tr>
+</tbody>
+</table>
+<img width="1" height="1" src="loadimage" style="border:0;" />
+</body>
+</html>
+
+------=_Part_1666229_1360332008.1438959707005--

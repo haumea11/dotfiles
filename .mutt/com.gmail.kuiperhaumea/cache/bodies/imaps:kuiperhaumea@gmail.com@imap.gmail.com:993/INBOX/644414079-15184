@@ -1,0 +1,107 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.211.2 with SMTP id k2csp1963336oig;
+        Thu, 19 Nov 2015 05:47:29 -0800 (PST)
+X-Received: by 10.28.14.209 with SMTP id 200mr16443766wmo.103.1447940849198;
+        Thu, 19 Nov 2015 05:47:29 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-x22f.google.com (mail-wm0-x22f.google.com. [2a00:1450:400c:c09::22f])
+        by mx.google.com with ESMTPS id hh4si9121411wjc.172.2015.11.19.05.47.29
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 05:47:29 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) client-ip=2a00:1450:400c:c09::22f;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c09::22f as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@github.com;
+       dkim=pass header.i=@sendgrid.info;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+Received: by mail-wm0-x22f.google.com with SMTP id w130so226217994wmd.0
+        for <kuiperhaumea@gmail.com>; Thu, 19 Nov 2015 05:47:29 -0800 (PST)
+X-Received: by 10.28.137.194 with SMTP id l185mr10328801wmd.21.1447940848969;
+        Thu, 19 Nov 2015 05:47:28 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1911848wme;
+        Thu, 19 Nov 2015 05:47:28 -0800 (PST)
+X-Received: by 10.50.222.75 with SMTP id qk11mr8947293igc.60.1447940848304;
+        Thu, 19 Nov 2015 05:47:28 -0800 (PST)
+Return-Path: <bounces+848413-ebc9-markiewicz.john=gmail.com@sgmail.github.com>
+Received: from o1.sgmail.github.com (o1.sgmail.github.com. [192.254.114.176])
+        by mx.google.com with ESMTPS id yr7si8502587igb.88.2015.11.19.05.47.27
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 19 Nov 2015 05:47:28 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of bounces+848413-ebc9-markiewicz.john=gmail.com@sgmail.github.com designates 192.254.114.176 as permitted sender) client-ip=192.254.114.176;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=github.com; 
+	h=from:reply-to:to:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe; 
+	s=s20150108; bh=1m4jx2DPerbToAL7fIJcoPbxh98=; b=FnK2nrn/hWp8h3B5
+	AsZGe7fAURuqiiFH63EZpeqxGj4UGtD0zqAHoYPCUTkWGd5gpua7Hgjy3P1mTxNn
+	qWCzKZcuePP8VL3amh6sssK4xr9UM/aBnQMfk19nqYaPQIwh9SJElcWEa6Lqw38Q
+	ptNvbvqdOI35jyTItln5c6M4Xsk=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:in-reply-to:references:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=1m4jx2DPerbToAL7fIJcoPbxh98=; b=RuqVVEfVu8TaM8/SA1
+	KoxNO/DO8HX/ipOYH6S5VeJaaWsqHSezXrIlsxRt/M7PTvMkzcyhX59+JSNZDwYF
+	tKFIQVy2aH67YD++8m52735LE4Hz+jrV0xZdDZaa/16c67QKq5gBSsw23avZdGUK
+	Nrn254p84x6DDLufqaW+gfBEY=
+Received: by filter0801p1mdw1.sendgrid.net with SMTP id filter0801p1mdw1.12043.564DD2BE3D
+        2015-11-19 13:46:38.335548392 +0000 UTC
+Received: from github-smtp2b-ext-cp1-prd.iad.github.net (github-smtp2b-ext-cp1-prd.iad.github.net [192.30.253.17])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id iSSnvbzbQsy9WIRlgY9Grw
+	for <markiewicz.john@gmail.com>; Thu, 19 Nov 2015 13:46:38.477 +0000 (UTC)
+Date: Thu, 19 Nov 2015 05:46:38 -0800
+From: =?UTF-8?B?SW5nbyBCw7xyaw==?= <notifications@github.com>
+Reply-To: Airblader/i3 <reply+00a6914dc8939a982e83429f93be59e316fb7d1cb31a41af92cf00000001126594be92a169ce0705b08a@reply.github.com>
+To: Airblader/i3 <i3@noreply.github.com>
+Message-ID: <Airblader/i3/issue/64/issue_event/469171233@github.com>
+In-Reply-To: <Airblader/i3/issues/64@github.com>
+References: <Airblader/i3/issues/64@github.com>
+Subject: Re: [i3] Merging with i3 (#64)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_564dd2be5396f_8983f80cc8df2c0343684";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: Airblader
+X-GitHub-Recipient: haumea11
+List-ID: Airblader/i3 <i3.Airblader.github.com>
+List-Archive: https://github.com/Airblader/i3
+List-Post: <mailto:reply+00a6914dc8939a982e83429f93be59e316fb7d1cb31a41af92cf00000001126594be92a169ce0705b08a@reply.github.com>
+List-Unsubscribe: <mailto:unsub+00a6914dc8939a982e83429f93be59e316fb7d1cb31a41af92cf00000001126594be92a169ce0705b08a@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AKaRTWVzCagkbLxckFaTLqq0Fnv3eqGGks5pHco-gaJpZM4GliIX>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: markiewicz.john@gmail.com
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuG7RpJy9d7Nr2UVkpWqMkzMY6vjNrW5EfZkdT
+ laFWlEZerKfBrQQeLKV9BfPsvHZHbZ2gu8jpZlR2Igyom+EGxIRzzFKGicIXwrYxICJx/+zpHN5Nh0
+ rzwChrO3cRWPMuhLjVHjgshO5VsJkkVNz/U9
+X-Feedback-ID: 848413:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:SG
+
+----==_mimepart_564dd2be5396f_8983f80cc8df2c0343684
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Closed #64.
+
+---
+Reply to this email directly or view it on GitHub:
+https://github.com/Airblader/i3/issues/64#event-469171233
+----==_mimepart_564dd2be5396f_8983f80cc8df2c0343684
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Closed <a href="https://github.com/Airblader/i3/issues/64" class="issue-link" title="Merging with i3">#64</a>.</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">&mdash;<br>Reply to this email directly or <a href="https://github.com/Airblader/i3/issues/64#event-469171233">view it on GitHub</a>.<img alt="" height="1" src="https://github.com/notifications/beacon/AKaRTQtuLvMyuFWede_Dbtij6NSl0E-3ks5pHco-gaJpZM4GliIX.gif" width="1" /></p>
+<div itemscope itemtype="http://schema.org/EmailMessage">
+<div itemprop="action" itemscope itemtype="http://schema.org/ViewAction">
+  <link itemprop="url" href="https://github.com/Airblader/i3/issues/64#event-469171233"></link>
+  <meta itemprop="name" content="View Issue"></meta>
+</div>
+<meta itemprop="description" content="View this Issue on GitHub"></meta>
+</div>
+
+----==_mimepart_564dd2be5396f_8983f80cc8df2c0343684--

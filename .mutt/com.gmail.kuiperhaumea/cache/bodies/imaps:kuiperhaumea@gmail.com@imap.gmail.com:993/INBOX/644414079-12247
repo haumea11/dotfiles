@@ -1,0 +1,2728 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp241170oid;
+        Wed, 8 Jul 2015 11:35:23 -0700 (PDT)
+X-Received: by 10.194.220.100 with SMTP id pv4mr23485128wjc.71.1436380523750;
+        Wed, 08 Jul 2015 11:35:23 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x22d.google.com (mail-wi0-x22d.google.com. [2a00:1450:400c:c05::22d])
+        by mx.google.com with ESMTPS id he9si5156073wjc.173.2015.07.08.11.35.23
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 08 Jul 2015 11:35:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) client-ip=2a00:1450:400c:c05::22d;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::22d as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@mail43.atl31.mcdlv.net;
+       dkim=pass header.i=@gmail.mcsv.net
+Received: by mail-wi0-x22d.google.com with SMTP id jy10so223832988wid.1
+        for <kuiperhaumea@gmail.com>; Wed, 08 Jul 2015 11:35:23 -0700 (PDT)
+X-Received: by 10.194.6.229 with SMTP id e5mr23182401wja.158.1436380522993;
+        Wed, 08 Jul 2015 11:35:22 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp150042wmd;
+        Wed, 8 Jul 2015 11:35:21 -0700 (PDT)
+X-Received: by 10.170.120.197 with SMTP id m188mr12835760ykb.60.1436380521293;
+        Wed, 08 Jul 2015 11:35:21 -0700 (PDT)
+Return-Path: <bounce-mc.us2_5327134.1316217-markiewicz.john=gmail.com@mail43.atl31.mcdlv.net>
+Received: from mail43.atl31.mcdlv.net (mail43.atl31.mcdlv.net. [205.201.134.43])
+        by mx.google.com with ESMTP id r19si2033039ykb.3.2015.07.08.11.35.20
+        for <markiewicz.john@gmail.com>;
+        Wed, 08 Jul 2015 11:35:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us2_5327134.1316217-markiewicz.john=gmail.com@mail43.atl31.mcdlv.net designates 205.201.134.43 as permitted sender) client-ip=205.201.134.43;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail43.atl31.mcdlv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=newsletter=3Dgouletpens.com@mail43.atl31.mcdlv.net;
+ bh=8EAPzyaNyjLlXwiZPRzy3f1+Y2o=;
+ b=mrHqH+Tzx1kSh7Vb/Y0OLZ5U2NrKTFIEBsdQvx/lGEG/KaJjE6wpD3EGP8Bmuu4sIiWWjeXiCNL5
+   /5s0X96UEJv4D2g5CdjGKoCL2inybi0adoWgCDTVHKJu9aNdSUUXHNFhE0LbS2tyQXUlRMkiqj4z
+   Mi6LM5Us3vM8XHHvgBg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=8EAPzyaNyjLlXwiZPRzy3f1+Y2o=;
+ b=N9LpKvS569o9xC1koVkRXbBc+xUN28tOT6N1XJE8grxkVHh7Mx4Gsgjgky2dGS7hLSSiPoKBldj2
+   zku0P3+TZYuumLmjXcv56cS6Xmltox89dXqX71lF+nl1H8sI7EN7XIbJXbxA1Fq6tccXET3N2qXj
+   LWbEy183TQFmQJUhwqY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=mail43.atl31.mcdlv.net;
+ b=bKK7Gqx0PQunJt6RpMuRSnMYKnxhbv8nyEnTBdSc5ZKdJ0mZ2iWnzXC208azjtO/tr9/pACPQyNj
+   /IiQv/xupb0K4WvIHrFUkKN7u6gSy7FFdi6IMCDljmFbwkXI4fbbPZMdq1DW0P0R0fwkZVpCVf6b
+   Fp4VfqptS3D+DRj4qAc=;
+Received: from (127.0.0.1) by mail43.atl31.mcdlv.net id hjlmmi1mqrob for <markiewicz.john@gmail.com>; Wed, 8 Jul 2015 17:46:54 +0000 (envelope-from <bounce-mc.us2_5327134.1316217-markiewicz.john=gmail.com@mail43.atl31.mcdlv.net>)
+Subject: =?utf-8?Q?The=20Goulet=20Communiqu=C3=A9=20Newsletter=3A=20July=208=2C=202015?=
+From: =?utf-8?Q?The=20Goulet=20Pen=20Company?= <newsletter@gouletpens.com>
+Reply-To: =?utf-8?Q?The=20Goulet=20Pen=20Company?= <newsletter@gouletpens.com>
+To: =?utf-8?Q?John?= <markiewicz.john@gmail.com>
+Date: Wed, 8 Jul 2015 17:46:54 +0000
+Message-ID: <285169d5958e74e317878186ce430ecb5f3.20150708174613@mail43.atl31.mcdlv.net>
+X-Mailer: MailChimp Mailer - **CIDe43822e270e430ecb5f3**
+X-Campaign: mailchimp285169d5958e74e317878186c.e43822e270
+X-campaignid: mailchimp285169d5958e74e317878186c.e43822e270
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=285169d5958e74e317878186c&id=e43822e270&e=e430ecb5f3
+X-MC-User: 285169d5958e74e317878186c
+X-Feedback-ID: 5327134:5327134.1316217:us2:mc
+List-ID: 285169d5958e74e317878186cmc list <285169d5958e74e317878186c.515001.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-285169d5958e74e317878186c-e43822e270-e430ecb5f3@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://gouletpens.us2.list-manage2.com/unsubscribe?u=285169d5958e74e317878186c&id=a48958906c&e=e430ecb5f3&c=e43822e270>
+Sender: "The Goulet Pen Company" <newsletter=gouletpens.com@mail43.atl31.mcdlv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1920815897"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1920815897
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+Welcome to the Goulet Communiqu=C3=A9=2C our weekly newsletter to fill you=
+ in on what's happening at The Goulet Pen Company...
+
+View this email in your browser (http://us2.campaign-archive1.com/?u=3D285=
+169d5958e74e317878186c&id=3De43822e270&e=3De430ecb5f3)
+
+http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3D99dd0f1ec1&e=3De430ecb5f3
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3Da024239774&e=3De430ecb5f3
+http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3D82406a8b0f&e=3De430ecb5f3
+Grow something great with the Cross Botanica (http://gouletpens.us2.list-m=
+anage.com/track/click?u=3D285169d5958e74e317878186c&id=3Da3f7edfdd7&e=3D=
+e430ecb5f3) ! These refreshingly floral pens are sure to make your wri=
+ting blossom. We love the generous ink flow from these steel nibs and all=
+ of the subtle details in the design.
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D544e7c57fb&e=3De430ecb5f3
+Is your writing cooling down? Fire it back up with the Fireball (http://go=
+uletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D19f0c2924a&e=3De430ecb5f3) =2C the Summer 2015 seasonal edition o=
+f the Edison Nouveau Premiere.
+
+http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3De3ea370c74&e=3De430ecb5f3
+
+Introducing the Cross Click (http://gouletpens.us2.list-manage.com/track/c=
+lick?u=3D285169d5958e74e317878186c&id=3Dc803e94789&e=3De430ecb5f3)=
+ =2C a retractable gel rollerball pen available in seven fun colors. Perfe=
+ct for on-the-go=2C taking notes=2C or whatever else life throws at you.
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D704daa89d7&e=3De430ecb5f3
+Never worry about your ink drying out when using the Platinum #3776 Centur=
+y (http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3=
+17878186c&id=3D7abd8fe5c2&e=3De430ecb5f3) ! This pen is available in=
+ two new colors and features an innovative Slip-n-Seal cap design which wi=
+ll keep your nib wet for up to two years.
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D891cd44b48&e=3De430ecb5f3
+It=E2=80=99s never too early to start planning! With the week on the left=
+ and a grid on the right=2C these Rhodia WebPlanners (http://gouletpens.us=
+2.list-manage2.com/track/click?u=3D285169d5958e74e317878186c&id=3Dc2e57868=
+18&e=3De430ecb5f3) are sure to get your 2016 in order.
+
+http://gouletpens.us2.list-manage2.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3Decf5bf4470&e=3De430ecb5f3
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D537b8e0cae&e=3De430ecb5f3
+Next week=2C we'll be launching the Cross Townsend (http://gouletpens.us2.=
+list-manage2.com/track/click?u=3D285169d5958e74e317878186c&id=3D1d689627b7=
+&e=3De430ecb5f3) . Considered to be one of their flagship models - a=
+nd the preferred choice of U.S. Presidents - we're excited to add this to=
+ our collection and hopefully yours=2C too.
+http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3Dca8015f51d&e=3De430ecb5f3
+The TWSBI Eco (http://gouletpens.us2.list-manage1.com/track/click?u=3D2851=
+69d5958e74e317878186c&id=3D4291dd9dba&e=3De430ecb5f3) will be coming=
+ within the next two weeks. Available in two colors=2C the Eco features th=
+e clear barrel and piston mechanism that you have come to expect from TWSB=
+I=2C but only costs $28.99.
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D09d9678ce8&e=3De430ecb5f3
+Also coming later this month will be Maruman Mnemosyne (http://gouletpens.=
+us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D51402a=
+cf78&e=3De430ecb5f3) notebooks! Just in time for back-to-school seas=
+on=2C we're working on getting the products listed on our site. Keep check=
+ing back!
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3Dee8d141cce&e=3De430ecb5f3
+http://gouletpens.us2.list-manage2.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3Dd9b9eca3cd&e=3De430ecb5f3
+All De Atramentis (http://gouletpens.us2.list-manage2.com/track/click?u=3D=
+285169d5958e74e317878186c&id=3D7603c11624&e=3De430ecb5f3) and Rohrer=
+ & Klingner (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d=
+5958e74e317878186c&id=3Dda58db2c9c&e=3De430ecb5f3) bottled inks are=
+ being offered at a discount=2C this month only! These great German brands=
+ are available at a discount of over 25%=2C so if you've ever wanted to wr=
+ite with a scented (try De Atramentis Apple Blossom (http://gouletpens.us2=
+=2Elist-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Defe90cdbd5=
+&e=3De430ecb5f3) or Cucumber (http://gouletpens.us2.list-manage.com/=
+track/click?u=3D285169d5958e74e317878186c&id=3Dadc35dd2b8&e=3D=
+e430ecb5f3) - yum!) or iron gall (R&K Salix (http://gouletpens.us2.list-manage.c=
+om/track/click?u=3D285169d5958e74e317878186c&id=3Dc81dec035a&e=3D=
+e430ecb5f3) or Scabiosa (http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3Dde4cd2b6ac&e=3De430ecb5f3) ) ink=
+=2C now is the time to act!
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3De3b4d6d375&e=3De430ecb5f3
+Receive a Jinhao X750 Shimmering Sands (http://gouletpens.us2.list-manage.=
+com/track/click?u=3D285169d5958e74e317878186c&id=3De2dece46e7&e=3D=
+e430ecb5f3) fountain pen for FREE with purchase of any other Jinhao (http://=
+gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&=
+id=3D675abf3cc2&e=3De430ecb5f3) fountain pen. Just add both pens to=
+ your cart to see the $0 price at checkout on this sparkly pen=2C this mon=
+th only while supplies last. :)
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D554c7e3e6a&e=3De430ecb5f3
+It's Inksamplepalooza time! For the month of July=2C you can enjoy at leas=
+t 20% off all of our individual 2ml ink samples (http://gouletpens.us2.lis=
+t-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D8fe224ae6e&e=
+=3De430ecb5f3) . With nearly 600 colors in our offering=2C we're sur=
+e you can find a new favorite color!
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D3a2ef933f2&e=3De430ecb5f3
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D7972de4e38&e=3De430ecb5f3
+Madigan takes us underwater with her inspired Monday Matchup (http://goule=
+tpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D=
+72d4b6befa&e=3De430ecb5f3) featuring the Noodler's Ahab flex pen in=
+ Navajo paired with - what else? - Noodler's Navajo Turquoise ink.
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3D7eea45a974&e=3De430ecb5f3
+Need to be quick on the draw (http://gouletpens.us2.list-manage1.com/track=
+/click?u=3D285169d5958e74e317878186c&id=3Dcc1dbf9000&e=3De430ecb5f3)=
+ ? Cowboy Brian has a line up of snap cap=2C clickable=2C easy openers to=
+ help you accelerate your writing.
+
+http://gouletpens.us2.list-manage2.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3Db472a5a1d9&e=3De430ecb5f3
+We already mentioned our July sales (http://gouletpens.us2.list-manage.com=
+/track/click?u=3D285169d5958e74e317878186c&id=3D78a6c31a1f&e=3D=
+e430ecb5f3) going on=2C but if you want to learn more details=2C this is the pl=
+ace to go.
+
+http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e31787=
+8186c&id=3Dc3d6abaa8c&e=3De430ecb5f3
+Take a quick look at the Pilot Custom 74 (http://gouletpens.us2.list-manag=
+e.com/track/click?u=3D285169d5958e74e317878186c&id=3D5af41ac00b&e=3D=
+e430ecb5f3) =2C one of Brian's personal favorite pens.
+
+http://gouletpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e3178=
+78186c&id=3Df6fdfbf906&e=3De430ecb5f3
+In this Goulet Q&A Episode 85 (http://gouletpens.us2.list-manage.com/track=
+/click?u=3D285169d5958e74e317878186c&id=3D44619d5209&e=3De430ecb5f3)=
+ =2C Brian talks filling mechanisms=2C his favorite Noodler's inks=2C and=
+ the story behind the Goulet logo.
+
+Hello fountain pen friends!
+
+Thank you SO much for all of your kind thoughts and prayers towards Rachel=
+'s sister=2C Rebekah=2C and her new baby=2C Natalie. We're thrilled to say=
+ that Rebekah was able to bring Natalie home yesterday after spending near=
+ly a week in the NICU=2C and she's now a beautiful=2C healthy girl! While=
+ we weren't able to hold her during our visit last week=2C we're looking f=
+orward to a quality visit soon and were glad to all be together as a famil=
+y for moral support.
+
+We hope you had a wonderful 4th of July (if you're in America)=2C or just=
+ a great weekend in general. Stay cool out there!
+
+Write On=2C
+Brian & Rachel Goulet
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+** Our Store (http://gouletpens.us2.list-manage1.com/track/click?u=3D28516=
+9d5958e74e317878186c&id=3D1982a322d9&e=3De430ecb5f3)
+** Our Store (http://gouletpens.us2.list-manage.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3Df317f6c42b&e=3De430ecb5f3)
+** Facebook (http://gouletpens.us2.list-manage1.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3D6bcf1d79ab&e=3De430ecb5f3)
+** Facebook (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d=
+5958e74e317878186c&id=3Df4ee2e6123&e=3De430ecb5f3)
+** Instagram (http://gouletpens.us2.list-manage.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3Dfce56417f6&e=3De430ecb5f3)
+** Instagram (http://gouletpens.us2.list-manage.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3De192058096&e=3De430ecb5f3)
+** LinkedIn (http://gouletpens.us2.list-manage1.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3De3a6c06eb6&e=3De430ecb5f3)
+** LinkedIn (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d=
+5958e74e317878186c&id=3De5afec62d7&e=3De430ecb5f3)
+** Pinterest (http://gouletpens.us2.list-manage.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3Dde67ba97eb&e=3De430ecb5f3)
+** Pinterest (http://gouletpens.us2.list-manage.com/track/click?u=3D285169=
+d5958e74e317878186c&id=3D0454d1c178&e=3De430ecb5f3)
+** Twitter (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5=
+958e74e317878186c&id=3D00e18a6021&e=3De430ecb5f3)
+** Twitter (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5=
+958e74e317878186c&id=3Ddfa0c35d54&e=3De430ecb5f3)
+** YouTube (http://gouletpens.us2.list-manage.com/track/click?u=3D285169d5=
+958e74e317878186c&id=3D127ed740f3&e=3De430ecb5f3)
+** YouTube (http://gouletpens.us2.list-manage2.com/track/click?u=3D285169d=
+5958e74e317878186c&id=3Dde6a7ae541&e=3De430ecb5f3)
+** Email (mailto:newsletter@gouletpens.com)
+** Email (mailto:newsletter@gouletpens.com)
+Copyright =C2=A9 2015 The Goulet Pen Company=2C All rights reserved.
+ You are receiving this email because you opted in at our website.
+
+Our mailing address is:
+The Goulet Pen Company
+10199 Maple Leaf Court
+Ashland=2C VA 23005
+USA
+** unsubscribe from this list (http://gouletpens.us2.list-manage2.com/unsu=
+bscribe?u=3D285169d5958e74e317878186c&id=3Da48958906c&e=3De430ecb5f3&c=3De43=
+822e270)
+** update subscription preferences (http://gouletpens.us2.list-manage.com/=
+profile?u=3D285169d5958e74e317878186c&id=3Da48958906c&e=3De430ecb5f3)
+--_----------=_MCPart_1920815897
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.or=
+g/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head><meta name=3D"twitter:image:src" content=3D"https://gallery.mail=
+chimp.com/285169d5958e74e317878186c/images/14631043-25cd-445d-82f5-bf74dcb=
+ea4d6.jpg"><meta name=3D"twitter:description" content=3D"Welcome to the Go=
+ulet Communiqu=C3=A9=2C our weekly newsletter to fill you in on what's hap=
+pening at The Goulet Pen Company...."><meta name=3D"twitter:title" content=
+=3D"The Goulet Communiqu=C3=A9 Newsletter: July 8=2C 2015"><meta name=3D"t=
+witter:card" content=3D"summary_large_image"><meta property=3D"og:type" co=
+ntent=3D"article"><meta property=3D"og:description" content=3D"Welcome to=
+ the Goulet Communiqu=C3=A9=2C our weekly newsletter to fill you in on wha=
+t's happening at The Goulet Pen Company...."><meta property=3D"og:image" c=
+ontent=3D"https://gallery.mailchimp.com/285169d5958e74e317878186c/images/1=
+4631043-25cd-445d-82f5-bf74dcbea4d6.jpg"><meta property=3D"og:title" conte=
+nt=3D"The Goulet Communiqu=C3=A9 Newsletter: July 8=2C 2015"><meta propert=
+y=3D"og:url" content=3D"http://eepurl.com/bszdRz">
+    =09<!-- NAME: 2:1 COLUMN -->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3D=
+UTF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial=
+-scale=3D1.0">
+        <title>The Goulet Communiqu=C3=A9 Newsletter: July 8=2C 2015</titl=
+e>
+
+    <style type=3D"text/css">
+=09=09body=2C#bodyTable=2C#bodyCell{
+=09=09=09height:100% !important;
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09}
+=09=09table{
+=09=09=09border-collapse:collapse;
+=09=09}
+=09=09img=2Ca img{
+=09=09=09border:0;
+=09=09=09outline:none;
+=09=09=09text-decoration:none;
+=09=09}
+=09=09h1=2Ch2=2Ch3=2Ch4=2Ch5=2Ch6{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09}
+=09=09p{
+=09=09=09margin:1em 0;
+=09=09=09padding:0;
+=09=09}
+=09=09a{
+=09=09=09word-wrap:break-word;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass span=2C.ExternalC=
+lass font=2C.ExternalClass td=2C.ExternalClass div{
+=09=09=09line-height:100%;
+=09=09}
+=09=09table=2Ctd{
+=09=09=09mso-table-lspace:0pt;
+=09=09=09mso-table-rspace:0pt;
+=09=09}
+=09=09#outlook a{
+=09=09=09padding:0;
+=09=09}
+=09=09img{
+=09=09=09-ms-interpolation-mode:bicubic;
+=09=09}
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-ms-text-size-adjust:100%;
+=09=09=09-webkit-text-size-adjust:100%;
+=09=09}
+=09=09#bodyCell{
+=09=09=09padding:20px;
+=09=09}
+=09=09.mcnImage{
+=09=09=09vertical-align:bottom;
+=09=09}
+=09=09.mcnTextContent img{
+=09=09=09height:auto !important;
+=09=09}
+=09=09body=2C#bodyTable{
+=09=09=09background-color:#254689;
+=09=09}
+=09=09#bodyCell{
+=09=09=09border-top:0;
+=09=09}
+=09=09#templateContainer{
+=09=09=09border:0;
+=09=09}
+=09=09h1{
+=09=09=09color:#606060 !important;
+=09=09=09display:block;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:40px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-1px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h2{
+=09=09=09color:#404040 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:26px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.75px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h3{
+=09=09=09color:#606060 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:18px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:-.5px;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09h4{
+=09=09=09color:#808080 !important;
+=09=09=09display:block;
+=09=09=09font-family:Helvetica;
+=09=09=09font-size:16px;
+=09=09=09font-style:normal;
+=09=09=09font-weight:bold;
+=09=09=09line-height:125%;
+=09=09=09letter-spacing:normal;
+=09=09=09margin:0;
+=09=09=09text-align:left;
+=09=09}
+=09=09#templatePreheader{
+=09=09=09background-color:#254689;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent=2C.preheaderContainer .mcnTextCo=
+ntent p{
+=09=09=09color:#f5f5f5;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:10px;
+=09=09=09line-height:125%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.preheaderContainer .mcnTextContent a{
+=09=09=09color:#257889;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateHeader{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.headerContainer .mcnTextContent=2C.headerContainer .mcnTextContent=
+ p{
+=09=09=09color:#606060;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.headerContainer .mcnTextContent a{
+=09=09=09color:#258968;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.templateColumn{
+=09=09=09width:293px;
+=09=09}
+=09=09#templateColumns{
+=09=09=09background-color:#FFFFFF;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent=2C.leftColumnContainer .mcnText=
+Content p{
+=09=09=09color:#606060;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.leftColumnContainer .mcnTextContent a{
+=09=09=09color:#258968;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent=2C.rightColumnContainer .mcnTe=
+xtContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.rightColumnContainer .mcnTextContent a{
+=09=09=09color:#258968;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateBody{
+=09=09=09background-color:#ffffff;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.bodyContainer .mcnTextContent=2C.bodyContainer .mcnTextContent p{
+=09=09=09color:#606060;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:12px;
+=09=09=09line-height:150%;
+=09=09=09text-align:left;
+=09=09}
+=09=09.bodyContainer .mcnTextContent a{
+=09=09=09color:#258968;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09=09#templateFooter{
+=09=09=09background-color:#362589;
+=09=09=09border-top:0;
+=09=09=09border-bottom:0;
+=09=09}
+=09=09.footerContainer .mcnTextContent=2C.footerContainer .mcnTextContent=
+ p{
+=09=09=09color:#f5f5f5;
+=09=09=09font-family:'Lucida Sans Unicode'=2C 'Lucida Grande'=2C sans-seri=
+f;
+=09=09=09font-size:10px;
+=09=09=09line-height:125%;
+=09=09=09text-align:center;
+=09=09}
+=09=09.footerContainer .mcnTextContent a{
+=09=09=09color:#257899;
+=09=09=09font-weight:normal;
+=09=09=09text-decoration:underline;
+=09=09}
+=09@media only screen and (max-width: 480px){
+=09=09body=2Ctable=2Ctd=2Cp=2Ca=2Cli=2Cblockquote{
+=09=09=09-webkit-text-size-adjust:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09body{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[id=3DbodyCell]{
+=09=09=09padding:10px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3Dmcpreview-image-uploader]{
+=09=09=09width:100% !important;
+=09=09=09display:none !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09img[class=3DmcnImage]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnImageGroupContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupContent]{
+=09=09=09padding:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageGroupBlockInner]{
+=09=09=09padding-bottom:0 !important;
+=09=09=09padding-top:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09tbody[class=3DmcnImageGroupBlockOuter]{
+=09=09=09padding-bottom:9px !important;
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionTopContent]=2Ctable[class=3DmcnCaptionBott=
+omContent]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftTextContentContainer]=2Ctable[class=3D=
+mcnCaptionRightTextContentContainer]=2Ctable[class=3DmcnCaptionLeftImageC=
+ontentContainer]=2Ctable[class=3DmcnCaptionRightImageContentContainer]=2C=
+table[class=3DmcnImageCardLeftTextContentContainer]=2Ctable[class=3DmcnI=
+mageCardRightTextContentContainer]{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardLeftImageContent]=2Ctd[class=3DmcnImageCard=
+RightImageContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09=09padding-bottom:0 !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardBottomImageContent]{
+=09=09=09padding-bottom:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnImageCardTopImageContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnCaptionLeftContentOuter] td[class=3DmcnTextConten=
+t]=2Ctable[class=3DmcnCaptionRightContentOuter] td[class=3DmcnTextConten=
+t]{
+=09=09=09padding-top:9px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnCaptionBlockInner] table[class=3DmcnCaptionTopConten=
+t]:last-child td[class=3DmcnTextContent]{
+=09=09=09padding-top:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnBoxedTextContentColumn]{
+=09=09=09padding-left:18px !important;
+=09=09=09padding-right:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DcolumnsContainer]{
+=09=09=09display:block !important;
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DmcnTextContent]{
+=09=09=09padding-right:18px !important;
+=09=09=09padding-left:18px !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplateContainer]=2Ctable[id=3DtemplatePreheader]=2Cta=
+ble[id=3DtemplateHeader]=2Ctable[id=3DtemplateColumns]=2Ctable[class=3D=
+templateColumn]=2Ctable[id=3DtemplateBody]=2Ctable[id=3DtemplateFooter]{
+=09=09=09max-width:600px !important;
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h1{
+=09=09=09font-size:24px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h2{
+=09=09=09font-size:20px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h3{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09h4{
+=09=09=09font-size:16px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextCont=
+ent]=2Ctd[class=3DmcnBoxedTextContentContainer] td[class=3DmcnTextConten=
+t] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09table[id=3DtemplatePreheader]{
+=09=09=09display:block !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DpreheaderContainer] td[class=3DmcnTextContent]=2Ctd[cl=
+ass=3DpreheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DheaderContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DheaderContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DleftColumnContainer] td[class=3DmcnTextContent]=2Ctd[c=
+lass=3DleftColumnContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DrightColumnContainer] td[class=3DmcnTextContent]=2Ctd[=
+class=3DrightColumnContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DbodyContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DbodyContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:18px !important;
+=09=09=09line-height:125% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] td[class=3DmcnTextContent]=2Ctd[class=
+=3DfooterContainer] td[class=3DmcnTextContent] p{
+=09=09=09font-size:14px !important;
+=09=09=09line-height:115% !important;
+=09=09}
+
+}=09@media only screen and (max-width: 480px){
+=09=09td[class=3DfooterContainer] a[class=3DutilityLink]{
+=09=09=09display:block !important;
+=09=09}
+
+}</style></head>
+    <body leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=
+=3D"0" offset=3D"0" style=3D"margin: 0;padding: 0;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;background-color: #254689;height: 100% !=
+important;width: 100% !important;"><div itemscope=3D"" itemtype=3D"http://=
+schema.org/EmailMessage"><div itemprop=3D"publisher" itemscope=3D"" itemty=
+pe=3D"http://schema.org/Organization"><meta itemprop=3D"name" content=3D"T=
+he Goulet Pen Company"><link itemprop=3D"url" content=3D"http://www.goulet=
+pens.com"></div><div itemprop=3D"about" itemscope=3D"" itemtype=3D"http://=
+schema.org/Offer"><link itemprop=3D"image" href=3D"https://gallery.mailchi=
+mp.com/285169d5958e74e317878186c/images/14631043-25cd-445d-82f5-bf74dcbea4=
+d6.jpg"></div></div>
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable" style=3D"border=
+-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-s=
+ize-adjust: 100%;-webkit-text-size-adjust: 100%;margin: 0;padding: 0;backg=
+round-color: #254689;height: 100% !important;width: 100% !important;">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell" st=
+yle=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;margin: 0;padding: 20px;border-top: 0;h=
+eight: 100% !important;width: 100% !important;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600" id=3D"templateContainer" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;border: 0;">
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN PREHEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templatePreheader" style=3D"border-=
+collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-si=
+ze-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #254689;b=
+order-top: 0;border-bottom: 0;">
+                                        <tr>
+                                        =09<td valign=3D"top" class=3D"pre=
+headerContainer" style=3D"padding-top: 9px;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" clas=
+s=3D"mcnTextBlock" style=3D"border-collapse: collapse;mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"366" class=3D"mcnTextContentContainer" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-left: 18px;padding-bottom: 9px;padding-right:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #f5f5f5;font-family: 'Lucida Sans Un=
+icode'=2C 'Lucida Grande'=2C sans-serif;font-size: 10px;line-height: 125%;=
+text-align: left;">
+
+                            Welcome to the Goulet Communiqu=C3=A9=2C our w=
+eekly newsletter to fill you in on what's happening at The Goulet Pen Comp=
+any...
+                        </td>
+                    </tr>
+                </tbody></table>
+
+                <table align=3D"right" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"197" class=3D"mcnTextContentContainer" style=3D"bor=
+der-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top: 9px;padding-right: 18px;padding-bottom: 9px;padding-left:=
+ 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #f5f5f5;font-family: 'Lucida Sans Un=
+icode'=2C 'Lucida Grande'=2C sans-serif;font-size: 10px;line-height: 125%;=
+text-align: left;">
+
+                            <a href=3D"http://us2.campaign-archive1.com/?u=
+=3D285169d5958e74e317878186c&id=3De43822e270&e=3De430ecb5f3" target=3D"_blan=
+k" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #257889;font-weight: normal;text-decoration: unde=
+rline;">View this email in your browser</a>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END PREHEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN HEADER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateHeader" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"he=
+aderContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-te=
+xt-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table class=3D"mcnI=
+mageBlock" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 0px;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cl=
+ass=3D"mcnImageBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+
+                                    <a href=3D"http://gouletpens.us2.list-=
+manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D206b57a1ac&e=3D=
+e430ecb5f3" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img alt=3D"" src=3D"https://galle=
+ry.mailchimp.com/285169d5958e74e317878186c/images/2c556c15-912b-4f46-8dde-=
+bebf1f5ce63b.jpg" style=3D"max-width: 953px;padding-bottom: 0;display: inl=
+ine !important;vertical-align: bottom;border: 0;outline: none;text-decorat=
+ion: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage" width=3D"60=
+0" align=3D"middle">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnDividerBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table style=3D"border-top: 1px solid #999999;border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnDividerContent" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnImageBlock" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 0px;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cl=
+ass=3D"mcnImageBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+
+                                    <a href=3D"http://gouletpens.us2.list-=
+manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D9268a0911f&e=3D=
+e430ecb5f3" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: br=
+eak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img alt=3D"New Arrivals" src=3D"h=
+ttps://gallery.mailchimp.com/285169d5958e74e317878186c/images/f101a45b-b92=
+0-462f-8d1c-705c667ef3dd.jpg" style=3D"max-width: 316px;padding-bottom: 0;=
+display: inline !important;vertical-align: bottom;border: 0;outline: none;=
+text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage"=
+ width=3D"316" align=3D"middle">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"false" align=3D"left" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D5e1d3086b9&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Cross Botanica" src=3D"https://gallery.mailchimp.c=
+om/285169d5958e74e317878186c/images/d7c072d3-16d5-4494-8f45-a0b33068b957.j=
+pg" style=3D"max-width: 1305px;border: 0;outline: none;text-decoration: no=
+ne;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnIm=
+age" width=3D"564">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"564">
+            Grow something great with the <a href=3D"http://gouletpens.us2=
+=2Elist-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Db726bcbd41=
+&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;font-wei=
+ght: normal;text-decoration: underline;">Cross Botanica</a>! These refresh=
+ingly floral pens are sure to make your writing blossom. We love the gener=
+ous ink flow from these steel nibs and all of the subtle details in the de=
+sign.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D222e2795a5&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Edison Nouveau Premiere Fireball" src=3D"https://g=
+allery.mailchimp.com/285169d5958e74e317878186c/images/92568036-33ec-49f8-b=
+70c-a367a9340232.jpg" style=3D"max-width: 1000px;border: 0;outline: none;t=
+ext-decoration: none;-ms-interpolation-mode: bicubic;vertical-align: botto=
+m;" class=3D"mcnImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            <div style=3D"text-align: left;">
+<div style=3D"text-align: left;">Is your writing cooling down? Fire it bac=
+k up with the <a href=3D"http://gouletpens.us2.list-manage2.com/track/clic=
+k?u=3D285169d5958e74e317878186c&id=3D9b6828485a&e=3De430ecb5f3" target=3D=
+"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;color: #258968;font-weight: normal;text-decoration=
+: underline;">Fireball</a>=2C the Summer 2015 seasonal edition of the Edis=
+on Nouveau Premiere.</div>
+</div>
+
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D0c593d8d69&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Cross Click" src=3D"https://gallery.mailchimp.com/=
+285169d5958e74e317878186c/images/d22f01f8-1809-4bc9-ad85-fb47e45cc1f3.jpg"=
+ style=3D"max-width: 1000px;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage=
+" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            <div style=3D"text-align: left;">
+<div style=3D"text-align: left;">Introducing the <a href=3D"http://gouletp=
+ens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D835=
+2df5bfc&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;f=
+ont-weight: normal;text-decoration: underline;">Cross Click</a>=2C a retra=
+ctable gel rollerball pen available in seven fun colors. Perfect for on-th=
+e-go=2C taking notes=2C or whatever else life throws at you.</div>
+</div>
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D8784274c95&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Platinum 3776 Century" src=3D"https://gallery.mail=
+chimp.com/285169d5958e74e317878186c/images/f523c600-fa37-4cef-8fc5-ffded78=
+bfb3d.jpg" style=3D"max-width: 1000px;border: 0;outline: none;text-decorat=
+ion: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=
+=3D"mcnImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            <div style=3D"text-align: left;">
+<div style=3D"text-align: left;">Never worry about your ink drying out whe=
+n using the <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D0040b9df76&e=3De430ecb5f3" target=3D"_b=
+lank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-te=
+xt-size-adjust: 100%;color: #258968;font-weight: normal;text-decoration: u=
+nderline;">Platinum #3776 Century</a>! This pen is available in two new co=
+lors and features an innovative Slip-n-Seal cap design which will keep you=
+r nib wet for up to two years.</div>
+</div>
+
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D02df577fa8&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"2016 Rhodia Webplanner" src=3D"https://gallery.mai=
+lchimp.com/285169d5958e74e317878186c/images/cd6a4b5d-abcb-49d4-8265-aec7a8=
+cfe0b5.jpg" style=3D"max-width: 1000px;border: 0;outline: none;text-decora=
+tion: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=
+=3D"mcnImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            It=E2=80=99s never too early to start planning! With the week=
+ on the left and a grid on the right=2C these <a href=3D"http://gouletpens=
+=2Eus2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D2482f=
+fe821&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;-m=
+s-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;fon=
+t-weight: normal;text-decoration: underline;">Rhodia WebPlanners</a> are s=
+ure to get your 2016 in order.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnDividerBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table style=3D"border-top: 1px solid #999999;border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnDividerContent" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnImageBlock" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 0px;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cl=
+ass=3D"mcnImageBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+
+                                    <a href=3D"http://gouletpens.us2.list-=
+manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D3aeb347be2&e=3D=
+e430ecb5f3" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: br=
+eak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img alt=3D"Coming Soon" src=3D"ht=
+tps://gallery.mailchimp.com/285169d5958e74e317878186c/images/37f9a440-531d=
+-4642-8529-855aac6560fa.jpg" style=3D"max-width: 288px;padding-bottom: 0;d=
+isplay: inline !important;vertical-align: bottom;border: 0;outline: none;t=
+ext-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage"=
+ width=3D"288" align=3D"middle">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"false" align=3D"left" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D5eb2875b8c&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Cross Townsend" src=3D"https://gallery.mailchimp.c=
+om/285169d5958e74e317878186c/images/6fbea38d-69a9-4403-8f08-99c27f9c6e1e.j=
+pg" style=3D"max-width: 1305px;border: 0;outline: none;text-decoration: no=
+ne;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnIm=
+age" width=3D"564">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"564">
+            Next week=2C we'll be launching the <a href=3D"http://gouletpe=
+ns.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D173f=
+7480f7&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;fo=
+nt-weight: normal;text-decoration: underline;">Cross Townsend</a>. Conside=
+red to be one of their flagship models - and the preferred choice of U.S.=
+ Presidents - we're excited to add this to our collection and hopefully yo=
+urs=2C too.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3Da90c2b8eda&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"TWSBI Eco" src=3D"https://gallery.mailchimp.com/28=
+5169d5958e74e317878186c/images/c64d0d9e-28d7-418d-a253-4d134d003480.jpg" s=
+tyle=3D"max-width: 1118px;border: 0;outline: none;text-decoration: none;-m=
+s-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage"=
+ width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            The <a href=3D"http://gouletpens.us2.list-manage1.com/track/cl=
+ick?u=3D285169d5958e74e317878186c&id=3D11d20e3f15&e=3De430ecb5f3" target=
+=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-decorat=
+ion: underline;">TWSBI Eco</a> will be coming within the next two weeks. A=
+vailable in two colors=2C the Eco features the clear barrel and piston mec=
+hanism that you have come to expect from TWSBI=2C but only costs $28.99.
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3Da0cf3d1b4e&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Maruman Mnemosyne" src=3D"https://gallery.mailchim=
+p.com/285169d5958e74e317878186c/images/40773ae5-9a5f-4f91-9be6-de3dd6afc3f=
+1.jpg" style=3D"max-width: 1200px;border: 0;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mc=
+nImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            Also coming later this month will be <a href=3D"http://gouletp=
+ens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Da56=
+9d916ea&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;f=
+ont-weight: normal;text-decoration: underline;">Maruman Mnemosyne</a> note=
+books! Just in time for back-to-school season=2C we're working on getting=
+ the products listed on our site. Keep checking back!
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnDividerBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table style=3D"border-top: 1px solid #999999;border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnDividerContent" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnImageBlock" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 0px;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cl=
+ass=3D"mcnImageBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" align=3D"lef=
+t" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+
+                                    <a href=3D"http://gouletpens.us2.list-=
+manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Ddda73effec&e=3D=
+e430ecb5f3" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: br=
+eak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img alt=3D"New Arrivals" src=3D"h=
+ttps://gallery.mailchimp.com/285169d5958e74e317878186c/images/287f40a7-d96=
+4-4c7c-b8d3-d269adadf5b6.jpg" style=3D"max-width: 207px;padding-bottom: 0;=
+display: inline !important;vertical-align: bottom;border: 0;outline: none;=
+text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcnImage"=
+ align=3D"middle" width=3D"207">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"false" align=3D"left" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D38c4004523&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Ink Sale" src=3D"https://gallery.mailchimp.com/285=
+169d5958e74e317878186c/images/3a71ca23-d70d-4b20-bad6-4c0a94acc2d7.png" st=
+yle=3D"max-width: 1305px;border: 0;outline: none;text-decoration: none;-ms=
+-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage" w=
+idth=3D"564">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"564">
+            All <a href=3D"http://gouletpens.us2.list-manage.com/track/cli=
+ck?u=3D285169d5958e74e317878186c&id=3Da08241d38b&e=3De430ecb5f3" style=3D=
+"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust=
+: 100%;color: #258968;font-weight: normal;text-decoration: underline;">De=
+ Atramentis</a> and <a href=3D"http://gouletpens.us2.list-manage1.com/trac=
+k/click?u=3D285169d5958e74e317878186c&id=3D13a3888be5&e=3De430ecb5f3" sty=
+le=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-a=
+djust: 100%;color: #258968;font-weight: normal;text-decoration: underline;=
+">Rohrer &amp; Klingner</a> bottled inks are being offered at a discount=
+=2C this month only! These great German brands are available at a discount=
+ of over 25%=2C so if you've ever wanted to write with a scented (try De A=
+tramentis <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D6341ba426c&e=3De430ecb5f3" style=3D"wor=
+d-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 10=
+0%;color: #258968;font-weight: normal;text-decoration: underline;">Apple B=
+lossom</a> or <a href=3D"http://gouletpens.us2.list-manage1.com/track/clic=
+k?u=3D285169d5958e74e317878186c&id=3Db96f942063&e=3De430ecb5f3" style=3D"=
+word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;color: #258968;font-weight: normal;text-decoration: underline;">Cucu=
+mber</a>- yum!) or iron gall (R&amp;K <a href=3D"http://gouletpens.us2.lis=
+t-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D5c211e2848&e=
+=3De430ecb5f3" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-dec=
+oration: underline;">Salix</a> or <a href=3D"http://gouletpens.us2.list-ma=
+nage.com/track/click?u=3D285169d5958e74e317878186c&id=3D20139e9731&e=3D=
+e430ecb5f3" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webki=
+t-text-size-adjust: 100%;color: #258968;font-weight: normal;text-decoratio=
+n: underline;">Scabiosa</a>) ink=2C now is the time to act!&nbsp;
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3Da2b4f3f366&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Jinhao BOGO" src=3D"https://gallery.mailchimp.com/=
+285169d5958e74e317878186c/images/3b71181e-5820-40bd-94cc-08eca7e39b4e.jpg"=
+ style=3D"max-width: 1200px;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage=
+" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            Receive a <a href=3D"http://gouletpens.us2.list-manage.com/tra=
+ck/click?u=3D285169d5958e74e317878186c&id=3Dfa961ab51e&e=3De430ecb5f3" ta=
+rget=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;=
+-webkit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-dec=
+oration: underline;">Jinhao X750 Shimmering Sands</a> fountain pen for FRE=
+E with purchase of any <em>other</em> <a href=3D"http://gouletpens.us2.lis=
+t-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Db1a7619d68&e=
+=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;font-weigh=
+t: normal;text-decoration: underline;">Jinhao</a> fountain pen. Just add b=
+oth pens to your cart to see the $0 price at checkout on this sparkly pen=
+=2C this month only while supplies last. :)
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"left">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D5bfce85a40&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Inksamplepalooza" src=3D"https://gallery.mailchimp=
+=2Ecom/285169d5958e74e317878186c/images/aab0134f-5b36-4ef1-b0b2-ee3e789709aa=
+=2Ejpg" style=3D"max-width: 1200px;border: 0;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mc=
+nImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            It's <strong>Inksamplepalooza</strong> time! For the month of=
+ July=2C you can enjoy at least 20% off all of our <a href=3D"http://goule=
+tpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3Dd=
+8e8b2f6d2&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-wor=
+d;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968=
+;font-weight: normal;text-decoration: underline;">individual 2ml ink sampl=
+es</a>. With nearly 600 colors in our offering=2C we're sure you can find=
+ a new favorite color!
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END HEADER -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN COLUMNS // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateColumns" style=3D"border-co=
+llapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;bor=
+der-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td align=3D"left" valign=3D"t=
+op" class=3D"columnsContainer" width=3D"50%" style=3D"mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;width: 293px;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"leftColumnContainer" style=3D"mso-table-lspace: 0pt;mso-table-rs=
+pace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td=
+>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td align=3D"left" valign=3D"t=
+op" class=3D"columnsContainer" width=3D"50%" style=3D"mso-table-lspace: 0p=
+t;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjus=
+t: 100%;">
+                                                <table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"templateColumn" styl=
+e=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt=
+;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;width: 293px;">
+                                                    <tr>
+                                                        <td valign=3D"top"=
+ class=3D"rightColumnContainer" style=3D"mso-table-lspace: 0pt;mso-table-r=
+space: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></t=
+d>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END COLUMNS -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN BODY // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateBody" style=3D"border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;background-color: #ffffff;border=
+-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"bo=
+dyContainer" style=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnDividerBlock"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table class=3D"mcnDividerContent" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-top-width: 1px;bo=
+rder-top-style: solid;border-top-color: #999999;border-collapse: collapse;=
+mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnImageBlock" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td style=3D"padding: 0px;mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" cl=
+ass=3D"mcnImageBlockInner" valign=3D"top">
+                    <table class=3D"mcnImageContentContainer" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" align=3D"left" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" style=3D"padding=
+-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom: 0;text-align:=
+ center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top">
+
+                                    <a href=3D"http://gouletpens.us2.list-=
+manage2.com/track/click?u=3D285169d5958e74e317878186c&id=3D48d70d105c&e=3D=
+e430ecb5f3" title=3D"" class=3D"" target=3D"_blank" style=3D"word-wrap: b=
+reak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <img alt=3D"Goulet Pens Blog" src=
+=3D"https://gallery.mailchimp.com/285169d5958e74e317878186c/images/c1f6851=
+d-cfed-44e2-b63e-3d8c553e5cf1.jpg" style=3D"max-width: 357px;padding-botto=
+m: 0;display: inline !important;vertical-align: bottom;border: 0;outline:=
+ none;text-decoration: none;-ms-interpolation-mode: bicubic;" class=3D"mcn=
+Image" width=3D"357" align=3D"middle">
+                                    </a>
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"false" align=3D"left" style=3D"border-collapse: c=
+ollapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D4761725418&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Monday Matchup" src=3D"https://gallery.mailchimp.c=
+om/285169d5958e74e317878186c/images/5e36b995-3213-4c2a-9e52-eccb3734f5f0.j=
+pg" style=3D"max-width: 1000px;border: 0;outline: none;text-decoration: no=
+ne;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnIm=
+age" width=3D"564">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"564">
+            Madigan takes us underwater with her inspired <a href=3D"http:=
+//gouletpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c=
+&id=3D7151a90dd1&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: br=
+eak-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color:=
+ #258968;font-weight: normal;text-decoration: underline;">Monday Matchup</=
+a> featuring the Noodler's Ahab flex pen in Navajo paired with - what else=
+? - Noodler's Navajo Turquoise ink.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage1.com/track/click?=
+u=3D285169d5958e74e317878186c&id=3D174de108da&e=3De430ecb5f3" title=3D""=
+ class=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size=
+-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Quick Draw" src=3D"https://gallery.mailchimp.com/2=
+85169d5958e74e317878186c/images/aa0b499c-d8a6-4992-afa8-572770867e57.jpg"=
+ style=3D"max-width: 1200px;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage=
+" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            Need to be <a href=3D"http://gouletpens.us2.list-manage.com/tr=
+ack/click?u=3D285169d5958e74e317878186c&id=3D8d8e513618&e=3De430ecb5f3" t=
+arget=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-de=
+coration: underline;">quick on the draw</a>? Cowboy Brian has a line up of=
+ snap cap=2C clickable=2C easy openers to help you accelerate your writing=
+=2E
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D90b086a463&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"July Sales" src=3D"https://gallery.mailchimp.com/2=
+85169d5958e74e317878186c/images/5d74b59d-0a1f-418c-954b-21fbd3b95c3e.jpg"=
+ style=3D"max-width: 1200px;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnImage=
+" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            We already mentioned our <a href=3D"http://gouletpens.us2.list=
+-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=3D04af5a9959&e=
+=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-=
+size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #258968;font-weigh=
+t: normal;text-decoration: underline;">July sales</a> going on=2C but if y=
+ou want to learn more details=2C this is the place to go.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnCaptionBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnCaptionBlockOuter">
+        <tr>
+            <td class=3D"mcnCaptionBlockInner" style=3D"padding: 9px;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;" valign=3D"top">
+
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"left" style=3D"border-collapse: col=
+lapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 10=
+0%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D368ebbf84f&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Quick Look: Pilot Custom 74" src=3D"https://galler=
+y.mailchimp.com/285169d5958e74e317878186c/images/942be84b-1088-43c2-8327-1=
+ef806c26ff3.jpg" style=3D"max-width: 1000px;border: 0;outline: none;text-d=
+ecoration: none;-ms-interpolation-mode: bicubic;vertical-align: bottom;" c=
+lass=3D"mcnImage" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            Take a <a href=3D"http://gouletpens.us2.list-manage.com/track/=
+click?u=3D285169d5958e74e317878186c&id=3Ddc71d2ac5b&e=3De430ecb5f3" targe=
+t=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-we=
+bkit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-decora=
+tion: underline;">quick look at the Pilot Custom 74</a>=2C one of Brian's=
+ personal favorite pens.
+        </td>
+    </tr>
+</tbody></table>
+
+<table class=3D"mcnCaptionBottomContent" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"282" align=3D"right" style=3D"border-collapse: co=
+llapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 1=
+00%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td class=3D"mcnCaptionBottomImageContent" style=3D"padding: 0 9px=
+ 9px 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust:=
+ 100%;-webkit-text-size-adjust: 100%;" valign=3D"top" align=3D"center">
+
+
+            <a href=3D"http://gouletpens.us2.list-manage.com/track/click?u=
+=3D285169d5958e74e317878186c&id=3D4bb580e62b&e=3De430ecb5f3" title=3D"" c=
+lass=3D"" target=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-a=
+djust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+            <img alt=3D"Goulet Q&amp;A" src=3D"https://gallery.mailchimp.c=
+om/285169d5958e74e317878186c/images/7dc9c936-6324-4586-ad4e-e2031ce8d47e.j=
+pg" style=3D"max-width: 600px;border: 0;outline: none;text-decoration: non=
+e;-ms-interpolation-mode: bicubic;vertical-align: bottom;" class=3D"mcnIma=
+ge" width=3D"264">
+            </a>
+
+        </td>
+    </tr>
+    <tr>
+        <td class=3D"mcnTextContent" style=3D"padding: 0px 9px;font-family=
+: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans=
+-serif: ;font-size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-h=
+eight: 150%;text-align: left;" valign=3D"top" width=3D"264">
+            In this <a href=3D"http://gouletpens.us2.list-manage.com/track=
+/click?u=3D285169d5958e74e317878186c&id=3Dbd738a1d17&e=3De430ecb5f3" targ=
+et=3D"_blank" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-w=
+ebkit-text-size-adjust: 100%;color: #258968;font-weight: normal;text-decor=
+ation: underline;">Goulet Q&amp;A Episode 85</a>=2C Brian talks filling me=
+chanisms=2C his favorite Noodler's inks=2C and the story behind the Goulet=
+ logo.
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnDividerBlock" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-tabl=
+e-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-tex=
+t-size-adjust: 100%;">
+    <tbody class=3D"mcnDividerBlockOuter">
+        <tr>
+            <td class=3D"mcnDividerBlockInner" style=3D"padding: 18px;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit=
+-text-size-adjust: 100%;">
+                <table style=3D"border-top: 1px solid #999999;border-colla=
+pse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-ad=
+just: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcnDividerContent" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+                    <tbody><tr>
+                        <td style=3D"mso-table-lspace: 0pt;mso-table-rspac=
+e: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <span></span>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" class=3D"mcnImageBlock" style=3D"border-collapse: collapse;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding: 0px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" class=3D"mcnImageBlockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=
+=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;=
+-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" s=
+tyle=3D"padding-right: 0px;padding-left: 0px;padding-top: 0;padding-bottom=
+: 0;text-align: center;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-tex=
+t-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://gallery.mailchimp.com/285169d5958e74e317878186c/images/64402a3=
+5-3249-451d-883e-0c808cd12111.jpg" width=3D"600" style=3D"max-width: 709px=
+;padding-bottom: 0;display: inline !important;vertical-align: bottom;borde=
+r: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;"=
+ class=3D"mcnImage">
+
+
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table><table class=3D"mcnBoxedTextBlock" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-t=
+able-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-=
+text-size-adjust: 100%;">
+    <tbody class=3D"mcnBoxedTextBlockOuter">
+        <tr>
+            <td class=3D"mcnBoxedTextBlockInner" valign=3D"top" style=3D"m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-web=
+kit-text-size-adjust: 100%;">
+
+                <table class=3D"mcnBoxedTextContentContainer" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"left" style=3D=
+"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms=
+-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td style=3D"padding-top: 9px;padding-left: 18px;p=
+adding-bottom: 9px;padding-right: 18px;mso-table-lspace: 0pt;mso-table-rsp=
+ace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                            <table style=3D"border: 1px solid #999999;back=
+ground-color: #EBEBEB;border-collapse: collapse;mso-table-lspace: 0pt;mso-=
+table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100=
+%;" class=3D"mcnTextContentContainer" border=3D"0" cellpadding=3D"18" cell=
+spacing=3D"0" width=3D"100%">
+                                <tbody><tr>
+                                    <td style=3D"font-family: &quot;lucida=
+ sans unicode&quot: ;=2C&quot: ;lucida grande&quot: ;=2Csans-serif: ;font-=
+size: 12px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjus=
+t: 100%;-webkit-text-size-adjust: 100%;color: #606060;line-height: 150%;te=
+xt-align: left;" class=3D"mcnTextContent" valign=3D"top">
+                                        Hello fountain pen friends!<br>
+<br>
+Thank you SO much for all of your kind thoughts and prayers towards Rachel=
+'s sister=2C Rebekah=2C and her new baby=2C Natalie. We're thrilled to say=
+ that Rebekah was able to bring Natalie home yesterday after spending near=
+ly a week in the NICU=2C and she's now a beautiful=2C healthy girl! While=
+ we weren't able to hold her during our visit last week=2C we're looking f=
+orward to a quality visit soon and were glad to all be together as a famil=
+y for moral support.<br>
+<br>
+We hope you had a wonderful 4th of July (if you're in America)=2C or just=
+ a great weekend in general. Stay cool out there!<br>
+<br>
+Write On=2C<br>
+Brian &amp; Rachel Goulet
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END BODY -->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" valign=3D"top" style=
+=3D"mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;">
+                                    <!-- BEGIN FOOTER // -->
+                                    <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600" id=3D"templateFooter" style=3D"border-col=
+lapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-=
+adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #362589;bord=
+er-top: 0;border-bottom: 0;">
+                                        <tr>
+                                            <td valign=3D"top" class=3D"fo=
+oterContainer" style=3D"padding-bottom: 9px;mso-table-lspace: 0pt;mso-tabl=
+e-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">=
+<table class=3D"mcnFollowBlock" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;">
+    <tbody class=3D"mcnFollowBlockOuter">
+        <tr>
+            <td style=3D"padding: 9px;mso-table-lspace: 0pt;mso-table-rspa=
+ce: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=
+=3D"mcnFollowBlockInner" align=3D"center" valign=3D"top">
+                <table class=3D"mcnFollowContentContainer" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse:=
+ collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust=
+: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr>
+        <td style=3D"padding-left: 9px;padding-right: 9px;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-a=
+djust: 100%;" align=3D"center">
+            <table style=3D"background-color: #254689;border: 1px solid #E=
+EEEEE;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0p=
+t;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" class=3D"mcn=
+FollowContent" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%">
+                <tbody><tr>
+                    <td style=3D"padding-top: 9px;padding-right: 9px;paddi=
+ng-left: 9px;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adj=
+ust: 100%;-webkit-text-size-adjust: 100%;" align=3D"center" valign=3D"top"=
+>
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace=
+: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09=09=09=09=09<tbody><tr>
+=09=09=09=09=09=09=09=09<td valign=3D"top" style=3D"mso-table-lspace: 0pt;=
+mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;">
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D2407b38d58&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-link-96.pn=
+g" alt=3D"Our Store" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;max=
+-width: 48px;display: block;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3Dc3155eb922&e=3De430ecb5f3" target=3D"_blank">Our Store</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D9fa6a199c5&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-facebook-9=
+6.png" alt=3D"Facebook" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;=
+max-width: 48px;display: block;border: 0;outline: none;text-decoration: no=
+ne;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D=
+1d548e5d9f&e=3De430ecb5f3" target=3D"_blank">Facebook</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3Da47a8ea989&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-instagram-=
+96.png" alt=3D"Instagram" class=3D"mcnFollowBlockIcon" style=3D"width: 48p=
+x;max-width: 48px;display: block;border: 0;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D=
+4a21884d1d&e=3De430ecb5f3" target=3D"_blank">Instagram</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D5a50802f5b&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-linkedin-9=
+6.png" alt=3D"LinkedIn" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;=
+max-width: 48px;display: block;border: 0;outline: none;text-decoration: no=
+ne;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage2.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D5a3a72b411&e=3De430ecb5f3" target=3D"_blank">LinkedIn</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3Df8824b4d13&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-pinterest-=
+96.png" alt=3D"Pinterest" class=3D"mcnFollowBlockIcon" style=3D"width: 48p=
+x;max-width: 48px;display: block;border: 0;outline: none;text-decoration:=
+ none;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3De59f8d86cd&e=3De430ecb5f3" target=3D"_blank">Pinterest</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D6a4046ec27&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-twitter-96=
+=2Epng" alt=3D"Twitter" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;ma=
+x-width: 48px;display: block;border: 0;outline: none;text-decoration: none=
+;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage2.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3Da64bb58267&e=3De430ecb5f3" target=3D"_blank">Twitter</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 10px;padding-bottom: 5px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"http://gou=
+letpens.us2.list-manage1.com/track/click?u=3D285169d5958e74e317878186c&id=
+=3D040bd971fc&e=3De430ecb5f3" target=3D"_blank" style=3D"word-wrap: break=
+-word;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=
+=3D"http://cdn-images.mailchimp.com/icons/social-block-v2/color-youtube-96=
+=2Epng" alt=3D"YouTube" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;ma=
+x-width: 48px;display: block;border: 0;outline: none;text-decoration: none=
+;-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 10px;padding-bottom: 9px;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-=
+adjust: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"http://goul=
+etpens.us2.list-manage.com/track/click?u=3D285169d5958e74e317878186c&id=3D=
+65c58b7110&e=3De430ecb5f3" target=3D"_blank">YouTube</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09
+=09=09=09                                <table class=3D"mcnFollowStacked"=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"=
+border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-=
+text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+=09=09=09
+=09=09=09                                    <tbody><tr>
+=09=09=09                                        <td class=3D"mcnFollowIco=
+nContent" style=3D"padding-right: 0;padding-bottom: 5px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a href=3D"mailto:new=
+sletter@gouletpens.com" target=3D"_blank" style=3D"word-wrap: break-word;-=
+ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src=3D"htt=
+p://cdn-images.mailchimp.com/icons/social-block-v2/color-forwardtofriend-9=
+6.png" alt=3D"Email" class=3D"mcnFollowBlockIcon" style=3D"width: 48px;max=
+-width: 48px;display: block;border: 0;outline: none;text-decoration: none;=
+-ms-interpolation-mode: bicubic;" width=3D"48"></a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09
+=09=09=09                                    <tr>
+=09=09=09                                        <td class=3D"mcnFollowTex=
+tContent" style=3D"padding-right: 0;padding-bottom: 9px;mso-table-lspace:=
+ 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-ad=
+just: 100%;" align=3D"center" valign=3D"top">
+=09=09=09                                            <a style=3D"color: #F=
+5F5F5;font-family: &quot;lucida sans unicode&quot: ;=2C&quot: ;lucida gran=
+de&quot: ;=2Csans-serif: ;font-size: 11px;font-weight: normal;line-height:=
+ 100%;text-align: center;text-decoration: none;word-wrap: break-word;-ms-t=
+ext-size-adjust: 100%;-webkit-text-size-adjust: 100%;" href=3D"mailto:news=
+letter@gouletpens.com" target=3D"_blank">Email</a>
+=09=09=09                                        </td>
+=09=09=09                                    </tr>
+=09=09=09
+=09=09=09                                </tbody></table>
+=09=09=09
+=09=09=09
+=09=09=09=09=09=09=09=09<!--[if gte mso 6]>
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09    =09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09<![endif]-->
+=09=09=09
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table><table class=3D"mcnTextBlock" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-l=
+space: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-s=
+ize-adjust: 100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td class=3D"mcnTextBlockInner" valign=3D"top" style=3D"mso-ta=
+ble-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-t=
+ext-size-adjust: 100%;">
+
+                <table class=3D"mcnTextContentContainer" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" width=3D"600" align=3D"left" style=3D"bord=
+er-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text=
+-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                    <tbody><tr>
+
+                        <td class=3D"mcnTextContent" style=3D"padding-top:=
+ 9px;padding-right: 18px;padding-bottom: 9px;padding-left: 18px;mso-table-=
+lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-=
+size-adjust: 100%;color: #f5f5f5;font-family: 'Lucida Sans Unicode'=2C 'Lu=
+cida Grande'=2C sans-serif;font-size: 10px;line-height: 125%;text-align: c=
+enter;" valign=3D"top">
+
+                            <em>Copyright =C2=A9 2015 The Goulet Pen Compa=
+ny=2C All rights reserved.</em>
+<br>
+    You are receiving this email because you opted in at our website.
+    <br>
+    <br>
+    <strong>Our mailing address is:</strong>
+    <br>
+    <div class=3D"vcard"><span class=3D"org fn">The Goulet Pen Company</sp=
+an><div class=3D"adr"><div class=3D"street-address">10199 Maple Leaf Court=
+</div><span class=3D"locality">Ashland</span>=2C <span class=3D"region">VA=
+</span>  <span class=3D"postal-code">23005</span></div><br><a href=3D"http=
+://gouletpens.us2.list-manage1.com/vcard?u=3D285169d5958e74e317878186c&id=
+=3Da48958906c" class=3D"hcard-download">Add us to your address book</a></d=
+iv>
+    <br>
+    <br>
+    <a href=3D"http://gouletpens.us2.list-manage2.com/unsubscribe?u=3D2851=
+69d5958e74e317878186c&id=3Da48958906c&e=3De430ecb5f3&c=3De43822e270" class=
+=3D"utilityLink" style=3D"word-wrap: break-word;-ms-text-size-adjust: 100%=
+;-webkit-text-size-adjust: 100%;color: #257899;font-weight: normal;text-de=
+coration: underline;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;
+    <a href=3D"http://gouletpens.us2.list-manage.com/profile?u=3D285169d59=
+58e74e317878186c&id=3Da48958906c&e=3De430ecb5f3" class=3D"utilityLink" style=
+=3D"word-wrap: break-word;-ms-text-size-adjust: 100%;-webkit-text-size-adj=
+ust: 100%;color: #257899;font-weight: normal;text-decoration: underline;">=
+update subscription preferences</a>&nbsp;
+    <br>
+    <br>
+                        </td>
+                    </tr>
+                </tbody></table>
+
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!-- // END FOOTER -->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src=3D"http://gouletpens.us2.list-manage.com/track/open.php?u=3D2=
+85169d5958e74e317878186c&id=3De43822e270&e=3De430ecb5f3" height=3D"1" wid=
+th=3D"1"></body>
+</html>
+--_----------=_MCPart_1920815897--

@@ -1,0 +1,103 @@
+Return-Path: <opensource-announce-bounces@mailman.cse.ohio-state.edu>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+Authentication-Results: spf=none (sender IP is 164.107.81.214)
+ smtp.mailfrom=mailman.cse.ohio-state.edu; airmail.cc; dkim=none (message not
+ signed) header.d=none;
+Received-SPF: None (protection.outlook.com: mailman.cse.ohio-state.edu does
+ not designate permitted sender hosts)
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+From: <opensource-announce-request@cse.ohio-state.edu>
+To: <jmarkiewicz@airmail.cc>
+Subject: confirm aa1cdd324b042a306459272b3e25c7078af168a9
+Reply-To: <opensource-announce-request@cse.ohio-state.edu>
+Auto-Submitted: auto-generated
+Message-ID: <mailman.0.1437690890.23593.opensource-announce@cse.ohio-state.edu>
+Date: Thu, 23 Jul 2015 18:34:50 -0400
+Precedence: bulk
+X-BeenThere: opensource-announce@cse.ohio-state.edu
+X-Mailman-Version: 2.1.16rc2
+List-Id: Announcement list for the Open Source Club
+	<opensource-announce.cse.ohio-state.edu>
+X-List-Administrivia: yes
+Errors-To: opensource-announce-bounces@cse.ohio-state.edu
+Sender: opensource-announce <opensource-announce-bounces@cse.ohio-state.edu>
+X-CFilter-Loop: Reflected
+X-EOPAttributedMessage: 0
+X-Microsoft-Exchange-Diagnostics: 1;BL2FFO11OLC015;1:Xan8XKwCym1M578NxdsJ/SOP4NfwJtdVYC6XHkVO3iY50lwPja1pxTcj9fnw6Mnd/iD0m9o0TRFyTj/ktF2GsedVg9nHWl1UBxBasFliV+v2edU0jar7GV/kWfde2PjY4Y6jRbaJKOk/Lk1rmdxDjNIzC8EakXYa4WUIGxf4wGFKRBP8NPacMZMo8bvc8ac4bMmT8gHv99BFWAsy49jFOaYIM/ZMdbVftufqBvyIk3h9WaU9aNs1dSC+Gv/1cxN+bNaMfSWQZgEIzDjjRGoIWYk02Y/ClLdVQ0GNpv+QkNU=
+X-Forefront-Antispam-Report:
+	CIP:164.107.81.214;CTRY:US;IPV:NLI;EFV:NLI;SFV:SPM;SFS:(10019020)(6009001)(2980300002)(428002)(522754002)(522744002)(199003)(189002)(106466001)(96286002)(77156002)(15975445007)(77096005)(3110400002)(97756001)(62966003)(2351001)(53806999)(74826001)(1720100001)(75432002)(47776003)(54356999)(78456001)(101416001)(50986999)(87936001)(86152002)(88552001)(6806004)(46102003)(105586002)(50466002)(109096001)(110136002)(81456001)(46406003)(23726002)(19580405001)(229853001)(5003600100002)(450100001)(19580395003)(43066003)(93346002)(107886002)(33646002)(89122001)(189998001)(16796002)(6120600001)(70600001)(80600001);DIR:OUT;SFP:1501;SCL:5;SRVR:BL2FFO11HUB019;H:cio-krc-pf07.osuad.osu.edu;FPR:;SPF:None;MLV:nov;A:1;MX:1;PTR:cio-krc-pf07.osuad.osu.edu;LANG:en;
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB019;2:zjwtCJmpbmnyQxa+e//lnqBp14FDbnghBxFncCSTgPfBAHbmrW874b9+OwxIUpJA;3:0qBBK7ucsKM3y7cuq6jMm7wKhLK0GJkdv54mNS9wU2DVhBj8wuI+1WDHnTMlk1UPpiUSNO8eWwLaiKMilKsnZPVupSNfUvN3jkIGgl8XazWipKqGqS/5fN5v0b91xs8fg2CCjPWx2/r2AJjhkMV9052d0kEcR/6wFqAo4cbqcqHc4ynF0SJGFDrXY4friRUNPYr1z3TPJhXOi8oIl2e4wM+YVlRRPfFPhuFU5OTLYhBIbHT8wD/IKGpWmHASfPtRlL+BAzmQOjtC57JEoyFGdg==;25:N6Mkr7CbNL4WKCH7a14tbzcyVc8oj+qWpHeh+cL6lxvusWUiDqCscDPxsXAsUkatxytGUm4Rh1KU6Xgovv+GxqIvL6u++odOyJml3cEP9CHrwLJEO7Q+hHYGXQmFBueGbQe+lAhCNlgHeO0aeod4ZTFiZHHePn6fHVAEKI6ZIFUW8YkmZ8cyiVzbxbQRJpcaD/Y9UTlZ0F+5xdC1jojd0sUibi15rGYSm25h7KMlyQridbKARZoKNPolMKRFcxxgnA2N1wPGULbs4YPoPe6zbg==
+X-Microsoft-Antispam:
+	UriScan:;BCL:0;PCL:0;RULEID:(42139001)(42140001);SRVR:BL2FFO11HUB019;
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB019;20:bcKKN6cUKJnTu42i9Q5je0oN7lDP9/1nISRzZ+QoLZy5/83RfTAHOYCqLmiOYqNUcJKX368eEPbNwwERjeYMcnUVfIrFELO4QENjxNanNuv3OIbKXaCzaAW/YS6EWlPLFZoUTrFnCQl4tli19gu7ToeM7n2AVfk/PjOdeukQgdlRx1bV/W6P9BbeP1yCv+lzBozvy+t76DZROkhHE0PyVb3XyGYnTI+VEBHEwL8c4eFfflow4kzVOMQ2uhc/IazYaFlz3neaAJg240JheuUAFWhsyif5j5QS60tHaSTsH6lmV7uHh8I2BnGt5ClyMSDxNsMqwVHQ9b5wt398hYzHRDSk1hkXDZEVtbBGteBeD9Qbm6RkdBmE96j/BSsgfb9ZDd1Mz8vjBKDYYHruxxhVPWoYibf1x4qwpiqK2+3NaJ4Krj0upyrUULKh4WFZSU7NBFOZMnpw8mt8dao8GKXjbpFiN+1KjTzpsmI+veiqR2HcZzkChP3Pk4WkewBO6FyV;4:Rpf7nlxU+I61MauRlm0BHOh8SCcJeVIcKj6XN6dOxq7BtwaRkX1NAV2RymRu+eXluU61rmxibAjBNKOaaq7Ens0qg9e3upqVJHj+yqHkx/qFKLRIoUS65W+DpKj+e2hv55i0s9t33HZl5Qbei8UtpTwoHBFIZALNSUa8RXAAYIS8IsdxtJ6HQTpuHjGXzp39igLUZlVXKSMnOQXR3vtp8GFOpSUX8nnCKnb2UCeGLj+ZvMqcnRFIPo35t0inxrDK3cm6h7R4vhhs23Olw83g+Q9BUdU3PzF7/+E2UkS6rxuE2M1FuCnRV6juAegA40FD
+BL2FFO11HUB019: X-MS-Exchange-Organization-RulesExecuted
+X-Microsoft-Antispam-PRVS:
+	<BL2FFO11HUB019837D4469FE2F8AFF6E629C820@BL2FFO11HUB019.protection.gbl>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test:
+	BCL:0;PCL:0;RULEID:(601004)(5005006)(3002001)(1506024004);SRVR:BL2FFO11HUB019;BCL:0;PCL:0;RULEID:;SRVR:BL2FFO11HUB019;
+X-Forefront-PRVS: 06469BCC91
+X-Microsoft-Exchange-Diagnostics:
+	=?us-ascii?Q?1;BL2FFO11HUB019;23:mGjOrARamFYPRI4GJN7eubWbRUJ0KVHsLwxm5Py+?=
+ =?us-ascii?Q?DrClQDi3MceyvV8AvKk+7qAAOs9+KDZWftTbq7E7EZVdSYTFbraV3QDM52lw?=
+ =?us-ascii?Q?B8UAeIzbXKXb+8Eh/B8oUn1At3XaX6urcpCTB35xYjOPLLBLW+Qrf6fMJMvQ?=
+ =?us-ascii?Q?qlUH29WNFmGrwfs+Z29MwxQzo9tAOxqazLHbSgOgaVI7jPz9cYHOsFHNXHZ+?=
+ =?us-ascii?Q?X2Qxy8YdkwkaBsPY/gAhc0xJp5D4uOotlQFVchdfJMn4TgxIKnqiQFpoZtGg?=
+ =?us-ascii?Q?Ij9MIScakzAd+dJfWyU54SIg9NTbwolHlE08fxdg2Ay/JfLowiF8bkGH5o3x?=
+ =?us-ascii?Q?zEMmbGdida0u4PzHbT6pUD/M0BOJhmaGlRBWJpyzZ1XNcvqVkmru0GJwsl8T?=
+ =?us-ascii?Q?V3YprIY+f1Oq870iUws3DSzPIv5wQQTldoZ2dA64jPsoiAXJOBEX/54S0J+i?=
+ =?us-ascii?Q?GTRiGYjlgosaJ3gTmOcXU7UnQZKiaLKPtxRQn5XS8oz+4bPUyAjp+MTfJi3s?=
+ =?us-ascii?Q?RG9fbjA/XbC1+g/CxwsMXO5lHri5uo30M6/kERhT9iM/P9WeAwF6+aGpGcDp?=
+ =?us-ascii?Q?YZ7G0chsgqAx5p0GhoFsqNGTZNrQqwc4YJrZbWyqsYn8eN+/FNpVv9KYpUhK?=
+ =?us-ascii?Q?I/EZdh7vPmNG26Tl+5i/T385eRdqFW2Jf90roxUedh6SdvDtDNdWGZK8oVDN?=
+ =?us-ascii?Q?JqU8v7otazmVU4Zp9cmPqPKkUWV6wFG+fg4WQyS89LWUzo9NGFEXmXQ2TMT+?=
+ =?us-ascii?Q?ef3DQOOrmW7gn3/MZd2QZREEc23bi/gNdCCXpCZ4+86EpLqTKqOtZxDtTvgi?=
+ =?us-ascii?Q?Id9tUTlwaUAKe2CSGaKpLTvioWhpt9PRIeBYqFd89QTCjfwG4NKvg9P8/U75?=
+ =?us-ascii?Q?2kjTq5GKkZe67LId6aAdPehIFkpqosmX9t2PJBOALnXhrMDIL0Brf7+iKd7u?=
+ =?us-ascii?Q?GhjhhMeUdHE+rwJNjwkYcE/XtaFpEM6+ANwXLZyCdu2h9uVt1ZRm2PeNMok4?=
+ =?us-ascii?Q?vAAmrXRmfijPbbkuAYL6JaW5ex//5sJdTaS2n22n9pn2aT3Hd4XgSHAPjI1Q?=
+ =?us-ascii?Q?Ue2fU+jE0UyTTKj0BFxfRHUvWSiA8e5ROagoxwD4TCI4D4nZAQW0TYJrdZbN?=
+ =?us-ascii?Q?DcxRuxfXWiEyzadC8ueVXP9tyOs5GyxhzRL9dC/PDj2VtyZ02ZVnNO9aEZjn?=
+ =?us-ascii?Q?ULwQ2XMzm4lpw3R/LCfigk1LJWAWqmF2NE3od0tHn0q54w1GAc2O40m2BkyU?=
+ =?us-ascii?Q?hoDl9KYm7dl1N9O136I3Mj7JBYW/2enUe6mT08WPTDE81NeHmx+/wc6DZd6Z?=
+ =?us-ascii?Q?lQ=3D=3D?=
+X-Microsoft-Exchange-Diagnostics:
+	1;BL2FFO11HUB019;5:iVmHkRHVFJjqfimrlVwUJ0sBnyKga38Yd2oOZ/wRg+FrlrWkLJB1HpjL219oahIQScchhQTQ2EElAZ+hNU0wbadLsU9gy7Tu8O3O69ICxVp1J/QvdtQEWkhx9iQ1f1CTZGJmkmuEgouCRaG6KvKwcg==;24:vND3qZND95HIVjN5ey1go487e9xSGdPppefIxFPLPHV1FTihH4U4GvlrZQ9BEpnSLu6kkEBi1/FySuje6RnvFw==
+X-OriginatorOrg: cse.ohio-state.edu
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 23 Jul 2015 22:34:51.6187
+ (UTC)
+X-MS-Exchange-CrossTenant-Id: b4d138ca-1815-4a9b-a3a7-130a33b1e692
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=b4d138ca-1815-4a9b-a3a7-130a33b1e692;Ip=[164.107.81.214];Helo=[cio-krc-pf07.osuad.osu.edu]
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BL2FFO11HUB019
+
+Mailing list subscription confirmation notice for mailing list
+opensource-announce
+
+We have received a request from 198.30.200.80 for subscription of your
+email address, "jmarkiewicz@airmail.cc", to the
+opensource-announce@cse.ohio-state.edu mailing list.  To confirm that
+you want to be added to this mailing list, simply reply to this
+message, keeping the Subject: header intact.  Or visit this web page:
+
+    http://mailman.cse.ohio-state.edu/mailman/confirm/opensource-announce/aa1cdd324b042a306459272b3e25c7078af168a9
+
+
+Or include the following line -- and only the following line -- in a
+message to opensource-announce-request@cse.ohio-state.edu:
+
+    confirm aa1cdd324b042a306459272b3e25c7078af168a9
+
+Note that simply sending a `reply' to this message should work from
+most mail readers, since that usually leaves the Subject: line in the
+right form (additional "Re:" text in the Subject: is okay).
+
+If you do not wish to be subscribed to this list, please simply
+disregard this message.  If you think you are being maliciously
+subscribed to the list, or have any other questions, send them to
+opensource-announce-owner@cse.ohio-state.edu.

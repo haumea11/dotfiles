@@ -1,0 +1,50 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp136120oid;
+        Fri, 10 Jul 2015 13:38:00 -0700 (PDT)
+X-Received: by 10.129.93.136 with SMTP id r130mr26200538ywb.52.1436560680244;
+        Fri, 10 Jul 2015 13:38:00 -0700 (PDT)
+Return-Path: <shannon.markiewicz@gmail.com>
+Received: from mail-yk0-x234.google.com (mail-yk0-x234.google.com. [2607:f8b0:4002:c07::234])
+        by mx.google.com with ESMTPS id i82si4169850ykf.74.2015.07.10.13.38.00
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 10 Jul 2015 13:38:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::234 as permitted sender) client-ip=2607:f8b0:4002:c07::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of shannon.markiewicz@gmail.com designates 2607:f8b0:4002:c07::234 as permitted sender) smtp.mail=shannon.markiewicz@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-yk0-x234.google.com with SMTP id e186so72323570yke.2
+        for <kuiperhaumea@gmail.com>; Fri, 10 Jul 2015 13:38:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=pFSlYfBmoJNm/McGRahnvkChiZL5B0Cs7isEEuozUKI=;
+        b=ucOjILNqP5EAaV+VW1/UVLXr5WE7wKphpNkA/QhB4lZOOgKlSOGAG0qvhl/LX6tfy8
+         Ga7pPHVMhuC0w9NbKoH0ye0NxSsPpEDKS8TlpSv/d+OaO3sesar1ywtNn3egrD6j1yNl
+         Jk1a93B+Wwbz1kgAE47B0m8PbKRWnE8r9o5S2ILHSWxbSsiKCFkhA36+9Lw80ia0kIyr
+         MrSXxtcSD6TzvhMeFBDMF/77owFePxA6kRSnolxyMrTUQTqMNOgo1mjz1okFDd/3iWRn
+         r4Qn7lfqUeK0vnAyJq4kSs+Dj/s5hQwkDQOExprm1ONrRAV9BamauelKcDsKHpRkUe4k
+         VNCQ==
+MIME-Version: 1.0
+X-Received: by 10.170.37.14 with SMTP id 14mr25333088ykf.129.1436560679943;
+ Fri, 10 Jul 2015 13:37:59 -0700 (PDT)
+Received: by 10.129.114.194 with HTTP; Fri, 10 Jul 2015 13:37:59 -0700 (PDT)
+Date: Fri, 10 Jul 2015 16:37:59 -0400
+Message-ID: <CANNyMF-W2pxhZFm=JeVfzdLfCye8sfeROsdNX9JrAhLfm9a=dA@mail.gmail.com>
+Subject: youtuber
+From: Shannon Markiewicz <shannon.markiewicz@gmail.com>
+To: John Markiewicz <kuiperhaumea@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113780b206c2e5051a8b59a3
+
+--001a113780b206c2e5051a8b59a3
+Content-Type: text/plain; charset=UTF-8
+
+https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA
+
+--001a113780b206c2e5051a8b59a3
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr"><a href="https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA">https://www.youtube.com/channel/UC9pq4hre8qZI132O4cok5vA</a><br><div><br></div><div><br></div></div>
+
+--001a113780b206c2e5051a8b59a3--

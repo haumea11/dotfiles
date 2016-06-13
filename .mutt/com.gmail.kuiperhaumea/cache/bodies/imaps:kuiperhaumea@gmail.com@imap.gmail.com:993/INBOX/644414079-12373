@@ -1,0 +1,406 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.129.9 with SMTP id c9csp40030oid;
+        Fri, 17 Jul 2015 12:08:30 -0700 (PDT)
+X-Received: by 10.180.9.75 with SMTP id x11mr18615762wia.80.1437160109510;
+        Fri, 17 Jul 2015 12:08:29 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wg0-x22b.google.com (mail-wg0-x22b.google.com. [2a00:1450:400c:c00::22b])
+        by mx.google.com with ESMTPS id fr8si10743465wib.3.2015.07.17.12.08.28
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Jul 2015 12:08:29 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) client-ip=2a00:1450:400c:c00::22b;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c00::22b as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=fail header.i=@technolutions.net;
+       dkim=pass header.i=@sendgrid.info
+Received: by mail-wg0-x22b.google.com with SMTP id v7so23366083wga.2
+        for <kuiperhaumea@gmail.com>; Fri, 17 Jul 2015 12:08:28 -0700 (PDT)
+X-Received: by 10.180.23.66 with SMTP id k2mr17892361wif.85.1437160108724;
+        Fri, 17 Jul 2015 12:08:28 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.140.67 with SMTP id o64csp1016394wmd;
+        Fri, 17 Jul 2015 12:08:27 -0700 (PDT)
+X-Received: by 10.50.88.6 with SMTP id bc6mr11962264igb.24.1437160107068;
+        Fri, 17 Jul 2015 12:08:27 -0700 (PDT)
+Return-Path: <bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net>
+Received: from o2.mx.technolutions.net (o2.mx.technolutions.net. [198.37.159.162])
+        by mx.google.com with ESMTPS id 69si9972424iop.75.2015.07.17.12.08.25
+        for <markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 17 Jul 2015 12:08:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+542305-9772-markiewicz.john=gmail.com@sg.technolutions.net designates 198.37.159.162 as permitted sender) client-ip=198.37.159.162;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=technolutions.net; 
+	h=from:to:subject:content-type:mime-version; s=s1; 
+	bh=Gioi3JBa3ffj1Um/7tMCnqJPK1I=; b=BmOC4QJ4ybiVDvXj2kO2qZ0wddKwq
+	zBVi5Ra45jPlk49OMDqtNpfYVB5b0o05v5kkyASQ/mHHuuRN2cVcm2SQbfBdfI6b
+	mLxbcwErawaA98Cwg7RUn9/BcYQ1+kg89S/S8+DZAfcYQgh0z5RtuKpmb+H90fir
+	syi1YE5dZ6OvCY=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:to:subject:content-type:mime-version; s=smtpapi; 
+	bh=Gioi3JBa3ffj1Um/7tMCnqJPK1I=; b=emirkSwjrxfpDlkyZRMcW6LxC1oaN
+	MrwwH2SW6/Mp4+J858wBsjbHB4hbebzZwDouYCtrGSR07Byj3Q75DG8lVYsAeHKN
+	W52FtRkdnVHHq7T8Aw0tJezHhp8p8lOAFjydLJ+T0WGl60F2v2g0ZCFy5hBEkisw
+	yRzhPT0X+ek1KQ=
+Received: by filter0460p1mdw1.sendgrid.net with SMTP id filter0460p1mdw1.27742.55A952A635
+        2015-07-17 19:08:23.070536115 +0000 UTC
+Received: from zephyr.technolutions.net (zephyr.technolutions.net [72.9.129.34])
+	by ismtpd-044 (SG) with ESMTP id 14e9d6adc58.744c.1112068
+	for <markiewicz.john@gmail.com>; Fri, 17 Jul 2015 19:08:23 +0000 (UTC)
+From: "Illinois Wesleyan University" <iwuadmit@iwu.edu>
+To: <markiewicz.john@gmail.com>
+Subject: A smart investment value
+Date: Fri, 17 Jul 2015 19:08:08 +0000
+Message-ID: <ddc68c4b-6ccd-4009-8979-b55889b6b6bb@technolutions.net>
+Importance: Normal
+Return-Path: <mailer@technolutions.net>
+Content-Type: multipart/alternative;
+ boundary="----=_0_386917e3-842a-4133-b64b-7a946c86434e"
+MIME-Version: 1.0
+X-SG-EID: DRLTZJnPo+dUGlgAINi1nfKZNjvP89teSLptT7rMuuHYMKALBT3xuSMCNj0YnFZpm5rVeE1Bf+ZM2m
+ EcLiV+fSXr2Gvl/zRiRCRoOpgIIVCO8PlzP1QkR4cR3lQyggsa7MwEDMXz2URuuEz/aq0R9FhlstGI
+ GF/rU8ak56E2rTFS3jyOAqqyuP9eu3U+yaZ2
+X-SG-ID: IWeXHk7O0nbPc/Pt//VegHnHWDEtNMdLV4gNSiDzI0mK3fmDez1ju+s/l+DHv3fGU5YaUA7l3EfGQ4
+ KFliT3KKzDyprbZOG+o4s/LTmA9zo+etaSkTKEwj03tOzk8SsifrdChSge3W+Zo2MDLWnEEywP9XQv
+ I79XRqjwbksKPEf84UxZFm+g3QxtmJZuU4jrkm4Q9Rn/+FXnEKyqqk/K/rZi94QdV8R2zkzfdclJgE
+ VKHptBoD9t2WK723DdK8uK
+
+------=_0_386917e3-842a-4133-b64b-7a946c86434e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pursue your passions <http://www.pursueiwu.com/?h=3D12f76deea2aa794a6d22f9b=
+91d5853d35df8d17f> at Illinois Wesleyan.
+
+
+
+
+Begin Your Pursuit
+Confirm your mailing address, and we'll send you more info plus a FREE T--s=
+hirt.
+Click Here! <http://www.pursueiwu.com/?h=3D12f76deea2aa794a6d22f9b91d5853d3=
+5df8d17f>
+
+
+
+
+
+Illinois Wesleyan offers you value and affordability
+Did you know that more than 95% of our students receive some form of schola=
+rship assistance to help with the cost of a high quality education? We put =
+an Illinois Wesleyan education within reach of families at all income level=
+s.
+
+In fact, our high quality combined with our affordability has led Kiplinger=
+'s to name Illinois Wesleyan a "Best Value" and Washington Monthly to name =
+us a "Best Bang for the Buck." And it's an investment that pays a lifetime =
+of rewards.
+
+
+Learn more about IWU now at PursueIWU.com <http://www.pursueiwu.com/?h=3D12=
+f76deea2aa794a6d22f9b91d5853d35df8d17f>
+
+Or text* PURSUE to 55678 and enter your password:
+IW058009113
+Once we hear from you, we'll mail you a free IWU T-shirt, plus more informa=
+tion about how you can find and pursue your passions at Illinois Wesleyan.
+*standard charges apply
+
+We received your contact information from a national student testing or res=
+earch organization.
+
+Illinois Wesleyan University
+P.O. Box 2900
+Bloomington, IL 61702-9965
+
+This message was intended for: markiewicz.john@gmail.com <mailto:%%TO_EMAIL=
+%%>
+
+
+
+
+This email was sent to markiewicz.john@gmail.com by Illinois Wesleyan Unive=
+rsity.
+Unsubscribe from Illinois Wesleyan University. <https://admissions.iwu.edu/=
+go?r=3Doptout&mid=3Dddc68c4b-6ccd-4009-8979-b55889b6b6bb>=
+
+------=_0_386917e3-842a-4133-b64b-7a946c86434e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"content-type" />=
+<meta content=3D"text/html; charset=3Dus-ascii" http-equiv=3D"Content-Type"=
+ xmlns:v=3D"urn:schemas-microsoft-com:vml" /><meta content=3D"target-densit=
+ydpi=3Ddevice-dpi, width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewp=
+ort" xmlns:v=3D"urn:schemas-microsoft-com:vml" /><style type=3D"text/css" x=
+mlns:v=3D"urn:schemas-microsoft-com:vml">
+/**/
+        @media screen and (max-device-width: 480px), screen and (max-width:=
+ 480px) {
+                table[class=3Dcontent-wrap], td[class=3Dcontent-wrap] {widt=
+h: 100% !important; padding:0px !important;}
+                table[class=3Dw100p], td[class=3Dw100p] {width: 100% !impor=
+tant; min-width: 0px !important;}
+                img[class=3Dw100p] {width: 100% !important; height: auto !i=
+mportant; min-width: 0px !important;}
+                table[class=3DsingleColumn], td[class=3DsingleColumn] {widt=
+h:100% !important; display: block !important;}
+                td[class=3DmobileTshirt] {width: 100% !important; height: 1=
+30px !important; background-image: url(https://admissions.iwu.edu/www/image=
+s/15-IWU-JR-T-Shirt-Mobile-239x168.jpg); background-position: top center; b=
+ackground-repeat: no-repeat; -webkit-background-size: 236px 130px; backgrou=
+nd-size: 236px 130px;}
+                div[class=3DmobileLogo] {display: block !important; width: =
+100% !important; height: 92px !important; max-height: 92px !important; back=
+ground-image: url('https://admissions.iwu.edu/www/images/header_logo_320x92=
+.png'); background-position: center; background-repeat: no-repeat; -webkit-=
+background-size: 320px 92px; background-size: 320px 92px;}
+                td[class=3DmobileHeader] {width: 100% !important; height: 9=
+5px !important; background-color: #056834;}
+                td[class=3Dfooter] {width: 100% !important; height: 30px !i=
+mportant; background-color: #056834;}
+                td[class=3Dh2] {font-size: 26px !important; line-height: 30=
+px !important;}
+                td[class=3Dh3] {font-size: 19px !important; line-height: 24=
+px !important;}
+                td[class=3DnoPadding] {padding: 0px !important;}
+                td[class=3DctaHeader] {text-align: center !important;}
+                td[class=3DctaCopy] {text-align: center !important; font-si=
+ze: 16px !important;}
+                td[class=3DpaddingTop15] {padding-top: 15px !important;}
+                td[class=3Dtext17px] {font-size: 17px !important; line-heig=
+ht: 21px !important;}
+            table[class=3DmobileHide], td[class=3DmobileHide], img[class=3D=
+mobileHide] {display:none !important; visibility: hidden !important; width:=
+0px !important; height: 0px !important; max-height: 0px !important; overflo=
+w: hidden !important; line-height: 0px !important; font-size: 0px !importan=
+t; margin: 0px !important; padding:0px !important; mso-hide:all !important;}
+        }
+        @media screen and (max-device-width: 340px), screen and (max-width:=
+ 340px) {
+                div[class=3DmobileLogo] {-webkit-background-size: 300px 86p=
+x; background-size: 300px 86px;}
+        }
+
+                html {-webkit-font-smoothing: antialiased;}
+                body{width:100% !important; margin:0; padding:0; background=
+-color: #b79c57; font-family: Arial,Verdana,sans-serif; -webkit-font-smooth=
+ing: antialiased; -webkit-text-size-adjust: none; -ms-text-size-adjust: non=
+e; mso-line-height-rule: exactly;}
+                .ReadMsgBody{width:100%;}
+                .ExternalClass{width:100%;}
+                .ExternalClass * {line-height: 100%;}
+                .ExternalClass span, .ExternalClass td, .ExternalClass p {l=
+ine-height: 100%; mso-line-height-rule: exactly;}
+                img{-ms-interpolation-mode: bicubic; border: none; outline:=
+ none;}
+                a img {border: none; text-decoration: none;}
+        table[class=3Dwrap] {width:100% !important; margin:0; padding:0; ba=
+ckground-color: #b79c57; text-align: center;}
+        table[class=3Dcontent-wrap] {text-align:left; width:620px; max-widt=
+h: 620px; background-color: #eee9df;}
+        table, td {border-collapse: collapse; mso-table-lspace: 0pt; mso-ta=
+ble-rspace: 0pt; mso-line-height-rule: exactly;}
+        a:visited, a:active, a:link, a:hover {text-decoration:underline; co=
+lor:#056834;}
+        p {margin: 0; padding: 0;}
+        span[class=3DappleLinkGreen] a {text-decoration:none; color:#056834=
+;}
+        div[class=3DmobileLogo] {display:none; width:0px; height: 0px; max-=
+height: 0px; margin: 0px; padding:0px;}
+/**/
+</style>
+</head>
+<body bgcolor=3D"#B79C57" leftmargin=3D"0" marginheight=3D"0" marginwidth=
+=3D"0" style=3D"width:100% !important; margin:0; padding:0; background-colo=
+r: #b79c57; font-family: Arial,Verdana,sans-serif; -webkit-font-smoothing: =
+antialiased; -webkit-text-size-adjust: none; -ms-text-size-adjust: none; ms=
+o-line-height-rule: exactly;" topmargin=3D"0"><style>@media only screen and=
+ (max-width: 660px) { .deliver_unsubscribe { width: 100%; } }</style><font =
+face=3D"Times New Roman, Times, serif" size=3D"3"><div style=3D"font-family=
+: Times New Roman, Times, serif; font-size: 12pt;"><center xmlns:v=3D"urn:s=
+chemas-microsoft-com:vml"><table bgcolor=3D"#B79C57" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"wrap" style=3D"width:100% !important; m=
+argin:0; padding:0; background-color: #b79c57; text-align: center;"><tbody>=
+<tr><td align=3D"center" valign=3D"top"><table align=3D"center" bgcolor=3D"=
+#B79C57" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"content-=
+wrap" style=3D"text-align:left; width:620px; max-width: 620px; background-c=
+olor: #eee9df;" width=3D"620"><tbody><tr><td bgcolor=3D"#B79C57" class=3D"n=
+oPadding" style=3D"padding:10px;" valign=3D"top"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"mobileHide" width=3D"600"><tbody><tr=
+><td align=3D"left" style=3D"font-size:12px; font-family:Helvetica,arial,sa=
+ns-serif; color:#056834; padding-bottom:5px;" valign=3D"top"><strong><a hre=
+f=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx2T0g=
+SyboBZniQWxqBz-2Fy5ss3pBABUESjRS35bfwQSD2M-2FWEa-2FOu6yd2sFvg-2BvhkxXPQTXuD=
+S4B0vA6rKVnxVdg-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWglx=
+dlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3=
+mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9uaOjl31H5ndrEuo3XC7=
+D4w7WFb1XDh7eJIBEuJ-2BIgPl1RLVCNYRbFgQpiC9O4UDY2UtFp5nOQYWD-2FpTifDtVcf4NZU=
+RwtpebZtHX6pqFV-2BHQ9hq8vfQtl5FQaR7O-2Fj177RWqEaBmBNjT63CT-2Bzw0omPSrUacB1l=
+LyD4ciD3l9-2Fa91JA5SD9O4n6mMCPNFVD-2B0gCzbUcjgHAfRbifgvFcHhPBgyHTdJsnU8-2FM=
+4X-2F5wLVjo1JUd-2FqDVEa7b2fjuuDpu7JmyYbL3KcmEpB714IMrF8e2khp69lKIN3cQRHwShg=
+-3D-3D" style=3D"text-decoration:underline; color:#056834;">Pursue your pas=
+sions</a> at Illinois Wesleyan.</strong></td><td align=3D"right" style=3D"f=
+ont-size:12px; font-family:Helvetica,arial,sans-serif; color:#056834; paddi=
+ng-bottom:5px;" valign=3D"bottom">&nbsp;</td></tr></tbody></table><table bg=
+color=3D"#EEE9DF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"w100p" style=3D"min-width: 600px;" width=3D"600"><tbody><tr><td align=3D"l=
+eft" class=3D"mobileHeader" valign=3D"top"><div class=3D"mobileLogo">&nbsp;=
+</div><img alt=3D"Illinois Wesleyan University" class=3D"mobileHide" style=
+=3D"width: 600px; min-width: 600px; display: block; border-width: 0px; bord=
+er-style: solid; margin: 0px; height: 150px;" height=3D"150" width=3D"600" =
+src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwK=
+igz_j51_PPOQOU6TR8UVU3Ml0R_6nL-L42lCIAORZSBJyzz8UUAgJ_85k3bNHwK3lkCNZqeqt6Z=
+4CIAGM_Gqf0aWPGm2EFh-zGL6S2zqfgfCqnFSLwI" /></td></tr><tr><td align=3D"left=
+" class=3D"paddingTop15" style=3D"padding: 0px 10px 20px 20px;" valign=3D"t=
+op"><table align=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"singleColumn" width=3D"40%"><tbody><tr><td align=3D"center" class=
+=3D"mobileTshirt" valign=3D"top"><img alt=3D"IWU T-Shirt" class=3D"mobileHi=
+de" style=3D"font-size: 16px; font-family: Helvetica, arial, sans-serif; fo=
+nt-weight: bold; color: rgb(5, 104, 52); display: block; border-width: 0px;=
+ border-style: solid; margin: 0px; width: 236px; height: 97px;" height=3D"9=
+7" width=3D"236" src=3D"https://d2y48w7m6jzhpb.cloudfront.net/fw/eu/-bgWTcF=
+616sU-i5vVrdHNwwKigz_j51_PPOQOU6TR8UVU3Ml0R_6nL-L42lCIAORZSBJyzz8UUAgJ_85k3=
+bNH7w7s5mnFldOUF7gCzx8n4LJV1BB-OZu7VaenNj9MHb6aOR1bChKXec" /></td></tr><tr>=
+<td align=3D"right" bgcolor=3D"#D1C096" height=3D"2" style=3D"font-size:2px=
+; line-height:2px;" valign=3D"top">&nbsp;</td></tr><tr><td align=3D"left" v=
+align=3D"top"><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"><tbody><tr><td align=3D"left" class=3D"ctaHeader" style=3D"font-s=
+ize:23px; line-height:28px; font-family:Palatino,times,serif; color:#056834=
+; padding-left:15px; padding-right:10px; padding-bottom:5px; padding-top:15=
+px;">Begin Your Pursuit</td></tr><tr><td align=3D"left" class=3D"ctaCopy" s=
+tyle=3D"font-size:14px; line-height:18px; font-family:Helvetica,arial,sans-=
+serif; color:#000001; padding-left:15px; padding-right:10px; padding-bottom=
+:15px;">Confirm your mailing address, and we&#8217;ll send you more info pl=
+us a <span style=3D"white-space:nowrap;"><strong>FREE T&#8211;shirt</strong=
+></span>.</td></tr></tbody></table><table align=3D"center" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td align=3D"cen=
+ter" valign=3D"top"><table align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"165"><tbody><tr><td align=3D"center" background=
+=3D"img/cta_background.jpg" bgcolor=3D"#024C25" style=3D"background-repeat:=
+no-repeat;" width=3D"165"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"><tbody><tr><td style=3D"font-size:24px; line-height:24px; font-famil=
+y:Palatino,times,serif; color:#eaeaea; padding-top:8px; padding-bottom:5px;=
+"><a href=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDu=
+lOpx2T0gSyboBZniQWxqBz-2Fy5ss3pBABUESjRS35bfwQSD2M-2FWEa-2FOu6yd2sFvg-2Bvhk=
+xXPQTXuDS4B0vA6rKVnxVdg-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m=
+6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79=
+lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9uaOjl31H5nd=
+rEuo3XC7D4w7WFb1XDh7eJIBEuJ-2BIgPl1RLVCNYRbFgQpiC9O4UDY2UtFp5nOQYWD-2FpTifD=
+tVcf4NZURwtpebZtHX6pqFV-2BHQ9hq8vfQtl5FQaR7O-2Fj15fnUcPOWLnBhhO8ShG3Wgq1T-2=
+Bcp7v25wxQ9paVWy9PRvGplUgu4vwPe050COfZ4uwsn57SKaBB0DSqtx080-2B3Dmx-2BboUpOe=
+OwIsjUsHv8b1kGs2KhbJPmCjFVQLs88222NSjiLl35zL-2FZAKtEPInSdJPXAVOxE4lSg3jn9KH=
+BdkQ-3D-3D" style=3D"text-decoration:none; color:#eaeaea;">Click Here!</a><=
+/td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td height=
+=3D"15" style=3D"font-size:15px; line-height:15px;">&nbsp;</td></tr></tbody=
+></table></td></tr><tr><td align=3D"right" bgcolor=3D"#D1C096" height=3D"2"=
+ style=3D"font-size:2px; line-height:2px;" valign=3D"top">&nbsp;</td></tr><=
+/tbody></table><table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"singleColumn" width=3D"55%"><tbody><tr><td align=3D"lef=
+t" class=3D"h2" style=3D"padding-top: 25px; font-size:27px; line-height:31p=
+x; font-family:Palatino,times,serif; color:#056834; padding-bottom: 15px;" =
+valign=3D"top"><strong>Illinois Wesleyan offers you value <i>and</i> afford=
+ability</strong></td></tr><tr><td align=3D"left" class=3D"h3" style=3D"font=
+-size:21px; line-height:26px; font-family:Palatino,times,serif; color:#0568=
+34;" valign=3D"top"><strong>Did you know that more than 95% of our students=
+ receive some form of scholarship assistance to help with the cost of a hig=
+h quality education? We put an Illinois Wesleyan education within reach of =
+families at all income levels.</strong></td></tr></tbody></table></td></tr>=
+<tr><td align=3D"left" class=3D"text17px" style=3D"font-size:15px; line-hei=
+ght:19px; font-family:Helvetica,arial,sans-serif; color:#000001; padding-le=
+ft:20px; padding-right:20px; padding-bottom:25px;" valign=3D"top">In fact, =
+our high quality combined with our affordability has led <i>Kiplinger&#8217=
+;s</i> to name Illinois Wesleyan a &#8220;Best Value&#8221; and <i>Washingt=
+on Monthly</i> to name us a &#8220;Best Bang for the Buck.&#8221; And it&#8=
+217;s an investment that pays a lifetime of rewards.</td></tr><tr><td align=
+=3D"center" style=3D"padding: 0px 10px 10px 10px;" valign=3D"top"><table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-collapse:col=
+lapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" width=3D"100%"><tbody><=
+tr><td align=3D"center" bgcolor=3D"#D1C096" height=3D"2" style=3D"font-size=
+: 2px; line-height: 2px; background-color:#d1c096;" valign=3D"top">&nbsp;</=
+td></tr></tbody></table></td></tr><tr><td align=3D"left" class=3D"h3" style=
+=3D"font-size:19px; line-height:22px; font-family:Palatino,times,serif; col=
+or:#056834; padding-top:15px; padding-left:20px; padding-right:20px; paddin=
+g-bottom:15px;" valign=3D"top"><strong><i>Learn more about IWU now at <a hr=
+ef=3D"http://mx.technolutions.net/wf/click?upn=3DFgQ-2Fn6YekwlwAzpDulOpx2T0=
+gSyboBZniQWxqBz-2Fy5ss3pBABUESjRS35bfwQSD2M-2FWEa-2FOu6yd2sFvg-2BvhkxXPQTXu=
+DS4B0vA6rKVnxVdg-3D_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjsWgl=
+xdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc=
+3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9uaOjl31H5ndrEuo3XC=
+7D4w7WFb1XDh7eJIBEuJ-2BIgPl1RLVCNYRbFgQpiC9O4UDY2UtFp5nOQYWD-2FpTifDtVcf4NZ=
+URwtpebZtHX6pqFV-2BHQ9hq8vfQtl5FQaR7O-2Fj17td1O6uNS4UeJvmSlmzNh1IHKJLsXKrgz=
+S3CAJKOuNn9ZyVr6bAE7utDJN3oKjnSQ2pLAS5qNX-2BaH933FD-2F2dOVMTvLhwNWeGkcoH-2B=
+Ct5qw8TJdtIkD04IUkuTYXXse8CVSf4636PqSKEdGL5fbzLKLXTb6DG-2BYA0STMzHHP5yzg-3D=
+-3D" style=3D"text-decoration:underline; color:#056834;">PursueIWU.com</a><=
+br /><br />
+Or text* PURSUE to 55678 and enter your password:<br />
+IW058009113</i></strong></td></tr><tr><td align=3D"left" class=3D"text17px"=
+ style=3D"font-size:15px; line-height:19px; font-family:Helvetica,arial,san=
+s-serif; color:#000001; padding-left:20px; padding-right:20px; padding-bott=
+om:20px;" valign=3D"top">Once we hear from you, we&#8217;ll mail you a free=
+ IWU T-shirt, plus more information about how you can find and pursue your =
+passions at Illinois Wesleyan.</td></tr><tr><td align=3D"left" style=3D"fon=
+t-size:13px; line-height:15px; font-family:Palatino,times,serif; color:#000=
+001; padding-left:20px; padding-right:20px; padding-bottom:15px;" valign=3D=
+"top"><i>*standard charges apply</i></td></tr><tr><td align=3D"left" class=
+=3D"footer" valign=3D"top"><img alt=3D"IWU" class=3D"mobileHide" style=3D"d=
+isplay: block; border-width: 0px; border-style: solid; margin: 0px; width: =
+600px; height: 41px;" height=3D"41" width=3D"600" src=3D"https://d2y48w7m6j=
+zhpb.cloudfront.net/fw/eu/-bgWTcF616sU-i5vVrdHNwwKigz_j51_PPOQOU6TR8UVU3Ml0=
+R_6nL-L42lCIAORZSBJyzz8UUDEztZ-afNLvve93kjOiUFziZSchWe2dtZN1wvFEJSBkQ" /></=
+td></tr></tbody></table></td></tr><tr><td align=3D"left" bgcolor=3D"#B79C57=
+" style=3D"font-size:12px; line-height:16px; font-family:Helvetica,Arial,sa=
+ns-serif; color:#056834; padding-top: 10px; padding-bottom:8px; padding-rig=
+ht:15px; padding-left:15px;" valign=3D"top"><strong>We received your contac=
+t information from a national student testing or research organization.<br =
+/><br />
+Illinois Wesleyan University<br /><span class=3D"appleLinkGreen">P.O. Box 2=
+900<br />
+Bloomington, IL 61702-9965</span><br /><br />
+This message was intended for: <a href=3D"mailto:%%TO_EMAIL%%" style=3D"tex=
+t-decoration:underline; color:#056834;">markiewicz.john@gmail.com</a></stro=
+ng><br />
+&nbsp;</td></tr><tr><td bgcolor=3D"#B79C57" height=3D"40" style=3D"font-siz=
+e:1px; line-height:40px;">&nbsp;</td></tr></tbody></table></td></tr></tbody=
+></table></center></div></font><br /><table align=3D"center" bgcolor=3D"#fa=
+fafa" class=3D"deliver_unsubscribe" style=3D"opacity: 0.75; clear: both; ma=
+rgin: 25px auto;" cellpadding=3D"5" cellspacing=3D"0" width=3D"650"><tr><td=
+ align=3D"center"><font color=3D"#333333" face=3D"Arial, Helvetica, sans-se=
+rif" size=3D"1"><span style=3D"font-size: 11px;">This email was sent to mar=
+kiewicz.john@gmail.com by Illinois Wesleyan University.<br /><a href=3D"htt=
+p://mx.technolutions.net/wf/click?upn=3D7aqtGo87cYwSxRwFLjEf1g6PVyapaphaS8o=
+dAzdwMvwmxDmVkFH8oEp7IgxsokZ2y2gVsaae-2FH-2BWWK4IzvW6zkeGoAHhKq5gU7KbH9cIPU=
+pAU1ZUTBd4itVvp1CUoLs2_fl-2FMBkJMX7HXblz8UUSYqUr8-2B1DpcT9um4siHluMTS3m6jjs=
+WglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwrJKrLFpICcA5gBdYQ7mmMms-2F79lMeJ=
+yZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-2F4gXxDF5MCR7mH9uaOjl31H5ndrEuo=
+3XC7D4w7WFb1XDh7eJIBEuJ-2BIgPl1RLVCNYRbFgQpiC9O4UDY2UtFp5nOQYWD-2FpTifDtVcf=
+4NZURwtpebZtHX6pqFV-2BHQ9hq8vfQtl5FQaR7O-2Fj15IK5zqZTAK1Nh7mxQ0QkzXyNfRrjcl=
+t0XT-2F-2F68HEaR8PC6ACjlMsdRC3XSI6Ce-2B3VzkFJZU1GIp82ptNreMVBefqjzhmlQeiAVj=
+3VQT8BfEOpvPEhBbWWLyMOJEYld5A9MU1jzz0uIM1XvfqF9rM7Xb69S-2B6RAsU1H6Wh9m-2F6q=
+MQ-3D-3D">Unsubscribe</a> from Illinois Wesleyan University.</span></font><=
+/td></tr></table>
+
+<img src=3D"http://mx.technolutions.net/wf/open?upn=3Dfl-2FMBkJMX7HXblz8UUS=
+YqUr8-2B1DpcT9um4siHluMTS3m6jjsWglxdlC2zwkFi-2Fr6VTjG9fG6-2BvZ-2B0Kg4PCFXwr=
+JKrLFpICcA5gBdYQ7mmMms-2F79lMeJyZc3mHUwxfcomThVTaYuqmEvqKnnsZN-2FMG7dL4dMa-=
+2F4gXxDF5MCR7mH9uaOjl31H5ndrEuo3XC7D4w7WFb1XDh7eJIBEuJ-2BIgPl1RLVCNYRbFgQpi=
+C9O4UDY2UtFp5nOQYWD-2FpTifDtVcf4NZURwtpebZtHX6pqFV-2BHQ9hq8vfQtl5FQaR7O-2Fj=
+16RWnOYDI51zHqFRXvUUaqP7ysAvc41iyQdPrYDrZGj58Eh0fPWiX7b-2FIh-2F-2BlX3chG6dj=
+OyhRpnsnN3VO2YUCms2XKs1AUvD2sNgAQ-2FYeeroGE8TYeC-2Fdd0QzbUyxGUOV2XHGiQ8is7m=
+XgU9wbrVMZCjQZ7FV5WptWv2plYs86PNsXVLYRgVW1DtzO8e6V-2FgFM-3D" alt=3D"" width=
+=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !=
+important;border-width:0 !important;margin-top:0 !important;margin-bottom:0=
+ !important;margin-right:0 !important;margin-left:0 !important;padding-top:=
+0 !important;padding-bottom:0 !important;padding-right:0 !important;padding=
+-left:0 !important;"/>
+</body>
+
+</html>
+
+
+------=_0_386917e3-842a-4133-b64b-7a946c86434e--

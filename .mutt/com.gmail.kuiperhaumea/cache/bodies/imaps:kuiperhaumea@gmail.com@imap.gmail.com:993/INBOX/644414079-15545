@@ -1,0 +1,163 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.31.182.136 with SMTP id g130csp1880387vkf;
+        Sun, 6 Dec 2015 18:02:02 -0800 (PST)
+X-Received: by 10.194.79.72 with SMTP id h8mr33260243wjx.136.1449453722293;
+        Sun, 06 Dec 2015 18:02:02 -0800 (PST)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wm0-f48.google.com (mail-wm0-f48.google.com. [74.125.82.48])
+        by mx.google.com with ESMTPS id t83si20808071wmg.99.2015.12.06.18.02.02
+        for <kuiperhaumea@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 06 Dec 2015 18:02:02 -0800 (PST)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.48 as permitted sender) client-ip=74.125.82.48;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 74.125.82.48 as permitted sender) smtp.mailfrom=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dmarc=fail (p=NONE dis=NONE) header.from=sfly.com
+Received: by mail-wm0-f48.google.com with SMTP id u63so122031325wmu.0
+        for <kuiperhaumea@gmail.com>; Sun, 06 Dec 2015 18:02:02 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-original-authentication-results:delivered-to:from:sender:to
+         :reply-to:subject:date:mime-version:content-type
+         :content-transfer-encoding:message-id;
+        bh=YbmMN1FqwCtCLPu8Pi5DWVmSTiksFpxxySm/rRIDUjU=;
+        b=U4DMa5uU+N3eIz4Zurj1kuvuV9YpCMgoOInF9Fu3u6ratFkzfKymPcP1s0KQIUdB/V
+         xjmlyWo1u+8EOh15CCCaQq/p8z4UrlbN4PTBwfhdU0OQkd1xSQdqvBMSvDReYeteIUv7
+         r9DLtBmeGGoXcwgun7tcZ4DBzkTPj3TvC4dpuSIYK+jALByZLjQI7fQisMnaCvmqKpWa
+         oL/1XOrTmr+x3XqmrNqW99JqPhD+6OE/5qmZlL6XOAkclmOpuHsTW4onspbtqasSwVVx
+         VS6p1/X7/mOWmcwQQFCBKu0q7QXWTbMmkDcOv4/SKXilPVHOgyE/p1uEXyofjVN7HwWR
+         Q8Tw==
+X-Original-Authentication-Results: mx.google.com;       spf=pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) smtp.mailfrom=noreply@sfly.com;       dmarc=pass (p=NONE dis=NONE) header.from=sfly.com
+X-Received: by 10.194.63.142 with SMTP id g14mr29844410wjs.161.1449453722089;
+        Sun, 06 Dec 2015 18:02:02 -0800 (PST)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.4.210 with SMTP id 201csp1932228wme;
+        Sun, 6 Dec 2015 18:02:01 -0800 (PST)
+X-Received: by 10.98.74.9 with SMTP id x9mr39482475pfa.139.1449453721301;
+        Sun, 06 Dec 2015 18:02:01 -0800 (PST)
+Return-Path: <noreply@sfly.com>
+Received: from shutterfly.com (mail11.shutterfly.com. [136.179.236.38])
+        by mx.google.com with ESMTP id 2si38724490pft.66.2015.12.06.18.02.01
+        for <markiewicz.john@gmail.com>;
+        Sun, 06 Dec 2015 18:02:01 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@sfly.com designates 136.179.236.38 as permitted sender) client-ip=136.179.236.38;
+Received: from mail.sfly.com (unknown [172.18.128.135])
+	by shutterfly.com (Postfix) with ESMTP id B0F552C070C
+	for <markiewicz.john@gmail.com>; Sun,  6 Dec 2015 18:02:00 -0800 (PST)
+Received: from mail pickup service by mail.sfly.com with Microsoft SMTPSVC;
+	 Sun, 6 Dec 2015 18:00:35 -0800
+From: "Bishop Watterson Fall Drama" <noreply@sfly.com>
+Sender: <mail@sfly.com>
+To: "John M" <markiewicz.john@gmail.com>
+Reply-To: "Gina DeMarco" <gdemarco@cdeducation.org>
+Subject: "Senior Night" is coming up
+Date: Sun, 06 Dec 2015 18:00:32 -0800
+X-Sfly-AttachmentSize: 0
+X-Mailer: Sfly
+X-Sfly-IsPartial: False
+X-Sfly-Kind: CalendarReminder
+X-Sfly-Site: bishopwattersonfalldrama
+MIME-Version: 1.0
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <SHA19ekVgKMy5KINzq6000c9553@mail.sfly.com>
+X-OriginalArrivalTime: 07 Dec 2015 02:00:35.0174 (UTC) FILETIME=[0FAC7060:01D13093]
+
+<html>
+<head>
+</head>
+<body>
+<div class=3D"email-body" style=3D"font: 13px verdana,arial,geneva,sans=
+-serif; color: #666666; line-height: 140%;"><table style=3D"width: 100%=
+; border-bottom: 1px solid #181512; ">
+<tr valign=3D"bottom">
+<td style=3D"padding-bottom: 12px; white-space: nowrap;">
+<div style=3D"color: #DC4405; font-family: normal 20px arial.geneva,san=
+s-serif">
+Upcoming Event from &ldquo;Bishop Watterson Fall Drama&rdquo; Site
+</div>
+</td>
+<td align=3D"right" style=3D"padding-bottom: 4px; white-space: nowrap;"=
+>
+<img border=3D"0" width=3D"125" height=3D"42" src=3D"http://cdn.statics=
+fly.com/shr/images/email/sfly=5Flogo=5F125x42.png"  alt=3D"Shutterfly l=
+ogo" align=3D"bottom" />
+</td>
+</tr>
+</table>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+Hi John M,
+</div>
+
+ 
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+"<a href=3D"http://bishopwattersonfalldrama.shutterfly.com/22#%3aemid%3=
+dsite=5Fcalendarreminder%26cid%3dSHARE3SXXXX">Senior Night</a>" is comi=
+ng up on Friday, December 11, 2015. 
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+Here are the event details:
+<table><tr><td valign=3D"top" align=3D"right"  style=3D"font: 13px verd=
+ana,arial,geneva,sans-serif; color: #666666; " ><b>Date/Time:</b> </td>=
+<td valign=3D"top" style=3D"font: 13px verdana,arial,geneva,sans-serif;=
+ color: #666666; ">Friday, December 11, 2015, 9 PM to 9:30 PM</td></tr>=
+<tr><td valign=3D"top" align=3D"right"  style=3D"font: 13px verdana,ari=
+al,geneva,sans-serif; color: #666666; " ><b>Notes:</b> </td><td valign=3D=
+"top" style=3D"font: 13px verdana,arial,geneva,sans-serif; color: #6666=
+66; ">We will be honoring our seniors after the show on closing night.=20=
+&nbsp;If you are a senior, be sure to let your family know=21</td></tr>=
+</table>
+</div>
+
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+<a style=3D"border: 0; text-decoration:none;" link=3D"View site" href=3D=
+"http://bishopwattersonfalldrama.shutterfly.com/#%3aemid%3dsite=5Fcalen=
+darreminder%26cid%3dSHARE3SXXXX"><img src=3D"http://cdn.staticsfly.com/=
+shr/images/email/view-site.png" alt=3D"View site"   border=3D"0" /></a>=
+
+</div>
+
+<div style=3D"height: 20px; line-height: 20px;">&nbsp;</div>
+<div>
+From,<br />
+Bishop Watterson Fall Drama
+</div>
+
+<div style=3D"height: 25px; line-height: 25px;">&nbsp;</div>
+<div style=3D"font-size: 10px; line-height: 120%;">
+This message was sent to markiewicz.john@gmail.com because you are on t=
+he list of Bishop Watterson Fall Drama site members.  All times are for=
+ the time zone (GMT-05:00) Eastern Time.
+Because Shutterfly values your privacy, if you do not want to receive e=
+vent reminders from the Bishop Watterson Fall Drama site, you can quick=
+ly and easily change your reminder setting to <a href=3D"mailto:bishopw=
+attersonfalldrama-unsubscribereminder@sfly.com?subject=3DDisable%20remi=
+nders&body=3DDisable%20reminders">disabled</a>.
+If you feel you have received this email in error, please notify us: <a=
+ href=3D"http://site.shutterfly.com/commands/email/spam?m=3D[MailId]">R=
+eport Abuse</a>.
+</div><img alt=3D"" src=3D"https://os.shutterfly.com/b/ss/sflyemailprod=
+/1/H.15/111?pageName=3Deventreminder&v0=3DSHARE3SMAIL" width=3D"1" heig=
+ht=3D"1" border=3D"0" /></div>
+<style>
+=2Eemail-body p {margin: 5px 0;}
+</style></div>
+    </body>
+</html>
+

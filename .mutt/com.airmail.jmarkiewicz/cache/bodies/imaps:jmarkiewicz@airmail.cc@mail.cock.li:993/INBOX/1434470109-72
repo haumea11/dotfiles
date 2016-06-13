@@ -1,0 +1,79 @@
+Return-Path: <pete.markiewicz@gmail.com>
+X-Original-To: jmarkiewicz@airmail.cc
+Delivered-To: jmarkiewicz@airmail.cc
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=date:subject:message-id:importance:from:to:mime-version
+         :content-type;
+        bh=+LP43m5kmWKq8gKrTAPlcVT95z7IZO2m3LeVkE0vPuU=;
+        b=0fFTgRaJTt+sEtl8Ia+lKPjOuOyr6JaxY/P9gDWl320BVuSs1RxCUCKeK8lsX3CCBV
+         JNq9cbwnP2gwDI+dkxoe4wgv6knepuBDDgUTjqZM7nszihLohDPJ5MuymlJhp5AeC5Om
+         BzAA/CWpdXrakLQyYSPhONEk43VGarK/r5NVyXVi70wZF6RXWnBP7iofkQlSN9/ekmrN
+         HS0JvtxVuUdMCRKN6P5RexI5OFdTLRJhAjTF0g7gYrT2MHq8xlhL3+BdUH1PlcNg+4sf
+         Gfb1/nrBDU3J82wQIgojHSfVZYMtWLWzqlpZPYOCacEGApRtY/XDTEbNOX3lIttsn046
+         h8EA==
+X-Received: by 10.107.148.135 with SMTP id w129mr16422562iod.52.1438496788115;
+        Sat, 01 Aug 2015 23:26:28 -0700 (PDT)
+Date: Sun, 02 Aug 2015 02:26:22 -0400
+Subject: RE: On the Coke Infographic
+Message-ID: <vf8v8hudf5eebcpnis9t2k6n.1438496782791@email.android.com>
+Importance: normal
+From: pete markiewicz <pete.markiewicz@gmail.com>
+To: John Markiewicz <jmarkiewicz@airmail.cc>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_2990090872814710"
+
+----_com.android.email_2990090872814710
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+TmljZSwgaXQgZGlkIHN0cmlrZSBtZSBhcyBleHRyZW1lLCB3aGljaCBpcyB3aHkgaSBzZW50IGl0
+IChoYWQgaXQgYmVlbiB0cnVlLCB0aGUgaW1wbGljYXRpb24gaXMgbmVhcmx5ICJpbGxlZ2FsaXpl
+IHRoaXMgaGFybWZ1bCBzdWJzdGFuY2UsIGl0IGlzIGFnYWluc3QgdGhlIHB1YmxpYyBnb29kLiIp
+LiDCoEkgc2hvdWxkIHByb2JhYmx5IG5ldmVyIGJlbGlldmUgYW55dGhpbmcuCgpJJ20gZ2xhZCBp
+dCdzIG5vdCBxdWl0ZSBzbyBiYWQuIMKgVGhvdWdoIGhhcmRseSBzb21ldGhpbmcgdGhhdCBzaG91
+bGQgYmUgZnJlcXVlbnRseSBjb25zdW1lZCwgYXQgbGVhc3QgaXQncyBub3QgbGlrZSBzb21lIGRl
+YXRoIHNlbnRlbmNlLiDCoEJlY2F1c2UsIHNob290LCBJJ3ZlIGhhZCBxdWl0ZSBhIGJpdCBvZiBp
+dC4KCgpTZW50IGZyb20gbXkgVC1Nb2JpbGUgNEcgTFRFIERldmljZQoKPGRpdj4tLS0tLS0tLSBP
+cmlnaW5hbCBtZXNzYWdlIC0tLS0tLS0tPC9kaXY+PGRpdj5Gcm9tOiBKb2huIE1hcmtpZXdpY3og
+PGptYXJraWV3aWN6QGFpcm1haWwuY2M+IDwvZGl2PjxkaXY+RGF0ZTowOC8wMS8yMDE1ICA5OjE2
+IFBNICAoR01ULTA1OjAwKSA8L2Rpdj48ZGl2PlRvOiBwZXRlLm1hcmtpZXdpY3pAZ21haWwuY29t
+IDwvZGl2PjxkaXY+Q2M6ICA8L2Rpdj48ZGl2PlN1YmplY3Q6IE9uIHRoZSBDb2tlIEluZm9ncmFw
+aGljIDwvZGl2PjxkaXY+CjwvZGl2Pmh0dHA6Ly93d3cuYnV6emZlZWQuY29tL2Nhcm9seW5reWxz
+dHJhL2hlcmVzLXdoYXRzLXdyb25nLXdpdGgtdGhhdC12aXJhbC1jb2NhLWNvbGEtZ3JhcGhpYyMu
+cG02enFxeDIxCgpJIGhhdGUgYnV6emZlZWQsIGJ1dCB0aGUgY29rZSBpbmZvZ3JhcGhpYyBpcyBz
+aW1wbHkgd3Jvbmcgb24gYSBoYW5kZnVsIG9mCmxldmVscy4KCi0tIApCZXN0IFdpc2hlcywKSm9o
+biBNYXJraWV3aWN6CkRBNzUgQjc0RCAxMTQ0IEMyMzEgM0Y0NyAgCjhENDkgQkQ1NiBCREUzIDY3
+RkUgNDRCRQo=
+
+----_com.android.email_2990090872814710
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keSA+PGRpdj5OaWNlLCBpdCBkaWQgc3Ry
+aWtlIG1lIGFzIGV4dHJlbWUsIHdoaWNoIGlzIHdoeSBpIHNlbnQgaXQgKGhhZCBpdCBiZWVuIHRy
+dWUsIHRoZSBpbXBsaWNhdGlvbiBpcyBuZWFybHkgImlsbGVnYWxpemUgdGhpcyBoYXJtZnVsIHN1
+YnN0YW5jZSwgaXQgaXMgYWdhaW5zdCB0aGUgcHVibGljIGdvb2QuIikuICZuYnNwO0kgc2hvdWxk
+IHByb2JhYmx5IG5ldmVyIGJlbGlldmUgYW55dGhpbmcuPC9kaXY+PGRpdj48YnI+PC9kaXY+PGRp
+dj5JJ20gZ2xhZCBpdCdzIG5vdCBxdWl0ZSBzbyBiYWQuICZuYnNwO1Rob3VnaCBoYXJkbHkgc29t
+ZXRoaW5nIHRoYXQgc2hvdWxkIGJlIGZyZXF1ZW50bHkgY29uc3VtZWQsIGF0IGxlYXN0IGl0J3Mg
+bm90IGxpa2Ugc29tZSBkZWF0aCBzZW50ZW5jZS4gJm5ic3A7QmVjYXVzZSwgc2hvb3QsIEkndmUg
+aGFkIHF1aXRlIGEgYml0IG9mIGl0LjwvZGl2PjxkaXY+PGJyPjwvZGl2PjxkaXY+PGJyPjwvZGl2
+PjxkaXY+PGRpdiBzdHlsZT0iZm9udC1zaXplOjlweDtjb2xvcjojNTc1NzU3Ij5TZW50IGZyb20g
+bXkgVC1Nb2JpbGUgNEcgTFRFIERldmljZTwvZGl2PjwvZGl2Pjxicj48YnI+PGRpdj4tLS0tLS0t
+LSBPcmlnaW5hbCBtZXNzYWdlIC0tLS0tLS0tPC9kaXY+PGRpdj5Gcm9tOiBKb2huIE1hcmtpZXdp
+Y3ogJmx0O2ptYXJraWV3aWN6QGFpcm1haWwuY2MmZ3Q7IDwvZGl2PjxkaXY+RGF0ZTowOC8wMS8y
+MDE1ICA5OjE2IFBNICAoR01ULTA1OjAwKSA8L2Rpdj48ZGl2PlRvOiBwZXRlLm1hcmtpZXdpY3pA
+Z21haWwuY29tIDwvZGl2PjxkaXY+Q2M6ICA8L2Rpdj48ZGl2PlN1YmplY3Q6IE9uIHRoZSBDb2tl
+IEluZm9ncmFwaGljIDwvZGl2PjxkaXY+PGJyPjwvZGl2Pmh0dHA6Ly93d3cuYnV6emZlZWQuY29t
+L2Nhcm9seW5reWxzdHJhL2hlcmVzLXdoYXRzLXdyb25nLXdpdGgtdGhhdC12aXJhbC1jb2NhLWNv
+bGEtZ3JhcGhpYyMucG02enFxeDIxPGJyPjxicj5JIGhhdGUgYnV6emZlZWQsIGJ1dCB0aGUgY29r
+ZSBpbmZvZ3JhcGhpYyBpcyBzaW1wbHkgd3Jvbmcgb24gYSBoYW5kZnVsIG9mPGJyPmxldmVscy48
+YnI+PGJyPi0tIDxicj5CZXN0IFdpc2hlcyw8YnI+Sm9obiBNYXJraWV3aWN6PGJyPkRBNzUgQjc0
+RCAxMTQ0IEMyMzEgM0Y0NyZuYnNwOyA8YnI+OEQ0OSBCRDU2IEJERTMgNjdGRSA0NEJFPGJyPjwv
+Ym9keT4=
+
+----_com.android.email_2990090872814710--
+
+

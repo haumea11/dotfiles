@@ -1,0 +1,86 @@
+Delivered-To: kuiperhaumea@gmail.com
+Received: by 10.202.203.66 with SMTP id b63csp1215345oig;
+        Thu, 6 Aug 2015 09:33:29 -0700 (PDT)
+X-Received: by 10.180.108.35 with SMTP id hh3mr7517689wib.48.1438878808427;
+        Thu, 06 Aug 2015 09:33:28 -0700 (PDT)
+Return-Path: <markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com>
+Received: from mail-wi0-x234.google.com (mail-wi0-x234.google.com. [2a00:1450:400c:c05::234])
+        by mx.google.com with ESMTPS id w15si4525175wie.113.2015.08.06.09.33.26
+        for <kuiperhaumea@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 06 Aug 2015 09:33:28 -0700 (PDT)
+Received-SPF: pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) client-ip=2a00:1450:400c:c05::234;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com designates 2a00:1450:400c:c05::234 as permitted sender) smtp.mail=markiewicz.john+caf_=kuiperhaumea=gmail.com@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wi0-x234.google.com with SMTP id xm9so27913525wib.1
+        for <kuiperhaumea@gmail.com>; Thu, 06 Aug 2015 09:33:26 -0700 (PDT)
+X-Received: by 10.180.19.65 with SMTP id c1mr7702475wie.15.1438878806612;
+        Thu, 06 Aug 2015 09:33:26 -0700 (PDT)
+X-Forwarded-To: kuiperhaumea@gmail.com
+X-Forwarded-For: markiewicz.john@gmail.com kuiperhaumea@gmail.com
+Delivered-To: markiewicz.john@gmail.com
+Received: by 10.28.39.3 with SMTP id n3csp960296wmn;
+        Thu, 6 Aug 2015 09:33:25 -0700 (PDT)
+X-Received: by 10.50.93.99 with SMTP id ct3mr5172663igb.83.1438878805235;
+        Thu, 06 Aug 2015 09:33:25 -0700 (PDT)
+Return-Path: <thehobbit169@gmail.com>
+Received: from mail-ig0-x230.google.com (mail-ig0-x230.google.com. [2607:f8b0:4001:c05::230])
+        by mx.google.com with ESMTPS id l75si5897246iod.39.2015.08.06.09.33.24
+        for <Markiewicz.john@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 06 Aug 2015 09:33:25 -0700 (PDT)
+Received-SPF: pass (google.com: domain of thehobbit169@gmail.com designates 2607:f8b0:4001:c05::230 as permitted sender) client-ip=2607:f8b0:4001:c05::230;
+Received: by mail-ig0-x230.google.com with SMTP id 11so14605697igk.1
+        for <Markiewicz.john@gmail.com>; Thu, 06 Aug 2015 09:33:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=JItVIAtdGom+1Raxs26FNKXqGpDa4bm1hS1tgHFqQz4=;
+        b=YaKEjfFLatKCZkVNrB24qCQTPeYehQp5ICoJbzwoPE+a6TKV0Z6CYiQC58BNyxIONi
+         1knDFk2Jy/yYR+6x+JcgYcMxxwmGfr+5CIWada4DqwfaxaQ4DVi6M5uFJCU5Gy0NxDMB
+         CxP0HV4oJKCm5zpAi1GCrpan7VYp1jGCxt4XnjCyOJTfUKULOYCEAZW9dh/4TeGVqvYK
+         glkvqsBFUPVSQqMxlEmE4C/RhsV5A3P6q6SAn3qwlS3Oj/tD+W4TZ6xSA7gjWE1y5+s8
+         YK6Jl5YtUadRYFcjtTfbl4t3Hgk+CFaLIyMVAXs0krW7cI+RW2uyrowUyhb/uhfS+Xx6
+         RCYA==
+MIME-Version: 1.0
+X-Received: by 10.50.17.9 with SMTP id k9mr5174752igd.93.1438878804574; Thu,
+ 06 Aug 2015 09:33:24 -0700 (PDT)
+Received: by 10.79.81.7 with HTTP; Thu, 6 Aug 2015 09:33:24 -0700 (PDT)
+Date: Thu, 6 Aug 2015 12:33:24 -0400
+Message-ID: <CAJxAr66kw1iNCvfPNDb-PdHwB8WyXgmf8yL1dHK4=n38acodwg@mail.gmail.com>
+Subject: 
+From: Samwise Parkinson <thehobbit169@gmail.com>
+To: Lukador Bernstyle <Markiewicz.john@gmail.com>
+Content-Type: multipart/alternative; boundary=089e01182a34058720051ca714ec
+
+--089e01182a34058720051ca714ec
+Content-Type: text/plain; charset=UTF-8
+
+Hey John. I sent you a text but I'm not sure you got it. I thought I would
+send the same message via email to make sure you get it. I remember
+discussing with you last year your objections to Christianity, and you said
+that one of your biggest ones is the problem of evil. This Saturday my
+church is offering a class that will explain this issue in depth. If you
+are interested in learning more about how this paradox can be resolved or
+in discussing it more this is a great opportunity to do so.  Plus
+afterwards they have all the free pizza you could want (not crappy pizza
+too).  Let me know if you're interested and I'll give you more details.
+
+--089e01182a34058720051ca714ec
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hey John. I sent you a text but I&#39;m not sure you got i=
+t. I thought I would send the same message via email to make sure you get i=
+t. I remember discussing with you last year your objections to Christianity=
+, and you said that one of your biggest ones is the problem of evil. This S=
+aturday my church is offering a class that will explain this issue in depth=
+. If you are interested in learning more about how this paradox can be reso=
+lved or in discussing it more this is a great opportunity to do so.=C2=A0 P=
+lus afterwards they have all the free pizza you could want (not crappy pizz=
+a too).=C2=A0 Let me know if you&#39;re interested and I&#39;ll give you mo=
+re details.<br></div>
+
+--089e01182a34058720051ca714ec--
